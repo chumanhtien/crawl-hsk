@@ -1,0 +1,878 @@
+{
+    "total": 15,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "measure",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄤˋ",
+            "_id": "72e427c8343bd4c4c97b1e494aafd7a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "làm gì đó mấy lần/ chuyến",
+                            "examples": [
+                                77771,
+                                77772,
+                                109283
+                            ],
+                            "struct": "Động từ (去/ 跑/ 走/ 飞）+ Số lượng + 趟"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                77775,
+                                77776
+                            ],
+                            "struct": "这/ 那/ Số lượng + 趟 + 火车/ 飞机/ 轮船/ 长途车/ 大把"
+                        }
+                    ],
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "lần; chuyến (chỉ số lần đi lại, di chuyển đi về của người hoặc phương tiện giao thông)",
+                            "explain": "量词（用于人一去一回的次数或者火车、飞机等交通工具往来的次数）",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã đến Thành đô một lần.",
+                                    "p_vn": "anh ay da den thanh do mot lan.",
+                                    "_id": "2ea5920848b8db1f4df839dbc8d22fd7",
+                                    "id": 37893,
+                                    "type": "e_cnvi",
+                                    "e": "他到成都去了一趟。",
+                                    "p_cn": "ta dao chengdu qu le yitang.",
+                                    "p": "tā dào chéngdū qù le yītàng."
+                                },
+                                {
+                                    "m": "Tối nay vẫn còn một chuyến xe.",
+                                    "p_vn": "toi nay van con mot chuyen xe.",
+                                    "_id": "b652a9d10d8387094e84b65059dd7d0c",
+                                    "id": 37894,
+                                    "type": "e_cnvi",
+                                    "e": "今天夜里还有一趟车。",
+                                    "p_cn": "jintian yeli hai youyi tang che.",
+                                    "p": "jīntiān yèlǐ hái yǒuyī tàng chē."
+                                },
+                                {
+                                    "m": "Anh ấy chạy một lần rồi lại một lần.",
+                                    "p_vn": "anh ay chay mot lan roi lai mot lan.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06c39c",
+                                    "id": 109277,
+                                    "type": "e_cnvi",
+                                    "e": "他跑了一趟又一趟。",
+                                    "p_cn": "ta paole yi tang you yi tang.",
+                                    "p": "tā pǎole yī tàng yòu yī tàng."
+                                },
+                                {
+                                    "m": "Chuyến bay này đến đúng giờ.",
+                                    "p_vn": "chuyen bay nay den dung gio.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06d0d5",
+                                    "id": 109278,
+                                    "type": "e_cnvi",
+                                    "e": "这趟飞机准时到达。",
+                                    "p_cn": "zhe tang feiji zhunshi daoda.",
+                                    "p": "zhè tàng fēijī zhǔnshí dàodá."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dãy; hàng (dùng cho những vật có thể xếp thành dãy, hàng)",
+                            "explain": "量词（用于成行的东西）",
+                            "examples": [
+                                {
+                                    "m": "Một dãy chữ này rất có khí thế.",
+                                    "p_vn": "mot day chu nay rat co khi the.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06d88b",
+                                    "id": 109279,
+                                    "type": "e_cnvi",
+                                    "e": "这一趟字很有气势。",
+                                    "p_cn": "zhe yi tang zi hen you qishi.",
+                                    "p": "zhè yī tàng zì hěn yǒu qìshì."
+                                },
+                                {
+                                    "m": "Hàng cây này mọc rất ngay ngắn.",
+                                    "p_vn": "hang cay nay moc rat ngay ngan.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06dbd1",
+                                    "id": 109280,
+                                    "type": "e_cnvi",
+                                    "e": "这趟树长得很整齐。",
+                                    "p_cn": "zhe tang shu zhang de hen zhengqi.",
+                                    "p": "zhè tàng shù zhǎng dé hěn zhěngqí."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hàng ngũ; đội ngũ",
+                            "explain": "(趟儿) 行进的行列",
+                            "examples": [
+                                {
+                                    "m": "Đội ngũ này rất chỉnh tề.",
+                                    "p_vn": "doi ngu nay rat chinh te.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06e055",
+                                    "id": 109281,
+                                    "type": "e_cnvi",
+                                    "e": "这趟队伍很整齐。",
+                                    "p_cn": "zhe tang duiwu hen zhengqi.",
+                                    "p": "zhè tàng duìwǔ hěn zhěngqí."
+                                },
+                                {
+                                    "m": "Đội ngũ này có khí thế.",
+                                    "p_vn": "doi ngu nay co khi the.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06e338",
+                                    "id": 109282,
+                                    "type": "e_cnvi",
+                                    "e": "此趟队列有气势。",
+                                    "p_cn": "ci tang duilie you qishi.",
+                                    "p": "cǐ tàng duìliè yǒu qìshì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 595,
+                "search": 10690
+            },
+            "snym": {
+                "syno": [
+                    "次",
+                    "遍",
+                    "行",
+                    "条"
+                ]
+            },
+            "lv_hsk_new": "4, 6, 7-9",
+            "pinyin": "tàng",
+            "cn_vi": "thảng.tranh",
+            "word": "趟",
+            "id": 50073,
+            "phonetic": "tang",
+            "rank": 911,
+            "lv_tocfl": 4,
+            "compound": "趟马"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄤˋ",
+            "_id": "306d24cfced4da49b285280fb01f4726",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lội; lội nước",
+                            "explain": "从浅水里走过去",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi lội nước đến hòn đảo nhỏ kia.",
+                                    "p_vn": "chung toi loi nuoc den hon dao nho kia.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c0692b5",
+                                    "id": 109271,
+                                    "type": "e_cnvi",
+                                    "e": "我们趟水去那小岛。",
+                                    "p_cn": "women tang shui qu na xiao dao.",
+                                    "p": "wǒmen tāng shuǐ qù nà xiǎo dǎo."
+                                },
+                                {
+                                    "m": "Anh ta lội qua sông mà không hề sợ hãi.",
+                                    "p_vn": "anh ta loi qua song ma khong he so hai.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c0694e6",
+                                    "id": 109272,
+                                    "type": "e_cnvi",
+                                    "e": "他趟水过河不害怕。",
+                                    "p_cn": "ta tang shuiguo he bu haipa.",
+                                    "p": "tā tāng shuǐguò hé bù hàipà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đi qua; băng qua (đi qua bãi cỏ hoặc nơi không có đường đi)",
+                            "explain": "从草地里或没有路的地方走过去",
+                            "examples": [
+                                {
+                                    "m": "Anh ta băng qua bãi cỏ đó.",
+                                    "p_vn": "anh ta bang qua bai co do.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c0699ee",
+                                    "id": 109273,
+                                    "type": "e_cnvi",
+                                    "e": "他趟过那片草地。",
+                                    "p_cn": "ta tangguo na pian caodi.",
+                                    "p": "tā tāngguò nà piàn cǎodì."
+                                },
+                                {
+                                    "m": "Cô ấy dũng cảm đi qua bụi gai.",
+                                    "p_vn": "co ay dung cam di qua bui gai.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06a9c5",
+                                    "id": 109274,
+                                    "type": "e_cnvi",
+                                    "e": "她勇敢趟过荆棘。",
+                                    "p_cn": "ta yonggan tangguo jingji.",
+                                    "p": "tā yǒnggǎn tāngguò jīngjí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xới đất; cày đất",
+                            "explain": "用犁、耠子等翻地除草",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đang xới đất chuẩn bị gieo hạt.",
+                                    "p_vn": "anh ay dang xoi dat chuan bi gieo hat.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06ad9a",
+                                    "id": 109275,
+                                    "type": "e_cnvi",
+                                    "e": "他正趟地准备播种。",
+                                    "p_cn": "ta zheng tang di zhunbei bozhong.",
+                                    "p": "tā zhèng tāng dì zhǔnbèi bōzhòng."
+                                },
+                                {
+                                    "m": "Con bò giúp cày xong đất.",
+                                    "p_vn": "con bo giup cay xong dat.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06b831",
+                                    "id": 109276,
+                                    "type": "e_cnvi",
+                                    "e": "老牛帮忙趟好了地。",
+                                    "p_cn": "lao niu bangmang tang haole di.",
+                                    "p": "lǎo niú bāngmáng tāng hǎole dì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 595,
+                "search": 10690
+            },
+            "snym": null,
+            "lv_hsk_new": "4, 6, 7-9",
+            "pinyin": "tāng",
+            "cn_vi": "thảng.tranh",
+            "word": "趟",
+            "id": 50074,
+            "phonetic": "tang",
+            "rank": 912,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄢㄊㄤˋ",
+            "_id": "b38d395a8992464cbefa37258088d5b9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một chuyến đi",
+                            "explain": "single trip",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "đơn thảng",
+            "pinyin": "dān tàng",
+            "word": "单趟",
+            "id": 101776,
+            "phonetic": "dantang",
+            "rank": 63170,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8f1981b722ce444b9a19f2af4a698dd5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kịp chuyến",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": {
+                "syno": [
+                    "赶快",
+                    "赶上"
+                ]
+            },
+            "cn_vi": "cản thảng",
+            "pinyin": "gǎn tàng",
+            "popularity": {
+                "notebook": 1,
+                "search": 14
+            },
+            "word": "赶趟",
+            "id": 178866,
+            "phonetic": "gantang",
+            "rank": 92396,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄤㄊㄤˋ",
+            "_id": "2d41a537c4c2b11ca8ed1a06414f72b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nhẵn bóng; nhẵn; nhẵn nhụi; trơn; mượt",
+                            "explain": "光滑;不粗糙",
+                            "examples": [
+                                {
+                                    "m": "chiếu dệt vừa dày vừa nhẵn.",
+                                    "p_vn": "chieu det vua day vua nhan",
+                                    "_id": "e3c64d5794c36ef344e8214100c50749",
+                                    "id": 15288,
+                                    "type": "e_cnvi",
+                                    "e": "席子编得又细密又光趟。",
+                                    "p_cn": "xizi bian de you ximi you guang tang",
+                                    "p": "xízǐ biāndé yòu xìmì yòu guāngtàng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mượt mà",
+                            "explain": "精细光滑",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "quang thảng",
+            "pinyin": "guāng tàng",
+            "word": "光趟",
+            "id": 21284,
+            "phonetic": "guangtang",
+            "rank": 96682,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄤˋㄇㄚˇ",
+            "_id": "2dda3f6d475b441a1fc6429802a1c63f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "động tác phi ngựa (trong hí kịch)",
+                            "explain": "戏曲中表演骑着马走或跑的一套程式动作",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "thảng mã",
+            "pinyin": "tàng mǎ",
+            "word": "趟马",
+            "id": 50075,
+            "phonetic": "tangma",
+            "rank": 57730,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "79fb6d39eada4778824b2240093b7bd2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chuyến này",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Chuyến xe buýt này không dừng dọc đường.",
+                                    "p_vn": "chuyen xe buyt nay khong dung doc duong.",
+                                    "_id": "ab41cdb69a4f4a778d4ea81b6ef15004",
+                                    "id": 77775,
+                                    "type": "e_cnvi",
+                                    "e": "这趟公共汽车中途不停。",
+                                    "p_cn": "zhe tang gonggong qiche zhongtu bu ting.",
+                                    "p": "zhè tàng gōnggòng qìchē zhōngtú bù tíng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nghiện thảng",
+            "pinyin": "zhè tàng",
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "word": "这趟",
+            "id": 175649,
+            "phonetic": "zhetang",
+            "rank": 113422,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "84ffa68e300443549f0787724e992c46",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chuyến",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Sáng mai tôi còn có chút việc, nếu không thì có thể đi một chuyến với anh rồi.",
+                                    "p_vn": "sang mai toi con co chut viec, neu khong thi co the di mot chuyen voi anh roi.",
+                                    "_id": "19dff0a7ef3e5d3a26963d61cd8da1ea",
+                                    "id": 2899,
+                                    "type": "e_cnvi",
+                                    "e": "明天我还有点事儿，不然倒可以陪你去一趟。",
+                                    "p_cn": "mingtian wo hai youdian shir, buran dao keyi pei ni qu yi tang.",
+                                    "p": "míngtiān wǒ hái yǒudiǎn shìr, bùrán dào kěyǐ péi nǐ qù yī tàng."
+                                },
+                                {
+                                    "m": "Nếu làm điều này sớm hơn, chúng ta đã không mất một chuyến đi vô ích.",
+                                    "p_vn": "neu lam dieu nay som hon, chung ta da khong mat mot chuyen di vo ich.",
+                                    "_id": "1afff9ec3f58460e8a4b7341aa62fb1e",
+                                    "id": 77036,
+                                    "type": "e_cnvi",
+                                    "e": "假如早这么做，我们就不会空跑一趟了。",
+                                    "p_cn": "jiaru zao zheme zuo, women jiu bu hui kong pao yi tangle.",
+                                    "p": "jiǎrú zǎo zhème zuò, wǒmen jiù bù huì kōng pǎo yī tàngle."
+                                },
+                                {
+                                    "m": "Nếu tôi nhớ không lầm thì có một chuyến tàu lúc sáu giờ.",
+                                    "p_vn": "neu toi nho khong lam thi co mot chuyen tau luc sau gio.",
+                                    "_id": "2e6c7027fcfc4ce1baa73c3d863b3447",
+                                    "id": 77774,
+                                    "type": "e_cnvi",
+                                    "e": "如果我没记错的话，六点钟有一趟火车。",
+                                    "p_cn": "ruguo wo mei ji cuo dehua, liu dian zhong youyi tang huoche.",
+                                    "p": "rúguǒ wǒ méi jì cuò dehuà, liù diǎn zhōng yǒuyī tàng huǒchē."
+                                },
+                                {
+                                    "m": "đừng cứ như vậy, tốt hơn là anh thử đi một chuyến xem sao.",
+                                    "p_vn": "dung cu nhu vay, tot hon la anh thu di mot chuyen xem sao.",
+                                    "_id": "5031a75fd1d8723d3836590087a6c3be",
+                                    "id": 29498,
+                                    "type": "e_cnvi",
+                                    "e": "别这样那样的了，你还是去一趟的好。",
+                                    "p_cn": "bie zheyang nayang dele, ni haishi qu yi tang de hao.",
+                                    "p": "bié zhèyàng nàyàng dele, nǐ háishi qù yī tàng de hǎo."
+                                },
+                                {
+                                    "m": "Anh đi thay anh ấy một chuyến nhé!",
+                                    "p_vn": "anh di thay anh ay mot chuyen nhe!",
+                                    "_id": "5338cac35a15548fd62d2befa8cb0792",
+                                    "id": 6778,
+                                    "type": "e_cnvi",
+                                    "e": "你代替他去一趟吧!",
+                                    "p_cn": "ni daiti ta qu yi tang ba!",
+                                    "p": "nǐ dàitì tā qù yī tàng ba!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": {
+                "syno": [
+                    "一回"
+                ],
+                "anto": [
+                    "数度",
+                    "数番",
+                    "多次"
+                ]
+            },
+            "cn_vi": "nhất thảng",
+            "pinyin": "yī tàng",
+            "popularity": {
+                "notebook": 60,
+                "search": 623
+            },
+            "word": "一趟",
+            "id": 182522,
+            "phonetic": "yitang",
+            "rank": 13717,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "phrase"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˇㄊㄤˋㄦ˙",
+            "_id": "bed2133b795f36a97866b2e2e9d611a9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "bằng chị bằng em; bằng bạn bằng bè",
+                            "explain": "赶上别人",
+                            "examples": [
+                                {
+                                    "m": "một thằng con trai lớn như vậy mà làm việc chẳng bằng ai.",
+                                    "p_vn": "mot thang con trai lon nhu vay ma lam viec chang bang ai",
+                                    "_id": "840b1e37883ac752249997f4a1bab9b0",
+                                    "id": 8795,
+                                    "type": "e_cnvi",
+                                    "e": "一个大小伙子，干活都不顶趟儿。",
+                                    "p_cn": "yige da xiaohuozi gan huo dou bu ding tang er",
+                                    "p": "yīgè dà xiǎohuǒzi, gàn huó dōu bù dǐng tàng er."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "đỉnh thảng nhi",
+            "pinyin": "dǐng tàng er",
+            "word": "顶趟儿",
+            "id": 13306,
+            "phonetic": "dingtanger",
+            "rank": 140099,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄢˇㄊㄤˋㄦ˙",
+            "_id": "2f72babcb57811f839763290505a54f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kịp; theo kịp; kịp chuyến",
+                            "explain": "赶得上",
+                            "examples": [
+                                {
+                                    "m": "không cần hôm nay phải đi, sáng sớm ngày mai đi cũng kịp.",
+                                    "p_vn": "khong can hom nay phai di sang som ngay mai di cung kip",
+                                    "_id": "ad3cfa08358eacb1f10eebc4015836fd",
+                                    "id": 13040,
+                                    "type": "e_cnvi",
+                                    "e": "不必今天就动身，明天一早儿去也赶趟儿。",
+                                    "p_cn": "bubi jintian jiu dongshen mingtian yizao er qu ye gan tang er",
+                                    "p": "bùbì jīntiān jìu dòngshēn，míngtiān yīzǎo érqù yě gǎntàngér。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 81
+            },
+            "snym": {
+                "syno": [
+                    "来得及",
+                    "赶得及",
+                    "赶得上"
+                ]
+            },
+            "cn_vi": "cản thảng nhi",
+            "pinyin": "gǎn tàng er",
+            "word": "赶趟儿",
+            "id": 18445,
+            "phonetic": "gantanger",
+            "rank": 46339,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄣㄊㄤˋㄦ˙",
+            "_id": "15ffc21c890d6813a254f0d4556cf1c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "theo kịp trình độ chung",
+                            "explain": "赶上一般人的水平",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kịp; còn kịp",
+                            "explain": "来得及",
+                            "examples": [
+                                {
+                                    "m": "Ăn xong cơm tối rồi đi xem phim vẫn còn kịp.",
+                                    "p_vn": "an xong com toi roi di xem phim van con kip.",
+                                    "_id": "944255b0fc2646f5df6f47cd44c0ac9a",
+                                    "id": 13760,
+                                    "type": "e_cnvi",
+                                    "e": "吃完晚饭再去看电影还跟趟儿。",
+                                    "p_cn": "chi wan wanfan zai qu kan dianying hai gen tang er.",
+                                    "p": "chī wán wǎnfàn zài qù kàn diànyǐng hái gēn tàng er."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "cân thảng nhi",
+            "pinyin": "gēn tàng er",
+            "word": "跟趟儿",
+            "id": 19373,
+            "phonetic": "gentanger",
+            "rank": 136885,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄢˇㄧㄊㄤˋ",
+            "_id": "4367d948494f418cdc1135f34ba138b1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đi một chuyến",
+                            "explain": "去一趟",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "chuyển nhất thảng",
+            "pinyin": "zhuǎn yī tàng",
+            "word": "转一趟",
+            "id": 66081,
+            "phonetic": "zhuanyitang",
+            "rank": 129959,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˊㄆㄠˇㄧㄊㄤˋ",
+            "_id": "d89ada36be5a401e973bc47a571b369a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tham gia một cuộc rượt đuổi ngỗng hoang dã",
+                            "explain": "to go on a wild-goose chase",
+                            "examples": [
+                                {
+                                    "m": "Đi một chuyến vô ích, thật uổng công!",
+                                    "p_vn": "di mot chuyen vo ich, that uong cong!",
+                                    "_id": "8b88beddede787d205afd6a3e4f858d6",
+                                    "id": 47389,
+                                    "type": "e_cnvi",
+                                    "e": "白跑一趟，真冤!",
+                                    "p_cn": "bai pao yi tang, zhen yuan!",
+                                    "p": "bái pǎo yī tàng, zhēn yuān!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đi làm việc vặt mà không có gì",
+                            "explain": "to go on an errand for nothing",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 355
+            },
+            "snym": {
+                "syno": [
+                    "无功而返"
+                ],
+                "anto": [
+                    "满载而归"
+                ]
+            },
+            "cn_vi": "bạch bào nhất thảng",
+            "pinyin": "bái pǎo yī tàng",
+            "word": "白跑一趟",
+            "id": 135284,
+            "phonetic": "baipaoyitang",
+            "rank": 19888,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄢˇㄅㄨˋㄕㄤˋㄊㄤˋ",
+            "_id": "1a145a4017dd2a758711bb9a7eaf48c5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "không kịp; rớt lại phía sau",
+                            "explain": "落在后面",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lỡ; mất (dịp, cơ hội); lỡ dịp; mất công này được công kia",
+                            "explain": "错过",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 39
+            },
+            "snym": null,
+            "cn_vi": "cản bất thượng thảng",
+            "pinyin": "gǎnbushàng tàng",
+            "word": "赶不上趟",
+            "id": 18411,
+            "phonetic": "ganbushangtang",
+            "rank": 64346,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄨㄥㄆㄠˇㄧㄊㄤˋ",
+            "_id": "f7c167bf055c47f9bc0ce75788d09244",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "để thực hiện một cuộc hành trình không có gì",
+                            "explain": "to make a journey for nothing",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "không bào nhất thảng",
+            "pinyin": "kōng pǎo yī tàng",
+            "word": "空跑一趟",
+            "id": 137873,
+            "phonetic": "kongpaoyitang",
+            "rank": 73047,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "趟"
+}

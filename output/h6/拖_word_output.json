@@ -1,0 +1,2384 @@
+{
+    "total": 114,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛ",
+            "_id": "ad7142a49e72fd2985d6d1f71867a6c7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Kéo/lôi cái gì đó",
+                            "examples": [
+                                96841,
+                                96842
+                            ],
+                            "struct": "拖 + Tân ngữ"
+                        },
+                        {
+                            "explain": "Kéo/lôi đi đâu",
+                            "examples": [
+                                96843,
+                                96844
+                            ],
+                            "struct": "拖 + 走/出去/回来"
+                        },
+                        {
+                            "explain": "Kéo dài thời gian/ngày/âm",
+                            "examples": [
+                                96845,
+                                96846
+                            ],
+                            "struct": "拖 + 时间/日子/音"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo; dắt; lôi",
+                            "explain": "拉着物体使挨着地面或另一物体的表面移动",
+                            "examples": [
+                                {
+                                    "m": "Đầu xe lửa kéo theo mười hai toa.",
+                                    "p_vn": "dau xe lua keo theo muoi hai toa.",
+                                    "_id": "b82988239d54521e35dcab8f25f9a615",
+                                    "id": 39925,
+                                    "type": "e_cnvi",
+                                    "e": "火车头拖着十二个车皮。",
+                                    "p_cn": "huochetou tuozhe shi'er ge chepi.",
+                                    "p": "huǒchētóu tuōzhe shí'èr gè chēpí."
+                                },
+                                {
+                                    "m": "Anh ta kéo đi kéo lại cái bàn.",
+                                    "p_vn": "anh ta keo di keo lai cai ban.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9dacccf",
+                                    "id": 96814,
+                                    "type": "e_cnvi",
+                                    "e": "他把桌子拖来拖去。",
+                                    "p_cn": "ta ba zhuozi tuo lai tuo qu.",
+                                    "p": "tā bǎ zhuōzi tuō lái tuō qù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "buông thõng",
+                            "explain": "在身体后面拉着；下垂",
+                            "examples": [
+                                {
+                                    "m": "Con mèo buông thõng cái đuôi.",
+                                    "p_vn": "con meo buong thong cai duoi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9daf839",
+                                    "id": 96819,
+                                    "type": "e_cnvi",
+                                    "e": "小猫拖着一个尾巴。",
+                                    "p_cn": "xiao mao tuozhe yige weiba.",
+                                    "p": "xiǎo māo tuōzhe yīgè wěibā."
+                                },
+                                {
+                                    "m": "Cô gá kia buông mái tóc dài.",
+                                    "p_vn": "co ga kia buong mai toc dai.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9db0177",
+                                    "id": 96820,
+                                    "type": "e_cnvi",
+                                    "e": "那个姑娘拖着长发。",
+                                    "p_cn": "nage guniang tuozhe zhang fa.",
+                                    "p": "nàgè gūniáng tuōzhe zháng fā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kéo dài",
+                            "explain": "应该做的事情总不开始，完不成；某个音拉得很长",
+                            "examples": [
+                                {
+                                    "m": "Việc này kéo dài quá lâu rồi.",
+                                    "p_vn": "viec nay keo dai qua lau roi.",
+                                    "_id": "651f671aca9ea15700d310396b30f497",
+                                    "id": 39928,
+                                    "type": "e_cnvi",
+                                    "e": "这件工作拖得太久了。",
+                                    "p_cn": "zhejian gongzuo tuo de taijiu le.",
+                                    "p": "zhèjiàn gōngzuò tuō dé tàijǐu le."
+                                },
+                                {
+                                    "m": "Bạn đừng có kéo dài thời gian nữa, nhanh lên chút đi.",
+                                    "p_vn": "ban dung co keo dai thoi gian nua, nhanh len chut di.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9db2e4a",
+                                    "id": 96825,
+                                    "type": "e_cnvi",
+                                    "e": "你别拖时间，快一点儿。",
+                                    "p_cn": "ni bie tuo shijian, kuai yidianr.",
+                                    "p": "nǐ bié tuō shíjiān, kuài yīdiǎnr."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lau; chùi",
+                            "explain": "用专门擦地的工具擦地",
+                            "examples": [
+                                {
+                                    "m": "Tôi đang lau nền.",
+                                    "p_vn": "toi dang lau nen.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9dae210",
+                                    "id": 96817,
+                                    "type": "e_cnvi",
+                                    "e": "我正在拖地。",
+                                    "p_cn": "wo zhengzai tuo di.",
+                                    "p": "wǒ zhèngzài tuō dì."
+                                },
+                                {
+                                    "m": "Bạn lau xong sàn chưa?",
+                                    "p_vn": "ban lau xong san chua?",
+                                    "_id": "f2efc94449b26b3e2967bccbc9daf0eb",
+                                    "id": 96818,
+                                    "type": "e_cnvi",
+                                    "e": "你拖完地了吗？",
+                                    "p_cn": "ni tuo wan dile ma?",
+                                    "p": "nǐ tuō wán dìle ma?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cản; cản trở; vướng đường; gây trở ngại",
+                            "explain": "使别人的行动受到限制",
+                            "examples": [
+                                {
+                                    "m": "Bạn phải cản đối thủ lại, không cho bọn họ cướp bóng.",
+                                    "p_vn": "ban phai can doi thu lai, khong cho bon ho cuop bong.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9db57f4",
+                                    "id": 96829,
+                                    "type": "e_cnvi",
+                                    "e": "你要拖住对手，不让他们抢球。",
+                                    "p_cn": "ni yao tuo zhu duishou, bu rang tamen qiang qiu.",
+                                    "p": "nǐ yào tuō zhù duìshǒu, bù ràng tāmen qiǎng qiú."
+                                },
+                                {
+                                    "m": "Xin lỗi, tôi gây trở ngại cho mọi người rồi.",
+                                    "p_vn": "xin loi, toi gay tro ngai cho moi nguoi roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9db5e09",
+                                    "id": 96830,
+                                    "type": "e_cnvi",
+                                    "e": "对不起，我拖大家后腿了。",
+                                    "p_cn": "duibuqi, wo tuo dajia hou tuile.",
+                                    "p": "duìbùqǐ, wǒ tuō dàjiā hòu tuǐle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"拉\" và \"拖\" đều sử dụng lực để di chuyển vật thể, sự khác biệt là \"拖\" phải làm cho vật thể di chuyển so với mặt đất hoặc bề mặt của vật thể khác, trong khi \"拉\" không có giới hạn này.",
+                    "title": "Phân biệt \"拉\" và \"拖\"",
+                    "words": [
+                        "拉",
+                        "拖"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "拽"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "tuō",
+            "cn_vi": "tha.đà",
+            "popularity": {
+                "notebook": 273,
+                "search": 5166
+            },
+            "word": "拖",
+            "id": 52063,
+            "phonetic": "tuo",
+            "rank": 2316,
+            "lv_tocfl": 4,
+            "compound": "拖把 ; 拖驳 ; 拖布 ; 拖车 ; 拖船 ; 拖带 ; 拖宕 ; 拖斗 ; 拖粪 ; 拖后腿 ; 拖拉 ; 拖拉机 ; 拖累 ; 拖轮 ; 拖泥带水 ; 拖欠 ; 拖腔 ; 拖沓 ; 拖堂 ; 拖网 ; 拖鞋 ; 拖延 ; 拖曳"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄊㄨㄛㄊㄚˋㄊㄚˋ",
+            "_id": "3d671bf239c7468eae6c87cd1395291d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "kéo chân của một người",
+                            "explain": "dragging one's feet",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lề mà lề mề",
+                            "explain": "形容做事拖拉",
+                            "examples": []
+                        },
+                        {
+                            "mean": "rề rề",
+                            "explain": "把时间延长, 不迅速办理",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 34
+            },
+            "snym": {
+                "syno": [
+                    "拖拖拉拉"
+                ],
+                "anto": [
+                    "干脆利索"
+                ]
+            },
+            "cn_vi": "tha tha đạp đạp",
+            "pinyin": "tuō tuōdá dá",
+            "word": "拖拖沓沓",
+            "id": 130260,
+            "phonetic": "tuotuodada",
+            "rank": 67977,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄊㄨㄛㄗㄞˋㄊㄨㄛ",
+            "_id": "8cd88ce53d3246c8bf94172fdf3d8238",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Trì hoãn; hoãn lại; trì hoãn hết lần này tới lần khác; trì trì hoãn hoãn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bạn cứ trì trì hoãn hoãn, hoãn tới lúc nào đây.\nBên các ông trì hoãn hết lần này tới lần khác, thật sự là có thành ý hợp tác sao.",
+                                    "p_vn": "ban cu tri tri hoan hoan, hoan toi luc nao day.\nben cac ong tri hoan het lan nay toi lan khac, that su la co thanh y hop tac sao.",
+                                    "_id": "9a147cb57a7849138ce46220992be5a7",
+                                    "id": 68481,
+                                    "type": "e_cnvi",
+                                    "e": "你一拖再拖拖大什么时候啊.\n你们一拖再拖，真的有合作的诚意吗？",
+                                    "p_cn": "ni yi tuo zai tuo tuo da shenme shihou a.\nnimen yi tuo zai tuo, zhen de you hezuo de chengyi ma?",
+                                    "p": "Nǐ yī tuō zài tuō tuō dà shénme shíhòu a.\nNǐmen yī tuō zài tuō, zhēn de yǒu hézuò de chéngyì ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 61
+            },
+            "snym": null,
+            "cn_vi": "nhất tha tái tha",
+            "pinyin": "yī tuō zài tuō",
+            "word": "一拖再拖",
+            "id": 154181,
+            "phonetic": "yituozaituo",
+            "rank": 52956,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄊㄨㄛㄌㄚㄌㄚ",
+            "_id": "a5ea9cd009de47be8e9c871f6c1850c0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Dây dưa; không rõ ràng",
+                            "explain": "作谓语、宾语、定语；指人办事",
+                            "examples": [
+                                {
+                                    "m": "Sự dây dưa không rõ ràng sớm muộn cũng sẽ khiến anh ấy đau khổ.",
+                                    "p_vn": "Su day dua khong ro rang som muon cung se khien anh ay dau kho.",
+                                    "_id": "4a3820706cda48c49ee2b5ad702f5073",
+                                    "id": 55918,
+                                    "type": "e_cnvi",
+                                    "e": "拖拖拉拉的坏毛病迟早会让他吃苦头",
+                                    "p_cn": "Tuo tuola la de huai maobing chizao hui rang ta chiku tou",
+                                    "p": "Tuō tuōlā lā de huài máobìng chízǎo huì ràng tā chīkǔ tóu"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giềnh giàng; cù nhầy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 52,
+                "search": 442
+            },
+            "snym": {
+                "syno": [
+                    "拖拖沓沓",
+                    "拖泥带水",
+                    "慢慢吞吞",
+                    "磨磨蹭蹭",
+                    "松松垮垮"
+                ],
+                "anto": [
+                    "雷厉风行",
+                    "闻风而动",
+                    "闻风而起"
+                ]
+            },
+            "cn_vi": "tha tha lạp lạp",
+            "pinyin": "tuō tuōlā lā",
+            "word": "拖拖拉拉",
+            "id": 85262,
+            "phonetic": "tuotuolala",
+            "rank": 17253,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄌㄚ",
+            "_id": "80bdd887c854952f5c8f9e3dd9f353bc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "kéo dài; lần lựa; dây dưa; lề mề; lôi thôi, trì hoãn; rà; trậm trầy trậm trật; rà rẫm",
+                            "explain": "办事迟缓，不赶紧完成",
+                            "examples": [
+                                {
+                                    "m": "tác phong lề mề",
+                                    "p_vn": "tac phong le me",
+                                    "_id": "bc19d22db7a572faab9a7c042b2a430d",
+                                    "id": 39934,
+                                    "type": "e_cnvi",
+                                    "e": "拖拉作风",
+                                    "p_cn": "tuola zuofeng",
+                                    "p": "tuōlā zuòfēng"
+                                },
+                                {
+                                    "m": "làm việc dây dưa",
+                                    "p_vn": "lam viec day dua",
+                                    "_id": "b15c755f675a0c70058ea0d11f8f3a97",
+                                    "id": 39935,
+                                    "type": "e_cnvi",
+                                    "e": "办事拖拖拉拉的。",
+                                    "p_cn": "banshi tuo tuola la de",
+                                    "p": "bànshì tuōtuōlālā de。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dàng dênh",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhũng nhẵng",
+                            "explain": "形容做事拖拉; 不爽利",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 91,
+                "search": 810
+            },
+            "snym": {
+                "syno": [
+                    "迁延",
+                    "邋遢",
+                    "延宕",
+                    "拖沓",
+                    "磨蹭",
+                    "疲塌",
+                    "疲沓",
+                    "牵引"
+                ],
+                "anto": [
+                    "俐落",
+                    "爽利",
+                    "利索",
+                    "干脆",
+                    "利落"
+                ]
+            },
+            "cn_vi": "tha lạp",
+            "pinyin": "tuōlā",
+            "word": "拖拉",
+            "id": 52075,
+            "phonetic": "tuola",
+            "rank": 11455,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "69, 70",
+            "zhuyin": "ㄊㄨㄛㄅㄨˋ",
+            "_id": "803fe83629abe31d5e73e13a3f613b0b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây lau nhà; đồ lau nhà",
+                            "explain": "拖把",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 101
+            },
+            "snym": {
+                "syno": [
+                    "拖把"
+                ]
+            },
+            "cn_vi": "tha bố",
+            "pinyin": "tuōbù",
+            "word": "拖布",
+            "id": 52066,
+            "phonetic": "tuobu",
+            "rank": 41259,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄉㄤˋ",
+            "_id": "b9971b5bfe262c35cc0f5a4173f8586e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo dài; lây lất",
+                            "explain": "拖延",
+                            "examples": [
+                                {
+                                    "m": "kéo dài thời gian.",
+                                    "p_vn": "keo dai thoi gian",
+                                    "_id": "0ff20261a211df7a0ccabb77cd767bf9",
+                                    "id": 39933,
+                                    "type": "e_cnvi",
+                                    "e": "拖宕时日",
+                                    "p_cn": "tuo dang shi ri",
+                                    "p": "tuōdàng shírì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lằng nhằng; dai dẳng",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "rề rề",
+                            "explain": "把时间延长, 不迅速办理",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tha đãng",
+            "pinyin": "tuō dàng",
+            "word": "拖宕",
+            "id": 52071,
+            "phonetic": "tuodang",
+            "rank": 117288,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄓㄤˇ",
+            "_id": "f60b7318cd614b97a42dcf2b7b453295",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo ra",
+                            "explain": "to drag out",
+                            "examples": [
+                                {
+                                    "m": "anh ấy cúi đầu, kéo dài giọng, chậm rãi đọc từng câu từng chữ.",
+                                    "p_vn": "anh ay cui dau keo dai giong cham rai doc tung cau tung chu",
+                                    "_id": "9cac0048ec9be1b56e5ef1761f56d2aa",
+                                    "id": 28107,
+                                    "type": "e_cnvi",
+                                    "e": "他低下头， 拖长了声音， 一字一句慢腾腾地念着。",
+                                    "p_cn": "ta dixia tou tuo chang le shengyin yi zi yiju man tengteng de nianzhe",
+                                    "p": "tā dīxià tou, tuō cháng le shēngyīn, yī zì yījù màn téngténg de niànzhe."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Để kéo dài",
+                            "explain": "to lengthen",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lay nhay",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 48
+            },
+            "snym": null,
+            "cn_vi": "tha trưởng",
+            "pinyin": "tuō cháng",
+            "word": "拖长",
+            "id": 107778,
+            "phonetic": "tuochang",
+            "rank": 58680,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄓㄞˋ",
+            "_id": "1745d81202af4af6ace1950fcc4f5204",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vỡ nợ",
+                            "explain": "to default on a debt",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "tha trái",
+            "pinyin": "tuō zhài",
+            "word": "拖债",
+            "id": 103098,
+            "phonetic": "tuozhai",
+            "rank": 69402,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄑㄧㄤ",
+            "_id": "32ef9167a45af2b835f659775c94a692",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ngân; ngân nga (hát)",
+                            "explain": "指戏曲演出时唱某一个字的音拖长",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 65
+            },
+            "snym": null,
+            "cn_vi": "tha khang",
+            "pinyin": "tuōqiāng",
+            "word": "拖腔",
+            "id": 52081,
+            "phonetic": "tuoqiang",
+            "rank": 51340,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄅㄛˊ",
+            "_id": "4f1813088bcb44a8c18473975bc079cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xà lan",
+                            "explain": "由拖轮或汽艇牵引的驳船",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "tha bác",
+            "pinyin": "tuō bó",
+            "word": "拖驳",
+            "id": 52065,
+            "phonetic": "tuobo",
+            "rank": 110950,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄉㄞˋ",
+            "_id": "3baa091b4fa9f7439a250dfd06d341e1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lôi; kéo; dắt",
+                            "explain": "牵引",
+                            "examples": [
+                                {
+                                    "m": "những chiếc xe này không những trọng tải lớn, mà kéo đi cũng dễ, chắc chắn an toàn.",
+                                    "p_vn": "nhung chiec xe nay khong nhung trong tai lon ma keo di cung de chac chan an toan",
+                                    "_id": "afcc2e02714ac2a07e5a3ac173556251",
+                                    "id": 39931,
+                                    "type": "e_cnvi",
+                                    "e": "这些车辆不仅载重量大，而且拖带灵活，平稳安全。",
+                                    "p_cn": "zhexie cheliang bujin zai zhongliang da erqie tuodai linghuo pingwen anquan",
+                                    "p": "zhèxiē chēliàng bùjǐn zàizhòngliàng dà，érqiě tuōdài línghuó，píngwěn ānquán。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "liên luỵ; dính líu; dính dáng",
+                            "explain": "牵连;牵累",
+                            "examples": [
+                                {
+                                    "m": "bị con cái làm liên luỵ",
+                                    "p_vn": "bi con cai lam lien luy",
+                                    "_id": "930e2ef79128371f100227e05cd31921",
+                                    "id": 39932,
+                                    "type": "e_cnvi",
+                                    "e": "受到儿女的拖带。",
+                                    "p_cn": "shoudao ernu de tuodai",
+                                    "p": "shòudào érnǚ de tuōdài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "tha đới",
+            "pinyin": "tuōdài",
+            "word": "拖带",
+            "id": 52070,
+            "phonetic": "tuodai",
+            "rank": 66941,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄇㄢˋ",
+            "_id": "c24a1fbd805c4c37b027b74add3653be",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm chậm lại",
+                            "explain": "to retard",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để làm chậm lại",
+                            "explain": "to slow sth down",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "tha mạn",
+            "pinyin": "tuō màn",
+            "word": "拖慢",
+            "id": 96881,
+            "phonetic": "tuoman",
+            "rank": 83148,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄐㄧㄣˋ",
+            "_id": "6557e8b7d5994b4ba0ee8fb147a34cc5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo vào",
+                            "explain": "to drag in",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "tha tiến",
+            "pinyin": "tuōjìn",
+            "word": "拖进",
+            "id": 96884,
+            "phonetic": "tuojin",
+            "rank": 91374,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b905fa333df84fb6a4820f49d6f375e3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dép",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "lương tha",
+            "pinyin": "liáng tuō",
+            "word": "凉拖",
+            "id": 165421,
+            "phonetic": "liangtuo",
+            "rank": 58059,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄌㄧㄢˋ",
+            "_id": "f65fc200c1754b5d9a9b18c1a7ba9115",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giá đỡ cáp (dùng để bảo vệ cáp và ống mềm gắn vào máy)",
+                            "explain": "cable carrier (used to protect cables and hoses attached to a machine)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dây xích kéo",
+                            "explain": "tow chain",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "tha liên",
+            "pinyin": "tuō liàn",
+            "word": "拖链",
+            "id": 103103,
+            "phonetic": "tuolian",
+            "rank": 67126,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "shuāng, zhī",
+                "examples": "",
+                "measure": "双, 只"
+            },
+            "topic": "13, 23",
+            "zhuyin": "ㄊㄨㄛㄒㄧㄝˊ",
+            "_id": "98376570d148865c9129f1fbfe76df99",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dép; dép lê",
+                            "explain": "后半截没有鞋帮的鞋一般在室内穿",
+                            "examples": [
+                                {
+                                    "m": "Dép lê của cô ấy màu đỏ.",
+                                    "p_vn": "dep le cua co ay mau do.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cbbb39a",
+                                    "id": 135986,
+                                    "type": "e_cnvi",
+                                    "e": "她的拖鞋是红色的。",
+                                    "p_cn": "ta de tuoxie shi hongse de.",
+                                    "p": "tā de tuōxié shì hóngsè de."
+                                },
+                                {
+                                    "m": "Tôi rất thích đi dép lê.",
+                                    "p_vn": "toi rat thich di dep le.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cbbb9c7",
+                                    "id": 135987,
+                                    "type": "e_cnvi",
+                                    "e": "我很喜欢穿拖鞋。",
+                                    "p_cn": "wo hen xihuan chuan tuoxie.",
+                                    "p": "wǒ hěn xǐhuan chuān tuōxié."
+                                },
+                                {
+                                    "m": "Vui lòng để dép lê ngoài cửa.",
+                                    "p_vn": "vui long de dep le ngoai cua.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cbbc909",
+                                    "id": 135988,
+                                    "type": "e_cnvi",
+                                    "e": "请把拖鞋放在门口。",
+                                    "p_cn": "qing ba tuoxie fang zai menkou.",
+                                    "p": "qǐng bǎ tuōxié fàng zài ménkǒu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 313,
+                "search": 3412
+            },
+            "snym": {
+                "syno": [
+                    "凉鞋",
+                    "鞋子"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "tuōxié",
+            "cn_vi": "tha hài",
+            "word": "拖鞋",
+            "id": 52084,
+            "phonetic": "tuoxie",
+            "rank": 3509,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄍㄨㄚˋ",
+            "_id": "4f95801d528444549d1e1781e8850048",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để kéo",
+                            "explain": "to pull; to tow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "tha quải",
+            "pinyin": "tuō guà",
+            "word": "拖挂",
+            "id": 96882,
+            "phonetic": "tuogua",
+            "rank": 110947,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄔㄨㄢˊ",
+            "_id": "731bc778cf48b2e73238accf4c68222d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo; dắt (tàu)",
+                            "explain": "拖轮",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tàu kéo; thuyền kéo",
+                            "explain": "拖轮所牵引的木船",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "tha thuyền",
+            "pinyin": "tuōchuán",
+            "word": "拖船",
+            "id": 52068,
+            "phonetic": "tuochuan",
+            "rank": 84343,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄊㄡˊ",
+            "_id": "1169b9358923c8788cd1564586a99463",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Đầu kéo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "tha đầu",
+            "pinyin": "tuō tóu",
+            "word": "拖头",
+            "id": 81941,
+            "phonetic": "tuotou",
+            "rank": 80226,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄇㄛˊ",
+            "_id": "11978f372f9142079a364bf50fde7fdb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dâm đãng",
+                            "explain": "dawdling",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để lãng phí thời gian",
+                            "explain": "to waste time",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "tha ma",
+            "pinyin": "tuō mó",
+            "word": "拖磨",
+            "id": 91525,
+            "phonetic": "tuomo",
+            "rank": 110347,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0bbf017e3b0b4f679d4e1dc77035991a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Chuyên chở bằng xe tải",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "tha vận",
+            "pinyin": "tuō yùn",
+            "word": "拖运",
+            "id": 166440,
+            "phonetic": "tuoyun",
+            "rank": 98939,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄌㄟˋ",
+            "_id": "e290fb5a709544fcf79fc82b8c555609",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "liên luỵ; dính dáng; dính líu; ảnh hưởng",
+                            "explain": "成为别人的负担; 使别人受到影响",
+                            "examples": [
+                                {
+                                    "m": "không thể vì tôi mà liên luỵ đến bạn bè người thân.",
+                                    "p_vn": "khong the vi toi ma lien luy den ban be nguoi than.",
+                                    "_id": "bd6113da10bf70538080196cc89a319a",
+                                    "id": 39937,
+                                    "type": "e_cnvi",
+                                    "e": "不能因为我而拖累亲友。",
+                                    "p_cn": "buneng yinwei wo er tuolei qinyou。",
+                                    "p": "bùnéng yīnwèi wǒ ér tuōlèi qīnyǒu。"
+                                },
+                                {
+                                    "m": "Anh ấy không muốn liên lụy tới người nhà.",
+                                    "p_vn": "anh áy khong muón lien lụy tói nguòi nhà.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3fa0ae8",
+                                    "id": 92046,
+                                    "type": "e_cnvi",
+                                    "e": "他不想拖累家人。",
+                                    "p_cn": "ta buxiang tuo lei  jiaren.",
+                                    "p": "tā bùxiǎng tuō lěi  jiārén."
+                                },
+                                {
+                                    "m": "Đừng để tình cảm ảnh hưởng tới công việc của cậu.",
+                                    "p_vn": "dùng dẻ tình cảm ảnh huỏng tói cong viẹc của cạu.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3fb26ac",
+                                    "id": 92076,
+                                    "type": "e_cnvi",
+                                    "e": "不要让情绪拖累你的工作。",
+                                    "p_cn": "buyao rang qingxu tuo lei ni de gongzuo.",
+                                    "p": "bùyào ràng qíngxù tuō lěi nǐ de gōngzuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 131,
+                "search": 974
+            },
+            "snym": {
+                "syno": [
+                    "牵累",
+                    "牵连",
+                    "遭殃",
+                    "累赘",
+                    "带累",
+                    "株连",
+                    "连累",
+                    "挂累"
+                ],
+                "anto": [
+                    "轻松"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "tuō lěi",
+            "cn_vi": "đà luỵ",
+            "word": "拖累",
+            "id": 52077,
+            "phonetic": "tuolei",
+            "rank": 10042,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄊㄨㄛ",
+            "_id": "faa05398df3d455fbeeb3199f941275f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Hạt Butuo ở tỉnh tự trị Liangshan Yi 涼山彞 族自治州 | 凉山 ​​彝族自治州 , nam Tứ Xuyên",
+                            "explain": "Butuo county in Liangshan Yi autonomous prefecture 涼山彞族自治州|凉山彝族自治州 [Liáng shān Yi2 zú zì zhì zhōu], south Sichuan",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "bố tha",
+            "pinyin": "bù tuō",
+            "word": "布拖",
+            "id": 91176,
+            "phonetic": "butuo",
+            "rank": 150823,
+            "kind": [
+                "nlocal",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e53e0b4556c046599520ff1ba0c7319e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo giải cứu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tha cứu",
+            "pinyin": "tuō jiù",
+            "word": "拖救",
+            "id": 167450,
+            "phonetic": "tuojiu",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "60",
+            "zhuyin": "ㄊㄨㄛㄈㄤˋ",
+            "_id": "5d458900237d4553be8c6d92e1669e6a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo và thả (điện toán)",
+                            "explain": "drag-and-drop (computing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "tha phóng",
+            "pinyin": "tuō fàng",
+            "word": "拖放",
+            "id": 103101,
+            "phonetic": "tuofang",
+            "rank": 108944,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "40",
+            "zhuyin": "ㄊㄨㄛㄨㄤˇ",
+            "_id": "7bac2f9dce96623dca7069f150c9e7f0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lưới kéo; lưới vét",
+                            "explain": "鱼网的一种，形状像袋子，使用时抛在海底，用一只或两只渔船拖曳，兜捕底层鱼虾，如鳗鱼、小黄鱼、对虾等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tha võng",
+            "pinyin": "tuōwǎng",
+            "word": "拖网",
+            "id": 52083,
+            "phonetic": "tuowang",
+            "rank": 132376,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄔㄜ",
+            "_id": "3b038975626431efd1f67900250d1695",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xe kéo; xe rơ-moóc; xe quệt",
+                            "explain": "被牵引车拉着走的车辆，通常指汽车、电车等所牵引的车辆",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 31,
+                "search": 260
+            },
+            "snym": null,
+            "cn_vi": "tha xa",
+            "pinyin": "tuōchē",
+            "word": "拖车",
+            "id": 52067,
+            "phonetic": "tuoche",
+            "rank": 24224,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄧㄝˋ",
+            "_id": "327c17432e7c4639b8674d6e94509e32",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo",
+                            "explain": "to drag",
+                            "examples": [
+                                {
+                                    "m": "Những chiếc xe được sử dụng để kéo là khác nhau.",
+                                    "p_vn": "Nhung chiec xe duoc su dung de keo la khac nhau.",
+                                    "_id": "207a58c4aec84ad9b7d9c3a65092ce2a",
+                                    "id": 63968,
+                                    "type": "e_cnvi",
+                                    "e": "用于拖拽的是两辆不同的车",
+                                    "p_cn": "yongyu tuoye de shi liangliang butong de che",
+                                    "p": "yòngyú tuōyè de shì liǎngliàng bùtóng de chē"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vận chuyển",
+                            "explain": "to haul",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để kéo",
+                            "explain": "to pull",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 85
+            },
+            "snym": null,
+            "cn_vi": "tha duệ",
+            "pinyin": "tuō zhuāi",
+            "word": "拖拽",
+            "id": 91523,
+            "phonetic": "tuozhuai",
+            "rank": 45012,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄗㄡˇ",
+            "_id": "83f5af4d27f6479f9bc25a2a27ea6b7e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo đi",
+                            "explain": "to drag away",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 56
+            },
+            "snym": null,
+            "cn_vi": "tha tẩu",
+            "pinyin": "tuō zǒu",
+            "word": "拖走",
+            "id": 96883,
+            "phonetic": "tuozou",
+            "rank": 54852,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄧㄢˊ",
+            "_id": "cf39daa14a259e0398b42138b5678dff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo dài; lần lựa; trì hoãn; dây dưa; cò cưa; lề mề",
+                            "explain": "把时间延长，不迅速办理",
+                            "examples": [
+                                {
+                                    "m": "kéo dài thời gian; kéo dài ngày giờ",
+                                    "p_vn": "keo dai thoi gian; keo dai ngay gio",
+                                    "_id": "884953de02f288e01b4fa374a685728b",
+                                    "id": 39940,
+                                    "type": "e_cnvi",
+                                    "e": "拖延时日",
+                                    "p_cn": "tuoyan shi ri",
+                                    "p": "tuōyán shírì"
+                                },
+                                {
+                                    "m": "sắp đến kỳ hạn, không thể kéo dài nữa.",
+                                    "p_vn": "sap den ky han khong the keo dai nua",
+                                    "_id": "07cfb8104db844f7da50812ed84d66f4",
+                                    "id": 39941,
+                                    "type": "e_cnvi",
+                                    "e": "期限快到，不能再拖延了。",
+                                    "p_cn": "qixian kuai dao buneng zai tuoyanle",
+                                    "p": "qīxiàn kuàidào，bùnéng zài tuōyán le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 266,
+                "search": 2206
+            },
+            "snym": {
+                "syno": [
+                    "迁延",
+                    "逗留",
+                    "推延",
+                    "稽延",
+                    "缓慢",
+                    "稽迟",
+                    "迟延",
+                    "耽搁",
+                    "耽误",
+                    "延宕",
+                    "贻误",
+                    "担搁",
+                    "延误",
+                    "拖欠",
+                    "迟到"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "tuōyán",
+            "cn_vi": "tha diên",
+            "word": "拖延",
+            "id": 52085,
+            "phonetic": "tuoyan",
+            "rank": 5165,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄊㄤˊ",
+            "_id": "28878e0946120044f06fa497bb6253d0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dạy quá giờ; dạy lố giờ",
+                            "explain": "指教师拖延下课的时间",
+                            "examples": [
+                                {
+                                    "m": "Xin lỗi cả lớp thầy dạy quá giờ rồi, tiết sau chúng ta sẽ giảng tiếp từ phần này.",
+                                    "p_vn": "xin lõi cả lóp thày dạy quá giò ròi, tiét sau chúng ta sẽ giảng tiép tù phàn này.",
+                                    "_id": "c10c24a6ed43165db916499fa9c7fcee",
+                                    "id": 84827,
+                                    "type": "e_cnvi",
+                                    "e": "抱歉有点拖堂了，我们下次会接着这里讲。",
+                                    "p_cn": "baoqian youdian tuotangle, women xia ci hui jiezhe zheli jiang.",
+                                    "p": "bàoqiàn yǒudiǎn tuōtángle, wǒmen xià cì huì jiēzhe zhèlǐ jiǎng."
+                                },
+                                {
+                                    "m": "Thầy dạy lố hẳn một tiếng đồng hồ.",
+                                    "p_vn": "thày dạy ló hản mọt tiéng dòng hò.",
+                                    "_id": "c10c24a6ed43165db916499fa9c807ac",
+                                    "id": 84828,
+                                    "type": "e_cnvi",
+                                    "e": "老师拖堂拖了整整一个小时。",
+                                    "p_cn": "laoshi tuotang tuole zhengzheng yige xiaoshi.",
+                                    "p": "lǎoshī tuōtáng tuōle zhěngzhěng yīgè xiǎoshí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 116
+            },
+            "snym": null,
+            "cn_vi": "tha đường",
+            "pinyin": "tuōtáng",
+            "word": "拖堂",
+            "id": 52082,
+            "phonetic": "tuotang",
+            "rank": 38585,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄒㄧㄥˊ",
+            "_id": "65a9fd68025242f2afcde2ae22d16c42",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo",
+                            "explain": "to drag; to tow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "tha hành",
+            "pinyin": "tuō xíng",
+            "word": "拖行",
+            "id": 103102,
+            "phonetic": "tuoxing",
+            "rank": 81706,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄉㄨㄥˋ",
+            "_id": "ce688376ed3a4324acf28d1e705e2c6c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(máy tính) để kéo (thao tác chuột)",
+                            "explain": "(computing) to drag (mouse operation); to drag; to tow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 74
+            },
+            "snym": null,
+            "cn_vi": "tha động",
+            "pinyin": "tuō dòng",
+            "word": "拖动",
+            "id": 103099,
+            "phonetic": "tuodong",
+            "rank": 48215,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄧˊ",
+            "_id": "ec42cfafb1b94ccd953c5fa12785b8a4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(máy tính) để kéo",
+                            "explain": "(computing) to drag; to tow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tha di",
+            "pinyin": "tuō yí",
+            "word": "拖移",
+            "id": 91526,
+            "phonetic": "tuoyi",
+            "rank": 118959,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄈㄣˋ",
+            "_id": "ee52322321e375d28bd9950a5be5f257",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây lau nhà; đồ lau nhà",
+                            "explain": "拖把",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "tha phân",
+            "pinyin": "tuō fèn",
+            "word": "拖粪",
+            "id": 52073,
+            "phonetic": "tuofen",
+            "rank": 101842,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄌㄨㄣˊ",
+            "_id": "eb9b09945db2a12276e2b23e09014335",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tàu kéo; tàu dắt",
+                            "explain": "装有拖曳设备，用来牵引船舶或木筏、竹排的机动船",
+                            "examples": [
+                                {
+                                    "m": "tàu kéo đang kéo bè gỗ trên sông.",
+                                    "p_vn": "tau keo dang keo be go tren song",
+                                    "_id": "ad9a65a8cee03f41c583ecc6bbe8f4f1",
+                                    "id": 39943,
+                                    "type": "e_cnvi",
+                                    "e": "拖轮拖曳着木筏在江中航行。",
+                                    "p_cn": "tuolun tuoyezhe mufa zai jiang zhong hangxing",
+                                    "p": "tuōlún tuōyèzhe mùfá zài jiāng zhōng hángxíng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "tha luân",
+            "pinyin": "tuōlún",
+            "word": "拖轮",
+            "id": 52078,
+            "phonetic": "tuolun",
+            "rank": 80083,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c8743b60b6d74525be14321943d96a36",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Một miếng võ thời xưa, kéo cây đao mà chạy như bị thua, đợi địch đuổi theo thì thình lình quay đao lại mà chém.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "đà đao",
+            "pinyin": "tuō dāo",
+            "word": "拖刀",
+            "id": 170718,
+            "phonetic": "tuodao",
+            "rank": 145170,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "69, 70",
+            "zhuyin": "ㄊㄨㄛㄅㄚˇ",
+            "_id": "e76779dedba1fae1e8fdeb1586c0d055",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây lau nhà; đồ lau nhà",
+                            "explain": "擦地板的工具，用许多布条或线绳绑在木棍的一头做成也叫拖布",
+                            "examples": [
+                                {
+                                    "m": "Chắc hẳn là một cây cầu giẻ lau bắc qua hẻm núi mùn cưa.",
+                                    "p_vn": "chac han la mot cay cau gie lau bac qua hem nui mun cua.",
+                                    "_id": "b4c66ae0ca0d499fa0b0394f744386ce",
+                                    "id": 57075,
+                                    "type": "e_cnvi",
+                                    "e": "肯定又是拖把斗武桥木屑大峡谷什么的",
+                                    "p_cn": "kending you shi tuoba douwuqiao muxie daxiagu shenmede.",
+                                    "p": "kěndìng yòu shì tuōbǎ dǒuwǔqiáo mùxiè dàxiágǔ shénmede."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 102,
+                "search": 997
+            },
+            "snym": {
+                "syno": [
+                    "拖布"
+                ]
+            },
+            "cn_vi": "tha bả",
+            "pinyin": "tuōbǎ",
+            "word": "拖把",
+            "id": 52064,
+            "phonetic": "tuoba",
+            "rank": 9862,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄉㄧㄠˋ",
+            "_id": "e9708e5fbd2d4c6eaef72b604b65aae0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để kéo (một chiếc xe hơi)",
+                            "explain": "to tow (a car)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "tha điếu",
+            "pinyin": "tuō diào",
+            "word": "拖吊",
+            "id": 103100,
+            "phonetic": "tuodiao",
+            "rank": 66010,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄉㄜ˙",
+            "_id": "1e559e5030874c17ae0da11768c2ede8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Lau nhà",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mẹ dọn dẹp, tôi lau bàn, bố lau nhà",
+                                    "p_vn": "me don dep, toi lau ban, bo lau nha",
+                                    "_id": "d427293bc6114e01ad6e722366b0e3d6",
+                                    "id": 55597,
+                                    "type": "e_cnvi",
+                                    "e": "我妈妈整理，我擦桌子，我爸爸拖地。",
+                                    "p_cn": "wo mama zhengli, wo ca zhuozi, wo baba tuo di.",
+                                    "p": "Wǒ māma zhěnglǐ, wǒ cā zhuōzi, wǒ bàba tuō dì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 114,
+                "search": 1238
+            },
+            "snym": null,
+            "cn_vi": "tha địa",
+            "pinyin": "tuō dì",
+            "word": "拖地",
+            "id": 84906,
+            "phonetic": "tuodi",
+            "rank": 8284,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄡ",
+            "_id": "345839429ac044409b87c0927948d182",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phải trải qua một quá trình khó khăn và kéo dài trong việc rút khỏi EU, như trong trường hợp Brexit (một vở kịch trên 脫歐 | 脱欧)",
+                            "explain": "to go through a difficult and protracted process in withdrawing from the EU, as in the case of Brexit (a play on 脫歐|脱欧 [tuō Ou1])",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tha âu",
+            "pinyin": "tuō ōu",
+            "word": "拖欧",
+            "id": 91524,
+            "phonetic": "tuoou",
+            "rank": 133930,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞㄊㄨㄛ",
+            "_id": "4e18fe254b9648e6afec3686da8996fe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(phương ngữ) đến ngày ai đó",
+                            "explain": "(dialect) to date sb",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 422
+            },
+            "snym": {
+                "syno": [
+                    "恋爱"
+                ]
+            },
+            "cn_vi": "phách tha",
+            "pinyin": "pāituō",
+            "word": "拍拖",
+            "id": 96872,
+            "phonetic": "paituo",
+            "rank": 17769,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄧㄝˋ",
+            "_id": "042d515f73f0b40957bc6502b6dbbdc1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kéo; kéo lôi",
+                            "explain": "拉着走;牵引",
+                            "examples": [
+                                {
+                                    "m": "đạn tín hiệu kéo một đường dài.",
+                                    "p_vn": "dan tin hieu keo mot duong dai",
+                                    "_id": "92523399e407d8b9afc33f2873d7e2cd",
+                                    "id": 39942,
+                                    "type": "e_cnvi",
+                                    "e": "信号弹拖曳着一道长长的尾巴升起。",
+                                    "p_cn": "xinhaodan tuoyezhe yidao chang zhang de weiba sheng qi",
+                                    "p": "xìnhàodàn tuōyèzhe yīdào cháng zhǎng de wěibā shēng qǐ."
+                                },
+                                {
+                                    "m": "tàu kéo đang kéo bè gỗ trên sông.",
+                                    "p_vn": "tau keo dang keo be go tren song",
+                                    "_id": "ad9a65a8cee03f41c583ecc6bbe8f4f1",
+                                    "id": 39943,
+                                    "type": "e_cnvi",
+                                    "e": "拖轮拖曳着木筏在江中航行。",
+                                    "p_cn": "tuolun tuoyezhe mufa zai jiang zhong hangxing",
+                                    "p": "tuōlún tuōyèzhe mùfá zài jiāng zhōng hángxíng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 45
+            },
+            "snym": {
+                "syno": [
+                    "牵引"
+                ]
+            },
+            "cn_vi": "tha duệ",
+            "pinyin": "tuōyè",
+            "word": "拖曳",
+            "id": 52086,
+            "phonetic": "tuoye",
+            "rank": 60470,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄊㄚˋ",
+            "_id": "0c958cfa96b67ae2b05c73906477eda1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "kéo dài; dây dưa; lề mề; lề mề chậm chạp; nhũng nhẵng",
+                            "explain": "形容做事拖拉; 不爽利",
+                            "examples": [
+                                {
+                                    "m": "làm việc lề mề",
+                                    "p_vn": "lam viec le me",
+                                    "_id": "8eca192ec155db32d86ebb9291fd7c35",
+                                    "id": 39929,
+                                    "type": "e_cnvi",
+                                    "e": "工作拖沓",
+                                    "p_cn": "gōngzuo tuō ta",
+                                    "p": "gōngzuò tuō tà"
+                                },
+                                {
+                                    "m": "văn chương dài dòng.",
+                                    "p_vn": "van chuong dai dong.",
+                                    "_id": "aba025015cedee3434427d72432a793b",
+                                    "id": 39930,
+                                    "type": "e_cnvi",
+                                    "e": "文字繁冗拖沓",
+                                    "p_cn": "wenzi fanrǒng tuō ta",
+                                    "p": "wénzì fánrǒng tuō tà"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 196
+            },
+            "snym": {
+                "syno": [
+                    "邋遢",
+                    "疲塌",
+                    "拖拉",
+                    "疲沓"
+                ],
+                "anto": [
+                    "俐落",
+                    "爽利",
+                    "利落",
+                    "曼妙",
+                    "索兴"
+                ]
+            },
+            "cn_vi": "tha đạp",
+            "pinyin": "tuō tà",
+            "word": "拖沓",
+            "id": 52069,
+            "phonetic": "tuota",
+            "rank": 28667,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄉㄡˋ",
+            "_id": "9352a82aeba52f7d7648d4545ded3583",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xe kéo; xe rơ-moóc",
+                            "explain": "拖车 (多指小型的、不带棚的)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "tha đẩu",
+            "pinyin": "tuō dǒu",
+            "word": "拖斗",
+            "id": 52072,
+            "phonetic": "tuodou",
+            "rank": 97616,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "27, 70",
+            "zhuyin": "ㄊㄨㄛㄑㄧㄢˋ",
+            "_id": "175e5458c68e255eece0ac59cc0c9f6c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khất nợ; nợ dai; lề mề; lôi thôi (vay mượn lâu ngày không trả); khiên khất",
+                            "explain": "久欠不还",
+                            "examples": [
+                                {
+                                    "m": "Khất nợ tiền thuê nhà.",
+                                    "p_vn": "khat no tien thue nha.",
+                                    "_id": "8e791d14422f2b310bc29e24c28daec9",
+                                    "id": 39938,
+                                    "type": "e_cnvi",
+                                    "e": "拖欠房租。",
+                                    "p_cn": "tuoqian fangzu",
+                                    "p": "tuōqiàn fángzū"
+                                },
+                                {
+                                    "m": "nợ tiền thuế lâu ngày.",
+                                    "p_vn": "no tien thue lau ngay",
+                                    "_id": "4265f3e2e32f5d12f7430fa09b8616c6",
+                                    "id": 39939,
+                                    "type": "e_cnvi",
+                                    "e": "拖欠税款",
+                                    "p_cn": "tuoqian shui kuan",
+                                    "p": "tuōqiàn shùikuǎn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 54,
+                "search": 526
+            },
+            "snym": {
+                "syno": [
+                    "赖账",
+                    "迟延",
+                    "拖延"
+                ],
+                "anto": [
+                    "偿还",
+                    "清偿"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "tuōqiàn",
+            "cn_vi": "tha khiếm",
+            "word": "拖欠",
+            "id": 52080,
+            "phonetic": "tuoqian",
+            "rank": 15400,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄓㄨˋ",
+            "_id": "7bc6848a91f0448c89841c74d2dec598",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cản trở",
+                            "explain": "to hinder",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giữ vững",
+                            "explain": "to hold up",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để đình trệ",
+                            "explain": "to stall",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy sẽ rất dễ bị khựng lại.",
+                                    "p_vn": "Co ay se rat de bi khung lai.",
+                                    "_id": "177fbda803d6423f9c3f02bf17bcbe62",
+                                    "id": 64523,
+                                    "type": "e_cnvi",
+                                    "e": "可以拖住她",
+                                    "p_cn": "keyi tuozhu ta",
+                                    "p": "kěyǐ tuōzhù tā"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ghìm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 203
+            },
+            "snym": null,
+            "cn_vi": "tha trụ",
+            "pinyin": "tuō zhù",
+            "word": "拖住",
+            "id": 96880,
+            "phonetic": "tuozhu",
+            "rank": 28038,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "29",
+            "zhuyin": "ㄊㄨㄛㄉㄨㄥˋㄌㄧˋ",
+            "_id": "6b717258a2eb482cabe264ecea74e284",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "động lực",
+                            "explain": "motive force",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lực kéo",
+                            "explain": "traction",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tha động lực",
+            "pinyin": "tuō dòng lì",
+            "word": "拖动力",
+            "id": 118221,
+            "phonetic": "tuodongli",
+            "rank": 130271,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄉㄜ˙ㄅㄢˇ",
+            "_id": "c2584c46860d49149e232343b8dccfbc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lau sàn",
+                            "explain": "to mop the floor",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 143
+            },
+            "snym": null,
+            "cn_vi": "tha địa bản",
+            "pinyin": "tuō dìbǎn",
+            "word": "拖地板",
+            "id": 114860,
+            "phonetic": "tuodiban",
+            "rank": 34264,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "拖"
+}

@@ -1,0 +1,2979 @@
+{
+    "total": 1232,
+    "found": true,
+    "result": [
+        {
+            "measure": {
+                "pinyin": "dao",
+                "examples": "我倒是很想去看这场比赛，可是不知道有没有时间。",
+                "measure": "道"
+            },
+            "zhuyin": "ㄧㄡˇㄇㄟˊㄧㄡˇ",
+            "_id": "400f88ce625f472ebe3895c94a8770ab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "(trước một danh từ) Do (bạn, họ, v.v.) có...?",
+                            "explain": "(before a noun) Do (you, they etc) have...?",
+                            "examples": [
+                                {
+                                    "m": "Bạn có tour trượt tuyết?",
+                                    "p_vn": "ban co tour truot tuyet?",
+                                    "_id": "00f64c562a125da9adcf9f029b89f4fc",
+                                    "id": 53889,
+                                    "type": "e_cnvi",
+                                    "e": "你们有没有滑雪旅行团？",
+                                    "p_cn": "nimen you meiyou huaxue lǚxing tuan?",
+                                    "p": "Nǐmen yǒu méiyǒu huáxuě lǚxíng tuán?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "(trước động từ) Did (you, they etc) (verb, infinitive)?",
+                            "explain": "(before a verb) Did (you, they etc) (verb, infinitive)?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Có (bạn, họ, v.v.) (động từ, quá khứ phân từ)?",
+                            "explain": "Have (you, they etc) (verb, past participle)?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Có một ...?",
+                            "explain": "Is there a ...?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 1496
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "yǒu méiyǒu",
+            "cn_vi": "hữu một hữu",
+            "word": "有没有",
+            "id": 118475,
+            "phonetic": "youmeiyou",
+            "rank": 7081,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "adv"
+            ],
+            "measure": {
+                "pinyin": "",
+                "examples": "",
+                "measure": ""
+            },
+            "zhuyin": "ㄇㄟˊㄧㄡˇ",
+            "_id": "dc6cdabf79323e21374afd3f12069840",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "biểu thị phản vấn, phủ định toàn bộ",
+                            "examples": [
+                                129799,
+                                28283
+                            ],
+                            "struct": "没有 + Đại từ (谁/哪) ..."
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không có (sở hữu)",
+                            "explain": "表示''领有、具有''等的否定",
+                            "examples": [
+                                {
+                                    "m": "Tôi không có lý do không tham gia.",
+                                    "p_vn": "toi khong co ly do khong tham gia.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a24299",
+                                    "id": 129770,
+                                    "type": "e_cnvi",
+                                    "e": "我没有理由不参加。",
+                                    "p_cn": "wo meiyou liyou bu can jia.",
+                                    "p": "wǒ méiyǒu lǐyóu bu cān jiā."
+                                },
+                                {
+                                    "m": "Tôi không có tiền.",
+                                    "p_vn": "toi khong co tien.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a2513a",
+                                    "id": 129771,
+                                    "type": "e_cnvi",
+                                    "e": "我没有钱。",
+                                    "p_cn": "wo meiyou qian.",
+                                    "p": "wǒ méiyǒu qián."
+                                },
+                                {
+                                    "m": "Tôi không có bạn gái.",
+                                    "p_vn": "toi khong co ban gai.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a25b66",
+                                    "id": 129772,
+                                    "type": "e_cnvi",
+                                    "e": "我没有女朋友。",
+                                    "p_cn": "wo meiyou nǚ pengyou.",
+                                    "p": "wǒ méiyǒu nǚ péngyǒu."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không (tồn tại)",
+                            "explain": "表示存在的否定",
+                            "examples": [
+                                {
+                                    "m": "Trong nhà không có người.",
+                                    "p_vn": "trong nha khong co nguoi.",
+                                    "_id": "1ab8e83a5ad974d037dbeb9cf6eae4fc",
+                                    "id": 28281,
+                                    "type": "e_cnvi",
+                                    "e": "屋里没有人。",
+                                    "p_cn": "wuli meiyou ren。",
+                                    "p": "wūli méiyǒu rén。"
+                                },
+                                {
+                                    "m": "Trong cốc không có nước rồi.",
+                                    "p_vn": "trong coc khong co nuoc roi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a26102",
+                                    "id": 129773,
+                                    "type": "e_cnvi",
+                                    "e": "被子里没有水了。",
+                                    "p_cn": "beizi li meiyou shuile.",
+                                    "p": "bèizi li méiyǒu shuǐle."
+                                },
+                                {
+                                    "m": "Trong phòng không có ti vi.",
+                                    "p_vn": "trong phong khong co ti vi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a2698a",
+                                    "id": 129774,
+                                    "type": "e_cnvi",
+                                    "e": "房间里没有电视。",
+                                    "p_cn": "fangjian li meiyou dianshi.",
+                                    "p": "fángjiān li méiyǒu diànshì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không bằng",
+                            "explain": "不如;不及",
+                            "examples": [
+                                {
+                                    "m": "Bạn không cao bằng anh ta.",
+                                    "p_vn": "ban khong cao bang anh ta.",
+                                    "_id": "6f88cd2540e407db775769d13f4066ab",
+                                    "id": 28284,
+                                    "type": "e_cnvi",
+                                    "e": "你没有他高。",
+                                    "p_cn": "ni meiyou ta gao。",
+                                    "p": "nǐ méiyǒu tā gāo。"
+                                },
+                                {
+                                    "m": "Không có ai biết nói chuyện bằng anh ta.",
+                                    "p_vn": "khong co ai biet noi chuyen bang anh ta.",
+                                    "_id": "4bfa04d8f868aae0dd8b3887c6dfb6db",
+                                    "id": 28285,
+                                    "type": "e_cnvi",
+                                    "e": "谁都没有他会说话。",
+                                    "p_cn": "shei dou meiyou ta hui shuohua.",
+                                    "p": "shéi dōu méiyǒu tā huì shuōhuà."
+                                },
+                                {
+                                    "m": "Tiếng Hán của tôi không tốt như bạn.",
+                                    "p_vn": "tieng han cua toi khong tot nhu ban.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a2b10f",
+                                    "id": 129782,
+                                    "type": "e_cnvi",
+                                    "e": "我的汉语没有你那么好。",
+                                    "p_cn": "wo de hanyu meiyou ni name hao.",
+                                    "p": "Wǒ de hànyǔ méiyǒu nǐ nàme hǎo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không đủ; không tới; không đến",
+                            "explain": "不够;不到",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đến chưa được ba ngày đã đi rồi.",
+                                    "p_vn": "anh ay den chua duoc ba ngay da di roi.",
+                                    "_id": "c3d3cdd8b326671bf43228a668ebd992",
+                                    "id": 28286,
+                                    "type": "e_cnvi",
+                                    "e": "他来了没有三天就走了。",
+                                    "p_cn": "talai le meiyou santian jiu zou le。",
+                                    "p": "Tālái le méiyǒu sāntiān jìu zǒu le。"
+                                },
+                                {
+                                    "m": "Anh ấy làm chưa được mười ngày đã nghỉ việc rồi.",
+                                    "p_vn": "anh ay lam chua duoc muoi ngay da nghi viec roi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a2d308",
+                                    "id": 129787,
+                                    "type": "e_cnvi",
+                                    "e": "他做了没有十天就辞职了。",
+                                    "p_cn": "ta zuole meiyou shi tian jiu cizhile.",
+                                    "p": "tā zuòle méiyǒu shí tiān jiù cízhíle."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "chưa....",
+                            "examples": [
+                                129802,
+                                129803
+                            ],
+                            "struct": "没有 + Tính từ"
+                        },
+                        {
+                            "explain": "trước giờ chưa từng",
+                            "examples": [
+                                129806,
+                                129807
+                            ],
+                            "struct": "没有 + Động từ + 过 + Tân ngữ"
+                        },
+                        {
+                            "explain": "dạng nghi vấn của bổ ngữ kết quả",
+                            "examples": [
+                                129811,
+                                129812,
+                                129813
+                            ],
+                            "struct": "Động từ + 完/到/干净/见/饱/会 + (Tân ngữ)（+了) + 没有？"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "chưa",
+                            "explain": "表示''已然''的否定",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy chưa về.",
+                                    "p_vn": "anh ay chua ve.",
+                                    "_id": "f26c4f6bdb3fec83bbb44925c00d5f4f",
+                                    "id": 28287,
+                                    "type": "e_cnvi",
+                                    "e": "他还没有回来。",
+                                    "p_cn": "ta hai meiyou huilai.",
+                                    "p": "tā hái méiyǒu huílái."
+                                },
+                                {
+                                    "m": "Trời vẫn chưa tối mà.",
+                                    "p_vn": "troi van chua toi ma.",
+                                    "_id": "69282030995d592910c30a68a3be5921",
+                                    "id": 28288,
+                                    "type": "e_cnvi",
+                                    "e": "天还没有黑呢。",
+                                    "p_cn": "tian hai meiyou hei ne.",
+                                    "p": "tiān hái méiyǒu hēi ne."
+                                },
+                                {
+                                    "m": "Tôi vẫn chưa ăn no.",
+                                    "p_vn": "toi van chua an no.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a30578",
+                                    "id": 129794,
+                                    "type": "e_cnvi",
+                                    "e": "我还没有吃饱。",
+                                    "p_cn": "wo hai meiyou chi bao.",
+                                    "p": "wǒ hái méiyǒu chī bǎo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chưa từng; chưa hề",
+                            "explain": "表示 ''曾经''的否定",
+                            "examples": [
+                                {
+                                    "m": "Tôi chưa từng hút thuốc.",
+                                    "p_vn": "toi chua tung hut thuoc.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a2e405",
+                                    "id": 129790,
+                                    "type": "e_cnvi",
+                                    "e": "我没有抽过烟.",
+                                    "p_cn": "wo meiyou chouguo yan.",
+                                    "p": "wǒ méiyǒu chōuguò yān."
+                                },
+                                {
+                                    "m": "Trước đây tôi chưa từng gặp anh ấy.",
+                                    "p_vn": "truoc day toi chua tung gap anh ay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571a2f007",
+                                    "id": 129791,
+                                    "type": "e_cnvi",
+                                    "e": "我以前没有见过他。",
+                                    "p_cn": "wo yiqian meiyou jianguo ta.",
+                                    "p": "wǒ yǐqián méiyǒu jiànguò tā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều biểu thị ý phủ định, mang nghĩa chưa, không.\nKhác:\n- \"不\" khi làm phó từ, dùng ở cả quá khứ, hiện tại và tương lai.\n\"没\" khi làm phó từ chỉ dùng cho quá khứ.\n- \"不\" chủ yếu phủ định sự phán đoán, ý muốn, năng lực, dự định, thái độ.., \"没\" chủ yếu phủ định hành động hoặc trạng thái hành động xảy ra, hoàn thành hay chưa.\n- \"不\" có thể đứng trước tất cả các trợ động từ.\n\"没\" chỉ đứng trước một số trợ động từ như: 能、能够、要、肯、敢.",
+                    "title": "Phân biệt \"不\" và \"没有\"",
+                    "words": [
+                        "不",
+                        "没有"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- \"不如\" và \"没有\" đều có ý nghĩa không bằng, không tốt bằng, cách sử dụng của hai từ này không giống nhau, chủ yếu là ngữ cảnh sử dụng không giống nhau.\nKhác:\n- \"没有\" còn là phó từ dùng để phủ định sự việc hoặc động tác đã từng xảy ra.",
+                    "title": "Phân biệt \"不比\" và \"没有\"",
+                    "words": [
+                        "不比",
+                        "没有"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "méiyǒu",
+            "cn_vi": "một hữu",
+            "popularity": {
+                "notebook": 631,
+                "search": 14009
+            },
+            "word": "没有",
+            "id": 37356,
+            "phonetic": "meiyou",
+            "rank": 565,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄉㄜ˙ㄇㄟˊㄧㄡˇㄉㄜ˙",
+            "_id": "ca6e123ea4604ebeb529d8e42cce619a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "xem 有的沒 的 | 有的没 的",
+                            "explain": "see 有的沒的|有的没的 [yǒu de méi de]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 45
+            },
+            "snym": null,
+            "cn_vi": "hữu đích một hữu đích",
+            "pinyin": "yǒu de méiyǒu de",
+            "word": "有的没有的",
+            "id": 142514,
+            "phonetic": "youdemeiyoude",
+            "rank": 60603,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄕˋ",
+            "_id": "36bb460448614bed98810505ee4d2b0b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không một chút",
+                            "explain": "not a bit",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không có gì đáng báo động đang xảy ra",
+                            "explain": "nothing alarming is happening",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không có gì là lên",
+                            "explain": "nothing is up",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 195
+            },
+            "snym": null,
+            "cn_vi": "một hữu sự",
+            "pinyin": "méiyǒu shì",
+            "word": "没有事",
+            "id": 118767,
+            "phonetic": "meiyoushi",
+            "rank": 28790,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄈㄚˇ",
+            "_id": "d09cec718e1c4fc0aed8dbc4a0a72a3f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "thua lỗ",
+                            "explain": "at a loss",
+                            "examples": [
+                                {
+                                    "m": "Trời ơi, anh ta lại tiếp tục nói không ngừng về những vấn đề mà anh ta quan tâm. Có cách nào để làm anh ta im lặng không?",
+                                    "p_vn": "troi oi, anh ta lai tiep tuc noi khong ngung ve nhung van de ma anh ta quan tam. co cach nao de lam anh ta im lang khong?",
+                                    "_id": "1b10dd5542724e0cacf8f681f0c8e54f",
+                                    "id": 73015,
+                                    "type": "e_cnvi",
+                                    "e": "天哪，他又在絮絮不休地谈他感兴趣的问题。有没有法子使他闭嘴？",
+                                    "p_cn": "tianna ta you zai xuxu buxiu di tan ta gan xingqu de wenti you meiyou fazi shi ta bizui",
+                                    "p": "tiānna tā yòu zài xùxu bùxiū dì tán tā gǎn xìngqù de wèntí yǒu méiyǒu fǎzi shǐ tā bìzuǐ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không có sự lựa chọn",
+                            "explain": "to have no choice",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không thể làm bất cứ điều gì về nó",
+                            "explain": "unable to do anything about it",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 83
+            },
+            "snym": null,
+            "cn_vi": "một hữu pháp",
+            "pinyin": "méiyǒu fǎ",
+            "word": "没有法",
+            "id": 115349,
+            "phonetic": "meiyoufa",
+            "rank": 45696,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "fe0ad596bb694b9099ffc8663e2fcecb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "chưa",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cái gì! chín giờ rồi mà xe vẫn chưa chạy sao!",
+                                    "p_vn": "cai gi! chin gio roi ma xe van chua chay sao!",
+                                    "_id": "07945b762efee62aab4348a8e8f30604",
+                                    "id": 35514,
+                                    "type": "e_cnvi",
+                                    "e": "什么! 九点了，车还没有开!",
+                                    "p_cn": "shenme! jiu dianle, che hai meiyou kai!",
+                                    "p": "shénme! jiǔ diǎnle, chē hái méiyǒu kāi!"
+                                },
+                                {
+                                    "m": "thư gửi đi đã lâu, vẫn chưa nhận được thư trả lời.",
+                                    "p_vn": "thu gui di da lau van chua nhan duoc thu tra loi",
+                                    "_id": "0fdbde380e5fc977ff2aeccc123be2db",
+                                    "id": 12566,
+                                    "type": "e_cnvi",
+                                    "e": "信寄出很久了，还没有收到复信。",
+                                    "p_cn": "xin ji chu henjiule hai meiyou shou dao fuxin",
+                                    "p": "xìn jì chū hěnjiǔle, hái méiyǒu shōu dào fùxìn."
+                                },
+                                {
+                                    "m": "vẫn chưa xác định được danh sách những người ứng cử.",
+                                    "p_vn": "van chua xac dinh duoc danh sach nhung nguoi ung cu.",
+                                    "_id": "1363af91e5252c881ad5d2eac334d3e6",
+                                    "id": 33340,
+                                    "type": "e_cnvi",
+                                    "e": "还没有确定候选人名单。",
+                                    "p_cn": "hai meiyou queding houxuan ren mingdan.",
+                                    "p": "hái méiyǒu quèdìng hòuxuǎn rén míngdān."
+                                },
+                                {
+                                    "m": "nhiệm vụ chưa hoàn thành, lòng cứ trĩu nặng.",
+                                    "p_vn": "nhiem vu chua hoan thanh long cu triu nang",
+                                    "_id": "199679f5ec97b628ec411b0a01e3efb2",
+                                    "id": 4507,
+                                    "type": "e_cnvi",
+                                    "e": "任务还没有完成，心里老是沉甸甸的。",
+                                    "p_cn": "renwu hai meiyou wancheng xinli lao shi chendiandian de",
+                                    "p": "rènwù hái méiyǒu wánchéng, xīnlǐ lǎo shì chéndiàndiān de."
+                                },
+                                {
+                                    "m": "Vi phạm pháp luật nhẹ, thì chưa trở thành tội phạm.",
+                                    "p_vn": "vi pham phap luat nhe, thi chua tro thanh toi pham.",
+                                    "_id": "1aad60dccf305279c2f960a29ff45fbb",
+                                    "id": 14328,
+                                    "type": "e_cnvi",
+                                    "e": "违法情节轻微，还没有构成犯罪。",
+                                    "p_cn": "weifa qingjie qingwei, hai meiyou goucheng fanzui.",
+                                    "p": "wéifǎ qíngjié qīngwēi, hái méiyǒu gòuchéng fànzuì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hoàn một hữu",
+            "pinyin": "hái méiyǒu",
+            "popularity": {
+                "notebook": 24,
+                "search": 521
+            },
+            "word": "还没有",
+            "id": 179029,
+            "phonetic": "haimeiyou",
+            "rank": 15511,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "relative clause"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄧㄡˇ",
+            "_id": "5a0f3d47eb7e40293fe0bed4ed759c1d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "relative clause",
+                    "means": [
+                        {
+                            "mean": "có... có (đặt trước hai danh từ trái ngược nhau để nói có cả hai mặt)",
+                            "explain": "分别用在意思相反或相对的两个名词或动词前面，表示既有这个又有那个，两方面兼而有之",
+                            "examples": [
+                                {
+                                    "m": "có mặt lợi cũng có mặt hại.",
+                                    "p_vn": "co mat loi cung co mat hai",
+                                    "_id": "0779e846a8235e29e91041ad4dd50fbf",
+                                    "id": 46734,
+                                    "type": "e_cnvi",
+                                    "e": "有利有弊。",
+                                    "p_cn": "youli you bi",
+                                    "p": "yǒulìyǒubì。"
+                                },
+                                {
+                                    "m": "có đầu có đuôi",
+                                    "p_vn": "co dau co duoi",
+                                    "_id": "96d519ffd5549fb514aefa8634e43a57",
+                                    "id": 46735,
+                                    "type": "e_cnvi",
+                                    "e": "有头有尾。",
+                                    "p_cn": "youtouyouwei",
+                                    "p": "yǒutóuyǒuwěi。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "có... có (đặt trước hai danh từ hoặc động từ gần nghĩa để nhấn mạnh)",
+                            "explain": "分别用在意思相同或相近的两个名词或动词 (或一个双音名词或动词的两个词素) 前面，表示强调",
+                            "examples": [
+                                {
+                                    "m": "có bài bản hẳn hoi",
+                                    "p_vn": "co bai ban han hoi",
+                                    "_id": "bd787de1a8b7c5c90b125acbaeedc0a4",
+                                    "id": 46736,
+                                    "type": "e_cnvi",
+                                    "e": "有板有眼。",
+                                    "p_cn": "youbanyouyan",
+                                    "p": "yǒubǎnyǒuyǎn。"
+                                },
+                                {
+                                    "m": "có căn cứ đáng tin (có mắt có mũi hẳn hoi)",
+                                    "p_vn": "co can cu dang tin (co mat co mui han hoi)",
+                                    "_id": "c9356388d7a0818d3900d0010aa8ab66",
+                                    "id": 46737,
+                                    "type": "e_cnvi",
+                                    "e": "有鼻子有眼儿。",
+                                    "p_cn": "youbiziyouyan er",
+                                    "p": "yǒubízǐyǒuyǎnér。"
+                                },
+                                {
+                                    "m": "có nói có cười, không phân già trẻ (khi vui đùa thì không phân biệt già trẻ, cho phép người ít tuổi hơn cũng được nói đùa).",
+                                    "p_vn": "co noi co cuoi khong phan gia tre (khi vui dua thi khong phan biet gia tre cho phep nguoi it tuoi hon cung duoc noi dua)",
+                                    "_id": "af5f785e7b7aa1676c5e7e9879b6e65b",
+                                    "id": 46738,
+                                    "type": "e_cnvi",
+                                    "e": "有说有笑， 不分老少。",
+                                    "p_cn": "you shuo you xiao bu fen laoshao",
+                                    "p": "yǒushuōyǒuxiào，bù fēn lǎoshǎo。"
+                                },
+                                {
+                                    "m": "có trật tự; đâu ra đấy",
+                                    "p_vn": "co trat tu; dau ra day",
+                                    "_id": "f4ce1223e861b1dc8cf98ef2f30d1934",
+                                    "id": 46739,
+                                    "type": "e_cnvi",
+                                    "e": "有条有理。",
+                                    "p_cn": "you tiao youli",
+                                    "p": "yǒutiáoyǒulǐ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "hữu hữu",
+            "pinyin": "yǒu... yǒu...",
+            "word": "有...有...",
+            "id": 61199,
+            "phonetic": "you...you...",
+            "rank": 135290,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e5348741641b4b049cdc7b85a56fedbe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "Không buôn bán sẽ không có giết hại",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "một hữu mãi mại một hữu sát hại",
+            "pinyin": "méiyǒu mǎimài, méiyǒu shāhài",
+            "word": "没有买卖，没有杀害",
+            "id": 159578,
+            "phonetic": "meiyoumaimai,meiyoushahai",
+            "rank": 150252,
+            "kind": [
+                "proverb"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄗㄨㄟˇㄇㄟˊㄕㄜˊ",
+            "_id": "7f7f8aa5a6c7489cb5e1c716685d333e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "không nói nên lời",
+                            "explain": "speechless",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đánh chết người",
+                            "explain": "struck dumb",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": {
+                "syno": [
+                    "笨嘴拙舌"
+                ],
+                "anto": [
+                    "伶牙俐齿"
+                ]
+            },
+            "cn_vi": "hữu chuỷ một thiệt",
+            "pinyin": "yǒu zuǐ méi shé",
+            "word": "有嘴没舌",
+            "id": 132377,
+            "phonetic": "youzuimeishe",
+            "rank": 145536,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄨㄥˊㄌㄞˊㄇㄟˊㄧㄡˇ",
+            "_id": "5c8795e16f6541b3a96f182f9d99e8b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "chưa bao giờ",
+                            "explain": "have never",
+                            "examples": [
+                                {
+                                    "m": "Tôi chưa bao giờ nghiêm túc hơn trong cuộc sống của mình.",
+                                    "p_vn": "Toi chua bao gio nghiem tuc hon trong cuoc song cua minh.",
+                                    "_id": "89c17067591548ad97ac66d5d68710a2",
+                                    "id": 61072,
+                                    "type": "e_cnvi",
+                                    "e": "我从来没有这么认真过",
+                                    "p_cn": "wo conglai meiyou zheyao renzhen guo",
+                                    "p": "wǒ cónglái méiyǒu zhèyāo rènzhēn guò"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chưa từng",
+                            "explain": "never before",
+                            "examples": [
+                                {
+                                    "m": "Chưa bao giờ có áo giáp",
+                                    "p_vn": "Chua bao gio co ao giap",
+                                    "_id": "79f184b49c7c4de18177192ff4e35a58",
+                                    "id": 62685,
+                                    "type": "e_cnvi",
+                                    "e": "从来没有一件防弹衣",
+                                    "p_cn": "conglai meiyou yijian fangdanyi",
+                                    "p": "cónglái méiyǒu yījiàn fángdànyī"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 336
+            },
+            "snym": null,
+            "cn_vi": "tòng lai một hữu",
+            "pinyin": "cónglái méiyǒu",
+            "word": "从来没有",
+            "id": 136368,
+            "phonetic": "conglaimeiyou",
+            "rank": 20576,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄨㄢˊㄇㄟˊㄨㄢˊ",
+            "_id": "64265b81aec1473fa051113602907239",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "có xong hay chưa; có thôi hay không",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "câm miệng, có thôi đi không",
+                                    "p_vn": "cam mieng, co thoi di khong",
+                                    "_id": "14c0c52c34574b3a905ad7c1c4371ff9",
+                                    "id": 68720,
+                                    "type": "e_cnvi",
+                                    "e": "住口, 有完没完你",
+                                    "p_cn": "Zhukou, you wan meiwan ni",
+                                    "p": "Zhùkǒu, yǒu wán méiwán nǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 134
+            },
+            "snym": null,
+            "cn_vi": "hữu hoàn một hoàn",
+            "pinyin": "yǒu wán méiwán",
+            "word": "有完没完",
+            "id": 154502,
+            "phonetic": "youwanmeiwan",
+            "rank": 35509,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄗㄠˇㄇㄟˊㄨㄢˇ",
+            "_id": "82ce7aaef102edba4e5ac0bf5adff5d8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ăn bữa sáng lần bữa tối",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "hữu tảo một vãn",
+            "pinyin": "yǒu zǎo méi wǎn",
+            "word": "有早没晚",
+            "id": 79670,
+            "phonetic": "youzaomeiwan",
+            "rank": 117412,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄧˋㄧˋ",
+            "_id": "d3bd8ab931d54bf6a6b4cad28e1623eb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "vô nghĩa",
+                            "explain": "meaningless",
+                            "examples": [
+                                {
+                                    "m": "Chúng có thể khá vô nghĩa.",
+                                    "p_vn": "Chung co the kha vo nghia.",
+                                    "_id": "198c20a21e394f2e89efe5289c664787",
+                                    "id": 67011,
+                                    "type": "e_cnvi",
+                                    "e": "都没有意义",
+                                    "p_cn": "du meiyou yiyi",
+                                    "p": "dū méiyǒu yìyì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không có bất kỳ ý nghĩa nào",
+                            "explain": "not to have any meaning",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 95
+            },
+            "snym": null,
+            "cn_vi": "một hữu ý nghĩa",
+            "pinyin": "méiyǒu yìyì",
+            "word": "没有意义",
+            "id": 130509,
+            "phonetic": "meiyouyiyi",
+            "rank": 42541,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄓㄧ",
+            "_id": "404d429d74c248cf9f3e01948ad2472d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nổi bật; không gì có thể so cùng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 85
+            },
+            "snym": null,
+            "cn_vi": "một hữu chi nhất",
+            "pinyin": "méiyǒu zhī yī",
+            "word": "没有之一",
+            "id": 156106,
+            "phonetic": "meiyouzhiyi",
+            "rank": 45129,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄒㄧㄥˊㄓㄨㄤˋ",
+            "_id": "8a1e3e7aa251422cb131430d205c2d9d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không có hình dạng",
+                            "explain": "shapeless",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "một hữu hình trạng",
+            "pinyin": "méiyǒu xíngzhuàng",
+            "word": "没有形状",
+            "id": 141427,
+            "phonetic": "meiyouxingzhuang",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄔㄚˋㄅㄧㄝˊ",
+            "_id": "34af580df4bf4fa5a7b6939d9b450749",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Nó không có Gì Thay đổi",
+                            "explain": "it makes no difference",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không có sự khác biệt",
+                            "explain": "there is no difference",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "một hữu sai biệt",
+            "pinyin": "méiyǒu chābié",
+            "word": "没有差别",
+            "id": 135012,
+            "phonetic": "meiyouchabie",
+            "rank": 83761,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄎㄠˋㄕㄢ",
+            "_id": "46f15307cbdd40c49c2a8eacbeeb436c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Không có người nâng đỡ phía sau",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Không có người hậu thuẫn phía sau thì bản thân hãy trở thành một ngọn núi.",
+                                    "p_vn": "Khong co nguoi hau thuan phia sau thi ban than hay tro thanh mot ngon nui.",
+                                    "_id": "2c6f5f16b24c43938b8fd2771f3c8310",
+                                    "id": 56226,
+                                    "type": "e_cnvi",
+                                    "e": "没有靠山，自己就是山。",
+                                    "p_cn": "Meiyou kaoshan, ziji jiushi shan.",
+                                    "p": "Méiyǒu kàoshān, zìjǐ jiùshì shān."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "một hữu kháo sơn",
+            "pinyin": "méiyǒu kàoshān",
+            "word": "没有靠山",
+            "id": 85582,
+            "phonetic": "meiyoukaoshan",
+            "rank": 146792,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄌㄧㄢˇㄆㄧˊ",
+            "_id": "f784e14e3a2a4a45b5d84e518cb885b0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hổ thẹn",
+                            "explain": "ashamed",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lúng túng",
+                            "explain": "embarrassed",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không dám (vì xấu hổ)",
+                            "explain": "not daring (out of shame)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không có khuôn mặt (để gặp gỡ mọi người)",
+                            "explain": "not having the face (to meet people)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "một hữu kiểm bì",
+            "pinyin": "méiyǒu liǎnpí",
+            "word": "没有脸皮",
+            "id": 135013,
+            "phonetic": "meiyoulianpi",
+            "rank": 91690,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄕˋㄔㄤˇ",
+            "_id": "5176cbfac91941ef8fa2b8ad19ef7ad9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Không được hoan nghênh; không được chào đón",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Loại người này ở chỗ khác nhất định không được chào đón.",
+                                    "p_vn": "Loai nguoi nay o cho khac nhat dinh khong duoc chao don.",
+                                    "_id": "d6f2c5d93afa4215931d2f90ca78acc7",
+                                    "id": 55421,
+                                    "type": "e_cnvi",
+                                    "e": "这种人在别处绝对没有市场。",
+                                    "p_cn": "Zhe zhong ren zai biechu juedui meiyou shichang.",
+                                    "p": "Zhè zhǒng rén zài biéchù juéduì méiyǒu shìchǎng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "một hữu thị trường",
+            "pinyin": "méiyǒu shìchǎng",
+            "word": "没有市场",
+            "id": 84715,
+            "phonetic": "meiyoushichang",
+            "rank": 77136,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄆㄧㄣˇㄨㄟˋ",
+            "_id": "7e8e53ec0ae241a88197d635182a7ad0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "vô vị",
+                            "explain": "tasteless",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "một hữu phẩm vị",
+            "pinyin": "méiyǒu pǐnwèi",
+            "word": "没有品味",
+            "id": 135011,
+            "phonetic": "meiyoupinwei",
+            "rank": 125575,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4622a5c6a63b4f1ea1f87c2c67cdecd4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "luộm thuộm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "một hữu điều lí",
+            "pinyin": "méiyǒu tiáolǐ",
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "word": "没有条理",
+            "id": 179717,
+            "phonetic": "meiyoutiaoli",
+            "rank": 139107,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "6b9816dc792a4dcdbf41da06a4da05cd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "chả ai",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tịnh một hữu nhân",
+            "pinyin": "bìng méiyǒu rén",
+            "popularity": {
+                "notebook": 1,
+                "search": 0
+            },
+            "word": "并没有人",
+            "id": 182771,
+            "phonetic": "bingmeiyouren",
+            "rank": 159771,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄉㄜ˙ㄇㄟˊㄉㄜ˙",
+            "_id": "309c4da04b434599b56164fddfba4412",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "vô lý",
+                            "explain": "nonsense",
+                            "examples": []
+                        },
+                        {
+                            "mean": "rác",
+                            "explain": "rubbish",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vấn đề tầm thường",
+                            "explain": "trivial (matters); triviality",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 146
+            },
+            "snym": null,
+            "cn_vi": "hữu đích một đích",
+            "pinyin": "yǒu de méi de",
+            "word": "有的没的",
+            "id": 130404,
+            "phonetic": "youdemeide",
+            "rank": 33916,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "65d0c1fdc33a475d91768dc761f022a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không đạt mục tiêu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "một hữu đạt tiêu",
+            "pinyin": "méiyǒu dábiāo",
+            "popularity": {
+                "notebook": 2,
+                "search": 0
+            },
+            "word": "没有达标",
+            "id": 185828,
+            "phonetic": "meiyoudabiao",
+            "rank": 159598,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄇㄨˋㄧㄡˇ",
+            "_id": "46c3cf655c294260835824ca40a9d794",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "dạng du dương của 有沒有 | 有没有",
+                            "explain": "(melodramatic form of 有沒有|有没有)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "(tiếng lóng) thôi nào, bạn không thể phủ nhận nó!",
+                            "explain": "(slang) come on, you can't deny it!",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bạn có nghĩ vậy không ?!",
+                            "explain": "don't you think so?!",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "hữu mộc hữu",
+            "pinyin": "yǒu mù yǒu",
+            "word": "有木有",
+            "id": 115081,
+            "phonetic": "youmuyou",
+            "rank": 68763,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "00f341b174e64c529f2772cccd093590",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "xấc láo",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy quá không lịch sự rồi, làm sao anh ấy có thể nói chuyện với bố mình bằng giọng điệu này?",
+                                    "p_vn": "anh ay qua khong lich su roi, lam sao anh ay co the noi chuyen voi bo minh bang giong dieu nay?",
+                                    "_id": "69997d89b5f75300ec8abc83cace5425",
+                                    "id": 82749,
+                                    "type": "e_cnvi",
+                                    "e": "他太没有礼貌了, 什么能用这种语气跟爸爸说话呢?",
+                                    "p_cn": "ta tai meiyou limaole, shenme neng yong zhe zhong yuqi gen baba shuohua ne?",
+                                    "p": "tā tài méiyǒu lǐmàole, shénme néng yòng zhè zhǒng yǔqì gēn bàba shuōhuà ne?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "một hữu lễ mạo",
+            "pinyin": "méiyǒu lǐmào",
+            "popularity": {
+                "notebook": 1,
+                "search": 22
+            },
+            "word": "没有礼貌",
+            "id": 172316,
+            "phonetic": "meiyoulimao",
+            "rank": 79479,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "jian",
+                "examples": "我跟那个事件没有什么关系。",
+                "measure": "件"
+            },
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄕㄣˊㄇㄜ˙",
+            "_id": "29329640086f4727b52ccb61669b8c76",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "nó không là gì cả",
+                            "explain": "it is nothing",
+                            "examples": [
+                                {
+                                    "m": "Bác sĩ nói tình hình hiện tại của anh ấy không có gì đáng ngại",
+                                    "p_vn": "bac si noi tinh hinh hien tai cua anh ay khong co gi dang ngai",
+                                    "_id": "08ec5a6c8052414c96ccc1a62b6a643b",
+                                    "id": 55376,
+                                    "type": "e_cnvi",
+                                    "e": "医生说他现在的情况没有什么大碍。",
+                                    "p_cn": "yisheng shuo ta xianzai de qingkuang meiyou she me da ai.",
+                                    "p": "Yīshēng shuō tā xiànzài de qīngkuàng méiyǒu shé me dà ài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không có gì ... về nó",
+                            "explain": "there's nothing ... about it",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 530
+            },
+            "snym": null,
+            "cn_vi": "một hữu thập ma",
+            "pinyin": "méiyǒu shé me",
+            "word": "没有什么",
+            "id": 135008,
+            "phonetic": "meiyousheme",
+            "rank": 15330,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ffbdd0ae06a540ce9bbe8689cd933bbd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "chết chưa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tử liễu một hữu",
+            "pinyin": "sǐle méiyǒu?",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "死了没有?",
+            "id": 179272,
+            "phonetic": "silemeiyou?",
+            "rank": 158107,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄉㄧˇㄒㄧㄢˋ",
+            "_id": "14a82cc59a4040f49138ee24eb012216",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quá đáng; quá mức; quá phận",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "một hữu để tuyến",
+            "pinyin": "méiyǒu dǐxiàn",
+            "word": "没有底线",
+            "id": 156113,
+            "phonetic": "meiyoudixian",
+            "rank": 85907,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄖㄣˊㄧㄢ",
+            "_id": "5ba4764e72034ebbb0f4c294cbe62370",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "không có người ở",
+                            "explain": "uninhabited",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "một hữu nhân yên",
+            "pinyin": "méiyǒu rényān",
+            "word": "没有人烟",
+            "id": 135007,
+            "phonetic": "meiyourenyan",
+            "rank": 96720,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄐㄧㄣˋㄊㄡˊ",
+            "_id": "69add98ae4fd430fa6583397cf0e89df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "cảm thấy bơ phờ",
+                            "explain": "feeling listless",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cảm thấy yếu đuối",
+                            "explain": "to feel weak",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không có sức mạnh",
+                            "explain": "to have no strength",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "một hữu kình đầu",
+            "pinyin": "méiyǒu jìntóu",
+            "word": "没有劲头",
+            "id": 135010,
+            "phonetic": "meiyoujintou",
+            "rank": 96759,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄖㄣˋㄏㄜˊ",
+            "_id": "6ffc4856b76d4eb0ae26d348f23a8635",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Không hề có; ko có chút nào",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Khi bạn không có ý tưởng về tương lai của mình, quán tính bắt đầu",
+                                    "p_vn": "Khi ban khong co y tuong ve tuong lai cua minh, quan tinh bat dau",
+                                    "_id": "816d686978c2402f960e662294767477",
+                                    "id": 54949,
+                                    "type": "e_cnvi",
+                                    "e": "当你对自己的前途没有任何想法时，惰性便开始了",
+                                    "p_cn": "Dang ni dui ziji de qiantu meiyou renhe xiangfa shi, duoxing bian kaishile",
+                                    "p": "Dāng nǐ duì zìjǐ de qiántú méiyǒu rènhé xiǎngfǎ shí, duòxìng biàn kāishǐle"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 55
+            },
+            "snym": null,
+            "cn_vi": "một hữu nhiệm hà",
+            "pinyin": "méiyǒu rènhé",
+            "word": "没有任何",
+            "id": 84230,
+            "phonetic": "meiyourenhe",
+            "rank": 55387,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄕㄨㄛㄉㄜ˙",
+            "_id": "88dbc00b3f616d262551fd561c6111d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "hết chỗ chê; không gì đáng trách",
+                            "explain": "指没有可以指责的缺点",
+                            "examples": [
+                                {
+                                    "m": "anh chàng này làm việc giỏi giang lại tích cực, thật không có gì đáng chê trách.",
+                                    "p_vn": "anh chang nay lam viec gioi giang lai tich cuc that khong co gi dang che trach",
+                                    "_id": "46e2bca72fe29fac4512341d0d0905db",
+                                    "id": 28291,
+                                    "type": "e_cnvi",
+                                    "e": "这小伙子既能干又积极，真是没有说的。",
+                                    "p_cn": "zhe xiaohuozi ji nenggan you jiji zhenshi meiyou shuo de",
+                                    "p": "zhè xiǎohuǒzǐ jì nénggān yòu jījí，zhēnshì méiyǒu shuō de。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "khỏi phải nói; không có gì phải phân trần giải thích cả; không có gì để tranh luận cả",
+                            "explain": "指没有商量或分辨的余地",
+                            "examples": [
+                                {
+                                    "m": "chiếc xe này các anh dùng ba ngày rồi, hôm nay chúng tôi dùng, không có gì phải nói cả.",
+                                    "p_vn": "chiec xe nay cac anh dung ba ngay roi hom nay chung toi dung khong co gi phai noi ca",
+                                    "_id": "9fa24d266fc1a6a0e24fdb32f7d6147a",
+                                    "id": 28292,
+                                    "type": "e_cnvi",
+                                    "e": "这车你们使了三天了，今天该我们使了，没有说的!",
+                                    "p_cn": "zhe che nimen shile san tianle jintian gai women shile meiyou shuo de",
+                                    "p": "zhè chē nǐmen shǐle sān tiānle, jīntiān gāi wǒmen shǐle, méiyǒu shuō de!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "một hữu thuyết đích",
+            "pinyin": "méiyǒu shuō de",
+            "word": "没有说的",
+            "id": 37357,
+            "phonetic": "meiyoushuode",
+            "rank": 91467,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄧˋㄙ",
+            "_id": "ee018904a73e4085b608c48b0bc4464d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nhàm chán",
+                            "explain": "boring",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không quan tâm",
+                            "explain": "of no interest",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 264
+            },
+            "snym": {
+                "syno": [
+                    "莫得",
+                    "不有",
+                    "毫无"
+                ],
+                "anto": [
+                    "拥有",
+                    "很多",
+                    "含有"
+                ]
+            },
+            "cn_vi": "một hữu ý tư",
+            "pinyin": "méiyǒu yìsi",
+            "word": "没有意思",
+            "id": 130510,
+            "phonetic": "meiyouyisi",
+            "rank": 23982,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄨㄣˋㄊㄧˊ",
+            "_id": "fb373b7c5ba44b79b6e85bf2d22d7fc1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Không vấn đề gì",
+                            "explain": "没有问题：范文芳演唱专辑",
+                            "examples": [
+                                {
+                                    "m": "Tuổi tác không phải là vấn đề, tâm thái sẽ quyết định trạng thái .",
+                                    "p_vn": "Tuoi tac khong phai la van de, tam thai se quyet dinh trang thai .",
+                                    "_id": "2c06b989719145f08851542e516ce5a4",
+                                    "id": 56410,
+                                    "type": "e_cnvi",
+                                    "e": "年龄没有问题,心态决定状态。",
+                                    "p_cn": "Nianling meiyou wenti, xintai jueding zhuangtai.",
+                                    "p": "Niánlíng méiyǒu wèntí, xīntài juédìng zhuàngtài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 104
+            },
+            "snym": null,
+            "cn_vi": "một hữu vấn đề",
+            "pinyin": "méiyǒu wèntí",
+            "word": "没有问题",
+            "id": 85767,
+            "phonetic": "meiyouwenti",
+            "rank": 40758,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "ti",
+                "examples": "你的问题和这个主题没有关系。",
+                "measure": "题"
+            },
+            "zhuyin": "ㄇㄟˊㄧㄡˇㄍㄨㄢㄒㄧˋ",
+            "_id": "2eeb7d57554e408b922abd8e06d07eef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "xem 沒關係 | 没关系",
+                            "explain": "see 沒關係|没关系 [méi guān xi]",
+                            "examples": [
+                                {
+                                    "m": "Gabriel không liên quan gì đến vụ trộm xe bọc thép.",
+                                    "p_vn": "Gabriel khong lien quan gi den vu trom xe boc thep.",
+                                    "_id": "065b1a94819d4b3cb6955b9fa2f201e6",
+                                    "id": 61403,
+                                    "type": "e_cnvi",
+                                    "e": "加百列和运钞车抢劫完全没有关系",
+                                    "p_cn": "jia bailie he yunchaoche qiangjie wanquan meiyou guanxi",
+                                    "p": "jiā bǎiliè hé yùnchāochē qiǎngjié wánquán méiyǒu guānxì"
+                                },
+                                {
+                                    "m": "Điều này không liên quan gì đến phân biệt giới tính.",
+                                    "p_vn": "dieu nay khong lien quan gi den phan biet gioi tinh.",
+                                    "_id": "1997d8f767ae4c3286f68b37ec63c2dc",
+                                    "id": 67141,
+                                    "type": "e_cnvi",
+                                    "e": "指出他性别歧视。",
+                                    "p_cn": "gen xingbieqishi meiyou guanxi",
+                                    "p": "gēn xìngbiéqíshì méiyǒu guānxì"
+                                },
+                                {
+                                    "m": "công tắc này không liên quan gì với bóng đèn kia.",
+                                    "p_vn": "cong tac nay khong lien quan gi voi bong den kia.",
+                                    "_id": "27e1ac8ae48c2ae1892af3d1c76d52a6",
+                                    "id": 14967,
+                                    "type": "e_cnvi",
+                                    "e": "这个电门跟那盏灯没有关系。",
+                                    "p_cn": "zhege dianmen gen na zhandeng meiyou guanxi。",
+                                    "p": "zhègè diànmén gēn nà zhǎndēng méiyǒu guānxi。"
+                                },
+                                {
+                                    "m": "cái áo bông này cũ một chút cũng không sao, chỉ cần chống chọi với gió đông lạnh rét là được rồi.",
+                                    "p_vn": "cai ao bong nay cu mot chut cung khong sao chi can chong choi voi gio dong lanh ret la duoc roi",
+                                    "_id": "30245704585543ad9e37a127faff9327",
+                                    "id": 23092,
+                                    "type": "e_cnvi",
+                                    "e": "这 件 棉衣旧 点没有关系，只要能挡风抗冻就行。",
+                                    "p_cn": "zhe jian mianyi jiu dian meiyou guanxi zhiyao neng dang feng kang dong jiuxing",
+                                    "p": "zhèjiàn miányī jìudiǎn méiyǒu guānxì，zhǐyào néng dǎngfēng kàngdòng jìuxíng。"
+                                },
+                                {
+                                    "m": "không hề gì, chữa lại vẫn dùng được.",
+                                    "p_vn": "khong he gi, chua lai van dung duoc.",
+                                    "_id": "6589d261ac9e6ba6893a0dadbac7bbae",
+                                    "id": 14975,
+                                    "type": "e_cnvi",
+                                    "e": "没有关系，修理修理照样儿能用。",
+                                    "p_cn": "meiyou guanxi，xiuli xiuli zhaoyang erneng yong。",
+                                    "p": "méiyǒu guānxi，xīulǐ xīulǐ zhàoyáng érnéng yòng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 602
+            },
+            "snym": null,
+            "cn_vi": "một hữu quan hệ",
+            "pinyin": "méiyǒu guānxì",
+            "word": "没有关系",
+            "id": 135009,
+            "phonetic": "meiyouguanxi",
+            "rank": 14056,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "400f9cec7e8c49f9a5e58020aa567907",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "không có cơ hội",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tôi không còn cơ hội đi học đại học nữa rồi.",
+                                    "p_vn": "toi khong con co hoi di hoc dai hoc nua roi.",
+                                    "_id": "ac7be255046819fca34005406357570d",
+                                    "id": 74865,
+                                    "type": "e_cnvi",
+                                    "e": "我没有机会上大学了。",
+                                    "p_cn": "wo meiyou jihui shang daxuele.",
+                                    "p": "wǒ méiyǒu jīhuì shàng dàxuéle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "một hữu cơ hội",
+            "pinyin": "méiyǒu jīhuì",
+            "popularity": {
+                "notebook": 1,
+                "search": 19
+            },
+            "word": "没有机会",
+            "id": 173473,
+            "phonetic": "meiyoujihui",
+            "rank": 83795,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇ",
+            "_id": "7681c6b6d1094962cb2449566306636e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "lại; thêm",
+                            "explain": "同''又''",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy năm nay 32 tuổi.",
+                                    "p_vn": "anh ay nam nay 32 tuoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34f447f",
+                                    "id": 105191,
+                                    "type": "e_cnvi",
+                                    "e": "他今年三十有二。",
+                                    "p_cn": "ta jinnian sanshi you er.",
+                                    "p": "tā jīnnián sānshí yòu èr."
+                                },
+                                {
+                                    "m": "Lớp chúng tôi có 17 học sinh.",
+                                    "p_vn": "lop chung toi co 17 hoc sinh.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce02add",
+                                    "id": 136713,
+                                    "type": "e_cnvi",
+                                    "e": "我们班有十五有二个学生。",
+                                    "p_cn": "women ban you shiwu you er ge xuesheng.",
+                                    "p": "wǒmen bān yǒu shíwǔ yòu èr gè xuéshēng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 959,
+                "search": 37752
+            },
+            "snym": {
+                "anto": [
+                    "无",
+                    "没"
+                ],
+                "syno": [
+                    "具有",
+                    "具"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "yòu",
+            "cn_vi": "hữu.dựu.hựu",
+            "word": "有",
+            "id": 61197,
+            "phonetic": "you",
+            "rank": 47,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n",
+                "pref"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇ",
+            "_id": "b1d98889a8cbffea9f350b6ae1560396",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "dạng phủ định câu so sánh",
+                            "examples": [
+                                136716,
+                                136717
+                            ],
+                            "struct": "A + 没/没有 + B + (这么/那么+) Tính từ"
+                        },
+                        {
+                            "explain": "biểu thị sở hữu hoặc tồn tại",
+                            "examples": [
+                                136718,
+                                136719
+                            ],
+                            "struct": "Chủ ngữ + 有/没有 + Tân ngữ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "có; hữu (biểu thị sở hữu)",
+                            "explain": "表示领有",
+                            "examples": [
+                                {
+                                    "m": "Có bản lĩnh thì ra đây cho ta.",
+                                    "p_vn": "co ban linh thi ra day cho ta.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34e9504",
+                                    "id": 105170,
+                                    "type": "e_cnvi",
+                                    "e": "有本事就给我出来。",
+                                    "p_cn": "you benshi jiu gei wo chulai.",
+                                    "p": "yǒu běnshì jiù gěi wǒ chūlai."
+                                },
+                                {
+                                    "m": "Tôi có rất nhiều sách tiếng Trung.",
+                                    "p_vn": "toi co rat nhieu sach tieng trung.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cdf5626",
+                                    "id": 136687,
+                                    "type": "e_cnvi",
+                                    "e": "我有很多中文书。",
+                                    "p_cn": "wo you henduo zhongwen shu.",
+                                    "p": "wǒ yǒu hěnduō zhōngwén shū."
+                                },
+                                {
+                                    "m": "Tôi có một cô em gái.",
+                                    "p_vn": "toi co mot co em gai.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cdf65ab",
+                                    "id": 136688,
+                                    "type": "e_cnvi",
+                                    "e": "我有一个妹妹。",
+                                    "p_cn": "wo you yige meimei.",
+                                    "p": "wǒ yǒu yīgè mèimei."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "có (biểu thị tồn tại)",
+                            "explain": "表示某些地方存在某些事物",
+                            "examples": [
+                                {
+                                    "m": "Trong nhà có khoảng 10 người.",
+                                    "p_vn": "trong nha co khoang 10 nguoi.",
+                                    "_id": "5648307b9744317f465d2f5f90fbda54",
+                                    "id": 46704,
+                                    "type": "e_cnvi",
+                                    "e": "屋里有十来个人。",
+                                    "p_cn": "wuli you shilaige ren。",
+                                    "p": "wūlǐ yǒu shíláigè rén。"
+                                },
+                                {
+                                    "m": "Trên bàn có vài quyển sách.",
+                                    "p_vn": "tren ban co vai quyen sach.",
+                                    "_id": "ac7be255046819fca340054063c518f6",
+                                    "id": 75388,
+                                    "type": "e_cnvi",
+                                    "e": "桌子上有几本书。",
+                                    "p_cn": "zhuozi shang you ji ben shu.",
+                                    "p": "zhuōzi shàng yǒu jǐ běn shū."
+                                },
+                                {
+                                    "m": "Trên đường có rất nhiều người.",
+                                    "p_vn": "tren duong co rat nhieu nguoi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce0b896",
+                                    "id": 136727,
+                                    "type": "e_cnvi",
+                                    "e": "马路上有许多人。",
+                                    "p_cn": "malu shang you xuduo ren.",
+                                    "p": "mǎlù shàng yǒu xǔduō rén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "như; có tới (biểu thị sự đánh giá hoặc so sánh)",
+                            "explain": "表示估量或比较",
+                            "examples": [
+                                {
+                                    "m": "Nó cao như anh nó.",
+                                    "p_vn": "no cao nhu anh no.",
+                                    "_id": "2577fc3342d60e523c3bd97851f7303b",
+                                    "id": 46706,
+                                    "type": "e_cnvi",
+                                    "e": "他有他哥哥那么高了。",
+                                    "p_cn": "ta you ta gege name gaole.",
+                                    "p": "tā yǒu tā gēge nàme gāole."
+                                },
+                                {
+                                    "m": "Vấn đề nghiêm trọng đến vậy sao?",
+                                    "p_vn": "van de nghiem trong den vay sao?",
+                                    "_id": "ac7be255046819fca340054063c516a9",
+                                    "id": 75386,
+                                    "type": "e_cnvi",
+                                    "e": "问题有那么严重吗？",
+                                    "p_cn": "wenti you name yanzhong ma?",
+                                    "p": "wèntí yǒu nàme yánzhòng ma?"
+                                },
+                                {
+                                    "m": "Tuyết không rơi dày như bạn nói.",
+                                    "p_vn": "tuyet khong roi day nhu ban noi.",
+                                    "_id": "ac7be255046819fca340054063c516b5",
+                                    "id": 75387,
+                                    "type": "e_cnvi",
+                                    "e": "雪没有你说的那么大。",
+                                    "p_cn": "xue meiyou ni shuo de name da.",
+                                    "p": "xuě méiyǒu nǐ shuō de nàme dà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "có; phát sinh; xuất hiện",
+                            "explain": "表示发生或出现",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy bị bệnh rồi.",
+                                    "p_vn": "anh ay bi benh roi.",
+                                    "_id": "a7b5fc63ad73dc72bfb05aab3dc58084",
+                                    "id": 46707,
+                                    "type": "e_cnvi",
+                                    "e": "他有病了。",
+                                    "p_cn": "ta you bing le。",
+                                    "p": "tā yǒu bìng le。"
+                                },
+                                {
+                                    "m": "Tình hình đã có bước phát triển mới.",
+                                    "p_vn": "tinh hinh da co buoc phat trien moi.",
+                                    "_id": "32319fba2349d29d0cd6859fce7bb0bc",
+                                    "id": 46708,
+                                    "type": "e_cnvi",
+                                    "e": "形势有了新发展。",
+                                    "p_cn": "xingshi you le xin fazhan。",
+                                    "p": "xíngshì yǒu le xīn fāzhǎn。"
+                                },
+                                {
+                                    "m": "Anh ấy đã tiến bộ rất nhiều.",
+                                    "p_vn": "anh ay da tien bo rat nhieu.",
+                                    "_id": "057e70777e610e494ea15137bb31c2db",
+                                    "id": 46709,
+                                    "type": "e_cnvi",
+                                    "e": "他有了很大的进步。",
+                                    "p_cn": "ta you le henda de jinbu。",
+                                    "p": "tā yǒu le hěndà de jìnbù。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "có (đứng trước danh từ trừu tượng, biểu thị nhiều, lớn)",
+                            "explain": "用在抽象名词前, 表示多或者大",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy là một người có học vấn.",
+                                    "p_vn": "anh ay la mot nguoi co hoc van.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34eb6f0",
+                                    "id": 105176,
+                                    "type": "e_cnvi",
+                                    "e": "他是个有学问的人。",
+                                    "p_cn": "ta shige you xuewen de ren.",
+                                    "p": "tā shìgè yǒu xuéwèn de rén."
+                                },
+                                {
+                                    "m": "Cô ấy có rất nhiều kinh nghiệm làm việc.",
+                                    "p_vn": "co ay co rat nhieu kinh nghiem lam viec.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34eba6f",
+                                    "id": 105177,
+                                    "type": "e_cnvi",
+                                    "e": "她有很多工作经验。",
+                                    "p_cn": "ta you henduo gongzuo jingyan.",
+                                    "p": "tā yǒu hěnduō gōngzuò jīngyàn."
+                                },
+                                {
+                                    "m": "Lời khuyên của anh rất hữu ích.",
+                                    "p_vn": "loi khuyen cua anh rat huu ich.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cdf8cda",
+                                    "id": 136692,
+                                    "type": "e_cnvi",
+                                    "e": "您的建议很有价值。",
+                                    "p_cn": "nin de jianyi hen you jiazhi.",
+                                    "p": "nín de jiànyì hěn yǒu jiàzhí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nọ; nào đó (dùng như' '某'')",
+                            "explain": "泛指，跟''某''的作用相近",
+                            "examples": [
+                                {
+                                    "m": "Người nào đó nói vậy, nhưng tôi chưa nhìn thấy.",
+                                    "p_vn": "nguoi nao do noi vay, nhung toi chua nhin thay.",
+                                    "_id": "97e39ff03ea77f436611cc23f250088f",
+                                    "id": 46714,
+                                    "type": "e_cnvi",
+                                    "e": "有人这么说，我可没看见。",
+                                    "p_cn": "youren zheme shuo, wo ke mei kanjian.",
+                                    "p": "yǒurén zhème shuō, wǒ kě méi kànjiàn."
+                                },
+                                {
+                                    "m": "Rồi một ngày nào đó con sẽ hiểu.",
+                                    "p_vn": "roi mot ngay nao do con se hieu.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34ed966",
+                                    "id": 105179,
+                                    "type": "e_cnvi",
+                                    "e": "总有一天你会明白。",
+                                    "p_cn": "zong you yitian ni hui mingbai.",
+                                    "p": "zǒng yǒu yītiān nǐ huì míngbái."
+                                },
+                                {
+                                    "m": "Anh không thích thì có người nào đó sẽ thích.",
+                                    "p_vn": "anh khong thich thi co nguoi nao do se thich.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cdf91d3",
+                                    "id": 136695,
+                                    "type": "e_cnvi",
+                                    "e": "你不喜欢，有人喜欢。",
+                                    "p_cn": "ni bu xihuan, youren xihuan.",
+                                    "p": "nǐ bù xǐhuān, yǒurén xǐhuān."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "có người; có lúc; có nơi",
+                            "explain": "用在''人、时候、地方''前面，表示一部分",
+                            "examples": [
+                                {
+                                    "m": "Ở đây có lúc cũng nóng đến 38, 39 độ.",
+                                    "p_vn": "o day co luc cung nong den 38, 39 do.",
+                                    "_id": "72073e6f44eb176aaac0b9c8cda78ccb",
+                                    "id": 46716,
+                                    "type": "e_cnvi",
+                                    "e": "这里有时候也能热到三十八九度。",
+                                    "p_cn": "zheli youshihou ye neng redao sanshiba jiudu。",
+                                    "p": "zhèlǐ yǒushíhou yě néng rèdào sānshíbā jǐudù。"
+                                },
+                                {
+                                    "m": "Có nơi náo nhiệt, có nơi vắng vẻ.",
+                                    "p_vn": "co noi nao nhiet, co noi vang ve.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34eeead",
+                                    "id": 105182,
+                                    "type": "e_cnvi",
+                                    "e": "有地方热闹，有地方冷清。",
+                                    "p_cn": "you difang renao, you difang lengqing.",
+                                    "p": "Yǒu dìfang rènao, yǒu dìfang lěngqīng."
+                                },
+                                {
+                                    "m": "Có người thích ăn ngọt, có người thích ăn cay.",
+                                    "p_vn": "co nguoi thich an ngot, co nguoi thich an cay.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cdfabbe",
+                                    "id": 136698,
+                                    "type": "e_cnvi",
+                                    "e": "有人爱吃甜的，有人爱吃辣的。",
+                                    "p_cn": "youren ai chi tian de, youren ai chi la de.",
+                                    "p": "yǒurén ài chī tián de, yǒurén ài chī là de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xin; chờ; cảm phiền (biểu thị ngữ khí khách sáo)",
+                            "explain": "用在某些动词的前面组成套语，表示客气",
+                            "examples": [
+                                {
+                                    "m": "Việc này còn chờ giải quyết.",
+                                    "p_vn": "viec nay con cho giai quyet.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34ef322",
+                                    "id": 105183,
+                                    "type": "e_cnvi",
+                                    "e": "这件事还有待解决。",
+                                    "p_cn": "zhe jian shi hai youdai jiejue.",
+                                    "p": "zhè jiàn shì hái yǒudài jiějué."
+                                },
+                                {
+                                    "m": "Mời giám đốc lên phát biểu.",
+                                    "p_vn": "moi giam doc len phat bieu.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34f0803",
+                                    "id": 105185,
+                                    "type": "e_cnvi",
+                                    "e": "有请经理上台发言。",
+                                    "p_cn": "you qing jingli shangtai fayan.",
+                                    "p": "yǒu qǐng jīnglǐ shàngtái fāyán."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "họ Hữu",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Tôi họ Hữu.",
+                                    "p_vn": "toi ho huu.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34f233f",
+                                    "id": 105187,
+                                    "type": "e_cnvi",
+                                    "e": "我姓有。",
+                                    "p_cn": "wo xing you.",
+                                    "p": "Wǒ xìng yǒu."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "pref",
+                    "means": [
+                        {
+                            "mean": "hữu (dùng trước tên triều đại, dân tộc)",
+                            "explain": "用在某些朝代名或民族名前面",
+                            "examples": [
+                                {
+                                    "m": "Dân tộc Miêu sống ở trên núi.",
+                                    "p_vn": "dan toc mieu song o tren nui.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cdfda25",
+                                    "id": 136704,
+                                    "type": "e_cnvi",
+                                    "e": "有苗住在山上。",
+                                    "p_cn": "you miao zhu zai shanshang.",
+                                    "p": "yǒu miáo zhù zài shānshàng."
+                                },
+                                {
+                                    "m": "Nhà Hữu Hạ là một triều đại cổ.",
+                                    "p_vn": "nha huu ha la mot trieu dai co.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cdfe8d5",
+                                    "id": 136705,
+                                    "type": "e_cnvi",
+                                    "e": "有夏是一个古代的朝代。",
+                                    "p_cn": "you xia shi yige gudai de chaodai.",
+                                    "p": "Yǒu xià shì yīgè gǔdài de cháodài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Ý nghĩa của \"具有\"， \"具\"，\"有\"giống nhau, nhưng cách sử dụng lại không giống nhau.\nTân ngữ của \"具有\" chỉ có thể là danh từ trừu tượng, \"具有\" thường được dùng trong văn viết, \"具\" thường được dùng trong văn viết, không dùng trong văn nói, tân ngữ của \"有\" vừa có thể là danh từ trừu tượng, \"有\" vừa có thể là danh từ cụ thể, vừa có thể dùng trong văn viết và văn nói.\nPhủ định của \"具有\" phải nói \"不具有\"，phủ định của \"有\" là \"没有\".",
+                    "title": "Phân biệt \"具有\", \"具\" và \"有\"",
+                    "words": [
+                        "具有",
+                        "具",
+                        "有"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Đều là động từ nghĩa là có, cũng có thể chỉ sự tồn tại.\nKhác:\n- \"拥有\" tân ngữ là những danh từ trừu tượng, hai âm tiết.\n\"有\" tân ngữ là những danh từ cụ thể hoặc trừu tượng, đơn âm tiết hoặc nhiều âm tiết.\n- \"有\" biểu thị ước tính, Phân biệt, xảy ra hoặc xuất hiện.\n- \"拥有\" phủ định dùng 不， \"有\" phủ định dùng 没.\n- \"拥有\" không đi với phó từ chỉ mức độ, \"有\" đi với phó từ chỉ mức độ.",
+                    "title": "Phân biệt \"拥有\" và \"有\"",
+                    "words": [
+                        "拥有",
+                        "有"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Cả hai đều là động từ, mang ý nghĩa sở hữu, có được hoặc có tính chất gì đó.\nKhác:\n- \"拥有\" (yōng yǒu) thường được sử dụng để chỉ việc sở hữu một vật phẩm, tài sản, hoặc đặc điểm cụ thể nào đó.\nTừ này có tính chất thực tế, cụ thể và thường được sử dụng trong ngữ cảnh hằng ngày.\n- \"具有\" (jù yǒu) thường được sử dụng để chỉ việc có tính chất, đặc điểm hoặc khả năng nào đó.\nTừ này có tính chất trừu tượng hơn và thường được sử dụng trong ngữ cảnh chuyên môn hoặc học thuật.",
+                    "title": "Phân biệt \"拥有\" và \"具有\"",
+                    "words": [
+                        "拥有",
+                        "有"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "无",
+                    "没"
+                ],
+                "syno": [
+                    "具有",
+                    "具"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "yǒu",
+            "cn_vi": "hữu.dựu.hựu",
+            "popularity": {
+                "notebook": 959,
+                "search": 37752
+            },
+            "word": "有",
+            "id": 61196,
+            "phonetic": "you",
+            "rank": 46,
+            "lv_tocfl": 1,
+            "compound": "有板有眼 ; 有备无患 ; 有鼻子有眼儿 ; 有差 ; 有偿 ; 有成 ; 有待 ; 有得 ; 有的 ; 有的是 ; 有底 ; 有的放矢 ; 有点 ; 有方 ; 有关 ; 有光纸 ; 有过之无不及 ; 有恒 ; 有会子 ; 有机 ; 有机玻璃 ; 有机肥料 ; 有机合成 ; 有机化合物 ; 有机化学 ; 有机染料 ; 有机体 ; 有机物 ; 有机质 ; 有价证券 ; 有劲 ; 有旧 ; 有救 ; 有口皆碑 ; 有口难分 ; 有口无心 ; 有赖 ; 有劳 ; 有理 ; 有理式 ; 有理数 ; 有力 ; 有利 ; 有两下子 ; 有零 ; 有门儿 ; 有名 ; 有名无实 ; 有目共睹 ; 有目共赏 ; 有奶便是娘 ; 有年 ; 有盼儿 ; 有谱儿 ; 有期徒刑 ; 有气无力 ; 有顷 ; 有请 ; 有求必应 ; 有趣 ; 有人家儿 ; 有日子 ; 有如 ; 有色金属 ; 有色人种 ; 有色眼镜 ; 有身子 ; 有神论 ; 有生力量 ; 有生以来 ; 有生之年 ; 有声片儿 ; 有声片 ; 有声有色 ; 有时 ; 有始无终 ; 有始有终 ; 有恃无恐 ; 有数 ; 有司 ; 有丝分裂 ; 有条不紊 ; 有头无尾 ; 有头有脸 ; 有头有尾 ; 有望 ; 有为 ; 有...无... ; 有喜 ; 有戏 ; 有隙可乘 ; 有限 ; 有限公司 ; 有限小数 ; 有线电报 ; 有线电话 ; 有线广播 ; 有线通信 ; 有效 ; 有效期 ; 有效射程 ; 有效温度 ; 有些 ; 有心 ; 有心人 ; 有形 ; 有形损耗 ; 有幸 ; 有性生殖 ; 有性杂交 ; 有血有肉 ; 有言在先 ; 有眼不识泰山 ; 有眼无珠 ; 有一搭没一搭 ; 有一得一 ; 有益 ; 有意 ; 有意识 ; 有意思 ; 有...有... ; 有余 ; 有缘 ; 有朝一日 ; 有着 ; 有枝添叶儿 ; 有志者事竟成 ; 有致 ; 有种"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄔㄣˊㄧㄡˇㄈㄨˊ",
+            "_id": "2006596dfeb84f3fa8f06a91fd701786",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "có những thăng trầm",
+                            "explain": "to have one's ups and downs",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "hữu trầm hữu phù",
+            "pinyin": "yǒu chén yǒu fú",
+            "word": "有沉有浮",
+            "id": 134835,
+            "phonetic": "youchenyoufu",
+            "rank": 158107,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄨㄟˋㄧㄡˇㄕㄡˇ",
+            "_id": "1e2f77665d924a21aa54a967ce59e896",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "có thể hành động trong khi duy trì tính chính trực của một người (thành ngữ)",
+                            "explain": "able to act while maintaining one's integrity (idiom)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "còn được viết 有守 有為 | 有守 有为",
+                            "explain": "also written 有守有為|有守有为 [yǒu shǒu yǒu wéi]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "hữu vi hữu thủ",
+            "pinyin": "yǒu wéi yǒu shǒu",
+            "word": "有为有守",
+            "id": 137332,
+            "phonetic": "youweiyoushou",
+            "rank": 81410,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄌㄥˊㄧㄡˇㄐㄧㄠˇ",
+            "_id": "fd7a51d5f2244946890024bda10c060b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "(của một người) xác định theo ý kiến ​​của anh ta",
+                            "explain": "(of a person) definite in his opinion",
+                            "examples": []
+                        },
+                        {
+                            "mean": "(của một hình dạng) sắc nét và rõ ràng",
+                            "explain": "(of a shape) sharp and clearcut",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 28
+            },
+            "snym": {
+                "syno": [
+                    "棱角分明",
+                    "没边没沿"
+                ],
+                "anto": [
+                    "八面玲珑"
+                ]
+            },
+            "cn_vi": "hữu lăng hữu giác",
+            "pinyin": "yǒu léng yǒu jiǎo",
+            "word": "有棱有角",
+            "id": 139408,
+            "phonetic": "youlengyoujiao",
+            "rank": 73051,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄊㄧㄠˊㄧㄡˇㄌㄧˇ",
+            "_id": "dd717b8b175738f08dcfbe850b3d58b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "có trật tự; mạch lạc; rõ ràng; có tình có lý; rành rọt",
+                            "explain": "条理层次分明而不紊乱",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lớp lang",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 138
+            },
+            "snym": {
+                "syno": [
+                    "头头是道",
+                    "头重脚轻",
+                    "有条不紊",
+                    "一丝不紊",
+                    "有声有色",
+                    "井井有条",
+                    "错落有致",
+                    "井井有理",
+                    "有板有眼",
+                    "井然有序",
+                    "尽然有序",
+                    "层次分明",
+                    "有理有据"
+                ],
+                "anto": [
+                    "乱七八糟",
+                    "杂乱无章",
+                    "井井有条",
+                    "颠三倒四",
+                    "语无伦次",
+                    "七颠八倒",
+                    "手忙脚乱",
+                    "杂七杂八"
+                ]
+            },
+            "cn_vi": "hữu điều hữu lí",
+            "pinyin": "yǒu tiáo yǒulǐ",
+            "word": "有条有理",
+            "id": 61295,
+            "phonetic": "youtiaoyouli",
+            "rank": 35061,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄌㄞˊㄧㄡˇㄨㄤˇ",
+            "_id": "70245a6d8805f60376d75deac8ab9199",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Có qua có lại",
+                            "explain": "作谓语、宾语；指交往",
+                            "examples": [
+                                {
+                                    "m": "Rất nhiều người không hiểu cái gọi là giao thiệp chính là có qua có lại.",
+                                    "p_vn": "Rat nhieu nguoi khong hieu cai goi la giao thiep chinh la co qua co lai.",
+                                    "_id": "3f21289d5351e7f0cbe68fc926fe39c1",
+                                    "id": 54193,
+                                    "type": "e_cnvi",
+                                    "e": "许多人不理解真正的交流是有来有往的.",
+                                    "p_cn": "Xuduo ren bu lijie zhenzheng de jiaoliu shi you lai you wang de.",
+                                    "p": "Xǔduō rén bù lǐjiě zhēnzhèng de jiāoliú shì yǒu lái yǒu wǎng de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 215
+            },
+            "snym": null,
+            "cn_vi": "hữu lai hữu vãng",
+            "pinyin": "yǒu lái yǒu wǎng",
+            "word": "有来有往",
+            "id": 83421,
+            "phonetic": "youlaiyouwang",
+            "rank": 27129,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄅㄢˇㄧㄡˇㄧㄢˇ",
+            "_id": "8c849b3cc4c4641c71d43e9f23fe4850",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "có bài bản hẳn hoi; nói làm đâu ra đấy; chừng mực",
+                            "explain": "比喻言语行动有条不紊，富有节奏或章法",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 127
+            },
+            "snym": {
+                "syno": [
+                    "栩栩如生",
+                    "绘声绘色",
+                    "有条不紊",
+                    "有声有色",
+                    "一板一眼",
+                    "有条有理",
+                    "有模有样"
+                ],
+                "anto": [
+                    "颠三倒四",
+                    "驴唇马嘴",
+                    "不三不四",
+                    "马虎从事",
+                    "乱七八糟",
+                    "杂乱无章"
+                ]
+            },
+            "cn_vi": "hữu bản hữu nhãn",
+            "pinyin": "yǒubǎnyǒuyǎn",
+            "word": "有板有眼",
+            "id": 61200,
+            "phonetic": "youbanyouyan",
+            "rank": 36551,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄐㄩˋㄧㄡˇㄙㄢˋ",
+            "_id": "082bfe8a614a400f93417c10e81a5fb0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Có tan có hợp",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Hi vọng tình yêu của chúng ta có tan có hợp",
+                                    "p_vn": "Hi vong tinh yeu cua chung ta co tan co hop",
+                                    "_id": "db540b8297ed4bb0b86dd399461a6cc1",
+                                    "id": 63476,
+                                    "type": "e_cnvi",
+                                    "e": "希望我们爱情有聚有散",
+                                    "p_cn": "Xiwang women aiqing you ju you san",
+                                    "p": "Xīwàng wǒmen àiqíng yǒu jù yǒu sàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "hữu tụ hữu tán",
+            "pinyin": "yǒu jù yǒu sàn",
+            "word": "有聚有散",
+            "id": 147389,
+            "phonetic": "youjuyousan",
+            "rank": 81739,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄉㄜ˙ㄧㄡˇㄕ",
+            "_id": "6883ba51587b4607854df58ea02bb8ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "được và mất",
+                            "explain": "gains and losses",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đánh đổi",
+                            "explain": "trade-off",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bạn thắng một số, bạn mất một số (thành ngữ)",
+                            "explain": "you win some, you lose some (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "hữu đắc hữu thất",
+            "pinyin": "yǒu dé yǒu shī",
+            "word": "有得有失",
+            "id": 132382,
+            "phonetic": "youdeyoushi",
+            "rank": 67657,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄊㄡˊㄧㄡˇㄌㄧㄢˇ",
+            "_id": "3cbf147a83d8a6d212f737acbb14bb54",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "có uy tín danh dự; có máu mặt",
+                            "explain": "(有头有脸儿) 比喻有名誉，有威信",
+                            "examples": [
+                                {
+                                    "m": "trong làng ông ấy là người có máu mặt, lời nói rất có chừng mực.",
+                                    "p_vn": "trong lang ong ay la nguoi co mau mat loi noi rat co chung muc",
+                                    "_id": "ce06f0452cc1262f2821054ec528ab26",
+                                    "id": 46797,
+                                    "type": "e_cnvi",
+                                    "e": "他在村里是个有头有脸的，说话很有分量。",
+                                    "p_cn": "ta zai cunli shige youtouyoulian de shuohua hen you fenliang",
+                                    "p": "tā zài cūnlǐ shì gè yǒutóuyǒuliǎn de，shuōhuà hěn yǒu fēnliàng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 92
+            },
+            "snym": {
+                "syno": [
+                    "有头有面",
+                    "赫赫有名",
+                    "名扬四海",
+                    "大名鼎鼎",
+                    "头面人物",
+                    "小有名气"
+                ],
+                "anto": [
+                    "没头没脸"
+                ]
+            },
+            "cn_vi": "hữu đầu hữu kiểm",
+            "pinyin": "yǒutóuyǒuliǎn",
+            "word": "有头有脸",
+            "id": 61297,
+            "phonetic": "youtouyoulian",
+            "rank": 43386,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "36e4f132513b47b5a54466f4c319f625",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "có đồng ra đồng vào",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hữu tiến hữu xuất",
+            "pinyin": "yǒu jìn yǒu chū",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "有进有出",
+            "id": 184838,
+            "phonetic": "youjinyouchu",
+            "rank": 158107,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄕˇㄧㄡˇㄓㄨㄥ",
+            "_id": "056f45ec260590038d0b71aab5f5f993",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "đến nơi đến chốn; có thuỷ có chung; hữu thuỷ hữu chung; đi đến nơi, về đến chốn",
+                            "explain": "指人做事能坚持到底",
+                            "examples": []
+                        },
+                        {
+                            "mean": "có đầu có đuôi",
+                            "explain": "指人做事不能坚持到底",
+                            "examples": []
+                        },
+                        {
+                            "mean": "có trước có sau",
+                            "explain": "事情从开头到结束都做得很好",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 35,
+                "search": 269
+            },
+            "snym": {
+                "syno": [
+                    "有头有尾",
+                    "有始有卒",
+                    "善始善终",
+                    "自始至终",
+                    "坚持到底",
+                    "全始全终",
+                    "始终如一",
+                    "持之以恒",
+                    "一以贯之",
+                    "无始无终"
+                ],
+                "anto": [
+                    "有始无终",
+                    "有头无尾",
+                    "虎头蛇尾",
+                    "一暴十寒",
+                    "一曝十寒",
+                    "半途而废"
+                ]
+            },
+            "cn_vi": "hữu thủy hữu chung",
+            "pinyin": "yǒushǐyǒuzhōng",
+            "word": "有始有终",
+            "id": 61288,
+            "phonetic": "youshiyouzhong",
+            "rank": 23686,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "有没有"
+}

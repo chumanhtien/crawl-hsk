@@ -1,0 +1,2785 @@
+{
+    "total": 558,
+    "found": true,
+    "result": [
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄆㄧㄠˋ",
+            "_id": "581ab06709b72336ffaf786b8767b8b9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trả vé; nhường lại vé",
+                            "explain": "把已经买来的车票、船票、戏票等退还原处或转让别人，收回买票的钱",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 187
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "tuìpiào",
+            "cn_vi": "thối phiếu",
+            "word": "退票",
+            "id": 51961,
+            "phonetic": "tuipiao",
+            "rank": 29472,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄊㄨㄟˋㄊㄨㄟˋㄊㄨㄟˋ",
+            "_id": "6dc6a38ca7c6430b8a39add77d38e458",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Đẩy; khi không muốn nói nhiều mà muốn đuổi người khác đi.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "thối thối thối",
+            "pinyin": "Tuì tuì tuì",
+            "word": "退退退",
+            "id": 158304,
+            "phonetic": "Tuituitui",
+            "rank": 91353,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋ",
+            "_id": "aaa2d7f60e9a309f72988bfaf5b702bf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                137349,
+                                137350
+                            ],
+                            "struct": "退 + Số lượng步/Số lượng米/到 Địa điểm"
+                        },
+                        {
+                            "explain": "bổ ngữ khả năng",
+                            "examples": [
+                                137351,
+                                137352
+                            ],
+                            "struct": "退 + 得/不 + 了"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thối; lui; lùi; thoái",
+                            "explain": "向后移动",
+                            "examples": [
+                                {
+                                    "m": "Tôi rơi vào tình cảnh tiến thoái lưỡng nan.",
+                                    "p_vn": "toi roi vao tinh canh tien thoai luong nan.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3db16fe",
+                                    "id": 108278,
+                                    "type": "e_cnvi",
+                                    "e": "我陷入了进退两难的境地。",
+                                    "p_cn": "wo xianrule jintuiliangnan de jingdi.",
+                                    "p": "wǒ xiànrùle jìntuìliǎngnán de jìngdì."
+                                },
+                                {
+                                    "m": "Xin mọi người lùi về sau.",
+                                    "p_vn": "xin moi nguoi lui ve sau.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3db2c4d",
+                                    "id": 108282,
+                                    "type": "e_cnvi",
+                                    "e": "请大家向后退。",
+                                    "p_cn": "qing dajia xiang houtui.",
+                                    "p": "qǐng dàjiā xiàng hòutuì."
+                                },
+                                {
+                                    "m": "Chân trái của bạn phải lùi về phía sau.",
+                                    "p_vn": "chan trai cua ban phai lui ve phia sau.",
+                                    "_id": "9938873f438f99a1b005f10050053390",
+                                    "id": 137332,
+                                    "type": "e_cnvi",
+                                    "e": "你的左脚得向后退。",
+                                    "p_cn": "ni de zuo jiao dei xiang houtui.",
+                                    "p": "nǐ de zuǒ jiǎo děi xiàng hòutuì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đẩy lùi",
+                            "explain": "使向后移动",
+                            "examples": [
+                                {
+                                    "m": "Kẻ địch lui binh rồi.",
+                                    "p_vn": "ke dich lui binh roi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3db40f1",
+                                    "id": 108286,
+                                    "type": "e_cnvi",
+                                    "e": "敌人退兵了。",
+                                    "p_cn": "diren tuibingle.",
+                                    "p": "dírén tuìbīngle."
+                                },
+                                {
+                                    "m": "Quân ta thuận lợi đánh lui quần địch.",
+                                    "p_vn": "quan ta thuan loi danh lui quan dich.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3db4a99",
+                                    "id": 108287,
+                                    "type": "e_cnvi",
+                                    "e": "我军顺利击退敌人。",
+                                    "p_cn": "wo jun shunli ji tui diren.",
+                                    "p": "wǒ jūn shùnlì jí tuì dírén."
+                                },
+                                {
+                                    "m": "Bạn đẩy chiếc đĩa DVD đó ra.",
+                                    "p_vn": "ban day chiec dia dvd do ra.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3db58a6",
+                                    "id": 108289,
+                                    "type": "e_cnvi",
+                                    "e": "你把那张DVD退出来。",
+                                    "p_cn": "ni ba na zhang dvd tuichu lai.",
+                                    "p": "nǐ bǎ nà zhāng dvd tuìchū lái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "rút khỏi; ra khỏi; rời khỏi",
+                            "explain": "退出",
+                            "examples": [
+                                {
+                                    "m": "Buổi tiệc vẫn chưa kết thúc, họ đã rời đi.",
+                                    "p_vn": "buoi tiec van chua ket thuc, ho da roi di.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3db9917",
+                                    "id": 108295,
+                                    "type": "e_cnvi",
+                                    "e": "宴会还没结束，他们就退席了。",
+                                    "p_cn": "yanhui hai mei jieshu, tamen jiu tuixile.",
+                                    "p": "yànhuì hái méi jiéshù, tāmen jiù tuìxíle."
+                                },
+                                {
+                                    "m": "Áp lực công việc quá lớn, anh ấy định thôi việc.",
+                                    "p_vn": "ap luc cong viec qua lon, anh ay dinh thoi viec.",
+                                    "_id": "9938873f438f99a1b005f100500546e9",
+                                    "id": 137335,
+                                    "type": "e_cnvi",
+                                    "e": "工作压力太大，他打算退职。",
+                                    "p_cn": "gongzuo yali tai da, ta dasuan tuizhi.",
+                                    "p": "gōngzuò yālì tài dà, tā dǎsuàn tuìzhí."
+                                },
+                                {
+                                    "m": "Cô ấy quyết định thôi học ở Đại học Bắc Kinh.",
+                                    "p_vn": "co ay quyet dinh thoi hoc o dai hoc bac kinh.",
+                                    "_id": "9938873f438f99a1b005f10050057012",
+                                    "id": 137344,
+                                    "type": "e_cnvi",
+                                    "e": "她决定从北大退学。",
+                                    "p_cn": "ta jueding cong beida tuixue.",
+                                    "p": "tā juédìng cóng běidà tuìxué."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giảm sút; giảm xuống",
+                            "explain": "减退;下降;变弱",
+                            "examples": [
+                                {
+                                    "m": "Bác sĩ đã kê cho tôi thuốc hạ sốt.",
+                                    "p_vn": "bac si da ke cho toi thuoc ha sot.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3dbb73d",
+                                    "id": 108298,
+                                    "type": "e_cnvi",
+                                    "e": "医生给我开了退烧药。",
+                                    "p_cn": "yisheng gei wo kaile tuishao yao.",
+                                    "p": "yīshēng gěi wǒ kāile tuìshāo yào."
+                                },
+                                {
+                                    "m": "Thủy triều đã hạ xuống.",
+                                    "p_vn": "thuy trieu da ha xuong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3dbc192",
+                                    "id": 108299,
+                                    "type": "e_cnvi",
+                                    "e": "潮水已经退下去了。",
+                                    "p_cn": "chaoshui yijing tui xiaqule.",
+                                    "p": "cháoshuǐ yǐjīng tuì xiàqùle."
+                                },
+                                {
+                                    "m": "Chiếc áo này phai màu rồi.",
+                                    "p_vn": "chiec ao nay phai mau roi.",
+                                    "_id": "9938873f438f99a1b005f10050054720",
+                                    "id": 137336,
+                                    "type": "e_cnvi",
+                                    "e": "这件衣服退色了。",
+                                    "p_cn": "zhe jian yifu tuishaile.",
+                                    "p": "zhè jiàn yīfu tuìshǎile."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trả; trả lại",
+                            "explain": "退还",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy đã trả lại món quà này.",
+                                    "p_vn": "co ay da tra lai mon qua nay.",
+                                    "_id": "d747be24da7a4b9e4fc8b5f3b120bde3",
+                                    "id": 39803,
+                                    "type": "e_cnvi",
+                                    "e": "她把这份礼退了。",
+                                    "p_cn": "ta ba zhe fen li tuile.",
+                                    "p": "Tā bǎ zhè fèn lǐ tuìle."
+                                },
+                                {
+                                    "m": "Ông chủ, tôi muốn trả hàng.",
+                                    "p_vn": "ong chu, toi muon tra hang.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3dbd29f",
+                                    "id": 108302,
+                                    "type": "e_cnvi",
+                                    "e": "老板，我想退货。",
+                                    "p_cn": "laoban, wo xiang tuihuo.",
+                                    "p": "lǎobǎn, wǒ xiǎng tuìhuò."
+                                },
+                                {
+                                    "m": "Chúng ta phải trả phòng trước 12 giờ.",
+                                    "p_vn": "chung ta phai tra phong truoc 12 gio.",
+                                    "_id": "9938873f438f99a1b005f100500558cf",
+                                    "id": 137338,
+                                    "type": "e_cnvi",
+                                    "e": "我们必须在12点前退房。",
+                                    "p_cn": "women bixu zai 12 dian qian tui fang.",
+                                    "p": "wǒmen bìxū zài 12 diǎn qián tuì fáng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xóa; huỷ bỏ; triệt tiêu",
+                            "explain": "把已定的事撤销",
+                            "examples": [
+                                {
+                                    "m": "Bọn họ đột nhiên hủy hôn rồi.",
+                                    "p_vn": "bon ho dot nhien huy hon roi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3dbf0d1",
+                                    "id": 108305,
+                                    "type": "e_cnvi",
+                                    "e": "他们突然退婚了。",
+                                    "p_cn": "tamen turan tuihunle.",
+                                    "p": "tāmen túrán tuìhūnle."
+                                },
+                                {
+                                    "m": "Anh ta quyết định hủy thuê.",
+                                    "p_vn": "anh ta quyet dinh huy thue.",
+                                    "_id": "9938873f438f99a1b005f10050056264",
+                                    "id": 137340,
+                                    "type": "e_cnvi",
+                                    "e": "他已经决定退租了。",
+                                    "p_cn": "ta yijing jueding tui zule.",
+                                    "p": "tā yǐjīng juédìng tuì zūle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nghỉ hưu",
+                            "explain": "因为到了规定的年龄或者身体不好等离开工作单位。",
+                            "examples": [
+                                {
+                                    "m": "Bố tôi nghỉ hưu rồi.",
+                                    "p_vn": "bo toi nghi huu roi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3dbffb7",
+                                    "id": 108307,
+                                    "type": "e_cnvi",
+                                    "e": "我爸爸退休了。",
+                                    "p_cn": "wo baba tuixiule.",
+                                    "p": "wǒ bàba tuìxiūle."
+                                },
+                                {
+                                    "m": "Tôi đã nghỉ hưu 3 năm.",
+                                    "p_vn": "toi da nghi huu 3 nam.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3dc12db",
+                                    "id": 108310,
+                                    "type": "e_cnvi",
+                                    "e": "我退了三年。",
+                                    "p_cn": "wo tuile san nian.",
+                                    "p": "wǒ tuìle sān nián."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 307,
+                "search": 7025
+            },
+            "snym": {
+                "syno": [
+                    "缩",
+                    "撤"
+                ],
+                "anto": [
+                    "进",
+                    "定"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "tuì",
+            "cn_vi": "thối.thoái",
+            "word": "退",
+            "id": 51942,
+            "phonetic": "tui",
+            "rank": 1613,
+            "lv_tocfl": 4,
+            "compound": "退避 ; 退避三舍 ; 退兵 ; 退步 ; 退场 ; 退潮 ; 退出 ; 退磁 ; 退佃 ; 退化 ; 退还 ; 退换 ; 退回 ; 退婚 ; 退火 ; 退伙 ; 退路 ; 退赔 ; 退票 ; 退坡 ; 退亲 ; 退却 ; 退让 ; 退色 ; 退烧 ; 退守 ; 退缩 ; 退庭 ; 退位 ; 退伍 ; 退席 ; 退行 ; 退休 ; 退学 ; 退押 ; 退役 ; 退隐 ; 退职 ; 退走"
+        },
+        {
+            "kind": [
+                "n",
+                "measure",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "Zhāng",
+                "examples": "",
+                "measure": "张"
+            },
+            "topic": "8, 33, 74",
+            "zhuyin": "ㄆㄧㄠˋ",
+            "_id": "cd304e4d8dee8dd6fc35521f4c260728",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "thông tin về đặc điểm, tính chất, trạng thái cụ thể",
+                            "examples": [
+                                79670,
+                                79671
+                            ],
+                            "struct": "Định ngữ （车、船、门、饭、电影）+ 票"
+                        },
+                        {
+                            "explain": "biểu thị hành vi hành động đối với 票",
+                            "examples": [
+                                79675
+                            ],
+                            "struct": "Động từ （买、投、抢、检、退、补、免）+ 票"
+                        },
+                        {
+                            "explain": "biểu thị phải có vé thì mới có thể tham gia, tham dự",
+                            "examples": [
+                                79678
+                            ],
+                            "struct": "凭 + 票 + 入场/进入"
+                        },
+                        {
+                            "explain": "mô tả đặc điểm, trạng thái",
+                            "examples": [
+                                79680,
+                                79681
+                            ],
+                            "struct": "Tính từ （真、假、大、小、零）+ 票"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vé; phiếu; thẻ; hoá đơn",
+                            "explain": "印的或写的作为凭证的纸片",
+                            "examples": [
+                                {
+                                    "m": "Đây là tấm vé tàu đi Bắc Kinh.",
+                                    "p_vn": "day la tam ve tau di bac kinh.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9ca9f82",
+                                    "id": 96463,
+                                    "type": "e_cnvi",
+                                    "e": "这张车票是去北京的。",
+                                    "p_cn": "zhe zhang chepiao shi qu beijing de.",
+                                    "p": "zhè zhāng chēpiào shì qù běijīng de."
+                                },
+                                {
+                                    "m": "Anh ấy mua một tấm vé xem phim.",
+                                    "p_vn": "anh ay mua mot tam ve xem phim.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9caaa5a",
+                                    "id": 96464,
+                                    "type": "e_cnvi",
+                                    "e": "他买了一张电影票。",
+                                    "p_cn": "ta maile yi zhang dianying piao.",
+                                    "p": "tā mǎile yī zhāng diànyǐng piào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tiền",
+                            "explain": "(票儿) 钞票",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy cầm một xấp tiền.",
+                                    "p_vn": "co ay cam mot xap tien.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9ca6d62",
+                                    "id": 96458,
+                                    "type": "e_cnvi",
+                                    "e": "她拿着一沓票儿。",
+                                    "p_cn": "ta nazhe yi da piaor.",
+                                    "p": "tā názhe yī dá piàor."
+                                },
+                                {
+                                    "m": "Anh ấy có rất nhiều tiền trong tay.",
+                                    "p_vn": "anh ay co rat nhieu tien trong tay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9cace12",
+                                    "id": 96467,
+                                    "type": "e_cnvi",
+                                    "e": "他手里有很多票子。",
+                                    "p_cn": "ta shou li you henduo piaozi.",
+                                    "p": "tā shǒu lǐ yǒu hěnduō piàozi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "con tin",
+                            "explain": "(票儿) 旧时强盗称抢来做抵押的人",
+                            "examples": [
+                                {
+                                    "m": "Họ bắt một người làm con tin.",
+                                    "p_vn": "ho bat mot nguoi lam con tin.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9ca5335",
+                                    "id": 96455,
+                                    "type": "e_cnvi",
+                                    "e": "他们绑了个票。",
+                                    "p_cn": "tamen bangle ge piao.",
+                                    "p": "tāmen bǎngle gè piào."
+                                },
+                                {
+                                    "m": "Bọn cướp này có người làm con tin  rồi.",
+                                    "p_vn": "bon cuop nay co nguoi lam con tin  roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9ca5fd3",
+                                    "id": 96456,
+                                    "type": "e_cnvi",
+                                    "e": "这伙强盗有票了。",
+                                    "p_cn": "zhe huo qiangdao you piaole.",
+                                    "p": "zhè huǒ qiángdào yǒu piàole."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "món; chuyến; cuộc",
+                            "explain": "量词",
+                            "examples": [
+                                {
+                                    "m": "Một chuyến làm ăn.",
+                                    "p_vn": "mot chuyen lam an.",
+                                    "_id": "62feed55a6a8baacec6a0346e8bbba97",
+                                    "id": 30931,
+                                    "type": "e_cnvi",
+                                    "e": "一票生意。",
+                                    "p_cn": "yipiao shengyi。",
+                                    "p": "yīpiào shēngyi。"
+                                },
+                                {
+                                    "m": "Một chuyến làm ăn.",
+                                    "p_vn": "mot chuyen lam an.",
+                                    "_id": "5f1adf3e4794a18d885701d1a32e0947",
+                                    "id": 79665,
+                                    "type": "e_cnvi",
+                                    "e": "一票买卖。",
+                                    "p_cn": "yi piao maimai.",
+                                    "p": "yī piào mǎimài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 482,
+                "search": 8698
+            },
+            "snym": null,
+            "lv_hsk_new": "1, 2",
+            "pinyin": "piào",
+            "cn_vi": "phiếu.phiêu.tiêu",
+            "word": "票",
+            "id": 41020,
+            "phonetic": "piao",
+            "rank": 1206,
+            "lv_tocfl": 1,
+            "compound": "票额 ; 票房 ; 票根 ; 票号 ; 票据 ; 票面 ; 票选 ; 票友 ; 票庄 ; 票子"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄆㄧㄢˋ",
+            "_id": "6c77a0607abd4f4d9ae12d58cc7e6ce8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để đẩy ra (trình phát đa phương tiện)",
+                            "explain": "to eject (media player)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "thối phiến",
+            "pinyin": "tuì piàn",
+            "word": "退片",
+            "id": 105822,
+            "phonetic": "tuipian",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "37f99619216844aeb79da44ded21b5cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quân chủ lực đang bám vào trận địa tiến lên.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "suy thoái",
+            "pinyin": "tuī tuì",
+            "word": "推退",
+            "id": 171251,
+            "phonetic": "tuitui",
+            "rank": 137752,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄡˋㄊㄨㄟˋ",
+            "topic": "14",
+            "_id": "4cf2e5f5bfe55643bf1ce7e549878aa0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lùi; lùi về sau; thụt lùi; lui; lui lại; lùi bước; rút lui; bước lui; sụt lùi",
+                            "explain": "向后退;退回 (后面的地方或以往的发展阶段)",
+                            "examples": [
+                                {
+                                    "m": "lùi về sau hai bước",
+                                    "p_vn": "lui ve sau hai buoc",
+                                    "_id": "862d04b853f48335dca3b33747573eaf",
+                                    "id": 17322,
+                                    "type": "e_cnvi",
+                                    "e": "后退两步",
+                                    "p_cn": "houtui liang bu",
+                                    "p": "hòutùi liǎngbù"
+                                },
+                                {
+                                    "m": "tại sao thành tích không nâng cao mà còn thụt lùi?",
+                                    "p_vn": "tai sao thanh tich khong nang cao ma con thut lui",
+                                    "_id": "a226f5562a410f58b0705ce796a1721b",
+                                    "id": 17323,
+                                    "type": "e_cnvi",
+                                    "e": "怎么成绩没提高，反而后退了?",
+                                    "p_cn": "zenme chengji mei tigao faner houtuile",
+                                    "p": "zěnme chéngjī méi tígāo, fǎn'ér hòutuìle?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lui bước",
+                            "explain": "后步",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 49,
+                "search": 643
+            },
+            "snym": {
+                "syno": [
+                    "撤除",
+                    "畏缩",
+                    "撤退",
+                    "撤消",
+                    "退却",
+                    "退后"
+                ],
+                "anto": [
+                    "进步",
+                    "挺进",
+                    "促进",
+                    "前进",
+                    "进取",
+                    "前行"
+                ]
+            },
+            "cn_vi": "hậu thoái",
+            "pinyin": "hòutuì",
+            "word": "后退",
+            "id": 23897,
+            "phonetic": "houtui",
+            "rank": 13416,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄏㄨㄛˋ",
+            "_id": "7ea7693c2c6741d2acb73803d03f764d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trả lại hàng hóa",
+                            "explain": "to return merchandise",
+                            "examples": []
+                        },
+                        {
+                            "mean": "rút một sản phẩm",
+                            "explain": "to withdraw a product",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 166,
+                "search": 1546
+            },
+            "snym": {
+                "anto": [
+                    "出仓",
+                    "售货",
+                    "进货"
+                ]
+            },
+            "cn_vi": "thối hoá",
+            "pinyin": "tuìhuò",
+            "word": "退货",
+            "id": 100195,
+            "phonetic": "tuihuo",
+            "rank": 6877,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄨㄞˋㄊㄨㄟˋ",
+            "_id": "38840698d27440a3aeb878db464ae82b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tua lại nhanh (trình phát đa phương tiện)",
+                            "explain": "fast-rewind (media player)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "khoái thối",
+            "pinyin": "kuài tuì",
+            "word": "快退",
+            "id": 102892,
+            "phonetic": "kuaitui",
+            "rank": 96349,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄘˊ",
+            "_id": "7c3e04573a4d8ca2afab62aea1381359",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm mất từ tính của nam châm",
+                            "explain": "用加高温等方法使磁体失去磁性",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "thối từ",
+            "pinyin": "tuìcí",
+            "word": "退磁",
+            "id": 51950,
+            "phonetic": "tuici",
+            "rank": 100826,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄈㄤˊ",
+            "_id": "2245746850644ee7a0a470aa4de40a1d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Trả phòng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Kỹ sư cao cấp.",
+                                    "p_vn": "ky su cao cap.",
+                                    "_id": "b508fc93f9e9473982d963b9055601de",
+                                    "id": 55355,
+                                    "type": "e_cnvi",
+                                    "e": "大约有一半化学工程师已经退房",
+                                    "p_cn": "dayue you yiban huaxue gongchengshi yijing tui fang",
+                                    "p": "Dàyuē yǒu yībàn huàxué gōngchéngshī yǐjīng tuì fáng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 146,
+                "search": 1363
+            },
+            "snym": null,
+            "cn_vi": "thối phòng",
+            "pinyin": "tuì fáng",
+            "word": "退房",
+            "id": 84640,
+            "phonetic": "tuifang",
+            "rank": 7644,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄠˋㄊㄨㄟˋ",
+            "topic": "72",
+            "_id": "6386581a21f8789dcf6b237e70aa10a4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xin cáo lui; xin rút lui; xin ra về (khỏi hội nghị trước); cáo lui; cáo thoái",
+                            "explain": "在集会中要求先离去",
+                            "examples": [
+                                {
+                                    "m": "tôi có chút việc, xin rút lui sớm.",
+                                    "p_vn": "toi co chut viec xin rut lui som",
+                                    "_id": "493e517c2a1d1ebbfb6033b6b2c86de9",
+                                    "id": 13455,
+                                    "type": "e_cnvi",
+                                    "e": "我有点事，先告退了。",
+                                    "p_cn": "wo youdian shi xian gaotuile",
+                                    "p": "wǒ yǒudiǎn shì，xiān gàotùi le。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ra khỏi tập thể; rút lui khỏi tập thể; tách ra",
+                            "explain": "从集体中退出",
+                            "examples": [
+                                {
+                                    "m": "các đội viên có tuổi đã lần lượt treo vợt.",
+                                    "p_vn": "cac doi vien co tuoi da lan luot treo vot",
+                                    "_id": "4779a60e89eb2fc485584eb27e413842",
+                                    "id": 13456,
+                                    "type": "e_cnvi",
+                                    "e": "老队员已先后挂拍告退。",
+                                    "p_cn": "lao duiyuan yi xianhou gua pai gaotui",
+                                    "p": "lǎodùiyuán yǐ xiānhòu guàpāi gàotùi。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xin từ chức",
+                            "explain": "旧时指自请辞去职位",
+                            "examples": [
+                                {
+                                    "m": "xin từ chức vì tuổi cao.",
+                                    "p_vn": "xin tu chuc vi tuoi cao",
+                                    "_id": "3c55a4f78c19d9b2c2ffcea0eae11a95",
+                                    "id": 13457,
+                                    "type": "e_cnvi",
+                                    "e": "年老告退",
+                                    "p_cn": "nian lao gaotui",
+                                    "p": "niánlǎo gàotùi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 116
+            },
+            "snym": {
+                "syno": [
+                    "引去",
+                    "引退"
+                ],
+                "anto": [
+                    "挺进"
+                ]
+            },
+            "cn_vi": "cáo thối",
+            "pinyin": "gàotuì",
+            "word": "告退",
+            "id": 19005,
+            "phonetic": "gaotui",
+            "rank": 38483,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄏㄨㄛˇ",
+            "_id": "9bbdfcda786173142c5c8172681112ac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rút khỏi bang hội",
+                            "explain": "旧时指退出帮会",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ra khỏi nhóm ăn tập thể",
+                            "explain": "退出集体伙食",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "thối hoả",
+            "pinyin": "tuìhuǒ",
+            "word": "退伙",
+            "id": 51958,
+            "phonetic": "tuihuo",
+            "rank": 82258,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d19f586c3d444eeea2002a9715caecff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ngớt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thối giảm",
+            "pinyin": "tuì jiǎn",
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "word": "退减",
+            "id": 172689,
+            "phonetic": "tuijian",
+            "rank": 127248,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄏㄨㄛˇ",
+            "_id": "d6669b6e90021295057898794860ffab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm giảm độ cứng",
+                            "explain": "金属工具使用时因受热而失去原有的硬度",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giảm độ nóng",
+                            "explain": "把金属材料或工件加热到一定温度并持续一定时间后，使缓慢冷却退火可以减低金属硬度和脆性，增加可塑性也叫焖火",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 166
+            },
+            "snym": {
+                "anto": [
+                    "淬火"
+                ]
+            },
+            "cn_vi": "thối hoả",
+            "pinyin": "tuìhuǒ",
+            "word": "退火",
+            "id": 51957,
+            "phonetic": "tuihuo",
+            "rank": 31588,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "42, 75, 67",
+            "zhuyin": "ㄊㄨㄟˋㄒㄧㄡ",
+            "_id": "7f24f8d34ff9a9fb286c649faa873441",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "... về hưu ",
+                            "examples": [
+                                116269,
+                                116270
+                            ],
+                            "struct": "Động từ (提前、申请、考虑) + 退休"
+                        },
+                        {
+                            "explain": "cái gì về hưu",
+                            "examples": [
+                                116271,
+                                116272
+                            ],
+                            "struct": "退休 (+ 的) + Danh từ (老人、手续、工资)"
+                        },
+                        {
+                            "explain": "về hưu/ nghỉ hưu + sớm/ muộn/ bao lâu",
+                            "examples": [
+                                79397,
+                                79398
+                            ],
+                            "struct": "退休 + 早/晚/Thời gian"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "về hưu; nghỉ hưu; hưu",
+                            "explain": "职工因年老或因公致残而离开工作岗位，按期领取生活费用",
+                            "examples": [
+                                {
+                                    "m": "Nhân viên về hưu.",
+                                    "p_vn": "nhan vien ve huu.",
+                                    "_id": "47071313b7281a337ba50043f523c5ea",
+                                    "id": 39841,
+                                    "type": "e_cnvi",
+                                    "e": "退休人员。",
+                                    "p_cn": "tuixiu renyuan.",
+                                    "p": "tùixīu rényuán."
+                                },
+                                {
+                                    "m": "Tôi đã nghỉ hưu được ba năm rồi.",
+                                    "p_vn": "toi da nghi huu duoc ba nam roi.",
+                                    "_id": "5f1adf3e4794a18d885701d1a30e4016",
+                                    "id": 79390,
+                                    "type": "e_cnvi",
+                                    "e": "我已经退休三年了。",
+                                    "p_cn": "wo yijing tuixiu san nianle.",
+                                    "p": "wǒ yǐjīng tuìxiū sān niánle."
+                                },
+                                {
+                                    "m": "Ông nội đã nghỉ hưu nhiều năm.",
+                                    "p_vn": "ong noi da nghi huu nhieu nam.",
+                                    "_id": "641148288b13f4cf43a85133e87a5933",
+                                    "id": 116282,
+                                    "type": "e_cnvi",
+                                    "e": "爷爷已经退休多年。",
+                                    "p_cn": "yeye yijing tuixiu duonian.",
+                                    "p": "yéye yǐjīng tuìxiū duōnián."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 485,
+                "search": 4557
+            },
+            "snym": {
+                "syno": [
+                    "离休",
+                    "报废"
+                ],
+                "anto": [
+                    "在职"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "tuìxiū",
+            "cn_vi": "thối hưu",
+            "word": "退休",
+            "id": 51975,
+            "phonetic": "tuixiu",
+            "rank": 2658,
+            "lv_tocfl": 3,
+            "compound": "退休金 ; 退休工人 ; 退休年龄 ; 离退休干部休养所"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄧㄢˊㄊㄨㄟˋ",
+            "_id": "9b724296a77648e7bc23226f00ba5f55",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bằng lòng",
+                            "explain": "contented",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không quan tâm đến sự giàu có và vinh quang",
+                            "explain": "uninterested in wealth and glory",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "điềm thối",
+            "pinyin": "tián tuì",
+            "word": "恬退",
+            "id": 102922,
+            "phonetic": "tiantui",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄏㄨㄚˋ",
+            "_id": "03bdb19b69fa24c0e99b8da355ad24a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "thoái hoá",
+                            "explain": "生物体在进化过程中某一部分器官变小，构造简化，机能减退甚至完全消失，叫做退化如鲸、海豚等的四肢成鳍状，仙人掌的叶子成针状，虱子的翅膀完全消失",
+                            "examples": [
+                                {
+                                    "m": "Một số chủng loại chó có chỉ có phần đuôi bị thoái hóa.",
+                                    "p_vn": "Mot so chung loai cho co chi co phan duoi bi thoai hoa.",
+                                    "_id": "21db6bc165f641bea690a37bafeb0a92",
+                                    "id": 69482,
+                                    "type": "e_cnvi",
+                                    "e": "有些品种的狗尾巴只有退化的部分.",
+                                    "p_cn": "youxie pinzhong de gou weiba zhiyou tuihua de bufen",
+                                    "p": "yǒuxiē pǐnzhǒng de gǒu wěiba zhǐyǒu tuìhuà de bùfen"
+                                },
+                                {
+                                    "m": "Nếu tôi tiếp tục dung túng cho bạn tiếp tục như vậy, tôi có thể từng bước trở thành một người vợ, không thể biết trước được.",
+                                    "p_vn": "Neu toi tiep tuc dung tung cho ban tiep tuc nhu vay, toi co the tung buoc tro thanh mot nguoi vo, khong the biet truoc duoc.",
+                                    "_id": "688e3c2af1874f7dbc47e55ba561060b",
+                                    "id": 69483,
+                                    "type": "e_cnvi",
+                                    "e": "假如我再容忍你下去的话，我可能会一步步退化至成为老婆也未可知。",
+                                    "p_cn": "jiaru wo zai rongren ni xiaqu dehua wo keneng hui yi bubu tuihua zhi chengwei laopo ye wei kezhi",
+                                    "p": "jiǎrú wǒ zài róngrěn nǐ xiàqù dehuà wǒ kěnéng huì yī bùbù tuìhuà zhì chéngwéi lǎopó yě wèi kězhī"
+                                },
+                                {
+                                    "m": "Xem nhiều ti vi sẽ làm cho trí óc của bạn suy giảm.",
+                                    "p_vn": "Xem nhieu ti vi se lam cho tri oc cua ban suy giam.",
+                                    "_id": "28b11e1c09114d3fb2007069b76487d9",
+                                    "id": 69484,
+                                    "type": "e_cnvi",
+                                    "e": "多看电视会使你的头脑退化。",
+                                    "p_cn": "duo kan dianshi hui shi ni de tounao tuihua",
+                                    "p": "duō kàn diànshì huì shǐ nǐ de tóunǎo tuìhuà"
+                                },
+                                {
+                                    "m": "Sự suy thoái hoặc mất mát của một chức năng, đặc điểm hoặc cấu trúc của một hệ thống sống hay loài do tác động của quá trình tiến hóa.",
+                                    "p_vn": "Su suy thoai hoac mat mat cua mot chuc nang, dac diem hoac cau truc cua mot he thong song hay loai do tac dong cua qua trinh tien hoa.",
+                                    "_id": "c3686c98e4fb4da7bd2ceca808efd5f3",
+                                    "id": 69485,
+                                    "type": "e_cnvi",
+                                    "e": "退化（作用）一个生物体或物种的某种功能、特征或结构由于进化作用造成的衰退或丧失",
+                                    "p_cn": "tuihua zuoyong yi ge shengwuti huo wuzhong de mouzhong gongneng tezheng huo jiegou youyu jinhua zuoyong zaocheng de shuaitui huo sangshi",
+                                    "p": "tuìhuà zuòyòng yī gè shēngwùtǐ huò wùzhǒng de mǒuzhǒng gōngnéng tèzhēng huò jiégòu yóuyú jìnhuà zuòyòng zàochéng de shuāituì huò sàngshī"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "biến chất; xấu đi",
+                            "explain": "泛指事物由优变劣，由好变坏",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 47,
+                "search": 464
+            },
+            "snym": {
+                "syno": [
+                    "衰退"
+                ],
+                "anto": [
+                    "进化",
+                    "演变",
+                    "优化",
+                    "蜕变"
+                ]
+            },
+            "cn_vi": "thoái hoá",
+            "pinyin": "tuìhuà",
+            "word": "退化",
+            "id": 51952,
+            "phonetic": "tuihua",
+            "rank": 16747,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄉㄧㄢˋ",
+            "_id": "76b73ebe03f100f9966fa309130ce04f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lấy lại ruộng (địa chủ lất lại ruộng đã cho nông dân thuê.)",
+                            "explain": "地主收回租给农民种的土地",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "thối điền",
+            "pinyin": "tuì diàn",
+            "word": "退佃",
+            "id": 51951,
+            "phonetic": "tuidian",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄖㄣˋ",
+            "_id": "0e842dd3a4ae4002adac007326a3ee57",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rời khỏi vị trí của một người",
+                            "explain": "to leave one's position",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nghỉ hưu",
+                            "explain": "to retire",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "thối nhiệm",
+            "pinyin": "tuìrèn",
+            "word": "退任",
+            "id": 100192,
+            "phonetic": "tuiren",
+            "rank": 95322,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "7",
+            "zhuyin": "ㄑㄩㄢˋㄊㄨㄟˋ",
+            "_id": "12db44f7d855474a974f7b3050c881db",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cố gắng thuyết phục ai đó từ bỏ (công việc, kế hoạch của họ, v.v.)",
+                            "explain": "to try to persuade sb to give up (their job, plans etc)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 299
+            },
+            "snym": null,
+            "cn_vi": "khuyến thối",
+            "pinyin": "quàn tuì",
+            "word": "劝退",
+            "id": 101701,
+            "phonetic": "quantui",
+            "rank": 22215,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄠㄊㄨㄟˋ",
+            "_id": "1807af5ec4cb478c9a005ac0e9ea30a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để đảm bảo hoàn lại tiền (đối với hàng hóa bị lỗi hoặc không đạt yêu cầu)",
+                            "explain": "to guarantee refund (for faulty or unsatisfactory goods)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 70
+            },
+            "snym": null,
+            "cn_vi": "bao thối",
+            "pinyin": "bāo tuì",
+            "word": "包退",
+            "id": 95198,
+            "phonetic": "baotui",
+            "rank": 49662,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "1, 60, 72, 76, 2",
+            "zhuyin": "ㄊㄨㄟˋㄔㄤˇ",
+            "_id": "81544f34f0efd8d740f9ee51922894af",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rời nơi thi đấu; rời rạp hát; rời nhà hát",
+                            "explain": "离开演出、比赛等的场所",
+                            "examples": [
+                                {
+                                    "m": "vận động viên rời khỏi nơi thi đấu.",
+                                    "p_vn": "van dong vien roi khoi noi thi dau",
+                                    "_id": "21ef644a2683ea1b83630f8638be641a",
+                                    "id": 39814,
+                                    "type": "e_cnvi",
+                                    "e": "运动员退场",
+                                    "p_cn": "yundongyuan tuichang",
+                                    "p": "yùndòngyuán tùicháng"
+                                },
+                                {
+                                    "m": "Phần biểu diễn kết thúc, xin mời khán giả ra về.",
+                                    "p_vn": "phan bieu dien ket thuc, xin moi khan gia ra ve.",
+                                    "_id": "10e6f8f56623f549fec4da3e62a5aa73",
+                                    "id": 39815,
+                                    "type": "e_cnvi",
+                                    "e": "演出结束，请观众退场。",
+                                    "p_cn": "yanchu jieshu，qing guanzhong tuichang",
+                                    "p": "yǎnchū jiéshù，qǐng guānzhòng tuìchǎng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 28,
+                "search": 504
+            },
+            "snym": {
+                "syno": [
+                    "出场"
+                ],
+                "anto": [
+                    "登场",
+                    "入场",
+                    "上场",
+                    "亮相"
+                ]
+            },
+            "cn_vi": "thối trường",
+            "pinyin": "tuìchǎng",
+            "word": "退场",
+            "id": 51947,
+            "phonetic": "tuichang",
+            "rank": 15863,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠㄊㄨㄟˋ",
+            "_id": "c4c9f625c10f6ca28e754ff24a1fcff7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sút giảm",
+                            "explain": "减退;逐渐消失",
+                            "examples": [
+                                {
+                                    "m": "mặt trời chếch về hướng tây, nắng nóng có phần giảm bớt.",
+                                    "p_vn": "mat troi chech ve huong tay nang nong co phan giam bot",
+                                    "_id": "014f2a484d8ab34834317bb04ec647cc",
+                                    "id": 42286,
+                                    "type": "e_cnvi",
+                                    "e": "太阳偏西，暑热略略消退。",
+                                    "p_cn": "taiyang pian xi shure luelue xiaotui",
+                                    "p": "tàiyáng piān xī, shǔrè lüèlüè xiāotuì."
+                                },
+                                {
+                                    "m": "niềm vui tươi trên mặt tắt dần",
+                                    "p_vn": "niem vui tuoi tren mat tat dan",
+                                    "_id": "eb2b62985c64d5caf482a6390b579ed4",
+                                    "id": 42287,
+                                    "type": "e_cnvi",
+                                    "e": "笑容渐渐消退了。",
+                                    "p_cn": "xiaorong jianjian xiaotuile",
+                                    "p": "xiàoróng jiànjiàn xiāotùi le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 158
+            },
+            "snym": {
+                "syno": [
+                    "退去",
+                    "消散",
+                    "减退",
+                    "褪去",
+                    "褪尽"
+                ],
+                "anto": [
+                    "渐进",
+                    "增强",
+                    "加深",
+                    "推进",
+                    "积淀"
+                ]
+            },
+            "cn_vi": "tiêu thối",
+            "pinyin": "xiāotuì",
+            "word": "消退",
+            "id": 55632,
+            "phonetic": "xiaotui",
+            "rank": 32409,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄔㄠˊ",
+            "_id": "c2836ef7eda8ac886ada42c596823408",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thuỷ triều xuống; nước triều rút",
+                            "explain": "海水在涨潮以后逐渐下降也叫落潮",
+                            "examples": [
+                                {
+                                    "m": "sau khi thuỷ triều xuống, trên bãi biển còn lại rất nhiều vỏ sò, vỏ ốc.",
+                                    "p_vn": "sau khi thuy trieu xuong tren bai bien con lai rat nhieu vo so vo oc",
+                                    "_id": "d30cc89f44b79f2cfc3c2f1cc589f6cf",
+                                    "id": 39816,
+                                    "type": "e_cnvi",
+                                    "e": "退潮后，海滩上留下许多贝壳。",
+                                    "p_cn": "tuichao hou haitan shang liu xia xuduo beike",
+                                    "p": "tùicháo hòu，hǎitān shàng líuxià xǔduō bèiké。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nước ròng; nước rút; thoái triều",
+                            "explain": "海水在涨潮以后逐渐下降",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 97
+            },
+            "snym": {
+                "syno": [
+                    "回落"
+                ],
+                "anto": [
+                    "涨潮"
+                ]
+            },
+            "cn_vi": "thoái trào",
+            "pinyin": "tuìcháo",
+            "word": "退潮",
+            "id": 51948,
+            "phonetic": "tuichao",
+            "rank": 42072,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄑㄧㄣ",
+            "_id": "6f83da377a6d8d1ae37fc3d0293ebbc1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "từ hôn; huỷ hôn",
+                            "explain": "退婚",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "thối thân",
+            "pinyin": "tuì qīn",
+            "word": "退亲",
+            "id": 51963,
+            "phonetic": "tuiqin",
+            "rank": 78398,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄆㄟˊ",
+            "_id": "6e1b7a0c041a4a5d17ea2bd68b179de2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trả lại; bồi thường; bồi hoàn",
+                            "explain": "退还，赔偿 (多指侵占的、非法取得的财物等)",
+                            "examples": [
+                                {
+                                    "m": "ra lệnh cho anh ấy phải hoàn trả toàn bộ các khoản đã tham ô.",
+                                    "p_vn": "ra lenh cho anh ay phai hoan tra toan bo cac khoan da tham o",
+                                    "_id": "edeb4411d0e082ec1abc8701d882eaf8",
+                                    "id": 39828,
+                                    "type": "e_cnvi",
+                                    "e": "责令他退赔所贪污的全部公款。",
+                                    "p_cn": "zeling ta tuipei suo tanwu de quanbu gongkuan",
+                                    "p": "zélìng tā tùipéi suǒ tānwū de quánbù gōngkuǎn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 23
+            },
+            "snym": {
+                "anto": [
+                    "侵吞",
+                    "侵占"
+                ]
+            },
+            "cn_vi": "thối bồi",
+            "pinyin": "tuìpéi",
+            "word": "退赔",
+            "id": 51960,
+            "phonetic": "tuipei",
+            "rank": 79119,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄒㄧㄚˋ",
+            "_id": "2c7992a2f5ee4e61b55c8ffe26af2e41",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nghỉ hưu",
+                            "explain": "to retire",
+                            "examples": [
+                                {
+                                    "m": "Các thành viên trong ban giám thẩm, bây giờ các bạn phải rời khỏi để xem xét làm thế nào để đưa ra phán quyết.",
+                                    "p_vn": "Cac thanh vien trong ban giam tham, bay gio cac ban phai roi khoi de xem xet lam the nao de dua ra phan quyet.",
+                                    "_id": "72fd890be39f4ef89239643ac9e65c7b",
+                                    "id": 70297,
+                                    "type": "e_cnvi",
+                                    "e": "陪审团的全体成员，你们现在必须退下去考虑应如何裁决。",
+                                    "p_cn": "peishentuan de quanti chengyuan nimen xianzai bixu tui xiaqu kaolu ying ruhe caijue",
+                                    "p": "péishěntuán de quántǐ chéngyuán nǐmen xiànzài bìxū tuì xiàqù kǎolǜ yīng rúhé cáijué"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "rút lui",
+                            "explain": "to retreat",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bước xuống",
+                            "explain": "to step down",
+                            "examples": []
+                        },
+                        {
+                            "mean": "rút",
+                            "explain": "to withdraw",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 233
+            },
+            "snym": null,
+            "cn_vi": "thối hạ",
+            "pinyin": "tuì xià",
+            "word": "退下",
+            "id": 100191,
+            "phonetic": "tuixia",
+            "rank": 25903,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄧㄥˊㄊㄨㄟˋ",
+            "_id": "68398924fe274520bfb4e41c4d7d46d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sa thải (người hầu, v.v.)",
+                            "explain": "to dismiss (servants etc)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "từ giã cuộc sống công cộng",
+                            "explain": "to retire from public life",
+                            "examples": []
+                        },
+                        {
+                            "mean": "gửi đi",
+                            "explain": "to send away",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "bính thối",
+            "pinyin": "bǐngtuì",
+            "word": "屏退",
+            "id": 102579,
+            "phonetic": "bingtui",
+            "rank": 79972,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄉㄤˇ",
+            "_id": "b31cc5ac3c654f6b8c37629fb4b48e4e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rút khỏi một đảng chính trị",
+                            "explain": "to withdraw from a political party",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "thối đảng",
+            "pinyin": "tuì dǎng",
+            "word": "退党",
+            "id": 105817,
+            "phonetic": "tuidang",
+            "rank": 140347,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨˋㄊㄨㄟˋ",
+            "_id": "da06d9cbe9105ae3b5b8cbb4693d5dcf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "truất phế; bãi miễn chức quan",
+                            "explain": "削职;罢免官职",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "truất thối",
+            "pinyin": "chù tuì",
+            "word": "黜退",
+            "id": 8587,
+            "phonetic": "chutui",
+            "rank": 128488,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄕㄡˇ",
+            "_id": "cb061a13c87b6ea4595c415b8e870227",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lui giữ",
+                            "explain": "向后退并采取守势",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 26
+            },
+            "snym": {
+                "syno": [
+                    "防守",
+                    "退却"
+                ],
+                "anto": [
+                    "进击",
+                    "进攻",
+                    "进取"
+                ]
+            },
+            "cn_vi": "thối thủ",
+            "pinyin": "tuìshǒu",
+            "word": "退守",
+            "id": 51968,
+            "phonetic": "tuishou",
+            "rank": 75753,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄏㄨㄣ",
+            "_id": "2c5e2ac542b5bc3308e09b7fc8d6dd94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "từ hôn; huỷ hôn; thoái hôn; khước hôn",
+                            "explain": "解除婚约",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 78
+            },
+            "snym": null,
+            "cn_vi": "thoái hôn",
+            "pinyin": "tuìhūn",
+            "word": "退婚",
+            "id": 51956,
+            "phonetic": "tuihun",
+            "rank": 47154,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄩㄢˋ",
+            "_id": "f2e60f769d3142f8abcb36510dbdb1aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(cũ) (của một nhà sư) rời tu viện",
+                            "explain": "(old) (of a monk) to leave the monastery",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xuất viện",
+                            "explain": "to leave the hospital",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "thối viện",
+            "pinyin": "tuìyuàn",
+            "word": "退院",
+            "id": 105827,
+            "phonetic": "tuiyuan",
+            "rank": 88329,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄧㄊㄨㄟˋ",
+            "_id": "2fc08785b9404b589d3f8aadf532d2e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hàng trả lại",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Đây đều là hàng trả lại, chúng tôi phải kịp thời xử lý",
+                                    "p_vn": "Day deu la hang tra lai, chung toi phai kip thoi xu ly",
+                                    "_id": "99977f2ee24745e1a7373ed1c3d63fce",
+                                    "id": 68112,
+                                    "type": "e_cnvi",
+                                    "e": "这都是批退，我们要及时处理",
+                                    "p_cn": "Zhe dou shi pi tui, women yao jishi chuli",
+                                    "p": "Zhè dōu shì pī tuì, wǒmen yào jíshí chǔlǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "phê thối",
+            "pinyin": "pī tuì",
+            "word": "批退",
+            "id": 153218,
+            "phonetic": "pitui",
+            "rank": 68189,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄒㄧㄥˊ",
+            "_id": "55d1c0bf4274f96307620159d743b25f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thoái hoá",
+                            "explain": "向后倒退;退化",
+                            "examples": [
+                                {
+                                    "m": "cơ thể người già không tránh khỏi bị thoái hoá.",
+                                    "p_vn": "co the nguoi gia khong tranh khoi bi thoai hoa",
+                                    "_id": "c90c93cf4cd96a6e70dfedc4aea088f1",
+                                    "id": 39839,
+                                    "type": "e_cnvi",
+                                    "e": "老年人的机体不免要产生退行性改变。",
+                                    "p_cn": "laonian ren de jiti bumian yao chansheng tuixing xing gaibian",
+                                    "p": "lǎoniánrén de jītǐ bùmiǎn yào chǎnshēng tùixíngxìng gǎibiàn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "thối hành",
+            "pinyin": "tuìxíng",
+            "word": "退行",
+            "id": 51974,
+            "phonetic": "tuixing",
+            "rank": 81011,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄊㄨㄟˋ",
+            "_id": "138bbf740ff4f9f9d54e34108523e8e9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tiến thoái",
+                            "explain": "前进和后退",
+                            "examples": [
+                                {
+                                    "m": "tiến thoái tự nhiên.",
+                                    "p_vn": "tien thoai tu nhien",
+                                    "_id": "b0bdaa5597476e17aa80285c674bcf39",
+                                    "id": 21628,
+                                    "type": "e_cnvi",
+                                    "e": "进退自如。",
+                                    "p_cn": "jintui ziru",
+                                    "p": "jìntùizìrú。"
+                                },
+                                {
+                                    "m": "tiến thoái lưỡng nan.",
+                                    "p_vn": "tien thoai luong nan",
+                                    "_id": "00b48c7fb8a02ab7c2e0cb1142fad9c0",
+                                    "id": 26056,
+                                    "type": "e_cnvi",
+                                    "e": "进退两难。",
+                                    "p_cn": "jintuiliangnan",
+                                    "p": "jìntùiliǎngnán。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tiến lui; tiến lùi",
+                            "explain": "应进而进，应退而退泛指言语行动恰如其分",
+                            "examples": [
+                                {
+                                    "m": "không biết tiến hay lui.",
+                                    "p_vn": "khong biet tien hay lui",
+                                    "_id": "134dee1996bdf4d771bcbba0156a8610",
+                                    "id": 21629,
+                                    "type": "e_cnvi",
+                                    "e": "不知进退。",
+                                    "p_cn": "buzhi jintui",
+                                    "p": "bùzhījìntùi。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 105
+            },
+            "snym": {
+                "syno": [
+                    "攻守"
+                ]
+            },
+            "cn_vi": "tiến thối",
+            "pinyin": "jìntuì",
+            "word": "进退",
+            "id": 30335,
+            "phonetic": "jintui",
+            "rank": 40533,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄌㄧㄠˋ",
+            "_id": "5c0d9dd8a38feaea622d08e12f8b07c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Trả liệu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 98
+            },
+            "snym": null,
+            "cn_vi": "thối liệu",
+            "pinyin": "tuì liào",
+            "word": "退料",
+            "id": 77912,
+            "phonetic": "tuiliao",
+            "rank": 41889,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "6, 59",
+            "zhuyin": "ㄘˊㄊㄨㄟˋ",
+            "_id": "02f85fa2b9b91c1ecdbde056d6b2d38b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sa thải; thải hồi; thải",
+                            "explain": "解雇",
+                            "examples": [
+                                {
+                                    "m": "ông ấy sa thải những thuộc hạ không tuân lời ông ấy.",
+                                    "p_vn": "ong ay sa thai nhung thuoc ha khong tuan loi ong ay",
+                                    "_id": "2e79a3bd3e4a79e51d52350200c09f3d",
+                                    "id": 38766,
+                                    "type": "e_cnvi",
+                                    "e": "他把手下不听他话的人都辞退了。",
+                                    "p_cn": "ta bashou xia bu ting ta hua de ren dou cituile",
+                                    "p": "tā bǎshǒu xià bù tīng tā huà de rén dōu cítuìle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 106,
+                "search": 1057
+            },
+            "snym": {
+                "syno": [
+                    "除名",
+                    "革职",
+                    "解雇",
+                    "免职",
+                    "开除"
+                ],
+                "anto": [
+                    "聘请"
+                ]
+            },
+            "cn_vi": "từ thối",
+            "pinyin": "cítuì",
+            "word": "辞退",
+            "id": 9253,
+            "phonetic": "citui",
+            "rank": 9400,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "18, 58",
+            "zhuyin": "ㄐㄧㄊㄨㄟˋ",
+            "_id": "1c3263c11974d38165ac762ab945ae66",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đẩy lùi; đánh lui",
+                            "explain": "用打击使对方后退",
+                            "examples": [
+                                {
+                                    "m": "Đối mặt với kẻ thù mạnh và những khó khăn đầy tính thách thức, chúng ta cần phải hợp tác để đẩy lùi kẻ thù.",
+                                    "p_vn": "Doi mat voi ke thu manh va nhung kho khan day tinh thach thuc, chung ta can phai hop tac de day lui ke thu.",
+                                    "_id": "e3a3263dd6418fba1615ec0c2f8fcf48",
+                                    "id": 53621,
+                                    "type": "e_cnvi",
+                                    "e": "面对强大的敌人和具有挑战性的困难，我们需要齐心协力击退敌人。",
+                                    "p_cn": "Doi mat voi ke thu manh va nhung kho khan day tinh thach thuc, chung ta can phai hop tac de day lui ke thu.",
+                                    "p": "Miàn duì qiángdà de dírén hé jùyǒu tiǎozhàn xìng de kùnnán, wǒmen xūyào qíxīn xiélì jí tuì dírén."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 123
+            },
+            "snym": {
+                "syno": [
+                    "击败",
+                    "击溃",
+                    "打败"
+                ],
+                "anto": [
+                    "进犯",
+                    "侵犯",
+                    "攻占",
+                    "进攻",
+                    "失守"
+                ]
+            },
+            "cn_vi": "kích thối",
+            "pinyin": "jí tuì",
+            "word": "击退",
+            "id": 26331,
+            "phonetic": "jitui",
+            "rank": 37377,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˇㄊㄨㄟˋ",
+            "_id": "6f4fb1239692bdf8c0f774e77c0c1387",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đánh đuổi; xua đuổi",
+                            "explain": "用打击来驱散",
+                            "examples": [
+                                {
+                                    "m": "quân địch nhiều lần định qua cầu, nhưng đều bị chúng ta đánh bật trở lại.",
+                                    "p_vn": "quan dich nhieu lan dinh qua cau nhung deu bi chung ta danh bat tro lai",
+                                    "_id": "684cc5b751ca9156b990697c674d60d6",
+                                    "id": 15795,
+                                    "type": "e_cnvi",
+                                    "e": "敌人几次三番想冲过桥来，都叫我们给打退了。",
+                                    "p_cn": "diren jicisanfan xiang chongguo qiao lai dou jiao women gei da tuile",
+                                    "p": "dírén jǐcìsānfān xiǎng chōngguò qiáo lái, dōu jiào wǒmen gěi dǎ tuìle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đánh lui; đẩy lui",
+                            "explain": "击退 (如袭击或打退敌人);通常指以武装力量击退",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 52
+            },
+            "snym": null,
+            "cn_vi": "đả thối",
+            "pinyin": "dǎ tuì",
+            "word": "打退",
+            "id": 10121,
+            "phonetic": "datui",
+            "rank": 56624,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄅㄠˇ",
+            "_id": "0ebbe1614f4f437c180d7ddbf5c03699",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Rút ra khỏi bảo hiểm",
+                            "explain": "犹豫期退保指投保人在合同约定的犹豫期内的退保。一般保险公司规定投保人收到保单后十天为犹豫期。通常保险公司会扣除工本费后退还全部保费。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "thối bảo",
+            "pinyin": "tuì bǎo",
+            "word": "退保",
+            "id": 82663,
+            "phonetic": "tuibao",
+            "rank": 68830,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄒㄧˊ",
+            "_id": "3649d5ee0b58b5554dd93505d314afa2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ra khỏi hội trường; ra khỏi bàn tiệc; thoái tịch",
+                            "explain": "退出宴席或会场",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bỏ họp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 22
+            },
+            "snym": {
+                "syno": [
+                    "离席",
+                    "缺席"
+                ],
+                "anto": [
+                    "出席",
+                    "入席"
+                ]
+            },
+            "cn_vi": "thối tịch",
+            "pinyin": "tuìxí",
+            "word": "退席",
+            "id": 51973,
+            "phonetic": "tuixi",
+            "rank": 79531,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ef77e94655914765aff937b9e0ce7371",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nhửng nhửng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "sảo thối",
+            "pinyin": "shāo tuì",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "稍退",
+            "id": 175615,
+            "phonetic": "shaotui",
+            "rank": 158107,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄗㄡˇ",
+            "_id": "06181454979f91f42dda7ecf1edeaaa0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rút lui",
+                            "explain": "向后退出;退却",
+                            "examples": [
+                                {
+                                    "m": "thấy thế không xong, mau tìm đường rút lui.",
+                                    "p_vn": "thay the khong xong mau tim duong rut lui",
+                                    "_id": "83f9e215f1db83a1f7604686e15f81d7",
+                                    "id": 39849,
+                                    "type": "e_cnvi",
+                                    "e": "见势不妙，赶紧退走。",
+                                    "p_cn": "jian shi bu miao ganjin tuizou",
+                                    "p": "jiànshìbùmiào，gǎnjǐn tùizǒu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "thối tẩu",
+            "pinyin": "tuìzǒu",
+            "word": "退走",
+            "id": 51982,
+            "phonetic": "tuizou",
+            "rank": 92154,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄏㄨㄢˋ",
+            "_id": "dcb4d0cf466a1d794da04d459c59af75",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đổi; đổi lại (thường chỉ hàng hoá)",
+                            "explain": "退还不合适的，换取合适的 (多指货物)",
+                            "examples": [
+                                {
+                                    "m": "sách thiếu trang hoặc đóng có lỗi thì có thể đổi được.",
+                                    "p_vn": "sach thieu trang hoac dong co loi thi co the doi duoc",
+                                    "_id": "aea957550597d807b077dc2933b5a963",
+                                    "id": 39822,
+                                    "type": "e_cnvi",
+                                    "e": "缺页或装订上有错误的书，可以退换。",
+                                    "p_cn": "que ye huo zhuangding shang you cuowu de shu keyi tuihuan",
+                                    "p": "quēyè huò zhuāngdìng shàng yǒu cuòwù de shū，kěyǐ tùihuàn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 65,
+                "search": 718
+            },
+            "snym": {
+                "syno": [
+                    "更换",
+                    "更调",
+                    "调动",
+                    "调换",
+                    "转换"
+                ]
+            },
+            "cn_vi": "thối hoán",
+            "pinyin": "tuìhuàn",
+            "word": "退换",
+            "id": 51954,
+            "phonetic": "tuihuan",
+            "rank": 12505,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄨㄟˋㄊㄨㄟˋ",
+            "_id": "af506d49cca75ea53d20bf80b72633f8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tháo chạy; tháo lui",
+                            "explain": "(军队) 被打垮而后退",
+                            "examples": [
+                                {
+                                    "m": "bọn xâm lược tháo chạy hỗn loạn",
+                                    "p_vn": "bon xam luoc thao chay hon loan",
+                                    "_id": "03720835dc4c7a175a5aef3f86dd3a72",
+                                    "id": 24325,
+                                    "type": "e_cnvi",
+                                    "e": "敌军狼狈溃退。",
+                                    "p_cn": "dijun langbei kuitui。",
+                                    "p": "díjūn lángbèi kùitùi。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 12
+            },
+            "snym": {
+                "syno": [
+                    "败退",
+                    "击溃"
+                ],
+                "anto": [
+                    "挺进"
+                ]
+            },
+            "cn_vi": "hội thối",
+            "pinyin": "kuìtuì",
+            "word": "溃退",
+            "id": 33146,
+            "phonetic": "kuitui",
+            "rank": 98812,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "73",
+            "zhuyin": "ㄉㄠˋㄊㄨㄟˋ",
+            "_id": "b199f5cbc85ecae1035e55d47e0599f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rút lui; lùi lại; thụt lùi; trước đây; trước",
+                            "explain": "往后退;退回 (后面的地方、过去的年代、以往的发展阶段)",
+                            "examples": [
+                                {
+                                    "m": "trận cuồng phong trước mặt thổi tôi lùi lại mấy bước.",
+                                    "p_vn": "tran cuong phong truoc mat thoi toi lui lai may buoc",
+                                    "_id": "de317bcd47fcde9a4caeaf602653465d",
+                                    "id": 7461,
+                                    "type": "e_cnvi",
+                                    "e": "迎面一阵狂风把我挂得倒退 了好几步。",
+                                    "p_cn": "yingmian yizhen kuangfeng ba wo gua de daotuile hao ji bu",
+                                    "p": "yíngmiàn yīzhèn kuángfēng bǎ wǒ guà dé dǎotùi le hǎojībù。"
+                                },
+                                {
+                                    "m": "ba mươi năm trước, tôi cũng là một thanh niên trai tráng.",
+                                    "p_vn": "ba muoi nam truoc toi cung la mot thanh nien trai trang",
+                                    "_id": "fe24c3b3035dba9e44714bb162b606a6",
+                                    "id": 7462,
+                                    "type": "e_cnvi",
+                                    "e": "倒退三十年，我也是个壮小伙子。",
+                                    "p_cn": "daotui sanshi nian wo yeshi ge zhuang xiaohuozi",
+                                    "p": "dǎotùi sānshínián，wǒ yě shì gè zhuàng xiǎohuǒzǐ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 419
+            },
+            "snym": {
+                "syno": [
+                    "落后",
+                    "让步",
+                    "退缩",
+                    "停留",
+                    "退让",
+                    "退步",
+                    "停滞",
+                    "退却",
+                    "退后",
+                    "倒行"
+                ],
+                "anto": [
+                    "进步",
+                    "发展",
+                    "前进",
+                    "上进",
+                    "进取",
+                    "衍生"
+                ]
+            },
+            "cn_vi": "đảo thối",
+            "pinyin": "dàotuì",
+            "word": "倒退",
+            "id": 11550,
+            "phonetic": "daotui",
+            "rank": 17839,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄌㄨㄛˋ",
+            "_id": "fcb285660eeb466d85cd4724f0de5d81",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giảm dần",
+                            "explain": "to subside",
+                            "examples": [
+                                {
+                                    "m": "trên bãi cát mênh mông, còn để lại vết thuỷ triều sau khi rút.",
+                                    "p_vn": "tren bai cat menh mong, con de lai vet thuy trieu sau khi rut.",
+                                    "_id": "e5f283e3d3625f2c512721bab97cf237",
+                                    "id": 15345,
+                                    "type": "e_cnvi",
+                                    "e": "广漠的沙滩上，留着潮水退落后的痕迹。",
+                                    "p_cn": "guangmo de shatan shang, liuzhe chaoshui tui luohou de henji.",
+                                    "p": "guǎngmò de shātān shàng, liúzhe cháoshuǐ tuì luòhòu de hénjī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "thối lạc",
+            "pinyin": "tuì luò",
+            "word": "退落",
+            "id": 100194,
+            "phonetic": "tuiluo",
+            "rank": 109635,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠˇㄊㄨㄟˋ",
+            "_id": "86bffb091aee1fc72f75d60f0c5560e9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "về sớm; rút lui sớm",
+                            "explain": "(工作、学习或参加会议) 未到规定时间提前离开",
+                            "examples": [
+                                {
+                                    "m": "Đi làm không được tự tiện đến trễ về sớm.",
+                                    "p_vn": "di lam khong duoc tu tien den tre ve som.",
+                                    "_id": "25b2c1afb89a0938f7764315bb8b1078",
+                                    "id": 48335,
+                                    "type": "e_cnvi",
+                                    "e": "上班不得随意迟到早退。",
+                                    "p_cn": "shangban bude suiyi chidaozaotui。",
+                                    "p": "shàngbān bùdé súiyì chídàozǎotùi。"
+                                },
+                                {
+                                    "m": "không nên đến muộn về sớm.",
+                                    "p_vn": "khong nen den muon ve som",
+                                    "_id": "bb0bfff4d310744db9039c19afc9b177",
+                                    "id": 48336,
+                                    "type": "e_cnvi",
+                                    "e": "不要迟到早退。",
+                                    "p_cn": "buyao chidao zaotui",
+                                    "p": "bùyào chídàozǎotùi。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 52,
+                "search": 476
+            },
+            "snym": {
+                "anto": [
+                    "迟到"
+                ]
+            },
+            "cn_vi": "tảo thối",
+            "pinyin": "zǎotuì",
+            "word": "早退",
+            "id": 62900,
+            "phonetic": "zaotui",
+            "rank": 16463,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "退票"
+}
