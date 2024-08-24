@@ -1,0 +1,2473 @@
+{
+    "total": 465,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": {
+                "pinyin": "Shù, gēn, zhù",
+                "examples": "一束香, 一根香, 一炷香",
+                "measure": "束, 根, 炷"
+            },
+            "zhuyin": "ㄒㄧㄤ",
+            "_id": "42e696e8badc366764648ac236de37f9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "mô tả mùi hương của các đồ vật khác nhau",
+                            "examples": [
+                                77735,
+                                77737
+                            ],
+                            "struct": "Chủ ngữ（花、茶、酒、肉、菜、面包、咖啡）+ 很、不、好、太、特别 + 香"
+                        },
+                        {
+                            "explain": "diễn tả cảm nhận về mùi hương",
+                            "examples": [
+                                77736,
+                                77738
+                            ],
+                            "struct": "闻起来 + 很、不、真 + 香；闻起来 + 没有/不是 + 那么/很 + 香"
+                        },
+                        {
+                            "explain": "tính chất của danh từ đó có mùi hương thơm ngon",
+                            "examples": [
+                                77739,
+                                77740
+                            ],
+                            "struct": "很 + 香 + 的 + Danh từ"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "thơm; thơm tho",
+                            "explain": "气味好闻 (跟''臭''相对)",
+                            "examples": [
+                                {
+                                    "m": "Mùi thơm của trái cây làm người say mê.",
+                                    "p_vn": "mui thom cua trai cay lam nguoi say me.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3941f5f",
+                                    "id": 106664,
+                                    "type": "e_cnvi",
+                                    "e": "水果香让人陶醉。",
+                                    "p_cn": "shuiguo xiang rang ren taozui.",
+                                    "p": "shuǐguǒ xiāng ràng rén táozuì."
+                                },
+                                {
+                                    "m": "Hoa tươi rất thơm rất quyến rũ.",
+                                    "p_vn": "hoa tuoi rat thom rat quyen ru.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3942791",
+                                    "id": 106665,
+                                    "type": "e_cnvi",
+                                    "e": "鲜花很香很迷人。",
+                                    "p_cn": "xianhua hen xiang hen miren.",
+                                    "p": "xiānhuā hěn xiāng hěn mírén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngon; thơm ngon",
+                            "explain": "食物味道好",
+                            "examples": [
+                                {
+                                    "m": "Bánh ngọt ăn rất ngon.",
+                                    "p_vn": "banh ngot an rat ngon.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac39565bb",
+                                    "id": 106679,
+                                    "type": "e_cnvi",
+                                    "e": "蛋糕吃起来真香。",
+                                    "p_cn": "dangao chi qilai zhenxiang.",
+                                    "p": "dàngāo chī qǐlái zhēnxiāng."
+                                },
+                                {
+                                    "m": "Mùi vị của món này rất ngon.",
+                                    "p_vn": "mui vi cua mon nay rat ngon.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3956df6",
+                                    "id": 106681,
+                                    "type": "e_cnvi",
+                                    "e": "饭菜味道十分香。",
+                                    "p_cn": "fancai weidao shifen xiang.",
+                                    "p": "fàncài wèidào shífēn xiāng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngon miệng",
+                            "explain": "吃东西胃口好",
+                            "examples": [
+                                {
+                                    "m": "Hai hôm nay ăn không ngon miệng.",
+                                    "p_vn": "hai hom nay an khong ngon mieng.",
+                                    "_id": "7caf4636fefa20850a3967794dd9ad85",
+                                    "id": 42076,
+                                    "type": "e_cnvi",
+                                    "e": "这两天吃饭不香 。",
+                                    "p_cn": "zhe liangtian chifan buxiang。",
+                                    "p": "zhè liǎngtiān chīfàn bùxiāng。"
+                                },
+                                {
+                                    "m": "Anh ấy hôm nay ăn rất ngon miệng.",
+                                    "p_vn": "anh ay hom nay an rat ngon mieng.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac395f3eb",
+                                    "id": 106702,
+                                    "type": "e_cnvi",
+                                    "e": "他今天吃得很香。",
+                                    "p_cn": "ta jintian chi de hen xiang.",
+                                    "p": "tā jīntiān chī dé hěn xiāng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngủ say; ngủ ngon",
+                            "explain": "睡得塌实",
+                            "examples": [
+                                {
+                                    "m": "Đang lúc ngủ say.",
+                                    "p_vn": "dang luc ngu say.",
+                                    "_id": "c8fefe60861f6f5215afa2e28d507a9d",
+                                    "id": 42077,
+                                    "type": "e_cnvi",
+                                    "e": "睡得正香呢。",
+                                    "p_cn": "shui de zhengxiang ne.",
+                                    "p": "shuì dé zhèngxiāng ne."
+                                },
+                                {
+                                    "m": "Bạn ngủ say cho đến khi trời sáng.",
+                                    "p_vn": "ban ngu say cho den khi troi sang.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac39616de",
+                                    "id": 106706,
+                                    "type": "e_cnvi",
+                                    "e": "你香睡直到天明。",
+                                    "p_cn": "ni xiang shui zhidao tianming.",
+                                    "p": "nǐ xiāng shuì zhídào tiānmíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ưa chuộng; được ưa chuộng; được hoan nghênh",
+                            "explain": "受欢迎",
+                            "examples": [
+                                {
+                                    "m": "Loại hàng này ở nông thôn rất được ưa chuộng",
+                                    "p_vn": "loai hang nay o nong thon rat duoc ua chuong",
+                                    "_id": "4ebd616c154c9f7a12df8cd6c9f1c91f",
+                                    "id": 42078,
+                                    "type": "e_cnvi",
+                                    "e": "这种货物在农村很香 。",
+                                    "p_cn": "zhezhong huowu zai nongcun henxiang。",
+                                    "p": "zhèzhǒng huòwù zài nóngcūn hěnxiāng。"
+                                },
+                                {
+                                    "m": "Bộ phim này rất được yêu thích.",
+                                    "p_vn": "bo phim nay rat duoc yeu thich.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3962ef8",
+                                    "id": 106708,
+                                    "type": "e_cnvi",
+                                    "e": "这部剧很吃香。",
+                                    "p_cn": "zhe bu ju hen chixiang.",
+                                    "p": "zhè bù jù hěn chīxiāng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "hành động cầu nguyện và tôn kính đối với các vị thần linh, tổ tiên.",
+                            "examples": [
+                                106685,
+                                106686
+                            ],
+                            "struct": "点/烧 + 香"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hương liệu",
+                            "explain": "香料",
+                            "examples": [
+                                {
+                                    "m": "Hương liệu này đến từ nước ngoài.",
+                                    "p_vn": "huong lieu nay den tu nuoc ngoai.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac395e752",
+                                    "id": 106700,
+                                    "type": "e_cnvi",
+                                    "e": "这香来自异国他乡。",
+                                    "p_cn": "zhe xiang laizi yiguo taxiang.",
+                                    "p": "zhè xiāng láizì yìguó tāxiāng."
+                                },
+                                {
+                                    "m": "Loại hương này có nhiều công dụng.",
+                                    "p_vn": "loai huong nay co nhieu cong dung.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac395eb20",
+                                    "id": 106701,
+                                    "type": "e_cnvi",
+                                    "e": "这种香用途广泛。",
+                                    "p_cn": "zhe zhong xiang yongtu guangfan.",
+                                    "p": "zhè zhǒng xiāng yòngtú guǎngfàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhang; hương (để đốt)",
+                            "explain": "用木屑搀香料做成的细条，燃烧时，发出好闻的气味，旧俗在祭祀祖先或神佛时常用，有的加上药物，可以熏蚊子",
+                            "examples": [
+                                {
+                                    "m": "Chùa thường thắp loại hương này.",
+                                    "p_vn": "chua thuong thap loai huong nay.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac395a96e",
+                                    "id": 106692,
+                                    "type": "e_cnvi",
+                                    "e": "寺庙常点这种香。",
+                                    "p_cn": "simiao chang dian zhe zhong xiang.",
+                                    "p": "sìmiào cháng diǎn zhè zhǒng xiāng."
+                                },
+                                {
+                                    "m": "Loại hương này có mùi thơm dễ chịu.",
+                                    "p_vn": "loai huong nay co mui thom de chiu.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac395ad5f",
+                                    "id": 106693,
+                                    "type": "e_cnvi",
+                                    "e": "这种香气味好闻。",
+                                    "p_cn": "zhe zhong xiang qiwei hao wen.",
+                                    "p": "zhè zhǒng xiāng qìwèi hǎo wén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Hương",
+                            "explain": "贵姓",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy là một thành viên họ Hương.",
+                                    "p_vn": "anh ay la mot thanh vien ho huong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3958af5",
+                                    "id": 106688,
+                                    "type": "e_cnvi",
+                                    "e": "他是香姓的一员。",
+                                    "p_cn": "ta shi xiang xing de yi yuan。",
+                                    "p": "tā shì xiāng xìng de yī yuán。"
+                                },
+                                {
+                                    "m": "Ở đây có cư dân họ Hương.",
+                                    "p_vn": "o day co cu dan ho huong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac39595af",
+                                    "id": 106689,
+                                    "type": "e_cnvi",
+                                    "e": "这里有香姓居民。",
+                                    "p_cn": "zhe li you xiang xing ju min。",
+                                    "p": "zhè lǐ yǒu xiāng xìng jū mín。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 446,
+                "search": 11588
+            },
+            "snym": {
+                "anto": [
+                    "臭"
+                ],
+                "syno": [
+                    "馨"
+                ]
+            },
+            "lv_hsk_new": "3, 4",
+            "pinyin": "xiāng",
+            "cn_vi": "hương",
+            "word": "香",
+            "id": 55368,
+            "phonetic": "xiang",
+            "rank": 773,
+            "lv_tocfl": 2,
+            "compound": "香案 ; 香槟酒 ; 香菜 ; 香草醛 ; 香肠 ; 香橙 ; 香椿 ; 香榧 ; 香馥馥 ; 香附子 ; 香干 ; 香菇 ; 香瓜 ; 香蒿 ; 香花 ; 香灰 ; 香会 ; 香火 ; 香蕉 ; 香蕉苹果 ; 香蕉水 ; 香精 ; 香客 ; 香料 ; 香炉 ; 香茅 ; 香喷喷 ; 香片 ; 香蒲 ; 香薷 ; 香山 ; 香水 ; 香水梨 ; 香甜 ; 香溪 ; 香蕈 ; 香烟 ; 香艳 ; 香胰子 ; 香油 ; 香橼 ; 香云纱 ; 香皂 ; 香泽 ; 香獐子 ; 香烛"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "píng, kuǎn, zhǒng, dī, háo, shēng",
+                "measure": "瓶, 款, 种, 滴, 毫, 升"
+            },
+            "topic": "56",
+            "zhuyin": "ㄒㄧㄤㄕㄨㄟˇ",
+            "_id": "34dd9c22445f5b69a927c0893e0b250a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "diễn tả hành động cụ thể liên quan đến nước hoa",
+                            "examples": [
+                                113334,
+                                113335
+                            ],
+                            "struct": "Động từ (喷/用/买...) + 香水"
+                        },
+                        {
+                            "explain": "mô tả, giới hạn chủng loại, chất lượng,...",
+                            "examples": [
+                                113718,
+                                113719,
+                                113720
+                            ],
+                            "struct": "Định ngữ + (的) + 香水"
+                        },
+                        {
+                            "explain": "...của nước hoa",
+                            "examples": [
+                                113363,
+                                113364
+                            ],
+                            "struct": "香水 + (的) + Danh từ (味,味道,气味,...)"
+                        },
+                        {
+                            "explain": "mô tả, đánh giá đặc tính, chất lượng của nước hoa",
+                            "examples": [
+                                113369,
+                                113372
+                            ],
+                            "struct": "香水 + (很) + Tính từ (不错,好闻,清新,...)"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nước hoa; dầu thơm",
+                            "explain": "(香水儿) 用香料、酒精和蒸馏水等制成的化妆品",
+                            "examples": [
+                                {
+                                    "m": "Loại nước hoa này rất thơm.",
+                                    "p_vn": "loai nuoc hoa nay rat thom.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697ced351f",
+                                    "id": 113315,
+                                    "type": "e_cnvi",
+                                    "e": "这款香水很香。",
+                                    "p_cn": "zhe kuan xiangshui hen xiang.",
+                                    "p": "zhè kuǎn xiāngshuǐ hěn xiāng."
+                                },
+                                {
+                                    "m": "Anh ấy không cẩn thận làm đổ chai nước hoa trên bàn.",
+                                    "p_vn": "anh ay khong can than lam do chai nuoc hoa tren ban.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cfdf81c",
+                                    "id": 113714,
+                                    "type": "e_cnvi",
+                                    "e": "他不小心打翻了桌上的香水。",
+                                    "p_cn": "ta bu xiaoxin da fanle zhuo shang de xiangshui.",
+                                    "p": "tā bù xiǎoxīn dǎ fānle zhuō shàng de xiāngshuǐ."
+                                },
+                                {
+                                    "m": "Cô ấy thích sưu tập các loại nước hoa từ các thương hiệu khác nhau.",
+                                    "p_vn": "co ay thich suu tap cac loai nuoc hoa tu cac thuong hieu khac nhau.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cfe0765",
+                                    "id": 113715,
+                                    "type": "e_cnvi",
+                                    "e": "她喜欢收集各种品牌的香水。",
+                                    "p_cn": "ta xihuan shouji ge zhong pinpai de xiangshui.",
+                                    "p": "tā xǐhuān shōují gè zhǒng pǐnpái de xiāngshuǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 281,
+                "search": 3184
+            },
+            "snym": {
+                "anto": [],
+                "syno": [
+                    "香氛,香精"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "xiāngshuǐ",
+            "cn_vi": "hương thuỷ",
+            "word": "香水",
+            "id": 55401,
+            "phonetic": "xiangshui",
+            "rank": 3739,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄍㄤˇ",
+            "_id": "288c0dc90dc4f6e0e9f42e25425679b9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n, nlocal",
+                    "means": [
+                        {
+                            "mean": "Hồng Kông; Hong Kong",
+                            "explain": "是中国一个特别行政区的名称，位于东亚半岛，位于中国东南部。",
+                            "examples": [
+                                {
+                                    "m": "Tôi yêu đồ ăn Hong Kong.",
+                                    "p_vn": "toi yeu do an hong kong.",
+                                    "_id": "71a8f4da663cb843c22cd96cf46e67a5",
+                                    "id": 121907,
+                                    "type": "e_cnvi",
+                                    "e": "我很喜欢香港的美食。",
+                                    "p_cn": "wo hen xihuan xianggang de meishi.",
+                                    "p": "wǒ hěn xǐhuan xiānggǎng de měishí."
+                                },
+                                {
+                                    "m": "Hong Kong có rất nhiều tòa nhà cao tầng.",
+                                    "p_vn": "hong kong co rat nhieu toa nha cao tang.",
+                                    "_id": "71a8f4da663cb843c22cd96cf46e6a82",
+                                    "id": 121908,
+                                    "type": "e_cnvi",
+                                    "e": "香港有很多高楼大厦。",
+                                    "p_cn": "xianggang you henduo gaolou dasha.",
+                                    "p": "xiānggǎng yǒu hěnduō gāolóu dàshà."
+                                },
+                                {
+                                    "m": "Phong cảnh về đêm ở Hong Kong rất đẹp.",
+                                    "p_vn": "phong canh ve dem o hong kong rat dep.",
+                                    "_id": "71a8f4da663cb843c22cd96cf46e793b",
+                                    "id": 121909,
+                                    "type": "e_cnvi",
+                                    "e": "香港的夜景非常漂亮。",
+                                    "p_cn": "xianggang de yejing feichang piaoliang.",
+                                    "p": "xiānggǎng de yèjǐng fēicháng piàoliang."
+                                },
+                                {
+                                    "m": "Tôi dự định đi du lịch Hong Kong vào tháng sau.",
+                                    "p_vn": "toi du dinh di du lich hong kong vao thang sau.",
+                                    "_id": "71a8f4da663cb843c22cd96cf46e85a4",
+                                    "id": 121910,
+                                    "type": "e_cnvi",
+                                    "e": "我计划下个月去香港旅游。",
+                                    "p_cn": "wo jihua xia ge yue qu xianggang lǚyou.",
+                                    "p": "wǒ jìhuà xià gè yuè qù xiānggǎng lǚyóu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 354,
+                "search": 4406
+            },
+            "snym": null,
+            "cn_vi": "hương cảng",
+            "pinyin": "xiānggǎng",
+            "word": "香港",
+            "id": 75446,
+            "phonetic": "xianggang",
+            "rank": 2735,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "fac83dbd15064c049ed5a0cbd4b03384",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ốc hương",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hương loa",
+            "pinyin": "xiāng luó",
+            "popularity": {
+                "notebook": 1,
+                "search": 78
+            },
+            "word": "香螺",
+            "id": 174344,
+            "phonetic": "xiangluo",
+            "rank": 47257,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ec470e07faec42fcb9d1fcfe4ce9e20c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tinh dầu thơm。香精的一種，存在于某些植物中，現在多由人工合成。用于化妝品和食品。也叫香蘭素。簡稱香草。",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "hương đề",
+            "pinyin": "xiāng tí",
+            "word": "香荑",
+            "id": 171994,
+            "phonetic": "xiangti",
+            "rank": 131222,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩㄣˊㄒㄧㄤ",
+            "_id": "ed600d4c1a79654a55667091d22da073",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây cửu lý hương; vân hương",
+                            "explain": "多年生草本植物，茎直立，叶子互生，羽状分裂，裂片长圆形，花黄色，果实为蒴果全草有香气，可入药",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "vân hương",
+            "pinyin": "yúnxiāng",
+            "word": "芸香",
+            "id": 62495,
+            "phonetic": "yunxiang",
+            "rank": 72919,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄡˊㄒㄧㄤ",
+            "_id": "df677254e47a496785990fa92dc41caf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(tiếng lóng) (Tw) câu trả lời đầu tiên cho một bài đăng trên blog, v.v.",
+                            "explain": "(slang) (Tw) the first reply to a blog post etc",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nén hương đầu tiên đặt trong lư hương (được cho là sẽ mang lại may mắn, đặc biệt là trong các lễ hội)",
+                            "explain": "the first stick of incense placed in the censer (believed to bring good luck esp. during festivities)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "đầu hương",
+            "pinyin": "tóu xiāng",
+            "word": "头香",
+            "id": 107313,
+            "phonetic": "touxiang",
+            "rank": 85878,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄣㄒㄧㄤ",
+            "_id": "1f8db180ff018c75e571798be32e0a2c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hương thơm; thơm nức; thơm ngát",
+                            "explain": "芳香",
+                            "examples": [
+                                {
+                                    "m": "hoa quế nở đầy sân thơm ngát.",
+                                    "p_vn": "hoa que no day san thom ngat",
+                                    "_id": "c5209c1af7a384f9e7216ea1274e4e7e",
+                                    "id": 42785,
+                                    "type": "e_cnvi",
+                                    "e": "桂花开了，满院馨香。",
+                                    "p_cn": "guihua kaile man yuan xinxiang",
+                                    "p": "gùihuā kāi le，mǎnyuàn xīnxiāng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mùi thơm của hương khi đốt",
+                            "explain": "烧香的香味",
+                            "examples": [
+                                {
+                                    "m": "đốt hương cầu chúc.",
+                                    "p_vn": "dot huong cau chuc",
+                                    "_id": "a7cf31aa5e2da21988104ff46f4b1e7c",
+                                    "id": 42786,
+                                    "type": "e_cnvi",
+                                    "e": "馨香祷祝。",
+                                    "p_cn": "xinxiang daozhu",
+                                    "p": "xīnxiāngdǎozhù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 144
+            },
+            "snym": {
+                "syno": [
+                    "芳香",
+                    "芬芳",
+                    "芳菲",
+                    "幽芳",
+                    "芬芬",
+                    "香气",
+                    "芬香"
+                ],
+                "anto": [
+                    "腐臭",
+                    "难闻"
+                ]
+            },
+            "cn_vi": "hinh hương",
+            "pinyin": "xīnxiāng",
+            "word": "馨香",
+            "id": 56506,
+            "phonetic": "xinxiang",
+            "rank": 34165,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄢˋㄒㄧㄤ",
+            "_id": "3b81dddd6c11abdf2582e7a0517b0feb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hoa mai (tên gọi khác của hoa mai)",
+                            "explain": "梅花的代称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 66
+            },
+            "snym": null,
+            "cn_vi": "ám hương",
+            "pinyin": "àn xiāng",
+            "word": "暗香",
+            "id": 472,
+            "phonetic": "anxiang",
+            "rank": 51204,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄒㄧㄤ",
+            "_id": "6bb185e5978e2ee118e53aa6a7618488",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dâng hương; thắp hương; hành hương",
+                            "explain": "佛教徒、道教徒到圣地或名山的庙宇去烧香朝拜，特指从远道去的",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 92
+            },
+            "snym": null,
+            "cn_vi": "tiến hương",
+            "pinyin": "jìnxiāng",
+            "word": "进香",
+            "id": 30338,
+            "phonetic": "jinxiang",
+            "rank": 43336,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄢˊㄒㄧㄤ",
+            "_id": "a6f030211ed34a9a8ae90a87b641bdae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hương thơm kéo dài",
+                            "explain": "lingering fragrance",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tàn hương",
+            "pinyin": "cánxiāng",
+            "word": "残香",
+            "id": 108103,
+            "phonetic": "canxiang",
+            "rank": 127607,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄣˊㄒㄧㄤ",
+            "_id": "a5fefbb773e15a2c3e7e0d4a15bcfa08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "tinh khiết và thơm (mùi vị)",
+                            "explain": "指味纯而香",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 168
+            },
+            "snym": {
+                "syno": [
+                    "香甜",
+                    "醇美",
+                    "香醇"
+                ]
+            },
+            "cn_vi": "thuần hương",
+            "pinyin": "chúnxiāng",
+            "word": "醇香",
+            "id": 9136,
+            "phonetic": "chunxiang",
+            "rank": 31303,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄍㄨ˙",
+            "topic": "34",
+            "_id": "0516af7a70c7eaad6e5911a616b572c6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nấm hương",
+                            "explain": "寄生在栗、槲等树干上的蕈类，菌盖表面黑褐色，有裂纹，菌柄白色有冬菇、春菇等多种味鲜美",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 67,
+                "search": 670
+            },
+            "snym": null,
+            "cn_vi": "hương cô",
+            "pinyin": "xiānggū",
+            "word": "香菇",
+            "id": 55381,
+            "phonetic": "xianggu",
+            "rank": 13058,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄑㄧㄣˊ",
+            "topic": "34",
+            "_id": "8076ce57e570270f419b03133b21eb56",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Cần tây đá, mùi tây, ngò tây",
+                            "explain": "香芹（学名：Petroselinum crispum）为伞形科欧芹属的二年生草本植物。原产地中海沿岸。高15~20cm，具有清爽的香味和鲜绿色。古罗马时代起用于烹调，其食用部分为嫩叶和嫩茎，可生食或用肉类煮食，也可作为菜肴的干香调料或做羹汤及其他蔬菜食品的调味品，深受人们欢迎。也是世界上用的最广的一种草药。香芹对地质和气候的适应性高，栽培也很容易，世界各地都有栽培，但对干燥的适应性差。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "hương cần",
+            "pinyin": "xiāng qín",
+            "word": "香芹",
+            "id": 75450,
+            "phonetic": "xiangqin",
+            "rank": 64741,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "989e409617284ec7a4d335a4256bd030",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hương trà",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "trà hương",
+            "pinyin": "chá xiāng",
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "word": "茶香",
+            "id": 186373,
+            "phonetic": "chaxiang",
+            "rank": 85898,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄒㄧ",
+            "_id": "9911f2eedb520594045222e75498cf89",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Hương Khê (thuộc tỉnh Hà Tĩnh)",
+                            "explain": "越南地名属于河静省份",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "hương khê",
+            "pinyin": "xiāng xī",
+            "word": "香溪",
+            "id": 55404,
+            "phonetic": "xiangxi",
+            "rank": 68449,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄚㄒㄧㄤ",
+            "_id": "29ac22678855a3a71509097749b6ae89",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hương hoa",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "hương hoa thơm ngát công viên.",
+                                    "p_vn": "huong hoa thom ngat cong vien",
+                                    "_id": "597612315ddcc49f466c8faa0ade5d37",
+                                    "id": 30919,
+                                    "type": "e_cnvi",
+                                    "e": "公园里飘溢着花香。",
+                                    "p_cn": "gongyuan li piaoyizhe huaxiang",
+                                    "p": "gōngyuán lǐ piāoyìzhe huāxiāng."
+                                },
+                                {
+                                    "m": "hương hoa thoang thoảng",
+                                    "p_vn": "huong hoa thoang thoang",
+                                    "_id": "6b70995160b86b9ca263b35789452c91",
+                                    "id": 46494,
+                                    "type": "e_cnvi",
+                                    "e": "幽微的花香",
+                                    "p_cn": "youwei de huaxiang",
+                                    "p": "yōuwēi de huāxiāng"
+                                },
+                                {
+                                    "m": "Hương hoa ngào ngạt ập vào mặt.",
+                                    "p_vn": "huong hoa ngao ngat ap vao mat.",
+                                    "_id": "b69d4d2ca504af728e214be817782510",
+                                    "id": 30066,
+                                    "type": "e_cnvi",
+                                    "e": "浓郁的花香迎面扑来。",
+                                    "p_cn": "nongyu de huaxiang yingmian pu lai。",
+                                    "p": "nóngyù de huāxiāng yíngmiàn pū lái。"
+                                },
+                                {
+                                    "m": "Hương hoa tỏa ngát trong công viên.",
+                                    "p_vn": "huong hoa toa ngat trong cong vien.",
+                                    "_id": "f663d003beee9f4074769fb24a0750ca",
+                                    "id": 34238,
+                                    "type": "e_cnvi",
+                                    "e": "公园里散满花香。",
+                                    "p_cn": "gongyuan li sanman huaxiang。",
+                                    "p": "gōngyuán lǐ sànmǎn huāxiāng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 249
+            },
+            "snym": null,
+            "cn_vi": "hoa hương",
+            "pinyin": "huāxiāng",
+            "word": "花香",
+            "id": 73983,
+            "phonetic": "huaxiang",
+            "rank": 24863,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "47d87beebb4146f08a5014590a1e54ed",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tên một vị nữ thần coi về mưa gió sấm chớp. Sách Hậu sưu thần kí chép rằng một người họ Chu quê ở đất Nghĩa Hưng đi đường gặp trời tối, ghé vào một căn nhà bên đường xin tá túc, chủ nhà là một thiếu nữ xinh đẹp. Nửa đêm có tiếng gọi ngoài cửa rằng: » A Hương ơi, quan truyền cho nàng đi đẩy xe sấm «. Người thiếu nữ chủ nhà, tên A Hương, vội bước ra khỏi nhà. Lát sau có mưa gió sấm chớp.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 53
+            },
+            "snym": null,
+            "cn_vi": "a hương",
+            "pinyin": "ā xiāng",
+            "word": "阿香",
+            "id": 168608,
+            "phonetic": "axiang",
+            "rank": 56366,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "bēi, píng",
+                "examples": "我会喝一杯香槟。\nwǒ huì hè yībēi xiāngbīn.\nTôi sẽ uống một ly sâm panh.",
+                "measure": "杯, 瓶"
+            },
+            "topic": "36",
+            "zhuyin": "ㄒㄧㄤㄅㄧㄣ",
+            "_id": "79a0e617c92e0b757300e304bad097d5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sâm panh; sâm banh",
+                            "explain": "是一种只在法国香槟省之内生产的高级酒，它同时属于气泡酒和葡萄酒的种类，红葡萄和白葡萄皆可酿制。",
+                            "examples": [
+                                {
+                                    "m": "Rượu vang sủi bọt trắng là loại rượu sâm panh rẻ tiền.",
+                                    "p_vn": "ruou vang sui bot trang la loai ruou sam panh re tien.",
+                                    "_id": "c0fb569df3556ccddfe6404866fef8c7",
+                                    "id": 88758,
+                                    "type": "e_cnvi",
+                                    "e": "白葡萄汽酒是廉价的香槟。",
+                                    "p_cn": "bai putao qijiu shi lianjia de xiangbin.",
+                                    "p": "bái pútáo qìjiǔ shì liánjià de xiāngbīn."
+                                },
+                                {
+                                    "m": "Anh ta rót ra bốn ly sâm panh.",
+                                    "p_vn": "anh ta rot ra bon ly sam panh.",
+                                    "_id": "c0fb569df3556ccddfe6404866ff0260",
+                                    "id": 88759,
+                                    "type": "e_cnvi",
+                                    "e": "他倒出了四杯香槟。",
+                                    "p_cn": "ta dao chule si bei xiangbin.",
+                                    "p": "tā dǎo chūle sì bēi xiāngbīn."
+                                },
+                                {
+                                    "m": "Cô ấy thích rượu sâm panh.",
+                                    "p_vn": "co ay thich ruou sam panh.",
+                                    "_id": "c0fb569df3556ccddfe6404866ff0a80",
+                                    "id": 88760,
+                                    "type": "e_cnvi",
+                                    "e": "她酷爱香槟酒。",
+                                    "p_cn": "ta ku'ai xiangbinjiu.",
+                                    "p": "tā kù'ài xiāngbīnjiǔ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 53,
+                "search": 956
+            },
+            "snym": null,
+            "cn_vi": "hương tân",
+            "pinyin": "xiāngbīn",
+            "word": "香槟",
+            "id": 75445,
+            "phonetic": "xiangbin",
+            "rank": 10186,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨㄟˋㄒㄧㄤ",
+            "_id": "7598f42fb96e6c357016dfb04044e328",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây thuỵ hương; thuỵ hương",
+                            "explain": "常绿灌木，叶长椭圆形，两端尖，有光泽，花淡红色，有香气供观赏，根皮入药，有消肿止痛的作用",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cây dó niệt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "thuỵ hương",
+            "pinyin": "ruìxiāng",
+            "word": "瑞香",
+            "id": 44845,
+            "phonetic": "ruixiang",
+            "rank": 91620,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢˋㄒㄧㄤ",
+            "_id": "3202cb07c7b2d4a7a9c0c463e38017a3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hương dây; hương sợi",
+                            "explain": "用木屑加香料做成的细长而不带棒儿的香",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 47
+            },
+            "snym": null,
+            "cn_vi": "tuyến hương",
+            "pinyin": "xiàn xiāng",
+            "word": "线香",
+            "id": 55193,
+            "phonetic": "xianxiang",
+            "rank": 59608,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "415cd96fce904400995f987bb7fda846",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây sả。 多年生草本植物，葉子扁平，長而寬，圓錐花序。生長在熱帶地區。莖和葉子可以提取香茅油，用做香水的原料。; chè ngon",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 43
+            },
+            "snym": null,
+            "cn_vi": "hương mính",
+            "pinyin": "xiāng míng",
+            "word": "香茗",
+            "id": 171681,
+            "phonetic": "xiangming",
+            "rank": 62012,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨˇㄒㄧㄤ",
+            "_id": "8f127a7645e34553b475b2056ae4f8be",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xem 香附",
+                            "explain": "see 香附 [xiāng fù]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "thổ hương",
+            "pinyin": "tǔ xiāng",
+            "word": "土香",
+            "id": 102130,
+            "phonetic": "tuxiang",
+            "rank": 117342,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ab69e14845c54a17af0442b41ea1447b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây hương",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hương đình",
+            "pinyin": "xiāng tíng",
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "word": "香亭",
+            "id": 182760,
+            "phonetic": "xiangting",
+            "rank": 132127,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "abaed506ec8843eeae889ed7dc797a9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tâm trí hướng về。心神飛到 (向往的地方) 。",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tâm hương",
+                            "explain": "虔诚的心",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tâm hương",
+            "pinyin": "xīn xiāng",
+            "word": "心香",
+            "id": 171211,
+            "phonetic": "xinxiang",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "kuài",
+                "examples": "",
+                "measure": "块"
+            },
+            "zhuyin": "ㄒㄧㄤㄗㄠˋ",
+            "_id": "c48e0775f8e9bfb3cf3988f8c4e3ef3a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xà phòng thơm; xà bông thơm",
+                            "explain": "在精炼的原料中加入香料而制成的肥皂，多用来洗脸",
+                            "examples": [
+                                {
+                                    "m": "Tôi thích dùng xà phòng thơm để rửa tay.",
+                                    "p_vn": "toi thich dung xa phong thom de rua tay.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c57edbf",
+                                    "id": 133973,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢用香皂洗手。",
+                                    "p_cn": "wo xihuan yong xiangzao xishou.",
+                                    "p": "wǒ xǐhuān yòng xiāngzào xǐshǒu."
+                                },
+                                {
+                                    "m": "Viên xà phòng này phảng phất hương hoa.",
+                                    "p_vn": "vien xa phong nay phang phat huong hoa.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c57fb3f",
+                                    "id": 133974,
+                                    "type": "e_cnvi",
+                                    "e": "这块香皂有淡淡的花香。",
+                                    "p_cn": "zhe kuai xiangzao you dandan de huaxiang.",
+                                    "p": "zhè kuài xiāngzào yǒu dàndàn de huāxiāng."
+                                },
+                                {
+                                    "m": "Hãy đặt xà phòng thơm ở trong phòng tắm.",
+                                    "p_vn": "hay dat xa phong thom o trong phong tam.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c5809e0",
+                                    "id": 133975,
+                                    "type": "e_cnvi",
+                                    "e": "请把香皂放在浴室里。",
+                                    "p_cn": "qing ba xiangzao fang zai yushi li.",
+                                    "p": "qǐng bǎ xiāngzào fàng zài yùshì lǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 108,
+                "search": 1029
+            },
+            "snym": null,
+            "cn_vi": "hương tạo",
+            "pinyin": "xiāngzào",
+            "word": "香皂",
+            "id": 55412,
+            "phonetic": "xiangzao",
+            "rank": 9629,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "34, 63",
+            "zhuyin": "ㄒㄧㄤㄘㄠˇ",
+            "_id": "64df92036e8c41eaa4f7ca9a5a27b48d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thảo mộc; vanilla; vani",
+                            "explain": "也称为香料植物，是指因为其香气而用在食物、调味品、药品及香料中的植物。",
+                            "examples": [
+                                {
+                                    "m": "Tôi đã thêm một ít kem vani vào chiếc bánh.",
+                                    "p_vn": "toi da them mot it kem vani vao chiec banh.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab4f5a67",
+                                    "id": 89413,
+                                    "type": "e_cnvi",
+                                    "e": "我在馅饼中加了一块香草冰淇淋。",
+                                    "p_cn": "wo zai xian bing zhong jiale yikuai xiangcao bingqilin.",
+                                    "p": "wǒ zài xiàn bǐng zhōng jiāle yīkuài xiāngcǎo bīngqílín."
+                                },
+                                {
+                                    "m": "Bạn dùng càng nhiều thảo mộc thì nước sốt sẽ càng hăng mũi.",
+                                    "p_vn": "ban dung cang nhieu thao moc thi nuoc sot se cang hang mui.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab4f69ac",
+                                    "id": 89415,
+                                    "type": "e_cnvi",
+                                    "e": "你用的香草越多，沙司的味道就越刺鼻。",
+                                    "p_cn": "ni yong de xiangcao yue duo, sha si de weidao jiu yue ci bi.",
+                                    "p": "nǐ yòng de xiāngcǎo yuè duō, shā sī de wèidào jiù yuè cì bí."
+                                },
+                                {
+                                    "m": "Vani phát ra một mùi thơm dễ chịu.",
+                                    "p_vn": "vani phat ra mot mui thom de chiu.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab4f758e",
+                                    "id": 89417,
+                                    "type": "e_cnvi",
+                                    "e": "香草发出怡人的香味。",
+                                    "p_cn": "xiangcao fachu yi ren de xiangwei.",
+                                    "p": "xiāngcǎo fāchū yí rén de xiāngwèi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 746
+            },
+            "snym": null,
+            "cn_vi": "hương thảo",
+            "pinyin": "xiāngcǎo",
+            "word": "香草",
+            "id": 109547,
+            "phonetic": "xiangcao",
+            "rank": 12161,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄧㄡˊ",
+            "_id": "157a305d1fa683a297a485a21a1ebcd1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dầu vừng; dầu mè",
+                            "explain": "芝麻油",
+                            "examples": [
+                                {
+                                    "m": "Đổ một chút dầu mè lên món rau trộn.",
+                                    "p_vn": "do mot chut dau me len mon rau tron.",
+                                    "_id": "0d447888afdf3b09cec12b4358b63a09",
+                                    "id": 26554,
+                                    "type": "e_cnvi",
+                                    "e": "在凉拌菜上淋上点儿香油。",
+                                    "p_cn": "do mot chut dau me len mon rau tron.",
+                                    "p": "zài liángbàncài shànglínshàng diǎnr xiāngyóu。"
+                                },
+                                {
+                                    "m": "Dầu hương thảo được sử dụng như một loại nước hoa trên cơ thể hoặc làm hương thơm trong phòng.",
+                                    "p_vn": "Dau huong thao duoc su dung nhu mot loai nuoc hoa tren co the hoac lam huong thom trong phong.",
+                                    "_id": "3a0769194eca48612b1346741e138324",
+                                    "id": 54162,
+                                    "type": "e_cnvi",
+                                    "e": "迷迭香油用於身體上的香水或使一個房間發出的香氣。",
+                                    "p_cn": "Mi die xiangyou yong yu shenti shang de xiangshui huo shi yige fangjian fachu de xiangqi.",
+                                    "p": "Mí dié xiāngyóu yòng yú shēntǐ shàng de xiāngshuǐ huò shǐ yīgè fángjiān fāchū de xiāngqì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tương vừng; tương mè",
+                            "explain": "把芝麻炒熟、磨碎而制成的酱, 有香味, 用作调料",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 36,
+                "search": 317
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "xiāngyóu",
+            "cn_vi": "hương du",
+            "word": "香油",
+            "id": 55409,
+            "phonetic": "xiangyou",
+            "rank": 21357,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄎㄜˋ",
+            "_id": "2e43f5bc7e1430b9006cb0c85123990b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khách hành hương",
+                            "explain": "朝山进香的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 45
+            },
+            "snym": null,
+            "cn_vi": "hương khách",
+            "pinyin": "xiāngkè",
+            "word": "香客",
+            "id": 55392,
+            "phonetic": "xiangke",
+            "rank": 60566,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄓ",
+            "_id": "2cf6e6fcddd346a2bd1a8fdd9d76ac3b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "balsam",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cây linh sam Balsam phổ biến trên khắp vùng đông bắc.",
+                                    "p_vn": "cay linh sam balsam pho bien tren khap vung dong bac.",
+                                    "_id": "f5f72010ebdc4e809f00942bdcff8091",
+                                    "id": 65628,
+                                    "type": "e_cnvi",
+                                    "e": "东北部到处都是香脂冷杉",
+                                    "p_cn": "dongbeibu daochu dou shi xiangzhi lengshan",
+                                    "p": "dōngběibù dàochù dōu shì xiāngzhī lěngshān"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Kem dưỡng da",
+                            "explain": "face cream",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 197
+            },
+            "snym": null,
+            "cn_vi": "hương chi",
+            "pinyin": "xiāngzhī",
+            "word": "香脂",
+            "id": 109546,
+            "phonetic": "xiangzhi",
+            "rank": 28615,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨˇㄒㄧㄤ",
+            "_id": "63ceedfacc6e9a284f3decc88e29b975",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngũ vị hương; húng lìu",
+                            "explain": "指花椒、八角、桂皮、丁香花蕾、茴香子五种调味的香料",
+                            "examples": [
+                                {
+                                    "m": "đậu ướp ngũ vị hương",
+                                    "p_vn": "dau uop ngu vi huong",
+                                    "_id": "35d6fa4d1c16ab64fa106e349f8f3418",
+                                    "id": 41124,
+                                    "type": "e_cnvi",
+                                    "e": "五香豆",
+                                    "p_cn": "wuxiang dou",
+                                    "p": "wǔxiāngdòu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 55
+            },
+            "snym": null,
+            "cn_vi": "ngũ hương",
+            "pinyin": "wǔxiāng",
+            "word": "五香",
+            "id": 53944,
+            "phonetic": "wuxiang",
+            "rank": 55593,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄧㄢㄒㄧㄤ",
+            "_id": "732a0aaa57c84b0c08001edcd4cd32c3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thiên hương; hương trời",
+                            "explain": "自天上传来的香气",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "thiên hương",
+            "pinyin": "tiānxiāng",
+            "word": "天香",
+            "id": 50671,
+            "phonetic": "tianxiang",
+            "rank": 70938,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄩㄢˊ",
+            "_id": "764a760f5e95aae07fd4abeb69f43ae6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây phật thủ; cây chấp",
+                            "explain": "常绿小乔木或大灌木，有短刺，叶子卵圆形，总状花序，花瓣里面白色，外面淡紫色果实长圆形，黄色，果皮粗而厚供观赏，果皮中医入药",
+                            "examples": []
+                        },
+                        {
+                            "mean": "quả phật thủ; trái phật thủ",
+                            "explain": "这种植物的果实",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "hương duyên",
+            "pinyin": "xiāng yuán",
+            "word": "香橼",
+            "id": 55410,
+            "phonetic": "xiangyuan",
+            "rank": 69663,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄙㄨㄥˋ",
+            "_id": "7871a60301ae47058c55f98f8b4264a1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chanson (loanword)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "hương tụng",
+            "pinyin": "xiāng sòng",
+            "word": "香颂",
+            "id": 110598,
+            "phonetic": "xiangsong",
+            "rank": 139355,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄏㄨㄟˋ",
+            "_id": "07bf78ca07939485ef16112be50cf153",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hội dâng hương",
+                            "explain": "旧时民间为朝山进香而组织的群众团体",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "hương hội",
+            "pinyin": "xiāng huì",
+            "word": "香会",
+            "id": 55386,
+            "phonetic": "xianghui",
+            "rank": 82504,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄢˊㄒㄧㄤ",
+            "_id": "1ea4936016674d92a77436f8eba00c3a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gỗ đàn hương",
+                            "explain": "sandalwood; 落叶乔木, 叶互生, 卵形, 花单生, 果实有圆形的翅木质坚硬, 用来制造家具、农具和乐器也叫青檀",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 143
+            },
+            "snym": null,
+            "cn_vi": "đàn hương",
+            "pinyin": "tán xiāng",
+            "word": "檀香",
+            "id": 108080,
+            "phonetic": "tanxiang",
+            "rank": 34304,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄌㄨˊ",
+            "_id": "29e6c15399020211a5683ba9e471145f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lư hương; bát hương",
+                            "explain": "烧香所用的器具，用陶瓷或金属制成，通常圆形有耳，底有三足",
+                            "examples": [
+                                {
+                                    "m": "Phật tử trong đống thanh hương đốt lên một cột hương.",
+                                    "p_vn": "Phat tu trong dong thanh huong dot len mot cot huong.",
+                                    "_id": "17267cc6fd4f47c4a6674b466dc4c4e3",
+                                    "id": 70250,
+                                    "type": "e_cnvi",
+                                    "e": "和尚在香炉里焚上一柱香。",
+                                    "p_cn": "heshang zai xianglu li fen shang yi zhu xiang",
+                                    "p": "héshang zài xiānglú lǐ fén shàng yī zhù xiāng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bình hương",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 241
+            },
+            "snym": null,
+            "cn_vi": "hương lô",
+            "pinyin": "xiānglú",
+            "word": "香炉",
+            "id": 55394,
+            "phonetic": "xianglu",
+            "rank": 25338,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "65",
+            "zhuyin": "ㄒㄧㄤㄨㄣˇ",
+            "_id": "500f2e52e1b74b10935be6f62a5d27da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hôn",
+                            "explain": "kiss",
+                            "examples": [
+                                {
+                                    "m": "Tại sao bạn không hôn anh ấy đi?",
+                                    "p_vn": "Tai sao ban khong hon anh ay di?",
+                                    "_id": "788aff268533471388515543182e808f",
+                                    "id": 58892,
+                                    "type": "e_cnvi",
+                                    "e": "你干嘛还不上前去献上香吻",
+                                    "p_cn": "ni ganma huan bu shang qianqu xianshang xiangwen",
+                                    "p": "nǐ gānma huán bù shàng qiánqù xiànshàng xiāngwěn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 78
+            },
+            "snym": null,
+            "cn_vi": "hương vẫn",
+            "pinyin": "xiāng wěn",
+            "word": "香吻",
+            "id": 109541,
+            "phonetic": "xiangwen",
+            "rank": 47279,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄗㄜˊ",
+            "_id": "886239e0d5925985bfb6e8de3131368b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dầu chải tóc",
+                            "explain": "润发用的香油",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hương thơm; mùi thơm, mùi hương",
+                            "explain": "香气",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mùi thơm; mùi hương",
+                            "explain": "香, 香气 (芬香扑鼻)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "hương trạch",
+            "pinyin": "xiāngzé",
+            "word": "香泽",
+            "id": 55413,
+            "phonetic": "xiangze",
+            "rank": 70768,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "69",
+            "zhuyin": "ㄒㄧㄤㄈㄣˇ",
+            "_id": "99bb1ab6737cf1f5a4db9ba38800bcd1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hương phấn; phấn sáp; phấn son. 妇女化妆用的粉末",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "hương phấn",
+            "pinyin": "xiāng fěn",
+            "word": "香粉",
+            "id": 55377,
+            "phonetic": "xiangfen",
+            "rank": 73754,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄤˋㄒㄧㄤ",
+            "_id": "ad2aa621073aba4e7bcc0af78c9880ee",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thượng hương; đốt hương; thắp nhang",
+                            "explain": "烧香致祭",
+                            "examples": [
+                                {
+                                    "m": "Tại sao bạn không hôn anh ấy đi?",
+                                    "p_vn": "Tai sao ban khong hon anh ay di?",
+                                    "_id": "788aff268533471388515543182e808f",
+                                    "id": 58892,
+                                    "type": "e_cnvi",
+                                    "e": "你干嘛还不上前去献上香吻",
+                                    "p_cn": "ni ganma huan bu shang qianqu xianshang xiangwen",
+                                    "p": "nǐ gānma huán bù shàng qiánqù xiànshàng xiāngwěn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 234
+            },
+            "snym": null,
+            "cn_vi": "thượng hương",
+            "pinyin": "shàng xiāng",
+            "word": "上香",
+            "id": 45878,
+            "phonetic": "shangxiang",
+            "rank": 25801,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄔㄨㄣˊ",
+            "_id": "f93dd2a152844754aa4945c800995d85",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phong phú và êm dịu (hương vị hoặc mùi thơm)",
+                            "explain": "rich and mellow (flavor or aroma)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 115
+            },
+            "snym": {
+                "syno": [
+                    "醇香",
+                    "浓香",
+                    "清香",
+                    "纯正",
+                    "香味"
+                ],
+                "anto": [
+                    "腥臭",
+                    "恶臭"
+                ]
+            },
+            "cn_vi": "hương thuần",
+            "pinyin": "xiāngchún",
+            "word": "香醇",
+            "id": 110597,
+            "phonetic": "xiangchun",
+            "rank": 38700,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄏㄜˊ",
+            "_id": "f95dd1cb4a47430e9f9253a24344524b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Hạt Xianghe ở Langfang 廊坊 , Hà Bắc",
+                            "explain": "Xianghe county in Langfang 廊坊 [Lángfáng], Hebei",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "hương hà",
+            "pinyin": "xiānghé",
+            "word": "香河",
+            "id": 106385,
+            "phonetic": "xianghe",
+            "rank": 73904,
+            "kind": [
+                "nlocal",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄊㄧㄢˊ",
+            "_id": "f175122c67f9a866431ce59d5cfa6f03",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "thơm ngọt",
+                            "explain": "又香又甜",
+                            "examples": [
+                                {
+                                    "m": "giống dưa này vừa thơm vừa ngọt",
+                                    "p_vn": "giong dua nay vua thom vua ngot",
+                                    "_id": "7cc85028cdb84530e5e6d18eea159c57",
+                                    "id": 42083,
+                                    "type": "e_cnvi",
+                                    "e": "这种瓜味道很香甜。",
+                                    "p_cn": "zhe zhong gua weidao hen xiangtian",
+                                    "p": "zhèzhǒng guā wèidào hěn xiāngtián。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngủ say; ngủ ngon",
+                            "explain": "形容睡得塌实，舒服",
+                            "examples": [
+                                {
+                                    "m": "tham gia lao động công ích cả một ngày trời, tối về ngủ rất ngon.",
+                                    "p_vn": "tham gia lao dong cong ich ca mot ngay troi toi ve ngu rat ngon",
+                                    "_id": "e54ed143dc267c497f9c436624de0b75",
+                                    "id": 42084,
+                                    "type": "e_cnvi",
+                                    "e": "参加了一天义务劳动，晚上睡得格外香甜。",
+                                    "p_cn": "canjiale yitian yiwu laodong wanshang shui de gewai xiangtian",
+                                    "p": "cānjiā le yītiān yìwùláodòng，wǎnshàng shùidé géwài xiāngtián。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 342
+            },
+            "snym": {
+                "syno": [
+                    "甘甜",
+                    "醇香",
+                    "鲜甜",
+                    "甘洌",
+                    "清甜"
+                ],
+                "anto": [
+                    "苦辣",
+                    "甘苦"
+                ]
+            },
+            "cn_vi": "hương điềm",
+            "pinyin": "xiāngtián",
+            "word": "香甜",
+            "id": 55403,
+            "phonetic": "xiangtian",
+            "rank": 20336,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˊㄒㄧㄤ",
+            "_id": "b29a1b4efc70858a376576b68134ed30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh rán dầu",
+                            "explain": "伊斯兰教徒的一种食物，用温水和面，加盐，制成饼状，再用香油炸熟",
+                            "examples": [
+                                {
+                                    "m": "Bánh rán vòng là món ăn nhẹ của Bắc Kinh, già trẻ lớn bé ai cũng yêu thích, có vị giòn và nhiều dầu",
+                                    "p_vn": "Banh ran vong la mon an nhe cua Bac Kinh, gia tre lon be ai cung yeu thich, co vi gion va nhieu dau",
+                                    "_id": "cbe88ea4f826468485748c2486e99022",
+                                    "id": 55702,
+                                    "type": "e_cnvi",
+                                    "e": "北京小吃中的焦圈，男女老少都爱吃，酥脆油香的味儿",
+                                    "p_cn": "Beijing xiaochi zhong de jiao quan, nannu laoshao dou ai chi, sucui youxiang de wei er",
+                                    "p": "Běijīng xiǎochī zhōng de jiāo quān, nánnǚ lǎoshào dōu ài chī, sūcuì yóuxiang de wèi er"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "du hương",
+            "pinyin": "yóuxiang",
+            "word": "油香",
+            "id": 61101,
+            "phonetic": "youxiang",
+            "rank": 76990,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄏㄨㄚˊ",
+            "_id": "db06a3e5da3c49d19ddfa3fd8c43bea2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mịn",
+                            "explain": "creamy",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 70
+            },
+            "snym": null,
+            "cn_vi": "hương hoạt",
+            "pinyin": "xiāng huá",
+            "word": "香滑",
+            "id": 109543,
+            "phonetic": "xianghua",
+            "rank": 49679,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙㄨㄥㄒㄧㄤ",
+            "_id": "ec7c76b29ca998461928df41edf26788",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhựa cô-lô-phan; tùng hương; Cô-lô-phan",
+                            "explain": "松脂蒸馏后剩下的物质，固体、透明、质硬而脆，淡黄色或棕色是油漆、肥皂、造纸、火柴等工业的原料",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 117
+            },
+            "snym": null,
+            "cn_vi": "tùng hương",
+            "pinyin": "sōngxiāng",
+            "word": "松香",
+            "id": 49083,
+            "phonetic": "songxiang",
+            "rank": 38347,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄜˋㄒㄧㄤ",
+            "_id": "bbe1fbb71973d2891c71d39fe551a99f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cầy hương; xạ hương",
+                            "explain": "雄麝的肚脐和生殖器之间的腺囊的分泌物，干燥后呈颗粒状或块状，有特殊的香气，有苦味，可以制香料，也可以入药是中枢神经兴奋剂，外用能镇痛、消肿，简称麝",
+                            "examples": [
+                                {
+                                    "m": "lấy cân tiểu ly cân xạ hương này xem nặng bao nhiêu.",
+                                    "p_vn": "lay can tieu ly can xa huong nay xem nang bao nhieu",
+                                    "_id": "32b205164efb1e222050b5dc894bca83",
+                                    "id": 7853,
+                                    "type": "e_cnvi",
+                                    "e": "拿戥子戥一戥这点儿麝香有多重。也作等。",
+                                    "p_cn": "na deng zi deng yi deng zhe dian er shexiang you duochong ye zuo deng",
+                                    "p": "ná děng zi děng yī děng zhè diǎn er shèxiāng yǒu duōchóng. yě zuò děng."
+                                },
+                                {
+                                    "m": "nhung hươu, xạ hương, sừng tê giác... đều là những loại dược liệu quý.",
+                                    "p_vn": "nhung huou xa huong sung te giacdeu la nhung loai duoc lieu quy",
+                                    "_id": "c086aacf838ded7878a5b2e72aae4a5e",
+                                    "id": 28875,
+                                    "type": "e_cnvi",
+                                    "e": "鹿茸、麝香、犀角等都是名贵的药材。",
+                                    "p_cn": "lurong shexiang xijiao deng dou shi minggui di yaocai",
+                                    "p": "lùróng, shèxiāng, xījiǎo děng dōu shì míngguì di yàocái."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 169
+            },
+            "snym": null,
+            "cn_vi": "xạ hương",
+            "pinyin": "shèxiāng",
+            "word": "麝香",
+            "id": 46175,
+            "phonetic": "shexiang",
+            "rank": 31279,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄢㄒㄧㄤ",
+            "_id": "e8672cce05a6d6e5f15c89d5001b6cf5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thắp hương; đốt nhang; thắp nhang",
+                            "explain": "信神佛的人到庙里烧香",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 68
+            },
+            "snym": null,
+            "cn_vi": "niêm hương",
+            "pinyin": "niānxiāng",
+            "word": "拈香",
+            "id": 39438,
+            "phonetic": "nianxiang",
+            "rank": 50356,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄔㄠˊ",
+            "_id": "d730a556be0e4d988f3b66f3da7600c2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một tổ ấm tình yêu",
+                            "explain": "a love nest",
+                            "examples": []
+                        },
+                        {
+                            "mean": "một nơi chung sống bí mật (cũng mang tính xúc phạm)",
+                            "explain": "a place of secret cohabitation (also derogatory)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hương sào",
+            "pinyin": "xiāng cháo",
+            "word": "香巢",
+            "id": 110593,
+            "phonetic": "xiangchao",
+            "rank": 109598,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "香"
+}

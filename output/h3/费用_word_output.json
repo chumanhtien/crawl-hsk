@@ -1,0 +1,2060 @@
+{
+    "total": 2711,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "bǐ, gè",
+                "examples": "",
+                "measure": "笔, 个"
+            },
+            "topic": "27",
+            "zhuyin": "ㄈㄟˋㄩㄥˋ",
+            "_id": "47b36d9f719c488221ff6190205e22df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "chỉ rõ loại chi phí gì",
+                            "examples": [
+                                129065,
+                                129092,
+                                129093
+                            ],
+                            "struct": "Danh từ + 费用"
+                        },
+                        {
+                            "explain": "cung cấp thông tin chi tiết về chi phí",
+                            "examples": [
+                                129066,
+                                129083,
+                                129084
+                            ],
+                            "struct": "费用 + (是/为/包括/在于) + Số tiền"
+                        },
+                        {
+                            "explain": "hành động liên quan đến chi phí",
+                            "examples": [
+                                129077,
+                                129081,
+                                129082
+                            ],
+                            "struct": "Động từ + 费用"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phí tổn; chi phí; chi tiêu; phí dụng",
+                            "explain": "花费的钱;开支",
+                            "examples": [
+                                {
+                                    "m": "Chi phí cho chuyến đi này rất cao.",
+                                    "p_vn": "chi phi cho chuyen di nay rat cao.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718ac965",
+                                    "id": 129052,
+                                    "type": "e_cnvi",
+                                    "e": "这次旅行的费用很高。",
+                                    "p_cn": "zhe ci lǚxing de feiyong hen gao.",
+                                    "p": "zhè cì lǚxíng de fèiyòng hěn gāo."
+                                },
+                                {
+                                    "m": "Bạn cần phải thanh toán thêm chi phí.",
+                                    "p_vn": "ban can phai thanh toan them chi phi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718ad646",
+                                    "id": 129053,
+                                    "type": "e_cnvi",
+                                    "e": "你需要支付额外的费用。",
+                                    "p_cn": "ni xuyao zhifu ewai de feiyong.",
+                                    "p": "nǐ xūyào zhīfù éwài de fèiyòng."
+                                },
+                                {
+                                    "m": "Công ty đã chịu mọi chi phí.",
+                                    "p_vn": "cong ty da chiu moi chi phi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718addb3",
+                                    "id": 129054,
+                                    "type": "e_cnvi",
+                                    "e": "公司承担了所有的费用。",
+                                    "p_cn": "gongsi chengdanle suoyou de feiyong.",
+                                    "p": "gōngsī chéngdānle suǒyǒu de fèiyòng."
+                                },
+                                {
+                                    "m": "Chi phí y tế nằm trong phạm vi bảo hiểm.",
+                                    "p_vn": "chi phi y te nam trong pham vi bao hiem.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718adf1a",
+                                    "id": 129055,
+                                    "type": "e_cnvi",
+                                    "e": "医疗费用在保险范围内。",
+                                    "p_cn": "yiliao feiyong zai baoxian fanwei nei.",
+                                    "p": "yīliáo fèiyòng zài bǎoxiǎn fànwéi nèi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 281,
+                "search": 4233
+            },
+            "snym": {
+                "syno": [
+                    "花费",
+                    "开支",
+                    "经费"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "fèiyòng",
+            "cn_vi": "phí dụng",
+            "word": "费用",
+            "id": 16582,
+            "phonetic": "feiyong",
+            "rank": 2845,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩㄥˋㄈㄟˋ",
+            "_id": "250f14be1939e273cc86b94437a93b57",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí; phí tổn; chi phí tiêu dùng",
+                            "explain": "某一件事上的费用",
+                            "examples": [
+                                {
+                                    "m": "chi phí hàng ngày",
+                                    "p_vn": "chi phi hang ngay",
+                                    "_id": "08dc0daab6c708adeb2e3403c923110d",
+                                    "id": 46356,
+                                    "type": "e_cnvi",
+                                    "e": "日常用费",
+                                    "p_cn": "ri changyong fei",
+                                    "p": "rìcháng yòngfèi"
+                                },
+                                {
+                                    "m": "tất cả chi phí đều do tôi đảm nhận.",
+                                    "p_vn": "tat ca chi phi deu do toi dam nhan",
+                                    "_id": "3931242c7b125961c53eab3c486a8f4d",
+                                    "id": 46357,
+                                    "type": "e_cnvi",
+                                    "e": "一应用费由我负担。",
+                                    "p_cn": "yi yingyong fei you wo fudan",
+                                    "p": "yī yìngyòng fèiyóu wǒ fùdàn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 85
+            },
+            "snym": null,
+            "cn_vi": "dụng phí",
+            "pinyin": "yòng fèi",
+            "word": "用费",
+            "id": 60862,
+            "phonetic": "yongfei",
+            "rank": 44988,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄈㄟˋㄩㄥˋ",
+            "_id": "315d4521afe149b58e47a12484d49c87",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "giá thấp",
+                            "explain": "low cost",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "đê phí dụng",
+            "pinyin": "dī fèiyòng",
+            "word": "低费用",
+            "id": 116958,
+            "phonetic": "difeiyong",
+            "rank": 156863,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "1381df419cd2455fb44b683e914f3375",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "cướp công người khác",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "đạo dụng kinh phí",
+            "pinyin": "dàoyòng jīngfèi",
+            "word": "盗用经费",
+            "id": 167941,
+            "phonetic": "daoyongjingfei",
+            "rank": 98266,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "6b1dc45f581244f885b5ce3df7ba079b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí xe hơi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khí xa phí dụng",
+            "pinyin": "qìchē fèiyòng",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "汽车费用",
+            "id": 185822,
+            "phonetic": "qichefeiyong",
+            "rank": 157765,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄏㄨㄛˋㄈㄟˋㄩㄥˋ",
+            "_id": "18900a933d64b7e144e8d8f384eb9ed2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phí trả hàng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "thối hoá phí dụng",
+            "pinyin": "tuìhuò fèiyòng",
+            "word": "退货费用",
+            "id": 74756,
+            "phonetic": "tuihuofeiyong",
+            "rank": 70318,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a2708da19afc446795bf37a48ad8c517",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phí nạp tiền",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "sung trị dụng phí",
+            "pinyin": "chōngzhí yòng fèi",
+            "popularity": {
+                "notebook": 1,
+                "search": 0
+            },
+            "word": "充值用费",
+            "id": 185035,
+            "phonetic": "chongzhiyongfei",
+            "rank": 159628,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "phrase"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙㄤˋㄗㄤˋㄈㄟˋㄩㄥˋ",
+            "_id": "ca8302394cd66c01aeede1c71de279b1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Phí tổn mai táng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tang táng phí dụng",
+            "pinyin": "sāngzàng fèiyòng",
+            "word": "丧葬费用",
+            "id": 79551,
+            "phonetic": "sangzangfeiyong",
+            "rank": 158403,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "phrase"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄚˊㄓㄤˋㄈㄟˋㄩㄥˋ",
+            "_id": "c1dbd0fae094908bc77a162aa1cce375",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Chi phí kiểm toán",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tra trướng phí dụng",
+            "pinyin": "cházhàng fèiyòng",
+            "word": "查账费用",
+            "id": 71626,
+            "phonetic": "chazhangfeiyong",
+            "rank": 131159,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c0d1f604f184447d8353c07b668d8308",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí tài chính",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tài vụ phí dụng",
+            "pinyin": "cáiwù fèiyòng",
+            "popularity": {
+                "notebook": 2,
+                "search": 1
+            },
+            "word": "财务费用",
+            "id": 186482,
+            "phonetic": "caiwufeiyong",
+            "rank": 153188,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄜˊㄨㄞˋㄈㄟˋㄩㄥˋ",
+            "_id": "7297f60d6b6dfb2663beea2ed0b8a0ac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí ngoại ngạch",
+                            "explain": "保险人仅是在保险财产确有损失，赔案确实成立的情况下，才对此项费用予以负责。额外费用不得加在保险货物的损失金额内以达到或超过免赔率（额），但若是根据保险人的指示而进行的检验所产生的费用，则不论损失是否达到了免赔率，保险人概予负责。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 77
+            },
+            "snym": null,
+            "cn_vi": "ngạch ngoại phí dụng",
+            "pinyin": "éwài fèiyòng",
+            "word": "额外费用",
+            "id": 82598,
+            "phonetic": "ewaifeiyong",
+            "rank": 47307,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄍㄨㄛˋㄏㄨˋㄈㄟˋㄩㄥˋ",
+            "_id": "9eeace5e593c494cbd212b30ce1aabd0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Các chi phí và lệ phí liên quan đến việc mua và bán nhà; như thuế; bảo hiểm chủ quyền nhà; thẩm định và phí cho vay. （Closing cost ）chi phí khóa sổ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "quá hộ phí dụng",
+            "pinyin": "Guòhù fèiyòng",
+            "word": "过户费用",
+            "id": 158074,
+            "phonetic": "Guohufeiyong",
+            "rank": 152788,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄒㄧㄠㄕㄡˋㄈㄟˋㄩㄥˋ",
+            "_id": "247e4d6cb42a41c48c58b5e00d8dec6f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Selling expenses\nChi phí bán hàng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "tiêu thụ phí dụng",
+            "pinyin": "Xiāoshòu fèiyòng",
+            "word": "销售费用",
+            "id": 157166,
+            "phonetic": "Xiaoshoufeiyong",
+            "rank": 97398,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "814f6a9977ba4e778fea241115265396",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh sách các khoản phí; danh mục phí; lệ phí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phí dụng thanh đơn",
+            "pinyin": "fèiyòng qīngdān",
+            "popularity": {
+                "notebook": 1,
+                "search": 9
+            },
+            "word": "费用清单",
+            "id": 186504,
+            "phonetic": "feiyongqingdan",
+            "rank": 107940,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄢㄆㄞˋㄈㄟˋㄩㄥˋ",
+            "_id": "98bb62be0d4e07643ba5af0e76eebc72",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí phân bổ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "than phái phí dụng",
+            "pinyin": "tānpài fèiyòng",
+            "word": "摊派费用",
+            "id": 71069,
+            "phonetic": "tanpaifeiyong",
+            "rank": 95800,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓˋㄗㄠˋㄈㄟˋㄩㄥˋ",
+            "_id": "044299d6e4614ac6abc9bc8b53d26c18",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí chế tạo",
+                            "explain": "企业应设置“制造费用”账户进行总分类核算。该账户应按不同的生产单位设立明细账，账内按照费用项目设立专栏或专户，分别反映生产单位各项制造费用的发生情况。辅助生产车间如果只生产单一品种或只提供一种劳务而且制造费用数额较小，为了减少转帐手续，对发生的各项制造费用，也可以不通过“制造费用”账户核算，直接计入“辅助生产成本”账户。“制造费用”账户属于成本费用类账户，借方登记归集发生的制造费用，贷方反映制造费用的分配，月末无余额。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "chế tạo phí dụng",
+            "pinyin": "zhìzào fèiyòng",
+            "word": "制造费用",
+            "id": 68937,
+            "phonetic": "zhizaofeiyong",
+            "rank": 89409,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧˋㄒㄧ˙ㄈㄟˋㄩㄥˋ",
+            "_id": "1c82c5d40ce964fd2adaa20e6a8ff04c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí lợi tức",
+                            "explain": "简单说，就是这笔钱的利息作为费用来计，计入“财务费用”会计科目中。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "lợi tức phí dụng",
+            "pinyin": "lìxí fèiyòng",
+            "word": "利息费用",
+            "id": 68907,
+            "phonetic": "lixifeiyong",
+            "rank": 79414,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄥㄧㄥˊㄈㄟˋㄩㄥˋ",
+            "_id": "1e0dc830411e4e36b35c1e145b4b61fa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí kinh doanh",
+                            "explain": "business cost",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Chi phí kinh doanh",
+                            "explain": "business expense",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "kinh doanh phí dụng",
+            "pinyin": "jīngyíng fèiyòng",
+            "word": "经营费用",
+            "id": 140963,
+            "phonetic": "jingyingfeiyong",
+            "rank": 83184,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9cc8d6dda0224150832db93b387552ea",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phí ủy quyền",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thụ quyền phí dụng",
+            "pinyin": "shòuquán fèiyòng",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "授权费用",
+            "id": 185529,
+            "phonetic": "shouquanfeiyong",
+            "rank": 147641,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "af9e8cd620334b80aecb5f1a60ad79e5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí bán hàng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tiêu hoá phí dụng",
+            "pinyin": "xiāo huò fèiyòng",
+            "word": "销货费用",
+            "id": 168473,
+            "phonetic": "xiaohuofeiyong",
+            "rank": 131304,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄚˊㄓㄤˋㄈㄟˋㄩㄥˋ",
+            "_id": "abab2563c7f3163fd19a052d85aa722d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phí tổn kiểm toán",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tra trướng phí dụng",
+            "pinyin": "chá zhàng fèiyòng",
+            "word": "查帐费用",
+            "id": 82375,
+            "phonetic": "chazhangfeiyong",
+            "rank": 158258,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄍㄨㄤˇㄈㄟˋㄩㄥˋ",
+            "_id": "9a95703fde3d9dcc0ff4d31c277191a7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí xúc tiến thương mại",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "thôi quảng phí dụng",
+            "pinyin": "tuīguǎng fèiyòng",
+            "word": "推广费用",
+            "id": 71019,
+            "phonetic": "tuiguangfeiyong",
+            "rank": 69626,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "5b146aacae7744379b8e9220dbac3e08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí mua hàng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thái cấu phí dụng",
+            "pinyin": "cǎigòu fèiyòng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "采购费用",
+            "id": 186617,
+            "phonetic": "caigoufeiyong",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄌㄧˇㄈㄟˋㄩㄥˋ",
+            "_id": "1ccefb1fcd193274c8656f898f095cb7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí quản lý",
+                            "explain": "管理费用属于期间费用，在发生的当期就计入当期的损失或是利益。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "quản lí phí dụng",
+            "pinyin": "guǎnlǐ fèiyòng",
+            "word": "管理费用",
+            "id": 73397,
+            "phonetic": "guanlifeiyong",
+            "rank": 84526,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "1f273fbdc4e5411b9d11ad454f766fda",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí linh tinh; các chi phí khác",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tạp hạng phí dụng",
+            "pinyin": "záxiàng fèiyòng",
+            "popularity": {
+                "notebook": 1,
+                "search": 0
+            },
+            "word": "杂项费用",
+            "id": 185692,
+            "phonetic": "zaxiangfeiyong",
+            "rank": 159911,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "529d169896f04ef8a03dba8df7c6727d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vật liệu chi phí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "tài liệu phí dụng",
+            "pinyin": "cáiliào fèiyòng",
+            "word": "材料费用",
+            "id": 167649,
+            "phonetic": "cailiaofeiyong",
+            "rank": 144560,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄝˋㄨ˙ㄈㄟˋㄩㄥˋ",
+            "_id": "9abc5a82e0c22fb0aaeb5eae5e4f39fe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí nghiệp vụ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "nghiệp vụ phí dụng",
+            "pinyin": "yèwù fèiyòng",
+            "word": "业务费用",
+            "id": 68108,
+            "phonetic": "yewufeiyong",
+            "rank": 84422,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "be8f94e3b0cc42bd84e0242807990c63",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phí mạng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "võng lạc phí dụng",
+            "pinyin": "wǎngluò fèiyòng",
+            "popularity": {
+                "notebook": 1,
+                "search": 1
+            },
+            "word": "网络费用",
+            "id": 186289,
+            "phonetic": "wangluofeiyong",
+            "rank": 151694,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "34602d8b254f4996a1fd7df92d312574",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí vận chuyển",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Phí vận chuyển không bao gồm chi phí vận chuyển từ ga đến bến tàu.",
+                                    "p_vn": "Phi van chuyen khong bao gom chi phi van chuyen tu ga den ben tau.",
+                                    "_id": "51ef36acfd17425f9f6280cbb0ef28c5",
+                                    "id": 70090,
+                                    "type": "e_cnvi",
+                                    "e": "运费中不包括火车站至轮船码头之间的运输费用。",
+                                    "p_cn": "yunfei zhong bu baokuo huochezhan zhi lunchuan matou zhijian de yunshu feiyong",
+                                    "p": "yùnfèi zhōng bù bāokuò huǒchēzhàn zhì lúnchuán mǎtóu zhījiān de yùnshū fèiyòng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "vận thâu phí dụng",
+            "pinyin": "yùnshū fèiyòng",
+            "popularity": {
+                "notebook": 1,
+                "search": 31
+            },
+            "word": "运输费用",
+            "id": 186562,
+            "phonetic": "yunshufeiyong",
+            "rank": 70260,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩㄥˋㄖㄣˊㄐㄧㄥㄈㄟˋ",
+            "_id": "dca9cb8f1edc41ff8a351e17496b70b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi tiêu nhân sự (kế toán)",
+                            "explain": "personnel expenditure (accountancy)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "dụng nhân kinh phí",
+            "pinyin": "yòngrén jīngfèi",
+            "word": "用人经费",
+            "id": 139630,
+            "phonetic": "yongrenjingfei",
+            "rank": 124896,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩˋㄈㄨˋㄈㄟˋㄩㄥˋ",
+            "_id": "a4dfaa43a17720010917e119dec62b50",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí trả trước",
+                            "explain": "预付费用 (prepaid expense) 是指企业已经支付，但尚未受益的资产或资产的使用权。它又被称为递延费用，是指预先支付货币资金而由其后几个会计期间共同受益的项目。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "dự phó phí dụng",
+            "pinyin": "yùfù fèiyòng",
+            "word": "预付费用",
+            "id": 75373,
+            "phonetic": "yufufeiyong",
+            "rank": 83615,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄉㄤㄉㄜ˙ㄈㄟˋㄩㄥˋ",
+            "_id": "a1b87f932e68484a996e368ab29197a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phí tổn tại chỗ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "đương địa phí dụng",
+            "pinyin": "Dāngdì fèiyòng",
+            "word": "当地费用",
+            "id": 156627,
+            "phonetic": "Dangdifeiyong",
+            "rank": 105501,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄨˋㄐㄧㄚㄈㄟˋㄩㄥˋ",
+            "_id": "544fe1e4663969a31adc5705edf91862",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phụ phí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 78
+            },
+            "snym": null,
+            "cn_vi": "phụ gia phí dụng",
+            "pinyin": "fùjiā fèiyòng",
+            "word": "附加费用",
+            "id": 75189,
+            "phonetic": "fujiafeiyong",
+            "rank": 47110,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄕˋㄈㄟˋㄩㄥˋ",
+            "_id": "868aefe8e82e545417b9bc70830b283f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chi phí nhân sự",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "nhân sự phí dụng",
+            "pinyin": "rénshì fèiyòng",
+            "word": "人事费用",
+            "id": 68322,
+            "phonetic": "renshifeiyong",
+            "rank": 115130,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a563022af2b7402a92f2e290edf725ca",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí tuyển dụng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chiêu sính phí dụng",
+            "pinyin": "zhāopìn fèiyòng",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "招聘费用",
+            "id": 185516,
+            "phonetic": "zhaopinfeiyong",
+            "rank": 152813,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄈㄨˋㄈㄟˋㄩㄥˋ",
+            "_id": "629ff438d9fddc580f4fd0439fe680fe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chịu phí tổn, chịu chi phí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 68
+            },
+            "snym": null,
+            "cn_vi": "chi phó phí dụng",
+            "pinyin": "zhīfù fèiyòng",
+            "word": "支付费用",
+            "id": 71098,
+            "phonetic": "zhifufeiyong",
+            "rank": 50180,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": null,
+            "topic": "16, 27",
+            "zhuyin": "ㄈㄟˋ",
+            "_id": "faafd94a120fa87d44ffaac5faf271a7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                94144,
+                                94145
+                            ],
+                            "struct": "费 + Tân ngữ（钱/心/事/劲/精力)"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chi tiêu; tiêu; tốn; tiêu tốn",
+                            "explain": "花费;耗费",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta phải chi tiêu hợp lí.",
+                                    "p_vn": "chung ta phai chi tieu hop li.",
+                                    "_id": "a0b4d4c7b06e5b8e34bf6e5d5cdc9c6e",
+                                    "id": 11378,
+                                    "type": "e_cnvi",
+                                    "e": "我们要合理消费。",
+                                    "p_cn": "women yao he li xiaofei.",
+                                    "p": "wǒmen yào hé lǐ xiāofèi."
+                                },
+                                {
+                                    "m": "Tôi đã tốn rất nhiều tiền để mua chiếc xe này.",
+                                    "p_vn": "toi da ton rat nhieu tien de mua chiec xe nay.",
+                                    "_id": "55db399305625a14707d64b9187e8d8e",
+                                    "id": 100384,
+                                    "type": "e_cnvi",
+                                    "e": "买这辆车费了我不少钱。",
+                                    "p_cn": "mai zhe liang che feile wo bu shao qian.",
+                                    "p": "mǎi zhè liàng chē fèile wǒ bù shǎo qián."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hao nhiều; lãng phí; tốn (công, sức)",
+                            "explain": "用得多;消耗得多 (跟''省''相对)",
+                            "examples": [
+                                {
+                                    "m": "Xe hơi loại cũ tốn nhiều dầu.",
+                                    "p_vn": "xe hoi loai cu ton nhieu dau.",
+                                    "_id": "2dbb9639edc61ad06be37417b9a6910f",
+                                    "id": 11380,
+                                    "type": "e_cnvi",
+                                    "e": "老式汽车费油。",
+                                    "p_cn": "laoshi qiche feiyou.",
+                                    "p": "lǎoshì qìchē fèiyóu."
+                                },
+                                {
+                                    "m": "Trẻ con rất tốn quần áo.",
+                                    "p_vn": "tre con rat ton quan ao.",
+                                    "_id": "99c88697a98a84d3e261f1d46b510f89",
+                                    "id": 11382,
+                                    "type": "e_cnvi",
+                                    "e": "孩子穿衣裳真费。",
+                                    "p_cn": "haizi chuan yishang zhen fei.",
+                                    "p": "háizi chuān yīshang zhēn fèi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                94141,
+                                94142
+                            ],
+                            "struct": "Động từ (收/交/免/计/缴纳) + 费"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phí; lệ phí; chi phí; phí tổn",
+                            "explain": "费用",
+                            "examples": [
+                                {
+                                    "m": "Phí điện nước tháng này là bao nhiêu?",
+                                    "p_vn": "phi dien nuoc thang nay la bao nhieu?",
+                                    "_id": "8377f669f781ee032df4f4a225876f75",
+                                    "id": 11374,
+                                    "type": "e_cnvi",
+                                    "e": "这个月的水电费是多少？",
+                                    "p_cn": "zhe ge yue de shuidianfei shi duoshao?",
+                                    "p": "zhè ge yuè de shǔidiànfèi shì duōshǎo?"
+                                },
+                                {
+                                    "m": "Hôm nay có miễn phí không?",
+                                    "p_vn": "hom nay co mien phi khong?",
+                                    "_id": "e6680be764b73e7380b70cf5965c88e3",
+                                    "id": 11376,
+                                    "type": "e_cnvi",
+                                    "e": "今天有免费吗？",
+                                    "p_cn": "jintian you mianfei ma?",
+                                    "p": "jīntiān yǒu miǎnfèi mà?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Phí",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Tôi họ Phí.",
+                                    "p_vn": "toi ho phi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95e2a7a",
+                                    "id": 94123,
+                                    "type": "e_cnvi",
+                                    "e": "我姓费。",
+                                    "p_cn": "wo xing fei.",
+                                    "p": "wǒ xìng fèi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều là động từ, mang nghĩa sử dụng.\nKhác:\n- \"花\" mang nghĩa tiêu, dùng.\n\"费\" chỉ tới việc lãng phí.\n\"花费\" chỉ việc dùng có mục đích.",
+                    "title": "Phân biệt \"花\", \"费\" và \"花费\"",
+                    "words": [
+                        "花",
+                        "费",
+                        "花费"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "省"
+                ]
+            },
+            "lv_hsk_new": "3",
+            "pinyin": "fèi",
+            "cn_vi": "phí.bỉ.bí",
+            "popularity": {
+                "notebook": 212,
+                "search": 6923
+            },
+            "word": "费",
+            "id": 16564,
+            "phonetic": "fei",
+            "rank": 1642,
+            "lv_tocfl": 4,
+            "compound": "费城 ; 费工 ; 费话 ; 费解 ; 费劲 ; 费力 ; 费难 ; 费神 ; 费时 ; 费事 ; 费手脚 ; 费心 ; 费用"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓˋㄗㄠˋㄈㄟˋㄩㄥˋㄓㄤˋ",
+            "_id": "45da05e1e619e6229995efa62bf3dc25",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Sổ cái chi phí sản xuất",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "chế tạo phí dụng trướng",
+            "pinyin": "zhìzào fèiyòng zhàng",
+            "word": "制造费用帐",
+            "id": 82315,
+            "phonetic": "zhizaofeiyongzhang",
+            "rank": 125842,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "6128686706814d0c87b66c1d8a0728f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí tài chính",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "phi doanh nghiệp phí dụng",
+            "pinyin": "fēi yíngyè fèiyòng",
+            "word": "非营业费用",
+            "id": 168512,
+            "phonetic": "feiyingyefeiyong",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄟˋㄩㄥˋㄅㄠˋㄒㄧㄠㄉㄢ",
+            "_id": "4777a65d7bdc44f99f7a7cfee762063a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mẫu yêu cầu chi phí",
+                            "explain": "expense claim form",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 94
+            },
+            "snym": null,
+            "cn_vi": "phí dụng báo tiêu đơn",
+            "pinyin": "fèiyòng bàoxiāo dān",
+            "word": "费用报销单",
+            "id": 144112,
+            "phonetic": "feiyongbaoxiaodan",
+            "rank": 42829,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "adf140ae7de041bf993e48dfd16954a9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hàng tiêu dùng có tính bền",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "nại dụng tiêu phí phẩm",
+            "pinyin": "nàiyòng xiāofèipǐn",
+            "word": "耐用消费品",
+            "id": 168160,
+            "phonetic": "naiyongxiaofeipin",
+            "rank": 107535,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄨㄥˇㄈㄟˋ",
+            "_id": "be1b66b4a0554558b4ffd20a85bb9746",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí không cần thiết",
+                            "explain": "unnecessary expenses",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "nhũng phí",
+            "pinyin": "rǒng fèi",
+            "word": "冗费",
+            "id": 101550,
+            "phonetic": "rongfei",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄨㄤˋㄈㄟˋ",
+            "_id": "11ffab09b3eee8d354102dfc18c7502e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hoang phí; phí phạm; lãng phí",
+                            "explain": "浪费",
+                            "examples": [
+                                {
+                                    "m": "hoang phí thời gian.",
+                                    "p_vn": "hoang phi thoi gian",
+                                    "_id": "4440cb11e2e8c8b71b756dfcd74f4c78",
+                                    "id": 24199,
+                                    "type": "e_cnvi",
+                                    "e": "旷费时间。",
+                                    "p_cn": "kuang fei shijian",
+                                    "p": "kuàngfèishíjiān。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 6
+            },
+            "snym": {
+                "syno": [
+                    "荒废"
+                ]
+            },
+            "cn_vi": "khoáng phí",
+            "pinyin": "kuàng fèi",
+            "word": "旷费",
+            "id": 33002,
+            "phonetic": "kuangfei",
+            "rank": 119881,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄩㄣㄈㄟˋ",
+            "topic": "18",
+            "_id": "6a31e66ca40a7b37f4ace40f7a465659",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quân phí; chi phí quân sự",
+                            "explain": "国家用于军事方面的经费",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy ủng hộ việc cắt giảm chi phí quân sự.",
+                                    "p_vn": "Anh ay ung ho viec cat giam chi phi quan su.",
+                                    "_id": "d537c8ea819d4dd1adf828b3f13e4e82",
+                                    "id": 71351,
+                                    "type": "e_cnvi",
+                                    "e": "他主张削减军费开支。",
+                                    "p_cn": "ta zhuzhang xuejian junfeikaizhi",
+                                    "p": "tā zhǔzhāng xuējiǎn jūnfèikāizhī"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "binh phí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "quân phí",
+            "pinyin": "jūnfèi",
+            "word": "军费",
+            "id": 31501,
+            "phonetic": "junfei",
+            "rank": 77919,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "topic": "54",
+            "zhuyin": "ㄈㄟˋㄕˋ",
+            "_id": "698463232129d382800f87e72a97d714",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "khó khăn; lôi thôi; tốn công; mất công",
+                            "explain": "事情复杂，不容易办;费工",
+                            "examples": [
+                                {
+                                    "m": "đun ít nước sôi cho anh em uống nước có mất công gì đâu.",
+                                    "p_vn": "dun it nuoc soi cho anh em uong nuoc co mat cong gi dau",
+                                    "_id": "14ca07e935cd666e86baa27e1ed7e9a3",
+                                    "id": 11397,
+                                    "type": "e_cnvi",
+                                    "e": "给同志们烧点水喝，并不费事。",
+                                    "p_cn": "gei tongzhimen shao dian shui he bing bu feishi",
+                                    "p": "gěi tóngzhì men shāodiǎn shǔihē，bìng bù fèishì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 27,
+                "search": 315
+            },
+            "snym": {
+                "syno": [
+                    "费劲",
+                    "麻烦"
+                ],
+                "anto": [
+                    "省事"
+                ]
+            },
+            "cn_vi": "phí sự",
+            "pinyin": "fèishì",
+            "word": "费事",
+            "id": 16577,
+            "phonetic": "feishi",
+            "rank": 21483,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠˇㄈㄟˋ",
+            "_id": "9bc75f793a37405e80b0eeed24f12d2f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trả một khoản phí",
+                            "explain": "to pay a fee",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 86,
+                "search": 985
+            },
+            "snym": null,
+            "cn_vi": "chước phí",
+            "pinyin": "jiǎofèi",
+            "word": "缴费",
+            "id": 105030,
+            "phonetic": "jiaofei",
+            "rank": 9953,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "56",
+            "zhuyin": "ㄧㄡˊㄈㄟˋ",
+            "_id": "ee3f9b6932c96589adfaf0139bf83ed7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bưu phí; cước phí bưu điện",
+                            "explain": "邮资",
+                            "examples": [
+                                {
+                                    "m": "Xin gửi kèm theo thư này một chiếc séc hỗ trợ trị giá 55 đô la và phí gửi hàng mỗi cuốn là 14 xu đã được bao gồm. Xin vui lòng kiểm tra và nhận.",
+                                    "p_vn": "Xin gui kem theo thu nay mot chiec sec ho tro tri gia 55 do la va phi gui hang moi cuon la 14 xu da duoc bao gom. Xin vui long kiem tra va nhan.",
+                                    "_id": "8bd0325173ab4103a19a50d49d61233e",
+                                    "id": 73464,
+                                    "type": "e_cnvi",
+                                    "e": "同函奉上55美元书款支票一张，外加每册14分邮费在内。请查收。",
+                                    "p_cn": "tong han fengshang Meiyuan shu kuan zhipiao yi zhang waijia mei ce fen youfei zainei qing cha shou",
+                                    "p": "tóng hán fèngshàng Měiyuán shū kuǎn zhīpiào yī zhāng wàijiā měi cè fēn yóufèi zàinèi qǐng chá shōu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 25,
+                "search": 252
+            },
+            "snym": {
+                "syno": [
+                    "邮资"
+                ]
+            },
+            "cn_vi": "bưu phí",
+            "pinyin": "yóufèi",
+            "word": "邮费",
+            "id": 61023,
+            "phonetic": "youfei",
+            "rank": 24678,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄐㄧㄠㄈㄟˋ",
+            "_id": "db78506061ef483fab901bdfacb191e5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đóng phí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 30,
+                "search": 256
+            },
+            "snym": null,
+            "lv_hsk_new": "3",
+            "pinyin": "jiāo fèi",
+            "cn_vi": "giao phí",
+            "word": "交费",
+            "id": 156378,
+            "phonetic": "jiaofei",
+            "rank": 24447,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄟˋㄕˊ",
+            "_id": "e673b5321e147ea335f52693da03b999",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tốn thời gian; mất thời gian; phí thời gian",
+                            "explain": "耗费时间",
+                            "examples": [
+                                {
+                                    "m": "toà nhà này phải mất một năm mới xây dựng xong.",
+                                    "p_vn": "toa nha nay phai mat mot nam moi xay dung xong",
+                                    "_id": "8c4d4f515e5028d66799f7ee3836c2b6",
+                                    "id": 11396,
+                                    "type": "e_cnvi",
+                                    "e": "这座大楼费时一年才建成。",
+                                    "p_cn": "zhe zuo dalou feishi yi nian cai jiancheng",
+                                    "p": "zhèzuò dàlóu fèishí yīnián cái jiànchéng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 320
+            },
+            "snym": {
+                "syno": [
+                    "历时"
+                ],
+                "anto": [
+                    "省时"
+                ]
+            },
+            "cn_vi": "phí thì",
+            "pinyin": "fèishí",
+            "word": "费时",
+            "id": 16576,
+            "phonetic": "feishi",
+            "rank": 21246,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄈㄟˋ",
+            "_id": "e07da3e9e541e342364ce4ae89cef2af",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chi phí chung; chi phí do nhà nước đài thọ; chi phí do nhà nước cung cấp (phí tổn do nhà nước hay đoàn thể đài thọ); công phí",
+                            "explain": "由国家或团体供给的费用",
+                            "examples": [
+                                {
+                                    "m": "chi phí chữa bệnh do nhà nước đài thọ",
+                                    "p_vn": "chi phi chua benh do nha nuoc dai tho",
+                                    "_id": "b4201e0265036f71adcad1aa7056be9d",
+                                    "id": 13995,
+                                    "type": "e_cnvi",
+                                    "e": "公费医疗",
+                                    "p_cn": "gongfei yiliao",
+                                    "p": "gōngfèiyìliáo"
+                                },
+                                {
+                                    "m": "chi phí du học do nhà nước đài thọ",
+                                    "p_vn": "chi phi du hoc do nha nuoc dai tho",
+                                    "_id": "b9032c3ae516fe58d731dfc3fa7578b2",
+                                    "id": 13996,
+                                    "type": "e_cnvi",
+                                    "e": "公费留学",
+                                    "p_cn": "gongfei liuxue",
+                                    "p": "gōngfèilíuxué"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 61,
+                "search": 959
+            },
+            "snym": {
+                "anto": [
+                    "自费",
+                    "私费"
+                ]
+            },
+            "cn_vi": "công phí",
+            "pinyin": "gōngfèi",
+            "word": "公费",
+            "id": 19612,
+            "phonetic": "gongfei",
+            "rank": 10154,
+            "lv_tocfl": 5,
+            "compound": null
+        }
+    ],
+    "query": "费用"
+}

@@ -1,0 +1,2552 @@
+{
+    "total": 118,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇ",
+            "_id": "56fc8d5dde54f0273939d3de530936b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Ai/cái gì đó lăn/lộn",
+                            "examples": [
+                                93854,
+                                93860
+                            ],
+                            "struct": "Chủ ngữ + 滚 + 下来/出去/到"
+                        },
+                        {
+                            "explain": "Cái gì đấy sôi/sủi",
+                            "examples": [
+                                93855,
+                                99761
+                            ],
+                            "struct": "Chủ ngữ (thể lỏng) + 滚"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lăn; lộn",
+                            "explain": "一个东西自己转着圈地动；让一个东西转着圈地动",
+                            "examples": [
+                                {
+                                    "m": "Những giọt nước long lanh lăn trên lá sen.",
+                                    "p_vn": "nhung giot nuoc long lanh lan tren la sen.",
+                                    "_id": "90fbd37c3a8b8cb1532fbca45740286f",
+                                    "id": 15571,
+                                    "type": "e_cnvi",
+                                    "e": "荷叶上滚着亮晶晶的水珠。",
+                                    "p_cn": "he ye shang gunzhe liangjingjing de shui zhu.",
+                                    "p": "hé yè shàng gǔnzhe liàngjīngjīng de shuǐ zhū."
+                                },
+                                {
+                                    "m": "Cái này từ trên bàn lăn xuống.",
+                                    "p_vn": "cai nay tu tren ban lan xuong.",
+                                    "_id": "f2efc94449b26b3e2967bccbc94efca2",
+                                    "id": 93841,
+                                    "type": "e_cnvi",
+                                    "e": "这个从桌子上滚下来。",
+                                    "p_cn": "zhege cong zhuozi shang gun xialai.",
+                                    "p": "zhège cóng zhuōzi shàng gǔn xiàlái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cút đi; xéo đi; biến đi",
+                            "explain": "骂人，让某人走开",
+                            "examples": [
+                                {
+                                    "m": "Cút đi cho tôi!",
+                                    "p_vn": "cut di cho toi!",
+                                    "_id": "f2efc94449b26b3e2967bccbc94f0541",
+                                    "id": 93845,
+                                    "type": "e_cnvi",
+                                    "e": "给我滚!",
+                                    "p_cn": "gei wo gun!",
+                                    "p": "gěi wǒ gǔn!"
+                                },
+                                {
+                                    "m": "Bạn cút ra ngoài đi!",
+                                    "p_vn": "ban cut ra ngoai di!",
+                                    "_id": "f2efc94449b26b3e2967bccbc94f107d",
+                                    "id": 93846,
+                                    "type": "e_cnvi",
+                                    "e": "你滚出去!",
+                                    "p_cn": "ni gun chuqu!",
+                                    "p": "nǐ gǔn chūqù!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sôi; sủi",
+                            "explain": "液体加热以后不断翻动",
+                            "examples": [
+                                {
+                                    "m": "Nước trong nồi sôi rồi.",
+                                    "p_vn": "nuoc trong noi soi roi.",
+                                    "_id": "9c0a1181b74d7ce98cd37e734608f29d",
+                                    "id": 15575,
+                                    "type": "e_cnvi",
+                                    "e": "锅里水滚了。",
+                                    "p_cn": "guoli shuigun le.",
+                                    "p": "guōlǐ shǔigǔn le."
+                                },
+                                {
+                                    "m": "Canh sôi rồi.",
+                                    "p_vn": "canh soi roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc94f1e5e",
+                                    "id": 93850,
+                                    "type": "e_cnvi",
+                                    "e": "汤滚了。",
+                                    "p_cn": "tang gunle.",
+                                    "p": "tāng gǔnle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cuộn",
+                            "explain": "缝纫方法，沿着衣物的边缘缝上或镶上布条、带子等",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy cuộn mép cho cổ áo.",
+                                    "p_vn": "co ay cuon mep cho co ao.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718c5ec5",
+                                    "id": 129101,
+                                    "type": "e_cnvi",
+                                    "e": "她给领口滚一边。",
+                                    "p_cn": "ta gei lingkou gun yibian.",
+                                    "p": "tā gěi lǐngkǒu gǔn yībiān."
+                                },
+                                {
+                                    "m": "Áo này cần cuôn mép.",
+                                    "p_vn": "ao nay can cuon mep.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718c6464",
+                                    "id": 129102,
+                                    "type": "e_cnvi",
+                                    "e": "这件衣服需要滚边。",
+                                    "p_cn": "zhe jian yifu xuyao gunbian.",
+                                    "p": "zhè jiàn yīfu xūyào gǔnbiān."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "rất; cực; đặc biết",
+                            "explain": "非常；特别",
+                            "examples": [
+                                {
+                                    "m": "Ở đây rất nóng.",
+                                    "p_vn": "o day rat nong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718c3db9",
+                                    "id": 129096,
+                                    "type": "e_cnvi",
+                                    "e": "这里滚热。",
+                                    "p_cn": "zheli gunre.",
+                                    "p": "zhèlǐ gǔnrè."
+                                },
+                                {
+                                    "m": "Mùa đông đặc biệt lạnh.",
+                                    "p_vn": "mua dong dac biet lanh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718c425c",
+                                    "id": 129097,
+                                    "type": "e_cnvi",
+                                    "e": "冬天滚冷啊。",
+                                    "p_cn": "dongtian gun leng a.",
+                                    "p": "dōngtiān gǔn lěng a."
+                                },
+                                {
+                                    "m": "Bát canh này cực bỏng.",
+                                    "p_vn": "bat canh nay cuc bong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5718c4efa",
+                                    "id": 129098,
+                                    "type": "e_cnvi",
+                                    "e": "这碗汤滚烫。",
+                                    "p_cn": "zhe wan tang guntang.",
+                                    "p": "zhè wǎn tāng gǔntàng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 354,
+                "search": 8864
+            },
+            "snym": null,
+            "lv_hsk_new": "5",
+            "pinyin": "gǔn",
+            "cn_vi": "cổn",
+            "word": "滚",
+            "id": 21682,
+            "phonetic": "gun",
+            "rank": 1180,
+            "lv_tocfl": 4,
+            "compound": "滚边 ; 滚齿机 ; 滚存 ; 滚蛋 ; 滚刀肉 ; 滚动 ; 滚动轴承 ; 滚翻 ; 滚肥 ; 滚沸 ; 滚杠 ; 滚瓜烂熟 ; 滚瓜溜圆 ; 滚滚 ; 滚雷 ; 滚轮 ; 滚木 ; 滚热 ; 滚水 ; 滚烫 ; 滚筒 ; 滚雪球 ; 滚圆 ; 滚珠 ; 滚珠轴承"
+        },
+        {
+            "kind": [
+                "stt",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄍㄨㄣˇ",
+            "_id": "4d17fecd4d5db87d36fdcfd1133c4fd6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "cuồn cuộn; lăn đều",
+                            "explain": "形容急速地滚动或翻腾",
+                            "examples": [
+                                {
+                                    "m": "bánh xe lăn đều.",
+                                    "p_vn": "banh xe lan deu",
+                                    "_id": "a8d2ce9016a70a3e4b1cec94270a8d55",
+                                    "id": 15585,
+                                    "type": "e_cnvi",
+                                    "e": "车轮滚滚",
+                                    "p_cn": "chelun gungun",
+                                    "p": "chēlún gǔngǔn"
+                                },
+                                {
+                                    "m": "dòng sông cuồn cuộn chảy về đông.",
+                                    "p_vn": "dong song cuon cuon chay ve dong",
+                                    "_id": "6b3eb98e0e8134f946a54b18fe921fae",
+                                    "id": 15586,
+                                    "type": "e_cnvi",
+                                    "e": "大江滚滚东去。",
+                                    "p_cn": "dajiang gungun dong qu",
+                                    "p": "dàjiāng gǔngǔn dōng qù。"
+                                },
+                                {
+                                    "m": "trận cuồng phong nổi lên thổi cát bay cuồn cuộn.",
+                                    "p_vn": "tran cuong phong noi len thoi cat bay cuon cuon",
+                                    "_id": "4746c40658dd1e0f47d0914d1bfca6e7",
+                                    "id": 15587,
+                                    "type": "e_cnvi",
+                                    "e": "狂风卷起了滚滚的黄沙。",
+                                    "p_cn": "kuangfeng juan qile gungun de huang sha",
+                                    "p": "kuángfēng juànqǐ le gǔngǔn de huángshā。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "liên tục; ào ào; như nước; không dứt",
+                            "explain": "形容连续不断",
+                            "examples": [
+                                {
+                                    "m": "tiếng sấm liên tục",
+                                    "p_vn": "tieng sam lien tuc",
+                                    "_id": "71de3be1682b9c6d790058749bfc80f2",
+                                    "id": 15588,
+                                    "type": "e_cnvi",
+                                    "e": "雷声滚滚",
+                                    "p_cn": "lei sheng gungun",
+                                    "p": "léishēng gǔngǔn"
+                                },
+                                {
+                                    "m": "tiền vô như nước; tiền vô ào ào.",
+                                    "p_vn": "tien vo nhu nuoc; tien vo ao ao",
+                                    "_id": "6bd00620a37a367b505ccde16327f708",
+                                    "id": 15589,
+                                    "type": "e_cnvi",
+                                    "e": "财源滚滚",
+                                    "p_cn": "caiyuan gungun",
+                                    "p": "cáiyuángǔngǔn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 33,
+                "search": 490
+            },
+            "snym": {
+                "syno": [
+                    "滔滔",
+                    "奔流"
+                ]
+            },
+            "cn_vi": "cổn cổn",
+            "pinyin": "gǔngǔn",
+            "word": "滚滚",
+            "id": 21697,
+            "phonetic": "gungun",
+            "rank": 16160,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩㄢˊㄍㄨㄣˇㄍㄨㄣˇ",
+            "_id": "a4d3447b7d40cdb9c061c17ff9887796",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tròn vo; tròn xoe",
+                            "explain": "(圆滚滚的) 形容非常圆",
+                            "examples": [
+                                {
+                                    "m": "gương mặt tròn xoe.",
+                                    "p_vn": "guong mat tron xoe",
+                                    "_id": "6c47d7cb4461e8197bacaace622a7435",
+                                    "id": 47545,
+                                    "type": "e_cnvi",
+                                    "e": "圆滚滚的脸蛋儿。",
+                                    "p_cn": "yuangungun de liandan er",
+                                    "p": "yuángǔngǔn de liǎndànér。"
+                                },
+                                {
+                                    "m": "lợn con béo tròn",
+                                    "p_vn": "lon con beo tron",
+                                    "_id": "c58ca2833af7db6cf32fffd3c7103e69",
+                                    "id": 47546,
+                                    "type": "e_cnvi",
+                                    "e": "圆滚滚的小肥猪。",
+                                    "p_cn": "yuangungun de xiao fei zhu",
+                                    "p": "yuángǔngǔn de xiǎo féizhū。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 113
+            },
+            "snym": {
+                "syno": [
+                    "胖嘟嘟",
+                    "胖墩墩",
+                    "圆乎乎",
+                    "圆溜溜"
+                ]
+            },
+            "cn_vi": "viên cổn cổn",
+            "pinyin": "yuángǔngǔn",
+            "word": "圆滚滚",
+            "id": 62140,
+            "phonetic": "yuangungun",
+            "rank": 38977,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄞˊㄩㄢˊㄍㄨㄣˇㄍㄨㄣˇ",
+            "_id": "6a48f93a98134325b69f23c9f6faf408",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "tiền tài như nước; tiền vô như nước",
+                            "explain": "形容钱财如水般滔滔不绝。",
+                            "examples": [
+                                {
+                                    "m": "Chúc cả nhà năm mới tiền tài như nước, sức khỏe dồi dào.",
+                                    "p_vn": "chuc ca nha nam moi tien tai nhu nuoc, suc khoe doi dao.",
+                                    "_id": "ecc6f70c7ecb13c55059df94061dc2ba",
+                                    "id": 69232,
+                                    "e": "在新的一年里祝大家财源滚滚，身体健康。",
+                                    "p_cn": "zai xin de yi nian li zhu dajia caiyuan gungun, shenti jiankang.",
+                                    "type": "e_cnvi",
+                                    "p": "zài xīn de yī nián lǐ zhù dàjiā cáiyuán gǔngǔn, shēntǐ jiànkāng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 31,
+                "search": 561
+            },
+            "snym": null,
+            "cn_vi": "tài nguyên cổn cổn",
+            "pinyin": "cáiyuán gǔngǔn",
+            "word": "财源滚滚",
+            "id": 138217,
+            "phonetic": "caiyuangungun",
+            "rank": 14724,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "58db3162780e4d0fa52bf08efbe377a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "béo đẫy",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "gương mặt tròn xoe.",
+                                    "p_vn": "guong mat tron xoe",
+                                    "_id": "6c47d7cb4461e8197bacaace622a7435",
+                                    "id": 47545,
+                                    "type": "e_cnvi",
+                                    "e": "圆滚滚的脸蛋儿。",
+                                    "p_cn": "yuangungun de liandan er",
+                                    "p": "yuángǔngǔn de liǎndànér。"
+                                },
+                                {
+                                    "m": "lợn con béo tròn",
+                                    "p_vn": "lon con beo tron",
+                                    "_id": "c58ca2833af7db6cf32fffd3c7103e69",
+                                    "id": 47546,
+                                    "type": "e_cnvi",
+                                    "e": "圆滚滚的小肥猪。",
+                                    "p_cn": "yuangungun de xiao fei zhu",
+                                    "p": "yuángǔngǔn de xiǎo féizhū。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "viên cổn cổn đích",
+            "pinyin": "yuángǔngǔn de",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "圆滚滚的",
+            "id": 175284,
+            "phonetic": "yuangungunde",
+            "rank": 147646,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄑㄧㄡˊ",
+            "_id": "c12b299245d747a9910fde8309d4cae9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bocce",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bóng bowling",
+                            "explain": "bowling ball",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bát cỏ",
+                            "explain": "lawn bowls",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bi sắt",
+                            "explain": "pétanque",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 75
+            },
+            "snym": null,
+            "cn_vi": "cổn cầu",
+            "pinyin": "gǔn qiú",
+            "word": "滚球",
+            "id": 98179,
+            "phonetic": "gunqiu",
+            "rank": 47933,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄍㄨㄛ",
+            "_id": "e2a938a90e6a25b57a92744c5c775931",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nồi đang sôi; sôi",
+                            "explain": "其中液体 (油、水等) 煮沸的锅",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "cổn oa",
+            "pinyin": "gǔn guō",
+            "word": "滚锅",
+            "id": 21698,
+            "phonetic": "gunguo",
+            "rank": 159545,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˇㄍㄨㄣˇ",
+            "_id": "483de58d9027df37198554a5b4dffc60",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lăn; lăn lộn; lăn qua lăn lại; lăn cù",
+                            "explain": "躺着滚来滚去",
+                            "examples": [
+                                {
+                                    "m": "đau quá lăn lộn",
+                                    "p_vn": "dau qua lan lon",
+                                    "_id": "f60a9b79df067fa7e3b077acee2fba1b",
+                                    "id": 6354,
+                                    "type": "e_cnvi",
+                                    "e": "疼得直打滚",
+                                    "p_cn": "teng de zhi dagun",
+                                    "p": "téngdézhí dǎgǔn"
+                                },
+                                {
+                                    "m": "con lừa lăn qua lăn lại dưới đất.",
+                                    "p_vn": "con lua lan qua lan lai duoi dat",
+                                    "_id": "bc031d06a3353ed2ccbe0a8a272b0774",
+                                    "id": 6355,
+                                    "type": "e_cnvi",
+                                    "e": "毛驴在地上打滚",
+                                    "p_cn": "maolu zai dishang dagun",
+                                    "p": "máolǘ zài dìshàng dǎgǔn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sống; trải qua (chỉ môi trường sống)",
+                            "explain": "比喻长期在某种环境中生活",
+                            "examples": [
+                                {
+                                    "m": "Anh lớn lên ở nông thôn.",
+                                    "p_vn": "anh lon len o nong thon.",
+                                    "_id": "bcda9c1c22f212184f8f8d512b467244",
+                                    "id": 6356,
+                                    "type": "e_cnvi",
+                                    "e": "他从小在农村打滚长大的。",
+                                    "p_cn": "ta congxiao zai nongcun dagun zhang da de.",
+                                    "p": "tā cóngxiǎo zài nóngcūn dǎgǔn zhǎng dà de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vật vã",
+                            "explain": "来回翻身打滚儿; 翻转滚动",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 53,
+                "search": 373
+            },
+            "snym": null,
+            "cn_vi": "đả cổn",
+            "pinyin": "dǎgǔn",
+            "word": "打滚",
+            "id": 9978,
+            "phonetic": "dagun",
+            "rank": 19286,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄈㄟˊ",
+            "_id": "3e1f70a7710ce559b9c93e2c4b45d20b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "béo; mập; núc ních; tròn trùng trục; ú nụ; nần nẫn; béo tròn béo trục (dùng để chỉ động vật)",
+                            "explain": "非常肥 (多指动物)",
+                            "examples": [
+                                {
+                                    "m": "con lợn này béo tròn béo trục.",
+                                    "p_vn": "con lon nay beo tron beo truc",
+                                    "_id": "d5dbff8b4e2c8a43aa5df04560c44505",
+                                    "id": 15582,
+                                    "type": "e_cnvi",
+                                    "e": "这头猪喂得滚肥 滚肥的。",
+                                    "p_cn": "zhe tou zhu wei de gun fei gun fei de",
+                                    "p": "zhètóu zhū wèi dé gǔnféi gǔnféi de。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "cổn phì",
+            "pinyin": "gǔn féi",
+            "word": "滚肥",
+            "id": 21692,
+            "phonetic": "gunfei",
+            "rank": 93753,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄘㄨㄣˊ",
+            "_id": "42d9088e0ae4f05f6a5097ade0cbc096",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vào sổ gốc",
+                            "explain": "簿记用语，指逐日累计的积存",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "cổn tồn",
+            "pinyin": "gǔncún",
+            "word": "滚存",
+            "id": 21686,
+            "phonetic": "guncun",
+            "rank": 126138,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄓㄨㄢˇ",
+            "_id": "1e6acbb82b84063c01c5567f7e03db49",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lăn tròn; lộn vòng (máy bay)",
+                            "explain": "飞机绕纵轴滚转",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "cổn chuyển",
+            "pinyin": "gǔn zhuǎn",
+            "word": "滚转",
+            "id": 21715,
+            "phonetic": "gunzhuan",
+            "rank": 155838,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄊㄤˋ",
+            "_id": "749e780feff386afdfc649aebd4fe082",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nóng hổi; nóng bỏng; nóng hầm hập",
+                            "explain": "滚热",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 59,
+                "search": 741
+            },
+            "snym": {
+                "syno": [
+                    "滚热",
+                    "发烫"
+                ],
+                "anto": [
+                    "冰凉"
+                ]
+            },
+            "cn_vi": "cổn nãng",
+            "pinyin": "gǔntàng",
+            "word": "滚烫",
+            "id": 21707,
+            "phonetic": "guntang",
+            "rank": 12224,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄊㄤˇ",
+            "_id": "0a8dda372302917cd86f82089cc97fe7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chảy",
+                            "explain": "液体 (多指汗珠、泪水等) 滚动流淌",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "cổn thảng",
+            "pinyin": "gǔn tǎng",
+            "word": "滚淌",
+            "id": 21706,
+            "phonetic": "guntang",
+            "rank": 120572,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "54a88918aaeb4af49f1a97a00a6f22da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thang cuốn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "cổn thê",
+            "pinyin": "gǔntī",
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "word": "滚梯",
+            "id": 185910,
+            "phonetic": "gunti",
+            "rank": 101718,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄕˊ",
+            "_id": "4bde4b32912c4c45a968447e5d197de6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Rock Records, hãng thu âm Đài Loan",
+                            "explain": "Rock Records, Taiwanese record label",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Rolling Stone (tạp chí)",
+                            "explain": "Rolling Stone (magazine)",
+                            "examples": [
+                                {
+                                    "m": "Một hòn đá lăn tập hợp không có rêu.",
+                                    "p_vn": "Mot hon da lan tap hop khong co reu.",
+                                    "_id": "3d4789bb955f438f8e3067ce202fc951",
+                                    "id": 64646,
+                                    "type": "e_cnvi",
+                                    "e": "滚石不生苔。",
+                                    "p_cn": "gunshi busheng tai. ",
+                                    "p": "gǔnshí bùshēng tái。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Rolling Stones, ban nhạc rock của Anh",
+                            "explain": "the Rolling Stones, British rock band",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "cổn thạch",
+            "pinyin": "gǔnshí",
+            "word": "滚石",
+            "id": 98180,
+            "phonetic": "gunshi",
+            "rank": 86817,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄟˋㄍㄨㄣˇ",
+            "_id": "9e58c1cfe24a6af102d23d70ad387506",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sôi; đang sôi",
+                            "explain": "沸腾滚开的样子",
+                            "examples": [
+                                {
+                                    "m": "Ví dụ, làm trứng vịt muối với các loại thảo mộc, sau khi nước sôi thì thêm sao hồi, hạt tiêu và thì là.",
+                                    "p_vn": "vi du, lam trung vit muoi voi cac loai thao moc, sau khi nuoc soi thi them sao hoi, hat tieu va thi la.",
+                                    "_id": "50fae4667a2783eca4d551769cf680ef",
+                                    "id": 53801,
+                                    "type": "e_cnvi",
+                                    "e": "如制香草药咸鸭蛋，沸滚开水后加入八角、花椒、茴香。",
+                                    "p_cn": "ru zhi xiangcao yao xian yadan, fei gun kaishui hou jiaru bajiao, huajiao, huixiang.",
+                                    "p": "rú zhì xiāngcǎo yào xián yādàn, fèi gǔn kāishuǐ hòu jiārù bājiǎo, huājiāo, huíxiāng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "phí cổn",
+            "pinyin": "fèi gǔn",
+            "word": "沸滚",
+            "id": 16539,
+            "phonetic": "feigun",
+            "rank": 91203,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄩㄢˊ",
+            "_id": "b780b750b8567e4b44218bdc36d49fd6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tròn vo; tròn xoe; tròn lẳn; tròn vành vạnh; tròn trùng trục",
+                            "explain": "非常圆",
+                            "examples": [
+                                {
+                                    "m": "bụng con trâu tròn vo.",
+                                    "p_vn": "bung con trau tron vo",
+                                    "_id": "13c03f197ba1f46079f75cb832a487b5",
+                                    "id": 15593,
+                                    "type": "e_cnvi",
+                                    "e": "腰身滚圆的母牛",
+                                    "p_cn": "yaoshen gunyuan de mu niu",
+                                    "p": "yāoshēn gǔnyuán de mǔníu"
+                                },
+                                {
+                                    "m": "hai mắt mở tròn xoe.",
+                                    "p_vn": "hai mat mo tron xoe",
+                                    "_id": "a1b70465ada4c25bd41b35d02f14bd06",
+                                    "id": 15594,
+                                    "type": "e_cnvi",
+                                    "e": "两只眼睛睁得滚圆 滚圆的。",
+                                    "p_cn": "liang zhi yanjing zheng de gunyuan gunyuan de",
+                                    "p": "liǎngzhǐ yǎnjīng zhēng dé gǔnyuán gǔnyuán de。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 171
+            },
+            "snym": {
+                "syno": [
+                    "溜圆",
+                    "浑圆"
+                ]
+            },
+            "cn_vi": "cổn viên",
+            "pinyin": "gǔnyuán",
+            "word": "滚圆",
+            "id": 21710,
+            "phonetic": "gunyuan",
+            "rank": 31037,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄈㄟˋ",
+            "_id": "d4c433ee75599a59be72b4aebe9d7a29",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sôi sùng sục; dâng trào; sôi",
+                            "explain": "(液体) 沸腾翻滚",
+                            "examples": [
+                                {
+                                    "m": "canh trong nồi sôi sùng sục.",
+                                    "p_vn": "canh trong noi soi sung suc",
+                                    "_id": "0f003f164de9de46f566b1cb673fc6bb",
+                                    "id": 15583,
+                                    "type": "e_cnvi",
+                                    "e": "一锅滚沸的汤",
+                                    "p_cn": "yi guo gunfei de tang",
+                                    "p": "yīguō gǔnfèi de tāng"
+                                },
+                                {
+                                    "m": "cảm xúc dâng trào",
+                                    "p_vn": "cam xuc dang trao",
+                                    "_id": "c3c19857d00bfc8144314fd0cc5cbc9c",
+                                    "id": 15584,
+                                    "type": "e_cnvi",
+                                    "e": "滚沸的感情",
+                                    "p_cn": "gunfei de ganqing",
+                                    "p": "gǔnfèi de gǎnqíng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "cổn phí",
+            "pinyin": "gǔnfèi",
+            "word": "滚沸",
+            "id": 21693,
+            "phonetic": "gunfei",
+            "rank": 74958,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄓㄡˊ",
+            "_id": "3fa7456c816b46acb3c2250d2db514c5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trục từ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 43
+            },
+            "snym": null,
+            "cn_vi": "cổn trục",
+            "pinyin": "gǔn zhóu",
+            "word": "滚轴",
+            "id": 154203,
+            "phonetic": "gunzhou",
+            "rank": 61947,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄕㄞ",
+            "_id": "6a184a1fae024aab8b84ce17d406ae00",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "máy rung (Nhà máy gạch)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "cổn si",
+            "pinyin": "gǔn shāi",
+            "word": "滚筛",
+            "id": 148143,
+            "phonetic": "gunshai",
+            "rank": 153613,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄧㄚˋ",
+            "_id": "83672b98e66c607333d8913a22df3df1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lăn; cán",
+                            "explain": "在钱币坯送去冲压之前用机器作出凸缘",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "cổn yết",
+            "pinyin": "gǔn yà",
+            "word": "滚轧",
+            "id": 21711,
+            "phonetic": "gunya",
+            "rank": 123177,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄉㄨㄥˋ",
+            "_id": "8a687a7f1a8a5e36959d28aed2c82f36",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lăn; cán; làm chuyển động",
+                            "explain": "一个物体 (多为圆球形或圆柱形) 在另一物体上接触面不断改变地移动",
+                            "examples": [
+                                {
+                                    "m": "bánh xe lăn",
+                                    "p_vn": "banh xe lan",
+                                    "_id": "ef0d39f38231cfbdf07e5f41bd5f1d3a",
+                                    "id": 15578,
+                                    "type": "e_cnvi",
+                                    "e": "车轮滚动",
+                                    "p_cn": "chelun gundong",
+                                    "p": "chēlún gǔndòng"
+                                },
+                                {
+                                    "m": "bánh xe lăn trên đường ray.",
+                                    "p_vn": "banh xe lan tren duong ray",
+                                    "_id": "16ec52501d3418a96453cd5216690e10",
+                                    "id": 15579,
+                                    "type": "e_cnvi",
+                                    "e": "车轮在铁轨上滚动。",
+                                    "p_cn": "chelun zai tiegui shang gundong",
+                                    "p": "chēlún zài tiěgǔi shàng gǔndòng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bon",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 36,
+                "search": 620
+            },
+            "snym": {
+                "syno": [
+                    "起伏",
+                    "晃动",
+                    "转动",
+                    "流动",
+                    "震动",
+                    "翻动"
+                ],
+                "anto": [
+                    "静止"
+                ]
+            },
+            "cn_vi": "cổn động",
+            "pinyin": "gǔndòng",
+            "word": "滚动",
+            "id": 21689,
+            "phonetic": "gundong",
+            "rank": 13761,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄌㄨㄛˋ",
+            "_id": "ffbfc85a8da747669e6a74d045d4f0bd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lăn xuống",
+                            "explain": "滚动落下",
+                            "examples": [
+                                {
+                                    "m": "Tay áo cô phất phơ, và một viên đá nhỏ vô tình lăn xuống chân Yi Vãn",
+                                    "p_vn": "tay ao co phat pho, va mot vien da nho vo tinh lan xuong chan yi van",
+                                    "_id": "638136315f8e478e8296038dedc1b4ff",
+                                    "id": 67989,
+                                    "type": "e_cnvi",
+                                    "e": "她衣袖翻飞,一颗小石头好巧不巧地滚落到尹挽脚边",
+                                    "p_cn": "ta yi xiu fan fei, yi ke xiao shitou hao qiao bu qiao di gun luo dao yin wan jiao bian",
+                                    "p": "Tā yī xiù fān fēi, yī kē xiǎo shítou hǎo qiǎo bù qiǎo dì gǔn luò dào yǐn wǎn jiǎo biān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 30,
+                "search": 217
+            },
+            "snym": {
+                "syno": [
+                    "滑落",
+                    "落下",
+                    "翻滚"
+                ],
+                "anto": [
+                    "稳住"
+                ]
+            },
+            "cn_vi": "cổn lạc",
+            "pinyin": "gǔn luò",
+            "word": "滚落",
+            "id": 98181,
+            "phonetic": "gunluo",
+            "rank": 27049,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄅㄧㄢ",
+            "_id": "d5cf6af3c618c7c58e798ec8d1e0fbc5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "viền; viền mép",
+                            "explain": "同'绲边'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 66
+            },
+            "snym": {
+                "syno": [
+                    "滚条"
+                ]
+            },
+            "cn_vi": "cổn biên",
+            "pinyin": "gǔnbiān",
+            "word": "滚边",
+            "id": 21684,
+            "phonetic": "gunbian",
+            "rank": 51188,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄗㄡˋ",
+            "_id": "3512488aa4554691b42045621b719c20",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trống cuộn",
+                            "explain": "drum roll",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "cổn tấu",
+            "pinyin": "gǔn zòu",
+            "word": "滚奏",
+            "id": 98178,
+            "phonetic": "gunzou",
+            "rank": 117486,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄠˊㄍㄨㄣˇ",
+            "_id": "61ea9d6507ba6d6bbc2c032a2c88ac4d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "rock'n' roll (âm nhạc) / to rock / rơi ra",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Chắc chắn không phải là loại ma thuật với những con rối và những ngôi sao nhạc rock nam tính.",
+                                    "p_vn": "chac chan khong phai la loai ma thuat voi nhung con roi va nhung ngoi sao nhac rock nam tinh.",
+                                    "_id": "3af09125cfd34a1da8ece3204e336f70",
+                                    "id": 64876,
+                                    "type": "e_cnvi",
+                                    "e": "显然不是有木偶和威猛摇滚明星的魔幻迷宫",
+                                    "p_cn": "xianran bu shi you muou he weimeng yaogun mingxing de mohuan migong",
+                                    "p": "xiǎnrán bú shì yǒu mùǒu hé wēiměng yáogǔn míngxīng de móhuàn mígōng"
+                                },
+                                {
+                                    "m": "Trên nhạc punk rock của Anh và nền văn hóa phụ của sự khinh bỉ.",
+                                    "p_vn": "Tren nhac punk rock cua Anh va nen van hoa phu cua su khinh bi.",
+                                    "_id": "723931d8b3f142adbc091813d1079c4c",
+                                    "id": 57668,
+                                    "type": "e_cnvi",
+                                    "e": "就是那篇英式庞克摇滚和嘲讽次文化的论文",
+                                    "p_cn": "jiushi napian yingshi pangke yaogun he chaofeng ci wenhua de lunwen",
+                                    "p": "jìushì nàpiān yīngshì pángkè yáogǔn hé cháofēng cì wénhuà de lùnwén"
+                                },
+                                {
+                                    "m": "Blues hay rock cổ điển?",
+                                    "p_vn": "Blues hay rock co dien?",
+                                    "_id": "d338020b7570414b968242b6d7c0d1b0",
+                                    "id": 58567,
+                                    "type": "e_cnvi",
+                                    "e": "是蓝调的还是古典摇滚的",
+                                    "p_cn": "shi landiao de huanshi gudian yaogun de",
+                                    "p": "shì lándiào de huánshì gǔdiǎn yáogǔn de"
+                                },
+                                {
+                                    "m": "Từ khi nào bạn là thần hộ mệnh của các ngôi sao nhạc rock?",
+                                    "p_vn": "Tu khi nao ban la than ho menh cua cac ngoi sao nhac rock?",
+                                    "_id": "de9769c2d0774c14adb398e9a31d3d33",
+                                    "id": 66550,
+                                    "type": "e_cnvi",
+                                    "e": "你什么时候成了前摇滚明星的的守护神?",
+                                    "p_cn": "ni shiyao shihou cheng le qian yaogun mingxing de de shouhushen?",
+                                    "p": "nǐ shíyāo shíhòu chéng le qián yáogǔn míngxīng de de shǒuhùshén?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 83,
+                "search": 913
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "yáogǔn",
+            "cn_vi": "dao cổn",
+            "word": "摇滚",
+            "id": 82934,
+            "phonetic": "yaogun",
+            "rank": 10541,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄎㄞ",
+            "_id": "2c13a7d97380c5673b3f9f7c7e7daee1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sôi; đang sôi",
+                            "explain": "(液体) 沸腾翻滚",
+                            "examples": [
+                                {
+                                    "m": "Ví dụ, làm trứng vịt muối với các loại thảo mộc, sau khi nước sôi thì thêm sao hồi, hạt tiêu và thì là.",
+                                    "p_vn": "vi du, lam trung vit muoi voi cac loai thao moc, sau khi nuoc soi thi them sao hoi, hat tieu va thi la.",
+                                    "_id": "50fae4667a2783eca4d551769cf680ef",
+                                    "id": 53801,
+                                    "type": "e_cnvi",
+                                    "e": "如制香草药咸鸭蛋，沸滚开水后加入八角、花椒、茴香。",
+                                    "p_cn": "ru zhi xiangcao yao xian yadan, fei gun kaishui hou jiaru bajiao, huajiao, huixiang.",
+                                    "p": "rú zhì xiāngcǎo yào xián yādàn, fèi gǔn kāishuǐ hòu jiārù bājiǎo, huājiāo, huíxiāng."
+                                },
+                                {
+                                    "m": "nước sôi.",
+                                    "p_vn": "nuoc soi.",
+                                    "_id": "c0fb569df3556ccddfe6404866981b54",
+                                    "id": 88253,
+                                    "type": "e_cnvi",
+                                    "e": "滚开的水。",
+                                    "p_cn": "gun kai de shui.",
+                                    "p": "gǔn kāi de shuǐ."
+                                },
+                                {
+                                    "m": "Nước trong nồi đã sôi rồi.",
+                                    "p_vn": "nuoc trong noi da soi roi.",
+                                    "_id": "c0fb569df3556ccddfe64048669825af",
+                                    "id": 88254,
+                                    "type": "e_cnvi",
+                                    "e": "壶里的水滚开了。",
+                                    "p_cn": "hu li de shui gun kaile.",
+                                    "p": "hú lǐ de shuǐ gǔn kāile."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cút; tránh ra; biến đi",
+                            "explain": "走开; 离开 (含斥责意)",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy bảo tôi biến đi.",
+                                    "p_vn": "co ay bao toi bien di.",
+                                    "_id": "c0fb569df3556ccddfe6404866982647",
+                                    "id": 88255,
+                                    "type": "e_cnvi",
+                                    "e": "她叫我滚开。",
+                                    "p_cn": "ta jiao wo gun kai.",
+                                    "p": "tā jiào wǒ gǔn kāi."
+                                },
+                                {
+                                    "m": "Cút khỏi đây đi, tôi không muốn gặp lại anh nữa!",
+                                    "p_vn": "cut khoi day di, toi khong muon gap lai anh nua!",
+                                    "_id": "c0fb569df3556ccddfe64048669830bf",
+                                    "id": 88256,
+                                    "type": "e_cnvi",
+                                    "e": "你滚开，我不想再见到你！",
+                                    "p_cn": "ni gun kai, wo buxiang zaijian dao ni!",
+                                    "p": "nǐ gǔn kāi, wǒ bùxiǎng zàijiàn dào nǐ!"
+                                },
+                                {
+                                    "m": "Bạn tránh ra cho tôi.",
+                                    "p_vn": "ban tranh ra cho toi.",
+                                    "_id": "c0fb569df3556ccddfe640486698401f",
+                                    "id": 88257,
+                                    "type": "e_cnvi",
+                                    "e": "你给我滚开。",
+                                    "p_cn": "ni gei wo gun kai.",
+                                    "p": "nǐ gěi wǒ gǔn kāi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 1284
+            },
+            "snym": {
+                "anto": [
+                    "停留",
+                    "稳定",
+                    "停止",
+                    "静止"
+                ],
+                "syno": [
+                    "滚蛋",
+                    "走开",
+                    "离开"
+                ]
+            },
+            "cn_vi": "cổn khai",
+            "pinyin": "gǔn kāi",
+            "word": "滚开",
+            "id": 21699,
+            "phonetic": "gunkai",
+            "rank": 8038,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢㄍㄨㄣˇ",
+            "_id": "53a44f44a7fdda2f37fe818bf4229e75",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cuồn cuộn (nước); quay cuồng; cồn cuộn; lăn chiêng",
+                            "explain": "上下滚动;翻腾",
+                            "examples": [
+                                {
+                                    "m": "sóng bạc cuồn cuộn",
+                                    "p_vn": "song bac cuon cuon",
+                                    "_id": "cd9a22cf808be6895faff7daee68432a",
+                                    "id": 10465,
+                                    "type": "e_cnvi",
+                                    "e": "白浪翻滚",
+                                    "p_cn": "bailang fangun",
+                                    "p": "báilàng fāngǔn"
+                                },
+                                {
+                                    "m": "mây đen cuồn cuộn",
+                                    "p_vn": "may den cuon cuon",
+                                    "_id": "47d4e2c73f27bb4dd3eff58715061fd2",
+                                    "id": 10466,
+                                    "type": "e_cnvi",
+                                    "e": "乌云翻滚",
+                                    "p_cn": "wuyun fangun",
+                                    "p": "wūyún fāngǔn"
+                                },
+                                {
+                                    "m": "chuyện xưa cứ quay cuồng trong đầu.",
+                                    "p_vn": "chuyen xua cu quay cuong trong dau",
+                                    "_id": "476bf5181622935e2a651faed935572f",
+                                    "id": 10467,
+                                    "type": "e_cnvi",
+                                    "e": "桩桩往事在脑子里翻滚。",
+                                    "p_cn": "zhuang zhuang wangshi zai naozi li fangun",
+                                    "p": "zhuāng zhuāng wǎngshì zài nǎozǐlǐ fāngǔn。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lăn mình; lăn lộn; quằn quại; vật; vật vã",
+                            "explain": "来回翻身打滚儿;翻转滚动",
+                            "examples": [
+                                {
+                                    "m": "hai người đánh nhau, lăn lộn dưới đất.",
+                                    "p_vn": "hai nguoi danh nhau lan lon duoi dat",
+                                    "_id": "91882ceb752a6ca8ffbc82b70a8b6fb0",
+                                    "id": 10468,
+                                    "type": "e_cnvi",
+                                    "e": "两个人扭打起来，满地翻滚。",
+                                    "p_cn": "liang geren niuda qilai man di fangun",
+                                    "p": "liǎnggè rén nǐudǎ qǐlái，mǎndì fāngǔn。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lộn tùng phèo; lộn phèo",
+                            "explain": "上下滚动",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 91,
+                "search": 679
+            },
+            "snym": {
+                "syno": [
+                    "翻腾",
+                    "翻覆",
+                    "翻动",
+                    "滚落"
+                ],
+                "anto": [
+                    "静卧",
+                    "平静"
+                ]
+            },
+            "cn_vi": "phiên cổn",
+            "pinyin": "fāngǔn",
+            "word": "翻滚",
+            "id": 15599,
+            "phonetic": "fangun",
+            "rank": 12978,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "35, 69",
+            "zhuyin": "ㄍㄨㄣˇㄊㄨㄥˇ",
+            "_id": "88a4f1f5a554b07196dd55a5148eb756",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trục lăn; ống lăn; ống lăn mực; ống lô",
+                            "explain": "机器上能转动的圆筒形机件的统称",
+                            "examples": [
+                                {
+                                    "m": "Bộ trống là một phần không thể thiếu của máy giặt.",
+                                    "p_vn": "Bo trong la mot phan khong the thieu cua may giat.",
+                                    "_id": "b63abbe265b841edbc778a1dea3f118c",
+                                    "id": 71881,
+                                    "type": "e_cnvi",
+                                    "e": "滚筒是洗衣机必不可少的部分。",
+                                    "p_cn": "guntong shi xiyiji bibukeshao de bufen",
+                                    "p": "gǔntǒng shì xǐyījī bìbùkěshǎo de bùfen"
+                                },
+                                {
+                                    "m": "Nếu sử dụng cuộn lăn thay vì cọ sơn, diện tích sơn được phủ sẽ lớn hơn rất nhiều.",
+                                    "p_vn": "Neu su dung cuon lan thay vi co son, dien tich son duoc phu se lon hon rat nhieu.",
+                                    "_id": "ebf34be3be664803aa7b6663952c77ac",
+                                    "id": 71882,
+                                    "type": "e_cnvi",
+                                    "e": "如果刷油漆用滚筒而不用刷子，那么刷出的面积要大得多。",
+                                    "p_cn": "ruguo shua youqi yong guntong er buyong shuazi name shua chu de mianji yao da de duo",
+                                    "p": "rúguǒ shuā yóuqī yòng gǔntǒng ér bùyòng shuāzi nàme shuā chū de miànjī yào dà dé duō"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 311
+            },
+            "snym": null,
+            "cn_vi": "cổn đồng",
+            "pinyin": "gǔntǒng",
+            "word": "滚筒",
+            "id": 21708,
+            "phonetic": "guntong",
+            "rank": 21634,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄊㄤ",
+            "_id": "f094bc022ebfbef8a0687f4b6aa8314b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nước sôi",
+                            "explain": "沸腾、滚开的水",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "cổn thang",
+            "pinyin": "gǔn tāng",
+            "word": "滚汤",
+            "id": 21705,
+            "phonetic": "guntang",
+            "rank": 95270,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄕㄨㄟˇ",
+            "_id": "fadc43259f1ffe228d11cb7decdc7d2d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nước sôi; nước đang sôi",
+                            "explain": "正在开着的或刚开过的水",
+                            "examples": [
+                                {
+                                    "m": "Quá trình múa mì sẽ kéo dài sợi mì hơn và mì sẽ được nấu gần như ngay lập tức khi cho vào nước sôi.",
+                                    "p_vn": "qua trinh mua mi se keo dai soi mi hon va mi se duoc nau gan nhu ngay lap tuc khi cho vao nuoc soi.",
+                                    "_id": "9f071fa9037843788fd8ed71ad20dce8",
+                                    "id": 67567,
+                                    "type": "e_cnvi",
+                                    "e": "甩面的过程会把面条进一步抻长，面条进了滚水，几乎是瞬间就熟",
+                                    "p_cn": "shuai mian de guocheng hui ba miantiao jinyibu chen zhang, miantiao jinle gunshui, jihu shi shunjian jiu shu",
+                                    "p": "Shuǎi miàn de guòchéng huì bǎ miàntiáo jìnyībù chēn zhǎng, miàntiáo jìnle gǔnshuǐ, jīhū shì shùnjiān jiù shú"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 72
+            },
+            "snym": {
+                "syno": [
+                    "沸水",
+                    "开水"
+                ]
+            },
+            "cn_vi": "cổn thuỷ",
+            "pinyin": "gǔnshuǐ",
+            "word": "滚水",
+            "id": 21704,
+            "phonetic": "gunshui",
+            "rank": 49028,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "35, 69",
+            "zhuyin": "ㄍㄨㄣˇㄗ˙",
+            "_id": "f6625997ec8d953830fbcb142ad3d5de",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "trục lăn; con lăn",
+                            "explain": "可将重物体 (如圆木或钢轨) 放于其上以便移动的圆柱体",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "方",
+                    "means": [
+                        {
+                            "mean": "bánh xe",
+                            "explain": "轮车",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "cổn tử",
+            "pinyin": "gǔn zi",
+            "word": "滚子",
+            "id": 21716,
+            "phonetic": "gunzi",
+            "rank": 68754,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄖㄜˋ",
+            "_id": "bed42863bf8eefec278e3415575786a3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nóng bỏng; nóng hầm hập; nóng hổi",
+                            "explain": "非常热 (多指饮食或体温)",
+                            "examples": [
+                                {
+                                    "m": "uống tách trà nóng hổi.",
+                                    "p_vn": "uong tach tra nong hoi",
+                                    "_id": "f8b3b440d5552724ea42a35c5e5bdc4d",
+                                    "id": 15591,
+                                    "type": "e_cnvi",
+                                    "e": "喝一杯滚热的茶。",
+                                    "p_cn": "he yibei gunre de cha",
+                                    "p": "hēyībēi gǔnrè de chá。"
+                                },
+                                {
+                                    "m": "Đầu nó nóng hầm hập, có thể bị sốt rồi.",
+                                    "p_vn": "dau no nong ham hap, co the bi sot roi.",
+                                    "_id": "f4c2db7edcee85b008a7b19549085e80",
+                                    "id": 15592,
+                                    "type": "e_cnvi",
+                                    "e": "他头上滚热，可能是发烧了。",
+                                    "p_cn": "ta toushang gunre，keneng shi fashao le。",
+                                    "p": "tā tóushàng gǔnrè，kěnéng shì fāshāo le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 26
+            },
+            "snym": {
+                "syno": [
+                    "滚烫"
+                ],
+                "anto": [
+                    "冰凉",
+                    "冰冷"
+                ]
+            },
+            "cn_vi": "cổn nhiệt",
+            "pinyin": "gǔnrè",
+            "word": "滚热",
+            "id": 21703,
+            "phonetic": "gunre",
+            "rank": 75387,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄉㄢˋ",
+            "_id": "cd5971d2340c2fd90d37da4e2b24f128",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cút đi; xéo đi; cút xéo; cuốn xéo; xéo",
+                            "explain": "离开;走开 (斥责或骂人的话)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 46,
+                "search": 862
+            },
+            "snym": {
+                "syno": [
+                    "走开"
+                ],
+                "anto": [
+                    "进来"
+                ]
+            },
+            "cn_vi": "cổn đản",
+            "pinyin": "gǔndàn",
+            "word": "滚蛋",
+            "id": 21687,
+            "phonetic": "gundan",
+            "rank": 10987,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄓㄨ",
+            "_id": "4cd562953bb1484f57ce0a856dfff41e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "bi; viên bi",
+                            "explain": "(滚珠儿) 钢制的圆珠形零件也叫钢珠",
+                            "examples": [
+                                {
+                                    "m": "viên bi; viên bi bằng thép",
+                                    "p_vn": "vien bi; vien bi bang thep",
+                                    "_id": "d36cbdb43f652cda6bfeedce1663258b",
+                                    "id": 51178,
+                                    "type": "e_cnvi",
+                                    "e": "滚珠儿。",
+                                    "p_cn": "gunzhu er",
+                                    "p": "gǔnzhū ér。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 59
+            },
+            "snym": null,
+            "cn_vi": "cổn châu",
+            "pinyin": "gǔnzhū",
+            "word": "滚珠",
+            "id": 21712,
+            "phonetic": "gunzhu",
+            "rank": 53624,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄌㄨㄣˊ",
+            "_id": "a4b202749d57b653541554d91b159081",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vòng lăn",
+                            "explain": "运动器械的一种，由若干铁棍连接两个大小相同的铁环制成人在轮里手攀脚登，使环滚动旧称虎伏",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 19,
+                "search": 244
+            },
+            "snym": null,
+            "cn_vi": "cổn luân",
+            "pinyin": "gǔnlún",
+            "word": "滚轮",
+            "id": 21701,
+            "phonetic": "gunlun",
+            "rank": 25128,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄈㄢ",
+            "_id": "08005a02f201031d314f56b8287c9208",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhào lộn; nhào lăn; ngã nhào",
+                            "explain": "体操动作，全身向前、向后或向侧翻转",
+                            "examples": [
+                                {
+                                    "m": "ngã nhào về phía sau.",
+                                    "p_vn": "nga nhao ve phia sau",
+                                    "_id": "9434df32c68b121b6379476d0e31e8f1",
+                                    "id": 15580,
+                                    "type": "e_cnvi",
+                                    "e": "后滚翻",
+                                    "p_cn": "hou gunfan",
+                                    "p": "hòu gǔnfān"
+                                },
+                                {
+                                    "m": "ngã nhào về phía trước.",
+                                    "p_vn": "nga nhao ve phia truoc",
+                                    "_id": "ac22714e8974fd49ed902bdb86fd766d",
+                                    "id": 15581,
+                                    "type": "e_cnvi",
+                                    "e": "前滚翻",
+                                    "p_cn": "qian gunfan",
+                                    "p": "qiángǔnfān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "cổn phiên",
+            "pinyin": "gǔnfān",
+            "word": "滚翻",
+            "id": 21691,
+            "phonetic": "gunfan",
+            "rank": 88391,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄇㄨˋ",
+            "_id": "807eb6fb85c7ce31ea59fcac67e5bd56",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lăn cây (cách đánh nhau thời xưa)",
+                            "explain": "古代作战时从高处推下以打击敌人的大木头",
+                            "examples": [
+                                {
+                                    "m": "lăn cây đá từ trên cao xuống",
+                                    "p_vn": "lan cay da tu tren cao xuong",
+                                    "_id": "e9601c586ac42b84eb6399e84191677b",
+                                    "id": 15590,
+                                    "type": "e_cnvi",
+                                    "e": "滚木礧石",
+                                    "p_cn": "gunmu lei shi",
+                                    "p": "gǔnmù lèi shí"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "cổn mộc",
+            "pinyin": "gǔnmù",
+            "word": "滚木",
+            "id": 21702,
+            "phonetic": "gunmu",
+            "rank": 77162,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄅㄚˋ",
+            "_id": "91fe219ad91d2bf5fd5a85aecfa19c7b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đập ngăn nước",
+                            "explain": "筑于田畔阻止水流的堤坝",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "cổn bá",
+            "pinyin": "gǔn bà",
+            "word": "滚坝",
+            "id": 21683,
+            "phonetic": "gunba",
+            "rank": 105222,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄌㄟˊ",
+            "_id": "0006f4316be6bffc8cd76a4b828c9c4f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tiếng sấm liên tục",
+                            "explain": "声音连续不断的雷",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngòi nổ",
+                            "explain": "从高处滚放的能延时爆炸的地雷",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "cổn lôi",
+            "pinyin": "gǔnléi",
+            "word": "滚雷",
+            "id": 21700,
+            "phonetic": "gunlei",
+            "rank": 86214,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄍㄤ",
+            "_id": "36668ab8400366038b9026e22758a0d4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "con lăn",
+                            "explain": "机器或简单机械中能转动的圆柱形用具一般在运输重物时起车轮的作用",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "cổn cống",
+            "pinyin": "gǔn gāng",
+            "word": "滚杠",
+            "id": 21694,
+            "phonetic": "gungang",
+            "rank": 83190,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄒㄩㄝˇㄑㄧㄡˊ",
+            "_id": "23daecd87ba39862a3e8ff8e57b60384",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quả cầu tuyết; chơi ném tuyết",
+                            "explain": "在雪地上玩的一种游戏，滚动成团的雪，使体积越来越大也用于比喻",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 154
+            },
+            "snym": null,
+            "cn_vi": "cổn tuyết cầu",
+            "pinyin": "gǔnxuěqiú",
+            "word": "滚雪球",
+            "id": 21709,
+            "phonetic": "gunxueqiu",
+            "rank": 32981,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄟˋㄍㄨㄣˇㄎㄡˇ",
+            "_id": "7ba1a56cf456fb17cba14ce2cc3a111e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Viền cổ trong",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "nội cổn khẩu",
+            "pinyin": "nèi gǔn kǒu",
+            "word": "内滚口",
+            "id": 77557,
+            "phonetic": "neigunkou",
+            "rank": 115405,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄠˊㄍㄨㄣˇㄨˇ",
+            "topic": "2",
+            "_id": "41cf683690fbec3bd351dd98ceef048f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Điệu rock’n roll",
+                            "explain": "摇滚舞是美国现代交谊舞之一。“摇滚”一词原为黑人用语， 带有性的含蓄意义。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "dao cổn vũ",
+            "pinyin": "yáogǔn wǔ",
+            "word": "摇滚舞",
+            "id": 71067,
+            "phonetic": "yaogunwu",
+            "rank": 107233,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄍㄨㄣˇㄓㄨㄤㄔㄨㄢˊ",
+            "_id": "8b215c1ec03942d8b973a831d0d31e9a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "RORO hay Roll-on/Roll-off là một thuật ngữ trong ngành vận tải quốc tế dùng cho các loại hàng tự vận hành lên tàu được (xe hơi; xe tải; xe tự hành …)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "cổn trang thuyền",
+            "pinyin": "Gǔn zhuāng chuán",
+            "word": "滚装船",
+            "id": 157487,
+            "phonetic": "Gunzhuangchuan",
+            "rank": 67709,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄔˇㄐㄧ",
+            "_id": "34b2486a028de9d7d2a2596088f53d9d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "máy cắt răng cưa",
+                            "explain": "金属切削机床，用来加工齿轮、涡轮和花键轴等的齿形加工时，工件和滚刀做相对滚动，滚刀一面旋转，一面推进切削",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "cổn xỉ cơ",
+            "pinyin": "gǔnchǐjī",
+            "word": "滚齿机",
+            "id": 21685,
+            "phonetic": "gunchiji",
+            "rank": 128159,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Zhǒng",
+                "examples": "她喜欢摇滚乐。\nTā xǐhuān yáogǔnyuè.\nCô ấy phát cuồng vì nhạc rock and roll.",
+                "measure": "种"
+            },
+            "zhuyin": "ㄧㄠˊㄍㄨㄣˇㄌㄜˋ",
+            "_id": "3aa5ae77188a6fca1e13239a50996897",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nhạc rock",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Người hâm mộ nhóm nhạc pop theo đuổi các buổi biểu diễn diễn của ban nhạc rock, đặc biệt là những cô gái trẻ.",
+                                    "p_vn": "Nguoi ham mo nhom nhac pop theo duoi cac buoi bieu dien dien cua ban nhac rock, dac biet la nhung co gai tre.",
+                                    "_id": "63aaabc9c54f4e49aa0cb7832f3fcda4",
+                                    "id": 70568,
+                                    "type": "e_cnvi",
+                                    "e": "流行乐团迷跟随摇滚乐队巡回演出的迷恋者，尤指年轻女性",
+                                    "p_cn": "liuxing yuetuan mi gensui yaogunyue dui xunhuiyanchu de milian zhe youzhi nianqing nuxing",
+                                    "p": "liúxíng yuètuán mí gēnsuí yáogǔnyuè duì xúnhuíyǎnchū de míliàn zhě yóuzhǐ niánqīng nǚxìng"
+                                },
+                                {
+                                    "m": "Cô ấy thích nhạc rock.",
+                                    "p_vn": "Co ay thich nhac rock.",
+                                    "_id": "4a8115a97ccd4bc98c0de9f37f542740",
+                                    "id": 70569,
+                                    "type": "e_cnvi",
+                                    "e": "她喜欢摇滚乐。",
+                                    "p_cn": "ta xihuan yaogunyue",
+                                    "p": "tā xǐhuan yáogǔnyuè"
+                                },
+                                {
+                                    "m": "Âm nhạc rock rung chuyển ngôi nhà, vang lên từ phòng khách.",
+                                    "p_vn": "Am nhac rock rung chuyen ngoi nha, vang len tu phong khach.",
+                                    "_id": "eabd0d9e385d4a5aab14a345df05efd3",
+                                    "id": 70570,
+                                    "type": "e_cnvi",
+                                    "e": "摇滚乐声震屋宇，从客厅传来。",
+                                    "p_cn": "yaogunyue sheng zhen wu yu cong keting chuanlai",
+                                    "p": "yáogǔnyuè shēng zhèn wū yǔ cóng kètīng chuánlái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 193
+            },
+            "snym": null,
+            "cn_vi": "dao cổn lạc",
+            "pinyin": "yáogǔnyuè",
+            "word": "摇滚乐",
+            "id": 71065,
+            "phonetic": "yaogunyue",
+            "rank": 28974,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢㄍㄨㄣˇㄎㄡˇ",
+            "_id": "874efd15ba7a7da8bb7e5d85f55abb97",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lộn ống",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "phiên cổn khẩu",
+            "pinyin": "fāngǔn kǒu",
+            "word": "翻滚口",
+            "id": 77060,
+            "phonetic": "fangunkou",
+            "rank": 110942,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄊㄨㄥˇㄕㄨㄚ",
+            "_id": "1c46375b774241968f002f199972d962",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lăn sơn",
+                            "explain": "paint roller",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 78
+            },
+            "snym": null,
+            "cn_vi": "cổn đồng xoát",
+            "pinyin": "gǔntǒng shuā",
+            "word": "滚筒刷",
+            "id": 125515,
+            "phonetic": "guntongshua",
+            "rank": 47064,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄣˇㄅㄧㄢㄐㄧ",
+            "_id": "ea0e678831efbf06f51fb9b3c0e5d308",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Máy cuốn sườn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "cổn biên cơ",
+            "pinyin": "gǔnbiān jī",
+            "word": "滚边机",
+            "id": 72335,
+            "phonetic": "gunbianji",
+            "rank": 97673,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "滚"
+}

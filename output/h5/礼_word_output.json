@@ -1,0 +1,2606 @@
+{
+    "total": 258,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "Fèn",
+                "examples": "一份礼",
+                "measure": "份"
+            },
+            "zhuyin": "ㄌㄧˇ",
+            "_id": "d7ef7aef718b59fb3c27a61b1a0837bb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "tặng/ nhận/ trả lại quà",
+                            "examples": [
+                                99191,
+                                99192
+                            ],
+                            "struct": "Động từ（送/收/还）+ 礼"
+                        },
+                        {
+                            "explain": "món quá lớn/nhỏ",
+                            "examples": [
+                                99200,
+                                99201
+                            ],
+                            "struct": "礼 + 很/不 + 重/轻"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ nghi; lễ",
+                            "explain": "社会生活中由于风俗习惯而形成的为大家共同遵守的仪式",
+                            "examples": [
+                                {
+                                    "m": "tang lễ",
+                                    "p_vn": "tang le",
+                                    "_id": "7ab06c99ca87d933451d3f6ede2d2e88",
+                                    "id": 25276,
+                                    "type": "e_cnvi",
+                                    "e": "丧礼",
+                                    "p_cn": "sangli",
+                                    "p": "sānglǐ"
+                                },
+                                {
+                                    "m": "lễ tốt nghiệp",
+                                    "p_vn": "le tot nghiep",
+                                    "_id": "55db399305625a14707d64b91841029c",
+                                    "id": 99170,
+                                    "type": "e_cnvi",
+                                    "e": "毕业典礼",
+                                    "p_cn": "biye dianli",
+                                    "p": "bìyè diǎnlǐ"
+                                },
+                                {
+                                    "m": "lễ đường",
+                                    "p_vn": "le duong",
+                                    "_id": "22c3152319a89878e27b4a3406aa4c47",
+                                    "id": 37819,
+                                    "type": "e_cnvi",
+                                    "e": "礼堂",
+                                    "p_cn": "litang",
+                                    "p": "lǐtáng"
+                                },
+                                {
+                                    "m": "Mời bạn đến tham gia hôn lễ của chúng tôi.",
+                                    "p_vn": "moi ban den tham gia hon le cua chung toi.",
+                                    "_id": "55db399305625a14707d64b9184164a0",
+                                    "id": 99174,
+                                    "type": "e_cnvi",
+                                    "e": "请你来参加我们的婚礼。",
+                                    "p_cn": "qing ni lai canjia women de hunli.",
+                                    "p": "qǐng nǐ lái cānjiā wǒmen de hūnlǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lễ phép; lễ độ (biểu thị lời lẽ tôn kính lễ phép)",
+                            "explain": "表示尊敬的言语或动作",
+                            "examples": [
+                                {
+                                    "m": "lễ tiết",
+                                    "p_vn": "le tiet",
+                                    "_id": "ee2b9cfdf32f167d879d46e4786b4860",
+                                    "id": 25277,
+                                    "type": "e_cnvi",
+                                    "e": "礼节",
+                                    "p_cn": "lijie",
+                                    "p": "lǐjié"
+                                },
+                                {
+                                    "m": "kính lễ",
+                                    "p_vn": "kinh le",
+                                    "_id": "d0fd7cdba641745acda0cc8bf4bdce79",
+                                    "id": 25278,
+                                    "type": "e_cnvi",
+                                    "e": "敬礼",
+                                    "p_cn": "jingli",
+                                    "p": "jìnglǐ"
+                                },
+                                {
+                                    "m": "khiêm tốn lễ độ",
+                                    "p_vn": "khiem ton le do",
+                                    "_id": "226cd3cc54e8c0d7f95fb698599e7d49",
+                                    "id": 25279,
+                                    "type": "e_cnvi",
+                                    "e": "谦恭好礼",
+                                    "p_cn": "qiangong haoli",
+                                    "p": "qiāngōng hǎolǐ"
+                                },
+                                {
+                                    "m": "Nhìn thấy thầy giáo phải chào một cái.",
+                                    "p_vn": "nhin thay thay giao phai chao mot cai.",
+                                    "_id": "55db399305625a14707d64b918422074",
+                                    "id": 99184,
+                                    "type": "e_cnvi",
+                                    "e": "见到老师要行个礼。",
+                                    "p_cn": "jian dao laoshi yao xing ge li.",
+                                    "p": "jiàn dào lǎoshī yào xíng gè lǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lễ vật; quà biếu; tặng phẩm; quà",
+                            "explain": "礼物",
+                            "examples": [
+                                {
+                                    "m": "tặng quà",
+                                    "p_vn": "tang qua",
+                                    "_id": "be831ebb8e8a13d394d886b1ac10a6d2",
+                                    "id": 25280,
+                                    "type": "e_cnvi",
+                                    "e": "送礼",
+                                    "p_cn": "songli",
+                                    "p": "sònglǐ"
+                                },
+                                {
+                                    "m": "dâng lễ vật",
+                                    "p_vn": "dang le vat",
+                                    "_id": "f8778041af934c8512d90bce83f8a66c",
+                                    "id": 25281,
+                                    "type": "e_cnvi",
+                                    "e": "献礼",
+                                    "p_cn": "xianli",
+                                    "p": "xiànlǐ"
+                                },
+                                {
+                                    "m": "của một đồng, công một lạng; của ít lòng nhiều",
+                                    "p_vn": "cua mot dong, cong mot lang; cua it long nhieu",
+                                    "_id": "92d90b753ec1079369c90477a82dbc6f",
+                                    "id": 25282,
+                                    "type": "e_cnvi",
+                                    "e": "千里送鹅毛，礼轻情意重",
+                                    "p_cn": "qianlisongemao，liqingqingyi zhong",
+                                    "p": "qiānlǐsòngémáo，lǐqīngqíngyì zhòng"
+                                },
+                                {
+                                    "m": "Món quà này là một chút tấm lòng của tôi.",
+                                    "p_vn": "mon qua nay la mot chut tam long cua toi.",
+                                    "_id": "55db399305625a14707d64b91841931d",
+                                    "id": 99177,
+                                    "type": "e_cnvi",
+                                    "e": "这份礼是我的一点儿心意。",
+                                    "p_cn": "zhe fen li shi wo de yidianr xinyi.",
+                                    "p": "zhè fèn lǐ shì wǒ de yīdiǎnr xīnyì."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đối xử với nhau có lễ nghĩa",
+                            "explain": "以礼相待",
+                            "examples": [
+                                {
+                                    "m": "sẵn sàng kết bạn với người hiền tài",
+                                    "p_vn": "san sang ket ban voi nguoi hien tai",
+                                    "_id": "e9fd65874cbbc979e07927ab2226d345",
+                                    "id": 25283,
+                                    "type": "e_cnvi",
+                                    "e": "礼贤下士",
+                                    "p_cn": "lixianxiashi",
+                                    "p": "lǐxiánxiàshì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 44,
+                "search": 3688
+            },
+            "snym": null,
+            "lv_hsk_new": "5",
+            "pinyin": "lǐ",
+            "cn_vi": "lễ",
+            "word": "礼",
+            "id": 34317,
+            "phonetic": "li",
+            "rank": 3237,
+            "lv_tocfl": 4,
+            "compound": "礼拜 ; 礼拜寺 ; 礼拜堂 ; 礼拜天 ; 礼宾 ; 礼成 ; 礼单 ; 礼法 ; 礼佛 ; 礼服 ; 礼服呢 ; 礼花 ; 礼教 ; 礼节 ; 礼金 ; 礼帽 ; 礼貌 ; 礼炮 ; 礼品 ; 礼券 ; 礼让 ; 礼尚往来 ; 礼数 ; 礼俗 ; 礼堂 ; 礼物 ; 礼贤下士 ; 礼仪 ; 礼遇 ; 礼赞"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˇㄌㄧˇㄏㄞˊㄌㄧˇ",
+            "_id": "6c5f1c58dce94341a5b51bd3bc437a37",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Lấy lễ đáp lễ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "tôi đã định ra một nguyên tắc đó là lấy lễ đáp lễ",
+                                    "p_vn": "toi da dinh ra mot nguyen tac do la lay le dap le",
+                                    "_id": "47877ec7c51240ccab3430c92aee7b35",
+                                    "id": 67581,
+                                    "type": "e_cnvi",
+                                    "e": "我已经定下一个规则,总是以礼还礼",
+                                    "p_cn": "Wo yijing ding xia yige guize, zong shi yi li huanli",
+                                    "p": "Wǒ yǐjīng dìng xià yīgè guīzé, zǒng shì yǐ lǐ huánlǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "dĩ lễ hoàn lễ",
+            "pinyin": "yǐ lǐ huánlǐ",
+            "word": "以礼还礼",
+            "id": 152343,
+            "phonetic": "yilihuanli",
+            "rank": 65660,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "chǎng",
+                "examples": "",
+                "measure": "场"
+            },
+            "topic": "42, 71",
+            "zhuyin": "ㄏㄨㄣㄌㄧˇ",
+            "_id": "ac2298adabf471666d080f45e375a694",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "đám cưới ai/ như thế nào",
+                            "examples": [
+                                118674,
+                                118676
+                            ],
+                            "struct": "某人、Tính từ + (的) + 婚礼"
+                        },
+                        {
+                            "explain": "làm gì đám cưới/ hôn lễ/ lễ cưới",
+                            "examples": [
+                                83932,
+                                118679,
+                                118680
+                            ],
+                            "struct": "Động từ + 婚礼"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hôn lễ; lễ cưới; lễ thành hôn; lễ kết hôn; đám cưới",
+                            "explain": "结婚仪式",
+                            "examples": [
+                                {
+                                    "m": "Cử hành lễ cưới.",
+                                    "p_vn": "cu hanh le cuoi.",
+                                    "_id": "a26b1cf155956b4bf100a830b904fd0a",
+                                    "id": 18794,
+                                    "type": "e_cnvi",
+                                    "e": "举行婚礼。",
+                                    "p_cn": "juxing hunli",
+                                    "p": "jǔxíng hūnlǐ"
+                                },
+                                {
+                                    "m": "Hôn lễ là cái kết đẹp đẽ của tình yêu.",
+                                    "p_vn": "hon le la cai ket dep de cua tinh yeu.",
+                                    "_id": "c10c24a6ed43165db916499fa9226e14",
+                                    "id": 83927,
+                                    "type": "e_cnvi",
+                                    "e": "婚礼是爱情的美好结束。",
+                                    "p_cn": "hunli shi aiqing de meihao jieshu.",
+                                    "p": "hūnlǐ shì àiqíng de měihǎo jiéshù."
+                                },
+                                {
+                                    "m": "Đám cưới đó thật đẹp.",
+                                    "p_vn": "dam cuoi do that dep.",
+                                    "_id": "641148288b13f4cf43a85133e8e991c2",
+                                    "id": 118671,
+                                    "type": "e_cnvi",
+                                    "e": "那场婚礼真美。",
+                                    "p_cn": "na chang hunli zhenmei.",
+                                    "p": "nà chǎng hūnlǐ zhēnměi."
+                                },
+                                {
+                                    "m": "Đám cưới là sự cam kết của tình yêu.",
+                                    "p_vn": "dam cuoi la su cam ket cua tinh yeu.",
+                                    "_id": "641148288b13f4cf43a85133e8e9b068",
+                                    "id": 118675,
+                                    "type": "e_cnvi",
+                                    "e": "婚礼是爱的承诺。",
+                                    "p_cn": "hunli shi ai de chengnuo.",
+                                    "p": "hūnlǐ shì ài de chéngnuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 423,
+                "search": 3314
+            },
+            "snym": {
+                "syno": [
+                    "婚典"
+                ],
+                "anto": [
+                    "丧礼"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "hūnlǐ",
+            "cn_vi": "hôn lễ",
+            "word": "婚礼",
+            "id": 25830,
+            "phonetic": "hunli",
+            "rank": 3603,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè, cì, chǎng",
+                "examples": "我们一家都受到邀请参加本典礼。\nWǒmen yījiā dōu shòudào yāoqǐng cānjiā běn diǎnlǐ.\nToàn thể gia đình chúng tôi được mời tham dự buổi lễ này.",
+                "measure": "个, 次, 场"
+            },
+            "topic": "42, 71",
+            "zhuyin": "ㄉㄧㄢˇㄌㄧˇ",
+            "_id": "14ae33b9d1454b485c3b87aaf2497ab4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                69361,
+                                81365
+                            ],
+                            "struct": "Định ngữ (+的) + 典礼"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                81366,
+                                81367
+                            ],
+                            "struct": "Động từ + 典礼"
+                        },
+                        {
+                            "examples": [
+                                81369,
+                                81368
+                            ],
+                            "struct": "典礼 + Động từ"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ lớn; lễ; lễ nghi",
+                            "explain": "郑重举行的仪式，如开幕典礼、结婚典礼、毕业典礼等",
+                            "examples": [
+                                {
+                                    "m": "Dự định 9 giờ sáng ngày mồng 1 tháng 9 sẽ tổ chức lễ khai giảng ở trường.",
+                                    "p_vn": "du dinh 9 gio sang ngay mong 1 thang 9 se to chuc le khai giang o truong.",
+                                    "_id": "00b0be95a4ae304d1739af5e0d42f94c",
+                                    "id": 52230,
+                                    "type": "e_cnvi",
+                                    "e": "兹订于9月1日上午9时在本校礼堂举行开学典礼。",
+                                    "p_cn": "zi dingyu 9 yue 1 ri shangwu 9 shi zai benxiao litang juxing kaixuedianli。",
+                                    "p": "zī dìngyú 9 yuè 1 rì shàngwǔ 9 shí zài běnxiào lǐtáng jǔxíng kāixuédiǎnlǐ。"
+                                },
+                                {
+                                    "m": "lễ khai mạc.",
+                                    "p_vn": "le khai mac.",
+                                    "_id": "05fd2a1d94c7295fb5655591c86b1e2d",
+                                    "id": 22850,
+                                    "type": "e_cnvi",
+                                    "e": "开幕典礼。",
+                                    "p_cn": "kaimudianli。",
+                                    "p": "kāimùdiǎnlǐ。"
+                                },
+                                {
+                                    "m": "thứ trưởng thay mặt bộ trưởng chủ trì lễ khai mạc.",
+                                    "p_vn": "thu truong thay mat bo truong chu tri le khai mac.",
+                                    "_id": "0c794ad56ce9e42d003d9e7328e79109",
+                                    "id": 6765,
+                                    "type": "e_cnvi",
+                                    "e": "副部长代表部长主持开幕典礼。",
+                                    "p_cn": "fu buzhang daibiao buzhang zhuchi kaimu dianli.",
+                                    "p": "fù bùzhǎng dàibiǎo bùzhǎng zhǔchí kāimù diǎnlǐ."
+                                },
+                                {
+                                    "m": "cử hành lễ khởi công (đặt móng)",
+                                    "p_vn": "cu hanh le khoi cong (dat mong)",
+                                    "_id": "1b810daa033be5dc29242d22596ad2fb",
+                                    "id": 8479,
+                                    "type": "e_cnvi",
+                                    "e": "举行奠基典礼",
+                                    "p_cn": "juxing dianjidianli",
+                                    "p": "jǔxíng diànjīdiǎnlǐ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nghi thức",
+                            "explain": "举行典礼的程序、形式",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 148,
+                "search": 2123
+            },
+            "snym": {
+                "syno": [
+                    "仪式",
+                    "启幕",
+                    "盛典"
+                ]
+            },
+            "lv_hsk_new": "5, 6",
+            "pinyin": "diǎnlǐ",
+            "cn_vi": "điển lễ",
+            "word": "典礼",
+            "id": 12541,
+            "phonetic": "dianli",
+            "rank": 5330,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "57",
+            "zhuyin": "ㄌㄧˇㄈㄚˇ",
+            "_id": "39c2d71f50e90a67fe235e1ed4cc62d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ pháp (kỷ cương, phép tắc của xã hội)",
+                            "explain": "社会上通行的法纪和礼仪",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 54
+            },
+            "snym": {
+                "syno": [
+                    "礼制"
+                ]
+            },
+            "cn_vi": "lễ pháp",
+            "pinyin": "lǐfǎ",
+            "word": "礼法",
+            "id": 34325,
+            "phonetic": "lifa",
+            "rank": 55921,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄐㄧˋ",
+            "_id": "5e1bfacb0150403b80cfc967f3577b5d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Classic of Rites",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 141
+            },
+            "snym": null,
+            "cn_vi": "lễ ký",
+            "pinyin": "lǐ jì",
+            "word": "礼记",
+            "id": 89072,
+            "phonetic": "liji",
+            "rank": 34558,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄠˇㄌㄧˇ",
+            "_id": "28f7ced2edfb18d102fb7862a57fad7a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giảm bớt lễ tiết (yêu cầu người khác)",
+                            "explain": "客套话请人不必拘于礼节",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thất lễ; thiếu lễ phép (tự cảm thấy)",
+                            "explain": "客套话称自己礼貌不周到",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "thiếu lễ",
+            "pinyin": "shǎo lǐ",
+            "word": "少礼",
+            "id": 45984,
+            "phonetic": "shaoli",
+            "rank": 104274,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓˊㄌㄧˇ",
+            "_id": "0916dc1ac3474e9ca4d01b1ec049b8a9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Giữ đúng lễ phép; thủ lễ. \n◇Diêm thiết luận 鹽鐵論: Tích Chu Công xử khiêm dĩ ti sĩ; chấp lễ dĩ trị hạ 昔周公處謙以卑士; 執禮以治下 (Quyển thất). Chỉ lễ mạo đối với người khác. \n◇Lỗ Tấn 魯迅: Dĩ hậu như tương kiến; nhưng đương chấp lễ thậm cung 以後如相見; 仍當執禮甚恭 (Thư tín tập 書信集; Trí tào tụ nhân 致曹聚仁).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "chấp lễ",
+            "pinyin": "zhí lǐ",
+            "word": "执礼",
+            "id": 149620,
+            "phonetic": "zhili",
+            "rank": 114331,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c6adb98c1f9f4b1fac411991ae99eea7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thủ lễ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thủ lễ",
+            "pinyin": "shǒu lǐ",
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "word": "守礼",
+            "id": 177380,
+            "phonetic": "shouli",
+            "rank": 114124,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄐㄧㄠˋ",
+            "_id": "a172682ac93e487edf74674cae23f59e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ giáo",
+                            "explain": "旧传统中束缚人的思想行动的礼节和道德",
+                            "examples": [
+                                {
+                                    "m": "không bị lễ giáo cũ ràng buộc.",
+                                    "p_vn": "khong bi le giao cu rang buoc",
+                                    "_id": "85e2075319b315e3f4a3d58335b78d54",
+                                    "id": 24866,
+                                    "type": "e_cnvi",
+                                    "e": "不为旧礼教所牢笼。",
+                                    "p_cn": "bu wei jiu lijiao suo laolong",
+                                    "p": "bùwèi jìu lǐjiào suǒ láolóng。"
+                                },
+                                {
+                                    "m": "chống lại lễ giáo phong kiến",
+                                    "p_vn": "chong lai le giao phong kien",
+                                    "_id": "8868fe22fb3d1cb262392171ffefafb5",
+                                    "id": 10676,
+                                    "type": "e_cnvi",
+                                    "e": "反叛封建礼教",
+                                    "p_cn": "fanpan fengjian lijiao",
+                                    "p": "fǎnpàn fēngjiànlǐjiào"
+                                },
+                                {
+                                    "m": "phá bỏ hàng rào lễ giáo cũ",
+                                    "p_vn": "pha bo hang rao le giao cu",
+                                    "_id": "aa1e53e4924973d1bc2f8f395420cab9",
+                                    "id": 10564,
+                                    "type": "e_cnvi",
+                                    "e": "冲破旧礼教的樊篱。",
+                                    "p_cn": "chongpo jiu lijiao de fanli",
+                                    "p": "chōngpò jìu lǐjiào de fánlí。"
+                                },
+                                {
+                                    "m": "thứ nọc độc trong lễ giáo của xã hội phong kiến, một ngàn năm nay đã làm tổn thương không biết bao nhiêu thanh niên nam nữ.",
+                                    "p_vn": "thu noc doc trong le giao cua xa hoi phong kien, mot ngan nam nay da lam ton thuong khong biet bao nhieu thanh nien nam nu.",
+                                    "_id": "c31608a6ee0463214f2259ec7f77edbf",
+                                    "id": 26987,
+                                    "type": "e_cnvi",
+                                    "e": "封建礼教的流毒，千百年来不知戕害了多少青年男女。",
+                                    "p_cn": "fengjian lijiao de liudu, qian bai nian lai bu zhi qianghaile duoshao qingnian nannu.",
+                                    "p": "fēngjiàn lǐjiào de liúdú, qiān bǎi nián lái bu zhī qiánghàile duōshao qīngnián nánnǚ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 67
+            },
+            "snym": null,
+            "cn_vi": "lễ giáo",
+            "pinyin": "lǐjiào",
+            "word": "礼教",
+            "id": 34330,
+            "phonetic": "lijiao",
+            "rank": 50681,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄤˊㄌㄧˇ",
+            "_id": "98789558ab4e6f6510aa61d556fd0cfd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nghi thức bình thường; lễ thường; lễ nghi bình thường; (phân biệt với đại lễ)",
+                            "explain": "中国旧时的通常的礼节，如供揖之类，别于跪拜等的大礼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "thường lễ",
+            "pinyin": "cháng lǐ",
+            "word": "常礼",
+            "id": 6541,
+            "phonetic": "changli",
+            "rank": 149023,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄢˋㄌㄧˇ",
+            "_id": "a2eea38a4aae0f88d1564c982d82aafa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tặng tiền (dùng tiền thay cho lễ vật)",
+                            "explain": "用钱代替礼品送的礼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "can lễ",
+            "pinyin": "gān lǐ",
+            "word": "干礼",
+            "id": 18291,
+            "phonetic": "ganli",
+            "rank": 140287,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄌㄧˇ",
+            "_id": "a671087ed2e54243f99be8fd31f13a6c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hành lễ; chào hỏi",
+                            "explain": "行礼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 24
+            },
+            "snym": {
+                "syno": [
+                    "行礼",
+                    "见礼",
+                    "敬礼"
+                ]
+            },
+            "cn_vi": "thi lễ",
+            "pinyin": "shīlǐ",
+            "word": "施礼",
+            "id": 46943,
+            "phonetic": "shili",
+            "rank": 77832,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄆㄠˋ",
+            "_id": "bc1f63341a1b7709a01626a9b3838822",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bắn súng chào (nghi thức ngoại giao)",
+                            "explain": "表示敬礼或举行庆祝典礼时放的炮",
+                            "examples": [
+                                {
+                                    "m": "Bắn hai mươi mốt phát súng chào.",
+                                    "p_vn": "ban hai muoi mot phat sung chao",
+                                    "_id": "0efff418c2a8bf3696395fdefbc464a1",
+                                    "id": 25295,
+                                    "type": "e_cnvi",
+                                    "e": "鸣礼炮二十一响。",
+                                    "p_cn": "ming lipao ershiyi xiang",
+                                    "p": "míng lǐpào èrshíyī xiǎng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 54
+            },
+            "snym": null,
+            "cn_vi": "lễ pháo",
+            "pinyin": "lǐpào",
+            "word": "礼炮",
+            "id": 34335,
+            "phonetic": "lipao",
+            "rank": 55886,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢㄌㄧˇ",
+            "_id": "fa6f352b63bb488f86a745f2267c6bc8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nghi thức đội mũ cho con trai thời xưa; khi tròn 20 tuổi; tức là tuổi thành niên.",
+                            "explain": "华夏民族嘉礼的一种，是古代中国汉族男性的成年礼。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 89
+            },
+            "snym": null,
+            "cn_vi": "quan lễ",
+            "pinyin": "guàn lǐ",
+            "word": "冠礼",
+            "id": 149043,
+            "phonetic": "guanli",
+            "rank": 43994,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣˊㄌㄧˇ",
+            "_id": "fb2c0a603f3556f7289fc8c3a1865e38",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hành hương (về đất thánh)",
+                            "explain": "朝拜圣地",
+                            "examples": []
+                        },
+                        {
+                            "mean": "du lịch; tham quan",
+                            "explain": "借指观光或游览",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 62
+            },
+            "snym": {
+                "syno": [
+                    "巡游",
+                    "巡行",
+                    "巡回"
+                ]
+            },
+            "cn_vi": "tuân lễ",
+            "pinyin": "xúnlǐ",
+            "word": "巡礼",
+            "id": 57682,
+            "phonetic": "xunli",
+            "rank": 52364,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢˋㄌㄧˇ",
+            "_id": "039de3f81cd873503fe58db451869249",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dâng tặng lễ vật; tặng quà",
+                            "explain": "为了表示庆祝而献出礼物",
+                            "examples": [
+                                {
+                                    "m": "tặng quà ngày quốc khánh",
+                                    "p_vn": "tang qua ngay quoc khanh",
+                                    "_id": "38574f55ec531dbe2a68e3b1b679d412",
+                                    "id": 41973,
+                                    "type": "e_cnvi",
+                                    "e": "国庆献礼。",
+                                    "p_cn": "guoqing xianli",
+                                    "p": "guóqìng xiànlǐ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 129
+            },
+            "snym": null,
+            "cn_vi": "hiến lễ",
+            "pinyin": "xiànlǐ",
+            "word": "献礼",
+            "id": 55243,
+            "phonetic": "xianli",
+            "rank": 36323,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄌㄧˇ",
+            "_id": "5c2c8e3e8b3543089a5a3070c2e21248",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Vốn nghĩa là khánh lễ; yến tiệc; quan hôn. Thường chỉ lễ cưới. \n◇Liêu trai chí dị 聊齋志異: Bất tri kim tịch gia lễ; tàm vô dĩ hạ 不知今夕嘉禮; 慚無以賀 (Hồ giá nữ 狐嫁女) Không biết đêm nay có hỉ sự; thẹn không có gì làm lễ mừng.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "lễ cưới linh đình.",
+                                    "p_vn": "le cuoi linh dinh",
+                                    "_id": "b9fe222716aad2de38adff28e007f115",
+                                    "id": 19977,
+                                    "type": "e_cnvi",
+                                    "e": "嘉礼(婚礼)。",
+                                    "p_cn": "jiali (hunli)",
+                                    "p": "jiālǐ ( hūnlǐ )。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "gia lễ",
+            "pinyin": "jiālǐ",
+            "word": "嘉礼",
+            "id": 149554,
+            "phonetic": "jiali",
+            "rank": 83553,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "34bc812fa1a34c65a1dff7afe4db9a97",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hộp quà",
+                            "explain": "以盒子包装的礼品",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "lễ hạp",
+            "pinyin": "lǐhé",
+            "popularity": {
+                "notebook": 1,
+                "search": 93
+            },
+            "word": "礼盒",
+            "id": 173424,
+            "phonetic": "lihe",
+            "rank": 43187,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Jiàn",
+                "examples": "那件礼服非常适合她。\nNà jiàn lǐfú fēicháng shìhé tā.\nChiếc váy đó rất hợp với cô ấy.",
+                "measure": "件"
+            },
+            "zhuyin": "ㄌㄧˇㄈㄨˊ",
+            "topic": "23",
+            "_id": "38387aea09ede5fdeb827c39820396fb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ phục",
+                            "explain": "在庄重的场合或举行仪式时穿的服装",
+                            "examples": [
+                                {
+                                    "m": "Bạn trông đẹp trai trong bộ lễ phục.",
+                                    "p_vn": "Ban trong dep trai trong bo le phuc.",
+                                    "_id": "6b588b9ff25344a5bb6a649d5801520a",
+                                    "id": 65021,
+                                    "type": "e_cnvi",
+                                    "e": "你穿这身晚礼服真帅气",
+                                    "p_cn": "ni chuan zheshen wanlifu zhen shuaiqi",
+                                    "p": "nǐ chuān zhèshēn wǎnlǐfú zhēn shuàiqì"
+                                },
+                                {
+                                    "m": "Yêu thích đường viền cổ áo đang lao dốc.",
+                                    "p_vn": "yeu thich duong vien co ao dang lao doc.",
+                                    "_id": "f49f49619531488a8918499a9e8fbeb1",
+                                    "id": 64914,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢这件低胸的礼服",
+                                    "p_cn": "wo xihuan zhejian dixiong de lifu",
+                                    "p": "wǒ xǐhuan zhèjiàn dīxiōng de lǐfú"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 61,
+                "search": 540
+            },
+            "snym": {
+                "syno": [
+                    "治服",
+                    "克服",
+                    "制伏",
+                    "军装",
+                    "校服",
+                    "号衣",
+                    "制服",
+                    "制胜",
+                    "征服",
+                    "驯服"
+                ],
+                "anto": [
+                    "便服",
+                    "常服"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "lǐfú",
+            "cn_vi": "lễ phục",
+            "word": "礼服",
+            "id": 34327,
+            "phonetic": "lifu",
+            "rank": 15121,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "fèn, jiàn, gè, fēn",
+                "examples": "",
+                "measure": "份, 件, 个, 分"
+            },
+            "topic": "56",
+            "zhuyin": "ㄌㄧˇㄨˋ",
+            "_id": "627d4542c97abbe6a1fcdf2bcebf3305",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "quà/ món quà + sinh nhật/ tốt nhất/ đơn giản/ quý giá",
+                            "examples": [
+                                101107,
+                                101108
+                            ],
+                            "struct": "Định ngữ (生日，最好，简单，珍贵) + 礼物"
+                        },
+                        {
+                            "explain": "tặng/ mua/ mang/ nhận + quà",
+                            "examples": [
+                                75761,
+                                75762
+                            ],
+                            "struct": "Động từ (送，买，带，收到) + 礼物"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quà; quà cáp; quà biếu; lễ vật; tặng phẩm",
+                            "explain": "为了表示尊敬或庆贺而赠送的物品，泛指赠送的物品",
+                            "examples": [
+                                {
+                                    "m": "Con muốn tặng bố một món quà.",
+                                    "p_vn": "con muon tang bo mot mon qua.",
+                                    "_id": "55db399305625a14707d64b9189fe1d7",
+                                    "id": 101102,
+                                    "type": "e_cnvi",
+                                    "e": "我要给爸爸送一份礼物。",
+                                    "p_cn": "wo yao gei baba song yi fen liwu.",
+                                    "p": "wǒ yào gěi bàba sòng yī fèn lǐwù."
+                                },
+                                {
+                                    "m": "Em là món quà tuyệt vời nhất của anh.",
+                                    "p_vn": "em la mon qua tuyet voi nhat cua anh.",
+                                    "_id": "55db399305625a14707d64b918a031ea",
+                                    "id": 101109,
+                                    "type": "e_cnvi",
+                                    "e": "你是我最好的礼物。",
+                                    "p_cn": "ni shi wo zui hao de liwu.",
+                                    "p": "nǐ shì wǒ zuì hǎo de lǐwù."
+                                },
+                                {
+                                    "m": "Tôi thích món quà này.",
+                                    "p_vn": "toi thich mon qua nay.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c072dda",
+                                    "id": 132362,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢这个礼物。",
+                                    "p_cn": "wo xihuan zhege liwu.",
+                                    "p": "wǒ xǐhuān zhège lǐwù."
+                                },
+                                {
+                                    "m": "Món quà này là dành cho cậu.",
+                                    "p_vn": "mon qua nay la danh cho cau.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c073d83",
+                                    "id": 132363,
+                                    "type": "e_cnvi",
+                                    "e": "这份礼物是给你的。",
+                                    "p_cn": "zhe fen liwu shi gei ni de.",
+                                    "p": "zhè fèn lǐwù shì gěi nǐ de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1012,
+                "search": 12712
+            },
+            "snym": null,
+            "lv_hsk_new": "2, 3",
+            "pinyin": "lǐwù",
+            "cn_vi": "lễ vật",
+            "word": "礼物",
+            "id": 34343,
+            "phonetic": "liwu",
+            "rank": 662,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢㄌㄧˇ",
+            "_id": "162bd482442457d7ebd92131b5383462",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xem lễ; dự lễ; dự lễ (mời)",
+                            "explain": "(被邀请) 参观典礼",
+                            "examples": [
+                                {
+                                    "m": "đài xem lễ; khán đài trong buổi lễ.",
+                                    "p_vn": "dai xem le; khan dai trong buoi le",
+                                    "_id": "6913e0dd6e451afb7b56fb8385a43dc0",
+                                    "id": 15022,
+                                    "type": "e_cnvi",
+                                    "e": "观礼台",
+                                    "p_cn": "guanli tai",
+                                    "p": "guānlǐtái"
+                                },
+                                {
+                                    "m": "xem lễ quốc khánh",
+                                    "p_vn": "xem le quoc khanh",
+                                    "_id": "fdb8b3ab175ce1742f47995461e75b2e",
+                                    "id": 15023,
+                                    "type": "e_cnvi",
+                                    "e": "国庆观礼",
+                                    "p_cn": "guoqing guanli",
+                                    "p": "guóqìng guānlǐ"
+                                },
+                                {
+                                    "m": "phái đoàn dự lễ quốc khánh.",
+                                    "p_vn": "phai doan du le quoc khanh",
+                                    "_id": "b7c23dcca22fbdb8234d23a6e9bd1bda",
+                                    "id": 15024,
+                                    "type": "e_cnvi",
+                                    "e": "国庆观礼代表团。",
+                                    "p_cn": "guoqing guanli daibiao tuan",
+                                    "p": "guóqìng guānlǐ dàibiǎotuán。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 33
+            },
+            "snym": {
+                "syno": [
+                    "观摩"
+                ]
+            },
+            "cn_vi": "quan lễ",
+            "pinyin": "guānlǐ",
+            "word": "观礼",
+            "id": 20971,
+            "phonetic": "guanli",
+            "rank": 68934,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄩㄌㄧˇ",
+            "_id": "159d6c2ea156b8d264040fc2f12f162a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "giữ lễ tiết; giữ lễ; câu nệ; khách sáo",
+                            "explain": "拘泥礼节",
+                            "examples": [
+                                {
+                                    "m": "chỗ quen biết chẳng cần giữ lễ.",
+                                    "p_vn": "cho quen biet chang can giu le",
+                                    "_id": "764f7fbe788eb56975e14bb8c6d62cec",
+                                    "id": 22201,
+                                    "type": "e_cnvi",
+                                    "e": "熟不拘礼。",
+                                    "p_cn": "shu buju li",
+                                    "p": "shúbùjūlǐ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 70
+            },
+            "snym": {
+                "syno": [
+                    "客气",
+                    "多礼"
+                ]
+            },
+            "cn_vi": "câu lễ",
+            "pinyin": "jūlǐ",
+            "word": "拘礼",
+            "id": 31031,
+            "phonetic": "juli",
+            "rank": 49727,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "57",
+            "zhuyin": "ㄌㄧˇㄐㄧㄝˊ",
+            "_id": "3b91229ffd8b7f830725e09f3dfc2d08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ tiết; lễ độ; lễ phép, phép xã giao, lịch sự; lễ",
+                            "explain": "表示尊敬、祝颂、哀悼之类的各种惯用形式、如鞠躬、握手、献花圈、献哈达、鸣礼炮等",
+                            "examples": [
+                                {
+                                    "m": "lễ tiết rườm rà",
+                                    "p_vn": "le tiet ruom ra",
+                                    "_id": "7dce452774fb3dff6d69d55f3f5b2169",
+                                    "id": 23176,
+                                    "type": "e_cnvi",
+                                    "e": "苛礼(烦琐的礼节)。",
+                                    "p_cn": "ke li (fansuo de lijie)",
+                                    "p": "kēlǐ ( fánsuǒ de lǐjié )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lễ nghi",
+                            "explain": "社会生活中由于风俗习惯而形成的为大家共同遵守的仪式",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 109,
+                "search": 1157
+            },
+            "snym": {
+                "syno": [
+                    "礼仪",
+                    "虚套"
+                ]
+            },
+            "cn_vi": "lễ tiết",
+            "pinyin": "lǐjié",
+            "lv_hsk_new": "6",
+            "word": "礼节",
+            "id": 34331,
+            "phonetic": "lijie",
+            "rank": 8755,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄐㄧㄥ",
+            "_id": "7569dc1e1e374a31b50ffbb345bf384e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Classic of Rites (giống như 禮記 | 礼记)",
+                            "explain": "Classic of Rites (same as 禮記|礼记 [Li3 jì])",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "lễ kinh",
+            "pinyin": "lǐ jīng",
+            "word": "礼经",
+            "id": 98845,
+            "phonetic": "lijing",
+            "rank": 93710,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄡˇㄌㄧˇ",
+            "_id": "862ed81ee4c6467aafd41fa62386b90d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chín lễ nghi ngày xưa là: quan; hôn; triều; sính; tang; tế; tân chủ; hương ẩm tửu; quân lữ 冠; 婚; 朝; 聘; 喪; 祭; 賓主; 鄉飲酒; 軍旅.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "cửu lễ",
+            "pinyin": "jiǔ lǐ",
+            "word": "九礼",
+            "id": 148487,
+            "phonetic": "jiuli",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄤㄌㄧˇ",
+            "_id": "55f1135c75b83957922e5002fe6de447",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phụ lễ (giúp người chủ trì buổi lễ hoàn thành nghi thức)",
+                            "explain": "旧时举行婚丧祭祀时，协助主持者完成仪式",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người phụ lễ",
+                            "explain": "担任这种事情的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "tương lễ",
+            "pinyin": "xiāng lǐ",
+            "word": "襄礼",
+            "id": 55431,
+            "phonetic": "xiangli",
+            "rank": 158152,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄨㄟˋㄌㄧˇ",
+            "_id": "41a935343bc7eb4f5adb5e3186d6276a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chào đội ngũ",
+                            "explain": "中国少年先锋队队员行的礼，右手五指并紧，手掌向前，高举头上，表示人民利益高于一切",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "đội lễ",
+            "pinyin": "duì lǐ",
+            "word": "队礼",
+            "id": 14483,
+            "phonetic": "duili",
+            "rank": 120515,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄤㄌㄧˇ",
+            "_id": "32c9e52f56fe49b69ce4dc468d99500f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Lấy sự bình đẳng mà đối đãi nhau. \n§ Cũng viết là kháng lễ 抗禮.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "kháng lễ",
+            "pinyin": "kàng lǐ",
+            "word": "亢礼",
+            "id": 148574,
+            "phonetic": "kangli",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "29, 71",
+            "zhuyin": "ㄍㄜㄌㄧˇ",
+            "_id": "00c2d44c4054ba5018ac120d7ccb99fc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ cắt bao quy đầu (đạo Do Thái tiến hành khi trẻ mới sinh, đạo I-xlam tiến hành vào lúc trẻ ở tuổi nhi đồng)",
+                            "explain": "犹太教、伊斯兰教的一种仪式，把男性教徒的生殖器包皮割去少许犹太教在婴儿初生时举行，伊斯兰教在童年举行",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 46
+            },
+            "snym": null,
+            "cn_vi": "cát lễ",
+            "pinyin": "gēlǐ",
+            "word": "割礼",
+            "id": 19074,
+            "phonetic": "geli",
+            "rank": 59908,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄢˇㄌㄧˇ",
+            "_id": "48ecccfb2c0cba3b34d8e6c790b16e00",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sám lễ; cúng tạ lỗi; cúng sám hối",
+                            "explain": "忏悔和礼拜佛、菩萨",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "sám lễ",
+            "pinyin": "chàn lǐ",
+            "word": "忏礼",
+            "id": 6330,
+            "phonetic": "chanli",
+            "rank": 149999,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄨㄛㄌㄧˇ",
+            "_id": "dc39c87ee59adf7acdd6bb28dc3a82bc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đa lễ",
+                            "explain": "多余的礼节礼节太多",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 32
+            },
+            "snym": {
+                "syno": [
+                    "得体",
+                    "拘礼"
+                ],
+                "anto": [
+                    "失礼",
+                    "无礼"
+                ]
+            },
+            "cn_vi": "đa lễ",
+            "pinyin": "duō lǐ",
+            "word": "多礼",
+            "id": 14754,
+            "phonetic": "duoli",
+            "rank": 69974,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄣ˙ㄌㄧˇ",
+            "_id": "b3bbffb535d795cbf54a052a1ac92414",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quà tặng buổi sáng (của chồng tặng vợ vào sáng thứ hai sau ngày cưới)",
+                            "explain": "一种礼俗，新婚第二天清晨丈夫赠送给妻子的礼物",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "thần lễ",
+            "pinyin": "chén lǐ",
+            "word": "晨礼",
+            "id": 7081,
+            "phonetic": "chenli",
+            "rank": 120802,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c2e0e8d087434e63b825b9666e2bedb6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "có phép",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "nho nhã lễ độ",
+                                    "p_vn": "nho nha le do",
+                                    "_id": "202b450c1260b0f78ff9d04e8e4e44e1",
+                                    "id": 2132,
+                                    "type": "e_cnvi",
+                                    "e": "彬彬有礼",
+                                    "p_cn": "bin bin youli",
+                                    "p": "bīnbīnyǒulǐ"
+                                },
+                                {
+                                    "m": "Những người phục vụ tại khách sạn này đều lịch sự và thân thiện.",
+                                    "p_vn": "nhung nguoi phuc vu tai khach san nay deu lich su va than thien.",
+                                    "_id": "4e17f779170dcf19413913c3c9eea3a2",
+                                    "id": 53733,
+                                    "type": "e_cnvi",
+                                    "e": "这家酒店的服务员个个彬彬有礼，热情周到。",
+                                    "p_cn": "zhe jia jiudian de fuwuyuan ge ge bin bin youli, reqing zhoudao.",
+                                    "p": "Zhè jiā jiǔdiàn de fúwùyuán gè gè bīn bīn yǒulǐ, rèqíng zhōudào."
+                                },
+                                {
+                                    "m": "mặc dù anh ấy trông rất lịch sự khi chào hỏi đồng nghiệp của mình, nhưng trong lòng lại đầy ghen tị.",
+                                    "p_vn": "mac du anh ay trong rat lich su khi chao hoi dong nghiep cua minh, nhung trong long lai day ghen ti.",
+                                    "_id": "59154a2f200544139b04abff1e333f14",
+                                    "id": 72454,
+                                    "type": "e_cnvi",
+                                    "e": "他虽然表面上很有礼貌地同他同事打招呼，但心里却充满了妒忌。",
+                                    "p_cn": "ta suiran biaomian shang hen youlimao di tong ta tongshi dazhaohu dan xinli que chongman le duji",
+                                    "p": "tā suīrán biǎomiàn shàng hěn yǒulǐmào dì tóng tā tóngshì dǎzhāohu dàn xīnli què chōngmǎn le dùjì"
+                                },
+                                {
+                                    "m": "Roger là một người rất lịch sự: anh ta luôn quan tâm tận tâm và lịch thiệp.",
+                                    "p_vn": "Roger la mot nguoi rat lich su: anh ta luon quan tam tan tam va lich thiep.",
+                                    "_id": "59455fdd477e4297911027262c543ad6",
+                                    "id": 72526,
+                                    "type": "e_cnvi",
+                                    "e": "罗杰是一个极有教养的：他总是体贴入微并彬彬有礼。",
+                                    "p_cn": "Luojie shi yi ge ji you jiaoyang de ta zongshi titieruwei bing binbinyouli",
+                                    "p": "Luójié shì yī gè jí yǒu jiàoyǎng de tā zǒngshì tǐtiērùwēi bìng bīnbīnyǒulǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": {
+                "anto": [
+                    "无礼"
+                ]
+            },
+            "cn_vi": "hữu lễ",
+            "pinyin": "yǒulǐ",
+            "popularity": {
+                "notebook": 1,
+                "search": 32
+            },
+            "word": "有礼",
+            "id": 184684,
+            "phonetic": "youli",
+            "rank": 69800,
+            "kind": [
+                "v",
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄥˋㄌㄧˇ",
+            "_id": "92b83ace24314e2ba2e919cfa19d6e2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nghi thức Cơ đốc giáo (đặc biệt là Tin lành)",
+                            "explain": "Christian rite (esp. Protestant)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Tiệc thánh",
+                            "explain": "Holy sacrament",
+                            "examples": []
+                        },
+                        {
+                            "mean": "còn được người Công giáo gọi là 聖事 | 圣事",
+                            "explain": "also called 聖事|圣事 by Catholics",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "thánh lễ",
+            "pinyin": "shèng lǐ",
+            "word": "圣礼",
+            "id": 102138,
+            "phonetic": "shengli",
+            "rank": 82048,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˋㄌㄧˇ",
+            "_id": "a27008676d66ebb8b40e6b295b165e3a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chào; làm lễ (khi gặp nhau)",
+                            "explain": "见面行礼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 25
+            },
+            "snym": {
+                "syno": [
+                    "施礼",
+                    "行礼"
+                ]
+            },
+            "cn_vi": "kiến lễ",
+            "pinyin": "jiànlǐ",
+            "word": "见礼",
+            "id": 28308,
+            "phonetic": "jianli",
+            "rank": 76190,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄌㄜˋ",
+            "_id": "a06b56bb75f04aa7823bea2779c7586b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(Nho giáo) nghi thức và âm nhạc (phương tiện điều tiết xã hội)",
+                            "explain": "(Confucianism) rites and music (the means of regulating society)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 162
+            },
+            "snym": null,
+            "cn_vi": "lễ lạc",
+            "pinyin": "lǐ yuè",
+            "word": "礼乐",
+            "id": 92825,
+            "phonetic": "liyue",
+            "rank": 32033,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "71",
+            "zhuyin": "ㄕㄥㄌㄧˇ",
+            "_id": "85235b5483dd41b2a0df5dd4f0680285",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(tôn giáo) để hy sinh",
+                            "explain": "(religion) to sacrifice",
+                            "examples": []
+                        },
+                        {
+                            "mean": "động vật cúng tế",
+                            "explain": "animal offered as sacrifice",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hy sinh",
+                            "explain": "sacrifice",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "sinh lễ",
+            "pinyin": "shēng lǐ",
+            "word": "牲礼",
+            "id": 104335,
+            "phonetic": "shengli",
+            "rank": 111714,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄡㄌㄧˇ",
+            "_id": "f3f54c02ee8e4607824953c8b5beac2e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nghi lễ của nhà Chu (trong Nho giáo)",
+                            "explain": "the Rites of Zhou (in Confucianism)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 87
+            },
+            "snym": null,
+            "cn_vi": "chu lễ",
+            "pinyin": "zhōu lǐ",
+            "word": "周礼",
+            "id": 95579,
+            "phonetic": "zhouli",
+            "rank": 44616,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄌㄧˇ",
+            "_id": "d373f5b882b4499eaa5eda419945ee0d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thời xưa; lễ nghi của chư hầu mùa thu vào yết kiến thiên tử. \n◇Lễ Kí 禮記: Cận lễ; thiên tử bất hạ đường nhi kiến chư hầu; hạ đường nhi kiến chư hầu; thiên tử chi thất lễ dã 覲禮; 天子不下堂而見諸侯; 下堂而見諸侯; 天子之失禮也 (Giao đặc sinh 郊特牲). Phiếm chỉ lễ tiết bề tôi triều kiến hoàng đế.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "cận lễ",
+            "pinyin": "jìn lǐ",
+            "word": "觐礼",
+            "id": 150554,
+            "phonetic": "jinli",
+            "rank": 148450,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄅㄨˋ",
+            "_id": "b69b375c0f784eeba3a38040824e9065",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bộ Nghi lễ (Nho giáo) (ở Trung Quốc đế quốc)",
+                            "explain": "Ministry of (Confucian) Rites (in imperial China)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lễ bộ",
+                            "explain": "官署名, 清代中央政府的六部之一, 掌礼乐、祭祀、封建、宴乐文学校贡举的政令",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "lễ bộ",
+            "pinyin": "lǐbù",
+            "word": "礼部",
+            "id": 89073,
+            "phonetic": "libu",
+            "rank": 97880,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "18",
+            "zhuyin": "ㄐㄧㄥˋㄌㄧˇ",
+            "_id": "19cd7a855801c05aafc8b7c394a8c62f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "động từ li hợp",
+                            "examples": [
+                                134427,
+                                134428,
+                                134429
+                            ],
+                            "struct": "敬 + (一) 个/ 过 + 礼"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chào; cúi chào; khom mình chào",
+                            "explain": "用注目、举手、立正、鞠躬等动作表示敬意",
+                            "examples": [
+                                {
+                                    "m": "Các quân nhân chào cờ.",
+                                    "p_vn": "cac quan nhan chao co.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6d66fd",
+                                    "id": 134402,
+                                    "type": "e_cnvi",
+                                    "e": "军人们向国旗敬礼。",
+                                    "p_cn": "junrenmen xiang guoqi jingli.",
+                                    "p": "jūnrénmen xiàng guóqí jìnglǐ."
+                                },
+                                {
+                                    "m": "Các học sinh chào giáo viên.",
+                                    "p_vn": "cac hoc sinh chao giao vien.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6d686b",
+                                    "id": 134403,
+                                    "type": "e_cnvi",
+                                    "e": "学生们向老师敬礼。",
+                                    "p_cn": "xueshengmen xiang laoshi jingli.",
+                                    "p": "xuéshēngmen xiàng lǎoshī jìnglǐ."
+                                },
+                                {
+                                    "m": "Các em nhỏ cúi chào người lớn tuổi.",
+                                    "p_vn": "cac em nho cui chao nguoi lon tuoi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6d6949",
+                                    "id": 134404,
+                                    "type": "e_cnvi",
+                                    "e": "小朋友们向长辈敬礼。",
+                                    "p_cn": "xiaopengyoumen xiang zhangbei jingli.",
+                                    "p": "xiǎopéngyǒumen xiàng zhǎngbèi jìnglǐ."
+                                },
+                                {
+                                    "m": "Diễn viên cúi chào khán giả.",
+                                    "p_vn": "dien vien cui chao khan gia.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6d733f",
+                                    "id": 134405,
+                                    "type": "e_cnvi",
+                                    "e": "演员向观众敬礼。",
+                                    "p_cn": "yanyuan xiang guanzhong jingli.",
+                                    "p": "yǎnyuán xiàng guānzhòng jìnglǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kính chào; kính thư (cuối thư)",
+                            "explain": "敬词，用于书信的末尾",
+                            "examples": [
+                                {
+                                    "m": "Kính chào, ông Vương.",
+                                    "p_vn": "kinh chao, ong vuong.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6da175",
+                                    "id": 134409,
+                                    "type": "e_cnvi",
+                                    "e": "此致敬礼，王先生。",
+                                    "p_cn": "cizhi jingli, wang xiansheng.",
+                                    "p": "cǐzhì jìnglǐ, wáng xiānshēng."
+                                },
+                                {
+                                    "m": "Kính chào, giám đốc Lý.",
+                                    "p_vn": "kinh chao, giam doc ly.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6dabe6",
+                                    "id": 134410,
+                                    "type": "e_cnvi",
+                                    "e": "此致敬礼，李经理。",
+                                    "p_cn": "cizhi jingli, li jingli.",
+                                    "p": "cǐzhì jìnglǐ, lǐ jīnglǐ."
+                                },
+                                {
+                                    "m": "Kính chào, bác sĩ Trần.",
+                                    "p_vn": "kinh chao, bac si tran.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6db340",
+                                    "id": 134411,
+                                    "type": "e_cnvi",
+                                    "e": "敬礼，陈医生。",
+                                    "p_cn": "jingli, chen yisheng.",
+                                    "p": "jìnglǐ, chén yīshēng."
+                                },
+                                {
+                                    "m": "Kính chào, chủ nhiệm Lưu.",
+                                    "p_vn": "kinh chao, chu nhiem luu.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6db392",
+                                    "id": 134412,
+                                    "type": "e_cnvi",
+                                    "e": "敬礼，刘主任。",
+                                    "p_cn": "jingli, liu zhuren.",
+                                    "p": "jìnglǐ, liú zhǔrèn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 112,
+                "search": 1870
+            },
+            "snym": {
+                "syno": [
+                    "致敬",
+                    "行礼",
+                    "施礼"
+                ],
+                "anto": [
+                    "还礼"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jìnglǐ",
+            "cn_vi": "kính lễ",
+            "word": "敬礼",
+            "id": 30719,
+            "phonetic": "jingli",
+            "rank": 5910,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c6d768dff0c1447bb235bdb97739f25a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia lễ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "gia lễ",
+            "pinyin": "jiā lǐ",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "家礼",
+            "id": 177764,
+            "phonetic": "jiali",
+            "rank": 148345,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˊㄌㄧˇ",
+            "_id": "fc10a1c9f072c61065e6c45c6ab2377d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quà tặng trong ngày lễ",
+                            "explain": "节日赠送的礼品、银钱等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "tiết lễ",
+            "pinyin": "jiélǐ",
+            "word": "节礼",
+            "id": 29521,
+            "phonetic": "jieli",
+            "rank": 107514,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄉㄢ",
+            "_id": "bf53e0ade13d2d8c0115f58ac0e2730c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh mục quà tặng; danh mục quà biếu",
+                            "explain": "送礼时开列礼物名称和数目的单子也叫礼帖",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 23
+            },
+            "snym": {
+                "syno": [
+                    "聘礼",
+                    "礼物",
+                    "彩礼"
+                ]
+            },
+            "cn_vi": "lễ đơn",
+            "pinyin": "lǐdān",
+            "word": "礼单",
+            "id": 34324,
+            "phonetic": "lidan",
+            "rank": 78548,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄝˋㄌㄧˇ",
+            "_id": "efbe38596f654f5280ae6e4cdb2e1637",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "món quà như lời cảm ơn",
+                            "explain": "gift as thanks",
+                            "examples": []
+                        },
+                        {
+                            "mean": "danh dự",
+                            "explain": "honorarium",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tạ lễ",
+                            "explain": "回礼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "tạ lễ",
+            "pinyin": "xiè lǐ",
+            "word": "谢礼",
+            "id": 93608,
+            "phonetic": "xieli",
+            "rank": 62589,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "42, 71",
+            "zhuyin": "ㄙㄤˋㄌㄧˇ",
+            "_id": "e6bf42e1087c3fe2d37143376ede6450",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tang lễ; lễ tang; hung lễ; tang chế",
+                            "explain": "有关丧事的礼节",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 332
+            },
+            "snym": {
+                "anto": [
+                    "婚典",
+                    "婚礼"
+                ]
+            },
+            "cn_vi": "tang lễ",
+            "pinyin": "sānglǐ",
+            "word": "丧礼",
+            "id": 45172,
+            "phonetic": "sangli",
+            "rank": 20721,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄥˊㄌㄧˇ",
+            "topic": "72",
+            "_id": "f8ea7b3451bed811338180e3a763e558",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thi lễ; chào",
+                            "explain": "致敬礼，如鞠躬、举手等",
+                            "examples": [
+                                {
+                                    "m": "các em nhỏ chào thầy giáo.",
+                                    "p_vn": "cac em nho chao thay giao.",
+                                    "_id": "17beb10436a4efb945ca4b566037d04c",
+                                    "id": 13670,
+                                    "type": "e_cnvi",
+                                    "e": "小朋友给老师行礼。",
+                                    "p_cn": "xiǎopengyǒu gěi lǎoshī xinglǐ。",
+                                    "p": "xiǎopéngyǒu gěi lǎoshī xínglǐ。"
+                                },
+                                {
+                                    "m": "chào theo nghi thức",
+                                    "p_vn": "chao theo nghi thuc",
+                                    "_id": "3ca615e92feb7347d93d31c6b6dc33a6",
+                                    "id": 45083,
+                                    "type": "e_cnvi",
+                                    "e": "行礼如仪",
+                                    "p_cn": "xingli ruyi",
+                                    "p": "xínglǐ rúyí"
+                                },
+                                {
+                                    "m": "Anh ta cầm hành lý, xuất phát rồi",
+                                    "p_vn": "Anh ta cam hanh ly, xuat phat roi",
+                                    "_id": "d115d957540e436ca295f440d378213b",
+                                    "id": 55516,
+                                    "type": "e_cnvi",
+                                    "e": "他们拿好行礼，出发了",
+                                    "p_cn": "Tamen na hao xingli, chufale",
+                                    "p": "Tāmen ná hǎo xínglǐ, chūfāle"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đưa lễ vật; tặng quà",
+                            "explain": "送礼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 275
+            },
+            "snym": {
+                "syno": [
+                    "施礼",
+                    "见礼",
+                    "敬礼"
+                ],
+                "anto": [
+                    "还礼"
+                ]
+            },
+            "cn_vi": "hành lễ",
+            "pinyin": "xínglǐ",
+            "word": "行礼",
+            "id": 56718,
+            "phonetic": "xingli",
+            "rank": 23419,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄡˋㄌㄧˇ",
+            "_id": "f9d2f2b7451dea9af8a6c7bd5209ade2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ hậu; lễ trọng",
+                            "explain": "丰厚的礼物",
+                            "examples": [
+                                {
+                                    "m": "tặng lễ hậu; tặng quà đáng giá.",
+                                    "p_vn": "tang le hau; tang qua dang gia",
+                                    "_id": "0c7d464e1d05604501575743d03c0592",
+                                    "id": 17355,
+                                    "type": "e_cnvi",
+                                    "e": "赠以厚礼",
+                                    "p_cn": "zeng yi houli",
+                                    "p": "zèngyǐ hòulǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 66
+            },
+            "snym": {
+                "anto": [
+                    "菲仪",
+                    "薄礼"
+                ]
+            },
+            "cn_vi": "hậu lễ",
+            "pinyin": "hòulǐ",
+            "word": "厚礼",
+            "id": 23941,
+            "phonetic": "houli",
+            "rank": 50924,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄌㄧˇ",
+            "_id": "cac528381d97f26ce1967e23104ae64b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ đính hôn; lễ ăn hỏi",
+                            "explain": "彩礼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "định lễ",
+            "pinyin": "dìng lǐ",
+            "word": "定礼",
+            "id": 13398,
+            "phonetic": "dingli",
+            "rank": 63179,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "礼"
+}

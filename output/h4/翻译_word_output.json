@@ -1,0 +1,2340 @@
+{
+    "total": 266,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "gè, wèi, míng",
+                "examples": "",
+                "measure": "个, 位, 名"
+            },
+            "zhuyin": "ㄈㄢㄧˋ",
+            "topic": "67, 75",
+            "_id": "6049a310ee94df33130de4a3fff83b75",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "dịch cái gì",
+                            "examples": [
+                                73909
+                            ],
+                            "struct": "翻译 + Tân ngữ"
+                        },
+                        {
+                            "explain": "Dịch A thành B",
+                            "examples": [
+                                73910,
+                                94422
+                            ],
+                            "struct": "把 + A + 翻译 + 成 + B"
+                        },
+                        {
+                            "explain": "nhân sự/ nhà cửa/ trình độ/ chất lượng + phiên dịch",
+                            "examples": [
+                                73912
+                            ],
+                            "struct": "翻译 (+ 的) + Danh từ (人员/家/水平/质量）"
+                        },
+                        {
+                            "explain": "dịch rất tốt/ không sát/ rất chuẩn",
+                            "examples": [
+                                73914,
+                                94426
+                            ],
+                            "struct": "翻译 + 得 + 很好/不恰当/很贴切"
+                        },
+                        {
+                            "explain": "A được dịch thành B",
+                            "examples": [
+                                94423,
+                                94424
+                            ],
+                            "struct": "A + 被 + 翻译 + 成 + B"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch; phiên dịch; thông ngôn",
+                            "explain": "把一种语言文字的意义用另一种语言文字表达出来 (多指方言与民族共同语、方言与方言、古代语与现代语之间一种用另一种表达)",
+                            "examples": [
+                                {
+                                    "m": "Dịch tiểu thuyết nước ngoài",
+                                    "p_vn": "dich tieu thuyet nuoc ngoai",
+                                    "_id": "09a81627888725f19780ee397628313f",
+                                    "id": 10506,
+                                    "type": "e_cnvi",
+                                    "e": "翻译外国小说。",
+                                    "p_cn": "fanyi waiguo xiaoshuo。",
+                                    "p": "fānyì wàiguó xiǎoshuō。"
+                                },
+                                {
+                                    "m": "Dịch mật mã ra.",
+                                    "p_vn": "dich mat ma ra.",
+                                    "_id": "4e2908105268044486951cfe4336c12a",
+                                    "id": 10507,
+                                    "type": "e_cnvi",
+                                    "e": "把密码翻译出来。",
+                                    "p_cn": "ba mima fanyi chulai。",
+                                    "p": "bǎ mìmǎ fānyì chūlái。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "Làm phiên dịch viên cho ...",
+                            "examples": [
+                                13668,
+                                94601
+                            ],
+                            "struct": "给 ... 当翻译"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người dịch; phiên dịch viên",
+                            "explain": "做翻译工作的人",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy làm phiên dịch viên ba năm rồi.",
+                                    "p_vn": "anh ay lam phien dich vien ba nam roi.",
+                                    "_id": "c99ca72ace24d449f2a9c8bd1719e63f",
+                                    "id": 10508,
+                                    "type": "e_cnvi",
+                                    "e": "他当过三年翻译。",
+                                    "p_cn": "ta dangguo sannian fanyi。",
+                                    "p": "tā dāngguò sānnián fānyì。"
+                                },
+                                {
+                                    "m": "Tôi muốn trở thành một phiên dịch viên chuyên nghiệp.",
+                                    "p_vn": "toi muon tro thanh mot phien dich vien chuyen nghiep.",
+                                    "_id": "aee13672ea471817b581457d9bb8295a",
+                                    "id": 73908,
+                                    "e": "我想成为一名专业的翻译。",
+                                    "p_cn": "wo xiang chengwei yi ming zhuanye de fanyi.",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ xiǎng chéngwéi yī míng zhuānyè de fānyì."
+                                },
+                                {
+                                    "m": "Anh ấy là một phiên dịch giỏi.",
+                                    "p_vn": "anh ay la mot phien dich gioi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc968e801",
+                                    "id": 94421,
+                                    "type": "e_cnvi",
+                                    "e": "他是一个好翻译。",
+                                    "p_cn": "ta shi yige hao fanyi.",
+                                    "p": "tā shì yīgè hǎo fānyì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Ý nghĩa của \"翻译\"译\"giống nhau, vì âm tiết không giống nhau nên cách sử dụng cũng có chút không giống nhau,\"译\"còn là một ngữ tố, có khả năng kết hợp thành từ,\"翻译\" không có khả năng này.",
+                    "title": "Phân biệt \"翻译\" và \"译\"",
+                    "words": [
+                        "翻译",
+                        "译"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "直译",
+                    "意译",
+                    "沉浸",
+                    "期待"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "fānyì",
+            "cn_vi": "phiên dịch",
+            "popularity": {
+                "notebook": 1051,
+                "search": 19695
+            },
+            "word": "翻译",
+            "id": 15637,
+            "phonetic": "fanyi",
+            "rank": 289,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢㄧˋㄐㄧㄚ",
+            "_id": "fc2eca989bb3461d83a03707990f19c5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dịch giả (của các bài viết)",
+                            "explain": "translator (of writings)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 135
+            },
+            "snym": null,
+            "cn_vi": "phiên dịch gia",
+            "pinyin": "fānyì jiā",
+            "word": "翻译家",
+            "id": 115901,
+            "phonetic": "fanyijia",
+            "rank": 35437,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "75",
+            "zhuyin": "ㄈㄢㄧˋㄓㄜˇ",
+            "_id": "66d0e3324ba143988288dcb301db67f0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thông dịch viên",
+                            "explain": "interpreter",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người phiên dịch",
+                            "explain": "translator",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 460
+            },
+            "snym": null,
+            "cn_vi": "phiên dịch giả",
+            "pinyin": "fānyì zhě",
+            "word": "翻译者",
+            "id": 115902,
+            "phonetic": "fanyizhe",
+            "rank": 16827,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f7e9d666ca8b494bb1f0658de478cf85",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người phiên dịch",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phiên dịch viên",
+            "pinyin": "fānyì yuán",
+            "popularity": {
+                "notebook": 21,
+                "search": 239
+            },
+            "word": "翻译员",
+            "id": 186302,
+            "phonetic": "fanyiyuan",
+            "rank": 25480,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c1f27cc455b947f2b3e7e036dc86f424",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "dịch bài",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "văn tự phiên dịch",
+            "pinyin": "wénzì fānyì",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "文字翻译",
+            "id": 177928,
+            "phonetic": "wenzifanyi",
+            "rank": 158107,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c738527a6d5149d9886f40a11297d124",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Phiên dịch ngôn ngữ cử chỉ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "thủ ngữ phiên dịch",
+            "pinyin": "shǒuyǔ fānyì",
+            "word": "手语翻译",
+            "id": 166612,
+            "phonetic": "shouyufanyi",
+            "rank": 119576,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄒㄧㄝˋㄈㄢㄧˋ",
+            "_id": "9306e3112e824d78bc7eb7f8e1209504",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dịch máy",
+                            "explain": "machine translation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "cơ giới phiên dịch",
+            "pinyin": "jīxiè fānyì",
+            "word": "机械翻译",
+            "id": 130420,
+            "phonetic": "jixiefanyi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "26b9cbfdd27e4fadabb1b827a424d555",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ngữ dụng học",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "ứng dụng phiên dịch",
+            "pinyin": "yìngyòng fānyì",
+            "word": "应用翻译",
+            "id": 167294,
+            "phonetic": "yingyongfanyi",
+            "rank": 149106,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥˊㄕㄥㄈㄢㄧˋ",
+            "_id": "cfc546924e794962adb48006c0ed7cc0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phiên dịch",
+                            "explain": "simultaneous translation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 67
+            },
+            "snym": null,
+            "cn_vi": "đồng thanh phiên dịch",
+            "pinyin": "tóng shēng fānyì",
+            "word": "同声翻译",
+            "id": 138940,
+            "phonetic": "tongshengfanyi",
+            "rank": 50677,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄑㄧˋㄈㄢㄧˋ",
+            "_id": "bed7bc21181d0ef9db32277d33269d01",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phiên dịch bằng máy; dịch máy",
+                            "explain": "利用电子计算机一类的装置把一种语言文字译成另一种语言文字",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "cơ khí phiên dịch",
+            "pinyin": "jīqì fānyì",
+            "word": "机器翻译",
+            "id": 26397,
+            "phonetic": "jiqifanyi",
+            "rank": 57761,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ffcdf484583045c28e752c6dac7d0e04",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ngôn ngữ học",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "ngữ ngôn phiên dịch",
+            "pinyin": "yǔyán fānyì",
+            "word": "语言翻译",
+            "id": 168341,
+            "phonetic": "yuyanfanyi",
+            "rank": 131185,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢㄧˋㄍㄤˇㄨㄟˋ",
+            "_id": "ff0022f0815b10d87bdf2742d270d29b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chức vụ phiên dịch",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "trên cương vị phiên dịch, anh ta phải tự làm tốt công việc của mình.",
+                                    "p_vn": "tren cuong vi phien dich, anh ta phai tu lam tot cong viec cua minh.",
+                                    "_id": "70602936c006c63f3a32cc9ad8863bca",
+                                    "id": 54595,
+                                    "type": "e_cnvi",
+                                    "e": "在翻译岗位上，他要自己做好他的工作。",
+                                    "p_cn": "Zai fanyi gangwei shang, ta yao ziji zuo hao ta de gongzuo.",
+                                    "p": "Zài fānyì gǎngwèi shàng, tā yào zìjǐ zuò hǎo tā de gōngzuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 53
+            },
+            "snym": null,
+            "cn_vi": "phiên dịch cương vị",
+            "pinyin": "fānyì gǎngwèi",
+            "word": "翻译岗位",
+            "id": 83874,
+            "phonetic": "fanyigangwei",
+            "rank": 56233,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0750131f772242e6b3f147c65de1dd4c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chủng tộc học",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "chủng thuộc học phiên dịch",
+            "pinyin": "zhǒng shǔ xué fānyì",
+            "word": "种属学翻译",
+            "id": 168006,
+            "phonetic": "zhongshuxuefanyi",
+            "rank": 143897,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋ",
+            "_id": "f92918d7883f5d1f970282c7efb22541",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phiên dịch; dịch",
+                            "explain": "翻译",
+                            "examples": [
+                                {
+                                    "m": "Hãy dịch cuốn sách này thành tiếng Anh.",
+                                    "p_vn": "hay dich cuon sach nay thanh tieng anh.",
+                                    "_id": "55db399305625a14707d64b9180b066d",
+                                    "id": 97903,
+                                    "type": "e_cnvi",
+                                    "e": "请把这本书译成英文。",
+                                    "p_cn": "qing ba zhe ben shu yi cheng yingwen.",
+                                    "p": "qǐng bǎ zhè běn shū yì chéng yīngwén."
+                                },
+                                {
+                                    "m": "Cô ấy cố gắng dịch tiểu thuyết một cách chính xác và sinh động.",
+                                    "p_vn": "co ay co gang dich tieu thuyet mot cach chinh xac va sinh dong.",
+                                    "_id": "55db399305625a14707d64b9180b173a",
+                                    "id": 97906,
+                                    "type": "e_cnvi",
+                                    "e": "她努力把小说译得准确生动。",
+                                    "p_cn": "ta nuli ba xiaoshuo yi de zhunque shengdong.",
+                                    "p": "tā nǔlì bǎ xiǎoshuō yì dé zhǔnquè shēngdòng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giải thích; diễn giải kinh sách",
+                            "explain": "解释",
+                            "examples": [
+                                {
+                                    "m": "Thầy giáo đã giải thích chi tiết về khái niệm này.",
+                                    "p_vn": "thay giao da giai thich chi tiet ve khai niem nay.",
+                                    "_id": "55db399305625a14707d64b9180b44f4",
+                                    "id": 97914,
+                                    "type": "e_cnvi",
+                                    "e": "老师详细地译了这个概念。",
+                                    "p_cn": "laoshi xiangxi de yile zhege gainian.",
+                                    "p": "lǎoshī xiángxì de yìle zhège gàiniàn."
+                                },
+                                {
+                                    "m": "Cô ấy kiên nhẫn giải thích quy tắc này cho mọi người.",
+                                    "p_vn": "co ay kien nhan giai thich quy tac nay cho moi nguoi.",
+                                    "_id": "55db399305625a14707d64b9180b626f",
+                                    "id": 97917,
+                                    "type": "e_cnvi",
+                                    "e": "她耐心地为大家译这个规则。",
+                                    "p_cn": "ta naixin de wei dajia yi zhege guize.",
+                                    "p": "tā nàixīn de wèi dàjiā yì zhège guīzé."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Ý nghĩa của \"翻译\"译\"giống nhau, vì âm tiết không giống nhau nên cách sử dụng cũng có chút không giống nhau,\"译\"còn là một ngữ tố, có khả năng kết hợp thành từ,\"翻译\" không có khả năng này.",
+                    "title": "Phân biệt \"翻译\" và \"译\"",
+                    "words": [
+                        "翻译",
+                        "译"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "yì",
+            "cn_vi": "dịch",
+            "popularity": {
+                "notebook": 24,
+                "search": 1110
+            },
+            "word": "译",
+            "id": 59869,
+            "phonetic": "yi",
+            "rank": 9051,
+            "kind": [
+                "v"
+            ],
+            "compound": "译本 ; 译笔 ; 译名 ; 译文 ; 译意风 ; 译音 ; 译员 ; 译制 ; 译注 ; 译作"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "1da5fc5561764876864da7e888bf715c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "lược dịch",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tiết dịch",
+            "pinyin": "jié yì",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "节译",
+            "id": 180763,
+            "phonetic": "jieyi",
+            "rank": 151382,
+            "kind": [
+                "v",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄅㄧˇ",
+            "_id": "8371a877504f8ee60b9fcfd9dcf5637f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phong cách dịch",
+                            "explain": "指译文的质量或风格",
+                            "examples": [
+                                {
+                                    "m": "lời văn dịch trôi chảy",
+                                    "p_vn": "loi van dich troi chay",
+                                    "_id": "76c157447590cee5944ca8ead88b73ca",
+                                    "id": 45472,
+                                    "type": "e_cnvi",
+                                    "e": "译笔流畅",
+                                    "p_cn": "yibi liuchang",
+                                    "p": "yìbǐ líuchàng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "dịch bút",
+            "pinyin": "yìbǐ",
+            "word": "译笔",
+            "id": 59871,
+            "phonetic": "yibi",
+            "rank": 95919,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˊㄧˋ",
+            "_id": "8becb334c3d8e8cb850172fe2b2c6b36",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phiên dịch; dịch",
+                            "explain": "同'迻译'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "di dịch",
+            "pinyin": "yí yì",
+            "word": "移译",
+            "id": 59550,
+            "phonetic": "yiyi",
+            "rank": 74675,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄧˋ",
+            "_id": "3791ff9a2ca8485b9315a4d4718241f3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hình thành một từ mượn bằng cách sử dụng kết hợp các ký tự hoặc từ gợi ý nghĩa của nó (trái ngược với phiên âm 音譯 | 音译) (ví dụ: 超文本, 火車 | 火车)",
+                            "explain": "formation of a loanword using a combination of characters or words that suggests its meaning (as opposed to transliteration 音譯|音译 [yīn yì]) (e.g. 超文本 [chāo wén běn], 火車|火车 [huǒ chē])",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dịch nghĩa",
+                            "explain": "根据某种语言词语的意义译成另一种语言的词语 (区别于'音译')",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "nghĩa dịch",
+            "pinyin": "yì yì",
+            "word": "义译",
+            "id": 87891,
+            "phonetic": "yiyi",
+            "rank": 91868,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄛˋㄧˋ",
+            "_id": "caf5b86d80764b6766b0522eabaa6ed6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giải mã",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tiếng cười giả  kích hoạt các khu vực đặc biệt của não được sử dụng để giải mã thông tin cảm xúc.",
+                                    "p_vn": "tieng cuoi gia  kich hoat cac khu vuc dac biet cua nao duoc su dung de giai ma thong tin cam xuc.",
+                                    "_id": "62a3907400b5b06d113600de79a70cd7",
+                                    "id": 54305,
+                                    "type": "e_cnvi",
+                                    "e": "假笑声会激活大脑中用于破译情感信息的特区域。",
+                                    "p_cn": "jia xiao sheng hui jihuo danao zhong yong yu poyi qinggan xinxi de te quyu.",
+                                    "p": "Jiǎ xiào shēng huì jīhuó dànǎo zhōng yòng yú pòyì qínggǎn xìnxī de tè qūyù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 43,
+                "search": 304
+            },
+            "snym": {
+                "syno": [
+                    "破解",
+                    "解密",
+                    "解谜"
+                ]
+            },
+            "cn_vi": "phá dịch",
+            "pinyin": "pòyì",
+            "word": "破译",
+            "id": 83541,
+            "phonetic": "poyi",
+            "rank": 21995,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d73b8719d8b241e89de07de4046d18ed",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Mỹ học",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "mĩ học thi thể phiên dịch",
+            "pinyin": "měixué shī tǐ fānyì",
+            "word": "美学诗体翻译",
+            "id": 168143,
+            "phonetic": "meixueshitifanyi",
+            "rank": 131217,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2696db8639bf4e06beae340bdf9f9b60",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "bội nhị",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phiên nhất phiên",
+            "pinyin": "fān yī fān",
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "word": "翻一翻",
+            "id": 173520,
+            "phonetic": "fanyifan",
+            "rank": 86866,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢ",
+            "_id": "d5cd7b8177522bb1a6a936677d402b8d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "lật lại",
+                            "examples": [
+                                109324,
+                                109325
+                            ],
+                            "struct": "翻 + 到/ 倒/ 入/ 进/ 出/ 一下/ 过来"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lật; đổ; trở mình; giở; đảo",
+                            "explain": "上下或内外交换位置;歪倒;反转",
+                            "examples": [
+                                {
+                                    "m": "Ly nước đột nhiên đổ xuống đất.",
+                                    "p_vn": "ly nuoc dot nhien do xuong dat.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07b934",
+                                    "id": 109310,
+                                    "type": "e_cnvi",
+                                    "e": "杯子突然翻倒在地。",
+                                    "p_cn": "beizi turan fan dao zai di.",
+                                    "p": "bēizi tūrán fān dǎo zài dì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lục lọi; lục; đảo lộn",
+                            "explain": "为了寻找而移动上下物体的位置",
+                            "examples": [
+                                {
+                                    "m": "Tôi lục túi tìm chiếc bút máy đó.",
+                                    "p_vn": "toi luc tui tim chiec but may do.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07c1d9",
+                                    "id": 109312,
+                                    "type": "e_cnvi",
+                                    "e": "我翻包寻那支钢笔。",
+                                    "p_cn": "wo fan bao xun na zhi gangbi.",
+                                    "p": "wǒ fān bāo xún nà zhī gāngbǐ."
+                                },
+                                {
+                                    "m": "Cô ấy lục lọi trong hộp nhưng không tìm thấy gì.",
+                                    "p_vn": "co ay luc loi trong hop nhung khong tim thay gi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07c529",
+                                    "id": 109313,
+                                    "type": "e_cnvi",
+                                    "e": "她翻箱未找到东西。",
+                                    "p_cn": "ta fan xiang wei zhaodao dongxi.",
+                                    "p": "tā fān xiāng wèi zhǎodào dōngxi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lật đổ; phản; lật bỏ (cái cũ)",
+                            "explain": "推翻原来的",
+                            "examples": [
+                                {
+                                    "m": "Họ lật đổ chế độ cũ.",
+                                    "p_vn": "ho lat do che do cu.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07c818",
+                                    "id": 109314,
+                                    "type": "e_cnvi",
+                                    "e": "他们翻了旧有制度。",
+                                    "p_cn": "tamen fanle jiu you zhidu.",
+                                    "p": "tāmen fānle jiù yǒu zhìdù."
+                                },
+                                {
+                                    "m": "Cuối cùng đã lật bỏ quyết định sai lầm.",
+                                    "p_vn": "cuoi cung da lat bo quyet dinh sai lam.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07d633",
+                                    "id": 109315,
+                                    "type": "e_cnvi",
+                                    "e": "终于翻了错误决定。",
+                                    "p_cn": "zhongyu fanle cuowu jueding.",
+                                    "p": "zhōngyú fānle cuòwù juédìng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vượt qua; leo qua; trèo qua",
+                            "explain": "爬过; 越过",
+                            "examples": [
+                                {
+                                    "m": "Chiến sĩ vượt qua hào rãnh, xông lên.",
+                                    "p_vn": "chien si vuot qua hao ranh, xong len.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07e037",
+                                    "id": 109316,
+                                    "type": "e_cnvi",
+                                    "e": "战士翻沟过坎冲锋。",
+                                    "p_cn": "zhanshi fan gouguo kan chongfeng.",
+                                    "p": "zhànshì fān gōuguò kǎn chōngfēng."
+                                },
+                                {
+                                    "m": "Mọi người trèo tường để thoát hiểm.",
+                                    "p_vn": "moi nguoi treo tuong de thoat hiem.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07efc6",
+                                    "id": 109317,
+                                    "type": "e_cnvi",
+                                    "e": "众人翻墙而过脱险。",
+                                    "p_cn": "zhongren fan qiang erguo tuoxian.",
+                                    "p": "zhòngrén fān qiáng érguò tuōxiǎn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tăng gấp đôi; tăng gấp bội (số lượng)",
+                            "explain": "(数量) 成倍地增加",
+                            "examples": [
+                                {
+                                    "m": "Sản lượng năm nay tăng gấp đôi.",
+                                    "p_vn": "san luong nam nay tang gap doi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07f2fd",
+                                    "id": 109318,
+                                    "type": "e_cnvi",
+                                    "e": "产量今年翻了一番。",
+                                    "p_cn": "chanliang jinnian fanle yi fan.",
+                                    "p": "chǎnliàng jīnnián fānle yī fān."
+                                },
+                                {
+                                    "m": "Thu nhập chớp mắt đã tăng gấp nhiều lần.",
+                                    "p_vn": "thu nhap chop mat da tang gap nhieu lan.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07feff",
+                                    "id": 109319,
+                                    "type": "e_cnvi",
+                                    "e": "收益瞬间翻了数倍。",
+                                    "p_cn": "shouyi shunjian fanle shu bei.",
+                                    "p": "shōuyì shùnjiān fānle shù bèi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dịch; phiên dịch",
+                            "explain": "翻译",
+                            "examples": [
+                                {
+                                    "m": "Dịch tiếng Đức sang tiếng Trung.",
+                                    "p_vn": "dich tieng duc sang tieng trung.",
+                                    "_id": "d94dad1b6a73f95619cb09716807aff0",
+                                    "id": 10452,
+                                    "type": "e_cnvi",
+                                    "e": "把德文翻成中文。",
+                                    "p_cn": "ba dewen fan cheng zhongwen.",
+                                    "p": "bǎ déwén fān chéng zhōngwén."
+                                },
+                                {
+                                    "m": "Anh ấy rất giỏi phiên dịch tiếng nước ngoài.",
+                                    "p_vn": "anh ay rat gioi phien dich tieng nuoc ngoai.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c080335",
+                                    "id": 109320,
+                                    "type": "e_cnvi",
+                                    "e": "他擅长外文翻译。",
+                                    "p_cn": "ta shanchang waiwen fanyi.",
+                                    "p": "tā shàncháng wàiwén fānyì."
+                                },
+                                {
+                                    "m": "Tài liệu này cần được dịch.",
+                                    "p_vn": "tai lieu nay can duoc dich.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c080978",
+                                    "id": 109321,
+                                    "type": "e_cnvi",
+                                    "e": "这份资料需要翻译。",
+                                    "p_cn": "zhe fen ziliao xuyao fanyi.",
+                                    "p": "zhè fèn zīliào xūyào fānyì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trở mặt; giở giọng",
+                            "explain": "(翻儿) 翻脸",
+                            "examples": [
+                                {
+                                    "m": "Người này nói trở mặt là trở ngay.",
+                                    "p_vn": "nguoi nay noi tro mat la tro ngay.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c081511",
+                                    "id": 109322,
+                                    "type": "e_cnvi",
+                                    "e": "这人说翻立刻翻。",
+                                    "p_cn": "zhe ren shuo fan like fan.",
+                                    "p": "zhè rén shuō fān lìkè fān."
+                                },
+                                {
+                                    "m": "Anh ta đột nhiên trở mặt.",
+                                    "p_vn": "anh ta dot nhien tro mat.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c081c6c",
+                                    "id": 109323,
+                                    "type": "e_cnvi",
+                                    "e": "他突然就翻了脸。",
+                                    "p_cn": "ta turan jiu fanle lian.",
+                                    "p": "tā tūrán jiù fānle liǎn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 302,
+                "search": 9154
+            },
+            "snym": null,
+            "lv_hsk_new": "4, 5",
+            "pinyin": "fān",
+            "cn_vi": "phiên",
+            "word": "翻",
+            "id": 15571,
+            "phonetic": "fan",
+            "rank": 1129,
+            "lv_tocfl": 3,
+            "compound": "翻案 ; 翻把 ; 翻白眼 ; 翻版 ; 翻本 ; 翻茬 ; 翻场 ; 翻车 ; 翻船 ; 翻动 ; 翻斗 ; 翻番 ; 翻覆 ; 翻改 ; 翻盖 ; 翻跟头 ; 翻个儿 ; 翻工 ; 翻供 ; 翻滚 ; 翻黄 ; 翻悔 ; 翻检 ; 翻建 ; 翻江倒海 ; 翻浆 ; 翻卷 ; 翻刻 ; 翻来覆去 ; 翻脸 ; 翻领 ; 翻录 ; 翻毛 ; 翻弄 ; 翻拍 ; 翻皮 ; 翻然 ; 翻砂 ; 翻晒 ; 翻身 ; 翻腾 ; 翻天 ; 翻天覆地 ; 翻胃 ; 翻箱倒柜 ; 翻新 ; 翻修 ; 翻译 ; 翻印 ; 翻涌 ; 翻阅 ; 翻越 ; 翻云覆雨 ; 翻造"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄧㄣ",
+            "_id": "3a970723f277842c353110212658a0f8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch âm",
+                            "explain": "把一种语言的语词用另一种语言中跟它发音相同或近似的语音表示出来",
+                            "examples": []
+                        },
+                        {
+                            "mean": "âm được dịch",
+                            "explain": "按译音法译成的音",
+                            "examples": []
+                        },
+                        {
+                            "mean": "diễn âm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 128
+            },
+            "snym": null,
+            "cn_vi": "dịch âm",
+            "pinyin": "yìyīn",
+            "word": "译音",
+            "id": 59875,
+            "phonetic": "yiyin",
+            "rank": 36419,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄓˋ",
+            "_id": "41f2cf37095d231a7767fd7a1ca6f898",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch và chế tác cho phim",
+                            "explain": "翻译制作 (电影片、电视片等)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "dịch chế",
+            "pinyin": "yìzhì",
+            "word": "译制",
+            "id": 59877,
+            "phonetic": "yizhi",
+            "rank": 65015,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄅㄣˇ",
+            "_id": "779ee31f177cdee1709031a0941ea5bd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bản dịch; sách dịch; dịch bản",
+                            "explain": "翻译成另一种文字的本子",
+                            "examples": [
+                                {
+                                    "m": "tác phẩm nổi tiếng này đã có hai bản dịch ngoại văn.",
+                                    "p_vn": "tac pham noi tieng nay da co hai ban dich ngoai van",
+                                    "_id": "31782d181292b21aefe129fe5fc56411",
+                                    "id": 45471,
+                                    "type": "e_cnvi",
+                                    "e": "这部著作已有两种外文译本。",
+                                    "p_cn": "zhe bu zhuzuo yi you liang zhong waiwen yiben",
+                                    "p": "zhèbù zhùzuò yǐyǒu liǎngzhǒng wàiwén yìběn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 63
+            },
+            "snym": null,
+            "cn_vi": "dịch bản",
+            "pinyin": "yìběn",
+            "word": "译本",
+            "id": 59870,
+            "phonetic": "yiben",
+            "rank": 52028,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓˊㄧˋ",
+            "_id": "75d4dd422b704556ee305079c70b1304",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch thẳng",
+                            "explain": "指偏重于照顾原文字句的翻译 (区别于'意译')",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 198
+            },
+            "snym": {
+                "syno": [
+                    "翻译"
+                ],
+                "anto": [
+                    "意译"
+                ]
+            },
+            "cn_vi": "trực dịch",
+            "pinyin": "zhíyì",
+            "word": "直译",
+            "id": 64566,
+            "phonetic": "zhiyi",
+            "rank": 28525,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄘˊ",
+            "_id": "9f83e4af82a644f6bcdc97cefa41c498",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "từ được dịch (chẳng hạn như công ty 公司 hoặc xe buýt 巴士 hoặc câu lạc bộ 俱樂部 | 俱乐部)",
+                            "explain": "translated word (such as company 公司 or bus 巴士 or club 俱樂部|俱乐部)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "dịch từ",
+            "pinyin": "yì cí",
+            "word": "译词",
+            "id": 89358,
+            "phonetic": "yici",
+            "rank": 94327,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄥˊㄧˋ",
+            "_id": "f8d4315d405e40d2a3ad251b0f967d40",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bắt nguồn từ một từ mượn tiếng Trung từ tiếng Nhật bằng cách sử dụng các ký tự giống nhau (hoặc các biến thể) nhưng áp dụng cách phát âm tiếng Trung (ví dụ: 場合 | 场合, bắt nguồn từ tiếng Nhật 場合, phát âm là \"ba'ai\")",
+                            "explain": "derivation of a Chinese loanword from Japanese by using the same characters (or variants) but applying Chinese pronunciation (e.g. 場合|场合 [chǎng hé], derived from Japanese 場合, pronounced\"ba'ai\")",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hình dịch",
+            "pinyin": "xíng yì",
+            "word": "形译",
+            "id": 96541,
+            "phonetic": "xingyi",
+            "rank": 108096,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣㄧˋ",
+            "_id": "7c5cb2475f50d5f62f3c437d53bfc2a1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dịch ra văn hiện đại; dịch theo văn phong thời nay",
+                            "explain": "古代文献的现代语译文",
+                            "examples": [
+                                {
+                                    "m": "cổ văn dịch ra văn hiện đại.",
+                                    "p_vn": "co van dich ra van hien dai",
+                                    "_id": "b91877f93b602443c0e0fba47443680b",
+                                    "id": 21379,
+                                    "type": "e_cnvi",
+                                    "e": "古籍今译。",
+                                    "p_cn": "guji jinyi",
+                                    "p": "gǔjí jīnyì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "kim dịch",
+            "pinyin": "jīnyì",
+            "word": "今译",
+            "id": 29986,
+            "phonetic": "jinyi",
+            "rank": 128021,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄗˋ",
+            "_id": "d16d9f9a4c6a4354bd19c0d392429f68",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vay từ (ví dụ: từ tiếng Anh)",
+                            "explain": "loan from (e.g. English word)",
+                            "examples": [
+                                {
+                                    "m": "1, “Hạch cứng” là từ thịnh hành trên mạng internet, bắt nguồn từ nghĩa dịch “hardcore” trong tiếng Anh, vốn chỉ phong cách nhạc roc mang giai điệu và sức bộc phát mạnh mẽ. Về sau nghĩa bóng của từ này được mở rộng ra dùng để chỉ “những sự vật mà hạt tâm hướng về người thưởng thức nhưng lại có độ khó và yêu cầu nhất định khi thưởng thức”, thí dụ như “Trò chơi hạch cứng” (hardcore game), tức là những trò chơi mang độ khó cao. Những năm gần đây, hàm nghĩa của từ “Hạch cứng” lại được mở rộng hơn nữa, người ta thường dùng từ “Hạch cứng” để hình dung những gì đó “rất ghê gớm”, “rất mạnh mẽ”, “rất cứng cáp” thí dụ như “Quy định hạch cứng”, “Người mẹ hạch cứng”, “người sành điệu hạch cứng”, “Cuộc đời hạch cứng” v. v... Đầu năm 2019, bộ phim “Lưu Lạc Địa Cầu” đã làm dấy lên cuộc thảo luận sôi nổi về “Khoa học viễn tưởng hạch cứng” và tần suất sử dụng của từ “hạch cứng” lại càng lên cao. \n2, em gái khó tính",
+                                    "p_vn": "1, \"hach cung\" la tu thinh hanh tren mang internet, bat nguon tu nghia dich \"hardcore\" trong tieng anh, von chi phong cach nhac roc mang giai dieu va suc boc phat manh me. ve sau nghia bong cua tu nay duoc mo rong ra dung de chi \"nhung su vat ma hat tam huong ve nguoi thuong thuc nhung lai co do kho va yeu cau nhat dinh khi thuong thuc\", thi du nhu \"tro choi hach cung\" (hardcore game), tuc la nhung tro choi mang do kho cao. nhung nam gan day, ham nghia cua tu \"hach cung\" lai duoc mo rong hon nua, nguoi ta thuong dung tu \"hach cung\" de hinh dung nhung gi do \"rat ghe gom\", \"rat manh me\", \"rat cung cap\" thi du nhu \"quy dinh hach cung\", \"nguoi me hach cung\", \"nguoi sanh dieu hach cung\", \"cuoc doi hach cung\" v. v... dau nam 2019, bo phim \"luu lac dia cau\" da lam day len cuoc thao luan soi noi ve \"khoa hoc vien tuong hach cung\" va tan suat su dung cua tu \"hach cung\" lai cang len cao. \n2, em gai kho tinh",
+                                    "_id": "dad2dd8a6b6b451783a6e22dca7e5a23",
+                                    "id": 55389,
+                                    "type": "e_cnvi",
+                                    "e": "1, 硬核，网络流行词，译自英语“hardcore”，原指一种力量感强、节奏激烈的说唱音乐风格。后来引申指“面向核心受众，有一定难度和欣赏门槛的事物”，如“硬核游戏”（hardcore game），即玩起来非常有难度的游戏。近年来，“硬核”的含义进一步引申，人们常用“硬核”形容“很厉害”“很彪悍”“很刚硬”，如“硬核规定”“硬核妈妈”“硬核玩家”“硬核人生”等。2019年初，电影《流浪地球》的热映引发了一场对“硬核科幻”的讨论，“硬核”的热度进一步增高。\n2, 硬核小妹",
+                                    "p_cn": "1, ying he, wangluo liuxing ci, yi zi yingyu \"hardcore\", yuan zhi yi zhong liliang gan qiang, jiezou jilie de shuochang yinyue fengge. houlai yinshen zhi \"mianxiang hexin shouzhong, you yiding nandu he xinshang menkan de shiwu\", ru \"ying he youxi\"(hardcore game), ji wan qilai feichang you nandu de youxi. jinnian lai, \"ying he\" de hanyi jinyibu yinshen, renmen changyong \"ying he\" xingrong \"hen lihai\"\"hen biao han\"\"hen gang ying\", ru \"ying he guiding\"\"ying he mama\"\"ying he wanjia\"\"ying he rensheng\" deng. 2019 nianchu, dianying \"liulang diqiu\" de re ying yinfale yi chang dui \"ying he kehuan\" de taolun, \"ying he\" de redu jinyibu zenggao. \n2, ying he xiao mei",
+                                    "p": "1, Yìng hé, wǎngluò liúxíng cí, yì zì yīngyǔ “hardcore”, yuán zhǐ yī zhǒng lìliàng gǎn qiáng, jiézòu jīliè de shuōchàng yīnyuè fēnggé. Hòulái yǐnshēn zhǐ “miànxiàng héxīn shòuzhòng, yǒu yídìng nándù hé xīnshǎng ménkǎn de shìwù”, rú “yìng hé yóuxì”(hardcore game), jí wán qǐlái fēicháng yǒu nándù de yóuxì. Jìnnián lái, “yìng hé” de hányì jìnyībù yǐnshēn, rénmen chángyòng “yìng hé” xíngróng “hěn lìhài”“hěn biāo hàn”“hěn gāng yìng”, rú “yìng hé guīdìng”“yìng hé māma”“yìng hé wánjiā”“yìng hé rénshēng” děng. 2019 Niánchū, diànyǐng “liúlàng dìqiú” de rè yìng yǐnfāle yī chǎng duì “yìng hé kēhuàn” de tǎolùn, “yìng hé” de rèdù jìnyībù zēnggāo. \n2, Yìng hé xiǎo mèi"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bản dịch từ",
+                            "explain": "translation from",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "dịch tự",
+            "pinyin": "yì zì",
+            "word": "译自",
+            "id": 89357,
+            "phonetic": "yizi",
+            "rank": 118013,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧˇㄧˋ",
+            "_id": "1dcab9bdd1a9188f522d868d48f6972a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch viết",
+                            "explain": "用文字翻译",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dịch bài",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 273
+            },
+            "snym": {
+                "anto": [
+                    "口译"
+                ]
+            },
+            "cn_vi": "bút dịch",
+            "pinyin": "bǐyì",
+            "word": "笔译",
+            "id": 2907,
+            "phonetic": "biyi",
+            "rank": 23537,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄗㄨㄛˋ",
+            "_id": "135632a584e9170283c2d655548e1096",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tác phẩm dịch",
+                            "explain": "翻译的作品",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "dịch tá",
+            "pinyin": "yìzuò",
+            "word": "译作",
+            "id": 59879,
+            "phonetic": "yizuo",
+            "rank": 67212,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄧˋ",
+            "_id": "a3c1f6e89a5b12acc1bd0c772c67af0a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dịch ý; phỏng dịch",
+                            "explain": "根据原文的大意来翻译，不作逐字逐句的翻译 (区别于'直译')",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dịch nghĩa",
+                            "explain": "根据某种语言词语的意义译成另一种语言的词语 (区别于'音译')",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 249
+            },
+            "snym": {
+                "syno": [
+                    "翻译"
+                ],
+                "anto": [
+                    "直译",
+                    "音译"
+                ]
+            },
+            "cn_vi": "ý dịch",
+            "pinyin": "yìyì",
+            "word": "意译",
+            "id": 59960,
+            "phonetic": "yiyi",
+            "rank": 24864,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "198347ab84434de9b07b725cd6d7142c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dịch",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "di dịch",
+            "pinyin": "yí yì",
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "word": "迻译",
+            "id": 176500,
+            "phonetic": "yiyi",
+            "rank": 115617,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": {
+                "pinyin": "fen",
+                "examples": "Gcc是一份编译器而python是一份解释器。",
+                "measure": "份"
+            },
+            "zhuyin": "ㄅㄧㄢㄧˋ",
+            "_id": "59e9aaf3f7791e5169730bce7edd51c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "动",
+                    "means": [
+                        {
+                            "mean": "biên dịch; biên tập và phiên dịch",
+                            "explain": "编辑和翻译",
+                            "examples": [
+                                {
+                                    "m": "công tác biên dịch",
+                                    "p_vn": "cong tac bien dich",
+                                    "_id": "c1623e0098954901ac5a23008592568c",
+                                    "id": 1773,
+                                    "type": "e_cnvi",
+                                    "e": "编译工作。",
+                                    "p_cn": "bianyi gongzuo",
+                                    "p": "biānyì gōngzuò。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "名",
+                    "means": [
+                        {
+                            "mean": "người biên dịch",
+                            "explain": "作编译工作的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 541
+            },
+            "snym": {
+                "syno": [
+                    "编辑"
+                ]
+            },
+            "cn_vi": "biên dịch",
+            "pinyin": "biānyì",
+            "word": "编译",
+            "id": 3277,
+            "phonetic": "bianyi",
+            "rank": 15094,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a096e521f1d343eea6982a3f0eeeba39",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch phỏng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phỏng dịch",
+            "pinyin": "fǎng yì",
+            "popularity": {
+                "notebook": 0,
+                "search": 26
+            },
+            "word": "仿译",
+            "id": 180187,
+            "phonetic": "fangyi",
+            "rank": 75722,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄡˇㄧˋ",
+            "_id": "23116e8c5fe4529b82f5bea37b4e3fb6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dịch miệng; phiên dịch",
+                            "explain": "口头翻译 (区别于'笔译')",
+                            "examples": [
+                                {
+                                    "m": "David mơ ước trở thành phiên dịch viên.",
+                                    "p_vn": "david mo uoc tro thanh phien dich vien.",
+                                    "_id": "ac7be255046819fca340054063e9d68f",
+                                    "id": 75863,
+                                    "type": "e_cnvi",
+                                    "e": "大卫梦想成为一名口译员。",
+                                    "p_cn": "da wei mengxiang chengwei yi ming kouyi yuan.",
+                                    "p": "dà wèi mèngxiǎng chéngwéi yī míng kǒuyì yuán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 26,
+                "search": 354
+            },
+            "snym": {
+                "anto": [
+                    "笔译"
+                ]
+            },
+            "cn_vi": "khẩu dịch",
+            "pinyin": "kǒuyì",
+            "word": "口译",
+            "id": 32639,
+            "phonetic": "kouyi",
+            "rank": 19918,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄓㄜˇ",
+            "_id": "48fde443e4c743ec83d2d86096a3b560",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người dịch (viết)",
+                            "explain": "translator (of writing)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dịch giả",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 78
+            },
+            "snym": null,
+            "cn_vi": "dịch giả",
+            "pinyin": "yì zhě",
+            "word": "译者",
+            "id": 93552,
+            "phonetic": "yizhe",
+            "rank": 47077,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄥㄧˋ",
+            "_id": "c686bedb0a0a45c79c4193dcbfa4e503",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bản dịch tiếng anh",
+                            "explain": "English translation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 60
+            },
+            "snym": null,
+            "cn_vi": "anh dịch",
+            "pinyin": "yīng yì",
+            "word": "英译",
+            "id": 99520,
+            "phonetic": "yingyi",
+            "rank": 53404,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄢˊㄧˋ",
+            "_id": "af1b52287fbf404f8b89ea4f42355c3a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "diễn giải",
+                            "explain": "to interpret",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dịch",
+                            "explain": "to translate",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 56
+            },
+            "snym": null,
+            "cn_vi": "truyền dịch",
+            "pinyin": "chuányì",
+            "word": "传译",
+            "id": 101299,
+            "phonetic": "chuanyi",
+            "rank": 54777,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄧˋ",
+            "_id": "b1946fa15873453e8c74794c77850666",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đã dịch",
+                            "explain": "translated",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "bị dịch",
+            "pinyin": "bèi yì",
+            "word": "被译",
+            "id": 93458,
+            "phonetic": "beiyi",
+            "rank": 140638,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄩㄢˊ",
+            "_id": "dd13831e22db7495c5f1bb12e1a61083",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lồng tiếng",
+                            "explain": "翻译人员 (多指口译的)",
+                            "examples": [
+                                {
+                                    "m": "Trong tháng này, tôi sẽ làm nhiệm vụ dịch viên cho bạn.",
+                                    "p_vn": "Trong thang nay, toi se lam nhiem vu dich vien cho ban.",
+                                    "_id": "4d2bcb3c889a4ec597d73f36863cbcaf",
+                                    "id": 73216,
+                                    "type": "e_cnvi",
+                                    "e": "这个月，我将作你的译员。",
+                                    "p_cn": "zhege yue wo jiang zuo ni de yiyuan",
+                                    "p": "zhège yuè wǒ jiāng zuò nǐ de yìyuán"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 91
+            },
+            "snym": {
+                "syno": [
+                    "舌人"
+                ]
+            },
+            "cn_vi": "dịch viên",
+            "pinyin": "yìyuán",
+            "word": "译员",
+            "id": 59876,
+            "phonetic": "yiyuan",
+            "rank": 43548,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄩˇ",
+            "_id": "f9e030cbf8bc4f6397cc8ddb1483f18d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngôn ngữ đích (ngôn ngữ học)",
+                            "explain": "target language (linguistics)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 64
+            },
+            "snym": null,
+            "cn_vi": "dịch ngữ",
+            "pinyin": "yì yǔ",
+            "word": "译语",
+            "id": 89359,
+            "phonetic": "yiyu",
+            "rank": 51864,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "20e93bfba4be4dedb8df92f5e48188b1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch thuật",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "dịch thuật",
+            "pinyin": "yì shù",
+            "popularity": {
+                "notebook": 0,
+                "search": 36
+            },
+            "word": "译述",
+            "id": 176637,
+            "phonetic": "yishu",
+            "rank": 66767,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄥˋㄧˋ",
+            "_id": "730e32b0572f313a1c7f8026394f08af",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch nhiều lần",
+                            "explain": "经过好几次翻译",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dịch từ bản dịch",
+                            "explain": "从译文翻译",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dịch lại",
+                            "explain": "重新翻译",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "trọng dịch",
+            "pinyin": "chóngyì",
+            "word": "重译",
+            "id": 65349,
+            "phonetic": "chongyi",
+            "rank": 132825,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄢˇㄧˋ",
+            "_id": "a65153df5ff4d668515cc489d2b6a1c1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chuyển dịch; dịch từ tiếng khác (không dịch trực tiếp từ nguyên văn của một ngôn ngữ nào đó, mà dịch từ bản dịch của một ngôn ngữ khác.)",
+                            "explain": "不直接根据某种语言的原文翻译，而根据另一种语言的译文翻译叫做转译",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 45
+            },
+            "snym": null,
+            "cn_vi": "chuyển dịch",
+            "pinyin": "zhuǎnyì",
+            "word": "转译",
+            "id": 66084,
+            "phonetic": "zhuanyi",
+            "rank": 60458,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄇㄧㄥˊ",
+            "_id": "4041ac990bc08acf0375bcff08b0b665",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên dịch",
+                            "explain": "翻译出来的名称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "dịch danh",
+            "pinyin": "yìmíng",
+            "word": "译名",
+            "id": 59872,
+            "phonetic": "yiming",
+            "rank": 67213,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄨㄣˊ",
+            "_id": "5160f8eafff05b4dc8b5c5097d54aad8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "văn dịch; bài dịch; dịch văn",
+                            "explain": "翻译成的文字",
+                            "examples": [
+                                {
+                                    "m": "đối chiếu giữa bản dịch và bản gốc để sửa chữa.",
+                                    "p_vn": "doi chieu giua ban dich va ban goc de sua chua",
+                                    "_id": "1faf7db36ccfdb548a1187f7740fa460",
+                                    "id": 9782,
+                                    "type": "e_cnvi",
+                                    "e": "把译文对照原文加以修改。",
+                                    "p_cn": "ba yiwen duizhao yuanwen jiayi xiugai",
+                                    "p": "bǎ yìwén dùizhào yuánwén jiāyǐ xīugǎi。"
+                                },
+                                {
+                                    "m": "dịch sai ý nguyên bản",
+                                    "p_vn": "dich sai y nguyen ban",
+                                    "_id": "40f2631ea11cd9b07d5106cd9406ea94",
+                                    "id": 52817,
+                                    "type": "e_cnvi",
+                                    "e": "译文走失原意。",
+                                    "p_cn": "yiwen zoushi yuanyi",
+                                    "p": "yìwén zǒushī yuányì。"
+                                },
+                                {
+                                    "m": "bản dịch vụng về tối nghĩa.",
+                                    "p_vn": "ban dich vung ve toi nghia",
+                                    "_id": "64d5eb0a4fc7071db46d5a5a505fbc5c",
+                                    "id": 52060,
+                                    "type": "e_cnvi",
+                                    "e": "译文拙涩",
+                                    "p_cn": "yiwen zhuo se",
+                                    "p": "yìwén zhuósè"
+                                },
+                                {
+                                    "m": "dịch văn trôi chảy.",
+                                    "p_vn": "dich van troi chay",
+                                    "_id": "7d2bb698d0c476901c7e3883bfba9b3d",
+                                    "id": 4328,
+                                    "type": "e_cnvi",
+                                    "e": "译文畅达。",
+                                    "p_cn": "yiwen changda",
+                                    "p": "yìwén chàngdá。"
+                                },
+                                {
+                                    "m": "bản dịch đã giữ được phong cách của nguyên tác.",
+                                    "p_vn": "ban dich da giu duoc phong cach cua nguyen tac",
+                                    "_id": "ba5d2012e65af3a6daf78991bf18e188",
+                                    "id": 47530,
+                                    "type": "e_cnvi",
+                                    "e": "译文保持了原作的风格。",
+                                    "p_cn": "yiwen baochile yuanzuo de fengge",
+                                    "p": "yìwén bǎochí le yuánzuò de fēnggé。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 195
+            },
+            "snym": {
+                "anto": [
+                    "原文"
+                ]
+            },
+            "cn_vi": "dịch văn",
+            "pinyin": "yìwén",
+            "word": "译文",
+            "id": 59873,
+            "phonetic": "yiwen",
+            "rank": 28761,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄣㄧˋ",
+            "_id": "818232f1a739607706f3d3f5ff83ed43",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dịch âm",
+                            "explain": "译音1. (区别于'意译')",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phiên âm",
+                            "explain": "把一种语言的语词用另一种语言中跟它发音相同或近似的语音表示出来",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 520
+            },
+            "snym": {
+                "anto": [
+                    "意译"
+                ]
+            },
+            "cn_vi": "âm dịch",
+            "pinyin": "yīnyì",
+            "word": "音译",
+            "id": 60164,
+            "phonetic": "yinyi",
+            "rank": 15532,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˇㄧˋ",
+            "_id": "f3bb31d46ad940799452f0c70180ab65",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để sửa (cải thiện) bản dịch",
+                            "explain": "to correct (improve) a translation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "cải dịch",
+            "pinyin": "gǎi yì",
+            "word": "改译",
+            "id": 91706,
+            "phonetic": "gaiyi",
+            "rank": 89297,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "翻译"
+}

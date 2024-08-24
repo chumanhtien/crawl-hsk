@@ -1,0 +1,1757 @@
+{
+    "total": 37,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˋ",
+            "_id": "ed606d5614fbcc1bfe59a4ddf94237cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "lặp lại hoặc tiếp tục một động tác/hành động nào đó ",
+                            "examples": [
+                                74752,
+                                74753
+                            ],
+                            "struct": "又 + Động từ + 了"
+                        },
+                        {
+                            "explain": "đã làm gì rồi, lại làm gì tiếp \n",
+                            "examples": [
+                                113569,
+                                113570
+                            ],
+                            "struct": "Động từ + 了 + 又 + Động từ"
+                        },
+                        {
+                            "explain": "sẽ lại làm gì đó/ xảy ra điều gì đó",
+                            "examples": [
+                                113575,
+                                113576
+                            ],
+                            "struct": "又 + 要 + Động từ （+ 了）"
+                        },
+                        {
+                            "explain": "vừa như thế nào vừa như thế nào",
+                            "examples": [
+                                74756,
+                                113577,
+                                113578
+                            ],
+                            "struct": "又 + Tính từ 1 + 又 + Tính từ 2"
+                        },
+                        {
+                            "explain": "vừa làm gì vừa làm gì ",
+                            "examples": [
+                                113579,
+                                113580
+                            ],
+                            "struct": "又 + Động từ 1 + 又 + Động từ 2"
+                        },
+                        {
+                            "explain": "đã/vừa....lại....",
+                            "examples": [
+                                113582,
+                                113583
+                            ],
+                            "struct": "既……又……"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "lại (biểu thị lặp lại hoặc tiếp tục của một hành động hoặc tình huống)",
+                            "explain": "表示某种动作或情况重复或继续",
+                            "examples": [
+                                {
+                                    "m": "Vừa ăn cơm xong tôi lại đọc sách.",
+                                    "p_vn": "vua an com xong toi lai doc sach.",
+                                    "_id": "ac7be255046819fca34005406352c733",
+                                    "id": 74791,
+                                    "type": "e_cnvi",
+                                    "e": "刚吃完饭又看起书来。",
+                                    "p_cn": "gang chi wan fan you kan qi shu lai.",
+                                    "p": "gāng chī wán fàn yòu kàn qǐ shū lái."
+                                },
+                                {
+                                    "m": "Chúng ta lại gặp nhau rồi.",
+                                    "p_vn": "chung ta lai gap nhau roi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf8abd4",
+                                    "id": 113552,
+                                    "type": "e_cnvi",
+                                    "e": "咱们又见面了。",
+                                    "p_cn": "zanmen you jianmianle.",
+                                    "p": "zánmen yòu jiànmiànle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vừa...vừa....",
+                            "explain": "用来连结平列的词意，表示同时存在",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy vừa hát vừa nhảy.",
+                                    "p_vn": "anh ay vua hat vua nhay.",
+                                    "_id": "ac7be255046819fca34005406352c2ed",
+                                    "id": 74790,
+                                    "type": "e_cnvi",
+                                    "e": "他又唱又跳。",
+                                    "p_cn": "ta you chang you tiao.",
+                                    "p": "tā yòu chàng yòu tiào."
+                                },
+                                {
+                                    "m": "Bộ quần áo này vừa đẹp vừa rẻ.",
+                                    "p_vn": "bo quan ao nay vua dep vua re.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf8be0c",
+                                    "id": 113553,
+                                    "type": "e_cnvi",
+                                    "e": "这件衣服又便宜又好看。",
+                                    "p_cn": "zhe jian yifu you pianyi you haokan.",
+                                    "p": "zhè jiàn yīfu yòu piányi yòu hǎokàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lại (biểu thị tăng một mức)",
+                            "explain": "表示加强、加重的语气 (有\"并\"的意思)",
+                            "examples": [
+                                {
+                                    "m": "Bệnh tình của anh ấy lại nặng hơn rồi.",
+                                    "p_vn": "benh tinh cua anh ay lai nang hon roi.",
+                                    "_id": "ac7be255046819fca34005406352dc45",
+                                    "id": 74794,
+                                    "type": "e_cnvi",
+                                    "e": "他的病又加重了。",
+                                    "p_cn": "ta de bing you jiazhongle.",
+                                    "p": "tā de bìng yòu jiāzhòngle."
+                                },
+                                {
+                                    "m": "Trời tối lại đang mưa nữa nên đường càng khó đi.",
+                                    "p_vn": "troi toi lai dang mua nua nen duong cang kho di.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf8eb1e",
+                                    "id": 113558,
+                                    "type": "e_cnvi",
+                                    "e": "天很黑，又下着雨， 路更难走了。",
+                                    "p_cn": "tian hen hei, you xiazhe yu, lu geng nan zoule.",
+                                    "p": "tiān hěn hēi, yòu xiàzhe yǔ, lù gèng nán zǒule."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhưng; lại (biểu thị chuyển ý)",
+                            "explain": "表示转折，有''可是''的意思",
+                            "examples": [
+                                {
+                                    "m": "Tôi muốn du lịch, lại không có thời gian.",
+                                    "p_vn": "toi muon du lich, lai khong co thoi gian.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf8fe2d",
+                                    "id": 113560,
+                                    "type": "e_cnvi",
+                                    "e": "我想旅游，又没时间。",
+                                    "p_cn": "wo xiang lǚyou, you mei shijian.",
+                                    "p": "wǒ xiǎng lǚyóu, yòu méi shíjiān."
+                                },
+                                {
+                                    "m": "Muốn đi ra ngoài nhưng lại sợ thời tiết xấu.",
+                                    "p_vn": "muon di ra ngoai nhung lai so thoi tiet xau.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf909dd",
+                                    "id": 113561,
+                                    "type": "e_cnvi",
+                                    "e": "想出去，又怕天气差。",
+                                    "p_cn": "xiang chuqu, you pa tianqi cha.",
+                                    "p": "xiǎng chūqù, yòu pà tiānqì chà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "còn, thêm",
+                            "explain": "表示在某个范围之外有所补充",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy biết vẽ, lại còn biết chơi đàn.",
+                                    "p_vn": "anh ay biet ve, lai con biet choi dan.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf916e4",
+                                    "id": 113562,
+                                    "type": "e_cnvi",
+                                    "e": "他会画画，又会弹琴。",
+                                    "p_cn": "ta hui hua hua, you hui tanqin.",
+                                    "p": "tā huì huà huà, yòu huì tánqín."
+                                },
+                                {
+                                    "m": "Bố mua cá rồi, còn mua thêm cả tôm nữa.",
+                                    "p_vn": "bo mua ca roi, con mua them ca tom nua.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf923f3",
+                                    "id": 113563,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸买了鱼，又买了虾。",
+                                    "p_cn": "baba maile yu, you maile xia.",
+                                    "p": "bàba mǎile yú, yòu mǎile xiā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thêm; cộng; với",
+                            "explain": "表示整数之外再加零数",
+                            "examples": [
+                                {
+                                    "m": "1 với 1 là 2.",
+                                    "p_vn": "1 voi 1 la 2.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf9f945",
+                                    "id": 113587,
+                                    "type": "e_cnvi",
+                                    "e": "1又1是2。",
+                                    "p_cn": "1 you 1 shi 2.",
+                                    "p": "1 yòu 1 shì 2."
+                                },
+                                {
+                                    "m": "2 thêm 2 là 4.",
+                                    "p_vn": "2 them 2 la 4.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cfa04f1",
+                                    "id": 113588,
+                                    "type": "e_cnvi",
+                                    "e": "2又2是4。",
+                                    "p_cn": "2 you 2 shi 4.",
+                                    "p": "2 yòu 2 shì 4."
+                                },
+                                {
+                                    "m": "4 với 1 là 5.",
+                                    "p_vn": "4 voi 1 la 5.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cfa06b8",
+                                    "id": 113589,
+                                    "type": "e_cnvi",
+                                    "e": "4又1是5。",
+                                    "p_cn": "4 you 1 shi 5.",
+                                    "p": "4 yòu 1 shì 5."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vừa... lại; vừa... vừa (biểu thị hai sự việc có mâu thuẫn)",
+                            "explain": "表示有矛盾的两件事情 (多叠用)",
+                            "examples": [
+                                {
+                                    "m": "Tôi vừa muốn đi, vừa muốn ở lại thêm một chút.",
+                                    "p_vn": "toi vua muon di, vua muon o lai them mot chut.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf93a40",
+                                    "id": 113565,
+                                    "type": "e_cnvi",
+                                    "e": "我想走，又想留一下。",
+                                    "p_cn": "wo xiang zou, you xiang liu yixia.",
+                                    "p": "wǒ xiǎng zǒu, yòu xiǎng liú yīxià."
+                                },
+                                {
+                                    "m": "Cô muốn ăn nhưng lại sợ tăng cân.",
+                                    "p_vn": "co muon an nhung lai so tang can.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf93d69",
+                                    "id": 113566,
+                                    "type": "e_cnvi",
+                                    "e": "她想吃，又怕会长胖。",
+                                    "p_cn": "ta xiang chi, you pa hui zhang pang.",
+                                    "p": "tā xiǎng chī, yòu pà huì zhǎng pàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dùng trong câu phủ định hoặc câu hỏi, tỏ ý nhấn mạnh",
+                            "explain": "用在否定句或反问句里，加强语气",
+                            "examples": [
+                                {
+                                    "m": "Tôi không cố ý.",
+                                    "p_vn": "toi khong co y.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf94c89",
+                                    "id": 113567,
+                                    "type": "e_cnvi",
+                                    "e": "我又不是故意的。",
+                                    "p_cn": "wo you bushi guyi de.",
+                                    "p": "wǒ yòu bùshì gùyì de."
+                                },
+                                {
+                                    "m": "Cô ấy sao có thể quên được chứ?",
+                                    "p_vn": "co ay sao co the quen duoc chu?",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf94fe9",
+                                    "id": 113568,
+                                    "type": "e_cnvi",
+                                    "e": "她又怎能忘了呢？",
+                                    "p_cn": "ta you zen neng wangle ne?",
+                                    "p": "tā yòu zěn néng wàngle ne?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Khác:\n- \"又\" biểu thị tăng thêm, \"再\" biểu thị lặp lại.\n- \"又\" thường sử dụng cho những tình huống trong quá khứ, thường kết hợp với \"了\".\n\"再\" thường sử dụng cho những tình huống trong tương lai, không kết hợp với \"了\".\n- \"又\" có thể sử dụng với những sự việc trong tương lai mang tính chắc chắn, phía sau thường thêm động từ \"是\" hoặc động từ năng nguyện.\n\"再\" thường sử dụng cho câu giả thiết, sử dụng cho những sự việc trong tương lai, phía trước không thể thêm động từ năng nguyện.",
+                    "title": "Phân biệt \"又\" và \"再\"",
+                    "words": [
+                        "又",
+                        "再"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "复",
+                    "再"
+                ]
+            },
+            "lv_hsk_new": "2, 3",
+            "pinyin": "yòu",
+            "cn_vi": "hựu",
+            "popularity": {
+                "notebook": 828,
+                "search": 22726
+            },
+            "word": "又",
+            "id": 61354,
+            "phonetic": "you",
+            "rank": 213,
+            "lv_tocfl": 2,
+            "compound": "又及 ; 却又 ; 又复 ; 又道是,"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄏㄨㄥˊㄧㄡˋㄓㄨㄥˇ",
+            "_id": "dd83873b73fe4a1e97e4ba16fc5551a4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "đỏ và sưng (thành ngữ)",
+                            "explain": "to be red and swollen (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "hựu hồng hựu thũng",
+            "pinyin": "yòu hóng yòu zhǒng",
+            "word": "又红又肿",
+            "id": 140472,
+            "phonetic": "youhongyouzhong",
+            "rank": 89750,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄔㄠˇㄧㄡˋㄋㄠˋ",
+            "_id": "b028a94714be4fa78da987c72f75f0c3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất trật tự",
+                            "explain": "to be disorderly",
+                            "examples": []
+                        },
+                        {
+                            "mean": "gây ra nhiều tiếng ồn",
+                            "explain": "to make a lot of noise",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hựu sảo hựu náo",
+            "pinyin": "yòu chǎo yòu nào",
+            "word": "又吵又闹",
+            "id": 136659,
+            "phonetic": "youchaoyounao",
+            "rank": 108146,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄔㄥ",
+            "_id": "11104de996d44847899b3529855c9d09",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "còn được biết là",
+                            "explain": "also known as",
+                            "examples": [
+                                {
+                                    "m": "Nô lệ thẻ , còn được gọi là con nợ thẻ , hoặc nhiều con nợ (vì hầu hết nô lệ thẻ nợ nhiều hơn một ngân hàng)",
+                                    "p_vn": "no le the , con duoc goi la con no the , hoac nhieu con no (vi hau het no le the no nhieu hon mot ngan hang)",
+                                    "_id": "1d4fdaaa00cd46a1b308222c99f21729",
+                                    "id": 54617,
+                                    "type": "e_cnvi",
+                                    "e": "卡奴，又称卡债族，或称多重债务者（因为卡奴大多不只欠一家银行）",
+                                    "p_cn": "ka nu, you cheng ka zhai zu, huo chen duochong zhaiwu zhe (yinwei ka nu daduo buzhi qian yijia yinhang)",
+                                    "p": "Kǎ nú, yòu chēng kǎ zhài zú, huò chèn duōchóng zhàiwù zhě (yīnwèi kǎ nú dàduō bùzhǐ qiàn yījiā yínháng)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 27,
+                "search": 192
+            },
+            "snym": null,
+            "cn_vi": "hựu xưng",
+            "pinyin": "yòu chēng",
+            "word": "又称",
+            "id": 107076,
+            "phonetic": "youcheng",
+            "rank": 29015,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄥˋㄧㄡˋ",
+            "_id": "79969350a3f8498eaa983af68e5935db",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "một lần nữa",
+                            "explain": "once again",
+                            "examples": [
+                                {
+                                    "m": "những chuyện cũ của mười lăm năm trước lại hiện lên trong đầu anh ta.",
+                                    "p_vn": "nhung chuyen cu cua muoi lam nam truoc lai hien len trong dau anh ta.",
+                                    "_id": "0df4162c05d684445099da815df9d79b",
+                                    "id": 29664,
+                                    "type": "e_cnvi",
+                                    "e": "十五年前的旧事，重又浮上他的脑海。",
+                                    "p_cn": "shiwu nian qian de jiushi zhong you fushang ta de naohai",
+                                    "p": "shíwǔnián qián de jìushì，zhòng yòu fúshàng tā de nǎohǎi。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "trọng hựu",
+            "pinyin": "zhòng yòu",
+            "word": "重又",
+            "id": 109276,
+            "phonetic": "zhongyou",
+            "rank": 89195,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄇㄧㄥˊ",
+            "_id": "13d6a4f9736b4d5a916ed62059c76bd2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "còn được biết là",
+                            "explain": "also known as",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tên thay thế",
+                            "explain": "alternative name",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cũng được gọi là",
+                            "explain": "to also be called",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 260
+            },
+            "snym": {
+                "syno": [
+                    "别名",
+                    "别称"
+                ]
+            },
+            "cn_vi": "hựu danh",
+            "pinyin": "yòu míng",
+            "word": "又名",
+            "id": 101848,
+            "phonetic": "youming",
+            "rank": 24228,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄐㄧˊ",
+            "_id": "46475d5119435a88652f30e9449fc346",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tái bút",
+                            "explain": "附带再提一下信写完并已署名后又添上几句，往往在这几句话下面注明'又及'或'某某又及'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 104
+            },
+            "snym": null,
+            "cn_vi": "hựu cập",
+            "pinyin": "yòu jí",
+            "word": "又及",
+            "id": 61355,
+            "phonetic": "youji",
+            "rank": 40776,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "30ce278455764d94a0dda5c942128bd0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "dày dặn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hựu hậu hựu kết thực",
+            "pinyin": "yòu hòu yòu jiēshi",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "又厚又结实",
+            "id": 172612,
+            "phonetic": "youhouyoujieshi",
+            "rank": 152539,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄠˇㄧㄡˋㄉㄨㄛ",
+            "_id": "cc0783fa87eb472bb677a78c2d791659",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Trust-Mart (chuỗi siêu thị)",
+                            "explain": "Trust-Mart (supermarket chain)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "hảo hựu đa",
+            "pinyin": "hǎoyòuduō",
+            "word": "好又多",
+            "id": 117774,
+            "phonetic": "haoyouduo",
+            "rank": 119201,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄌㄞˊㄌㄜ˙",
+            "_id": "9c0f11954e8246b8863a9b43d40a9988",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "lại thế rồi, lại tới nữa rồi",
+                            "explain": "Here we go again.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 240
+            },
+            "snym": null,
+            "cn_vi": "hựu lai liễu",
+            "pinyin": "yòu láile",
+            "word": "又来了",
+            "id": 114113,
+            "phonetic": "youlaile",
+            "rank": 25425,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄧㄘˋ",
+            "_id": "bb335c7cb8764064902b26bca58b31a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "một lần nữa",
+                            "explain": "once again; once more; yet again",
+                            "examples": [
+                                {
+                                    "m": "Khi chúng ta một lần nữa đứng trước thời hạn",
+                                    "p_vn": "Khi chung ta mot lan nua dung truoc thoi han",
+                                    "_id": "7a314046f9ec4208b4b90fea108919d3",
+                                    "id": 65870,
+                                    "type": "e_cnvi",
+                                    "e": "当我们又一次站在",
+                                    "p_cn": "dang women you yici zhan zai",
+                                    "p": "dāng wǒmen yòu yīcì zhàn zài"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 70
+            },
+            "snym": null,
+            "cn_vi": "hựu nhất thứ",
+            "pinyin": "yòu yīcì",
+            "word": "又一次",
+            "id": 111973,
+            "phonetic": "youyici",
+            "rank": 49613,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "bf058081fa4c491d86f831731d48304d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "những là",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hựu thị na",
+            "pinyin": "yòu shì nà",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "又是那",
+            "id": 179494,
+            "phonetic": "youshina",
+            "rank": 148323,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄅㄨˋㄕˋ",
+            "_id": "e7dd36d0afeb40c78f7793c7e4ffe5ee",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Đâu phải",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cái quỷ gì vậy, cũng đâu phải là ân nhân cứu mạng của chúng ta, liên quan gì đến tôi.",
+                                    "p_vn": "cai quy gi vay, cung dau phai la an nhan cuu mang cua chung ta, lien quan gi den toi.",
+                                    "_id": "170ec26ac54444e3bb9c16e13ca01b4c",
+                                    "id": 55799,
+                                    "type": "e_cnvi",
+                                    "e": "什么鬼,又不是我们再生父母,关我屁事。",
+                                    "p_cn": "shenme gui, you bu shi women zaisheng fumu, guan wo pi shi.",
+                                    "p": "Shénme guǐ, yòu bú shì wǒmen zàishēng fùmǔ, guān wǒ pì shì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 174
+            },
+            "snym": null,
+            "cn_vi": "hựu bất thị",
+            "pinyin": "yòu bùshì",
+            "word": "又不是",
+            "id": 85139,
+            "phonetic": "youbushi",
+            "rank": 30712,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "90e396ecfce44f829fffee4df125b427",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "những là",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hựu thị nghiện",
+            "pinyin": "yòu shì zhè",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "又是这",
+            "id": 179493,
+            "phonetic": "youshizhe",
+            "rank": 148203,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "411c709195d847a2bb9940a16afe5045",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tên gọi thiên bàng \"又 \".",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "hựu tự bàng",
+            "pinyin": "yòu zì páng",
+            "word": "又字旁",
+            "id": 167062,
+            "phonetic": "youzipang",
+            "rank": 101675,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄢˊㄓㄧㄡˋㄒㄩㄢˊ",
+            "_id": "8bfa9dd32f2e4b36e0dd5889f677f282",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "huyền diệu khó giải thích",
+                            "explain": "《老子》第一章;'玄之又玄，众妙之门'后来形容非常玄妙，难以理解",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "huyền chi hựu huyền",
+            "pinyin": "xuánzhīyòuxuán",
+            "word": "玄之又玄",
+            "id": 57362,
+            "phonetic": "xuanzhiyouxuan",
+            "rank": 82175,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄓㄤˇㄆㄤˋㄌㄜ˙",
+            "_id": "fb51dfd383084b6da3d1537efa558301",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Lại tăng cân rồi",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Từ khi tôi gặp anh lần cuối cho tới nay, anh ta lại béo lên rồi.",
+                                    "p_vn": "Tu khi toi gap anh lan cuoi cho toi nay, anh ta lai beo len roi.",
+                                    "_id": "8a2837fef0b8454a904d916b8df14fe8",
+                                    "id": 55621,
+                                    "type": "e_cnvi",
+                                    "e": "自从我上次见到他以来，他又长胖了。",
+                                    "p_cn": "Zicong wo shang ci jian dao ta yilai, ta you zhang pangle.",
+                                    "p": "Zìcóng wǒ shàng cì jiàn dào tā yǐlái, tā yòu zhǎng pàngle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "hựu trưởng phán liễu",
+            "pinyin": "yòu zhǎng pàngle",
+            "word": "又长胖了",
+            "id": 84946,
+            "phonetic": "youzhangpangle",
+            "rank": 90238,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄕㄨㄤㄓㄨㄛˊ",
+            "_id": "576c356a5f7e4f2980ca7c77ca4e611f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hết lần này tới lần khác",
+                            "explain": "强调之前经常出现的某一事物再次出现或经常发生的某一事件再次发生",
+                            "examples": []
+                        },
+                        {
+                            "mean": "một lần nữa",
+                            "explain": "强调某频繁发生的事件再一次发生",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 80
+            },
+            "snym": {
+                "syno": [
+                    "再次",
+                    ""
+                ]
+            },
+            "cn_vi": "hựu song nhược chuyết",
+            "pinyin": "yòu shuāng ruò zhuó",
+            "word": "又双叒叕",
+            "id": 141286,
+            "phonetic": "youshuangruozhuo",
+            "rank": 46576,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e8a6991298aa475a99ee1cb570a69508",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chất lượng tốt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chất lượng hựu hảo",
+            "pinyin": "zhìliàng yòu hǎo",
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "word": "质量又好",
+            "id": 186493,
+            "phonetic": "zhiliangyouhao",
+            "rank": 111611,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩˋㄧㄢˊㄧㄡˋㄓˇ",
+            "_id": "1bdfe817a1c742b3b8ad81b1c2fd111b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "muốn nói lại thôi",
+                            "explain": "说又停止不说，形容有难言的苦衷。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 65,
+                "search": 460
+            },
+            "snym": {
+                "syno": [
+                    "首鼠两端",
+                    "举棋不定",
+                    "迟疑不决",
+                    "支吾其词",
+                    "似水柔情",
+                    "欲出又止"
+                ],
+                "anto": [
+                    "快人快语",
+                    "心直口快",
+                    "一针见血",
+                    "指天画地",
+                    "畅所欲言"
+                ]
+            },
+            "cn_vi": "dục ngôn hựu chỉ",
+            "pinyin": "yù yán yòu zhǐ",
+            "word": "欲言又止",
+            "id": 132485,
+            "phonetic": "yuyanyouzhi",
+            "rank": 16822,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄠˇㄓㄧㄡˋㄕㄠˇ",
+            "_id": "8b29c9c0b4044affad34c46764b24739",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "rất ít; cực ít; rất hiếm",
+                            "explain": "很少很少，几乎没有。",
+                            "examples": [
+                                {
+                                    "m": "Các nữ chính trị gia thành công rất ít.",
+                                    "p_vn": "cac nu chinh tri gia thanh cong rat it.",
+                                    "_id": "c10c24a6ed43165db916499fa92ad69e",
+                                    "id": 83938,
+                                    "type": "e_cnvi",
+                                    "e": "成功的女政治家少之又少。",
+                                    "p_cn": "chenggong de nǚ zhengzhi jia shao zhi you shao.",
+                                    "p": "chénggōng de nǚ zhèngzhì jiā shǎo zhī yòu shǎo."
+                                },
+                                {
+                                    "m": "Ngôi làng miền núi xa xôi này có rất ít cư dân.",
+                                    "p_vn": "ngoi lang mien nui xa xoi nay co rat it cu dan.",
+                                    "_id": "c10c24a6ed43165db916499fa92adb38",
+                                    "id": 83939,
+                                    "type": "e_cnvi",
+                                    "e": "这个偏远山村，居民少之又少。",
+                                    "p_cn": "zhege pianyuan shancun, jumin shao zhi you shao.",
+                                    "p": "zhège piānyuǎn shāncūn, jūmín shǎo zhī yòu shǎo."
+                                },
+                                {
+                                    "m": "Đêm mùa đông lạnh giá, trên đường có rất ít xe.",
+                                    "p_vn": "dem mua dong lanh gia, tren duong co rat it xe.",
+                                    "_id": "c10c24a6ed43165db916499fa92ae6c2",
+                                    "id": 83940,
+                                    "type": "e_cnvi",
+                                    "e": "寒冷的冬夜，路上车辆少之又少。",
+                                    "p_cn": "hanleng de dong ye, lushang cheliang shao zhi you shao.",
+                                    "p": "hánlěng de dōng yè, lùshàng chēliàng shǎo zhī yòu shǎo."
+                                },
+                                {
+                                    "m": "Các quán cà phê rất hiếm trong thị trấn nhỏ này.",
+                                    "p_vn": "cac quan ca phe rat hiem trong thi tran nho nay.",
+                                    "_id": "c10c24a6ed43165db916499fa92af228",
+                                    "id": 83941,
+                                    "type": "e_cnvi",
+                                    "e": "在这个小镇，咖啡店少之又少。",
+                                    "p_cn": "zai zhege xiao zhen, kafei dian shao zhi you shao.",
+                                    "p": "zài zhège xiǎo zhèn, kāfēi diàn shǎo zhī yòu shǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 148
+            },
+            "snym": {
+                "syno": [
+                    "寥寥无几",
+                    "凤毛麟角"
+                ]
+            },
+            "cn_vi": "thiếu chi hựu thiếu",
+            "pinyin": "shǎo zhī yòu shǎo",
+            "word": "少之又少",
+            "id": 139136,
+            "phonetic": "shaozhiyoushao",
+            "rank": 33725,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄒㄧㄤˇㄉㄤㄅㄧㄠˇㄗ˙ㄧㄡˋㄒㄧㄤˇㄌㄧˋㄆㄞˊㄈㄤ˙",
+            "_id": "6471a113a279497985eb1d6038c0ca37",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(nghĩa bóng) có ý định xấu nhưng vẫn muốn có danh tiếng tốt",
+                            "explain": "fig. to have bad intentions but still want a good reputation",
+                            "examples": []
+                        },
+                        {
+                            "mean": "(văn học) sống cuộc sống của một con điếm nhưng vẫn muốn có một tượng đài về sự trong trắng của một người (thành ngữ)",
+                            "explain": "lit. to lead the life of a whore but still want a monument put up to one's chastity (idiom)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "muốn có bánh của một người và ăn nó",
+                            "explain": "to want to have one's cake and eat it too",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "hựu tưởng đương biểu tử hựu tưởng lập bài phường",
+            "pinyin": "yòu xiǎng dāng biǎo zi yòu xiǎng lì páifāng",
+            "word": "又想当婊子又想立牌坊",
+            "id": 147106,
+            "phonetic": "youxiangdangbiaoziyouxianglipaifang",
+            "rank": 95553,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄧㄡˋㄓㄨㄤˋㄓㄜ˙ㄒㄧㄠˇㄍㄨㄟˇ",
+            "_id": "eee693fea65540ca819086eb057259c0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "tránh vỏ dưa gặp vỏ dừa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hựu chàng trứ tiểu quỷ",
+            "pinyin": "Yòu zhuàngzhe xiǎoguǐ",
+            "word": "又撞着小鬼",
+            "id": 158417,
+            "phonetic": "Youzhuangzhexiaogui",
+            "rank": 109951,
+            "kind": [
+                "proverb"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄘˋㄧㄡˋㄧㄘˋ",
+            "_id": "001b266e16b244bd8ff8c39b27b0f199",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "một lần lại một lần, hết lần này đến lần khác, nhiều.",
+                            "examples": [],
+                            "struct": "一 + Lượng từ + 又+ 一 + Lượng từ."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "hết lần này tới lần khác; liên tục; nhiều lần",
+                            "explain": "很多次",
+                            "examples": [
+                                {
+                                    "m": "Tiểu Lan vào viện rồi, tôi nhiều lần đến thăm cô ấy.",
+                                    "p_vn": "tieu lan vao vien roi, toi nhieu lan den tham co ay.",
+                                    "_id": "c10c24a6ed43165db916499fa9b5bb97",
+                                    "id": 84736,
+                                    "type": "e_cnvi",
+                                    "e": "小兰住院了, 我一次又一次地去医院看他.",
+                                    "p_cn": "xiao lan zhuyuanle, wo yici you yici de qu yiyuan kan ta.",
+                                    "p": "xiǎo lán zhùyuànle, wǒ yīcì yòu yīcì de qù yīyuàn kàn tā."
+                                },
+                                {
+                                    "m": "Đây chỉ là một việc nhỏ mà thôi nhưng ấy cứ hết lần này đến lần khác la mắng tôi, thật không chịu nổi.",
+                                    "p_vn": "day chi la mot viec nho ma thoi nhung ay cu het lan nay den lan khac la mang toi, that khong chiu noi.",
+                                    "_id": "c10c24a6ed43165db916499fa9b5ca35",
+                                    "id": 84737,
+                                    "type": "e_cnvi",
+                                    "e": "这只是一件小事而已, 可他一次又一次骂我, 真忍不住了。",
+                                    "p_cn": "zhe zhishi yi jian xiaoshi eryi, ke ta yici you yici ma wo, zhen ren bu zhule.",
+                                    "p": "zhè zhǐshì yī jiàn xiǎoshì éryǐ, kě tā yīcì yòu yīcì mà wǒ, zhēn rěn bù zhùle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 239
+            },
+            "snym": {
+                "syno": [
+                    "一而再再而三",
+                    "再三再四",
+                    "一遍又一遍",
+                    "多次重复"
+                ]
+            },
+            "cn_vi": "nhất thứ hựu nhất thứ",
+            "pinyin": "yīcì yòu yīcì",
+            "word": "一次又一次",
+            "id": 141931,
+            "phonetic": "yiciyouyici",
+            "rank": 25497,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "eed5575c28704989b5fb93e828a6dbb8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "chứ sao",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đãn hựu vi thập ma",
+            "pinyin": "dàn yòu wèishéme",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "但又为什么",
+            "id": 181043,
+            "phonetic": "danyouweisheme",
+            "rank": 146631,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄚˋㄧㄡˋㄕㄨㄛㄏㄨㄟˊㄌㄞˊ",
+            "_id": "6f3458da8acbd9c09a6ef9ae629a0121",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "nói đi thì cũng phải nói lại",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tôi rất muốn mua chiếc xe đó , nhưng nói đi cũng phải nói lại , chỉ là nghĩ thôi , không có tiền thì lại cần dùng cái gì nữa?",
+                                    "p_vn": "Toi rat muon mua chiec xe do , nhung noi di cung phai noi lai , chi la nghi thoi , khong co tien thi lai can dung cai gi nua?",
+                                    "_id": "e8f11f25426511b34c74af3a54a97aad",
+                                    "id": 54407,
+                                    "type": "e_cnvi",
+                                    "e": "我是很想买辆汽车的，可话又说回来了，只是想，没有钱又有什么用呢？",
+                                    "p_cn": "Wo shi hen xiang mai liang qiche de, ke hua you shuo huilaile, zhishi xiang, meiyou qian you you she me yong ne?",
+                                    "p": "Wǒ shì hěn xiǎng mǎi liàng qìchē de, kě huà yòu shuō huíláile, zhǐshì xiǎng, méiyǒu qián yòu yǒu shé me yòng ne?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 126
+            },
+            "snym": null,
+            "cn_vi": "thoại hựu thuyết hồi lai",
+            "pinyin": "huà yòu shuō huílái",
+            "word": "话又说回来",
+            "id": 83652,
+            "phonetic": "huayoushuohuilai",
+            "rank": 36749,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄧㄢˋㄧㄡˋㄧㄅㄧㄢˋ",
+            "_id": "ae6b8873106041c18f952905ff5e4e39",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "hơn và hơn",
+                            "explain": "over and over",
+                            "examples": [
+                                {
+                                    "m": "Nó đã được lặp đi lặp lại.",
+                                    "p_vn": "No da duoc lap di lap lai.",
+                                    "_id": "03c8a088bba345a7bc64a46bd785cbe2",
+                                    "id": 63186,
+                                    "type": "e_cnvi",
+                                    "e": "而是一遍又一遍",
+                                    "p_cn": "ershi yibian you yibian",
+                                    "p": "érshì yībiàn yòu yībiàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 254
+            },
+            "snym": null,
+            "cn_vi": "nhất biến hựu nhất biến",
+            "pinyin": "yībiàn yòu yībiàn",
+            "word": "一遍又一遍",
+            "id": 143049,
+            "phonetic": "yibianyouyibian",
+            "rank": 24529,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄧㄠˋㄇㄚˇㄦ˙ㄆㄠˇㄧㄡˋㄧㄠˋㄇㄚˇㄦ˙ㄅㄨˋㄔㄘㄠˇ",
+            "_id": "606d771b0a1d4ebe8c86f59c31e125d4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "(nghĩa bóng) bạn cũng không thể cầm bánh và ăn",
+                            "explain": "fig. you can't have your cake and eat it, too",
+                            "examples": []
+                        },
+                        {
+                            "mean": "(văn học) bạn không thể mong đợi con ngựa chạy nhanh nhưng không để nó gặm cỏ (thành ngữ)",
+                            "explain": "lit. you can't expect the horse to run fast but not let it graze (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "hựu yếu mã nhi bào hựu yếu mã nhi bất cật thảo",
+            "pinyin": "yòu yào mǎ er pǎo, yòu yào mǎ er bu chī cǎo",
+            "word": "又要马儿跑，又要马儿不吃草",
+            "id": 147243,
+            "phonetic": "youyaomaerpao,youyaomaerbuchicao",
+            "rank": 99183,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄡˋㄧㄠˋㄇㄚˇㄦ˙ㄏㄠˇㄧㄡˋㄧㄠˋㄇㄚˇㄦ˙ㄅㄨˋㄔㄘㄠˇ",
+            "_id": "bf1e91fe45134e98b46703cabc7fc18a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "xem 又要馬兒跑 ， 又要馬兒不 吃草 | 又要马儿跑 ， 又要马儿不 吃草 [you4 yao4 ma3 r5 pao3, you4 yao4 ma3 r5 bu4 chi1 cao3]",
+                            "explain": "see 又要馬兒跑，又要馬兒不吃草|又要马儿跑，又要马儿不吃草[you4 yao4 ma3 r5 pao3 , you4 yao4 ma3 r5 bu4 chi1 cao3]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "hựu yếu mã nhi hảo hựu yếu mã nhi bất cật thảo",
+            "pinyin": "yòu yào mǎ er hǎo, yòu yào mǎ er bu chī cǎo",
+            "word": "又要马儿好，又要马儿不吃草",
+            "id": 147242,
+            "phonetic": "youyaomaerhao,youyaomaerbuchicao",
+            "rank": 72546,
+            "kind": [
+                "proverb"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄟˊㄌㄜ˙ㄈㄨ˙ㄖㄣˊㄧㄡˋㄓㄜˊㄅㄧㄥ",
+            "_id": "b765348610d16cabf9c6c5dda9d145a1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "mất cả chì lẫn chài",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 81,
+                "search": 5837
+            },
+            "snym": null,
+            "cn_vi": "bồi liễu phu nhân hựu chiết binh",
+            "pinyin": "péile fūrén yòu zhé bīng",
+            "word": "陪了夫人又折兵",
+            "id": 79973,
+            "phonetic": "peilefurenyouzhebing",
+            "rank": 2022,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄛˋㄨㄧㄡˋㄗㄠㄌㄧㄢˊㄧㄝˋㄩˇ",
+            "_id": "0eff0f88d23f4f1b86d5cd25b5c00028",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "xem 屋漏 偏逢 連夜雨 | 屋漏 偏逢 连夜雨",
+                            "explain": "see 屋漏偏逢連夜雨|屋漏偏逢连夜雨 [wū lòu piān féng lián yè yǔ]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "phá ốc hựu tao liên dạ vũ",
+            "pinyin": "pò wū yòu zāo liányè yǔ",
+            "word": "破屋又遭连夜雨",
+            "id": 145858,
+            "phonetic": "powuyouzaolianyeyu",
+            "rank": 150006,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄟˊㄌㄜ˙ㄈㄨ˙ㄖㄣˊㄧㄡˋㄓㄜˊㄅㄧㄥ",
+            "_id": "1d68b7f09e5425b03daff1cd0dc0ee0f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "tiền mất tật mang; xôi hỏng bỏng không; vừa mất phu nhân lại thiệt quân; mất cả chì lẫn chài (dựa theo tích: Chu Du hiến kế cho Tôn Quyền gả em gái cho Lưu Bị, nhằm lừa Lưu Bị đến bắt giữ đòi lại Kinh Châu. Nào ngờ Lưu Bị lấy được vợ, thoát khỏi Đông Ngô, Chu Du đem quân đuổi theo đánh, mắc mưu của Gia Cát Lượng, hao binh tổn tướng vô ích. Sau này mọi người dùng câu này để ví như muốn chiếm lợi người khác nhưng kết quả ngay cả vốn liếng của mình cũng tiêu mất.)",
+                            "explain": "《三国演义》里说，周瑜出谋划策，把孙权的妹妹许配刘备，让刘备到东吴成婚，想乘机扣留，夺还荆州结果刘备 成婚后带着夫人逃出吴国周瑜带兵追赶，又被诸葛亮的伏兵打败人们因此讥笑周瑜'赔了夫人又折兵' 后用来比喻想占便宜，没有占到便宜，反而遭受损失",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 27,
+                "search": 127
+            },
+            "snym": {
+                "syno": [
+                    "损兵折将"
+                ],
+                "anto": [
+                    "大获全胜"
+                ]
+            },
+            "cn_vi": "bồi liễu phu nhân hựu chiết binh",
+            "pinyin": "péile fūrén yòu zhé bīng",
+            "word": "赔了夫人又折兵",
+            "id": 40476,
+            "phonetic": "peilefurenyouzhebing",
+            "rank": 36579,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄅㄛㄨㄟˋㄆㄧㄥˊㄧㄅㄛㄧㄡˋㄑㄧˇ",
+            "_id": "24175a088055072b430adebe8b67344b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "sóng gió dập dồn; việc này chưa xong việc khác đã đến",
+                            "explain": "比喻波折多，一个问题还没有解决，另一个问题又发生了",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "nhất ba vị bình nhất ba hựu khởi",
+            "pinyin": "yī bō wèi píng, yī bō yòu qǐ",
+            "word": "一波未平，一波又起",
+            "id": 59092,
+            "phonetic": "yiboweiping,yiboyouqi",
+            "rank": 88644,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄝˇㄏㄨㄛˇㄕㄠㄅㄨˋㄐㄧㄣˇㄔㄨㄣㄈㄥㄔㄨㄟㄧㄡˋㄕㄥ",
+            "_id": "d6a37e934e684e50b00cc12c31002ede",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "viết tắt cho 野火春風 | 野火春风",
+                            "explain": "abbr. to 野火春風|野火春风 [yě huǒ chūn fēng]",
+                            "examples": []
+                        },
+                        {
+                            "mean": "(nghĩa bóng) không thể dễ dàng loại bỏ",
+                            "explain": "fig. cannot be easily eliminated",
+                            "examples": []
+                        },
+                        {
+                            "mean": "(văn học) ngay cả ngọn lửa thảo nguyên cũng không thể tiêu diệt cỏ - nó mọc lại khi có gió thổi (tục ngữ)",
+                            "explain": "lit. even a prairie fire cannot destroy the grass - it grows again when the breeze blows (proverb)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "dã hoả thiếu bất tần xuân phong xuy hựu sinh",
+            "pinyin": "yě huǒshāo bù jìn, chūnfēng chuī yòu shēng",
+            "word": "野火烧不尽，春风吹又生",
+            "id": 147204,
+            "phonetic": "yehuoshaobujin,chunfengchuiyousheng",
+            "rank": 65421,
+            "kind": [
+                "proverb"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄧㄠˋㄉㄤㄅㄧㄠˇㄗ˙ㄧㄡˋㄧㄠˋㄌㄧˋㄆㄞˊㄈㄤ˙",
+            "_id": "faa08d060f014228adca726d3cc909ed",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xem 又想當婊子又想立牌坊 | 又想当婊子又想立牌坊",
+                            "explain": "see 又想當婊子又想立牌坊|又想当婊子又想立牌坊 [yòu xiǎng dāng biǎo zi yòu xiǎng lì pái fāng]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 142
+            },
+            "snym": null,
+            "cn_vi": "kí yếu đương biểu tử hựu yếu lập bài phường",
+            "pinyin": "jì yào dāng biǎo zi yòu yào lì páifāng",
+            "word": "既要当婊子又要立牌坊",
+            "id": 147080,
+            "phonetic": "jiyaodangbiaoziyouyaolipaifang",
+            "rank": 34393,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄛㄕˋㄧㄏㄨㄟˊㄕˋㄦˊㄗㄨㄛˋㄧㄡˋㄕˋㄌㄧㄥˋㄨㄞˋㄧㄏㄨㄟˊㄕˋ",
+            "_id": "bddba523cee040c4b5056a0fe178623c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "xem 說是 一回事 ， 做又 是另外一回事 | 说是 一回事 ， 做又 是另外一回事 [shuo1 shi4 yi1 hui2 shi4, zuo4 you4 shi4 ling4 wa4 yi1 hui2 shi4]",
+                            "explain": "see 說是一回事，做又是另外一回事|说是一回事，做又是另外一回事[shuo1 shi4 yi1 hui2 shi4 , zuo4 you4 shi4 ling4 wai4 yi1 hui2 shi4]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "thuyết thị nhất hồi sự nhi tố hựu thị lánh ngoại nhất hồi sự",
+            "pinyin": "shuō shì yī huí shì, ér zuò yòu shì lìngwài yī huí shì",
+            "word": "说是一回事，而做又是另外一回事",
+            "id": 147275,
+            "phonetic": "shuoshiyihuishi,erzuoyoushilingwaiyihuishi",
+            "rank": 103326,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄛㄕˋㄧㄏㄨㄟˊㄕˋㄗㄨㄛˋㄧㄡˋㄕˋㄌㄧㄥˋㄨㄞˋㄧㄏㄨㄟˊㄕˋ",
+            "_id": "64c7c3b73ab54942bf6de2755e7824e2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Nói là một chuyện, làm hoàn toàn khác (thành ngữ)",
+                            "explain": "Saying is one thing, doing quite another (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "thuyết thị nhất hồi sự tố hựu thị lánh ngoại nhất hồi sự",
+            "pinyin": "shuō shì yī huí shì, zuò yòu shì lìngwài yī huí shì",
+            "word": "说是一回事，做又是另外一回事",
+            "id": 147262,
+            "phonetic": "shuoshiyihuishi,zuoyoushilingwaiyihuishi",
+            "rank": 100309,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "又"
+}

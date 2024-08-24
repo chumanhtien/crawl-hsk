@@ -1,0 +1,2463 @@
+{
+    "total": 1001,
+    "found": false,
+    "result": [
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄤˊㄋㄧㄡˊㄋㄧㄡˊ",
+            "_id": "d1c093aceba64a59ad44a57c4d7eeefa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bò (Con vật)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "hoàng ngưu ngưu",
+            "pinyin": "huáng niúniú",
+            "word": "黄牛牛",
+            "id": 147587,
+            "phonetic": "huangniuniu",
+            "rank": 97988,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": {
+                "pinyin": "Tóu",
+                "examples": "",
+                "measure": "头"
+            },
+            "topic": "48",
+            "zhuyin": "ㄋㄧㄡˊ",
+            "_id": "53a17d4044261fcc277dfb11136925e5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trâu; bò; ngưu",
+                            "explain": "一种动物，身体比较大，头上有一对角，力气很大，可以用来拉车、耕地等，奶和肉可以吃",
+                            "examples": [
+                                {
+                                    "m": "Đây là con trâu phải không?",
+                                    "p_vn": "day la con trau phai khong?",
+                                    "_id": "f2efc94449b26b3e2967bccbc930a478",
+                                    "id": 93174,
+                                    "type": "e_cnvi",
+                                    "e": "这是牛吗？",
+                                    "p_cn": "zhe shi niu ma?",
+                                    "p": "zhè shì niú ma?"
+                                },
+                                {
+                                    "m": "Nhà tôi có rất nhiều trâu.",
+                                    "p_vn": "nha toi co rat nhieu trau.",
+                                    "_id": "f2efc94449b26b3e2967bccbc930ae6f",
+                                    "id": 93175,
+                                    "type": "e_cnvi",
+                                    "e": "我家有很多牛。",
+                                    "p_cn": "wojia you henduo niu.",
+                                    "p": "wǒjiā yǒu hěnduō niú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sao Ngưu Lang",
+                            "explain": "二十八宿之一",
+                            "examples": [
+                                {
+                                    "m": "Các bạn biết sao Ngưu Lang không?",
+                                    "p_vn": "cac ban biet sao nguu lang khong?",
+                                    "_id": "f2efc94449b26b3e2967bccbc946a075",
+                                    "id": 93660,
+                                    "type": "e_cnvi",
+                                    "e": "你们知道牛郎星吗？",
+                                    "p_cn": "nimen zhidao niulangxing ma?",
+                                    "p": "nǐmen zhīdào niúlángxīng ma?"
+                                },
+                                {
+                                    "m": "Sao Ngưu Lang là ngôi sao sáng nhất trong chòm sao Thiên Ưng.",
+                                    "p_vn": "sao nguu lang la ngoi sao sang nhat trong chom sao thien ung.",
+                                    "_id": "f2efc94449b26b3e2967bccbc946c01c",
+                                    "id": 93664,
+                                    "type": "e_cnvi",
+                                    "e": "牛郎是天翁中最亮的星星。",
+                                    "p_cn": "niu lang shi tian weng zhong zui liang de xingxing.",
+                                    "p": "niú láng shì tiān wēng zhōng zuì liàng de xīngxīng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "Giỏi như thế nào",
+                            "examples": [
+                                93200,
+                                93201
+                            ],
+                            "struct": "Phó từ + 牛"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "giỏi; lợi hại; tuyệt vời; ngầu",
+                            "explain": "形容人或者事物等非常有能力，很厉害",
+                            "examples": [
+                                {
+                                    "m": "Bạn lợi hại quá.",
+                                    "p_vn": "ban loi hai qua.",
+                                    "_id": "f2efc94449b26b3e2967bccbc931040d",
+                                    "id": 93184,
+                                    "type": "e_cnvi",
+                                    "e": "你太牛了。",
+                                    "p_cn": "ni tai niule.",
+                                    "p": "nǐ tài niúle."
+                                },
+                                {
+                                    "m": "Anh ấy là một người rất giỏi.",
+                                    "p_vn": "anh ay la mot nguoi rat gioi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9310fec",
+                                    "id": 93185,
+                                    "type": "e_cnvi",
+                                    "e": "他是一个牛人。",
+                                    "p_cn": "ta shi yige niuren.",
+                                    "p": "tā shì yīgè niúrén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kiêu ngạo; cứng đầu; cố chấp; bảo thủ",
+                            "explain": "形容一个人很骄傲或者非常坚持自己的看法，不容易改变",
+                            "examples": [
+                                {
+                                    "m": "Người kiêu ngạo này.",
+                                    "p_vn": "nguoi kieu ngao nay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc931401b",
+                                    "id": 93192,
+                                    "type": "e_cnvi",
+                                    "e": "这个牛脾气的人。",
+                                    "p_cn": "zhege niupiqi de ren.",
+                                    "p": "zhège niúpíqì de rén."
+                                },
+                                {
+                                    "m": "Anh ta nói chuyện rất bảo thủ.",
+                                    "p_vn": "anh ta noi chuyen rat bao thu.",
+                                    "_id": "f2efc94449b26b3e2967bccbc93160ad",
+                                    "id": 93196,
+                                    "type": "e_cnvi",
+                                    "e": "他说话很牛气。",
+                                    "p_cn": "ta shuohua hen niuqi.",
+                                    "p": "tā shuōhuà hěn níuqì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 377,
+                "search": 8604
+            },
+            "snym": null,
+            "lv_hsk_new": "3, 5",
+            "pinyin": "niú",
+            "cn_vi": "ngưu",
+            "word": "牛",
+            "id": 39686,
+            "phonetic": "niu",
+            "rank": 1236,
+            "lv_tocfl": 2,
+            "compound": "牛蒡 ; 牛脖子 ; 牛刀小试 ; 牛痘 ; 牛痘苗 ; 牛犊 ; 牛耳 ; 牛肺疫 ; 牛鬼蛇神 ; 牛黄 ; 牛角尖 ; 牛劲 ; 牛郎星 ; 牛马 ; 牛毛雨 ; 牛虻 ; 牛腩 ; 牛排 ; 牛皮 ; 牛皮癣 ; 牛皮纸 ; 牛脾气 ; 牛气 ; 牛溲马勃 ; 牛头刨 ; 牛头不对马嘴 ; 牛头马面 ; 牛蛙 ; 牛瘟 ; 牛膝 ; 牛性 ; 牛鞅 ; 牛蝇"
+        },
+        {
+            "kind": [
+                "n",
+                "v",
+                "adj",
+                "measure"
+            ],
+            "measure": null,
+            "topic": "13, 65",
+            "zhuyin": "ㄇㄧㄥˊ",
+            "_id": "25f98cc423f714a7abd23e8d641591e5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên; tên gọi",
+                            "explain": "(名儿) 名字、名称",
+                            "examples": [
+                                {
+                                    "m": "Người đó có một cái tên hay.",
+                                    "p_vn": "nguoi do co mot cai ten hay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9452463",
+                                    "id": 93629,
+                                    "type": "e_cnvi",
+                                    "e": "那人有好名。",
+                                    "p_cn": "na ren you hao ming.",
+                                    "p": "nà rén yǒu hǎo míng."
+                                },
+                                {
+                                    "m": "Đặt một cái tên cho nó.",
+                                    "p_vn": "dat mot cai ten cho no.",
+                                    "_id": "f2efc94449b26b3e2967bccbc94532a6",
+                                    "id": 93630,
+                                    "type": "e_cnvi",
+                                    "e": "给它起个名。",
+                                    "p_cn": "gei ta qi ge ming.",
+                                    "p": "gěi tā qǐ gè míng."
+                                },
+                                {
+                                    "m": "Sản phẩm được đặt một cái tên.",
+                                    "p_vn": "san pham duoc dat mot cai ten.",
+                                    "_id": "f2efc94449b26b3e2967bccbc94536d7",
+                                    "id": 93631,
+                                    "type": "e_cnvi",
+                                    "e": "产品取个名。",
+                                    "p_cn": "chanpin qu ge ming.",
+                                    "p": "chǎnpǐn qǔ gè míng."
+                                },
+                                {
+                                    "m": "Tên tôi là Mary.",
+                                    "p_vn": "ten toi là mary.",
+                                    "_id": "f2efc94449b26b3e2967bccbc946fa0e",
+                                    "id": 93671,
+                                    "type": "e_cnvi",
+                                    "e": "我的名字叫玛丽。",
+                                    "p_cn": "wo de mingzi jiao mali.",
+                                    "p": "wǒ de míngzì jiào mǎlì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "danh nghĩa",
+                            "explain": "名义",
+                            "examples": [
+                                {
+                                    "m": "Dùng danh nghĩa của từ thiện, làm việc lừa đảo.",
+                                    "p_vn": "dung danh nghia cua tu thien, lam viec lua dao.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9455778",
+                                    "id": 93634,
+                                    "type": "e_cnvi",
+                                    "e": "用慈善名，行欺骗事。",
+                                    "p_cn": "yong cishan ming, xing qipian shi.",
+                                    "p": "yòng císhàn míng, xíng qīpiàn shì."
+                                },
+                                {
+                                    "m": "Nhờ danh nghĩa của công lý, che giấu sự thật.",
+                                    "p_vn": "nho danh nghia cua cong ly, che giau su that.",
+                                    "_id": "f2efc94449b26b3e2967bccbc945620a",
+                                    "id": 93635,
+                                    "type": "e_cnvi",
+                                    "e": "托正义名，掩饰真相。",
+                                    "p_cn": "tuo zhengyi ming, yanshi zhenxiang.",
+                                    "p": "tuō zhèngyì míng, yǎnshì zhēnxiàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "danh tiếng; thanh danh",
+                            "explain": "名声;名誉",
+                            "examples": [
+                                {
+                                    "m": "Nổi tiếng trên thế giới; có tiếng trên thế giới.",
+                                    "p_vn": "noi tieng tren the gioi; co tieng tren the gioi.",
+                                    "_id": "703abdbbca092b6018178bd5e3449f17",
+                                    "id": 28862,
+                                    "type": "e_cnvi",
+                                    "e": "世界闻名。",
+                                    "p_cn": "shijiewenming。",
+                                    "p": "shìjièwénmíng。"
+                                },
+                                {
+                                    "m": "Danh tiếng của cô ấy tốt, được mọi người tôn trọng.",
+                                    "p_vn": "danh tieng cua co ay tot, duoc moi nguoi ton trong.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9457b5f",
+                                    "id": 93638,
+                                    "type": "e_cnvi",
+                                    "e": "她名誉佳，备受尊崇。",
+                                    "p_cn": "ta mingyu jia, bei shou zunchong.",
+                                    "p": "tā míngyù jiā, bèi shòu zūnchóng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Danh",
+                            "explain": "(Míng) 姓",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy họ Danh.",
+                                    "p_vn": "anh ay ho danh.",
+                                    "_id": "f2efc94449b26b3e2967bccbc945cf55",
+                                    "id": 93650,
+                                    "type": "e_cnvi",
+                                    "e": "他姓名。",
+                                    "p_cn": "ta xingming.",
+                                    "p": "tā xìngmíng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "chỉ người",
+                            "explain": "用于人",
+                            "examples": [
+                                {
+                                    "m": "hơn ba trăm công nhân viên.",
+                                    "p_vn": "hon ba tram cong nhan vien.",
+                                    "_id": "bc8207ec54cacb36fbf8ebf52de68870",
+                                    "id": 28868,
+                                    "type": "e_cnvi",
+                                    "e": "三百多名工作人员。",
+                                    "p_cn": "sanbaiduoming gongzuorenyuan。",
+                                    "p": "sānbǎiduōmíng gōngzuòrényuán。"
+                                },
+                                {
+                                    "m": "Anh ấy được coi là một diễn viên nổi tiếng.",
+                                    "p_vn": "anh ay duoc coi la mot dien vien noi tieng.",
+                                    "_id": "f2efc94449b26b3e2967bccbc945c9aa",
+                                    "id": 93649,
+                                    "type": "e_cnvi",
+                                    "e": "他算个名角。",
+                                    "p_cn": "ta suan ge mingjue.",
+                                    "p": "tā suàn gè míngjué."
+                                },
+                                {
+                                    "m": "Bốn mươi học sinh được trúng tuyển.",
+                                    "p_vn": "bon muoi hoc sinh duoc trung tuyen.",
+                                    "_id": "e3448a5282c2f48d9cab39a27809f084",
+                                    "id": 28869,
+                                    "type": "e_cnvi",
+                                    "e": "录取新生四十名。",
+                                    "p_cn": "luqu xinsheng sishiming。",
+                                    "p": "lùqǔ xīnshēng sìshímíng。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tên là",
+                            "explain": "名字叫做",
+                            "examples": [
+                                {
+                                    "m": "Vị nữ anh hùng họ Lưu, tên là Hồ Lan.",
+                                    "p_vn": "vi nu anh hung ho luu, ten la ho lan.",
+                                    "_id": "c60ce73a9db5b7359fc2f69a377c02ba",
+                                    "id": 28858,
+                                    "type": "e_cnvi",
+                                    "e": "这位女英雄姓刘名胡兰。",
+                                    "p_cn": "zhe wei nǚ yingxiong xing liu ming hu lan.",
+                                    "p": "zhè wèi nǚ yīngxióng xìng liú míng hú lán."
+                                },
+                                {
+                                    "m": "Anh ấy tên gọi là Tiểu Lý.",
+                                    "p_vn": "anh ay ten goi la tieu ly.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9454638",
+                                    "id": 93632,
+                                    "type": "e_cnvi",
+                                    "e": "他名唤小李。",
+                                    "p_cn": "ta ming huan xiao li.",
+                                    "p": "tā míng huàn xiǎo lǐ."
+                                },
+                                {
+                                    "m": "Người ấy tên là Tiểu Phương.",
+                                    "p_vn": "nguoi ay ten la tieu phuong.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9454cb2",
+                                    "id": 93633,
+                                    "type": "e_cnvi",
+                                    "e": "那人名小芳。",
+                                    "p_cn": "na renming xiao fang.",
+                                    "p": "nà rénmíng xiǎo fāng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nói ra",
+                            "explain": "说出",
+                            "examples": [
+                                {
+                                    "m": "Không hiểu ra sao cả.",
+                                    "p_vn": "khong hieu ra sao ca.",
+                                    "_id": "5f0875b250e169e509fbb6457d15f5c3",
+                                    "id": 29190,
+                                    "type": "e_cnvi",
+                                    "e": "莫名其妙。",
+                                    "p_cn": "momingqimiao。",
+                                    "p": "mòmíngqímiào。"
+                                },
+                                {
+                                    "m": "Không thể tả xiết được.",
+                                    "p_vn": "khong the ta xiet duoc.",
+                                    "_id": "9761f02c088f73baea95ad10748c89f0",
+                                    "id": 28867,
+                                    "type": "e_cnvi",
+                                    "e": "不可名状。",
+                                    "p_cn": "bukemingzhuang。",
+                                    "p": "bùkěmíngzhuàng。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nổi tiếng; nổi danh; tiếng tăm (địa vị; nghề nghiệp)",
+                            "explain": "出名的;有名声的",
+                            "examples": [
+                                {
+                                    "m": "Người đó danh tiếng lớn, nổi tiếng xa gần.",
+                                    "p_vn": "nguoi do danh tieng lon, noi tieng xa gan.",
+                                    "_id": "f2efc94449b26b3e2967bccbc945998f",
+                                    "id": 93642,
+                                    "type": "e_cnvi",
+                                    "e": "那人名气大，远近闻名。",
+                                    "p_cn": "na ren mingqi da, yuanjin wenming.",
+                                    "p": "nà rén míngqì dà, yuǎnjìn wénmíng."
+                                },
+                                {
+                                    "m": "Người này rất nổi tiếng, danh tiếng rất cao.",
+                                    "p_vn": "nguoi nay rat noi tieng, danh tieng rat cao.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9459a4f",
+                                    "id": 93643,
+                                    "type": "e_cnvi",
+                                    "e": "这位很名，声誉很高。",
+                                    "p_cn": "zhe wei hen ming, shengyu hen gao.",
+                                    "p": "zhè wèi hěn míng, shēngyù hěn gāo."
+                                },
+                                {
+                                    "m": "Tác phẩm nổi tiếng.",
+                                    "p_vn": "tac pham noi tieng.",
+                                    "_id": "5d6667129bc3a831f214c68db745afec",
+                                    "id": 28864,
+                                    "type": "e_cnvi",
+                                    "e": "名著。",
+                                    "p_cn": "mingzhu。",
+                                    "p": "míngzhù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"个\" khi được dùng cho người phạm vi rất rộng, ngữ khí suồng sã, tùy ý, mang đậm tính khẩu ngữ.\n- \"名\" chỉ dùng khi muốn nói đến thân phận hoặc nghề nghiệp nào đó, ngữ khí trang trọng.",
+                    "title": "Phân biệt \"个\" và \"名\"",
+                    "words": [
+                        "个",
+                        "名"
+                    ]
+                },
+                {
+                    "mean_vi": "- \"位\" được dùng khi muốn thể hiện sự tôn trọng, lịch sự, do vậy khi sử dụng nên dùng trong các tình huống trang trọng hoặc khi nói chuyện với người không quen biết.\n- \"名\" chỉ dùng khi muốn nói đến thân phận hoặc nghề nghiệp nào đó, ngữ khí trang trọng.",
+                    "title": "Phân biệt \"位\" và \"名\"",
+                    "words": [
+                        "位",
+                        "名"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "功"
+                ],
+                "anto": [
+                    "实"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "míng",
+            "cn_vi": "danh",
+            "popularity": {
+                "notebook": 244,
+                "search": 15395
+            },
+            "word": "名",
+            "id": 38187,
+            "phonetic": "ming",
+            "rank": 477,
+            "lv_tocfl": 3,
+            "compound": "名不副实 ; 名不虚传 ; 名册 ; 名产 ; 名称 ; 名词 ; 名次 ; 名刺 ; 名存实亡 ; 名单 ; 名额 ; 名分 ; 名副其实 ; 名贵 ; 名号 ; 名讳 ; 名家 ; 名缰利锁 ; 名教 ; 名节 ; 名句 ; 名利 ; 名列前茅 ; 名流 ; 名落孙山 ; 名目 ; 名牌 ; 名片 ; 名气 ; 名人 ; 名山 ; 名声 ; 名胜 ; 名士 ; 名士派 ; 名手 ; 名数 ; 名堂 ; 名头 ; 名望 ; 名位 ; 名物 ; 名下 ; 名学 ; 名义 ; 名义工资 ; 名誉 ; 名正言顺 ; 名著 ; 名字"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3598a7e3113d4e3fb965aec4e945f5c2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "ngốn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "ngưu thực ngưu hát",
+            "pinyin": "niú shí niú hē",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "牛食牛喝",
+            "id": 181918,
+            "phonetic": "niushiniuhe",
+            "rank": 156942,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄅㄧ",
+            "_id": "d97158b0b7daff3045173cdbc8510266",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "làm việc gì đó rất giỏi",
+                            "examples": [
+                                130247,
+                                130248
+                            ],
+                            "struct": "Động từ/Bổ ngữ + 得 + 牛逼"
+                        },
+                        {
+                            "explain": "Dùng để mô tả một sự kiện hoặc tình huống cụ thể, hay một đồ vật nào đó xuất sắc/ giỏi/ tuyệt vời",
+                            "examples": [
+                                130249,
+                                130250
+                            ],
+                            "struct": "Chủ ngữ + 是 + 牛逼 + 的"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "giỏi; tài giỏi; ngầu; tuyệt vời; lợi hại; đỉnh; trâu bò",
+                            "explain": "又写作牛B、NB、牛掰、牛X、流弊、牛批，生活习语，形容对方行为上或者认识上的一种状态，指出语者的赞赏。代表很厉害、很彪悍的意思。",
+                            "examples": [
+                                {
+                                    "m": "Hiệu ứng đặc biệt của bộ phim này thật xuất sắc!",
+                                    "p_vn": "hieu ung dac biet cua bo phim nay that xuat sac!",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b77a17",
+                                    "id": 130243,
+                                    "type": "e_cnvi",
+                                    "e": "这部电影的特效太牛逼了！",
+                                    "p_cn": "zhe bu dianying de texiao tai niu bile!",
+                                    "p": "zhè bù diànyǐng de tèxiào tài niú bīle!"
+                                },
+                                {
+                                    "m": "Dự án này được hoàn thành rất tuyệt vời.",
+                                    "p_vn": "du an nay duoc hoan thanh rat tuyet voi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b7826a",
+                                    "id": 130244,
+                                    "type": "e_cnvi",
+                                    "e": "这个项目完成得非常牛逼。",
+                                    "p_cn": "zhege xiangmu wancheng de feichang niu bi.",
+                                    "p": "zhège xiàngmù wánchéng dé fēicháng niú bī."
+                                },
+                                {
+                                    "m": "Bạn hát thật sự rất tuyệt vời!",
+                                    "p_vn": "ban hat that su rat tuyet voi!",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b78b13",
+                                    "id": 130245,
+                                    "type": "e_cnvi",
+                                    "e": "你唱歌唱得真牛逼！",
+                                    "p_cn": "ni changge chang de zhen niu bi!",
+                                    "p": "nǐ chànggē chàng dé zhēn niú bī!"
+                                },
+                                {
+                                    "m": "Phát hiện của nhà khoa học này thật đáng tuyệt vời.",
+                                    "p_vn": "phat hien cua nha khoa hoc nay that dang tuyet voi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b79a3c",
+                                    "id": 130246,
+                                    "type": "e_cnvi",
+                                    "e": "这位科学家的发现太牛逼了。",
+                                    "p_cn": "zhe wei kexuejia de fa xian tai niu bile.",
+                                    "p": "zhè wèi kēxuéjiā de fǎ xiàn tài niú bīle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 180,
+                "search": 3871
+            },
+            "snym": {
+                "syno": [
+                    "厉害",
+                    "尿性",
+                    "扯蛋",
+                    "强悍",
+                    "过劲"
+                ]
+            },
+            "cn_vi": "ngưu bức",
+            "pinyin": "niú bī",
+            "lv_hsk_new": "6",
+            "word": "牛逼",
+            "id": 75888,
+            "phonetic": "niubi",
+            "rank": 3106,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄨㄟˊㄋㄧㄡˊ",
+            "_id": "3eda748cdab1438b93eab12c094c91af",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "yak cổ đại của miền đông nam Trung Quốc, còn được gọi là 犩 [wéi]",
+                            "explain": "ancient yak of southeast China, also known as 犩 [wéi]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quỳ ngưu",
+            "pinyin": "kuí niú",
+            "word": "犪牛",
+            "id": 98381,
+            "phonetic": "kuiniu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "48",
+            "zhuyin": "ㄕㄨㄟˇㄋㄧㄡˊ",
+            "_id": "00282f28addae0ec8b3869f7509320f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trâu; trâu nước",
+                            "explain": "牛的一种角很大，作新月形，有的长达一米多毛灰黑色暑天喜欢浸在水中食物以青草为主适于水田耕作",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 51,
+                "search": 907
+            },
+            "snym": null,
+            "cn_vi": "thuỷ ngưu",
+            "pinyin": "shuǐniú",
+            "word": "水牛",
+            "id": 48536,
+            "phonetic": "shuiniu",
+            "rank": 10588,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Zhǐ",
+                "examples": "我家后面那些牛只吃郁金香。\nWǒjiā hòumiàn nàxiē niú zhī chī yùjīnxiāng.\nNhững con bò sau nhà tôi ăn hoa tulip.",
+                "measure": "只"
+            },
+            "topic": "48",
+            "zhuyin": "ㄋㄧㄡˊㄓˇ",
+            "_id": "25c25eb2bd0e41a4a448f33c6e2b38dd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia súc",
+                            "explain": "cattle",
+                            "examples": []
+                        },
+                        {
+                            "mean": "con bò",
+                            "explain": "cow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "ngưu chỉ",
+            "pinyin": "niú zhī",
+            "word": "牛只",
+            "id": 98355,
+            "phonetic": "niuzhi",
+            "rank": 70339,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄨˇㄋㄧㄡˊ",
+            "_id": "2705d55df27872223aa8bb169f5ce49f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bò mẹ; bò cái",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bò cái bị sẩy thai.",
+                                    "p_vn": "Bo cai bi say thai.",
+                                    "_id": "a86971a068104234b5ca3263ded941cf",
+                                    "id": 70173,
+                                    "type": "e_cnvi",
+                                    "e": "母牛流产了。",
+                                    "p_cn": "mu niu liuchan le",
+                                    "p": "mǔ niú liúchǎn le"
+                                },
+                                {
+                                    "m": "Cô gái mà Aiôzus yêu thương, bị Hêra biến thành một con bò nhỏ.",
+                                    "p_vn": "Co gai ma Aiozus yeu thuong, bi Hera bien thanh mot con bo nho.",
+                                    "_id": "a20e4525a5bb4a71bf27abcdc8a394e7",
+                                    "id": 70174,
+                                    "type": "e_cnvi",
+                                    "e": "艾奥宙斯所爱的少女，被赫拉变成丁小母牛",
+                                    "p_cn": "ai ao Zhousi suo ai de shaonu bei Hela biancheng ding xiao mu niu",
+                                    "p": "ài ào Zhòusī suǒ ài de shàonǚ bèi Hèlā biànchéng dīng xiǎo mǔ niú"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 61
+            },
+            "snym": null,
+            "cn_vi": "mẫu ngưu",
+            "pinyin": "mǔ niú",
+            "word": "母牛",
+            "id": 71807,
+            "phonetic": "muniu",
+            "rank": 52991,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄠˊㄋㄧㄡˊ",
+            "topic": "48",
+            "_id": "263907bfb89eaadca8d87fc0a67f1fc5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bò Tây Tạng; bò y-ắc (giống bò ở vùng Thanh Hải, Tây Tạng, Trung Quốc)",
+                            "explain": "牛的一种，全身有长毛，黑褐色、棕色或白色， 腿短是中国青藏高原地区主要的力畜",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 28,
+                "search": 361
+            },
+            "snym": null,
+            "cn_vi": "mao ngưu",
+            "pinyin": "máoniú",
+            "word": "牦牛",
+            "id": 37255,
+            "phonetic": "maoniu",
+            "rank": 19680,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄢㄋㄧㄡˊ",
+            "_id": "ea30afff91ddd02910cc30ca712be859",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hoa khiên ngưu",
+                            "explain": "牵牛花，一年生草本植物，缠绕茎，叶心脏形，通常三裂，有长柄，花冠喇叭形，通常淡红、紫红、紫蓝色，筒部白色，供观赏果实为蒴果种子黑色，可以做泻药通称喇叭花",
+                            "examples": [
+                                {
+                                    "m": "anh ấy chỉ cho tôi xem đâu là sao Chức Nữ, đâu là sao Khiên Ngưu.",
+                                    "p_vn": "anh ay chi cho toi xem dau la sao chuc nu dau la sao khien nguu",
+                                    "_id": "80d8d5d75d35103d909c8a75d6ee237d",
+                                    "id": 50388,
+                                    "type": "e_cnvi",
+                                    "e": "他指点给我看，哪是织女星，哪是牵牛星。",
+                                    "p_cn": "ta zhidian gei wo kan na shi zhinuxing na shi qian niu xing",
+                                    "p": "tā zhǐdiǎn gěi wǒ kàn, nǎ shì zhīnǚxīng, nǎ shì qiān niú xīng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sao khiên ngưu",
+                            "explain": "指牵牛星",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 109
+            },
+            "snym": null,
+            "cn_vi": "khiên ngưu",
+            "pinyin": "qiān niú",
+            "word": "牵牛",
+            "id": 42292,
+            "phonetic": "qianniu",
+            "rank": 39794,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄣㄋㄧㄡˊ",
+            "_id": "e40b3d49d0e9435a960b18fc279ede28",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "(tiếng lóng) thực sự tuyệt vời, tuyệt vời",
+                            "explain": "(slang) really cool, awesome",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 93
+            },
+            "snym": null,
+            "cn_vi": "chân ngưu",
+            "pinyin": "zhēn niú",
+            "word": "真牛",
+            "id": 104628,
+            "phonetic": "zhenniu",
+            "rank": 43104,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "22, 61, 34, 48, 49",
+            "zhuyin": "ㄨㄛㄋㄧㄡˊ",
+            "_id": "2eda7a713fcc065e831961dc175baf96",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ốc sên; ốc ma; sên; oa",
+                            "explain": "软体动物，头部有两对触角，腹面有扁平的脚，壳略作扁圆形、球形或椭圆形，黄褐色，有螺旋纹吃草本植物的表皮，危害植物有的地区叫水牛儿",
+                            "examples": [
+                                {
+                                    "m": "Thượng đế giao cho tôi một nhiệm vụ, bảo tôi dắt một con ốc sên đi dạo.",
+                                    "p_vn": "thuong de giao cho toi mot nhiem vu, bao toi dat mot con oc sen di dao.",
+                                    "_id": "9a0aa97bc9dfe85e05a460b9ff6a2c59",
+                                    "id": 53957,
+                                    "type": "e_cnvi",
+                                    "e": "上帝给我一个任务， 叫我牵一只蜗牛去散步。",
+                                    "p_cn": "shangdi gei wo yige renwu, jiao wo qian yi zhi woniu qu sanbu.",
+                                    "p": "Shàngdì gěi wǒ yīgè rènwù, jiào wǒ qiān yī zhǐ wōniú qù sànbù."
+                                },
+                                {
+                                    "m": "Ốc sên là một loài nhuyễn thể.",
+                                    "p_vn": "oc sen la mot loai nhuyen the.",
+                                    "_id": "329486f68b2b4177e0301e5c721884fb",
+                                    "id": 85399,
+                                    "type": "e_cnvi",
+                                    "e": "蜗牛是一种软体动物。",
+                                    "p_cn": "woniu shi yi zhong ruanti dongwu.",
+                                    "p": "wōniú shì yī zhǒng ruǎntǐ dòngwù."
+                                },
+                                {
+                                    "m": "Hầu hết các loài ốc sên đều có vỏ trên lưng.",
+                                    "p_vn": "hau het cac loai oc sen deu co vo tren lung.",
+                                    "_id": "329486f68b2b4177e0301e5c72188772",
+                                    "id": 85400,
+                                    "type": "e_cnvi",
+                                    "e": "大多数蜗牛背上有壳。",
+                                    "p_cn": "da duoshu woniu bei shang you ke.",
+                                    "p": "dà duōshù wōniú bèi shàng yǒu ké."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 114,
+                "search": 1144
+            },
+            "snym": null,
+            "cn_vi": "qua ngưu",
+            "pinyin": "wōniú",
+            "word": "蜗牛",
+            "id": 53529,
+            "phonetic": "woniu",
+            "rank": 8832,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗˋㄋㄧㄡˊ",
+            "_id": "840879ffd31e46ad9c1f9a8f47798e7a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "con bò",
+                            "explain": "cow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 84
+            },
+            "snym": null,
+            "cn_vi": "tự ngưu",
+            "pinyin": "zì niú",
+            "word": "牸牛",
+            "id": 92553,
+            "phonetic": "ziniu",
+            "rank": 45526,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄤˇㄋㄧㄡˊ",
+            "topic": "66",
+            "_id": "d98ca4ac31d71e0eeaa29b7268d1dd76",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Nuôi Bò",
+                            "explain": "《养牛》是明代刘崧创作的一首五言古诗。",
+                            "examples": [
+                                {
+                                    "m": "Em trai của tôi là một nhân viên chăn nuôi bò.",
+                                    "p_vn": "Em trai cua toi la mot nhan vien chan nuoi bo.",
+                                    "_id": "22cb8b4c02564ef7ba2b11070cf1ee96",
+                                    "id": 73175,
+                                    "type": "e_cnvi",
+                                    "e": "我的弟弟是饲养牛的饲养员。",
+                                    "p_cn": "wo de didi shi siyang niu de siyangyuan",
+                                    "p": "wǒ de dìdi shì sìyǎng niú de sìyǎngyuán"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 30
+            },
+            "snym": null,
+            "cn_vi": "dưỡng ngưu",
+            "pinyin": "yǎng niú",
+            "word": "养牛",
+            "id": 78247,
+            "phonetic": "yangniu",
+            "rank": 71584,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4e0993b8f8cb4b46890aa6b105cf52a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Da trâu bò đã thuộc rồi.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "ngưu cách",
+            "pinyin": "niúgé",
+            "word": "牛革",
+            "id": 170361,
+            "phonetic": "niuge",
+            "rank": 155072,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄋㄧㄢˊ",
+            "_id": "b1232bbc4d46406c9ae3e618c95621d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Năm Sửu hoặc Bull (ví dụ: 2009)",
+                            "explain": "Year of the Ox or Bull (e.g. 2009)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "ngưu niên",
+            "pinyin": "niú nián",
+            "word": "牛年",
+            "id": 104329,
+            "phonetic": "niunian",
+            "rank": 84249,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄧㄢㄋㄧㄡˊ",
+            "_id": "f05f31790378d74cdfc93a8b3dacb947",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Xén tóc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 46
+            },
+            "snym": null,
+            "cn_vi": "thiên ngưu",
+            "pinyin": "tiān niú",
+            "word": "天牛",
+            "id": 69888,
+            "phonetic": "tianniu",
+            "rank": 60045,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄘㄞˋㄋㄧㄡˊ",
+            "_id": "bf085f7cb13030957a430a741914b41e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bò thịt; trâu bò để giết lấy thịt",
+                            "explain": "专供宰杀食用的牛",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "thái ngưu",
+            "pinyin": "càiniú",
+            "word": "菜牛",
+            "id": 5412,
+            "phonetic": "cainiu",
+            "rank": 114002,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ba331c0d4cc24fa7af7eaef401090ec9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Con dao mổ trâu. Chỉ người có tài lớn, nhưng lại chỉ được dùng vào việc nhỏ.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "ngưu đao",
+            "pinyin": "niúdāo",
+            "word": "牛刀",
+            "id": 170720,
+            "phonetic": "niudao",
+            "rank": 98930,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄜˇㄋㄧㄡˊ",
+            "_id": "a966d63769744b6eac2857f8fb4402ea",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Rất khá; giỏi đấy. Dùng chỉ ai đó rất giỏi; thành tích công việc tốt hoặc làm ăn khấm khá; thịnh vượng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cậu này khá đấy, có một lúc thôi đã kiếm được trăm vạn rồi",
+                                    "p_vn": "Cau nay kha day, co mot luc thoi da kiem duoc tram van roi",
+                                    "_id": "8a639982a2a34cf7a58168453ec6d86c",
+                                    "id": 68429,
+                                    "type": "e_cnvi",
+                                    "e": "这家伙，可牛了，一下子赚了百万！",
+                                    "p_cn": "Zhe jiahuo, ke niule, yixia zi zhuan liao bai wan!",
+                                    "p": "Zhè jiāhuo, kě niúle, yīxià zi zhuàn liǎo bǎi wàn!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "khả ngưu",
+            "pinyin": "kě niú",
+            "word": "可牛",
+            "id": 154116,
+            "phonetic": "keniu",
+            "rank": 103394,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "3, 47",
+            "zhuyin": "ㄉㄡˋㄋㄧㄡˊ",
+            "_id": "ce2d30e19403144b93ca3f72058d3c3c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chọi trâu; đấu trâu; đấu bò",
+                            "explain": "挑逗牛与牛或牛与人相斗",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bò húc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 279
+            },
+            "snym": null,
+            "cn_vi": "đẩu ngưu",
+            "pinyin": "dòuniú",
+            "word": "斗牛",
+            "id": 13827,
+            "phonetic": "douniu",
+            "rank": 23206,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e05bf01ef7804e58a91acf04593b24a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đồ ăn。可以充饑的東西。",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tự ngưu",
+            "pinyin": "shí niú",
+            "word": "食牛",
+            "id": 172007,
+            "phonetic": "shiniu",
+            "rank": 137431,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄌㄢˊ",
+            "_id": "f2bcf0b74b35439fa412efc73f160b37",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chuồng gia súc",
+                            "explain": "cattle pen",
+                            "examples": [
+                                {
+                                    "m": "phân chuồng trâu",
+                                    "p_vn": "phan chuong trau",
+                                    "_id": "0701d2adf06e4a21120919a3d9984bbb",
+                                    "id": 30380,
+                                    "type": "e_cnvi",
+                                    "e": "牛栏坢",
+                                    "p_cn": "niu lan ban",
+                                    "p": "niú lán bàn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chuồng trâu",
+                            "explain": "养牛的地方",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "ngưu lan",
+            "pinyin": "niú lán",
+            "word": "牛栏",
+            "id": 98360,
+            "phonetic": "niulan",
+            "rank": 85118,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "48",
+            "zhuyin": "ㄕㄜˋㄋㄧㄡˊ",
+            "_id": "4c28c09ab47eafc756ad22731d768b24",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bò xạ (động vật)",
+                            "explain": "哺乳动物，体形像牛，稍小，头大而阔，四肢较短，颈和尾都很短，毛长，褐色，皮下有腺体，分泌物有特殊气味生活在北美洲的极北地区",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 74
+            },
+            "snym": null,
+            "cn_vi": "xạ ngưu",
+            "pinyin": "shè niú",
+            "word": "麝牛",
+            "id": 46172,
+            "phonetic": "sheniu",
+            "rank": 48481,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄧㄤˊ",
+            "_id": "4f7400c42c744d2395cee0b3501f5ef0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia súc và cừu",
+                            "explain": "cattle and sheep",
+                            "examples": [
+                                {
+                                    "m": "vì không chú ý đến thức ăn nên nên trâu bò bị sụt cân.",
+                                    "p_vn": "vi khong chu y den thuc an nen nen trau bo bi sut can",
+                                    "_id": "e6fac22ca6e5591ae52bc1401f538afa",
+                                    "id": 27900,
+                                    "type": "e_cnvi",
+                                    "e": "由于饲养不经心， 牛羊都落了膘。",
+                                    "p_cn": "youyu siyang bu jing xin niu yang dou luole biao",
+                                    "p": "yóuyú sìyǎng bù jīng xīn, niú yáng dōu luòle biāo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chăn nuôi",
+                            "explain": "livestock",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 91
+            },
+            "snym": null,
+            "cn_vi": "ngưu dương",
+            "pinyin": "niú yáng",
+            "word": "牛羊",
+            "id": 104331,
+            "phonetic": "niuyang",
+            "rank": 43607,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄡˇㄋㄧㄡˊ",
+            "_id": "a6d1113f6aec4516b7564cd8c47b0d25",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Năm thứ 2, năm Bull hoặc Ox (ví dụ: 2009)",
+                            "explain": "Year 2, year of the Bull or Ox (e.g. 2009)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "sửu ngưu",
+            "pinyin": "chǒu niú",
+            "word": "丑牛",
+            "id": 101046,
+            "phonetic": "chouniu",
+            "rank": 64992,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄣˊㄋㄧㄡˊ",
+            "topic": "48",
+            "_id": "064d208fc6cb6685f1abb48550bb1dbc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bò xám",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "lâm ngưu",
+            "pinyin": "lín niú",
+            "word": "林牛",
+            "id": 71580,
+            "phonetic": "linniu",
+            "rank": 126795,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "48",
+            "zhuyin": "ㄧㄝˇㄋㄧㄡˊ",
+            "_id": "a3003587a6c2c3c659fc20ddc9f9a9c0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trâu rừng; bò rừng",
+                            "explain": "哺乳动物，形状跟家牛相似，身体高大，毛褐色，头部和颈部有长毛，背部隆起吃树皮、树叶等有好几种，分别产于亚洲、欧洲和美洲，现存不多，是一种珍奇的动物",
+                            "examples": [
+                                {
+                                    "m": "100 năm trước, Bắc Mỹ có một số lượng lớn bò bison hoang dã.",
+                                    "p_vn": "100 nam truoc, Bac My co mot so luong lon bo bison hoang da.",
+                                    "_id": "360158edb42e46829e9345191a283624",
+                                    "id": 72299,
+                                    "type": "e_cnvi",
+                                    "e": "100年前，北美有大量的野牛。",
+                                    "p_cn": "nianqian Beimei you daliang de yeniu",
+                                    "p": "niánqián Běiměi yǒu dàliàng de yěniú"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 57
+            },
+            "snym": null,
+            "cn_vi": "dã ngưu",
+            "pinyin": "yěniú",
+            "word": "野牛",
+            "id": 58923,
+            "phonetic": "yeniu",
+            "rank": 54335,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "266f14464cf64aadb207ef66c54fdb50",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trình xã giao đỉnh của chóp (kiểu cực tự tin không ngại thể hiện bản thân ở trước mặt mọi người/ người khác.)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 60,
+                "search": 613
+            },
+            "snym": null,
+            "cn_vi": "xã ngưu",
+            "pinyin": "shè niú",
+            "word": "社牛",
+            "id": 160557,
+            "phonetic": "sheniu",
+            "rank": 13875,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧˊㄋㄧㄡˊ",
+            "_id": "53ccadce76af74173512a46f5d39253b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trâu cày",
+                            "explain": "耕牛",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "lê ngưu",
+            "pinyin": "líniú",
+            "word": "犁牛",
+            "id": 34277,
+            "phonetic": "liniu",
+            "rank": 119574,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄋㄧㄡˊ",
+            "_id": "92c4f23e7ff045e4910bede9edc363a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(coll.) mô hình giá cao hơn của Lamborghini",
+                            "explain": "(coll.) higher-priced model of Lamborghini",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ánh sáng dẫn đầu (coll.)",
+                            "explain": "(coll.) leading light",
+                            "examples": []
+                        },
+                        {
+                            "mean": "badass",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "siêu sao",
+                            "explain": "superstar",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 54
+            },
+            "snym": null,
+            "cn_vi": "đại ngưu",
+            "pinyin": "dà niú",
+            "word": "大牛",
+            "id": 90836,
+            "phonetic": "daniu",
+            "rank": 55846,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄌㄧㄡˇ",
+            "_id": "2e293379ade74f7e84f1b4e905adedc7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thăn bò",
+                            "explain": "(beef) tenderloin",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 54
+            },
+            "snym": null,
+            "cn_vi": "ngưu liễu",
+            "pinyin": "niú liǔ",
+            "word": "牛柳",
+            "id": 98359,
+            "phonetic": "niuliu",
+            "rank": 56052,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄆㄥˊ",
+            "topic": "66",
+            "_id": "7ec103a2ed55b0a644c2411a90e5f258",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chuồng bò; chuồng trâu",
+                            "explain": "牛舍",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "ngưu bằng",
+            "pinyin": "niú péng",
+            "word": "牛棚",
+            "id": 39706,
+            "phonetic": "niupeng",
+            "rank": 65164,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄨㄣ",
+            "_id": "67faaadfa4ecb508a87474daa14f67ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bệnh dịch trâu bò; bệnh nhiệt thán; dịch trâu toi",
+                            "explain": "牛的一种急性传染病，病原体是一种病毒症状是高热，眼和鼻孔流脓状分泌物，病势沉重时反刍停止，腹泻带血，口内黏膜糜烂患牛瘟死去的牛，肠黏膜坏死，胆胀大有的 地区叫烂肠瘟、胆胀瘟",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "ngưu ôn",
+            "pinyin": "niú wēn",
+            "word": "牛瘟",
+            "id": 39717,
+            "phonetic": "niuwen",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩㄢˊㄋㄧㄡˊ",
+            "_id": "5e8b51babfb74bac9812a7e301e35731",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "aurochs (Bos primigenius), bò hoang dã đã tuyệt chủng",
+                            "explain": "aurochs (Bos primigenius), extinct wild ox",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "nguyên ngưu",
+            "pinyin": "yuán niú",
+            "word": "原牛",
+            "id": 101839,
+            "phonetic": "yuanniu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄏㄨㄤˊ",
+            "_id": "6b702c6cc68aef7183ea971b27fcf232",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ngưu Hoàng (vị thuốc đông y); ngưu hoàng",
+                            "explain": "药名，病牛的胆汁凝结成的黄色粒状物或块状物是珍贵的中药材，有强心、解热等作用",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 87
+            },
+            "snym": null,
+            "cn_vi": "ngưu hoàng",
+            "pinyin": "niúhuáng",
+            "word": "牛黄",
+            "id": 39697,
+            "phonetic": "niuhuang",
+            "rank": 44455,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄑㄧˋ",
+            "_id": "7b167fd484a6dd6aeb848dc195ddcff2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vênh váo; kiêu ngạo; ngạo mạn",
+                            "explain": "形容自高自大的骄傲神气",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 143
+            },
+            "snym": null,
+            "cn_vi": "ngưu khí",
+            "pinyin": "niúqi",
+            "word": "牛气",
+            "id": 39711,
+            "phonetic": "niuqi",
+            "rank": 34281,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄕˋ",
+            "_id": "7c2f7a4ce45b4fc39e7ad2327069a425",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thị trường bò tót",
+                            "explain": "bull market",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 92
+            },
+            "snym": {
+                "syno": [
+                    "熊市",
+                    "股市"
+                ],
+                "anto": [
+                    "熊市"
+                ]
+            },
+            "cn_vi": "ngưu thị",
+            "pinyin": "niúshì",
+            "word": "牛市",
+            "id": 98357,
+            "phonetic": "niushi",
+            "rank": 43384,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄦˇ",
+            "_id": "8185c4a78f7d6462229dfe0fb10351d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người cầm đầu; người chủ minh ước; đầu đảng",
+                            "explain": "执牛耳：古代诸侯订立盟约，要每人尝一点牲血，主盟的人亲手割牛耳取血，故用 '执牛耳'指盟主，后来泛指在某一方面居领导地位",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": {
+                "syno": [
+                    "鳌头"
+                ]
+            },
+            "cn_vi": "ngưu nhĩ",
+            "pinyin": "niú'ěr",
+            "word": "牛耳",
+            "id": 39694,
+            "phonetic": "niu'er",
+            "rank": 112484,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄊㄡˊ",
+            "_id": "9383df0f7f134adbae401a64c961c2a3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ox-Head, một trong hai người bảo vệ thế giới ngầm trong thần thoại Trung Quốc",
+                            "explain": "Ox-Head, one of the two guardians of the underworld in Chinese mythology",
+                            "examples": [
+                                {
+                                    "m": "máy bào ngang",
+                                    "p_vn": "may bao ngang",
+                                    "_id": "c9398a0a6bbbe7987b526f8515e0b202",
+                                    "id": 30461,
+                                    "type": "e_cnvi",
+                                    "e": "牛头刨",
+                                    "p_cn": "niutou bao",
+                                    "p": "niútóu bào"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đầu bò",
+                            "explain": "ox head",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bình rượu hình đầu bò",
+                            "explain": "ox-head shaped wine vessel",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 105
+            },
+            "snym": null,
+            "cn_vi": "ngưu đầu",
+            "pinyin": "niútóu",
+            "word": "牛头",
+            "id": 98356,
+            "phonetic": "niutou",
+            "rank": 40558,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "34",
+            "zhuyin": "ㄋㄧㄡˊㄧㄡˊ",
+            "_id": "c5f9dac7de1d4f11971ce0ab4f6461d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bơ",
+                            "explain": "butter",
+                            "examples": [
+                                {
+                                    "m": "Bạn đang đốt bơ.",
+                                    "p_vn": "Ban dang dot bo.",
+                                    "_id": "701a0d975e5f4731bc3e4e63e79e53be",
+                                    "id": 57869,
+                                    "type": "e_cnvi",
+                                    "e": "不会下雪-牛油快焦了",
+                                    "p_cn": "buhui xiaxue - niuyou kuaijiao le",
+                                    "p": "bùhùi xiàxuě - níuyóu kuàijiāo le"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 331
+            },
+            "snym": null,
+            "cn_vi": "ngưu du",
+            "pinyin": "niú yóu",
+            "word": "牛油",
+            "id": 98361,
+            "phonetic": "niuyou",
+            "rank": 20770,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄇㄥˊ",
+            "_id": "c2282ea732717f452428e2b297145ca0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ruồi trâu; ruồi vàng; ve trâu",
+                            "explain": "昆虫，虻的一种，身体长椭圆形，有灰、黑、黄褐等色胸部和腹部有花纹成虫在夏季晴朗天气最活跃，雄的吸食植物的汁液和花蜜，雌的吸食牛、马等家畜的血液",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy sai một con ruồi đái bọ đi quấy rối Ieo. Ieo trốn tránh khắp nơi, bơi qua biển lớn, biển này từ đó được đặt tên là biển Ionian theo tên cô ấy.",
+                                    "p_vn": "Co ay sai mot con ruoi dai bo di quay roi Ieo. Ieo tron tranh khap noi, boi qua bien lon, bien nay tu do duoc dat ten la bien Ionian theo ten co ay.",
+                                    "_id": "bcc363850880411a9d6d62c5b9b6bea0",
+                                    "id": 71310,
+                                    "type": "e_cnvi",
+                                    "e": "她派遣了一只牛虻去折磨伊俄。伊俄四处躲藏，游过了大海，这海从些就以她命名叫伊奥尼亚海。",
+                                    "p_cn": "ta paiqian le yi zhi niumeng qu zhemo yi e yi e sichu duocang you guo le dahai zhe hai cong xie jiu yi ta mingming jiao yi ao ni ya hai",
+                                    "p": "tā pàiqiǎn le yī zhǐ niúméng qù zhémó yī é yī é sìchù duǒcáng yóu guò le dàhǎi zhè hǎi cóng xiē jiù yǐ tā mìngmíng jiào yī ào ní yà hǎi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "ngưu manh",
+            "pinyin": "niúméng",
+            "word": "牛虻",
+            "id": 39703,
+            "phonetic": "niumeng",
+            "rank": 76988,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "bēi, dài, píng, hé, xiāng, tǒng",
+                "examples": "我想为我儿子买两瓶牛奶。\nwǒ xiǎng wèi wǒ érzi mǎi liǎng píng niúnǎi.\nTôi muốn mua 2 bình sữa cho con trai tôi.",
+                "measure": "杯, 袋, 瓶, 盒, 箱, 桶"
+            },
+            "zhuyin": "ㄋㄧㄡˊㄋㄞˇ",
+            "topic": "36",
+            "_id": "d83b8898a18d52e43e40890f2addc76f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                78900,
+                                78901,
+                                78902
+                            ],
+                            "struct": "Số lượng + 杯、袋、瓶、盒、箱、桶 + 牛奶"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                78906,
+                                78907,
+                                79061
+                            ],
+                            "struct": "Động từ（喝、送、挤）"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sữa bò",
+                            "explain": "母牛的身体产出来的白色液体，很有营养，可以喝，也可以用来制作食品",
+                            "examples": [
+                                {
+                                    "m": "Lão Lưu giúp tôi gọi một ly sữa không đường.",
+                                    "p_vn": "lao luu giup toi goi mot ly sua khong duong.",
+                                    "_id": "1450a0343bd14a7a93a938de3915ef72",
+                                    "id": 68814,
+                                    "type": "e_cnvi",
+                                    "e": "老刘帮我点一杯无糖牛奶。",
+                                    "p_cn": "lao liu bang wo dian yibei wu tang niunai.",
+                                    "p": "Lǎo liú bāng wǒ diǎn yībēi wú táng niúnǎi."
+                                },
+                                {
+                                    "m": "Cô ấy đang dùng ống hút để uống sữa.",
+                                    "p_vn": "co ay dang dung ong hut de uong sua.",
+                                    "_id": "b2776ac4a861e06178aa5de73bd4d5ec",
+                                    "id": 78895,
+                                    "type": "e_cnvi",
+                                    "e": "她正用吸管咕嘟咕嘟地喝牛奶。",
+                                    "p_cn": "ta zheng yong xiguan gudu gudu de he niunai.",
+                                    "p": "tā zhèng yòng xīguǎn gūdū gūdū de hē niúnǎi."
+                                },
+                                {
+                                    "m": "Cô ấy đang dùng ống hút để uống sữa.",
+                                    "p_vn": "co ay dang dung ong hut de uong sua.",
+                                    "_id": "b2776ac4a861e06178aa5de73bd4de82",
+                                    "id": 78896,
+                                    "type": "e_cnvi",
+                                    "e": "给我在咖啡里多加点牛奶好吗？",
+                                    "p_cn": "gei wo zai kafei li duo jiadian niunai hao ma?",
+                                    "p": "gěi wǒ zài kāfēi lǐ duō jiādiǎn niúnǎi hǎo ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 681,
+                "search": 8771
+            },
+            "snym": {
+                "syno": [
+                    "牛乳",
+                    "奶油"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "niúnǎi",
+            "cn_vi": "ngưu nãi",
+            "word": "牛奶",
+            "id": 72568,
+            "phonetic": "niunai",
+            "rank": 1197,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cbc3805e7e25459186d51bf761926a30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gân bò",
+                            "explain": "指牛的肌腱或骨头上的韧带。",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người cố chấp",
+                            "explain": "比喻十分固执、很难说服的人。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 204
+            },
+            "snym": null,
+            "cn_vi": "ngưu cân",
+            "pinyin": "niú jīn",
+            "word": "牛筋",
+            "id": 158984,
+            "phonetic": "niujin",
+            "rank": 27958,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄇㄧˇ",
+            "_id": "df1b98f6c9284c7bb2e985c87cf3f1f5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "newton mét (Nm)",
+                            "explain": "newton meter (Nm)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "ngưu mễ",
+            "pinyin": "niú mǐ",
+            "word": "牛米",
+            "id": 92548,
+            "phonetic": "niumi",
+            "rank": 111380,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄤㄋㄧㄡˊ",
+            "_id": "a47346fda470ac6e627df151fba17cd5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trâu đực; bò đực",
+                            "explain": "公牛",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "chưa có dữ liệu ngưu",
+            "pinyin": "māng niú",
+            "word": "牤牛",
+            "id": 37115,
+            "phonetic": "mangniu",
+            "rank": 130125,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄣㄋㄧㄡˊ",
+            "_id": "b6ad9a56f2164c0ffd2fbce72454925f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trâu bằng đất sét",
+                            "explain": "旧时打春仪式上所用的土牛",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kẻ dẫn khách; ma cô (người tìm khách cho gái điếm hoặc nhà thổ)",
+                            "explain": "色情业的掮客，拉皮条的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "xuân ngưu",
+            "pinyin": "chūnniú",
+            "word": "春牛",
+            "id": 9044,
+            "phonetic": "chunniu",
+            "rank": 130648,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄥˊㄋㄧㄡˊ",
+            "_id": "d575fd7fdf8cb74676b50daadbaff367",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "linh ngưu (động vật có vú, giống như trâu, con cái, con đực đều có sừng màu đen, sống ở trên núi, ăn cây cỏ, măng non...)",
+                            "explain": "哺乳动物， 像水牛，雌雄都有黑色的短角， 肩部比臀部高， 尾巴短， 毛棕黄色或褐色生活在高山上， 吃青草、树枝、竹笋等也叫扭角羚， 牛羚",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "linh ngưu",
+            "pinyin": "língniú",
+            "word": "羚牛",
+            "id": 35510,
+            "phonetic": "lingniu",
+            "rank": 119459,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄡˊㄉㄨˋ",
+            "topic": "34",
+            "_id": "fcbda254a5199844b7ed8512f3f80c41",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Dạ dày bò",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 139
+            },
+            "snym": null,
+            "cn_vi": "ngưu đỗ",
+            "pinyin": "niú dǔ",
+            "word": "牛肚",
+            "id": 72576,
+            "phonetic": "niudu",
+            "rank": 34890,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "牛（名）"
+}

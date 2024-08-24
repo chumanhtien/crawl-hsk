@@ -1,0 +1,807 @@
+{
+    "total": 15,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": {
+                "pinyin": "ge",
+                "examples": "做个赢家很好。",
+                "measure": "个"
+            },
+            "zhuyin": "ㄧㄥˊ",
+            "_id": "b275aff19459dc10aa7237b889c710a4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Thắng + trận đấu/ cuộc thi/ chiến dịch,..",
+                            "examples": [
+                                101854,
+                                101857
+                            ],
+                            "struct": "赢+比赛/竞争/战役等"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thắng; được",
+                            "explain": "胜 (跟''输''相对)",
+                            "examples": [
+                                {
+                                    "m": "kết quả trận đấu bóng đá, đội A đã thắng.",
+                                    "p_vn": "ket qua tran dau bong da, doi a da thang.",
+                                    "_id": "e44573e43e4ffd378fe2c569ddfc6f78",
+                                    "id": 46154,
+                                    "type": "e_cnvi",
+                                    "e": "足球比赛结果，甲队赢了。",
+                                    "p_cn": "zuqiubisai jieguo，jiadui ying le。",
+                                    "p": "zúqíubǐsài jiéguǒ，jiǎdùi yíng le。"
+                                },
+                                {
+                                    "m": "Tôi thắng rồi.",
+                                    "p_vn": "toi thang roi.",
+                                    "_id": "55db399305625a14707d64b918c16cf3",
+                                    "id": 101847,
+                                    "type": "e_cnvi",
+                                    "e": "我赢了。",
+                                    "p_cn": "wo yingle.",
+                                    "p": "wǒ yíngle."
+                                },
+                                {
+                                    "m": "Sắp thắng rồi.",
+                                    "p_vn": "sap thang roi.",
+                                    "_id": "55db399305625a14707d64b918c182e0",
+                                    "id": 101849,
+                                    "type": "e_cnvi",
+                                    "e": "马上赢了。",
+                                    "p_cn": "mashang yingle.",
+                                    "p": "mǎshàng yíngle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "được lời; được lãi",
+                            "explain": "获利",
+                            "examples": [
+                                {
+                                    "m": "dôi ra",
+                                    "p_vn": "doi ra",
+                                    "_id": "7eebfd8493d712f98b46024f1d256f76",
+                                    "id": 46156,
+                                    "type": "e_cnvi",
+                                    "e": "赢余",
+                                    "p_cn": "yingyu",
+                                    "p": "yíngyú"
+                                },
+                                {
+                                    "m": "Làm ăn có lãi.",
+                                    "p_vn": "lam an co lai.",
+                                    "_id": "55db399305625a14707d64b918c1903a",
+                                    "id": 101850,
+                                    "type": "e_cnvi",
+                                    "e": "生意有了赢余。",
+                                    "p_cn": "shengyi youle yingyu.",
+                                    "p": "shēngyì yǒule yíngyú."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"赢\" có nghĩa của \"胜\"- \"thắng\", nhưng \"赢\" còn có nghĩa là đạt được, \"胜\" không có nghĩa như vậy.\nTừ trái nghĩa của\"胜\" là\"负\" hoặc\"败\", và từ trái nghĩa của \"赢\" là \"输\".",
+                    "title": "Phân biệt \"胜\" và \"赢\"",
+                    "words": [
+                        "胜",
+                        "赢"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "胜"
+                ],
+                "anto": [
+                    "输",
+                    "败"
+                ]
+            },
+            "lv_hsk_new": "3, 4",
+            "pinyin": "yíng",
+            "cn_vi": "doanh",
+            "popularity": {
+                "notebook": 649,
+                "search": 16537
+            },
+            "word": "赢",
+            "id": 60656,
+            "phonetic": "ying",
+            "rank": 413,
+            "lv_hsk": 4,
+            "lv_tocfl": 1,
+            "compound": "赢得 ; 赢家 ; 赢利 ; 赢余"
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄥˊㄩˊ",
+            "_id": "c163a5c74d6594810fa235420a41b8de",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "dôi ra; tiền lãi",
+                            "explain": "同'盈余'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 63
+            },
+            "snym": {
+                "syno": [
+                    "节余",
+                    "剩余",
+                    "盈利",
+                    "盈余",
+                    "结余"
+                ]
+            },
+            "cn_vi": "doanh dư",
+            "pinyin": "yíngyú",
+            "word": "赢余",
+            "id": 60660,
+            "phonetic": "yingyu",
+            "rank": 51940,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "15",
+            "zhuyin": "ㄍㄨㄥˋㄧㄥˊ",
+            "_id": "4c17175ddafe4c95926db675c5087461",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "cùng có lợi",
+                            "explain": "mutually profitable",
+                            "examples": [
+                                {
+                                    "m": "Thứ hai, mở rộng hợp tác kinh tế cùng có lợi và đôi bên cùng có lợi",
+                                    "p_vn": "Thu hai, mo rong hop tac kinh te cung co loi va doi ben cung co loi",
+                                    "_id": "943f969045c148deae60ad411e96b549",
+                                    "id": 67949,
+                                    "type": "e_cnvi",
+                                    "e": "第二，拓展互利共赢的经济合作",
+                                    "p_cn": "Di er, tazhan huli gong ying de jingji hezuo",
+                                    "p": "Dì èr, tàzhǎn hùlì gòng yíng de jīngjì hézuò"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "win-win",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 262
+            },
+            "snym": {
+                "syno": [
+                    "双赢"
+                ]
+            },
+            "cn_vi": "cộng doanh",
+            "pinyin": "gòng yíng",
+            "word": "共赢",
+            "id": 106850,
+            "phonetic": "gongying",
+            "rank": 24095,
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "做个赢家很好。\nZuò gè yíngjiā hěn hǎo.\nThật tốt khi trở thành người chiến thắng.",
+                "measure": "个"
+            },
+            "topic": "15, 47",
+            "zhuyin": "ㄧㄥˊㄐㄧㄚ",
+            "_id": "ee3d79321c3c244978efe096f6cd4475",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bên thắng",
+                            "explain": "指赌博或比赛中获胜的一方",
+                            "examples": [
+                                {
+                                    "m": "Khi chứng khoán hàng hóa giảm giá, đồng đô la Mỹ sẽ trở thành kẻ chiến thắng bất khả chiến bại.",
+                                    "p_vn": "Khi chung khoan hang hoa giam gia, dong do la My se tro thanh ke chien thang bat kha chien bai.",
+                                    "_id": "4a1132dc11eb4db88e416cdbc32a331d",
+                                    "id": 55146,
+                                    "type": "e_cnvi",
+                                    "e": "随着商品证券跌价，美元将会成为胜之不武的赢家。",
+                                    "p_cn": "Suizhe shangpin zhengquan diejia, meiyuan jiang hui chengwei sheng zhi bu wu de yingjia.",
+                                    "p": "Suízhe shāngpǐn zhèngquàn diéjià, měiyuán jiāng huì chéngwéi shèng zhī bù wǔ de yíngjiā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 258
+            },
+            "snym": {
+                "anto": [
+                    "输家"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yíngjiā",
+            "cn_vi": "doanh gia",
+            "word": "赢家",
+            "id": 60658,
+            "phonetic": "yingjia",
+            "rank": 24342,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄨˇㄧㄥˊ",
+            "_id": "b8950103155244c5895bf2bcc279a6b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Thắng cược",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tất nhiên không phải lần nào bạn cũng thắng cược.",
+                                    "p_vn": "tat nhien khong phai lan nao ban cung thang cuoc.",
+                                    "_id": "2c634dd17efb4cde8d952e828d3b7780",
+                                    "id": 55930,
+                                    "type": "e_cnvi",
+                                    "e": "当然,并不是每次都能赌赢",
+                                    "p_cn": "dangran, bing bu shi mei ci dou neng du ying",
+                                    "p": "Dāngrán, bìng bú shì měi cì dōu néng dǔ yíng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "đổ doanh",
+            "pinyin": "dǔ yíng",
+            "word": "赌赢",
+            "id": 85274,
+            "phonetic": "duying",
+            "rank": 95659,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄧㄥˊ",
+            "_id": "a42962eb56b545698a49ee482a2f6035",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kết cục",
+                            "explain": "outcome",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thắng hay thua",
+                            "explain": "win or loss",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ăn thua",
+                            "explain": "胜败",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 48,
+                "search": 934
+            },
+            "snym": {
+                "syno": [
+                    "胜负"
+                ],
+                "anto": [
+                    "运输"
+                ]
+            },
+            "cn_vi": "thâu doanh",
+            "pinyin": "shūyíng",
+            "word": "输赢",
+            "id": 105747,
+            "phonetic": "shuying",
+            "rank": 10354,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄥˊㄉㄜ˙",
+            "_id": "36562e5ed4b387971b90e2e2530fec3d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                82651,
+                                82652
+                            ],
+                            "struct": "赢得 + Tân ngữ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "được; giành được; giành chiến thắng",
+                            "explain": "获得；争取到",
+                            "examples": [
+                                {
+                                    "m": "Giành thời gian",
+                                    "p_vn": "gianh thoi gian",
+                                    "_id": "fece62cf0b957ee86e8054a8a5187a7b",
+                                    "id": 46157,
+                                    "type": "e_cnvi",
+                                    "e": "赢得时间",
+                                    "p_cn": "yingde shijian",
+                                    "p": "yíngdé shíjiān"
+                                },
+                                {
+                                    "m": "Được tín nhiệm và ủng hộ",
+                                    "p_vn": "duoc tin nhiem va ung ho",
+                                    "_id": "c98d423a133c5c601283765d03759811",
+                                    "id": 46158,
+                                    "type": "e_cnvi",
+                                    "e": "赢得信任与支持。",
+                                    "p_cn": "yingde xinren yu zhichi。",
+                                    "p": "yíngdé xìnrèn yǔ zhīchí。"
+                                },
+                                {
+                                    "m": "Buổi biểu diễn hấp dẫn đã giành được sự hoan hô nhiệt liệt của mọi người.",
+                                    "p_vn": "buoi bieu dien hap dan da gianh duoc su hoan ho nhiet liet cua moi nguoi.",
+                                    "_id": "f81cfe3757c79cb9ad632e06f456dd75",
+                                    "id": 46159,
+                                    "type": "e_cnvi",
+                                    "e": "精彩的表演赢得全场喝彩。",
+                                    "p_cn": "jingcai de biaoyan yingde quanchang hecai。",
+                                    "p": "jīngcǎi de biǎoyǎn yíngdé quáncháng hēcǎi。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 99,
+                "search": 1504
+            },
+            "snym": {
+                "syno": [
+                    "取得",
+                    "获得",
+                    "博得"
+                ],
+                "anto": [
+                    "失掉"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "yíngdé",
+            "cn_vi": "doanh đắc",
+            "word": "赢得",
+            "id": 60657,
+            "phonetic": "yingde",
+            "rank": 7044,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "14",
+            "zhuyin": "ㄧㄥˊㄌㄧˋ",
+            "_id": "6a9b8c54f83e741bf0c3ba94b63819e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "doanh thu",
+                            "explain": "企业单位的利润",
+                            "examples": [
+                                {
+                                    "m": "Công ty này sẽ phải mất một năm nữa để có lợi nhuận, hiện tại ít nhất là không lỗ không lãi.",
+                                    "p_vn": "Cong ty nay se phai mat mot nam nua de co loi nhuan, hien tai it nhat la khong lo khong lai.",
+                                    "_id": "23b76ed526a74cb7b466d84e3358f1d3",
+                                    "id": 71363,
+                                    "type": "e_cnvi",
+                                    "e": "这家公司一年以後才能赢利, 现在至少已不赔不赚了.",
+                                    "p_cn": "zhe jia gongsi yi nian yihou caineng yingli xianzai zhishao yi bu pei bu zhuan le",
+                                    "p": "zhè jiā gōngsī yī nián yǐhòu cáinéng yínglì xiànzài zhìshǎo yǐ bù péi bù zhuàn le"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lợi nhuận; được lời; được lãi",
+                            "explain": "获得利润",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 33,
+                "search": 690
+            },
+            "snym": {
+                "syno": [
+                    "盈利",
+                    "获利",
+                    "赚钱"
+                ],
+                "anto": [
+                    "赔本",
+                    "亏本"
+                ]
+            },
+            "cn_vi": "doanh lợi",
+            "pinyin": "yínglì",
+            "word": "赢利",
+            "id": 60659,
+            "phonetic": "yingli",
+            "rank": 12839,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄤㄧㄥˊ",
+            "_id": "c3877599487746d28685f222efe5e139",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "có lợi cho cả hai bên",
+                            "explain": "profitable to both sides",
+                            "examples": [
+                                {
+                                    "m": "Mối quan hệ này không dựa trên nguyên tắc đôi bên cùng có lợi.\r\nDựa trên nguyên tắc \"đôi bên cùng có lợi và hợp tác chân thành\", chúng tôi sẽ chung tay với khách hàng mới và cũ để tạo ra một cục diện win - win mới.",
+                                    "p_vn": "Moi quan he nay khong dua tren nguyen tac doi ben cung co loi.\r\nDua tren nguyen tac \"doi ben cung co loi va hop tac chan thanh\", chung toi se chung tay voi khach hang moi va cu de tao ra mot cuc dien win - win moi.",
+                                    "_id": "b01dca05c9c246c084ef14893f8dee36",
+                                    "id": 68650,
+                                    "type": "e_cnvi",
+                                    "e": "这种关系是没有互惠互利的。\r\n以“互惠互利、真诚合作”的原则与新老客户携手共进，开创双赢双利的新局面。",
+                                    "p_cn": "Zhe zhong guanxi shi meiyou huhui huli de.\r\nYi \"huhui huli, zhencheng hezuo\" de yuanze yu xin lao kehu xieshou gong jin, kaichuang shuangying shuang li de xin jumian.",
+                                    "p": "Zhè zhǒng guānxì shì méiyǒu hùhuì hùlì de.\r\nYǐ “hùhuì hùlì, zhēnchéng hézuò” de yuánzé yǔ xīn lǎo kèhù xiéshǒu gòng jìn, kāichuàng shuāngyíng shuāng lì de xīn júmiàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 374
+            },
+            "snym": {
+                "syno": [
+                    "共赢",
+                    "互利",
+                    "互惠"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "shuāngyíng",
+            "cn_vi": "song doanh",
+            "word": "双赢",
+            "id": 110672,
+            "phonetic": "shuangying",
+            "rank": 19245,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄤˇㄧㄥˊ",
+            "_id": "c5e0e34b33234bed8677f70554942969",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chiến thắng mà không cần phải nhấc một ngón tay",
+                            "explain": "to win without needing to even lift a finger",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chiến thắng được trình bày trên một đĩa",
+                            "explain": "victory presented on a platter",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 131
+            },
+            "snym": {
+                "syno": [
+                    "吊打"
+                ]
+            },
+            "cn_vi": "thảng doanh",
+            "pinyin": "tǎng yíng",
+            "word": "躺赢",
+            "id": 109132,
+            "phonetic": "tangying",
+            "rank": 36023,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2ff0ecd5175941e0b6b639a94ebb633b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ăn non",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thiếu doanh tức chỉ",
+            "pinyin": "shǎo yíng jí zhǐ",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "少赢即止",
+            "id": 179245,
+            "phonetic": "shaoyingjizhi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄗㄨㄛˋㄍㄨㄥˋㄧㄥˊ",
+            "_id": "09a3cec2bea84ddaa75b2a9826778fb5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hợp tác cùng có lợi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 64
+            },
+            "snym": {
+                "syno": [
+                    "互惠互利",
+                    "互利共赢"
+                ]
+            },
+            "cn_vi": "hợp tá cộng doanh",
+            "pinyin": "hézuò gòng yíng",
+            "word": "合作共赢",
+            "id": 152524,
+            "phonetic": "hezuogongying",
+            "rank": 51741,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨˋㄌㄧˋㄍㄨㄥˋㄧㄥˊ",
+            "_id": "b5ee855ca32a453d890ce6133a6464f7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Đôi bên cùng có lợi",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Thứ hai, mở rộng hợp tác kinh tế cùng có lợi và đôi bên cùng có lợi",
+                                    "p_vn": "Thu hai, mo rong hop tac kinh te cung co loi va doi ben cung co loi",
+                                    "_id": "943f969045c148deae60ad411e96b549",
+                                    "id": 67949,
+                                    "type": "e_cnvi",
+                                    "e": "第二，拓展互利共赢的经济合作",
+                                    "p_cn": "Di er, tazhan huli gong ying de jingji hezuo",
+                                    "p": "Dì èr, tàzhǎn hùlì gòng yíng de jīngjì hézuò"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 147
+            },
+            "snym": {
+                "syno": [
+                    "互利互惠",
+                    "合作共赢",
+                    "互惠互利",
+                    "平等互利"
+                ]
+            },
+            "cn_vi": "hỗ lợi cộng doanh",
+            "pinyin": "hùlì gòng yíng",
+            "word": "互利共赢",
+            "id": 153038,
+            "phonetic": "huligongying",
+            "rank": 33786,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄟㄧㄥˊㄌㄧˋㄗㄨˇㄓ",
+            "_id": "8a9df313a2114d81adb5b7e56e491ac5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tổ chức phi lợi nhuận",
+                            "explain": "not-for-profit organization",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "phi doanh lợi tổ chức",
+            "pinyin": "fēi yínglì zǔzhī",
+            "word": "非赢利组织",
+            "id": 143028,
+            "phonetic": "feiyinglizuzhi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄧㄥˊㄓㄜˇㄉㄜ˙ㄗㄨˇㄓㄡˋ",
+            "_id": "472e2d765bc448b2829c5aa3c41e8a24",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Winner's curse là gì\nLời nguyền của kẻ thắng cuộc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "doanh giả đích trớ chú",
+            "pinyin": "Yíng zhě de zǔzhòu",
+            "word": "赢者的诅咒",
+            "id": 157190,
+            "phonetic": "Yingzhedezuzhou",
+            "rank": 93393,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "赢"
+}

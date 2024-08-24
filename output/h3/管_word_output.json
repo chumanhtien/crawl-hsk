@@ -1,0 +1,2794 @@
+{
+    "total": 861,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v",
+                "measure",
+                "conj",
+                "prep"
+            ],
+            "measure": {
+                "pinyin": "Gēn, tiáo, pái",
+                "examples": "一根管,一条管,一排管",
+                "measure": "根, 条, 排"
+            },
+            "topic": "30, 74",
+            "zhuyin": "ㄍㄨㄢˇ",
+            "_id": "32b568f9544aba6b2d4d3c923551b580",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "...do ai đảm nhiệm",
+                            "examples": [
+                                103130,
+                                103131
+                            ],
+                            "struct": "Chủ ngữ + 由/（不）归 + Ai đó + 管"
+                        },
+                        {
+                            "explain": "bổ ngữ khả năng",
+                            "examples": [
+                                103132,
+                                103133,
+                                103134
+                            ],
+                            "struct": "管 + 得/不 + 了/好/着/住/过来"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quản lý; cai quản; trông coi; coi; phụ trách",
+                            "explain": "管理;看管",
+                            "examples": [
+                                {
+                                    "m": "Ai trông coi kho vậy?",
+                                    "p_vn": "ai trong coi kho vay?",
+                                    "_id": "49424d10602aea01ff78f5289ede3cbd",
+                                    "id": 15118,
+                                    "type": "e_cnvi",
+                                    "e": "谁管仓库?",
+                                    "p_cn": "shei guan cangku?",
+                                    "p": "shéi guǎn cāngkù?"
+                                },
+                                {
+                                    "m": "Dì Vương trông coi ký túc.",
+                                    "p_vn": "di vuong trong coi ky tuc.",
+                                    "_id": "55db399305625a14707d64b918f7c988",
+                                    "id": 103077,
+                                    "type": "e_cnvi",
+                                    "e": "王阿姨管宿舍。",
+                                    "p_cn": "wang ayi guan sushe.",
+                                    "p": "wáng āyí guǎn sùshè."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trông coi; trông nom；quản lý; cai quản",
+                            "explain": "管辖",
+                            "examples": [
+                                {
+                                    "m": "Tỉnh này cai quản mấy chục huyện.",
+                                    "p_vn": "tinh nay cai quan may chuc huyen.",
+                                    "_id": "31e1f8f0d14ac07613bfb04d36a8c9bc",
+                                    "id": 15120,
+                                    "type": "e_cnvi",
+                                    "e": "这个省管着几十个县。",
+                                    "p_cn": "zhege sheng guanzhe ji shi ge xian.",
+                                    "p": "zhège shěng guǎnzhe jǐ shí gè xiàn."
+                                },
+                                {
+                                    "m": "Huyện này quản lý 18 xã.",
+                                    "p_vn": "huyen nay quan ly 18 xa.",
+                                    "_id": "55db399305625a14707d64b918f7ed50",
+                                    "id": 103081,
+                                    "type": "e_cnvi",
+                                    "e": "这个县管着18个乡。",
+                                    "p_cn": "zhege xian guanzhe 18 ge xiang.",
+                                    "p": "zhège xiàn guǎnzhe 18 gè xiāng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quan tâm; trông nom; chăm sóc; chăm lo",
+                            "explain": "关心；照顾",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy vừa làm việc vừa phải chăm hai đứa trẻ.",
+                                    "p_vn": "co ay vua lam viec vua phai cham hai dua tre.",
+                                    "_id": "55db399305625a14707d64b918f82d94",
+                                    "id": 103087,
+                                    "type": "e_cnvi",
+                                    "e": "她要工作还要管着两个孩子。",
+                                    "p_cn": "ta yao gongzuo hai yao guanzhe liang ge haizi.",
+                                    "p": "tā yào gōngzuò hái yào guǎnzhe liǎng gè háizi."
+                                },
+                                {
+                                    "m": "Đôi vợ chồng phải chăm lo cho 4 người già.",
+                                    "p_vn": "doi vo chong phai cham lo cho 4 nguoi gia.",
+                                    "_id": "55db399305625a14707d64b918f83b18",
+                                    "id": 103088,
+                                    "type": "e_cnvi",
+                                    "e": "一对夫妻要管四个老人。",
+                                    "p_cn": "yi dui fuqi yao guan si ge laoren.",
+                                    "p": "yī duì fūqī yào guǎn sì gè lǎorén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phụ trách; đảm nhiệm (công việc)",
+                            "explain": "担任 (工作)",
+                            "examples": [
+                                {
+                                    "m": "Tôi đảm nhiệm tuyên truyền, anh phụ trách văn thể nhé.",
+                                    "p_vn": "toi dam nhiem tuyen truyen, anh phu trach van the nhe.",
+                                    "_id": "4349adfbae284e3e75e6bf1471e79f0d",
+                                    "id": 15122,
+                                    "type": "e_cnvi",
+                                    "e": "我管宣传，你管文体。",
+                                    "p_cn": "woguan xuanchuan，ni guan wenti。",
+                                    "p": "wǒguǎn xuānchuán，nǐ guǎn wéntǐ。"
+                                },
+                                {
+                                    "m": "Hạng mục này do lão Vương đảm nhiệm.",
+                                    "p_vn": "hang muc nay do lao vuong dam nhiem.",
+                                    "_id": "55db399305625a14707d64b918f8f8e7",
+                                    "id": 103110,
+                                    "type": "e_cnvi",
+                                    "e": "这个项目由老王管。",
+                                    "p_cn": "zhege xiangmu you lao wang guan.",
+                                    "p": "zhège xiàngmù yóu lǎo wáng guǎn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hỏi han; quan tâm; hỏi; hỏi đến; lo; tham gia",
+                            "explain": "过问；参与",
+                            "examples": [
+                                {
+                                    "m": "lo chuyện bao đồng",
+                                    "p_vn": "lo chuyen bao dong",
+                                    "_id": "7a033e71f7b951b0c464c6b65491897e",
+                                    "id": 15123,
+                                    "type": "e_cnvi",
+                                    "e": "管闲事",
+                                    "p_cn": "guanxianshi",
+                                    "p": "guǎnxiánshì"
+                                },
+                                {
+                                    "m": "Việc này chúng tôi không thể không quan tâm.",
+                                    "p_vn": "viec nay chung toi khong the khong quan tam.",
+                                    "_id": "284902862cf890679f4ef0c26009a973",
+                                    "id": 15124,
+                                    "type": "e_cnvi",
+                                    "e": "这事我们不能不管。",
+                                    "p_cn": "zhe shi women buneng buguan。",
+                                    "p": "zhè shì wǒmen bùnéng bùguǎn。"
+                                },
+                                {
+                                    "m": "Tôi làm việc bị thương nhưng công ty không quan tâm tôi..",
+                                    "p_vn": "toi lam viec bi thuong nhung cong ty khong quan tam toi..",
+                                    "_id": "55db399305625a14707d64b918f8aba7",
+                                    "id": 103101,
+                                    "type": "e_cnvi",
+                                    "e": "我工作受伤了，但公司不管我。",
+                                    "p_cn": "wo gongzuo shoushangle, dan gongsi buguan wo.",
+                                    "p": "wǒ gōngzuò shòushāngle, dàn gōngsī bùguǎn wǒ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bảo đảm; đảm bảo; cam đoan; bao",
+                            "explain": "保证;负责供给",
+                            "examples": [
+                                {
+                                    "m": "đảm bảo",
+                                    "p_vn": "dam bao",
+                                    "_id": "eb611deb470bea873e48290c271fbcc1",
+                                    "id": 15125,
+                                    "type": "e_cnvi",
+                                    "e": "管保",
+                                    "p_cn": "guanbao",
+                                    "p": "guǎnbǎo"
+                                },
+                                {
+                                    "m": "có hư cho đổi",
+                                    "p_vn": "co hu cho doi",
+                                    "_id": "667973af1b71b781378fb81f992ad915",
+                                    "id": 15126,
+                                    "type": "e_cnvi",
+                                    "e": "不好管换",
+                                    "p_cn": "buhao guanhuan",
+                                    "p": "bùhǎo guǎnhuàn"
+                                },
+                                {
+                                    "m": "bao ăn bao ở",
+                                    "p_vn": "bao an bao o",
+                                    "_id": "fd535a09581cb6e105b5c466b8968efe",
+                                    "id": 15127,
+                                    "type": "e_cnvi",
+                                    "e": "管吃管住",
+                                    "p_cn": "guanchiguanzhu",
+                                    "p": "guǎnchīguǎnzhù"
+                                },
+                                {
+                                    "m": "Giúp bạn chuyển nhà, bạn không lo cơm nước cho tôi sao?",
+                                    "p_vn": "giup ban chuyen nha, ban khong lo com nuoc cho toi sao?",
+                                    "_id": "55db399305625a14707d64b918f8b916",
+                                    "id": 103102,
+                                    "type": "e_cnvi",
+                                    "e": "帮你搬家，你还不管我饭吗？",
+                                    "p_cn": "bang ni banjia, ni hai buguan wo fan ma?",
+                                    "p": "bāng nǐ bānjiā, nǐ hái bùguǎn wǒ fàn ma?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "liên quan; quan hệ đến; dính líu; dính dáng; can hệ",
+                            "explain": "关涉;牵涉",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy không muốn đến, có liên quan gì đến tôi?",
+                                    "p_vn": "anh ay khong muon den, co lien quan gi den toi?",
+                                    "_id": "0a885eeb31eed0b88590de35c32063e5",
+                                    "id": 15130,
+                                    "type": "e_cnvi",
+                                    "e": "他不愿来，管我什么事?",
+                                    "p_cn": "ta bu yuan lai, guan wo shenme shi?",
+                                    "p": "tā bù yuàn lái, guǎn wǒ shénme shì?"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống",
+                            "explain": "(管儿) 管子",
+                            "examples": [
+                                {
+                                    "m": "ống thép",
+                                    "p_vn": "ong thep",
+                                    "_id": "dce51ecd55552b41d9c40c857452d051",
+                                    "id": 15106,
+                                    "type": "e_cnvi",
+                                    "e": "钢管",
+                                    "p_cn": "gangguan",
+                                    "p": "gāngguǎn"
+                                },
+                                {
+                                    "m": "ống nước",
+                                    "p_vn": "ong nuoc",
+                                    "_id": "679f5f66bcee1d6637a8607a8bde7431",
+                                    "id": 15108,
+                                    "type": "e_cnvi",
+                                    "e": "水管",
+                                    "p_cn": "shuiguan",
+                                    "p": "shǔiguǎn"
+                                },
+                                {
+                                    "m": "Đây là ống truyền dịch.",
+                                    "p_vn": "day la ong truyen dich.",
+                                    "_id": "55db399305625a14707d64b918f3f8e2",
+                                    "id": 103001,
+                                    "type": "e_cnvi",
+                                    "e": "这是输液管儿。",
+                                    "p_cn": "zhe shi shuye guanr.",
+                                    "p": "zhè shì shūyè guǎnr."
+                                },
+                                {
+                                    "m": "Cái ống này nhỏ quá.",
+                                    "p_vn": "cai ong nay nho qua.",
+                                    "_id": "55db399305625a14707d64b918f40466",
+                                    "id": 103002,
+                                    "type": "e_cnvi",
+                                    "e": "这个管儿太细了。",
+                                    "p_cn": "zhege guanr tai xile.",
+                                    "p": "zhège guǎnr tài xìle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kèn sáo; sáo trúc (nhạc khí)",
+                            "explain": "吹奏的乐器",
+                            "examples": [
+                                {
+                                    "m": "nhạc quản huyền (hoà tấu nhạc cụ hơi, dây, gõ...)",
+                                    "p_vn": "nhac quan huyen (hoa tau nhac cu hoi, day, go...)",
+                                    "_id": "6e8fb2f1a2fa2e2998c3b73212d115f4",
+                                    "id": 15111,
+                                    "type": "e_cnvi",
+                                    "e": "管弦乐",
+                                    "p_cn": "guanxianyue",
+                                    "p": "guǎnxiányuè"
+                                },
+                                {
+                                    "m": "kèn cla-ri-nét",
+                                    "p_vn": "ken cla-ri-net",
+                                    "_id": "55db399305625a14707d64b918f5ef06",
+                                    "id": 103023,
+                                    "type": "e_cnvi",
+                                    "e": "黑管",
+                                    "p_cn": "hei guan",
+                                    "p": "hēi guǎn"
+                                },
+                                {
+                                    "m": "kèn Ô-boa",
+                                    "p_vn": "ken o-boa",
+                                    "_id": "55db399305625a14707d64b918f5f25c",
+                                    "id": 103024,
+                                    "type": "e_cnvi",
+                                    "e": "双簧管",
+                                    "p_cn": "shuanghuangguan",
+                                    "p": "shuānghuángguǎn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ống; bóng (linh kiện điện tử)",
+                            "explain": "形状像管的电器件管",
+                            "examples": [
+                                {
+                                    "m": "bóng điện tử; bóng đèn",
+                                    "p_vn": "bong dien tu; bong den",
+                                    "_id": "1f501491d9a43909c1e270447363ddeb",
+                                    "id": 15112,
+                                    "type": "e_cnvi",
+                                    "e": "电子管",
+                                    "p_cn": "dianziguan",
+                                    "p": "diànzǐguǎn"
+                                },
+                                {
+                                    "m": "bóng đèn thuỷ tinh thể",
+                                    "p_vn": "bong den thuy tinh the",
+                                    "_id": "b2212ac8c9e4690659962d55b4fe5608",
+                                    "id": 15113,
+                                    "type": "e_cnvi",
+                                    "e": "晶体管",
+                                    "p_cn": "jingtiguan",
+                                    "p": "jīngtǐguǎn"
+                                },
+                                {
+                                    "m": "đèn chân không",
+                                    "p_vn": "den chan khong",
+                                    "_id": "55db399305625a14707d64b918f63ac7",
+                                    "id": 103031,
+                                    "type": "e_cnvi",
+                                    "e": "真空管",
+                                    "p_cn": "zhenkongguan",
+                                    "p": "zhēnkōngguǎn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Quản",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Tôi họ Quản.",
+                                    "p_vn": "toi ho quan.",
+                                    "_id": "55db399305625a14707d64b918f52bb0",
+                                    "id": 103017,
+                                    "type": "e_cnvi",
+                                    "e": "我姓管。",
+                                    "p_cn": "wo xing guan.",
+                                    "p": "wǒ xìng guǎn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "quản; ống; cây",
+                            "explain": "用于细长圆筒形的东西",
+                            "examples": [
+                                {
+                                    "m": "Một cây bút lông.",
+                                    "p_vn": "mot cay but long.",
+                                    "_id": "1b40ee28a82fdf854d1ab5673ddfbb94",
+                                    "id": 15114,
+                                    "type": "e_cnvi",
+                                    "e": "一管毛笔。",
+                                    "p_cn": "yi guan maobi",
+                                    "p": "yī guǎn máobǐ"
+                                },
+                                {
+                                    "m": "Hai ống kem đánh răng.",
+                                    "p_vn": "hai ong kem danh rang.",
+                                    "_id": "9a99c0a3fdeb0edde6bbb3458b96609e",
+                                    "id": 15115,
+                                    "type": "e_cnvi",
+                                    "e": "两管牙膏。",
+                                    "p_cn": "liangguan yagao",
+                                    "p": "liǎngguǎn yágāo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "bất luận; bất kể",
+                            "explain": "不管;无论",
+                            "examples": [
+                                {
+                                    "m": "Bất kể là ai, nên phê bình thì cứ phê bình.",
+                                    "p_vn": "bat ke la ai, nen phe binh thi cu phe binh.",
+                                    "_id": "55db399305625a14707d64b918f6bf70",
+                                    "id": 103047,
+                                    "type": "e_cnvi",
+                                    "e": "管他是谁，该批评就批评。",
+                                    "p_cn": "guan ta shi shei, gai piping jiu piping.",
+                                    "p": "guǎn tā shì shéi, gāi pīpíng jiù pīpíng."
+                                },
+                                {
+                                    "m": "Bất kể đắt hay không, thích ăn thì ăn nhiều vào.",
+                                    "p_vn": "bat ke dat hay khong, thich an thi an nhieu vao.",
+                                    "_id": "55db399305625a14707d64b918f6cb09",
+                                    "id": 103048,
+                                    "type": "e_cnvi",
+                                    "e": "管他贵不贵，爱吃就多吃。",
+                                    "p_cn": "guan ta gui bu gui, ai chi jiu duo chi.",
+                                    "p": "guǎn tā guì bù guì, ài chī jiù duō chī."
+                                },
+                                {
+                                    "m": "Bất kể là vui hay buồn, bạn phải nói thật với anh ấy.",
+                                    "p_vn": "bat ke la vui hay buon, ban phai noi that voi anh ay.",
+                                    "_id": "55db399305625a14707d64b918f6cc14",
+                                    "id": 103049,
+                                    "type": "e_cnvi",
+                                    "e": "管他高兴不高兴，你得跟他说实话。",
+                                    "p_cn": "guan ta gaoxing bu gaoxing, ni dei gen ta shuo shihua.",
+                                    "p": "guǎn tā gāoxìng bù gāoxìng, nǐ děi gēn tā shuō shíhuà."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "Gọi A là B",
+                            "examples": [
+                                103065,
+                                103066,
+                                103069
+                            ],
+                            "struct": "管 A 叫 B"
+                        }
+                    ],
+                    "kind": "prep",
+                    "means": [
+                        {
+                            "mean": "đến; đối với",
+                            "explain": "作用跟''向''相近",
+                            "examples": [
+                                {
+                                    "m": "Lớn rồi, không thể xin tiền bố mẹ nữa.",
+                                    "p_vn": "lon roi, khong the xin tien bo me nua.",
+                                    "_id": "55db399305625a14707d64b918f72819",
+                                    "id": 103060,
+                                    "type": "e_cnvi",
+                                    "e": "长大了，不能管父母要钱了。",
+                                    "p_cn": "zhang dale, buneng guan fumu yao qianle.",
+                                    "p": "zhǎng dàle, bùnéng guǎn fùmǔ yào qiánle."
+                                },
+                                {
+                                    "m": "Tôi mượn lão Trương 100 tệ.",
+                                    "p_vn": "toi muon lao truong 100 te.",
+                                    "_id": "55db399305625a14707d64b918f72bae",
+                                    "id": 103061,
+                                    "type": "e_cnvi",
+                                    "e": "我管老张借了100块。",
+                                    "p_cn": "wo guan lao zhang jiele 100 kuai.",
+                                    "p": "wǒ guǎn lǎo zhāng jièle 100 kuài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"负责\" vừa là động từ vừa là tính từ, động từ \"负责\" có ý nghĩa của \"管\", nhưng ý nghĩa của \"管\" nhiều hơn so với \"负责\".",
+                    "title": "Phân biệt \"负责\" và \"管\"",
+                    "words": [
+                        "负责",
+                        "管"
+                    ]
+                },
+                {
+                    "mean_vi": "\"管理\" và \"管\" có ý nghĩa giống nhau, ý nghĩa của \"管\" nhiều hơn \"管理\", được dùng trong văn nói ; \"管理\" thường được sử dụng cả trong văn nói và văn viết, vì mối quan hệ về âm tiết, tân ngữ của \"管理\" không thể là từ đơn âm tiết, \"管\" không có giới hạn này",
+                    "title": "Phân biệt \"管\" và \"管理\"",
+                    "words": [
+                        "管",
+                        "管理"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "3",
+            "pinyin": "guǎn",
+            "cn_vi": "quản",
+            "popularity": {
+                "notebook": 171,
+                "search": 9367
+            },
+            "word": "管",
+            "id": 21088,
+            "phonetic": "guan",
+            "rank": 1100,
+            "lv_tocfl": 3,
+            "compound": "管保 ; 管材 ; 管道 ; 管段 ; 管风琴 ; 管家 ; 管家婆 ; 管见 ; 管教 ; 管界 ; 管井 ; 管窥 ; 管窥蠡测 ; 管理 ; 管片 ; 管钳子 ; 管区 ; 管事 ; 管束 ; 管辖 ; 管弦乐 ; 管线 ; 管押 ; 管用 ; 管乐器 ; 管制 ; 管中窥豹 ; 管子 ; 管自"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄕㄡˇㄍㄨㄢˇㄐㄧㄠˇ",
+            "_id": "1b92556b5abf4b22a6e163fd20b67c80",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "giám sát quá mức",
+                            "explain": "excessive supervision",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để kiểm soát từng chi tiết",
+                            "explain": "to control in every detail",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "quản thủ quản cước",
+            "pinyin": "guǎn shǒu guǎn jiǎo",
+            "word": "管手管脚",
+            "id": 141486,
+            "phonetic": "guanshouguanjiao",
+            "rank": 144638,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "004e489888954934a5ca40a9a10e17b8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đế đèn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "quản để",
+            "pinyin": "guǎn dǐ",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "管底",
+            "id": 184632,
+            "phonetic": "guandi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄚˋㄍㄨㄢˇ",
+            "_id": "01a3bb32f4dbbda672aa689c50c5e047",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chăm sóc đồng ruộng mùa hè",
+                            "explain": "夏季的田间管理",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "hạ quản",
+            "pinyin": "xià guǎn",
+            "word": "夏管",
+            "id": 54816,
+            "phonetic": "xiaguan",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8aa3fb54b94547d48adda8a35dc873dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quân quản",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "quân quản",
+            "pinyin": "jūnguǎn",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "军管",
+            "id": 176734,
+            "phonetic": "junguan",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄓㄨㄥ",
+            "topic": "2",
+            "_id": "ceacc8615d4b78b35b79c00b3ae024e1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chuông ống, đàn chuông ống",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quản chung",
+            "pinyin": "guǎn zhōng",
+            "word": "管钟",
+            "id": 73401,
+            "phonetic": "guanzhong",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥˋㄍㄨㄢˇ",
+            "_id": "36a5c539259d7052e82c344d6da1e85a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cùng quản lý; quản lý chung",
+                            "explain": "共同管理",
+                            "examples": [
+                                {
+                                    "m": "trật tự xã hội phải động viên lực lượng toàn xã hội cùng nắm giữ.",
+                                    "p_vn": "trat tu xa hoi phai dong vien luc luong toan xa hoi cung nam giu",
+                                    "_id": "1ea96065b1e67af4d60a24309a0661a7",
+                                    "id": 14228,
+                                    "type": "e_cnvi",
+                                    "e": "社会治安需要动员全社会的力量齐抓共管。",
+                                    "p_cn": "shehui zhian xuyao dongyuan quan shehui de liliang qi zhua gongguan",
+                                    "p": "shèhùizhìān xūyào dòngyuán quán shèhùi de lìliàng qízhuāgòngguǎn。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quản lý chung (nhiều nước cùng quản lý một công việc)",
+                            "explain": "国际共管的简称",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cộng quản",
+                            "explain": "两个以上的国家, 共同管有某一地区, 彼此间以平等原则共同行使主权",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": {
+                "syno": [
+                    "公有"
+                ],
+                "anto": [
+                    "独占"
+                ]
+            },
+            "cn_vi": "cộng quản",
+            "pinyin": "gòngguǎn",
+            "word": "共管",
+            "id": 19946,
+            "phonetic": "gongguan",
+            "rank": 112291,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄝˊㄍㄨㄢˇ",
+            "_id": "34991d69d77d4b6daeacbb878fcc7ae2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "để hỗ trợ quản lý (ví dụ: cảnh sát giao thông hoặc kiểm soát đám đông)",
+                            "explain": "to assist in managing (e.g. traffic police or crowd control)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để quản lý",
+                            "explain": "to steward",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "hiệp quản",
+            "pinyin": "xié guǎn",
+            "word": "协管",
+            "id": 101766,
+            "phonetic": "xieguan",
+            "rank": 84282,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄎㄨㄟ",
+            "_id": "52cd09974ba06e36e3543fd188623702",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tầm nhìn hạn hẹp; kiến giải hạn hẹp",
+                            "explain": "从管子里看东西，比喻所见片面",
+                            "examples": [
+                                {
+                                    "m": "lời của kẻ bình luận, há phải như nhìn cọp qua cái ống sao!",
+                                    "p_vn": "loi cua ke binh luan ha phai nhu nhin cop qua cai ong sao",
+                                    "_id": "f1c2e8a82df231bb82fd3940b8d91325",
+                                    "id": 46994,
+                                    "type": "e_cnvi",
+                                    "e": "论者之言，一似管窥虎欤!",
+                                    "p_cn": "lun zhe zhi yan yi si guankui hu yu",
+                                    "p": "lùn zhě zhī yán, yī sì guǎnkuī hǔ yú!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "quản khuy",
+            "pinyin": "guǎnkuī",
+            "word": "管窥",
+            "id": 21108,
+            "phonetic": "guankui",
+            "rank": 88056,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄘㄤㄍㄨㄢˇ",
+            "_id": "71dee0f6094d1b78f7013e550cdd114d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Quản lý kho",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 204
+            },
+            "snym": null,
+            "cn_vi": "thương quản",
+            "pinyin": "cāng guǎn",
+            "word": "仓管",
+            "id": 77699,
+            "phonetic": "cangguan",
+            "rank": 27975,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˊㄍㄨㄢˇ",
+            "topic": "52",
+            "_id": "997bf9dea1de392701a2fe4ebf0ae69c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thực quản",
+                            "explain": "连接咽头和胃的管状器官，食物经口腔从咽头进入食管，食管肌肉收缩的蠕动把食物送到胃里也叫食道",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "thực quản",
+            "pinyin": "shíguǎn",
+            "word": "食管",
+            "id": 47255,
+            "phonetic": "shiguan",
+            "rank": 70268,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄓˋ",
+            "_id": "4fd991d408784edda4701e0bee5d148f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quản trị",
+                            "explain": "governance",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cai quản",
+                            "explain": "to govern",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cai trị",
+                            "explain": "凭借政权来控制、管理国家或地区",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 53
+            },
+            "snym": null,
+            "cn_vi": "quản trị",
+            "pinyin": "guǎn zhì",
+            "word": "管治",
+            "id": 104869,
+            "phonetic": "guanzhi",
+            "rank": 56523,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "shuāng",
+                "examples": "我必须拿我的双簧管去修理。",
+                "measure": "双"
+            },
+            "zhuyin": "ㄏㄨㄤˊㄍㄨㄢˇ",
+            "_id": "4e288b8836ed422e9605d90d1db2ab37",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống sậy",
+                            "explain": "reed pipe",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "hoàng quản",
+            "pinyin": "huáng guǎn",
+            "word": "簧管",
+            "id": 110330,
+            "phonetic": "huangguan",
+            "rank": 113238,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥˊㄍㄨㄢˇ",
+            "_id": "6a2db5f4a4a14b62bb0cf128bf3f4cf2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhạc cụ bằng đồng (âm nhạc)",
+                            "explain": "brass instrument (music)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 67
+            },
+            "snym": null,
+            "cn_vi": "đồng quản",
+            "pinyin": "tóng guǎn",
+            "word": "铜管",
+            "id": 109324,
+            "phonetic": "tongguan",
+            "rank": 50515,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄟˇㄍㄨㄢˇ",
+            "_id": "8d153a9b53cbdbd4f424d75c152f0f32",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ống nước; ống dẫn nước",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 68,
+                "search": 511
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "shuǐguǎn",
+            "cn_vi": "thuỷ quản",
+            "word": "水管",
+            "id": 71899,
+            "phonetic": "shuiguan",
+            "rank": 15740,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gēn",
+                "examples": "",
+                "measure": "根"
+            },
+            "zhuyin": "ㄒㄩㄝˋㄍㄨㄢˇ",
+            "topic": "52",
+            "_id": "608a0a0c531442692b21eb4b9737bbe2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "huyết quản; mạch máu (ống dẫn máu trong cơ thể)",
+                            "explain": "血液在全身中循环时所经过的管状构造，分动脉、静脉和毛细管参看〖动脉〗、〖静脉〗、〖毛细管〗",
+                            "examples": [
+                                {
+                                    "m": "Tai biến mạch máu não.",
+                                    "p_vn": "tai bien mach mau nao.",
+                                    "_id": "037b05622f679ed794487636da4e8704",
+                                    "id": 29657,
+                                    "type": "e_cnvi",
+                                    "e": "脑血管病。",
+                                    "p_cn": "naoxueguanbing。",
+                                    "p": "nǎoxuèguǎnbìng。"
+                                },
+                                {
+                                    "m": "máu chuyển vận từ trong tim ra, qua các huyết quản phân bố tới các bộ phận trong toàn thân.",
+                                    "p_vn": "mau chuyen van tu trong tim ra, qua cac huyet quan phan bo toi cac bo phan trong toan than.",
+                                    "_id": "117386ca245ab546a998baff99db248e",
+                                    "id": 36480,
+                                    "type": "e_cnvi",
+                                    "e": "血液从心脏输出，经血管分布到全身组织。",
+                                    "p_cn": "xueguan cong xinzang shuchu，jing xueguan fenbu dao quanshen zuzhi。",
+                                    "p": "xuèguǎn cóng xīnzāng shūchū，jīng xuèguǎn fēnbù dào quánshēn zǔzhī。"
+                                },
+                                {
+                                    "m": "Anastomoses trông tuyệt vời ở cả hai bên.",
+                                    "p_vn": "anastomoses trong tuyet voi o ca hai ben.",
+                                    "_id": "38ce29d1a8b249e1a25442c50fd69483",
+                                    "id": 64904,
+                                    "type": "e_cnvi",
+                                    "e": "两侧的血管吻合看起来都不错",
+                                    "p_cn": "liangce de xueguan wenhe kanqilai dou bucuo",
+                                    "p": "liǎngcè de xuèguǎn wěnhé kànqǐlái dōu bùcuò"
+                                },
+                                {
+                                    "m": "Nó sử dụng hình ảnh tia cực tím để giúp tìm tĩnh mạch.",
+                                    "p_vn": "no su dung hinh anh tia cuc tim de giup tim tinh mach.",
+                                    "_id": "5cee8a901bb54d28896c953cd4c7414d",
+                                    "id": 57263,
+                                    "type": "e_cnvi",
+                                    "e": "它通过紫外摄像来找到血管",
+                                    "p_cn": "ta tongguo ziwai shexiang lai zhaodao xueguan",
+                                    "p": "tā tōngguò zǐwài shèxiàng lái zhǎodào xuèguǎn"
+                                },
+                                {
+                                    "m": "loại thuốc này làm giãn huyết quản.",
+                                    "p_vn": "loai thuoc nay lam gian huyet quan.",
+                                    "_id": "7f157c3c7dd66511434e0587130915d9",
+                                    "id": 24414,
+                                    "type": "e_cnvi",
+                                    "e": "这种药能使血管扩张。",
+                                    "p_cn": "zhezhong yaoneng shi xueguan kuozhang。",
+                                    "p": "zhèzhǒng yàonéng shǐ xuèguǎn kuòzhāng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 46,
+                "search": 512
+            },
+            "snym": {
+                "syno": [
+                    "血脉"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "xuèguǎn",
+            "cn_vi": "huyết quản",
+            "word": "血管",
+            "id": 57570,
+            "phonetic": "xieguan",
+            "rank": 15715,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄠˋㄍㄨㄢˇ",
+            "_id": "7ee0f4841e204ea79ca85a428249ba0e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bộ đánh lửa hộp mực",
+                            "explain": "cartridge igniter",
+                            "examples": []
+                        },
+                        {
+                            "mean": "squib",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "bạo quản",
+            "pinyin": "bào guǎn",
+            "word": "爆管",
+            "id": 104312,
+            "phonetic": "baoguan",
+            "rank": 117794,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄢˋㄍㄨㄢˇ",
+            "_id": "16680dff19cc10a7d140189ff4495daa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trông giữ; trông coi; coi",
+                            "explain": "看守",
+                            "examples": [
+                                {
+                                    "m": "trông giữ phạm nhân.",
+                                    "p_vn": "trong giu pham nhan",
+                                    "_id": "e65bca620570e804b72638ac8bb9ac77",
+                                    "id": 23025,
+                                    "type": "e_cnvi",
+                                    "e": "看管犯人。",
+                                    "p_cn": "kanguan fanren",
+                                    "p": "kànguǎn fànrén。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "coi chừng; trông nom; chăm sóc",
+                            "explain": "照管",
+                            "examples": [
+                                {
+                                    "m": "trông nom hành lý.",
+                                    "p_vn": "trong nom hanh ly",
+                                    "_id": "7f13edf2d8902f30af3583b967698353",
+                                    "id": 23026,
+                                    "type": "e_cnvi",
+                                    "e": "看管行李。",
+                                    "p_cn": "kanguan xingli",
+                                    "p": "kànguǎn xínglǐ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chăm lo",
+                            "explain": "照料",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 242
+            },
+            "snym": {
+                "syno": [
+                    "监管",
+                    "监视",
+                    "保管",
+                    "把守",
+                    "看守",
+                    "照管",
+                    "监控"
+                ],
+                "anto": [
+                    "放任"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "kānguǎn",
+            "cn_vi": "khán quản",
+            "word": "看管",
+            "id": 31942,
+            "phonetic": "kanguan",
+            "rank": 25281,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "75",
+            "zhuyin": "ㄐㄧㄢㄍㄨㄢˇ",
+            "_id": "54e83d89ca9559aafd4ae75d41980ac5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quản giáo (trại giam)",
+                            "explain": "对犯人监视管理",
+                            "examples": [
+                                {
+                                    "m": "Các quan chức chính quyền đô thị trong cổ đại La Mã được bầu cử, có trách nhiệm quản lý các công việc công cộng và hoạt động giải trí, cũng như giám sát thị trường, cung cấp lương thực và nước sạch.",
+                                    "p_vn": "Cac quan chuc chinh quyen do thi trong co dai La Ma duoc bau cu, co trach nhiem quan ly cac cong viec cong cong va hoat dong giai tri, cung nhu giam sat thi truong, cung cap luong thuc va nuoc sach.",
+                                    "_id": "0f9b7051322b4902a6d10e163705aa19",
+                                    "id": 70269,
+                                    "type": "e_cnvi",
+                                    "e": "市政官古罗马民选的行政官，负责公共事务及游艺活动并且监管市场、粮食及用水供应",
+                                    "p_cn": "shizheng guan gu Luoma minxuan de xingzheng guan fuze gonggong shiwu ji youyi huodong bingqie jianguan shichang liangshi ji yong shui gongying",
+                                    "p": "shìzhèng guān gǔ Luómǎ mínxuǎn de xíngzhèng guān fùzé gōnggòng shìwù jí yóuyì huódòng bìngqiě jiānguǎn shìchǎng liángshi jí yòng shuǐ gōngyìng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 39,
+                "search": 942
+            },
+            "snym": {
+                "syno": [
+                    "禁锢",
+                    "看管",
+                    "监禁",
+                    "囚禁",
+                    "羁系",
+                    "囚系",
+                    "拘押"
+                ]
+            },
+            "cn_vi": "giám quản",
+            "pinyin": "jiānguǎn",
+            "word": "监管",
+            "id": 28029,
+            "phonetic": "jianguan",
+            "rank": 10292,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄧㄚ",
+            "_id": "153c26e72d0256655bb57073925e791e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tạm giam; tạm giữ; bắt giam; giam cầm",
+                            "explain": "临时拘押",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "quản áp",
+            "pinyin": "guǎn yā",
+            "word": "管押",
+            "id": 21132,
+            "phonetic": "guanya",
+            "rank": 92383,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄤㄍㄨㄢˇ",
+            "_id": "26fd013a7827444491ef837c1e844b15",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thủ kho",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Quản lý kho phải bám sát thông tin nguyên vật liệu trong kho. Nắm rõ tình hình sản xuất và tiêu thụ nguyên vật liệu của từng kỳ kế hoạch và dự đoán quy luật cầu nguyên vật liệu trong kỳ kế hoạch.",
+                                    "p_vn": "quan ly kho phai bam sat thong tin nguyen vat lieu trong kho. nam ro tinh hinh san xuat va tieu thu nguyen vat lieu cua tung ky ke hoach va du doan quy luat cau nguyen vat lieu trong ky ke hoach.",
+                                    "_id": "b6c1f234ef2f45bfab290a147f50b978",
+                                    "id": 54816,
+                                    "type": "e_cnvi",
+                                    "e": "苍管对于仓库的原料信息要随时掌握。熟悉掌握每个原料计划期的生产消耗情况，预测计划期的原料需求量规律。",
+                                    "p_cn": "cang guan duiyu cangku de yuanliao xinxi yao suishi zhangwo. shuxi zhangwo mei ge yuanliao jihua qi de shengchan xiaohao qingkuang, yuce jihua qi de yuanliao xuqiu liang guilu.",
+                                    "p": "Cāng guǎn duìyú cāngkù de yuánliào xìnxī yào suíshí zhǎngwò. Shúxī zhǎngwò měi gè yuánliào jìhuà qī de shēngchǎn xiāohào qīngkuàng, yùcè jìhuà qī de yuánliào xūqiú liáng guīlǜ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "thương quản",
+            "pinyin": "cāng guǎn",
+            "word": "苍管",
+            "id": 84094,
+            "phonetic": "cangguan",
+            "rank": 108932,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "14",
+            "zhuyin": "ㄐㄧㄝㄍㄨㄢˇ",
+            "_id": "28f8e19f7a4604e5324f1f936bc90695",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tiếp quản",
+                            "explain": "接收并管理",
+                            "examples": [
+                                {
+                                    "m": "Họ ủng hộ Nhật Bản tiếp quản tất cả quyền lợi trước đây của Đức tại tỉnh Shandong.",
+                                    "p_vn": "Ho ung ho Nhat Ban tiep quan tat ca quyen loi truoc day cua Duc tai tinh Shandong.",
+                                    "_id": "4f18bad9318f4a05905d76a1dc58eb8b",
+                                    "id": 70232,
+                                    "type": "e_cnvi",
+                                    "e": "他们支持日本接管德国以前在山东省的所有权益。",
+                                    "p_cn": "tamen zhichi Riben jieguan Deguo yiqian zai Shandong Sheng de suoyouquan yi",
+                                    "p": "tāmen zhīchí Rìběn jiēguǎn Déguó yǐqián zài Shāndōng Shěng de suǒyǒuquán yì"
+                                },
+                                {
+                                    "m": "Công ty này đã bị một tập đoàn doanh nghiệp Mỹ tiếp quản.",
+                                    "p_vn": "Cong ty nay da bi mot tap doan doanh nghiep My tiep quan.",
+                                    "_id": "870ed08b015f473e8ebfab324f7add00",
+                                    "id": 70233,
+                                    "type": "e_cnvi",
+                                    "e": "该公司已被美国一企业集团接管。",
+                                    "p_cn": "gai gongsi yi bei Meiguo yi qiyejituan jieguan",
+                                    "p": "gāi gōngsī yǐ bèi Měiguó yī qǐyèjítuán jiēguǎn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 153
+            },
+            "snym": {
+                "syno": [
+                    "接收",
+                    "回收",
+                    "收受",
+                    "接受",
+                    "接纳"
+                ]
+            },
+            "cn_vi": "tiếp quản",
+            "pinyin": "jiēguǎn",
+            "word": "接管",
+            "id": 29386,
+            "phonetic": "jieguan",
+            "rank": 33023,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄚㄍㄨㄢˇ",
+            "_id": "2927f869c3104337b03c47eb379d9cbf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trombone",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "lạp quản",
+            "pinyin": "lā guǎn",
+            "word": "拉管",
+            "id": 96867,
+            "phonetic": "laguan",
+            "rank": 98637,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄘㄞˊ",
+            "_id": "6d81d2d39eeab9be1be30f744724f660",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống; đường ống; vật liệu hình ống",
+                            "explain": "管状的材料，如钢管、陶管等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 39
+            },
+            "snym": null,
+            "cn_vi": "quản tài",
+            "pinyin": "guǎncái",
+            "word": "管材",
+            "id": 21090,
+            "phonetic": "guancai",
+            "rank": 64649,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄐㄧㄚˋ",
+            "_id": "a83e8298320607970c1254f9c1b75a20",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giá đỡ ống",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "quản giá",
+            "pinyin": "guǎn jià",
+            "word": "管架",
+            "id": 73389,
+            "phonetic": "guanjia",
+            "rank": 101262,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2f3d5411681848af963f52db22f85a5d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống dẫn nhiệt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "nhiệt quản",
+            "pinyin": "règuǎn",
+            "word": "热管",
+            "id": 167841,
+            "phonetic": "reguan",
+            "rank": 126985,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄤˇㄍㄨㄢˇ",
+            "_id": "3c51815816394e5798f23e561c76b35c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "quản lý mạng",
+                            "explain": "network management",
+                            "examples": []
+                        },
+                        {
+                            "mean": "quản trị trang web",
+                            "explain": "webmaster",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 67
+            },
+            "snym": null,
+            "cn_vi": "võng quản",
+            "pinyin": "wǎngguǎn",
+            "word": "网管",
+            "id": 108762,
+            "phonetic": "wangguan",
+            "rank": 50847,
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "57",
+            "zhuyin": "ㄍㄨㄟㄍㄨㄢˇ",
+            "_id": "5cccc8de3db14a26b146b8b49ce11e41",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để điều chỉnh",
+                            "explain": "to regulate",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "quy quản",
+            "pinyin": "guī guǎn",
+            "word": "规管",
+            "id": 105475,
+            "phonetic": "guiguan",
+            "rank": 137720,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢㄍㄨㄢˇ",
+            "_id": "a586a838053146429fcfab8f4c1aeb71",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Trông coi nhiều việc một lúc; kiêm quản",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "kiêm quản",
+            "pinyin": "jiān guǎn",
+            "word": "兼管",
+            "id": 149029,
+            "phonetic": "jianguan",
+            "rank": 85897,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "75",
+            "zhuyin": "ㄍㄨㄢˇㄐㄧㄚ",
+            "_id": "a369c39d2525bdeab1ec2c506e2bb775",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quản gia",
+                            "explain": "旧时称呼为地主、官僚等管理家产和日常事务的地位较高的仆人",
+                            "examples": [
+                                {
+                                    "m": "nữ quản gia",
+                                    "p_vn": "nu quan gia",
+                                    "_id": "a3ba0ea68175809693e82b7e2fb38400",
+                                    "id": 15135,
+                                    "type": "e_cnvi",
+                                    "e": "女管家",
+                                    "p_cn": "nu guanjia",
+                                    "p": "nǚ guǎnjiā"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "người quản lý",
+                            "explain": "现在指为集体管理财物或日常生活的人",
+                            "examples": [
+                                {
+                                    "m": "mọi người đều nói người quản lý nhà ăn là quản gia tốt của quần chúng.",
+                                    "p_vn": "moi nguoi deu noi nguoi quan ly nha an la quan gia tot cua quan chung",
+                                    "_id": "99af5e3df2d9b3ad339a825aa6a63885",
+                                    "id": 15136,
+                                    "type": "e_cnvi",
+                                    "e": "大家都说食堂管理员是群众的好管家。",
+                                    "p_cn": "dajia dou shuo shitang guanli yuan shi qunzhong de hao guanjia",
+                                    "p": "dàjiā dōu shuō shítáng guǎnlǐ yuán shì qúnzhòng de hǎo guǎnjiā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 212
+            },
+            "snym": {
+                "syno": [
+                    "掌柜",
+                    "总管",
+                    "经理",
+                    "保姆"
+                ]
+            },
+            "cn_vi": "quản gia",
+            "pinyin": "guǎnjiā",
+            "word": "管家",
+            "id": 21100,
+            "phonetic": "guanjia",
+            "rank": 27322,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "通气管一种用于运送热气、可燃气、水流或烟的导管、软管或管道，如从火炉或炉子传送到烟囱\nTōng qìguǎn yī zhǒng yòng yú yùnsòng rèqì, kě ránqì, shuǐliú huò yān de dǎoguǎn, ruǎn guǎn huò guǎndào, rú cóng huǒlú huò lúzǐ chuánsòng dào yāncōng\nỐng, ống hoặc kênh để truyền tải không khí nóng, khí đốt, hơi nước hoặc khói, như từ lò nung hoặc lò sưởi đến ống khói.",
+                "measure": "个"
+            },
+            "topic": "52",
+            "zhuyin": "ㄑㄧˋㄍㄨㄢˇ",
+            "_id": "4b83f4bbc3fde883f01534d22109be79",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khí quản; cuống phổi",
+                            "explain": "呼吸器官的一部分，管状，是由半环状软骨构成的，有弹性，上部接喉头，下部分成两支，通入左右两肺有的地区叫气嗓",
+                            "examples": [
+                                {
+                                    "m": "anh ấy bị viêm khí quản, khò khè mãi.",
+                                    "p_vn": "anh ay bi viem khi quan kho khe mai",
+                                    "_id": "e450ebd4d848f55188273831b5d56a0e",
+                                    "id": 17420,
+                                    "type": "e_cnvi",
+                                    "e": "他气管炎犯了，嗓子里呼噜 呼噜老响。",
+                                    "p_cn": "ta qiguan yan fanle sangzi li hulu hulu lao xiang",
+                                    "p": "tā qìguǎnyán fàn le，sǎngzǐ lǐ hūlū hūlū lǎoxiǎng。"
+                                },
+                                {
+                                    "m": "ống khí",
+                                    "p_vn": "ong khi",
+                                    "_id": "e76cedb5c7d18e6f0bbe704fc2d5acb0",
+                                    "id": 15110,
+                                    "type": "e_cnvi",
+                                    "e": "气管儿。",
+                                    "p_cn": "qiguan er",
+                                    "p": "qìguǎn ér。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 31,
+                "search": 381
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "qìguǎn",
+            "cn_vi": "khí quản",
+            "word": "气管",
+            "id": 42063,
+            "phonetic": "qiguan",
+            "rank": 19024,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "6394fb8ee3f1441bb02bd761466a2d91",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cọc ống",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "quản trụ",
+            "pinyin": "guǎn zhù",
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "word": "管柱",
+            "id": 180084,
+            "phonetic": "guanzhu",
+            "rank": 129504,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c9c04692e7154758b1eae0b04f68fa2a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống giấy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chỉ quản",
+            "pinyin": "zhǐ guǎn",
+            "popularity": {
+                "notebook": 3,
+                "search": 41
+            },
+            "word": "纸管",
+            "id": 178494,
+            "phonetic": "zhiguan",
+            "rank": 62845,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "14, 33, 75",
+            "zhuyin": "ㄍㄠㄍㄨㄢˇ",
+            "_id": "ab7d69f78aa04a15a9dc276286753679",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sự co lại của 高級管理 | 高级管理",
+                            "explain": "(contraction of 高級管理|高级管理)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chấp hành, quản lý",
+                            "explain": "executive",
+                            "examples": [
+                                {
+                                    "m": "Cả hai đều làm việc cho một giám đốc điều hành đang ở",
+                                    "p_vn": "ca hai deu lam viec cho mot giam doc dieu hanh dang o",
+                                    "_id": "22957b6f458447988255b972add7314e",
+                                    "id": 65329,
+                                    "type": "e_cnvi",
+                                    "e": "他们都为同一个高管工作",
+                                    "p_cn": "tamen dou wei tongyige gaoguan gongzuo",
+                                    "p": "tāmen dōu wèi tóngyīgè gāoguǎn gōngzuò"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quản lí cấp cao",
+                            "explain": "senior management",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 319
+            },
+            "snym": null,
+            "cn_vi": "cao quản",
+            "pinyin": "gāo guǎn",
+            "word": "高管",
+            "id": 106432,
+            "phonetic": "gaoguan",
+            "rank": 21269,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a8219f161b174d8fbfdaa8747d7a79b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mặc thây",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bằng quản",
+            "pinyin": "béng guǎn",
+            "popularity": {
+                "notebook": 35,
+                "search": 102
+            },
+            "word": "甭管",
+            "id": 175697,
+            "phonetic": "bengguan",
+            "rank": 41191,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄞㄍㄨㄢˇ",
+            "_id": "deedfb5b6db807639ed4e73b69bb5fdb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bộ ống rây (bộ phận dưới vỏ, vận chuyển dinh dưỡng của thực vật)",
+                            "explain": "韧皮的组成部分之一，由许多管状细胞上下相接而成，相接之处的细胞壁有许多小孔，形状像筛子，主要功能是输送养分",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "si quản",
+            "pinyin": "shāi guǎn",
+            "word": "筛管",
+            "id": 45418,
+            "phonetic": "shaiguan",
+            "rank": 128191,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄕㄚ",
+            "_id": "e49bd86ad15813428307fcfda054447d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "suốt; con suốt",
+                            "explain": "绕卷在管或纡管上的圆柱形、圆锥形或圆锥端头形的纱线团、丝线团或粗纱团",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "quản sa",
+            "pinyin": "guǎn shā",
+            "word": "管纱",
+            "id": 21121,
+            "phonetic": "guansha",
+            "rank": 149664,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄐㄧㄢˋ",
+            "_id": "daf918cae89371210d9f04a42e66f7a4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tầm nhìn hạn hẹp; kiến giải hạn hẹp (khiêm tốn)",
+                            "explain": "谦辞，谦陋的见识 (像从管子里看东西，看到的范围很小)",
+                            "examples": [
+                                {
+                                    "m": "nói qua kiến giải hạn hẹp",
+                                    "p_vn": "noi qua kien giai han hep",
+                                    "_id": "b8829d4312b40e8649e4d5c4c86cb679",
+                                    "id": 15137,
+                                    "type": "e_cnvi",
+                                    "e": "略陈管见",
+                                    "p_cn": "lue chen guanjian",
+                                    "p": "lüè chén guǎnjiàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 9
+            },
+            "snym": {
+                "syno": [
+                    "拙见",
+                    "浅见"
+                ],
+                "anto": [
+                    "卓见",
+                    "明见",
+                    "高见"
+                ]
+            },
+            "cn_vi": "quản kiến",
+            "pinyin": "guǎnjiàn",
+            "word": "管见",
+            "id": 21102,
+            "phonetic": "guanjian",
+            "rank": 106054,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄩㄥˋ",
+            "_id": "c19f7591187016debbe56bcafc7561d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hữu hiệu; hiệu nghiệm; hiệu quả; hữu ích; có tác dụng",
+                            "explain": "有效;起作用",
+                            "examples": [
+                                {
+                                    "m": "Thuốc này rất hiệu quả.",
+                                    "p_vn": "thuoc nay rat hieu qua.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57162b328",
+                                    "id": 128029,
+                                    "type": "e_cnvi",
+                                    "e": "这个药很管用。",
+                                    "p_cn": "zhege yao hen guanyong.",
+                                    "p": "zhège yào hěn guǎnyòng."
+                                },
+                                {
+                                    "m": "Lời khuyên của bạn rất hữu ích.",
+                                    "p_vn": "loi khuyen cua ban rat huu ich.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57162b92b",
+                                    "id": 128030,
+                                    "type": "e_cnvi",
+                                    "e": "你的建议很管用。",
+                                    "p_cn": "ni de jianyi hen guanyong.",
+                                    "p": "nǐ de jiànyì hěn guǎnyòng."
+                                },
+                                {
+                                    "m": "Phương pháp này không hiệu quả.",
+                                    "p_vn": "phuong phap nay khong hieu qua.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57162c824",
+                                    "id": 128031,
+                                    "type": "e_cnvi",
+                                    "e": "这种方法不管用。",
+                                    "p_cn": "zhe zhong fangfa buguan yong.",
+                                    "p": "zhè zhǒng fāngfǎ bùguǎn yòng."
+                                },
+                                {
+                                    "m": "Tôi đã thử và nó thực sự hiệu quả.",
+                                    "p_vn": "toi da thu va no thuc su hieu qua.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57162d0d5",
+                                    "id": 128032,
+                                    "type": "e_cnvi",
+                                    "e": "我试过了，真的管用。",
+                                    "p_cn": "wo shiguole, zhen de guanyong.",
+                                    "p": "wǒ shìguòle, zhēn de guǎnyòng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 128,
+                "search": 1096
+            },
+            "snym": {
+                "syno": [
+                    "有效"
+                ]
+            },
+            "cn_vi": "quản dụng",
+            "pinyin": "guǎnyòng",
+            "word": "管用",
+            "id": 21133,
+            "phonetic": "guanyong",
+            "rank": 9143,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄠˋㄍㄨㄢˇ",
+            "_id": "056c102f40a28b7afde82bc1c67fbee7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trông nom; trông coi; săn sóc; chăm sóc",
+                            "explain": "照料管理",
+                            "examples": [
+                                {
+                                    "m": "chăm sóc trẻ em",
+                                    "p_vn": "cham soc tre em",
+                                    "_id": "55a3493c58a61b6e558b82eb310ede49",
+                                    "id": 49224,
+                                    "type": "e_cnvi",
+                                    "e": "照管孩子",
+                                    "p_cn": "zhaoguan haizi",
+                                    "p": "zhàoguǎn háizǐ"
+                                },
+                                {
+                                    "m": "trông coi máy móc",
+                                    "p_vn": "trong coi may moc",
+                                    "_id": "35cfef227373042dc70eef8d81c7d1d8",
+                                    "id": 49225,
+                                    "type": "e_cnvi",
+                                    "e": "照管器材",
+                                    "p_cn": "zhaoguan qicai",
+                                    "p": "zhàoguǎn qìcái"
+                                },
+                                {
+                                    "m": "việc này do anh ta trông coi.",
+                                    "p_vn": "viec nay do anh ta trong coi",
+                                    "_id": "8e05fc3c88d4406257ee20b9817d2ee6",
+                                    "id": 49226,
+                                    "type": "e_cnvi",
+                                    "e": "这件事由他照管。",
+                                    "p_cn": "zhe jian shiyou ta zhaoguan",
+                                    "p": "zhèjiàn shìyóu tā zhàoguǎn。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thăm nom",
+                            "explain": "关心料理",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chăm nom",
+                            "explain": "照应; 照顾",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 18,
+                "search": 261
+            },
+            "snym": {
+                "syno": [
+                    "照望",
+                    "照看",
+                    "看管",
+                    "顾问",
+                    "照拂",
+                    "关照",
+                    "垂问",
+                    "照料",
+                    "照顾",
+                    "看护",
+                    "照应"
+                ],
+                "anto": [
+                    "捣蛋",
+                    "放任"
+                ]
+            },
+            "cn_vi": "chiếu quản",
+            "pinyin": "zhàoguǎn",
+            "word": "照管",
+            "id": 63639,
+            "phonetic": "zhaoguan",
+            "rank": 24176,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄠㄍㄨㄢˇ",
+            "_id": "11248827d1fbfc765a6684685166d439",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đảm bảo; cam đoan; quả quyết (biểu lộ sự tự tin của người nói)",
+                            "explain": "指对人或事物担保，着重表现说话人的自信",
+                            "examples": [
+                                {
+                                    "m": "đảm bảo bình an vô sự",
+                                    "p_vn": "dam bao binh an vo su",
+                                    "_id": "030eb69349790a2cdc09d3d1ec6250a9",
+                                    "id": 1006,
+                                    "type": "e_cnvi",
+                                    "e": "包管平安无事",
+                                    "p_cn": "baoguan pingan wu shi",
+                                    "p": "bāoguǎn píngānwúshì"
+                                },
+                                {
+                                    "m": "đảm bảo được trả lại",
+                                    "p_vn": "dam bao duoc tra lai",
+                                    "_id": "c732ac6919f5726d7599830045f535db",
+                                    "id": 1007,
+                                    "type": "e_cnvi",
+                                    "e": "包管退换",
+                                    "p_cn": "baoguan tuihuan",
+                                    "p": "bāoguǎn tùihuàn"
+                                },
+                                {
+                                    "m": "loại bệnh này của anh ta đảm bảo không cần uống thuốc cũng hết.",
+                                    "p_vn": "loai benh nay cua anh ta dam bao khong can uong thuoc cung het",
+                                    "_id": "9e968a35e29bc8eb2dedb9ffc793ef05",
+                                    "id": 1008,
+                                    "type": "e_cnvi",
+                                    "e": "他这种病包管不用吃药就会好",
+                                    "p_cn": "ta zhe zhong bing baoguan buyong chi yao jiu hui hao",
+                                    "p": "tā zhèzhǒng bìng bāoguǎn bùyòng chīyào jìu hùi hǎo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 38
+            },
+            "snym": {
+                "syno": [
+                    "担保",
+                    "保证"
+                ]
+            },
+            "cn_vi": "bao quản",
+            "pinyin": "bāoguǎn",
+            "word": "包管",
+            "id": 1740,
+            "phonetic": "baoguan",
+            "rank": 65231,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄨㄛㄍㄨㄢˇ",
+            "_id": "39f498b7b5c64769bf7b6e433f458196",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "☆Tương tự: đa bán 多半; đại khái 大概; đa phần 多分; đa định 多定; đa cảm 多敢.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Sau khi nghe lời khuyên của Lý Linh, Thiên Thiên thay vì cảm kích, ngược lại trách cô ấy lo chuyện bao đồng",
+                                    "p_vn": "Sau khi nghe loi khuyen cua Ly Linh, Thien Thien thay vi cam kich, nguoc lai trach co ay lo chuyen bao dong",
+                                    "_id": "ea4e3ea16434459298a30562d165e967",
+                                    "id": 55741,
+                                    "type": "e_cnvi",
+                                    "e": "听了李玲的劝慰，芊芊非但不感激，反而责怪她多管闲事。",
+                                    "p_cn": "Tingle li ling de quanwei, qianqian feidan bu ganji, fan'er zeguai ta duo guan xianshi.",
+                                    "p": "Tīngle lǐ líng de quànwèi, qiānqiān fēidàn bù gǎnjī, fǎn'ér zéguài tā duō guǎn xiánshì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "đa quản",
+            "pinyin": "duō guǎn",
+            "word": "多管",
+            "id": 149670,
+            "phonetic": "duoguan",
+            "rank": 80893,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥˇㄍㄨㄢˇ",
+            "_id": "672798b48b3fee56f4267d7b4243c08d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quản lý; quản lý chung; tổng quản lý; thống quản",
+                            "explain": "统一管理;全面管理",
+                            "examples": [
+                                {
+                                    "m": "quản lý việc nhà",
+                                    "p_vn": "quan ly viec nha",
+                                    "_id": "48651a115cbe283b7f95faaa07c510f9",
+                                    "id": 39148,
+                                    "type": "e_cnvi",
+                                    "e": "统管家务",
+                                    "p_cn": "tongguan jiawu",
+                                    "p": "tǒngguǎn jiāwù"
+                                },
+                                {
+                                    "m": "công tác hành chính và giảng dạy của nhà trường đều do hiệu trưởng quản lý.",
+                                    "p_vn": "cong tac hanh chinh va giang day cua nha truong deu do hieu truong quan ly",
+                                    "_id": "3f5ab381e3a7ef52efa84d9d8f52410f",
+                                    "id": 39149,
+                                    "type": "e_cnvi",
+                                    "e": "学校的行政和教学工作都由校长统管。",
+                                    "p_cn": "xuexiao de xingzheng he jiaoxue gongzuo dou you xiao chang tongguan",
+                                    "p": "xuéxiào de xíngzhèng hé jiàoxué gōngzuò dōu yóu xiào cháng tǒngguǎn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "thống quản",
+            "pinyin": "tǒngguǎn",
+            "word": "统管",
+            "id": 51396,
+            "phonetic": "tongguan",
+            "rank": 91793,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄅㄠˇ",
+            "_id": "69592eb9aac14cb3b5d82542b0c35eac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Bảo đảm (ăn) no",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Hôm nay chúng ta đừng ăn này kia ở quán ăn nữa, tôi mời cậu uống sữa đậu nành nhé, đảm bảo no luôn.",
+                                    "p_vn": "Hom nay chung ta dung an nay kia o quan an nua, toi moi cau uong sua dau nanh nhe, dam bao no luon.",
+                                    "_id": "d8dc68a3d4fc428b925acecadbb69abe",
+                                    "id": 68478,
+                                    "type": "e_cnvi",
+                                    "e": "我们今天不要去饭馆吃这吃那了，我请你去喝豆浆吧，管饱的。",
+                                    "p_cn": "Women jintian buyao qu fanguan chi zhe chi nale, wo qing ni qu he doujiang ba, guan bao de.",
+                                    "p": "Wǒmen jīntiān bùyào qù fànguǎn chī zhè chī nàle, wǒ qǐng nǐ qù hē dòujiāng ba, guǎn bǎo de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 88
+            },
+            "snym": null,
+            "cn_vi": "quản bão",
+            "pinyin": "guǎn bǎo",
+            "word": "管饱",
+            "id": 154177,
+            "phonetic": "guanbao",
+            "rank": 44330,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄣˋㄍㄨㄢˇ",
+            "_id": "6ea36dfc86787c179dc9008284c8fe19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tim; ngòi dẫn; ngòi nổ",
+                            "explain": "引信",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kíp nổ",
+                            "explain": "引起炮弹、炸弹、地雷等爆炸的一种装置",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "tín quản",
+            "pinyin": "xìnguǎn",
+            "word": "信管",
+            "id": 56523,
+            "phonetic": "xinguan",
+            "rank": 103257,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "men",
+                "examples": "当我问我的部门主管一些事情的时候，他总是黑着一张脸。",
+                "measure": "门"
+            },
+            "zhuyin": "ㄓㄨˇㄍㄨㄢˇ",
+            "_id": "7f24b0ff5e889d2a0a6b869cd846dacc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chủ quản",
+                            "explain": "负主要责任管理 (某一方面)",
+                            "examples": [
+                                {
+                                    "m": "ngành chủ quản; bộ môn chủ quản",
+                                    "p_vn": "nganh chu quan; bo mon chu quan",
+                                    "_id": "62a667080f4ed07c14be45236320c677",
+                                    "id": 51293,
+                                    "type": "e_cnvi",
+                                    "e": "主管部门",
+                                    "p_cn": "zhuguan bumen",
+                                    "p": "zhǔguǎnbùmén"
+                                },
+                                {
+                                    "m": "chủ quản công việc thu mua nguyên liệu và tiêu thụ sản phẩm.",
+                                    "p_vn": "chu quan cong viec thu mua nguyen lieu va tieu thu san pham",
+                                    "_id": "4bb189c475873e3ea8fe1fafea55ce33",
+                                    "id": 51294,
+                                    "type": "e_cnvi",
+                                    "e": "主管原料收购和产品销售。",
+                                    "p_cn": "zhuguan yuanliao shougou he chanpin xiaoshou",
+                                    "p": "zhǔguǎn yuánliào shōugòu hé chǎnpǐnxiāoshòu。"
+                                },
+                                {
+                                    "m": "hệ thần kinh thính giác chủ quản thính giác và cảm giác thăng bằng của con người.",
+                                    "p_vn": "he than kinh thinh giac chu quan thinh giac va cam giac thang bang cua con nguoi",
+                                    "_id": "b930abb6028f8579d70587803df6d59e",
+                                    "id": 51295,
+                                    "type": "e_cnvi",
+                                    "e": "听神经主管听觉和身体平衡的感觉。",
+                                    "p_cn": "tingshenjing zhuguan tingjue he shenti pingheng de ganjue",
+                                    "p": "tīngshénjīng zhǔguǎn tīngjué hé shēntǐ pínghéng de gǎnjué。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhân viên chủ quản",
+                            "explain": "主管的人员",
+                            "examples": [
+                                {
+                                    "m": "nhân viên tài vụ",
+                                    "p_vn": "nhan vien tai vu",
+                                    "_id": "7d63ed6adc91023c7c4ca162411768f8",
+                                    "id": 51296,
+                                    "type": "e_cnvi",
+                                    "e": "财务主管",
+                                    "p_cn": "caiwu zhuguan",
+                                    "p": "cáiwùzhǔguǎn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 211,
+                "search": 3636
+            },
+            "snym": {
+                "syno": [
+                    "主导",
+                    "主宰",
+                    "总裁"
+                ]
+            },
+            "lv_hsk_new": "5, 6",
+            "pinyin": "zhǔguǎn",
+            "cn_vi": "chủ quản",
+            "word": "主管",
+            "id": 65615,
+            "phonetic": "zhuguan",
+            "rank": 3277,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0775185a53bb46469222b201911db711",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "quản nhi",
+            "pinyin": "guǎn er",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "管儿",
+            "id": 175948,
+            "phonetic": "guaner",
+            "rank": 125583,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄑㄩˇ",
+            "_id": "07e54cdd4f434fe486d294d9c1f9f70f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Chắc chắn",
+                            "explain": "sure",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "quản thủ",
+            "pinyin": "guǎn qǔ",
+            "word": "管取",
+            "id": 99034,
+            "phonetic": "guanqu",
+            "rank": 150729,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "14",
+            "zhuyin": "ㄆㄧㄣˇㄍㄨㄢˇ",
+            "_id": "43fdd2d25884429bac5d2aea58345e7d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kiểm soát chất lượng",
+                            "explain": "quality control",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 385
+            },
+            "snym": null,
+            "cn_vi": "phẩm quản",
+            "pinyin": "pǐn guǎn",
+            "word": "品管",
+            "id": 102037,
+            "phonetic": "pinguan",
+            "rank": 18900,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˇㄓㄨˋ",
+            "_id": "1a84c27e22324ad591a044b48d77146e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để kiềm chế",
+                            "explain": "to curb",
+                            "examples": []
+                        },
+                        {
+                            "mean": "quản lý",
+                            "explain": "to manage",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để kiểm soát",
+                            "explain": "to take control of",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 98
+            },
+            "snym": null,
+            "cn_vi": "quản trụ",
+            "pinyin": "guǎn zhù",
+            "word": "管住",
+            "id": 104868,
+            "phonetic": "guanzhu",
+            "rank": 41840,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "管"
+}

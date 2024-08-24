@@ -1,0 +1,2304 @@
+{
+    "total": 135,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "他有一个兄弟和两个姐妹。\nTā yǒu yīgè xiōngdì hé liǎng gè jiěmèi.\nAnh ấy có một anh trai và hai chị gái.",
+                "measure": "个"
+            },
+            "zhuyin": "ㄒㄩㄥㄉㄧˋ",
+            "topic": "65",
+            "_id": "4fc8919492bc9effa4783f4915ce9ad5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "em trai",
+                            "explain": "弟弟",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chú em; cậu em; người anh em (cách gọi thân mật người nhỏ tuổi hơn mình)",
+                            "explain": "称呼年纪比自己小的男子 (亲切口气)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "anh em (cách gọi người ngang hàng)",
+                            "explain": "男子跟辈分相同的人或对众人说话时的谦称",
+                            "examples": []
+                        },
+                        {
+                            "mean": "côn trọng",
+                            "explain": "对别人兄弟的称呼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"兄弟\" có thể dùng để cho đàn ông từ xưng hô ( chỉ dùng trong những dịp thông thường, những người ít học thường nói như vậy).\n\"弟兄\" không có cách sử dụng này.\n- \"兄弟\" có thể dùng để Phân biệt quan hệ thân thiết giữa đơn vị, trường học, bộ đội, nhà xưởng, \"弟兄\" không có cách sử dụng này.",
+                    "title": "Phân biệt \"弟兄\" và \"兄弟\"",
+                    "words": [
+                        "弟兄",
+                        "兄弟"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "手足",
+                    "昆季",
+                    "伯仲",
+                    "昆仲",
+                    "姐妹",
+                    "弟弟"
+                ],
+                "anto": [
+                    "姐妹"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "xiōngdi",
+            "cn_vi": "huynh đệ",
+            "popularity": {
+                "notebook": 292,
+                "search": 3988
+            },
+            "word": "兄弟",
+            "id": 56904,
+            "phonetic": "xiongdi",
+            "rank": 3025,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, duì",
+                "examples": "",
+                "measure": "个，对"
+            },
+            "zhuyin": "ㄒㄩㄥㄉㄧˋ",
+            "topic": "65",
+            "_id": "15b24072c980b312be3c7e81f01f22ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A coi B như anh em",
+                            "examples": [
+                                133088,
+                                133089
+                            ],
+                            "struct": "A + 把 + B + 当作/视作 + 兄弟"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "huynh đệ; anh và em; anh em",
+                            "explain": "哥哥和弟弟",
+                            "examples": [
+                                {
+                                    "m": "Anh em bốn bể là nhà.",
+                                    "p_vn": "anh em bon be la nha.",
+                                    "_id": "329486f68b2b4177e0301e5c72ff58b2",
+                                    "id": 87021,
+                                    "type": "e_cnvi",
+                                    "e": "四海之内皆兄弟。",
+                                    "p_cn": "sihai zhi nei jie xiongdi",
+                                    "p": "sìhǎi zhī nèi jiē xiōngdì"
+                                },
+                                {
+                                    "m": "Cậu có anh chị em nào không?",
+                                    "p_vn": "cạu có anh chị em nào khong?",
+                                    "_id": "329486f68b2b4177e0301e5c72ff6454",
+                                    "id": 87022,
+                                    "type": "e_cnvi",
+                                    "e": "你有兄弟姐妹吗？",
+                                    "p_cn": "ni you xiongdi jiemei ma?",
+                                    "p": "nǐ yǒu xiōngdì jiěmèi ma?"
+                                },
+                                {
+                                    "m": "Họ là anh em ruột.",
+                                    "p_vn": "ho la anh em ruot.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c231529",
+                                    "id": 133066,
+                                    "type": "e_cnvi",
+                                    "e": "他们是亲兄弟。",
+                                    "p_cn": "tamen shi qin xiongdi.",
+                                    "p": "tāmen shì qīn xiōngdì."
+                                },
+                                {
+                                    "m": "Anh trai của tôi rất quan tâm đến tôi.",
+                                    "p_vn": "anh trai cua toi rat quan tam den toi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c23247b",
+                                    "id": 133067,
+                                    "type": "e_cnvi",
+                                    "e": "我的兄弟很照顾我。",
+                                    "p_cn": "wo de xiongdi hen zhaogu wo.",
+                                    "p": "wǒ de xiōngdì hěn zhàogù wǒ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"兄弟\" có thể dùng để cho đàn ông từ xưng hô ( chỉ dùng trong những dịp thông thường, những người ít học thường nói như vậy).\n\"弟兄\" không có cách sử dụng này.\n- \"兄弟\" có thể dùng để Phân biệt quan hệ thân thiết giữa đơn vị, trường học, bộ đội, nhà xưởng, \"弟兄\" không có cách sử dụng này.",
+                    "title": "Phân biệt \"弟兄\" và \"兄弟\"",
+                    "words": [
+                        "弟兄",
+                        "兄弟"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "手足",
+                    "昆季",
+                    "伯仲",
+                    "昆仲",
+                    "姐妹",
+                    "弟弟"
+                ],
+                "anto": [
+                    "姐妹"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "xiōngdì",
+            "cn_vi": "huynh đệ",
+            "popularity": {
+                "notebook": 292,
+                "search": 3988
+            },
+            "word": "兄弟",
+            "id": 56905,
+            "phonetic": "xiongdi",
+            "rank": 3026,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄒㄩㄥ",
+            "_id": "8aab080ec802253de768834e0275d124",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "huynh đệ; anh em; em trai và anh trai; đệ huynh",
+                            "explain": "弟弟和哥哥",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không bao gồm người nói",
+                            "explain": "不包括本人; 包括本人",
+                            "examples": [
+                                {
+                                    "m": "nó không có anh và em trai, chỉ có một chị gái.",
+                                    "p_vn": "no khong co anh va em trai chi co mot chi gai",
+                                    "_id": "b700f548eb7854e46a37f73dc35b5d79",
+                                    "id": 8222,
+                                    "type": "e_cnvi",
+                                    "e": "他没有弟兄，只有一个姐姐。",
+                                    "p_cn": "ta meiyou dixiong zhiyou yige jiejie",
+                                    "p": "tā méiyǒu dìxiōng，zhǐyǒu yīgè jiějiě。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"兄弟\" có thể dùng để cho đàn ông từ xưng hô ( chỉ dùng trong những dịp thông thường, những người ít học thường nói như vậy).\n\"弟兄\" không có cách sử dụng này.\n- \"兄弟\" có thể dùng để Phân biệt quan hệ thân thiết giữa đơn vị, trường học, bộ đội, nhà xưởng, \"弟兄\" không có cách sử dụng này.",
+                    "title": "Phân biệt \"弟兄\" và \"兄弟\"",
+                    "words": [
+                        "弟兄",
+                        "兄弟"
+                    ]
+                }
+            ],
+            "snym": null,
+            "cn_vi": "đệ huynh",
+            "pinyin": "dìxiōng",
+            "popularity": {
+                "notebook": 4,
+                "search": 74
+            },
+            "word": "弟兄",
+            "id": 12391,
+            "phonetic": "dixiong",
+            "rank": 48445,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "fd258f5309714dae9c9c4476fed21536",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh em bạn dì, tức anh em con dì.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "di huynh đệ",
+            "pinyin": "yí xiōngdì",
+            "word": "姨兄弟",
+            "id": 169297,
+            "phonetic": "yixiongdi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "abd07810ca1940aeabdbabec607dea44",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh em họ (con chú con bác).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "tòng huynh đệ",
+            "pinyin": "cóng xiōngdì",
+            "word": "从兄弟",
+            "id": 169637,
+            "phonetic": "congxiongdi",
+            "rank": 147995,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄒㄩㄥㄉㄧˋ",
+            "_id": "b5340541239aa77560675ae4af268f89",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ông anh (phụ nữ phương bắc gọi người con trai lớn tuổi hơn mình)",
+                            "explain": "北方妇女用以称年岁大于自己的男子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "đại huynh đệ",
+            "pinyin": "dà xiōngdì",
+            "word": "大兄弟",
+            "id": 10661,
+            "phonetic": "daxiongdi",
+            "rank": 95546,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "74da78ab916747428d60e702290efb94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh em về họ mẹ, con của cậu hoặc dì — Anh em cùng mẹ khác cha.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "ngoại huynh đệ",
+            "pinyin": "wài xiōngdì",
+            "word": "外兄弟",
+            "id": 169633,
+            "phonetic": "waixiongdi",
+            "rank": 155255,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧㄠˇㄒㄩㄥㄉㄧˋ",
+            "_id": "40ac9da898ff01ae3fe26dab7c131da2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh em bà con (con cô; cậu hoặc dì)",
+                            "explain": "姑母、舅父或姨母的儿子",
+                            "examples": [
+                                {
+                                    "m": "chị em bạn dì",
+                                    "p_vn": "chi em ban di",
+                                    "_id": "34a35da6407b5b5c06c32ecd9340c649",
+                                    "id": 45124,
+                                    "type": "e_cnvi",
+                                    "e": "姨表兄弟",
+                                    "p_cn": "yibiao xiongdi",
+                                    "p": "yíbiǎo xiōngdì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "con chú con bác",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "biểu huynh đệ",
+            "pinyin": "biǎo xiōngdì",
+            "word": "表兄弟",
+            "id": 3697,
+            "phonetic": "biaoxiongdi",
+            "rank": 63033,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧˋㄒㄩㄥㄉㄧˋ",
+            "_id": "6b3309d4a9cb454f9e60ec5d6ef25b4d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bạn bè kết làm anh em.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "khế huynh đệ",
+            "pinyin": "qì xiōngdì",
+            "word": "契兄弟",
+            "id": 148924,
+            "phonetic": "qixiongdi",
+            "rank": 125469,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄟˋㄒㄩㄥㄉㄧˋ",
+            "_id": "bdcd3b4398414e2c87146b2a1d865f83",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh và em trai của vợ. Con trai của cậu (cữu 舅 cậu; là anh hay em của mẹ).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": {
+                "syno": [
+                    "大舅子"
+                ]
+            },
+            "cn_vi": "nội huynh đệ",
+            "pinyin": "nèi xiōngdì",
+            "word": "内兄弟",
+            "id": 148925,
+            "phonetic": "neixiongdi",
+            "rank": 157076,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄒㄩㄥㄉㄧˋ",
+            "_id": "1848566631524a759cff11690895cfc3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "những người học việc đồng nghiệp",
+                            "explain": "fellow apprentices",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đồng học (nam)",
+                            "explain": "fellow students (male)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "sư huynh đệ",
+            "pinyin": "shī xiōngdì",
+            "word": "师兄弟",
+            "id": 117992,
+            "phonetic": "shixiongdi",
+            "rank": 72034,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄥˊㄒㄩㄥㄉㄧˋ",
+            "_id": "b87641d1c0e9f75dfdfc521855206d13",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh em kết nghĩa",
+                            "explain": "把兄弟",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": {
+                "syno": [
+                    "把兄弟"
+                ]
+            },
+            "cn_vi": "minh huynh đệ",
+            "pinyin": "méng xiōngdì",
+            "word": "盟兄弟",
+            "id": 37605,
+            "phonetic": "mengxiongdi",
+            "rank": 146496,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "16, 65",
+            "zhuyin": "ㄒㄩㄥㄉㄧˋㄏㄨㄟˋ",
+            "_id": "b884b3477ff3470688abb7df012651a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình huynh đệ",
+                            "explain": "fraternity",
+                            "examples": [
+                                {
+                                    "m": "Bạn đã thuộc về huynh đệ nào?",
+                                    "p_vn": "Ban da thuoc ve huynh de nao?",
+                                    "_id": "b0fa0b2de8a04f4fb0494eaf49d1a0d3",
+                                    "id": 61096,
+                                    "type": "e_cnvi",
+                                    "e": "你是哪个兄弟会的",
+                                    "p_cn": "ni shi nage xiongdihui de",
+                                    "p": "nǐ shì nǎgè xiōngdìhùi de"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "huynh đệ hội",
+            "pinyin": "xiōngdì huì",
+            "word": "兄弟会",
+            "id": 120764,
+            "phonetic": "xiongdihui",
+            "rank": 69875,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄒㄩㄥㄇㄣ˙",
+            "_id": "24f4d142e0c44d49a098a13e6f1345ff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh em",
+                            "explain": "brethren; brothers",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đồng chí",
+                            "explain": "comrades",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đàn ông",
+                            "explain": "men",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "đệ huynh môn",
+            "pinyin": "dìxiōngmen",
+            "word": "弟兄们",
+            "id": 121716,
+            "phonetic": "dixiongmen",
+            "rank": 87956,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄠㄒㄩㄥㄉㄧˋ",
+            "_id": "08001dc0360f47509ea3bfa71a09e53f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh em ruột.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "bào huynh đệ",
+            "pinyin": "bāo xiōngdì",
+            "word": "胞兄弟",
+            "id": 148922,
+            "phonetic": "baoxiongdi",
+            "rank": 129911,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄚˇㄒㄩㄥㄉㄧˋ",
+            "_id": "a45296c71544a171d8dc3f409af44b78",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh em kết nghĩa. 指结拜的兄弟",
+                            "explain": "年长的称把兄，年轻的称把弟也叫盟兄弟; 指结拜的兄弟年长的称把兄, 年轻的称把弟也叫盟兄弟",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "bả huynh đệ",
+            "pinyin": "bǎxiōngdì",
+            "word": "把兄弟",
+            "id": 783,
+            "phonetic": "baxiongdi",
+            "rank": 113837,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄤˊㄒㄩㄥㄉㄧˋ",
+            "_id": "d07a943875814f1aabd7a296f8a2be41",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "con trai của anh trai của cha",
+                            "explain": "father's brother's sons",
+                            "examples": [
+                                {
+                                    "m": "anh em họ hàng gần",
+                                    "p_vn": "anh em ho hang gan",
+                                    "_id": "98e2a4dab8dab4f3dcf99db1b34510bc",
+                                    "id": 7997,
+                                    "type": "e_cnvi",
+                                    "e": "嫡堂兄弟",
+                                    "p_cn": "di tang xiongdi",
+                                    "p": "dítáng xiōngdì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "anh họ nam",
+                            "explain": "paternal male cousin",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "đường huynh đệ",
+            "pinyin": "táng xiōngdì",
+            "word": "堂兄弟",
+            "id": 124585,
+            "phonetic": "tangxiongdi",
+            "rank": 65955,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ce463d48dcf44c768efab420c22d2564",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh em do đám cưới giữa hai gia đình mà thành, tức chỉ anh em bên chồng và bên vợ — Cũng chỉ chỗ bạn bè thân mật, như anh em trong họ.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "nhân huynh đệ",
+            "pinyin": "yīn xiōngdì",
+            "word": "姻兄弟",
+            "id": 169634,
+            "phonetic": "yinxiongdi",
+            "rank": 145679,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄥㄒㄩㄥㄉㄠˋㄉㄧˋ",
+            "_id": "0b08524b0bb167c468bcd96a31789ef4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "xưng anh xưng em; bạn bè thân thiết; thân mật; mật thiết; thân tình",
+                            "explain": "朋友间以兄弟相称，表示关系亲密",
+                            "examples": [
+                                {
+                                    "m": "Nhưng bạn có thể làm quen với một con hagfish không?",
+                                    "p_vn": "Nhung ban co the lam quen voi mot con hagfish khong?",
+                                    "_id": "5fc9daa60b5f415cb849257f73747e6d",
+                                    "id": 58517,
+                                    "type": "e_cnvi",
+                                    "e": "难道你可以跟盲鳗称兄道弟吗",
+                                    "p_cn": "nandao ni keyi gen mangman chengxiongdaodi ma",
+                                    "p": "nándào nǐ kěyǐ gēn mángmán chēngxiōngdàodì ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 125
+            },
+            "snym": {
+                "syno": [
+                    "亲如手足",
+                    "情同手足",
+                    "呼朋引伴"
+                ],
+                "anto": [
+                    "行同陌路"
+                ]
+            },
+            "cn_vi": "xưng huynh đạo đệ",
+            "pinyin": "chēngxiōngdàodì",
+            "word": "称兄道弟",
+            "id": 7147,
+            "phonetic": "chengxiongdaodi",
+            "rank": 37023,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄨㄢˊㄕㄥㄒㄩㄥㄉㄧˋ",
+            "_id": "09283ffc7f7845f2a026d779908e5ae8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh em sinh đôi",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi là anh em sinh đôi",
+                                    "p_vn": "Chung toi la anh em sinh doi",
+                                    "_id": "30852ea708f74a2496a151a9bd344705",
+                                    "id": 68599,
+                                    "type": "e_cnvi",
+                                    "e": "我们是孪生兄弟",
+                                    "p_cn": "Women shi luansheng xiongdi",
+                                    "p": "Wǒmen shì luánshēng xiōngdì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 53
+            },
+            "snym": {
+                "syno": [
+                    "双胞胎"
+                ]
+            },
+            "cn_vi": "loan sinh huynh đệ",
+            "pinyin": "luánshēng xiōngdì",
+            "word": "孪生兄弟",
+            "id": 154344,
+            "phonetic": "luanshengxiongdi",
+            "rank": 56352,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄚˊㄋㄚˋㄒㄩㄥㄉㄧˋ",
+            "_id": "a197ab3a3c14445a9c41d51bf91619c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh em nhà Warner",
+                            "explain": "Warner Brothers",
+                            "examples": [
+                                {
+                                    "m": "Anh em chiến binh quỷ Tasmania?",
+                                    "p_vn": "anh em chien binh quy tasmania?",
+                                    "_id": "2894647f37f84680990973fabc6ded49",
+                                    "id": 62481,
+                                    "type": "e_cnvi",
+                                    "e": "拍《大嘴怪》的那个华纳兄弟吗",
+                                    "p_cn": "pai << dazui guai >>  de nage huana xiongdi ma",
+                                    "p": "pāi 《 dàzǔi guài 》 de nàge huánà xiōngdì ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "hoa nạp huynh đệ",
+            "pinyin": "huánà xiōngdì",
+            "word": "华纳兄弟",
+            "id": 134007,
+            "phonetic": "huanaxiongdi",
+            "rank": 142676,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄢˊㄒㄩㄥㄋㄢˊㄉㄧˋ",
+            "_id": "08a52d99f8273ff0ce939fed7fb776b4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh không ra anh, em không ra em; một giuộc; cá mè một lứa (mang ý xấu)",
+                            "explain": "东汉陈元方的儿子和陈季方的儿子，都夸耀自己父亲的功德，争个不休，就去问祖父陈寔陈寔说：'元方难为弟，季方难为兄' (见于《世说新 语·德行篇》) 意思是元方好得做他弟弟难，季方好得做他哥哥难后来用'难兄难弟'形容兄弟都非常好 今多反用，讥讽两人同样坏",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 119
+            },
+            "snym": null,
+            "cn_vi": "nan huynh nan đệ",
+            "pinyin": "nánxiōng-nándì",
+            "word": "难兄难弟",
+            "id": 39142,
+            "phonetic": "nanxiong-nandi",
+            "rank": 37905,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄢˊㄒㄩㄥㄋㄢˊㄉㄧˋ",
+            "_id": "37308aa3893c5278a523791575c67477",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "người cùng cảnh ngộ; người cùng hội cùng thuyền; bạn khố rách áo ôm",
+                            "explain": "彼此曾共患难的人;彼此处于同样困难境地的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 119
+            },
+            "snym": null,
+            "cn_vi": "nan huynh nan đệ",
+            "pinyin": "nànxiōng-nàndì",
+            "word": "难兄难弟",
+            "id": 39143,
+            "phonetic": "nanxiong-nandi",
+            "rank": 37906,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˊㄅㄞˋㄒㄩㄥㄉㄧˋ",
+            "_id": "9872fbcdff242761b2cbfdff8bd58bbe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh em kết nghĩa",
+                            "explain": "因感情亲密而结义的兄弟",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "kết bái huynh đệ",
+            "pinyin": "jiébài xiōngdì",
+            "word": "结拜兄弟",
+            "id": 29599,
+            "phonetic": "jiebaixiongdi",
+            "rank": 78335,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄥㄉㄧˋㄒㄧˋㄑㄧㄤˊ",
+            "_id": "9a74c23ad3f6121b27661f712fb48641",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "anh em trong nhà cãi cọ nhau; nội bộ bất hoà",
+                            "explain": "《诗经·小雅·常棣》'兄弟阋于墙'比喻内部相争 (阋：争吵;争斗)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 20
+            },
+            "snym": {
+                "syno": [
+                    "祸起萧墙",
+                    "同室操戈",
+                    "操戈同室",
+                    "煮豆燃萁",
+                    "尺布斗粟",
+                    "骨肉相残"
+                ],
+                "anto": [
+                    "一致对外",
+                    "伯歌季舞"
+                ]
+            },
+            "cn_vi": "huynh đệ huých tường",
+            "pinyin": "xiōngdìxìqiáng",
+            "word": "兄弟阋墙",
+            "id": 56906,
+            "phonetic": "xiongdixiqiang",
+            "rank": 82974,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩㄥㄧㄡ˙ㄉㄧˋㄍㄨㄥ",
+            "_id": "e1929228b8f241df8aa583755daa1f19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Anh em hòa mục thân ái tôn kính lẫn nhau. \n◇Sử Kí 史記: Sử bố ngũ giáo vu tứ phương; phụ nghĩa mẫu từ; huynh hữu đệ cung; tử hiếu; nội bình ngoại thành 使布五教于四方; 父義母慈; 兄友弟恭; 子孝; 內平外成 (Ngũ đế bổn kỉ 五帝本紀).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 52
+            },
+            "snym": null,
+            "cn_vi": "huynh hữu đệ cung",
+            "pinyin": "xiōng yǒu dì gōng",
+            "word": "兄友弟恭",
+            "id": 148923,
+            "phonetic": "xiongyoudigong",
+            "rank": 56689,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "337ad9e8ba494bab8ec191a74fd8d9ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh em họ nhiều đời, anh em họ cùng ông tổ.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "tái tòng huynh đệ",
+            "pinyin": "zài cóng xiōngdì",
+            "word": "再从兄弟",
+            "id": 169636,
+            "phonetic": "zaicongxiongdi",
+            "rank": 151223,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "810b6f29227446f590af9770d216695f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "con chú con bác",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thúc bá huynh đệ",
+            "pinyin": "shūbai xiōngdì",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "叔伯兄弟",
+            "id": 175632,
+            "phonetic": "shubaixiongdi",
+            "rank": 150961,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩㄥㄉㄧˋㄐㄧㄝ˙ㄇㄟˋ",
+            "_id": "4d4b7337c72042f39de00998b8ff5893",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anh chị em",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Anh chị em nên hòa thuận",
+                                    "p_vn": "Anh chi em nen hoa thuan",
+                                    "_id": "0beb73ca5caa4bdd8de8b1292983f7cd",
+                                    "id": 55347,
+                                    "type": "e_cnvi",
+                                    "e": "兄弟姐妹应当和好相处",
+                                    "p_cn": "Xiongdi jiemei yingdang he hao xiangchu",
+                                    "p": "Xiōngdì jiěmèi yīngdāng hé hǎo xiāngchǔ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 71,
+                "search": 766
+            },
+            "snym": null,
+            "cn_vi": "huynh đệ thư muội",
+            "pinyin": "xiōngdì jiěmèi",
+            "word": "兄弟姐妹",
+            "id": 84632,
+            "phonetic": "xiongdijiemei",
+            "rank": 11926,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "09dcee3d97be40f19a94b7297971e986",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh em láng giềng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "huynh đệ cận lân",
+            "pinyin": "xiōngdì jìnlín",
+            "word": "兄弟近邻",
+            "id": 159149,
+            "phonetic": "xiongdijinlin",
+            "rank": 110560,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄒㄩㄥㄕㄉㄧˋ",
+            "_id": "51afa4bf346d52e25cf442a66729444d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh em đồng môn; sư huynh sư đệ",
+                            "explain": "指有同门关系的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "sư huynh sư đệ",
+            "pinyin": "shīxiōng shīdì",
+            "word": "师兄师弟",
+            "id": 46900,
+            "phonetic": "shixiongshidi",
+            "rank": 118224,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄟˊㄇㄢˋㄒㄩㄥㄉㄧˋ",
+            "_id": "3cc148e721ec4076ab94d2e4b31a6699",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lehman Brothers, ngân hàng đầu tư",
+                            "explain": "Lehman Brothers, investment bank",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "lôi man huynh đệ",
+            "pinyin": "léi màn xiōngdì",
+            "word": "雷曼兄弟",
+            "id": 138419,
+            "phonetic": "leimanxiongdi",
+            "rank": 129302,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄤㄕㄥㄒㄩㄥㄉㄧˋ",
+            "_id": "dfe083354f554417ab99ee3283417625",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh em sinh đôi",
+                            "explain": "twin brothers",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "song sinh huynh đệ",
+            "pinyin": "shuāngshēng xiōngdì",
+            "word": "双生兄弟",
+            "id": 141770,
+            "phonetic": "shuangshengxiongdi",
+            "rank": 85442,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙˋㄏㄞˇㄐㄧㄝㄒㄩㄥㄉㄧˋ",
+            "_id": "efd166b5c33faec1e0415ed9db721b66",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "Bốn bể đều là anh em. Cả loài người đều là anh em.",
+                            "explain": "【出 处】： 《论语·颜渊》孔子弟子-子夏：",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 76
+            },
+            "snym": null,
+            "cn_vi": "tứ hải giai huynh đệ",
+            "pinyin": "sìhǎi jiē xiōngdì",
+            "word": "四海皆兄弟",
+            "id": 79719,
+            "phonetic": "sihaijiexiongdi",
+            "rank": 47627,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, wèi",
+                "examples": "",
+                "measure": "个, 位"
+            },
+            "zhuyin": "ㄉㄧˋㄉㄧˋ",
+            "topic": "65",
+            "_id": "15a72eebbb69907e6b0591905423d6ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "em trai + hiểu chuyện/ ngoan ngoãn/ đáng yêu/ thông minh",
+                            "examples": [
+                                97412,
+                                97413
+                            ],
+                            "struct": "懂事，乖巧，可爱，聪明 + 弟弟"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "em trai",
+                            "explain": "同父母 (或只同父、只同母) 而年纪比自己小的男子",
+                            "examples": [
+                                {
+                                    "m": "Tớ không có em trai.",
+                                    "p_vn": "tó khong có em trai.",
+                                    "_id": "b2776ac4a861e06178aa5de73b2b1b81",
+                                    "id": 76988,
+                                    "type": "e_cnvi",
+                                    "e": "我没有弟弟。",
+                                    "p_cn": "wo meiyou didi.",
+                                    "p": "wǒ méiyǒu dìdi."
+                                },
+                                {
+                                    "m": "Em trai cậu ở đâu?",
+                                    "p_vn": "em trai cạu ỏ dau?",
+                                    "_id": "b2776ac4a861e06178aa5de73b2b22b8",
+                                    "id": 76989,
+                                    "type": "e_cnvi",
+                                    "e": "你的弟弟在哪儿？",
+                                    "p_cn": "ni de didi zai nar?",
+                                    "p": "nǐ de dìdi zài nǎr?"
+                                },
+                                {
+                                    "m": "Cậu đi hay em trai cậu đi?",
+                                    "p_vn": "cạu di hay em trai cạu di?",
+                                    "_id": "b2776ac4a861e06178aa5de73b2b3142",
+                                    "id": 76990,
+                                    "type": "e_cnvi",
+                                    "e": "你去还是你弟弟去？",
+                                    "p_cn": "ni qu haishi ni didi qu?",
+                                    "p": "nǐ qù háishi nǐ dìdi qù?"
+                                },
+                                {
+                                    "m": "Em trai tôi năm nay được năm tuổi.",
+                                    "p_vn": "em trai toi nam nay duoc nam tuoi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9f7b4cf",
+                                    "id": 97411,
+                                    "type": "e_cnvi",
+                                    "e": "我的弟弟今年五岁了。",
+                                    "p_cn": "wo de didi jinnian wu suile.",
+                                    "p": "wǒ de dìdi jīnnián wǔ suìle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "em; đệ (họ)",
+                            "explain": "同辈而年纪比自己小的男子",
+                            "examples": [
+                                {
+                                    "m": "Em con chú con bác",
+                                    "p_vn": "em con chu con bac",
+                                    "_id": "da58efa6db66bd573d37cba2ca8135d7",
+                                    "id": 8221,
+                                    "type": "e_cnvi",
+                                    "e": "叔伯弟弟。",
+                                    "p_cn": "shubo didi",
+                                    "p": "shūbó dìdi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 970,
+                "search": 15752
+            },
+            "snym": {
+                "syno": [
+                    "兄弟"
+                ],
+                "anto": [
+                    "兄长"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "dìdi",
+            "cn_vi": "đệ đệ",
+            "word": "弟弟",
+            "id": 12387,
+            "phonetic": "didi",
+            "rank": 454,
+            "lv_hsk": 1,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "01e6eea5dd8b437fb06e8a6e1b8333ff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "anh em như thể chân tay",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "huynh đệ như thủ tú",
+            "pinyin": "xiōngdì rú shǒuzú",
+            "popularity": {
+                "notebook": 2,
+                "search": 18
+            },
+            "word": "兄弟如手足",
+            "id": 178446,
+            "phonetic": "xiongdirushouzu",
+            "rank": 86325,
+            "kind": [
+                "proverb"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥˊㄓˋㄐㄧㄚㄒㄩㄥㄉㄧˋ",
+            "_id": "5cf5ab2c52df4452a4051fa887fbc4a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Đồng chí; anh em một nhà",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Quan hệ giữa Trung Quốc và Việt Nam là đối tác hợp tác chiến lược toàn diện “vừa là đồng chí vừa là anh em”.",
+                                    "p_vn": "quan he giua trung quoc va viet nam la doi tac hop tac chien luoc toan dien “vua la dong chi vua la anh em”.",
+                                    "_id": "d5c51548ec674338ae3877bc015a53a4",
+                                    "id": 63563,
+                                    "type": "e_cnvi",
+                                    "e": "中越两国关系是“同志加兄弟”的全面战略合作伙伴。",
+                                    "p_cn": "zhongyue liang guo guanxi shi “tongzhi jia xiongdi” de quanmian zhanlüe hezuo huobantongzhi jia xiongdi” de teshu qingyi",
+                                    "p": "zhōngyuè liǎng guó guānxì shì “tóngzhì jiā xiōngdì” de quánmiàn zhànlüè hézuò huǒbàntóngzhì jiā xiōngdì” de tèshū qíngyì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 102
+            },
+            "snym": null,
+            "cn_vi": "đồng chí gia huynh đệ",
+            "pinyin": "tóngzhì jiā xiōngdì",
+            "word": "同志加兄弟",
+            "id": 147483,
+            "phonetic": "tongzhijiaxiongdi",
+            "rank": 41122,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "",
+                "examples": "",
+                "measure": ""
+            },
+            "zhuyin": "ㄒㄩㄥ",
+            "_id": "21dd556030990d6df2a7b35953262e27",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh trai",
+                            "explain": "哥哥",
+                            "examples": [
+                                {
+                                    "m": "Anh trai luôn chăm sóc tôi.",
+                                    "p_vn": "anh trai luon cham soc toi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b4a39c",
+                                    "id": 130147,
+                                    "type": "e_cnvi",
+                                    "e": "兄总是照顾着我。",
+                                    "p_cn": "xiong zong shi zhaoguzhe wo.",
+                                    "p": "xiōng zǒng shì zhàogùzhe wǒ."
+                                },
+                                {
+                                    "m": "Anh trai dẫn tôi đi thả diều.",
+                                    "p_vn": "anh trai dan toi di tha dieu.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b4a560",
+                                    "id": 130148,
+                                    "type": "e_cnvi",
+                                    "e": "兄带我去放风筝。",
+                                    "p_cn": "xiong dai wo qu fang fengzheng.",
+                                    "p": "xiōng dài wǒ qù fàng fēngzhēng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "anh (người ngang hàng nhưng lớn tuổi hơn trong họ vợ hoặc chồng)",
+                            "explain": "亲戚中同辈而年纪比自己大的男子",
+                            "examples": [
+                                {
+                                    "m": "Anh họ hôm nay đến nhà tôi rồi.",
+                                    "p_vn": "anh ho hom nay den nha toi roi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b4c00e",
+                                    "id": 130151,
+                                    "type": "e_cnvi",
+                                    "e": "表兄今天来我家了。",
+                                    "p_cn": "biao xiong jintian lai wojiale.",
+                                    "p": "biǎo xiōng jīntiān lái wǒjiāle."
+                                },
+                                {
+                                    "m": "Anh họ của tôi rất đẹp trai.",
+                                    "p_vn": "anh ho cua toi rat dep trai.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b4ce21",
+                                    "id": 130152,
+                                    "type": "e_cnvi",
+                                    "e": "我的表兄十分帅气。",
+                                    "p_cn": "wo de biao xiong shifen shuaiqi.",
+                                    "p": "wǒ de biǎo xiōng shífēn shuàiqì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "anh (cách gọi bạn trai một cách tôn trọng)",
+                            "explain": "对男性朋友的尊称",
+                            "examples": [
+                                {
+                                    "m": "Anh Lý hôm nay tâm trạng tốt.",
+                                    "p_vn": "anh ly hom nay tam trang tot.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b50d7a",
+                                    "id": 130160,
+                                    "type": "e_cnvi",
+                                    "e": "李兄今日心情不错。",
+                                    "p_cn": "li xiong jinri xinqing bucuo.",
+                                    "p": "lǐ xiōng jīnrì xīnqíng bùcuò."
+                                },
+                                {
+                                    "m": "Anh Lý vừa mới rời khỏi nhà.",
+                                    "p_vn": "anh ly vua moi roi khoi nha.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571b510c5",
+                                    "id": 130161,
+                                    "type": "e_cnvi",
+                                    "e": "李兄方才离开了家。",
+                                    "p_cn": "li xiong fangcai likaile jia.",
+                                    "p": "lǐ xiōng fāngcái líkāile jiā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"哥\" và \"兄\" đồng nghĩa.\nKhác:\n- \"哥\" thường dùng trong văn nói, \"兄\" sử dụng trong văn viết.\n- \"兄\" không thể đứng một mình để xưng hô trước mặt\n- \"兄\" còn có thể dùng trong văn viết, dùng để chỉ một người đàn ông có danh xưng và tuổi tác tương đương (không nhất định phải lớn hơn mình), nhưng không phải anh em người nhà.",
+                    "title": "Phân biệt \"哥\" và \"兄\"",
+                    "words": [
+                        "哥",
+                        "兄"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "弟"
+                ]
+            },
+            "cn_vi": "huynh.huống",
+            "pinyin": "xiōng",
+            "popularity": {
+                "notebook": 94,
+                "search": 2125
+            },
+            "word": "兄",
+            "id": 56902,
+            "phonetic": "xiong",
+            "rank": 5322,
+            "lv_tocfl": null,
+            "compound": "兄弟 ; 兄弟阋墙 ; 兄嫂 ; 兄长"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠˇㄉㄧˋㄉㄧˋ",
+            "_id": "b6b662930d084c72be203823d7a1e877",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cậu bé nhỏ",
+                            "explain": "little boy",
+                            "examples": [
+                                {
+                                    "m": "Nó dành cho cậu bé?",
+                                    "p_vn": "no danh cho cau be?",
+                                    "_id": "20c1928663b8402e82348028b4e1f807",
+                                    "id": 60078,
+                                    "type": "e_cnvi",
+                                    "e": "给那个小弟弟的吗",
+                                    "p_cn": "gei nage xiaodidi de ma",
+                                    "p": "gěi nàge xiǎodìdi de ma"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "em trai",
+                            "explain": "little brother",
+                            "examples": [
+                                {
+                                    "m": "Họ rất vui mừng khi có một em trai nhỏ.",
+                                    "p_vn": "ho rat vui mung khi co mot em trai nho.",
+                                    "_id": "418e8948ff654109ad1486e9d0a17080",
+                                    "id": 60079,
+                                    "type": "e_cnvi",
+                                    "e": "她们很高兴能多个小弟弟",
+                                    "p_cn": "tamen hen gaoxing neng duoge xiaodidi",
+                                    "p": "tāmen hěn gāoxīng néng duōgè xiǎodìdi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 481
+            },
+            "snym": null,
+            "cn_vi": "tiểu đệ đệ",
+            "pinyin": "xiǎo dìdi",
+            "word": "小弟弟",
+            "id": 114595,
+            "phonetic": "xiaodidi",
+            "rank": 16350,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄣㄒㄩㄥㄉㄧˋㄇㄧㄥˊㄙㄨㄢˋㄓㄤˋ",
+            "_id": "e22e589f610b458cae40667139b90fd1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "ngay cả với anh trai của bạn, giữ tài khoản rõ ràng (thành ngữ)",
+                            "explain": "even with your own brother, keep clear accounts (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 55
+            },
+            "snym": null,
+            "cn_vi": "thân huynh đệ minh toán trướng",
+            "pinyin": "qīn xiōngdì, míng suàn zhàng",
+            "word": "亲兄弟，明算帐",
+            "id": 146309,
+            "phonetic": "qinxiongdi,mingsuanzhang",
+            "rank": 55395,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "zhuyin": "ㄉㄧˋ",
+            "lv_tocfl": 1,
+            "_id": "ea3d678c9e15cab5efad3e5bfc4901fe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "em trai",
+                            "explain": "弟弟",
+                            "examples": [
+                                {
+                                    "m": "Đây là em trai của tôi.",
+                                    "p_vn": "day la em trai cua toi.",
+                                    "_id": "55db399305625a14707d64b91820c114",
+                                    "id": 98385,
+                                    "type": "e_cnvi",
+                                    "e": "这是我的弟弟。",
+                                    "p_cn": "zhe shi wo de didi.",
+                                    "p": "zhè shì wǒ de dìdì."
+                                },
+                                {
+                                    "m": "Em trai thứ 3 của tôi.",
+                                    "p_vn": "em trai thu 3 cua toi.",
+                                    "_id": "55db399305625a14707d64b91820cf29",
+                                    "id": 98386,
+                                    "type": "e_cnvi",
+                                    "e": "你的三弟吗？",
+                                    "p_cn": "ni de san di ma?",
+                                    "p": "nǐ de sān dì ma?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "em trai (họ)",
+                            "explain": "亲戚中同辈而年纪比自己小的男子",
+                            "examples": [
+                                {
+                                    "m": "Cậu ấy là em trai họ của tôi.",
+                                    "p_vn": "cau ay la em trai ho cua toi.",
+                                    "_id": "55db399305625a14707d64b91820ed89",
+                                    "id": 98390,
+                                    "type": "e_cnvi",
+                                    "e": "他是我的表弟。",
+                                    "p_cn": "ta shi wo de biao di.",
+                                    "p": "tā shì wǒ de biǎo dì."
+                                },
+                                {
+                                    "m": "Đó là em trai vợ của tôi.",
+                                    "p_vn": "do la em trai vo cua toi.",
+                                    "_id": "55db399305625a14707d64b91820fd1d",
+                                    "id": 98391,
+                                    "type": "e_cnvi",
+                                    "e": "那是我的妻弟。",
+                                    "p_cn": "na shi wo de qi di.",
+                                    "p": "nà shì wǒ de qī dì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đệ; em",
+                            "explain": "朋友相互间的谦称 (多用于书信)",
+                            "examples": [
+                                {
+                                    "m": "Lâu rồi không gặp rồi em trai.",
+                                    "p_vn": "lau ròi khong gạp ròi em trai.",
+                                    "_id": "c0fb569df3556ccddfe6404866c4b570",
+                                    "id": 88309,
+                                    "type": "e_cnvi",
+                                    "e": "老弟，好久不见了。",
+                                    "p_cn": "laodi, haojiu bujianle.",
+                                    "p": "lǎodì, hǎojiǔ bùjiànle."
+                                },
+                                {
+                                    "m": "Đừng quên người em trai này.",
+                                    "p_vn": "dung quen nguoi em trai nay.",
+                                    "_id": "55db399305625a14707d64b918210438",
+                                    "id": 98392,
+                                    "type": "e_cnvi",
+                                    "e": "别忘了老弟我。",
+                                    "p_cn": "bie wangle laodi wo.",
+                                    "p": "bié wàngle lǎodì wǒ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 119,
+                "search": 3910
+            },
+            "snym": {
+                "anto": [
+                    "兄"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "dì",
+            "cn_vi": "đệ",
+            "word": "弟",
+            "id": 12386,
+            "phonetic": "di",
+            "rank": 3078,
+            "lv_hsk": 1,
+            "kind": [
+                "n"
+            ],
+            "compound": "弟弟 ; 弟妇 ; 弟妹 ; 弟媳 ; 弟兄 ; 弟子"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄚˇㄌㄚㄇㄚˇㄗㄨㄛˇㄈㄨ˙ㄒㄩㄥㄉㄧˋ",
+            "_id": "e0c483cdbdc2423092a9f5bd70ceb389",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Brothers Karamazov bởi Dostoevsky 陀 思 妥 耶夫斯基",
+                            "explain": "Brothers Karamazov by Dostoevsky 陀思妥耶夫斯基",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "ca lạp mã tá phu huynh đệ",
+            "pinyin": "kǎlā mǎzuǒfū xiōngdì",
+            "word": "卡拉马佐夫兄弟",
+            "id": 145824,
+            "phonetic": "kalamazuofuxiongdi",
+            "rank": 154887,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙˋㄏㄞˇㄓㄋㄟˋㄐㄧㄝㄒㄩㄥㄉㄧˋ",
+            "_id": "ec15d1391302ad27e62d4b753b7c39b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "Anh em bốn biển một nhà",
+                            "explain": "四海之内皆兄弟：汉语成语",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 48
+            },
+            "snym": {
+                "syno": [
+                    "四海皆兄弟"
+                ]
+            },
+            "cn_vi": "tứ hải chi nội giai huynh đệ",
+            "pinyin": "sìhǎi zhī nèi jiē xiōngdì",
+            "word": "四海之内皆兄弟",
+            "id": 79710,
+            "phonetic": "sihaizhineijiexiongdi",
+            "rank": 58694,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄨˋㄒㄩㄥ",
+            "_id": "8ed3eadd7dca9e8855dd51d0d045f913",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cha và anh; cha anh",
+                            "explain": "父亲和哥哥",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phụ huynh",
+                            "explain": "泛指家长",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 90
+            },
+            "snym": null,
+            "cn_vi": "phụ huynh",
+            "pinyin": "fùxiōng",
+            "word": "父兄",
+            "id": 17733,
+            "phonetic": "fuxiong",
+            "rank": 43887,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩㄥㄇㄟˋ",
+            "_id": "6ee7e964e54f4cd7aed6e51fe4433301",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "các anh chị em",
+                            "explain": "brother (s) and sister (s)",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi là anh chị em.",
+                                    "p_vn": "Chung toi la anh chi em.",
+                                    "_id": "d1abf3ea10284856af66d0e14acf0ac8",
+                                    "id": 58662,
+                                    "type": "e_cnvi",
+                                    "e": "我们是兄妹",
+                                    "p_cn": "women shi xiongmei",
+                                    "p": "wǒmen shì xiōngmèi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 195
+            },
+            "snym": null,
+            "cn_vi": "huynh muội",
+            "pinyin": "xiōngmèi",
+            "word": "兄妹",
+            "id": 106809,
+            "phonetic": "xiongmei",
+            "rank": 28806,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9a989563a1ea4fa298e1868eac62c9b3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chị hai",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "huynh thiếp",
+            "pinyin": "xiōng qiè",
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "word": "兄妾",
+            "id": 182697,
+            "phonetic": "xiongqie",
+            "rank": 115688,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣㄒㄩㄥ",
+            "_id": "bca3c86f10d34eaf84014626f535ef3c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chồng của chị gái vợ",
+                            "explain": "husband of wife's older sister",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "khâm huynh",
+            "pinyin": "jīn xiōng",
+            "word": "襟兄",
+            "id": 109006,
+            "phonetic": "jinxiong",
+            "rank": 143044,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄨㄣㄒㄩㄥ",
+            "_id": "e727dd0f7d29a20f098a6d8d34e5f3a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tôn huynh",
+                            "explain": "对自己兄长或同辈中年长者的敬称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tôn huynh",
+            "pinyin": "zūnxiōng",
+            "word": "尊兄",
+            "id": 67614,
+            "phonetic": "zunxiong",
+            "rank": 133934,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄠˇㄒㄩㄥ",
+            "_id": "f99956a542f233bfd24b46a051f78ee6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh bạn; ông anh",
+                            "explain": "男性的朋友或 熟人相互间的尊称",
+                            "examples": [
+                                {
+                                    "m": "các bô lão",
+                                    "p_vn": "cac bo lao",
+                                    "_id": "d9ed6135dc2466b9f938b7bbd97b1d3e",
+                                    "id": 12414,
+                                    "type": "e_cnvi",
+                                    "e": "父老兄弟",
+                                    "p_cn": "fulao xiongdi",
+                                    "p": "fùlǎoxiōngdì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cu cậu",
+                            "explain": "对朋友的敬称 (多用于书信等)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 122
+            },
+            "snym": null,
+            "cn_vi": "lão huynh",
+            "pinyin": "lǎoxiōng",
+            "word": "老兄",
+            "id": 33917,
+            "phonetic": "laoxiong",
+            "rank": 37456,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄤˇㄒㄩㄥ",
+            "_id": "4771ba84251c48bc915dc830d7cde556",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "anh cả",
+                            "explain": "eldest brother",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đại huynh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": {
+                "syno": [
+                    "兄长"
+                ]
+            },
+            "cn_vi": "trưởng huynh",
+            "pinyin": "zhǎng xiōng",
+            "word": "长兄",
+            "id": 110814,
+            "phonetic": "zhangxiong",
+            "rank": 85337,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "兄弟"
+}

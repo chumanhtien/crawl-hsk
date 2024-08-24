@@ -1,0 +1,3396 @@
+{
+    "total": 845,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄦˊ",
+            "_id": "794c2f5bb346a96994a979b49f06023f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "không những chưa..., mà còn/ngược lại",
+                            "examples": [
+                                80400
+                            ],
+                            "struct": "不但 + 不/没 +  …，反而…"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                80403,
+                                80404
+                            ],
+                            "struct": "Chủ ngữ + 反而"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "trái lại; ngược lại",
+                            "explain": "连词，表示跟上文意思相反或出乎预料和常情",
+                            "examples": [
+                                {
+                                    "m": "gió không những không ngừng mà trái lại càng mạnh thêm.",
+                                    "p_vn": "gio khong nhung khong ngung ma trai lai cang manh them.",
+                                    "_id": "63bb4079ec518dd35ed07aec62742d48",
+                                    "id": 10646,
+                                    "type": "e_cnvi",
+                                    "e": "风不但没停，反而越来越大了。",
+                                    "p_cn": "feng bu dan meiting，faner yuelaiyue da le。",
+                                    "p": "fēng bú dàn méitíng，fǎnér yuèláiyuè dà le。"
+                                },
+                                {
+                                    "m": "anh câu nệ quá làm cho mọi người kém thoải mái.",
+                                    "p_vn": "anh cau ne qua lam cho moi nguoi kem thoai mai.",
+                                    "_id": "8a34227ccf3de22acc317fe70a061bce",
+                                    "id": 10647,
+                                    "type": "e_cnvi",
+                                    "e": "你太拘礼了，反而弄得大家不方便。",
+                                    "p_cn": "ni tai juli le，faner nong de dajia bu fangbian。",
+                                    "p": "nǐ tài jūlǐ le，fǎnér nòng dé dàjiā bù fāngbiàn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"反而\" và \"但是\" đều được dùng ở nửa câu sau, ý nghĩa của hai từ này không giống nhau, \"反而\" là phó từ, \"但是\" là liên từ.\nNgữ cảnh sử dụng của \"反而\" là : Dựa vào nội dung trước sau có thể xuất hiện tính huống A, nhưng A không xuất hiện, nhưng lại xuất hiện tình huống B trái ngược với tình huống A, sự xuất hiện của B là không hợp lí hoặc ngoài ý muốn, lúc này trước B sử sử dụng \"反而\".\n\"但是\" có nghĩa là chuyển ngoặt.\n\"反而\" có thể sử dụng phía sau chủ ngữ, \"但是\" không thể.",
+                    "title": "Phân biệt \"反而\" và \"但是\"",
+                    "words": [
+                        "反而",
+                        "但是"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Khi biểu thị nghĩa \"ngược lại\", trái với kết quả, ngoài dự kiến, dự liệu...\nKhác:\n- \"反而\" là phó từ, không làm vị ngữ và định ngữ.\n\"相反\" là tính từ có thể làm vị ngữ và định ngữ.\n- \"反而\" nhấn mạnh trái với lẽ thường tình.\n\"相反\" nhấn mạnh sự đối lập.\n- \"相反\" có thể đứng độc lập giữa hai phân câu.",
+                    "title": "Phân biệt \"相反\" và \"反而\"",
+                    "words": [
+                        "相反",
+                        "反而"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "反倒",
+                    "可是",
+                    "然而",
+                    "倒是"
+                ],
+                "anto": [
+                    "就是"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "fǎn'ér",
+            "cn_vi": "phản nhi",
+            "popularity": {
+                "notebook": 447,
+                "search": 7418
+            },
+            "word": "反而",
+            "id": 15774,
+            "phonetic": "faner",
+            "rank": 1487,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄦˊ",
+            "topic": "11",
+            "_id": "859a30b18e38124b40b78ae6b46c34d5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "và (không nối với danh từ)",
+                            "explain": "连接意思互相连接的词语，表示并列。",
+                            "examples": [
+                                {
+                                    "m": "Ngọn núi này cao và hiểm trở.",
+                                    "p_vn": "ngon nui nay cao va hiem tro.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4464b51",
+                                    "id": 121016,
+                                    "type": "e_cnvi",
+                                    "e": "这座山高而险。",
+                                    "p_cn": "zhe zuo shangao er xian.",
+                                    "p": "zhè zuò shāngāo ér xiǎn."
+                                },
+                                {
+                                    "m": "Những người đó cần cù và nhân hậu.",
+                                    "p_vn": "nhung nguoi do can cu va nhan hau.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4465717",
+                                    "id": 121018,
+                                    "type": "e_cnvi",
+                                    "e": "那些人勤劳而善良。",
+                                    "p_cn": "naxie ren qinlao er shanliang.",
+                                    "p": "nàxiē rén qínláo ér shànliáng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà （hai vế đẳng lập)",
+                            "explain": "连接语意相承的成分",
+                            "examples": [
+                                {
+                                    "m": "Anh ta thành công rồi, mà sự thành công của anh ta gắn liền với sự nỗ lực.",
+                                    "p_vn": "anh ta thanh cong roi, ma su thanh cong cua anh ta gan lien voi su no luc.",
+                                    "_id": "71a8f4da663cb843c22cd96cf447b8d6",
+                                    "id": 121063,
+                                    "type": "e_cnvi",
+                                    "e": "他成功了，而他的成功离不开努力。",
+                                    "p_cn": "ta chenggongle, er ta de chenggong li bu kai nuli.",
+                                    "p": "tā chénggōngle, ér tā de chénggōng lí bù kāi nǔlì."
+                                },
+                                {
+                                    "m": "Xã hội thúc đẩy kinh tế, mà kinh tế lại thúc đẩy xã hội.",
+                                    "p_vn": "xa hoi thuc day kinh te, ma kinh te lai thuc day xa hoi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4480a79",
+                                    "id": 121076,
+                                    "type": "e_cnvi",
+                                    "e": "社会促进经济，而经济又促进社会。",
+                                    "p_cn": "shehui cujin jingji, er jingji you cujin shehui.",
+                                    "p": "shèhuì cùjìn jīngjì, ér jīngjì yòu cùjìn shèhuì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà (nối hai thành phần có ý khẳng định và phủ định bổ sung cho nhau)",
+                            "explain": "连接肯定和否定互相补充的成分",
+                            "examples": [
+                                {
+                                    "m": "Hương thơm của loại hoa này nồng mà không gắt.",
+                                    "p_vn": "huong thom cua loai hoa nay nong ma khong gat.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4469366",
+                                    "id": 121026,
+                                    "type": "e_cnvi",
+                                    "e": "这种花的香味浓而不烈。",
+                                    "p_cn": "zhe zhonghua de xiangwei nong er bu lie.",
+                                    "p": "zhè zhǒnghuā de xiāngwèi nóng ér bù liè."
+                                },
+                                {
+                                    "m": "Món ăn này béo mà không ngấy.",
+                                    "p_vn": "mon an nay beo ma khong ngay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4469b35",
+                                    "id": 121027,
+                                    "type": "e_cnvi",
+                                    "e": "这个菜肥而不腻。",
+                                    "p_cn": "zhege cai fei er bu ni.",
+                                    "p": "zhège cài féi ér bù nì."
+                                },
+                                {
+                                    "m": "Anh ta không phải là dốt, mà là không chăm chỉ.",
+                                    "p_vn": "anh ta khong phai la dot, ma la khong cham chi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf446a025",
+                                    "id": 121028,
+                                    "type": "e_cnvi",
+                                    "e": "他不是笨,而是不认真。",
+                                    "p_cn": "ta bushi ben, er shi bu renzhen.",
+                                    "p": "tā bùshì bèn, ér shì bù rènzhēn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà; mà lại; còn (nối các thành phần có ý nghĩa tương phản)",
+                            "explain": "连接语意相反的成分，表示转折",
+                            "examples": [
+                                {
+                                    "m": "Học tiếng Trung mà không luyện tập thì không thể học tốt.",
+                                    "p_vn": "hoc tieng trung ma khong luyen tap thi khong the hoc tot.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4473689",
+                                    "id": 121047,
+                                    "type": "e_cnvi",
+                                    "e": "学汉语而不练习，是学不好的。",
+                                    "p_cn": "xue hanyu er bu lianxi, shi xue bu hao de.",
+                                    "p": "xué hànyǔ ér bù liànxí, shì xué bù hǎo de."
+                                },
+                                {
+                                    "m": "Tôi thích ăn cay, còn cô ấy thích ăn ngọt.",
+                                    "p_vn": "toi thich an cay, con co ay thich an ngot.",
+                                    "_id": "71a8f4da663cb843c22cd96cf447443d",
+                                    "id": 121048,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢吃辣的，而他喜欢吃甜的。",
+                                    "p_cn": "wo xihuan chi la de, er ta xihuan chi tian de.",
+                                    "p": "wǒ xǐhuān chī là de, ér tā xǐhuān chī tián de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà (nối các bộ phận có ý nghĩa nhân quả)",
+                            "explain": "连接事理上前后相因的成分",
+                            "examples": [
+                                {
+                                    "m": "Anh ta bị trễ vì không kịp bắt xe.",
+                                    "p_vn": "anh ta bi tre vi khong kip bat xe.",
+                                    "_id": "71a8f4da663cb843c22cd96cf446dc99",
+                                    "id": 121034,
+                                    "type": "e_cnvi",
+                                    "e": "他因为没赶上车而迟到了。",
+                                    "p_cn": "ta yinwei mei gan shang che er chidaole.",
+                                    "p": "tā yīnwèi méi gǎn shàng chē ér chídàole."
+                                },
+                                {
+                                    "m": "Anh ta từ bỏ vì gặp khó khăn.",
+                                    "p_vn": "anh ta tu bo vi gap kho khan.",
+                                    "_id": "71a8f4da663cb843c22cd96cf446e722",
+                                    "id": 121035,
+                                    "type": "e_cnvi",
+                                    "e": "他因为遇到困难而放弃。",
+                                    "p_cn": "ta yinwei yu dao kunnan er fangqi.",
+                                    "p": "tā yīnwèi yù dào kùnnán ér fàngqì."
+                                },
+                                {
+                                    "m": "Anh ấy vì đạt được học bổng mà nỗ lực học tập.",
+                                    "p_vn": "anh ay vi dat duoc hoc bong ma no luc hoc tap.",
+                                    "_id": "71a8f4da663cb843c22cd96cf447bfed",
+                                    "id": 121064,
+                                    "type": "e_cnvi",
+                                    "e": "他为了能得到奖学金而努力学习。",
+                                    "p_cn": "ta weile neng dedao jiangxuejin er nuli xuexi.",
+                                    "p": "tā wèile néng dédào jiǎngxuéjīn ér nǔlì xuéxí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà; nếu (đặt giữa chủ ngữ và vị ngữ)",
+                            "explain": "插在主语谓语中间，有''如果''的意思",
+                            "examples": [
+                                {
+                                    "m": "Khởi nghiệp mà không hiểu thị trường thì rất khó thành công.",
+                                    "p_vn": "khoi nghiep ma khong hieu thi truong thi rat kho thanh cong.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4475cba",
+                                    "id": 121053,
+                                    "type": "e_cnvi",
+                                    "e": "创业而不了解市场很难成功。",
+                                    "p_cn": "chuangye er bu liaojie shichang hen nan chenggong.",
+                                    "p": "chuàngyè ér bù liǎojiě shìchǎng hěn nán chénggōng."
+                                },
+                                {
+                                    "m": "Sáng tác nghệ thuật mà không có cá tính thì rất khó hấp dẫn người khác.",
+                                    "p_vn": "sang tac nghe thuat ma khong co ca tinh thi rat kho hap dan nguoi khac.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4476a1e",
+                                    "id": 121054,
+                                    "type": "e_cnvi",
+                                    "e": "艺术创作而没有个性很难吸引人。",
+                                    "p_cn": "yishu chuangzuo er meiyou gexing hen nan xiyin ren.",
+                                    "p": "yìshù chuàngzuò ér méiyǒu gèxìng hěn nán xīyǐn rén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà; một cách (nối thành phần chỉ phương cách, thời gian với động từ)",
+                            "explain": "把表示时间或方式的成分连接到动词上面",
+                            "examples": [
+                                {
+                                    "m": "Người nông dân mỗi ngày ra đồng khi mặt trời mọc, nghỉ ngơi khi mặt trời lặn.",
+                                    "p_vn": "nguoi nong dan moi ngay ra dong khi mat troi moc, nghi ngoi khi mat troi lan.",
+                                    "_id": "71a8f4da663cb843c22cd96cf446f490",
+                                    "id": 121038,
+                                    "type": "e_cnvi",
+                                    "e": "农民们每天日出而作，日落而息。",
+                                    "p_cn": "nongminmen meitian ri chu er zuo, riluo er xi.",
+                                    "p": "nóngmínmen měitiān rì chū ér zuò, rìluò ér xī."
+                                },
+                                {
+                                    "m": "Anh ta vội vàng đến, cũng vội vàng đi.",
+                                    "p_vn": "anh ta voi vang den, cung voi vang di.",
+                                    "_id": "71a8f4da663cb843c22cd96cf446f9f5",
+                                    "id": 121039,
+                                    "type": "e_cnvi",
+                                    "e": "他匆匆而来，也匆匆而去。",
+                                    "p_cn": "ta congcong er lai, ye congcong er qu.",
+                                    "p": "tā cōngcōng ér lái, yě cōngcōng ér qù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đến; rồi (liên từ)",
+                            "explain": "有''到''的意思",
+                            "examples": [
+                                {
+                                    "m": "Thầy giáo hết lần này đến lần khác căn dặn chúng tôi.",
+                                    "p_vn": "thay giao het lan nay den lan khac can dan chung toi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4479b06",
+                                    "id": 121060,
+                                    "type": "e_cnvi",
+                                    "e": "老师一而再，再而三地嘱咐我们。",
+                                    "p_cn": "laoshi yi er zai, zai er san de zhufu women.",
+                                    "p": "lǎoshī yī ér zài, zài ér sān de zhǔfù wǒmen."
+                                },
+                                {
+                                    "m": "Tiếng hát của anh ta từ gần đến xa, từ lớn đến nhỏ.",
+                                    "p_vn": "tieng hat cua anh ta tu gan den xa, tu lon den nho.",
+                                    "_id": "71a8f4da663cb843c22cd96cf447a915",
+                                    "id": 121061,
+                                    "type": "e_cnvi",
+                                    "e": "他的歌声由进而远，有大而小。",
+                                    "p_cn": "ta de gesheng you jin'er yuan, you da er xiao.",
+                                    "p": "tā de gēshēng yóu jìn'ér yuǎn, yǒu dà ér xiǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 533,
+                "search": 19648
+            },
+            "snym": null,
+            "lv_hsk_new": "4",
+            "pinyin": "ér",
+            "cn_vi": "nhi.năng",
+            "word": "而",
+            "id": 15094,
+            "phonetic": "er",
+            "rank": 291,
+            "lv_hsk": 4,
+            "lv_tocfl": 3,
+            "compound": "而后 ; 而今 ; 而况 ; 而且 ; 而已"
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄑㄧˊㄉㄠˋㄦˊㄒㄧㄥˊㄓ",
+            "_id": "7ccd47286296a91badb5b0fec2ecb629",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "phương pháp trái ngược; cách trái ngược; cách làm trái ngược",
+                            "explain": "采取跟对方相反的办法行事 (见于《史记·淮阴侯列传》)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 297
+            },
+            "snym": {
+                "syno": [
+                    "反治其身"
+                ]
+            },
+            "cn_vi": "phản kì đạo nhi hành chi",
+            "pinyin": "fǎn qí dào ér xíng zhī",
+            "word": "反其道而行之",
+            "id": 15810,
+            "phonetic": "fanqidaoerxingzhi",
+            "rank": 22323,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "adv",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇ",
+            "_id": "f9111d85086d389b9965aabc4f156bbd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "thể hiện sự phản kháng đối với các hiện tượng hoặc tư tưởng không mong muốn",
+                            "examples": [
+                                126438,
+                                126439
+                            ],
+                            "struct": "反 +tân ngữ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ngược; trái",
+                            "explain": "颠倒的;方向相背的 (跟''正''相对)",
+                            "examples": [
+                                {
+                                    "m": "Con dấu được đóng ngược sẽ mất tác dụng.",
+                                    "p_vn": "con dau duoc dong nguoc se mat tac dung.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571221874",
+                                    "id": 126380,
+                                    "type": "e_cnvi",
+                                    "e": "印章盖反失去作用。",
+                                    "p_cn": "yinzhang gai fan shiqu zuoyong.",
+                                    "p": "yìnzhāng gài fǎn shīqù zuòyòng."
+                                },
+                                {
+                                    "m": "Mặc quần áo trái sẽ bị người khác cười.",
+                                    "p_vn": "mac quan ao trai se bi nguoi khac cuoi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571221ba2",
+                                    "id": 126381,
+                                    "type": "e_cnvi",
+                                    "e": "衣服穿反让人笑话。",
+                                    "p_cn": "yifu chuan fan rang ren xiaohua.",
+                                    "p": "yīfú chuān fǎn ràng rén xiàohuà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chuyển; đổi; trở; lật (đối với mặt đối lập)",
+                            "explain": "(对立面) 转换;翻过来",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy lật ngược tờ giấy lại.",
+                                    "p_vn": "anh ay lat nguoc to giay lai.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571224786",
+                                    "id": 126385,
+                                    "type": "e_cnvi",
+                                    "e": "他把纸张反过来。",
+                                    "p_cn": "ta ba zhizhang fan guolai.",
+                                    "p": "tā bǎ zhǐzhāng fǎn guòlái."
+                                },
+                                {
+                                    "m": "Vui lòng lật ngược quyển sách này lại.",
+                                    "p_vn": "vui long lat nguoc quyen sach nay lai.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5712252e5",
+                                    "id": 126386,
+                                    "type": "e_cnvi",
+                                    "e": "请把这本书反过来。",
+                                    "p_cn": "qing ba zhe ben shu fan guolai.",
+                                    "p": "qǐng bǎ zhè běn shū fǎn guòlái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phản; trở lại; trở về",
+                            "explain": "回;还",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy trở về nhà ăn tối.",
+                                    "p_vn": "co ay tro ve nha an toi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57122af2c",
+                                    "id": 126396,
+                                    "type": "e_cnvi",
+                                    "e": "她反回到家吃晚饭。",
+                                    "p_cn": "ta fan hui daojia chi wanfan.",
+                                    "p": "tā fǎn huí dàojiā chī wǎnfàn."
+                                },
+                                {
+                                    "m": "Anh ấy đã trả lại tôi chìa khóa.",
+                                    "p_vn": "anh ay da tra lai toi chia khoa.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57122b8df",
+                                    "id": 126397,
+                                    "type": "e_cnvi",
+                                    "e": "他反给了我钥匙。",
+                                    "p_cn": "ta fan geile wo yaoshi.",
+                                    "p": "tā fǎn gěile wǒ yàoshi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phản kháng; phản đối; chống",
+                            "explain": "反抗;反对",
+                            "examples": [
+                                {
+                                    "m": "Mọi người phản đối cách làm xấu này.",
+                                    "p_vn": "moi nguoi phan doi cach lam xau nay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57122cd79",
+                                    "id": 126399,
+                                    "type": "e_cnvi",
+                                    "e": "大家反对这种坏做法。",
+                                    "p_cn": "dajia fandui zhe zhong huai zuofa.",
+                                    "p": "dàjiā fǎnduì zhè zhǒng huài zuòfǎ."
+                                },
+                                {
+                                    "m": "Học sinh phản đối yêu cầu không hợp lý.",
+                                    "p_vn": "hoc sinh phan doi yeu cau khong hop ly.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57122d248",
+                                    "id": 126400,
+                                    "type": "e_cnvi",
+                                    "e": "学生反对不合理要求。",
+                                    "p_cn": "xuesheng fandui bu heli yaoqiu.",
+                                    "p": "xuéshēng fǎnduì bù hélǐ yāoqiú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phản bội; làm phản; tạo phản",
+                            "explain": "背叛",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy phản bội bạn bè của mình.",
+                                    "p_vn": "co ay phan boi ban be cua minh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57122ee13",
+                                    "id": 126404,
+                                    "type": "e_cnvi",
+                                    "e": "她反了她的朋友们。",
+                                    "p_cn": "ta fanle ta de pengyoumen.",
+                                    "p": "tā fǎnle tā de péngyǒumen."
+                                },
+                                {
+                                    "m": "Họ đã phản bội tổ chức của mình.",
+                                    "p_vn": "ho da phan boi to chuc cua minh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57122f2e4",
+                                    "id": 126405,
+                                    "type": "e_cnvi",
+                                    "e": "他们反了他们的组织。",
+                                    "p_cn": "tamen fanle tamen de zuzhi.",
+                                    "p": "tāmen fǎnle tāmen de zǔzhī."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "loại suy; suy ra; suy rộng ra",
+                            "explain": "类推",
+                            "examples": [
+                                {
+                                    "m": "Lý thuyết này có thể suy luận ngược lại.",
+                                    "p_vn": "ly thuyet nay co the suy luan nguoc lai.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571233549",
+                                    "id": 126414,
+                                    "type": "e_cnvi",
+                                    "e": "这个理论可反推。",
+                                    "p_cn": "zhege lilun ke fan tui.",
+                                    "p": "zhège lǐlùn kě fǎn tuī."
+                                },
+                                {
+                                    "m": "Suy ra nguyên nhân từ kết quả.",
+                                    "p_vn": "suy ra nguyen nhan tu ket qua.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57123420d",
+                                    "id": 126415,
+                                    "type": "e_cnvi",
+                                    "e": "由结果反推原因。",
+                                    "p_cn": "you jieguo fan tui yuanyin.",
+                                    "p": "Yóu jiéguǒ fǎn tuī yuányīn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "hành động đã xảy ra và đã có tác động trái ngược hoặc đối lập với mong đợi",
+                            "examples": [
+                                126444,
+                                126445
+                            ],
+                            "struct": "động từ+反+了"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "phản cách mạng; phản động",
+                            "explain": "指反革命、反动派",
+                            "examples": [
+                                {
+                                    "m": "Anh ta bị buộc tội là phần tử phản cách mạng.",
+                                    "p_vn": "anh ta bi buoc toi la phan tu phan cach mang.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571230084",
+                                    "id": 126408,
+                                    "type": "e_cnvi",
+                                    "e": "他被指控为反革命分子。",
+                                    "p_cn": "a bei zhikong wei fangeming fenzi.",
+                                    "p": "ā bèi zhǐkòng wéi fǎngémìng fènzǐ."
+                                },
+                                {
+                                    "m": "Họ đã bắt được vài tên phản động.",
+                                    "p_vn": "ho da bat duoc vai ten phan dong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571230476",
+                                    "id": 126409,
+                                    "type": "e_cnvi",
+                                    "e": "他们抓获了几名反动派。",
+                                    "p_cn": "tamen zhuahuole ji ming fandongpai.",
+                                    "p": "tāmen zhuāhuòle jǐ míng fǎndòngpài."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "trái lại; ngược lại",
+                            "explain": "反而;相反地",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy cố gắng giảm cân, ngược lại lại tăng cân.",
+                                    "p_vn": "anh ay co gang giam can, nguoc lai lai tang can.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5712365e6",
+                                    "id": 126420,
+                                    "type": "e_cnvi",
+                                    "e": "他努力减肥，反而变胖。",
+                                    "p_cn": "ta nuli jianfei, fan'er bian pang.",
+                                    "p": "tā nǔlì jiǎnféi, fǎn'ér biàn pàng."
+                                },
+                                {
+                                    "m": "Anh ấy ăn nhiều, ngược lại lại giảm cân thành công.",
+                                    "p_vn": "anh ay an nhieu, nguoc lai lai giam can thanh cong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571236b90",
+                                    "id": 126421,
+                                    "type": "e_cnvi",
+                                    "e": "他多吃，反而减肥成功。",
+                                    "p_cn": "ta duo chi, fan'er jianfei chenggong.",
+                                    "p": "tā duō chī, fǎn'ér jiǎnféi chénggōng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 144,
+                "search": 5291
+            },
+            "snym": {
+                "syno": [
+                    "倒",
+                    "逆",
+                    "异"
+                ],
+                "anto": [
+                    "正"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "fǎn",
+            "cn_vi": "phản.phiên.phiến",
+            "word": "反",
+            "id": 15745,
+            "phonetic": "fan",
+            "rank": 2243,
+            "lv_tocfl": 4,
+            "compound": "反把 ; 反霸 ; 反绑 ; 反比 ; 反比例 ; 反驳 ; 反哺 ; 反侧 ; 反差 ; 反常 ; 反衬 ; 反冲力 ; 反刍 ; 反串 ; 反唇相讥 ; 反倒 ; 反调 ; 反动 ; 反动派 ; 反对 ; 反对党 ; 反而 ; 反方 ; 反复 ; 反感 ; 反戈 ; 反革命 ; 反攻 ; 反攻倒算 ; 反躬自问 ; 反光 ; 反光灯 ; 反话 ; 反悔 ; 反击 ; 反剪 ; 反间 ; 反诘 ; 反抗 ; 反客为主 ; 反口 ; 反馈 ; 反面 ; 反面人物 ; 反目 ; 反派 ; 反叛 ; 反批评 ; 反扑 ; 反其道而行之 ; 反潜 ; 反潜机 ; 反切 ; 反求诸己 ; 反射 ; 反身 ; 反噬 ; 反手 ; 反水 ; 反思 ; 反诉 ; 反锁 ; 反弹 ; 反坦克炮 ; 反胃 ; 反问 ; 反诬 ; 反响 ; 反省 ; 反咬 ; 反义词 ; 反应 ; 反应堆 ; 反映 ; 反映论 ; 反语 ; 反照 ; 反正 ; 反证 ; 反证法 ; 反之 ; 反坐 ; 反作用"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄈㄢˇㄈㄨˋㄈㄨˋ",
+            "_id": "2ddf9149611f46f9b3deb8d17f42bb11",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "nhiều lần",
+                            "explain": "repeatedly",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hết lần này đến lần khác",
+                            "explain": "time and time again",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 36,
+                "search": 204
+            },
+            "snym": {
+                "syno": [
+                    "反反覆覆",
+                    "颠来倒去",
+                    "说来说去"
+                ]
+            },
+            "cn_vi": "phản phản phục phục",
+            "pinyin": "fǎn fǎnfù fù",
+            "word": "反反复复",
+            "id": 129850,
+            "phonetic": "fanfanfufu",
+            "rank": 28028,
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "topic": "73",
+            "zhuyin": "ㄘㄨㄥˊㄦˊ",
+            "_id": "f4e6c5c9afd8609cd29b2ff656b7429b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "...,do đó/ cho nên/ nên...",
+                            "examples": [
+                                114430,
+                                114431
+                            ],
+                            "struct": "Mệnh đề 1, + 从而 + Mệnh đề 2/ Động từ/ cụm động từ"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "do đó; vì vậy; cho nên; nên; vì thế",
+                            "explain": "因此",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy nỗ lực, vì thế tiến bộ nhanh chóng.",
+                                    "p_vn": "anh ay no luc, vi the tien bo nhanh chong.",
+                                    "_id": "641148288b13f4cf43a85133e823f97e",
+                                    "id": 114420,
+                                    "type": "e_cnvi",
+                                    "e": "他努力，从而进步飞快。",
+                                    "p_cn": "ta nuli, cong'er jinbu feikuai.",
+                                    "p": "tā nǔlì, cóng'ér jìnbù fēikuài."
+                                },
+                                {
+                                    "m": "Cô ấy tập thể dục nên có thân hình cân đối.",
+                                    "p_vn": "co ay tap the duc nen co than hinh can doi.",
+                                    "_id": "641148288b13f4cf43a85133e82412ac",
+                                    "id": 114424,
+                                    "type": "e_cnvi",
+                                    "e": "她锻炼，从而身体健壮。",
+                                    "p_cn": "ta duanlian, cong'er shenti jianzhuang.",
+                                    "p": "tā duànliàn, cóng'ér shēntǐ jiànzhuàng."
+                                },
+                                {
+                                    "m": "Tôi suy nghĩ, do đó đã tìm ra câu trả lời.",
+                                    "p_vn": "toi suy nghi, do do da tim ra cau tra loi.",
+                                    "_id": "641148288b13f4cf43a85133e8241582",
+                                    "id": 114425,
+                                    "type": "e_cnvi",
+                                    "e": "我思考，从而找到答案。",
+                                    "p_cn": "wo sikao, cong'er zhaodao da'an.",
+                                    "p": "wǒ sīkǎo, cóng'ér zhǎodào dá'àn."
+                                },
+                                {
+                                    "m": "Anh ấy muốn giảm cân nên ăn rất ít.",
+                                    "p_vn": "anh ay muon giam can nen an rat it.",
+                                    "_id": "641148288b13f4cf43a85133e8249b6c",
+                                    "id": 114440,
+                                    "type": "e_cnvi",
+                                    "e": "他要减肥，从而吃的很少。",
+                                    "p_cn": "ta yao jianfei, cong'er chi de hen shao.",
+                                    "p": "tā yào jiǎnféi, cóng'ér chī de hěn shǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 329,
+                "search": 4794
+            },
+            "snym": {
+                "syno": [
+                    "进而",
+                    "因而",
+                    "因此",
+                    "然而",
+                    "得以"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "cóng'ér",
+            "cn_vi": "tòng nhi",
+            "word": "从而",
+            "id": 9371,
+            "phonetic": "conger",
+            "rank": 2503,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "topic": "73",
+            "zhuyin": "ㄧㄣㄦˊ",
+            "_id": "ab2822007ff3e67e0efcf17f6a796c1c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "vì cái gì mà....",
+                            "examples": [
+                                130476,
+                                130477
+                            ],
+                            "struct": "Nguyên nhân, 因而 + Kết quả"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "cho nên; vì vậy mà; bởi thế; do đó ",
+                            "explain": "表示结果",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy bị ốm, cho nên không thể đến làm việc.",
+                                    "p_vn": "anh ay bi om, cho nen khong the den lam viec.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571bff66b",
+                                    "id": 130473,
+                                    "type": "e_cnvi",
+                                    "e": "他生病了，因而不能来工作。",
+                                    "p_cn": "ta shengbingle, yin'er buneng lai gongzuo.",
+                                    "p": "tā shēngbìngle, yīn'ér bùnéng lái gōngzuò."
+                                },
+                                {
+                                    "m": "Trời mưa, vì vậy mà trận đấu bị hủy.",
+                                    "p_vn": "troi mua, vi vay ma tran dau bi huy.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571bffbab",
+                                    "id": 130474,
+                                    "type": "e_cnvi",
+                                    "e": "下雨了，因而比赛被取消。",
+                                    "p_cn": "xia yule, yin'er bisai bei quxiao.",
+                                    "p": "xià yǔle, yīn'ér bǐsài bèi qǔxiāo."
+                                },
+                                {
+                                    "m": "Anh ấy đến muộn, do đó bỏ lỡ cuộc họp.",
+                                    "p_vn": "anh ay den muon, do do bo lo cuoc hop.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571c00452",
+                                    "id": 130475,
+                                    "type": "e_cnvi",
+                                    "e": "他迟到，因而错过了会议。",
+                                    "p_cn": "ta chidao, yin'er cuoguole huiyi.",
+                                    "p": "tā chídào, yīn'ér cuòguòle huìyì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"因为\" thường được sử dụng trong nửa đầu của câu để diễn đạt lý do hoặc nguyên nhân, \"因而\" được sử dụng trong nửa sau của câu để diễn đạt kết quả, tương đương với \"所以\" và \"因此\".\n- \"因为\" và \"因而\" không thể xuất hiện đồng thời trong câu và không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"因为\" và \"因而\"",
+                    "words": [
+                        "因为",
+                        "因而"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "所以",
+                    "因此",
+                    "于是",
+                    "以是",
+                    "是以",
+                    "为此",
+                    "从而",
+                    "故此",
+                    "由此"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "yīn'ér",
+            "cn_vi": "nhân nhi",
+            "popularity": {
+                "notebook": 164,
+                "search": 2125
+            },
+            "word": "因而",
+            "id": 60032,
+            "phonetic": "yiner",
+            "rank": 5321,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˇㄦˊ",
+            "_id": "06b3529d8d66021f4e7cc7439ae6de39",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "tiếp đó; ít lâu; không lâu sau",
+                            "explain": "不久;继而",
+                            "examples": [
+                                {
+                                    "m": "bỗng nhiên sấm chớp liên hồi, tiếp đó mưa như trút nước.",
+                                    "p_vn": "bong nhien sam chop lien hoi tiep do mua nhu trut nuoc",
+                                    "_id": "bebc43b2cd5d9b7c71dd4f8932f3b0ca",
+                                    "id": 45244,
+                                    "type": "e_cnvi",
+                                    "e": "突然雷电大作，已而大雨倾盆。",
+                                    "p_cn": "turan leidian dazuo yi er dayu qingpen",
+                                    "p": "tūrán léidiàn dàzuò，yǐ ér dàyǔqīngpén。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thôi; cho qua",
+                            "explain": "罢了;算了",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 43
+            },
+            "snym": {
+                "syno": [
+                    "俄顷",
+                    "片刻",
+                    "瞬息",
+                    "须臾",
+                    "转瞬",
+                    "一会儿",
+                    "斯须"
+                ]
+            },
+            "cn_vi": "dĩ nhi",
+            "pinyin": "yǐ ér",
+            "word": "已而",
+            "id": 59651,
+            "phonetic": "yier",
+            "rank": 62007,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄢˇㄦˊ",
+            "_id": "0d0fa3da26c24a8eb54fe33680906168",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "chuyển sang",
+                            "explain": "to switch to",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để chuyển sang (cái gì đó khác)",
+                            "explain": "to turn to (sth else)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 131
+            },
+            "snym": null,
+            "cn_vi": "chuyển nhi",
+            "pinyin": "zhuǎn ér",
+            "word": "转而",
+            "id": 105710,
+            "phonetic": "zhuaner",
+            "rank": 35940,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚˇㄦˊ",
+            "_id": "4097d2c3ea2dc7a7cb037a119a975780",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nếu; nếu như",
+                            "explain": "假如，如果",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "giả nhi",
+            "pinyin": "jiǎ ér",
+            "word": "假而",
+            "id": 27786,
+            "phonetic": "jiaer",
+            "rank": 152796,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄦˊ",
+            "_id": "b4a304649cb989c9b7b0ee4b169a8a38",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "hễ... là (dùng riêng trước hai động từ, biểu thị động tác trước đã cho ra kết quả)",
+                            "explain": "分别用在两个动词前面，表示前一个动作很快产生了结果",
+                            "examples": [
+                                {
+                                    "m": "hễ giận là đi ngay",
+                                    "p_vn": "he gian la di ngay",
+                                    "_id": "6f3bb76668b22564155982fe63abae11",
+                                    "id": 44635,
+                                    "type": "e_cnvi",
+                                    "e": "一怒而去。",
+                                    "p_cn": "yi nu er qu",
+                                    "p": "yīnùérqù。"
+                                },
+                                {
+                                    "m": "nhìn một cái là biết ngay",
+                                    "p_vn": "nhin mot cai la biet ngay",
+                                    "_id": "0113ecb19c8f8269beae1c064cfa1d26",
+                                    "id": 44636,
+                                    "type": "e_cnvi",
+                                    "e": "一望而知。",
+                                    "p_cn": "yiwang er zhi",
+                                    "p": "yīwàngérzhī。"
+                                },
+                                {
+                                    "m": "quét một cái là sạch ngay",
+                                    "p_vn": "quet mot cai la sach ngay",
+                                    "_id": "3245bd2de5b5d93a43daac659efaf3cd",
+                                    "id": 44637,
+                                    "type": "e_cnvi",
+                                    "e": "一扫而光。",
+                                    "p_cn": "yi sao er guang",
+                                    "p": "yīsǎoérguāng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "nhất nhi",
+            "pinyin": "yī... ér...",
+            "word": "一...而...",
+            "id": 59059,
+            "phonetic": "yi...er...",
+            "rank": 158421,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄦˊㄎㄨㄤˋ",
+            "_id": "b6580b94fe99e842073ffba8cc0eb1dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "huống hồ; huống chi; không kể đến; chưa nói đến",
+                            "explain": "何况",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lọ là",
+                            "explain": "连词, 用反问的语气表示更进一层的意思",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 72
+            },
+            "snym": null,
+            "cn_vi": "nhi huống",
+            "pinyin": "érkuàng",
+            "word": "而况",
+            "id": 15097,
+            "phonetic": "erkuang",
+            "rank": 49104,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": {
+                "pinyin": "",
+                "examples": "",
+                "measure": ""
+            },
+            "zhuyin": "ㄦˊㄑㄧㄝˇ",
+            "_id": "e4a27a838bdc45f09cb8381d8913c70b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "không những/không chỉ.....mà còn.....",
+                            "examples": [
+                                130809,
+                                130807,
+                                130808
+                            ],
+                            "struct": "不但/不仅…，而且…"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "mà còn; với lại, hơn nữa, vả lại, thêm nữa; lại nữa",
+                            "explain": "表示进一步，前面往往有''不但、不仅''等跟它呼应; 用在复合句后一半里, 表示更进一层的意思",
+                            "examples": [
+                                {
+                                    "m": "Ẩm thực Tứ Xuyên cay và tê.",
+                                    "p_vn": "am thuc tu xuyen cay va te.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571cc48f7",
+                                    "id": 130816,
+                                    "type": "e_cnvi",
+                                    "e": "川菜辣而且麻。",
+                                    "p_cn": "chuancai la erqie ma.",
+                                    "p": "chuāncài là érqiě má."
+                                },
+                                {
+                                    "m": "Cô ấy xinh đẹp mà còn lương thiện.",
+                                    "p_vn": "co ay xinh dep ma con luong thien.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571cc557b",
+                                    "id": 130817,
+                                    "type": "e_cnvi",
+                                    "e": "她漂亮而且善良。",
+                                    "p_cn": "ta piaoliang erqie shanliang.",
+                                    "p": "tā piàoliang érqiě shànliáng."
+                                },
+                                {
+                                    "m": "Nhà hàng này không những đồ ăn ngon mà còn rất rẻ.",
+                                    "p_vn": "nha hang nay khong nhung do an ngon ma con rat re.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ccacdf",
+                                    "id": 130827,
+                                    "type": "e_cnvi",
+                                    "e": "这家饭店不但好吃而且很便宜。",
+                                    "p_cn": "zhe jia fandian budan hao chi erqie hen pianyi.",
+                                    "p": "zhè jiā fàndiàn bùdàn hǎo chī érqiě hěn piányí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Bổ sung thêm nghĩa hoặc biểu thị mức độ cao, mạnh hơn.\nKhác:\n- \"而且\" có thể kết nối hai tính từ đơn âm tiết.\n\"并且\" kết nối tính từ hai âm tiết.\n- \"而且\" liên kết phân câu, không liên kết hai động từ hoặc cụm động từ.\n\"并且\" không có hạn chế.",
+                    "title": "Phân biệt \"而且\" và \"并且\"",
+                    "words": [
+                        "而且",
+                        "并且"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "并且",
+                    "况且"
+                ]
+            },
+            "lv_hsk_new": "2, 3",
+            "pinyin": "érqiě",
+            "cn_vi": "nhi thả",
+            "popularity": {
+                "notebook": 816,
+                "search": 13446
+            },
+            "word": "而且",
+            "id": 15098,
+            "phonetic": "erqie",
+            "rank": 607,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "part"
+            ],
+            "measure": null,
+            "zhuyin": "ㄦˊㄧˇ",
+            "_id": "e73307fd53d03631447c4389fdfe906e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "chỉ là...mà thôi",
+                            "examples": [
+                                130785,
+                                130786
+                            ],
+                            "struct": "( 仅仅是/只是/不过是+)…而已"
+                        },
+                        {
+                            "explain": "như thế mà thôi; chỉ như thế thôi",
+                            "examples": [
+                                130788,
+                                130789
+                            ],
+                            "struct": "仅此/ 如此 + 而已"
+                        }
+                    ],
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "mà thôi; thế thôi",
+                            "explain": "用在陈述句的最后，表示说话人认为前面说的事情很简单或不重要，希望对方不要想得太复杂，太严重等；相当于口语中的 \"罢了\"",
+                            "examples": [
+                                {
+                                    "m": "Tớ cảm thấy anh ấy chỉ đang đùa mà thôi.",
+                                    "p_vn": "to cam thay anh ay chi dang dua ma thoi.",
+                                    "_id": "5f1adf3e4794a18d885701d1a39cf50e",
+                                    "id": 81042,
+                                    "type": "e_cnvi",
+                                    "e": "我感觉他只是开玩笑而已。",
+                                    "p_cn": "wo ganjue ta zhishi kaiwanxiao eryi.",
+                                    "p": "wǒ gǎnjué tā zhǐshì kāiwánxiào éryǐ."
+                                },
+                                {
+                                    "m": "Chúng tôi chỉ là những người bạn bình thường mà thôi.",
+                                    "p_vn": "chung toi chi la nhung nguoi ban binh thuong ma thoi.",
+                                    "_id": "5f1adf3e4794a18d885701d1a39cfb7b",
+                                    "id": 81043,
+                                    "type": "e_cnvi",
+                                    "e": "我们只是普通朋友而已。",
+                                    "p_cn": "women zhishi putong pengyou eryi.",
+                                    "p": "wǒmen zhǐshì pǔtōng péngyou éryǐ."
+                                },
+                                {
+                                    "m": "Anh ấy chỉ hơi mệt thôi mà.",
+                                    "p_vn": "anh ay chi hoi met thoi ma.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571cafbb5",
+                                    "id": 130774,
+                                    "type": "e_cnvi",
+                                    "e": "他只是有点累而已。",
+                                    "p_cn": "ta zhishi youdian lei eryi.",
+                                    "p": "tā zhǐshì yǒudiǎn lèi éryǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 485,
+                "search": 5814
+            },
+            "snym": {
+                "syno": [
+                    "资料",
+                    "云尔",
+                    "这般"
+                ]
+            },
+            "cn_vi": "nhi dĩ",
+            "pinyin": "éryǐ",
+            "lv_hsk_new": "6",
+            "word": "而已",
+            "id": 15099,
+            "phonetic": "eryi",
+            "rank": 2039,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄥˋㄦˊ",
+            "_id": "bc0dfeb7fcb135a494b07c68a504432d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "may mà; may mắn",
+                            "explain": "幸亏",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 97
+            },
+            "snym": null,
+            "cn_vi": "hạnh nhi",
+            "pinyin": "xìng'ér",
+            "word": "幸而",
+            "id": 56837,
+            "phonetic": "xinger",
+            "rank": 42131,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "adv",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄦˊㄐㄧㄣ",
+            "_id": "f2650ecb4310c95fe9353db4ed509b79",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "ngày nay; hiện nay; bây giờ; lúc này",
+                            "explain": "如今",
+                            "examples": [
+                                {
+                                    "m": "Bởi không có chí cầu tiến nên giờ đây anh ấy đã trở nên nghèo túng.",
+                                    "p_vn": "Boi khong co chi cau tien nen gio day anh ay da tro nen ngheo tung.",
+                                    "_id": "2a3ddeb6ee79443fb28aee38e54b5793",
+                                    "id": 68758,
+                                    "type": "e_cnvi",
+                                    "e": "由于不思进取，而今他已穷困潦倒了。",
+                                    "p_cn": "Youyu bu si jinqu, erjin ta yi qiongkun laodaole.",
+                                    "p": "Yóuyú bù sī jìnqǔ, érjīn tā yǐ qióngkùn lǎodǎole."
+                                },
+                                {
+                                    "m": "mà nay đâu rồi?",
+                                    "p_vn": "ma nay dau roi?",
+                                    "_id": "3d9b729ec85589660a188b0c66a762e3",
+                                    "id": 127,
+                                    "type": "e_cnvi",
+                                    "e": "而今安 在?",
+                                    "p_cn": "erjin an zai?",
+                                    "p": "érjīn ān zài?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 165
+            },
+            "snym": {
+                "syno": [
+                    "现在",
+                    "今朝",
+                    "当前",
+                    "方今",
+                    "如今",
+                    "此刻",
+                    "目前",
+                    "此时"
+                ],
+                "anto": [
+                    "自古"
+                ]
+            },
+            "cn_vi": "nhi kim",
+            "pinyin": "érjīn",
+            "word": "而今",
+            "id": 15096,
+            "phonetic": "erjin",
+            "rank": 31645,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄖㄢˊㄦˊ",
+            "_id": "9a638322206179f622583be492a884ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "nhưng mà; thế mà; song, tuy nhiên",
+                            "explain": "用在句子的开头，表示转折; 表示转折, 前面常常有''虽然''之类表示让步的连词呼应",
+                            "examples": [
+                                {
+                                    "m": "mặc dù anh ấy đã thất bại nhiều lần, nhưng mà anh ấy hoàn toàn không nản lòng.",
+                                    "p_vn": "mac du anh ay da that bai nhieu lan, nhung ma anh ay hoan toan khong nan long.",
+                                    "_id": "ce9f338f5b5f38f7e2882ec0ba0f014d",
+                                    "id": 33404,
+                                    "type": "e_cnvi",
+                                    "e": "他虽然失败了很多次，然而并不灰心。",
+                                    "p_cn": "ta suiran shibaile henduo ci raner bing bu huixin",
+                                    "p": "tā sūirán shībài le hěn duōcì，ránér bìng bù hūixīn。"
+                                },
+                                {
+                                    "m": "Từ ngày cải cách đến nay thời gian tuy ngắn ngủi, song xã hội ta đã có những bước tiến rất tốt.",
+                                    "p_vn": "tu ngay cai cach den nay thoi gian tuy ngan ngui, song xa hoi ta da co nhung buoc tien rat tot.",
+                                    "_id": "92a44a05836ca9592d4ce8aa57e84b98",
+                                    "id": 33405,
+                                    "type": "e_cnvi",
+                                    "e": "改革以来时间不算长，然而我们的社会有很大进步。",
+                                    "p_cn": "gaige yilai shijian bu suan zhang raner women de shehui you hen da jinbu",
+                                    "p": "gǎigé yǐlái shíjiān bù suàn zhǎng, rán'ér wǒmen de shèhuì yǒu hěn dà jìnbù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "song le",
+                            "explain": "用在后半句话里表示转折, 往往与'虽然、尽管'等呼应",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tuy nhiên",
+                            "explain": "转折连词用在子句头, 表示虽然有前句所叙述的事情, 却亦有末句所表达的状况﹑行为等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"然而\" và \"但是\" đều là những liên từ có nghĩa tương tự nhau.\nKhác:\n- \"然而\" chủ yếu được sử dụng trong ngôn ngữ viết, \"但是\" không có giới hạn như vậy và có thể thay thế cho nhau trong câu.",
+                    "title": "Phân biệt \"然而\" và \"但是\"",
+                    "words": [
+                        "然而",
+                        "但是"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "可是",
+                    "不过",
+                    "然则",
+                    "从而",
+                    "反而"
+                ],
+                "anto": [
+                    "虽然",
+                    "于是"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "rán'ér",
+            "cn_vi": "nhiên nhi",
+            "popularity": {
+                "notebook": 594,
+                "search": 10962
+            },
+            "word": "然而",
+            "id": 43999,
+            "phonetic": "ran'er",
+            "rank": 866,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄡˇㄦˊ",
+            "_id": "3eda5892b5b795764e7ead3a2dd77ca4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thỉnh thoảng / thỉnh thoảng",
+                            "explain": "他偶而才看书。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 93
+            },
+            "snym": {
+                "syno": [
+                    "权且",
+                    "无意",
+                    "偶然",
+                    "时常",
+                    "不常",
+                    "一时",
+                    "临时",
+                    "有时"
+                ],
+                "anto": [
+                    "经常"
+                ]
+            },
+            "cn_vi": "ngẫu nhi",
+            "pinyin": "ǒu'ér",
+            "word": "偶而",
+            "id": 82829,
+            "phonetic": "ou'er",
+            "rank": 43093,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄦˊㄕˋ",
+            "_id": "619bf78afaeb0f3d2d0675d2d7ea1f78",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Mà là; nhưng là (Liên từ)",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bạn không phải là không cố gắng làm việc, mà là không biết cách cố gắng làm việc.",
+                                    "p_vn": "ban khong phai la khong co gang lam viec, ma la khong biet cach co gang lam viec.",
+                                    "_id": "ece383947e32e44289854674bb77d0ce",
+                                    "id": 53504,
+                                    "type": "e_cnvi",
+                                    "e": "你不是不努力,而是不会努力。",
+                                    "p_cn": "ni bu shi bu nuli, er shi bu hui nuli.",
+                                    "p": "Nǐ bú shì bù nǔlì, ér shì bù huì nǔlì."
+                                },
+                                {
+                                    "m": "Bố dạy tôi làm các đề số học, không trực tiếp nói với tôi, mà chỉ cho tôi cách tư duy.",
+                                    "p_vn": "Bo day toi lam cac de so hoc, khong truc tiep noi voi toi, ma chi cho toi cach tu duy.",
+                                    "_id": "fd41a13b6b4d077d8f61ad9d18728ec3",
+                                    "id": 53505,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸辅导我做算术题，并不直接告诉我，而是给我提示一些思路。",
+                                    "p_cn": "Bo day toi lam cac de so hoc, khong truc tiep noi voi toi, ma chi cho toi cach tu duy.",
+                                    "p": "Bàba fǔdǎo wǒ zuò suànshù tí, bìng bù zhíjiē gàosù wǒ, ér shì gěi wǒ tíshì yīxiē sīlù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 143,
+                "search": 2009
+            },
+            "snym": {
+                "syno": [
+                    "应是",
+                    "当是"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "ér shì",
+            "cn_vi": "nhi thị",
+            "word": "而是",
+            "id": 75755,
+            "phonetic": "ershi",
+            "rank": 5583,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄦˊ",
+            "_id": "afc12a06c1460165d2ffca03a6041960",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "bỗng nhiên; đột nhiên; bỗng; thoắt; thình lình; đột ngột; lúc",
+                            "explain": "忽然 (大多同时用在意义相对或相近的动词、形容词等前头)",
+                            "examples": [
+                                {
+                                    "m": "thoắt nói thoắt cười.",
+                                    "p_vn": "thoat noi thoat cuoi",
+                                    "_id": "c0a1d1b65433a263d20752b9fd36f8c6",
+                                    "id": 17445,
+                                    "type": "e_cnvi",
+                                    "e": "忽而说，忽而笑。",
+                                    "p_cn": "huer shuo huer xiao",
+                                    "p": "hūér shuō，hūér xiào。"
+                                },
+                                {
+                                    "m": "tiếng hát trên hồ lúc bỗng lúc trầm.",
+                                    "p_vn": "tieng hat tren ho luc bong luc tram",
+                                    "_id": "7a1d9008abfcdf208ac44087e8576594",
+                                    "id": 17446,
+                                    "type": "e_cnvi",
+                                    "e": "潮上的歌声忽而高，忽而低。",
+                                    "p_cn": "chao shang de gesheng huer gao huer di",
+                                    "p": "cháoshàng de gēshēng hūér gāo，hūér dī。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 83
+            },
+            "snym": {
+                "syno": [
+                    "忽然",
+                    "刹那",
+                    "瞬间",
+                    "突然"
+                ]
+            },
+            "cn_vi": "hốt nhi",
+            "pinyin": "hū'ér",
+            "word": "忽而",
+            "id": 24023,
+            "phonetic": "huer",
+            "rank": 45658,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄦˊㄏㄡˋ",
+            "_id": "eee304d67cdc7ba7cd841a2bce80cbb8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "sau đó; rồi sau đó",
+                            "explain": "以后;然后",
+                            "examples": [
+                                {
+                                    "m": "nắm cho thật chắc rồi sau đó mới làm.",
+                                    "p_vn": "nam cho that chac roi sau do moi lam",
+                                    "_id": "e46a5dece4bf9de53dfb5c7410ad84fa",
+                                    "id": 10124,
+                                    "type": "e_cnvi",
+                                    "e": "确有把握而后动手。",
+                                    "p_cn": "que you bawo erhou dongshou",
+                                    "p": "quèyǒu bǎwò érhòu dòngshǒu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 390
+            },
+            "snym": {
+                "syno": [
+                    "然后",
+                    "继而",
+                    "尔后",
+                    "此后",
+                    "以后",
+                    "之后"
+                ]
+            },
+            "cn_vi": "nhi hậu",
+            "pinyin": "érhòu",
+            "word": "而后",
+            "id": 15095,
+            "phonetic": "erhou",
+            "rank": 18727,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄐㄧˋㄦˊ",
+            "_id": "f84192cec44877746a64e7512ee2bda2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "tiếp theo; theo; tiếp đó; nối tiếp (phó từ, biểu thị sự tiếp theo)",
+                            "explain": "副词，表示紧随着某一情况或动作之后",
+                            "examples": [
+                                {
+                                    "m": "một người dẫn đầu hát trước, rồi sau đó tất cả cùng hát theo.",
+                                    "p_vn": "mot nguoi dan dau hat truoc roi sau do tat ca cung hat theo",
+                                    "_id": "37ced58befcc93a057eb76bee82f5add",
+                                    "id": 19774,
+                                    "type": "e_cnvi",
+                                    "e": "先是领唱的一个人唱，继而全体跟着一起唱。",
+                                    "p_cn": "xianshi lingchang de yige ren chang jier quanti genzhe yiqi chang",
+                                    "p": "xiānshi lǐngchàng de yīgè rén chàng, jì'ér quántǐ gēnzhe yīqǐ chàng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 42,
+                "search": 478
+            },
+            "snym": {
+                "syno": [
+                    "进而",
+                    "而后",
+                    "然后",
+                    "之后"
+                ]
+            },
+            "cn_vi": "kế nhi",
+            "pinyin": "jì'ér",
+            "word": "继而",
+            "id": 27304,
+            "phonetic": "jier",
+            "rank": 16429,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "relative clause"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄦˊ",
+            "_id": "0de9023faad89ec86918a273a688b1c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "relative clause",
+                    "means": [
+                        {
+                            "mean": "không ... mà; không... mà",
+                            "explain": "表示虽不具有某条件或原因而产生某结果",
+                            "examples": [
+                                {
+                                    "m": "không rét mà run; cực kỳ sợ hãi",
+                                    "p_vn": "khong ret ma run; cuc ky so hai",
+                                    "_id": "9b77e571f2494225c4315b0735f5e6d8",
+                                    "id": 2590,
+                                    "type": "e_cnvi",
+                                    "e": "不寒不栗。",
+                                    "p_cn": "bu han bu li",
+                                    "p": "bùhán bùlì。"
+                                },
+                                {
+                                    "m": "không làm mà hưởng",
+                                    "p_vn": "khong lam ma huong",
+                                    "_id": "5e9b1e5f219616344bf544ce38bc1592",
+                                    "id": 2591,
+                                    "type": "e_cnvi",
+                                    "e": "不劳不获。",
+                                    "p_cn": "bu lao bu huo",
+                                    "p": "bùláo bù huò。"
+                                },
+                                {
+                                    "m": "không bàn mà hợp ý nhau",
+                                    "p_vn": "khong ban ma hop y nhau",
+                                    "_id": "835c93edbf4b317d3969561ff1a21442",
+                                    "id": 2592,
+                                    "type": "e_cnvi",
+                                    "e": "不谋不合。",
+                                    "p_cn": "bu mou buhe",
+                                    "p": "bùmóu bùhé。"
+                                },
+                                {
+                                    "m": "không hẹn mà gặp",
+                                    "p_vn": "khong hen ma gap",
+                                    "_id": "a87f7d4d84c434c56b1771509b6a90d4",
+                                    "id": 2593,
+                                    "type": "e_cnvi",
+                                    "e": "不期不遇。",
+                                    "p_cn": "bu qi buyu",
+                                    "p": "bùqī bùyù。"
+                                },
+                                {
+                                    "m": "không nói cũng biết",
+                                    "p_vn": "khong noi cung biet",
+                                    "_id": "719d340425a53a5a4a81e0446476ade2",
+                                    "id": 2594,
+                                    "type": "e_cnvi",
+                                    "e": "不言不喻。",
+                                    "p_cn": "bu yan bu yu",
+                                    "p": "bùyán bùyù。"
+                                },
+                                {
+                                    "m": "không hẹn mà gặp; không bàn mà trùng ý",
+                                    "p_vn": "khong hen ma gap; khong ban ma trung y",
+                                    "_id": "c649f4583d63e80067a530aba43d72f8",
+                                    "id": 2595,
+                                    "type": "e_cnvi",
+                                    "e": "不约不同。",
+                                    "p_cn": "bu yue butong",
+                                    "p": "bù yuē bùtóng。"
+                                },
+                                {
+                                    "m": "không cánh mà bay; đồ đạc bỗng nhiên mất",
+                                    "p_vn": "khong canh ma bay; do dac bong nhien mat",
+                                    "_id": "d19418aae94110aeb826132ca2139399",
+                                    "id": 2596,
+                                    "type": "e_cnvi",
+                                    "e": "不翼不飞。",
+                                    "p_cn": "bu yi bu fei",
+                                    "p": "bùyì bùfēi。"
+                                },
+                                {
+                                    "m": "không chân mà chạy; tin lan truyền nhanh",
+                                    "p_vn": "khong chan ma chay; tin lan truyen nhanh",
+                                    "_id": "fddef48ebd835d34e83c29b6c2119589",
+                                    "id": 2597,
+                                    "type": "e_cnvi",
+                                    "e": "不胫不走。",
+                                    "p_cn": "bu jing bu zou",
+                                    "p": "bù jìng bù zǒu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "bất nhi",
+            "pinyin": "bù... ér...",
+            "word": "不...而...",
+            "id": 4586,
+            "phonetic": "bu...er...",
+            "rank": 129929,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄦˊ",
+            "_id": "f092405335047c75da4893099f69b84f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "đầu tiên làm A, sau đó tiến tới B",
+                            "examples": [
+                                145042,
+                                145043
+                            ],
+                            "struct": "先 + A，进而 + B"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "từ đó; tiếp đó; tiến tới; triển khai bước kế tiếp",
+                            "explain": "继续往前；进一步",
+                            "examples": [
+                                {
+                                    "m": "Nâng cao năng lực, rồi tiến tới nâng cao bản thân.",
+                                    "p_vn": "nang cao nang luc, roi tien toi nang cao ban than.",
+                                    "_id": "4db5a71385989eb3ed116a21c36b5eb6",
+                                    "id": 145039,
+                                    "type": "e_cnvi",
+                                    "e": "提高能力，进而提升自己。",
+                                    "p_cn": "tigao nengli, jin'er tisheng ziji.",
+                                    "p": "tígāo nénglì, jìn'ér tíshēng zìjǐ."
+                                },
+                                {
+                                    "m": "Xây dựng niềm tin, rồi tiến tới hợp tác cùng có lợi.",
+                                    "p_vn": "xay dung niem tin, roi tien toi hop tac cung co loi.",
+                                    "_id": "4db5a71385989eb3ed116a21c36b678c",
+                                    "id": 145040,
+                                    "type": "e_cnvi",
+                                    "e": "建立信任，进而合作共赢。",
+                                    "p_cn": "jianli xinren, jin'er hezuo gong ying.",
+                                    "p": "jiànlì xìnrèn, jìn'ér hézuò gòng yíng."
+                                },
+                                {
+                                    "m": "Nâng cao hiệu suất, rồi tiến tới tăng lợi nhuận.",
+                                    "p_vn": "nang cao hieu suat, roi tien toi tang loi nhuan.",
+                                    "_id": "4db5a71385989eb3ed116a21c36b72d7",
+                                    "id": 145041,
+                                    "type": "e_cnvi",
+                                    "e": "提高效率，进而增加利润。",
+                                    "p_cn": "tigao xiaolǜ, jin'er zengjia lirun.",
+                                    "p": "tígāo xiàolǜ, jìn'ér zēngjiā lìrùn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 131,
+                "search": 1568
+            },
+            "snym": {
+                "syno": [
+                    "继而",
+                    "从而"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jìn'ér",
+            "cn_vi": "tiến nhi",
+            "word": "进而",
+            "id": 30313,
+            "phonetic": "jiner",
+            "rank": 6807,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄙ",
+            "_id": "a2e7380b55e75c1226304f5c7cc05375",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "nghĩ lại cái gì đó",
+                            "examples": [
+                                130654,
+                                130659
+                            ],
+                            "struct": "反思 + Tân ngữ (错误/过去/行为/...)"
+                        },
+                        {
+                            "explain": "mô tả cách thức hoặc mức độ của hành động \"反思\"",
+                            "examples": [
+                                130665,
+                                130666
+                            ],
+                            "struct": "Trạng từ/ Tính từ + 反思"
+                        },
+                        {
+                            "explain": "hành động liên quan đến suy nghĩ lại....",
+                            "examples": [
+                                130676,
+                                130679
+                            ],
+                            "struct": "Động từ (进行/需要/值得/...) + 反思"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nghĩ lại; suy nghĩ lại; suy ngẫm",
+                            "explain": "思考过去的事情，从中总结经验教训",
+                            "examples": [
+                                {
+                                    "m": "Tôi sẽ suy nghĩ lại về quyết định của mình.",
+                                    "p_vn": "toi se suy nghi lai ve quyet dinh cua minh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571c46b5c",
+                                    "id": 130620,
+                                    "type": "e_cnvi",
+                                    "e": "我会反思我的决定。",
+                                    "p_cn": "wo hui fansi wo de jueding.",
+                                    "p": "wǒ huì fǎnsī wǒ de juédìng."
+                                },
+                                {
+                                    "m": "Bạn cần suy ngẫm về những sai lầm của mình.",
+                                    "p_vn": "ban can suy ngam ve nhung sai lam cua minh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571c5397f",
+                                    "id": 130641,
+                                    "type": "e_cnvi",
+                                    "e": "你需要反思自己的错误。",
+                                    "p_cn": "ni xuyao fansi ziji de cuowu.",
+                                    "p": "nǐ xūyào fǎnsī zìjǐ de cuòwù."
+                                },
+                                {
+                                    "m": "Anh ấy cần suy nghĩ lại về vấn đề trong công việc.",
+                                    "p_vn": "anh ay can suy nghi lai ve van de trong cong viec.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571c590b4",
+                                    "id": 130646,
+                                    "type": "e_cnvi",
+                                    "e": "他需要反思工作中的问题。",
+                                    "p_cn": "ta xuyao fansi gongzuo zhong de wenti.",
+                                    "p": "tā xūyào fǎnsī gōngzuò zhōng de wèntí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 158,
+                "search": 2181
+            },
+            "snym": {
+                "anto": [
+                    "盲目,冲动,鲁莽"
+                ],
+                "syno": [
+                    "反省,深思,检讨"
+                ]
+            },
+            "cn_vi": "phản tư",
+            "pinyin": "fǎnsī",
+            "lv_hsk_new": "6",
+            "word": "反思",
+            "id": 15824,
+            "phonetic": "fansi",
+            "rank": 5215,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "topic": "28, 62, 73",
+            "zhuyin": "ㄈㄢˇㄧㄥ",
+            "_id": "178d884c52529d5faa0fe9b4fd69f80c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A phản ứng như thế nào",
+                            "examples": [
+                                85650,
+                                117181,
+                                117182
+                            ],
+                            "struct": "A + 反应 + (得 )+ 很/十分/非常 + tính từ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phản ứng",
+                            "explain": "有机体受刺激而引起的相应活动",
+                            "examples": [
+                                {
+                                    "m": "Tiểu Minh có đầu óc linh hoạt , phản ứng nhanh.",
+                                    "p_vn": "tieu minh co dau oc linh hoat , phan ung nhanh.",
+                                    "_id": "329486f68b2b4177e0301e5c725573b8",
+                                    "id": 85648,
+                                    "type": "e_cnvi",
+                                    "e": "小明脑筋灵活，反应快。",
+                                    "p_cn": "xiaoming naojin linghuo, fanying kuai.",
+                                    "p": "xiǎomíng nǎojīn línghuó, fǎnyìng kuài."
+                                },
+                                {
+                                    "m": "Axit phản ứng với bazơ để tạo thành muối.",
+                                    "p_vn": "axit phan ung voi bazo de tao thanh muoi.",
+                                    "_id": "329486f68b2b4177e0301e5c72557fb0",
+                                    "id": 85649,
+                                    "type": "e_cnvi",
+                                    "e": "酸与鹻反应生成盐。",
+                                    "p_cn": "suan yu jian fanying shengcheng yan.",
+                                    "p": "suān yǔ jiǎn fǎnyìng shēngchéng yán."
+                                },
+                                {
+                                    "m": "Anh ấy phản ứng chậm chạp.",
+                                    "p_vn": "anh ay phan ung cham chap.",
+                                    "_id": "641148288b13f4cf43a85133e8a11124",
+                                    "id": 117177,
+                                    "type": "e_cnvi",
+                                    "e": "他反应迟钝。",
+                                    "p_cn": "ta fanying chidun.",
+                                    "p": "tā fǎnyìng chídùn."
+                                },
+                                {
+                                    "m": "Cô ấy phản ứng một cách khéo léo.",
+                                    "p_vn": "co ay phan ung mot cach kheo leo.",
+                                    "_id": "641148288b13f4cf43a85133e8a13d61",
+                                    "id": 117183,
+                                    "type": "e_cnvi",
+                                    "e": "她反应得十分机智。",
+                                    "p_cn": "ta fanying de shifen jizhi.",
+                                    "p": "tā fǎnyìng dé shífēn jīzhì."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "A tạo ra phản ứng như thế nào",
+                            "examples": [
+                                85651,
+                                117180
+                            ],
+                            "struct": "A + 引起 + tính từ/ cụm tính từ + 反应"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hiệu ứng; phản ứng",
+                            "explain": "事情所引起的意见、态度或行动",
+                            "examples": [
+                                {
+                                    "m": "Phần biểu diễn của anh ấy đã tạo ra những phản ứng khác nhau.",
+                                    "p_vn": "phan bieu dien cua anh ay da tao ra nhung phan ung khac nhau.",
+                                    "_id": "ea04ec20fd16007c3c4d9ac98314d014",
+                                    "id": 10687,
+                                    "type": "e_cnvi",
+                                    "e": "他的表演引起了不同的反应。",
+                                    "p_cn": "ta de biaoyan yin qi liao butong de fanying.",
+                                    "p": "tā de biǎoyǎn yǐn qǐ liǎo bùtóng de fǎnyìng."
+                                },
+                                {
+                                    "m": "Tốc độ phản ứng của anh ấy cực kỳ nhanh.",
+                                    "p_vn": "toc do phan ung cua anh ay cuc ky nhanh.",
+                                    "_id": "641148288b13f4cf43a85133e8a120ab",
+                                    "id": 117179,
+                                    "type": "e_cnvi",
+                                    "e": "他的反应速度极快。",
+                                    "p_cn": "ta de fanying sudu ji kuai.",
+                                    "p": "tā de fǎnyìng sùdù jí kuài."
+                                },
+                                {
+                                    "m": "Phản ứng đầu tiên của anh ấy là bảo vệ những người xung quanh.",
+                                    "p_vn": "phan ung dau tien cua anh ay la bao ve nhung nguoi xung quanh.",
+                                    "_id": "641148288b13f4cf43a85133e8a170db",
+                                    "id": 117191,
+                                    "type": "e_cnvi",
+                                    "e": "他的第一反应是保护身边的人。",
+                                    "p_cn": "ta de di yi fanying shi baohu shenbian de ren.",
+                                    "p": "tā de dì yī fǎnyìng shì bǎohù shēnbiān de rén."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Phát âm của hai từ này giống nhau ; nhưng ý nghĩa,cách sử dụng, hình thức viết đều không giống nhau; hai từ này không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"反应\" và \"反映\"",
+                    "words": [
+                        "反应",
+                        "反映"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "反馈",
+                    "反响",
+                    "响应",
+                    "效应",
+                    "反映"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "fǎnyìng",
+            "cn_vi": "phản ứng",
+            "popularity": {
+                "notebook": 308,
+                "search": 4373
+            },
+            "word": "反应",
+            "id": 15839,
+            "phonetic": "fanying",
+            "rank": 2756,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv",
+                "conj",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄣˊㄦˊ",
+            "_id": "3ef0ef30f7b7cf71cf67865e296fbfe6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "thậm chí; đến nỗi; ngay cả",
+                            "explain": "甚至",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 59
+            },
+            "snym": {
+                "syno": [
+                    "甚至"
+                ]
+            },
+            "cn_vi": "thậm nhi",
+            "pinyin": "shèn'ér",
+            "word": "甚而",
+            "id": 46437,
+            "phonetic": "shen'er",
+            "rank": 53590,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "78566d5a10d2448b8562b94ee7562b9a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tên một loài chim, có thuyết bảo là chim yến. Bản dịch Chinh phụ ngâm khúc : » Nay quyên đã giục oanh già, Ý nhi lại gáy trước nhà líu lo « — Tên một bậc hiền sĩ thời cổ, thấy chép trong thiên Đại tông sư của sách Trang tử.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Có quá nhiều story trong một khoảng thời gian ngắn, nói thật là sẽ không có ai sẵn sàng và kiên nhẫn đọc chúng.",
+                                    "p_vn": "Co qua nhieu story trong mot khoang thoi gian ngan, noi that la se khong co ai san sang va kien nhan doc chung.",
+                                    "_id": "4225f7b7d7b649f8842018b1537f4622",
+                                    "id": 67994,
+                                    "type": "e_cnvi",
+                                    "e": "短时间内发布太多的快拍,说实话,是没有人会愿意而且有耐心看完的",
+                                    "p_cn": "Duan shijian nei fabu tai duo de kuai pai, shuo shihua, shi meiyou ren hui yuanyi erqie you naixin kan wan de",
+                                    "p": "Duǎn shíjiān nèi fābù tài duō de kuài pāi, shuō shíhuà, shì méiyǒu rén huì yuànyì érqiě yǒu nàixīn kàn wán de"
+                                },
+                                {
+                                    "m": "đồ bất đắc chí; kẻ không được như ý nên làm bậy",
+                                    "p_vn": "do bat dac chi; ke khong duoc nhu y nen lam bay",
+                                    "_id": "7080a1dc74351ea2e4827cee295db7a2",
+                                    "id": 2624,
+                                    "type": "e_cnvi",
+                                    "e": "不逞之徒（因失意而胡作非为的人）。",
+                                    "p_cn": "bucheng zhi tu (yin shiyi er huzuofeiwei de ren)",
+                                    "p": "bùchěngzhītú （ yīn shīyì ér húzuòfēiwèi de rén ）。"
+                                },
+                                {
+                                    "m": "Chúng tôi chỉ là bàn chuyện làm ăn thôi không phức tạp như bạn nghĩ đâu",
+                                    "p_vn": "chung toi chi la ban chuyen lam an thoi khong phuc tap nhu ban nghi dau",
+                                    "_id": "ed6d81cef2a347d3aada00a1b246ecc3",
+                                    "id": 68135,
+                                    "type": "e_cnvi",
+                                    "e": "你别误会，我们只是谈生意而已，没你想那么复杂",
+                                    "p_cn": "ni bie wuhui, women zhishi tan shengyi eryi, mei ni xiang name fuza",
+                                    "p": "Nǐ bié wùhuì, wǒmen zhǐshì tán shēngyi éryǐ, méi nǐ xiǎng nàme fùzá"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "ý nhi",
+            "pinyin": "yì ér",
+            "word": "意而",
+            "id": 169769,
+            "phonetic": "yier",
+            "rank": 115671,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄓㄥˋ",
+            "_id": "59d9034d97db6ceb5ca1280c8e4f0faa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phản chứng",
+                            "explain": "可以驳倒原论证的证据",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phản chứng (một cách luận chứng gián tiếp)",
+                            "explain": "由证明与论题相矛盾的判断是不真实的来证明论题的真实性，是一种间接论证",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 135
+            },
+            "snym": null,
+            "cn_vi": "phản chứng",
+            "pinyin": "fǎnzhèng",
+            "word": "反证",
+            "id": 15849,
+            "phonetic": "fanzheng",
+            "rank": 35410,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "10, 54, 76, 77",
+            "zhuyin": "ㄈㄢˇㄒㄧㄤˋ",
+            "_id": "3838a35642484966313424fabe0d243b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ngược; đảo ngược",
+                            "explain": "完全倒转位置或方向",
+                            "examples": [
+                                {
+                                    "m": "Bài viết này đề xuất một hệ thống tìm xe ngược lại cho các bãi đậu xe lớn",
+                                    "p_vn": "Bai viet nay de xuat mot he thong tim xe nguoc lai cho cac bai dau xe lon",
+                                    "_id": "6f5fc2ec8446496491e80ad2a17e8495",
+                                    "id": 68499,
+                                    "type": "e_cnvi",
+                                    "e": "本文提出一种大型停车场反向寻车系统",
+                                    "p_cn": "Benwen tichu yi zhong daxing tingche chang fan xiang xun che xitong",
+                                    "p": "Běnwén tíchū yī zhǒng dàxíng tíngchē chǎng fǎn xiàng xún chē xìtǒng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 233
+            },
+            "snym": null,
+            "cn_vi": "phản hướng",
+            "pinyin": "fǎn xiàng",
+            "word": "反向",
+            "id": 15834,
+            "phonetic": "fanxiang",
+            "rank": 25900,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "705a079a0ea44939b5164c3ce5fd55b3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quặt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phản nữu",
+            "pinyin": "fǎn niǔ",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "反扭",
+            "id": 179290,
+            "phonetic": "fanniu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄙㄨ˙",
+            "_id": "2676e760dee532ce22b1acd42ce1cb57",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phản tố; kiện chống lại",
+                            "explain": "在同一诉讼中，被告向法院对原告提出的诉讼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": {
+                "anto": [
+                    "原诉"
+                ]
+            },
+            "cn_vi": "phản tố",
+            "pinyin": "fǎnsù",
+            "word": "反诉",
+            "id": 15825,
+            "phonetic": "fansu",
+            "rank": 95407,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "36389ca3fa0a4671b51bdbe0375f451d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đảo ngược công việc;hàng trả lại",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phản công",
+            "pinyin": "fǎn gōng",
+            "popularity": {
+                "notebook": 2,
+                "search": 16
+            },
+            "word": "反工",
+            "id": 185177,
+            "phonetic": "fangong",
+            "rank": 89246,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄔㄨㄥ",
+            "_id": "461756c829d1f665283b00a5f01f2e04",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phản xung; súng giật",
+                            "explain": "突然的、通常是剧烈的反向运动或回弹",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sự giật (súng)",
+                            "explain": "开枪后的后坐",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "phản xung",
+            "pinyin": "fǎn chōng",
+            "word": "反冲",
+            "id": 15760,
+            "phonetic": "fanchong",
+            "rank": 57997,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄦˊㄧㄢˊ",
+            "_id": "6539f35e385dd2bfb59d862e4978129b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "liên quan đến (cụm từ trước), mà nói",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Trận đấu bóng đá này là một sỉ nhục  đối với người Trung Quốc",
+                                    "p_vn": "tran dau bong da nay la mot si nhuc  doi voi nguoi trung quoc",
+                                    "_id": "377150b0db764cd6814d7203de40c561",
+                                    "id": 67719,
+                                    "type": "e_cnvi",
+                                    "e": "这次足球比赛，对中国人而言是百年国耻",
+                                    "p_cn": "zhe ci zuqiu bisai, dui zhongguo ren er yan shi bainian guochi",
+                                    "p": "Zhè cì zúqiú bǐsài, duì Zhōngguó rén ér yán shì bǎinián guóchǐ"
+                                },
+                                {
+                                    "m": "Nói chung là vì mục đích học thuật, và  hy vọng rằng y học mới sẽ được truyền bá đến Trung Quốc.\nNói chung là sẽ gây ảnh hưởng không tốt đến không khí học tập của toàn trường.",
+                                    "p_vn": "noi chung la vi muc dich hoc thuat, va  hy vong rang y hoc moi se duoc truyen ba den trung quoc.\nnoi chung la se gay anh huong khong tot den khong khi hoc tap cua toan truong.",
+                                    "_id": "419600410b3b47009b885c5befa72828",
+                                    "id": 68882,
+                                    "type": "e_cnvi",
+                                    "e": "大而言之，是为学术，就是希望新的医学传到中国去\n大而言之，对整个学校的学习风气都产生了恶劣的影响。",
+                                    "p_cn": "da er yan zhi, shi wei xueshu, jiushi xiwang xin de yixue chuan dao zhongguo qu\nda er yan zhi, dui zhengge xuexiao de xuexi fengqi dou chanshengle elie de yingxiang.",
+                                    "p": "Dà ér yán zhī, shì wéi xuéshù, jiùshì xīwàng xīn de yīxué chuán dào Zhōngguó qù\ndà ér yán zhī, duì zhěnggè xuéxiào de xuéxí fēngqì dōu chǎnshēngle èliè de yǐngxiǎng."
+                                },
+                                {
+                                    "m": "Nếu bạn cần, tôi sẽ giúp bạn thoát khỏi khó khăn, không có gì to tát đối với tôi!",
+                                    "p_vn": "Neu ban can, toi se giup ban thoat khoi kho khan, khong co gi to tat doi voi toi!",
+                                    "_id": "53835a8e02b742cfb58b1e6dd96fd9fa",
+                                    "id": 67803,
+                                    "type": "e_cnvi",
+                                    "e": "如果你需要，我会帮你解除困难，这件事对我而言没什么大碍！",
+                                    "p_cn": "Ruguo ni xuyao, wo hui bang ni jiechu kunnan, zhe jian shi dui wo er yan meishenme da ai!",
+                                    "p": "Rúguǒ nǐ xūyào, wǒ huì bāng nǐ jiěchú kùnnán, zhè jiàn shì duì wǒ ér yán méishénme dà ài!"
+                                },
+                                {
+                                    "m": "Đối với tôi mà nói, tôi vẫn thích du lịch tự túc hơn.",
+                                    "p_vn": "doi voi toi ma noi, toi van thich du lich tu tuc hon.",
+                                    "_id": "ab49fda89f6240f4bd4ee3bafd0c1aee",
+                                    "id": 68716,
+                                    "type": "e_cnvi",
+                                    "e": "于我自己而言，我更喜欢自助游。",
+                                    "p_cn": "yu wo ziji er yan, wo geng xihuan zizhu you.",
+                                    "p": "Yú wǒ zìjǐ ér yán, wǒ gèng xǐhuan zìzhù yóu."
+                                },
+                                {
+                                    "m": "Thời gian học tập ở nước ngoài này là một cơ hội học tập tuyệt vời đối với tôi.",
+                                    "p_vn": "thoi gian hoc tap o nuoc ngoai nay la mot co hoi hoc tap tuyet voi doi voi toi.",
+                                    "_id": "ae8ce08695a8439480b319bc310afea1",
+                                    "id": 54678,
+                                    "type": "e_cnvi",
+                                    "e": "这次出国留学对我而言是个很大的学习机会。",
+                                    "p_cn": "zhe ci chuguo liuxue dui wo er yan shige hen da de xuexi jihui.",
+                                    "p": "Zhè cì chūguó liúxué duì wǒ ér yán shìgè hěn dà de xuéxí jīhuì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 95,
+                "search": 1272
+            },
+            "snym": null,
+            "cn_vi": "nhi ngôn",
+            "pinyin": "ér yán",
+            "word": "而言",
+            "id": 82883,
+            "phonetic": "eryan",
+            "rank": 8087,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "76",
+            "zhuyin": "ㄈㄢˇㄔㄢˇ",
+            "_id": "63a8bef16bfd47a9bacb3fdb3e2f340f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "móng sau",
+                            "explain": "backhoe",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "phản sản",
+            "pinyin": "fǎn chǎn",
+            "word": "反铲",
+            "id": 101866,
+            "phonetic": "fanchan",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄍㄨㄥ",
+            "_id": "2366db21df52554205e488b1732baa5a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tự vấn",
+                            "explain": "回过头来反省一下自己",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "phản cung",
+            "pinyin": "fǎn gōng",
+            "word": "反躬",
+            "id": 15783,
+            "phonetic": "fangong",
+            "rank": 109992,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄗㄟˊ",
+            "_id": "9be57d74ac6f481992b9923e4e02f34d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Quân giặc làm phản. \n◇Tam quốc diễn nghĩa 三國演義: Phản tặc chí thử; vũ sĩ hà tại? 反賊至此; 武士何在 (Đệ cửu hồi) Giặc làm phản đã đến đây; võ sĩ đâu?",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phản tặc",
+                            "explain": "反叛的贼人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 34
+            },
+            "snym": {
+                "syno": [
+                    "叛徒"
+                ]
+            },
+            "cn_vi": "phản tặc",
+            "pinyin": "fǎn zéi",
+            "word": "反贼",
+            "id": 149360,
+            "phonetic": "fanzei",
+            "rank": 68076,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "29",
+            "zhuyin": "ㄆㄧㄥˊㄈㄢˇ",
+            "_id": "bb59310788b59d867fca0dad3895752b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sửa lại án xử sai; sửa lại kết luận sai",
+                            "explain": "把判错的案件或做错的政治结论改正过来",
+                            "examples": [
+                                {
+                                    "m": "sửa lại án oan",
+                                    "p_vn": "sua lai an oan",
+                                    "_id": "12e0c9e16e46c6929a0bd6364db880d7",
+                                    "id": 47391,
+                                    "type": "e_cnvi",
+                                    "e": "平反冤案",
+                                    "p_cn": "pingfan yuanan",
+                                    "p": "píngfǎn yuānàn"
+                                },
+                                {
+                                    "m": "rửa sạch án oan sai; rửa sạch án oan sai.",
+                                    "p_vn": "rua sach an oan sai; rua sach an oan sai",
+                                    "_id": "69060cb6b37cba5897feb7dcd4c8be56",
+                                    "id": 49154,
+                                    "type": "e_cnvi",
+                                    "e": "平反昭雪",
+                                    "p_cn": "pingfan zhaoxue",
+                                    "p": "píngfǎnzhāoxuě"
+                                },
+                                {
+                                    "m": "sửa lại vụ án xử sai.",
+                                    "p_vn": "sua lai vu an xu sai",
+                                    "_id": "cae8b22419ff1b432f10551e1d649613",
+                                    "id": 47401,
+                                    "type": "e_cnvi",
+                                    "e": "平反冤狱",
+                                    "p_cn": "pingfan yuanyu",
+                                    "p": "píngfǎn yuānyù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 95
+            },
+            "snym": {
+                "syno": [
+                    "昭雪",
+                    "雪冤"
+                ],
+                "anto": [
+                    "批斗"
+                ]
+            },
+            "cn_vi": "bình phản",
+            "pinyin": "píngfǎn",
+            "word": "平反",
+            "id": 41171,
+            "phonetic": "pingfan",
+            "rank": 42544,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄗㄨㄟˇ",
+            "_id": "fb1defad9e3521c7fd1ece2f326f503f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cãi lại; đốp chát; trả miếng",
+                            "explain": "反唇相讥;顶撞",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nuốt lời hứa",
+                            "explain": "反悔; 对以前允诺的事后悔而不承认",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "phản chuỷ",
+            "pinyin": "fǎn zuǐ",
+            "word": "反嘴",
+            "id": 15853,
+            "phonetic": "fanzui",
+            "rank": 85992,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄑㄧㄝˋ",
+            "_id": "8d6fe8904a78662c246c63880fdf4f88",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phiên thiết (một cách chú âm cổ của Hán ngữ)",
+                            "explain": "中国传统的一种注音方法，用两个字来注另一个字的音",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 74
+            },
+            "snym": null,
+            "cn_vi": "phản thiết",
+            "pinyin": "fǎnqiè",
+            "word": "反切",
+            "id": 15813,
+            "phonetic": "fanqie",
+            "rank": 48488,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄍㄨㄢ",
+            "_id": "aea4de6c560f43ff87265d80a334e164",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhưng đối với điều này ...",
+                            "explain": "but as for this...",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngược lại",
+                            "explain": "by contrast",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nội tâm",
+                            "explain": "introspection",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chủ quan",
+                            "explain": "subjectively",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhìn từ một góc độ khác",
+                            "explain": "viewed from another angle",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 441
+            },
+            "snym": null,
+            "cn_vi": "phản quan",
+            "pinyin": "fǎnguān",
+            "word": "反观",
+            "id": 101861,
+            "phonetic": "fanguan",
+            "rank": 17275,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄣˋㄈㄢˇ",
+            "_id": "b30459244d40786ddcc301047079c9fb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đàn áp bọn phản cách mạng; trấn áp bọn phản cách mạng",
+                            "explain": "镇压反革命",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "trấn phản",
+            "pinyin": "zhènfǎn",
+            "word": "镇反",
+            "id": 63999,
+            "phonetic": "zhenfan",
+            "rank": 109528,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˊㄦˊ",
+            "_id": "e6ea0d4dda27c94a94bd6f3197a6773d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "chốc chốc",
+                            "explain": "副词，表示不定时地重复发生",
+                            "examples": [
+                                {
+                                    "m": "trên bầu trời lâu lâu có những đám mây trắng mỏng trôi qua.",
+                                    "p_vn": "tren bau troi lau lau co nhung dam may trang mong troi qua.",
+                                    "_id": "92ffdb556f7954acead3ee758ab36a54",
+                                    "id": 35552,
+                                    "type": "e_cnvi",
+                                    "e": "天空中，时而飘过几片薄薄的白云。",
+                                    "p_cn": "tiankong zhong shier piaoguo ji pian bao bao de baiyun",
+                                    "p": "tiānkōng zhōng, shí'ér piāoguò jǐ piàn báo báo de báiyún."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lúc thì",
+                            "explain": "叠用，表示不同的现象或事情在一定时间内交替发生",
+                            "examples": [
+                                {
+                                    "m": "mấy ngày nay lúc thì trời nắng, lúc thì trời mưa.",
+                                    "p_vn": "may ngay nay luc thi troi nang, luc thi troi mua.",
+                                    "_id": "b1a11a32291371e9cb5c53338c39d581",
+                                    "id": 35553,
+                                    "type": "e_cnvi",
+                                    "e": "这几天时而晴天，时而下雨。",
+                                    "p_cn": "zhe jitian shier qingtian，shi'er xiayu。",
+                                    "p": "zhè jītiān shíér qíngtiān，shí'ér xiàyǔ。"
+                                },
+                                {
+                                    "m": "họ hân hoan phấn khởi, lúc thì cất cao giọng hát, lúc thì nhảy múc rộn ràng.",
+                                    "p_vn": "ho han hoan phan khoi, luc thi cat cao giong hat, luc thi nhay muc ron rang.",
+                                    "_id": "103db3b3fb173e4ed2f01e2ac545de40",
+                                    "id": 35554,
+                                    "type": "e_cnvi",
+                                    "e": "他们兴高采烈，时而引吭高歌，时而婆娑起舞。",
+                                    "p_cn": "tamen xinggaocailie shier yinhanggaoge shi'er posuo qiwu",
+                                    "p": "tāmen xīnggāocǎiliè，shíér yǐnhánggāogē，shí'ér pósuōqǐwǔ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 122,
+                "search": 977
+            },
+            "snym": {
+                "syno": [
+                    "忽然",
+                    "偶尔",
+                    "有时",
+                    "时常"
+                ],
+                "anto": [
+                    "经常"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "shí'ér",
+            "cn_vi": "thì nhi",
+            "word": "时而",
+            "id": 47114,
+            "phonetic": "shi'er",
+            "rank": 10018,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄧㄥ",
+            "_id": "f6cca4dc6e964a60899c6379c4c8b056",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phản tiếng Anh",
+                            "explain": "anti-English",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "phản anh",
+            "pinyin": "fǎn yīng",
+            "word": "反英",
+            "id": 101859,
+            "phonetic": "fanying",
+            "rank": 87945,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄎㄡˇ",
+            "_id": "b003b9a23578456c0641d293894a7c7e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lật lọng; phủ nhận; tráo trở",
+                            "explain": "推翻原来说的话",
+                            "examples": [
+                                {
+                                    "m": "lời đã nói ra không nên phủ nhận.",
+                                    "p_vn": "loi da noi ra khong nen phu nhan",
+                                    "_id": "8d2895e3065f821fa97cf97ec7c2d916",
+                                    "id": 10669,
+                                    "type": "e_cnvi",
+                                    "e": "话已说出，不能反口。",
+                                    "p_cn": "hua yi shuo chu buneng fan kou",
+                                    "p": "huà yǐ shuōchū，bùnéng fǎn kǒu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 36
+            },
+            "snym": null,
+            "cn_vi": "phản khẩu",
+            "pinyin": "fǎn kǒu",
+            "word": "反口",
+            "id": 15799,
+            "phonetic": "fankou",
+            "rank": 66330,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄐㄧˊ",
+            "_id": "ab629cb8d9657fe8b0b7349d40de7875",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hỏi vặn; phản vấn; hỏi vặn lại",
+                            "explain": "反问",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 43
+            },
+            "snym": {
+                "syno": [
+                    "反问"
+                ]
+            },
+            "cn_vi": "phản cật",
+            "pinyin": "fǎnjí",
+            "word": "反诘",
+            "id": 15795,
+            "phonetic": "fanji",
+            "rank": 61870,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨˋㄦˊ",
+            "_id": "aa786933e31995810e20c04b66fcfb67",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "vì vậy; vì thế; bởi vậy; cho nên",
+                            "explain": "因而;所以",
+                            "examples": [
+                                {
+                                    "m": "nghe nói cụ ấy không được khoẻ, cho nên đến thăm.",
+                                    "p_vn": "nghe noi cu ay khong duoc khoe cho nen den tham",
+                                    "_id": "6daf96b32d8a923e873d5b3a62e75da3",
+                                    "id": 14662,
+                                    "type": "e_cnvi",
+                                    "e": "听说老人家身体欠安，故而特来看望。",
+                                    "p_cn": "ting shuo laorenjia shenti qianan guer te lai kanwang",
+                                    "p": "tīngshuō lǎorénjiā shēntǐ qiànān，gùér tè lái kànwàng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 25,
+                "search": 238
+            },
+            "snym": {
+                "syno": [
+                    "由此"
+                ]
+            },
+            "cn_vi": "cố nhi",
+            "pinyin": "gù'ér",
+            "word": "故而",
+            "id": 20579,
+            "phonetic": "guer",
+            "rank": 25561,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄜˊㄦˊ",
+            "_id": "f00f7c30d9815f0e25b2dbb30de57104",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "chốc lát thì; không lâu; một lúc; chưa mấy chốc thì; một lúc sau thì; thoáng một cái thì; chẳng bao lâu thì; đột nhiên",
+                            "explain": "不久",
+                            "examples": [
+                                {
+                                    "m": "Anh ta biến mất một lúc, chẳng bao lâu thì lại xuất hiện, vội vã lên đường.",
+                                    "p_vn": "anh ta bien mat mot luc, chang bao lau thi lai xuat hien, voi va len duong.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7fccd0e",
+                                    "id": 89989,
+                                    "type": "e_cnvi",
+                                    "e": "他消失了一下，俄而又重新出现，匆匆赶路。",
+                                    "p_cn": "ta xiaoshile yixia, e'er you chongxin chuxian, congcong ganlu.",
+                                    "p": "tā xiāoshīle yīxià, é'ér yòu chóngxīn chūxiàn, cōngcōng gǎnlù."
+                                },
+                                {
+                                    "m": "Đột nhiên, mọi người đứng xung quanh đàn chó săn tụ tập thành một vòng tròn.",
+                                    "p_vn": "dot nhien, moi nguoi dung xung quanh dan cho san tu tap thanh mot vong tron.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7fcdc41",
+                                    "id": 89990,
+                                    "type": "e_cnvi",
+                                    "e": "俄而，大伙儿站在聚成一圈的猎犬周围。",
+                                    "p_cn": "e'er, dahuo er zhan zai ju chengyi quan de liequan zhouwei.",
+                                    "p": "é'ér, dàhuǒ er zhàn zài jù chéngyī quān de lièquǎn zhōuwéi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": {
+                "syno": [
+                    "既而",
+                    "未几",
+                    "须臾",
+                    "顷刻"
+                ]
+            },
+            "cn_vi": "nga nhi",
+            "pinyin": "é'ér",
+            "word": "俄而",
+            "id": 14924,
+            "phonetic": "e'er",
+            "rank": 120283,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄓ",
+            "_id": "98f38115d18565a9554705cb31c5839d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "trái lại; ngược lại; làm ngược lại",
+                            "explain": "与此相反;反过来说或反过来做",
+                            "examples": [
+                                {
+                                    "m": "Ngược lại cũng vậy",
+                                    "p_vn": "nguoc lai cung vay",
+                                    "_id": "295ec3960e3a7aa2a38b2b75db5d7742",
+                                    "id": 45391,
+                                    "type": "e_cnvi",
+                                    "e": "反之亦然",
+                                    "p_cn": "fanzhiyiran",
+                                    "p": "fǎnzhīyìrán"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 82,
+                "search": 955
+            },
+            "snym": {
+                "syno": [
+                    "若不",
+                    "相悖",
+                    "相反"
+                ]
+            },
+            "cn_vi": "phản chi",
+            "pinyin": "fǎnzhī",
+            "lv_hsk_new": "6",
+            "word": "反之",
+            "id": 15851,
+            "phonetic": "fanzhi",
+            "rank": 10190,
+            "lv_tocfl": 5,
+            "compound": null
+        }
+    ],
+    "query": "反而"
+}

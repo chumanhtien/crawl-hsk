@@ -1,0 +1,3289 @@
+{
+    "total": 1232,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄉㄠˋ",
+            "_id": "a5a59aaafe660a2b2ff2a4b9613f3c5a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "biết người/ người khác/ sự việc/ tại sao)",
+                            "examples": [
+                                74145,
+                                94045
+                            ],
+                            "struct": "知道 + Tân ngữ (人/ 对方/ 事/ 为什么）"
+                        },
+                        {
+                            "explain": "không/ đã/ rõ ràng/ cuối cùng biết",
+                            "examples": [
+                                94046,
+                                94047
+                            ],
+                            "struct": "不/已经/明明/终于 + 知道"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "biết; hiểu; rõ; hay biết; hiểu rõ",
+                            "explain": "对于事实或道理有认识;懂事",
+                            "examples": [
+                                {
+                                    "m": "Những việc anh ấy biết thì rất nhiều.",
+                                    "p_vn": "nhung viec anh ay biet thi rat nhieu.",
+                                    "_id": "a77e736f677f5500c57f8356b718bedd",
+                                    "id": 50093,
+                                    "type": "e_cnvi",
+                                    "e": "他知道的事情很多。",
+                                    "p_cn": "ta zhidao de shiqing henduo。",
+                                    "p": "tā zhīdào de shìqíng hěnduō。"
+                                },
+                                {
+                                    "m": "Tôi biết ý của anh.",
+                                    "p_vn": "toi biet y cua anh.",
+                                    "_id": "8d67678bba12675313137865c275e32e",
+                                    "id": 50094,
+                                    "type": "e_cnvi",
+                                    "e": "你的意思我知道。",
+                                    "p_cn": "ni de yisi wo zhidao。",
+                                    "p": "nǐ de yìsī wǒ zhīdào。"
+                                },
+                                {
+                                    "m": "Cô ấy biết cách làm.",
+                                    "p_vn": "co ay biet cach lam.",
+                                    "_id": "f2efc94449b26b3e2967bccbc92fcff3",
+                                    "id": 93145,
+                                    "type": "e_cnvi",
+                                    "e": "她知道如何做。",
+                                    "p_cn": "ta zhidao ruhe zuo.",
+                                    "p": "tā zhīdào rúhé zuò."
+                                },
+                                {
+                                    "m": "Chúng tôi biết câu trả lời.",
+                                    "p_vn": "chung toi biet cau tra loi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc92ff589",
+                                    "id": 93150,
+                                    "type": "e_cnvi",
+                                    "e": "我们知道答案。",
+                                    "p_cn": "women zhidao da'an.",
+                                    "p": "wǒmen zhīdào dá'àn."
+                                },
+                                {
+                                    "m": "Cô ấy biết mình đã sai.",
+                                    "p_vn": "co ay biet minh da sai.",
+                                    "_id": "f2efc94449b26b3e2967bccbc93001d5",
+                                    "id": 93151,
+                                    "type": "e_cnvi",
+                                    "e": "她知道自己错了。",
+                                    "p_cn": "ta zhidao ziji cuole.",
+                                    "p": "tā zhīdào zìjǐ cuòle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Khi mang ý hiểu hay biết được chân lý của sự vật.\nKhác:\n- Mức độ \"了解\" hiểu sâu hơn, rất rõ.\n\"知道\" có thể chỉ nghe qua, sơ sơ.\n- \"了解\" có thể trực tiếp mang bổ ngữ.\n\"知道\" không thể trực tiếp mang bổ ngữ, phải thêm 得",
+                    "title": "Phân biệt \"了解\" và \"知道\"",
+                    "words": [
+                        "了解",
+                        "知道"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Khi mang ý hiểu hay biết được chân lý của sự vật, thì giữa hai từ đều có thể thay thế cho nhau.\nKhác:\n- \"知道\" thông qua ngoại hình bên ngoài để biết được sự thật.\n\"懂\" thông qua quá trình hiểu từ nội hàm.\n(bộ tâm là trái tim, bộ thảo là cỏ, chữ 重 là nặng, thông qua trái tim, hiểu được sự việc từ nhỏ tới lớn ta gọi là hiểu).",
+                    "title": "Phân biệt \"懂\" và \"知道\"",
+                    "words": [
+                        "懂",
+                        "知道"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- \"懂得\" và \"知道\" có ý nghĩa giống nhau.\nKhác:\n- Tân ngữ của \"知道\" có thể là người cũng có thể là sự việc, còn tân ngữ của \"懂得\" chỉ có thể là sự việc.",
+                    "title": "Phân biệt \"懂得\" và \"知道\"",
+                    "words": [
+                        "懂得",
+                        "知道"
+                    ]
+                },
+                {
+                    "mean_vi": "\"认识\" vừa là động từ vừa là danh từ, có thể dùng làm tân ngữ, \"知道\" chỉ là động từ, không dùng làm tân ngữ.\nNhìn từ quan điểm ngữ nghĩa, \"知道\" không nhất thiết phải quen \"认识\", còn những vật đã \"认识\" thì thường đều biết \"知道\".",
+                    "title": "Phân biệt \"认识\" và \"知道\"",
+                    "words": [
+                        "认识",
+                        "知道"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "显露",
+                    "清晰",
+                    "晓得",
+                    "了解",
+                    "领略",
+                    "知晓",
+                    "认识",
+                    "分明",
+                    "大白",
+                    "晓畅",
+                    "理解",
+                    "领会",
+                    "明晰",
+                    "明白",
+                    "清楚",
+                    "明确",
+                    "领路",
+                    "懂得",
+                    "明了",
+                    "真切",
+                    "了然",
+                    "知了",
+                    "清爽"
+                ],
+                "anto": [
+                    "不懂",
+                    "不知"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "zhīdào",
+            "cn_vi": "tri đạo",
+            "popularity": {
+                "notebook": 1231,
+                "search": 35437
+            },
+            "word": "知道",
+            "id": 64414,
+            "phonetic": "zhidao",
+            "rank": 61,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0b5b02eac8fa4323a66c77f607691d51",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "phải biết",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "nếu anh ấy biết được, nhất định sẽ rất vui.",
+                                    "p_vn": "neu anh ay biet duoc, nhat dinh se rat vui.",
+                                    "_id": "07b3a0baf1b0b10daa73eda6ad5afab1",
+                                    "id": 27223,
+                                    "type": "e_cnvi",
+                                    "e": "他要知道喽一定很高兴。",
+                                    "p_cn": "ta yao zhidao lou yiding hen gaoxing. ",
+                                    "p": "tā yào zhīdào lou yídìng hěn gāoxīng。"
+                                },
+                                {
+                                    "m": "Hãy đối xử tốt với mọi giấc mơ của cuộc đời bạn, cho bạn sự tự tin và biết rằng bạn có khả năng hiện thực hóa nó.",
+                                    "p_vn": "Hay doi xu tot voi moi giac mo cua cuoc doi ban, cho ban su tu tin va biet rang ban co kha nang hien thuc hoa no.",
+                                    "_id": "2010c8a2f0414a460871a85be6177e6e",
+                                    "id": 53741,
+                                    "type": "e_cnvi",
+                                    "e": "善待人生的每个梦想，给自己信心，要知道你有能力实现它。",
+                                    "p_cn": "Hay doi xu tot voi moi giac mo cua cuoc doi ban, cho ban su tu tin va biet rang ban co kha nang hien thuc hoa no.",
+                                    "p": "Shàndài rénshēng de měi gè mèngxiǎng, jǐ zìjǐ xìnxīn, yào zhīdào nǐ yǒu nénglì shíxiàn tā."
+                                },
+                                {
+                                    "m": "Muốn biết mùi vị của lê thì bạn phải tự mình nếm thử.",
+                                    "p_vn": "muon biet mui vi cua le thi ban phai tu minh nem thu.",
+                                    "_id": "31bf9c287e4a4f499b5ee5d67eb388af",
+                                    "id": 56202,
+                                    "type": "e_cnvi",
+                                    "e": "你要知道梨子的滋味,就要亲口尝一尝。",
+                                    "p_cn": "ni yao zhidao lizi de ziwei, jiu yao qinkou chang yi chang.",
+                                    "p": "Nǐ yào zhīdào lízi de zīwèi, jiù yào qīnkǒu cháng yī cháng."
+                                },
+                                {
+                                    "m": "Hãy nhớ rằng những vận động viên ưu tú trong cuộc đua này",
+                                    "p_vn": "Hay nho rang nhung van dong vien uu tu trong cuoc dua nay",
+                                    "_id": "4a329f495cf7453fb3c22e26d6ccbbbb",
+                                    "id": 65562,
+                                    "type": "e_cnvi",
+                                    "e": "要知道参赛的精英选手",
+                                    "p_cn": "yao zhidao cansai de jingying xuanshou",
+                                    "p": "yào zhīdào cānsài de jīngyīng xuǎnshǒu"
+                                },
+                                {
+                                    "m": "Bạn phải biết rằng bố mẹ bạn cũng không thoải mái với điều này như bạn.",
+                                    "p_vn": "ban phai biet rang bo me ban cung khong thoai mai voi dieu nay nhu ban.",
+                                    "_id": "5f1adf3e4794a18d885701d1a32d58b4",
+                                    "id": 79642,
+                                    "type": "e_cnvi",
+                                    "e": "你要知道，爸妈其实跟你一样对此感到别扭。",
+                                    "p_cn": "ni yao zhidao, ba ma qishi gen ni yiyang dui ci gandao bieniu.",
+                                    "p": "nǐ yào zhīdào, bà mā qīshí gēn nǐ yīyàng duì cǐ gǎndào bièniu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "yếu tri đạo",
+            "pinyin": "yào zhīdào",
+            "popularity": {
+                "notebook": 1,
+                "search": 81
+            },
+            "word": "要知道",
+            "id": 183851,
+            "phonetic": "yaozhidao",
+            "rank": 46285,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄉㄠˋㄌㄜ˙",
+            "_id": "e89ffff1d90149c5b922bc2133506418",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Hiểu rồi!",
+                            "explain": "Got it!",
+                            "examples": [
+                                {
+                                    "m": "Tôi đã rất hiểu nó!",
+                                    "p_vn": "Toi da rat hieu no!",
+                                    "_id": "9b7f8ae9f8914b02a719c36070d8b088",
+                                    "id": 66230,
+                                    "type": "e_cnvi",
+                                    "e": "我完全知道了",
+                                    "p_cn": "wo wanquan zhidao le",
+                                    "p": "wǒ wánquán zhīdào le"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "VÂNG!",
+                            "explain": "OK!",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 1172
+            },
+            "snym": null,
+            "cn_vi": "tri đạo liễu",
+            "pinyin": "zhīdàole",
+            "word": "知道了",
+            "id": 115707,
+            "phonetic": "zhidaole",
+            "rank": 8655,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄧㄢㄓㄉㄠˋ",
+            "_id": "f5483d03e3d4a5ff221963b5d70e54cb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "có trời mới biết; có trời mà biết",
+                            "explain": "表示难以理解或无法分辩",
+                            "examples": [
+                                {
+                                    "m": "có trời mới biết đó là việc gì!",
+                                    "p_vn": "co troi moi biet do la viec gi",
+                                    "_id": "c9ce5d7887cb6549c46f14cb007ad705",
+                                    "id": 38479,
+                                    "type": "e_cnvi",
+                                    "e": "天知道那是怎么一回事!",
+                                    "p_cn": "tianzhidao na shi zenme yi hui shi",
+                                    "p": "tiānzhīdào nà shì zěnme yī huí shì!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 11
+            },
+            "snym": {
+                "syno": [
+                    "天晓得"
+                ]
+            },
+            "cn_vi": "thiên tri đạo",
+            "pinyin": "tiānzhīdào",
+            "word": "天知道",
+            "id": 50694,
+            "phonetic": "tianzhidao",
+            "rank": 101507,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄠˇㄓㄉㄠˋ",
+            "_id": "f0c2c2f086d3491db89bcfaa6e83f767",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nếu tôi biết sớm hơn ...",
+                            "explain": "If I had known earlier...",
+                            "examples": [
+                                {
+                                    "m": "Bạn biết rằng tôi sẽ theo dõi máy tính ở nhà của bạn.",
+                                    "p_vn": "Ban biet rang toi se theo doi may tinh o nha cua ban.",
+                                    "_id": "93bacb04362b48fcae0fa0648947b3c5",
+                                    "id": 62849,
+                                    "type": "e_cnvi",
+                                    "e": "你早知道我会追踪你的家用电脑",
+                                    "p_cn": "ni zao zhidao wohui zhuizong ni de jiayongdiannao",
+                                    "p": "nǐ zǎo zhīdào wǒhùi zhūizōng nǐ de jiāyòngdiànnǎo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 93
+            },
+            "snym": null,
+            "cn_vi": "tảo tri đạo",
+            "pinyin": "zǎo zhīdào",
+            "word": "早知道",
+            "id": 118409,
+            "phonetic": "zaozhidao",
+            "rank": 43111,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄟˊㄓㄉㄠˋ",
+            "_id": "01ceb09b7c914a61acb2fbfd82ad94c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Chua mơi biêt...",
+                            "explain": "God knows...",
+                            "examples": [
+                                {
+                                    "m": "Chúa biết những gì có thể bò ra.",
+                                    "p_vn": "Chua biet nhung gi co the bo ra.",
+                                    "_id": "45a78b70df3d43169ebf0b1bcd3d2e82",
+                                    "id": 66677,
+                                    "type": "e_cnvi",
+                                    "e": "谁知道会挖出什么麻烦来",
+                                    "p_cn": "shui zhidao hui wachu shiyao mafan lai",
+                                    "p": "shúi zhīdào hùi wāchū shíyāo máfán lái"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Ai có thể tưởng tượng ...?",
+                            "explain": "Who would have imagined...?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 335
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "shéi zhīdào",
+            "cn_vi": "thuỳ tri đạo",
+            "word": "谁知道",
+            "id": 123426,
+            "phonetic": "sheizhidao",
+            "rank": 20620,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄉㄠˋㄇㄚ˙",
+            "_id": "ef042cb39600866bc6ec2012adb4161d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Biết không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 226
+            },
+            "snym": null,
+            "cn_vi": "tri đạo mạ",
+            "pinyin": "zhīdào ma?",
+            "word": "知道吗？",
+            "id": 73104,
+            "phonetic": "zhidaoma?",
+            "rank": 26398,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "25e6ee98ad744ad6b554a6076f4f519e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "nào hay",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "na tri đạo",
+            "pinyin": "nà zhīdào",
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "word": "那知道",
+            "id": 183837,
+            "phonetic": "nazhidao",
+            "rank": 134882,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄋㄚˇㄓㄉㄠˋ",
+            "_id": "0bf1083f9c4849e29373977bc5cfdc43",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Sao mà biết;Ai ngờ; biết đâu được",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 128
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "nǎ zhīdào",
+            "cn_vi": "na tri đạo",
+            "word": "哪知道",
+            "id": 156425,
+            "phonetic": "nazhidao",
+            "rank": 36525,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˇㄉㄨˋㄓㄉㄠˋ",
+            "_id": "45efe0cbfec144798ffb9fed51f2f7be",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Baidu Knows, diễn đàn Hỏi &amp; Đáp trực tuyến, zhidao.baidu.com",
+                            "explain": "Baidu Knows, online Q & A forum, zhidao.baidu.com",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "bá độ tri đạo",
+            "pinyin": "bǎidù zhīdào",
+            "word": "百度知道",
+            "id": 132773,
+            "phonetic": "baiduzhidao",
+            "rank": 108128,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3bbe4537f9f5459d91675b5e9b4fd803",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biết tay",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tri đạo lệ hại",
+            "pinyin": "zhīdào lìhài",
+            "popularity": {
+                "notebook": 4,
+                "search": 26
+            },
+            "word": "知道厉害",
+            "id": 181183,
+            "phonetic": "zhidaolihai",
+            "rank": 75835,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "03bc4e32f99b4583b6333c9eda3e971e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "bạn thì hiểu đếch gì；mày thì hiểu quái gì",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 30
+            },
+            "snym": null,
+            "cn_vi": "nhĩ tri đạo cá cầu",
+            "pinyin": "nǐ zhīdào gè qiú",
+            "word": "你知道个球",
+            "id": 159979,
+            "phonetic": "nizhidaogeqiu",
+            "rank": 71611,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓ",
+            "_id": "132d074fda98cb515ff49ad05bbf8dd3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                94115,
+                                94116
+                            ],
+                            "struct": "不/才/只/深/早/熟+知"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "biết",
+                            "explain": "知道",
+                            "examples": [
+                                {
+                                    "m": "Biết đến đâu nói đến đó",
+                                    "p_vn": "biet den dau noi den do",
+                                    "_id": "e2808ce4f08462547adf7773416b9704",
+                                    "id": 50082,
+                                    "type": "e_cnvi",
+                                    "e": "知无不言",
+                                    "p_cn": "zhiwubuyan",
+                                    "p": "zhīwúbùyán"
+                                },
+                                {
+                                    "m": "Chỉ biết một mà không biết hai.",
+                                    "p_vn": "chi biet mot ma khong biet hai.",
+                                    "_id": "395ed0f53424621b51efc8fbc364676e",
+                                    "id": 50083,
+                                    "type": "e_cnvi",
+                                    "e": "知其一不知其二。",
+                                    "p_cn": "zhiqiyi buzhiqier.",
+                                    "p": "zhīqíyī bùzhīqíèr."
+                                },
+                                {
+                                    "m": "Câu này không biết ai nói đây.",
+                                    "p_vn": "cau nay khong biet ai noi day.",
+                                    "_id": "85ea3bebff4058b4541bd8451d6b9c42",
+                                    "id": 50084,
+                                    "type": "e_cnvi",
+                                    "e": "这话不知是谁说的。",
+                                    "p_cn": "zhe hua buzhi shi shei shuo de.",
+                                    "p": "zhè huà bùzhī shì shéi shuō de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "làm cho biết; cho biết; thông báo",
+                            "explain": "使知道",
+                            "examples": [
+                                {
+                                    "m": "Giáo viên thông báo cho chúng tôi biết ngày mai thi.",
+                                    "p_vn": "giao vien thong bao cho chung toi biet ngay mai thi.",
+                                    "_id": "ca0d1c89b3bf197ef17058ebd9891ae5",
+                                    "id": 50085,
+                                    "type": "e_cnvi",
+                                    "e": "老师通知我们明天考试。",
+                                    "p_cn": "lao shi tong zhi wo men ming tian kao shi.",
+                                    "p": "lǎo shī tōng zhī wǒ men míng tiān kǎo shì."
+                                },
+                                {
+                                    "m": "Xin vui lòng thông báo cho tất cả những người có liên quan.",
+                                    "p_vn": "xin vui long thong bao cho tat ca nhung nguoi co lien quan.",
+                                    "_id": "55db399305625a14707d64b9187e40e6",
+                                    "id": 100373,
+                                    "type": "e_cnvi",
+                                    "e": "请知会所有相关的人。",
+                                    "p_cn": "qing zhi hui suoyou xiangguan de ren.",
+                                    "p": "qǐng zhī hui suǒyǒu xiāngguān de rén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quản lý; trông coi",
+                            "explain": "旧指主管",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy được chỉ định làm tri huyện.",
+                                    "p_vn": "anh ay duoc chi dinh lam tri huyen.",
+                                    "_id": "b74a25aad0cb45d519ba65d121938e4b",
+                                    "id": 50091,
+                                    "type": "e_cnvi",
+                                    "e": "他被任命为知县。",
+                                    "p_cn": "ta bei ren ming wei zhi xian.",
+                                    "p": "tā bèi rèn mìng wéi zhī xiàn."
+                                },
+                                {
+                                    "m": "Anh ấy phụ trách trông coi đứa trẻ.",
+                                    "p_vn": "anh ay phu trach trong coi dua tre.",
+                                    "_id": "55db399305625a14707d64b9187e4b1e",
+                                    "id": 100376,
+                                    "type": "e_cnvi",
+                                    "e": "他负责知孩子。",
+                                    "p_cn": "ta fuze zhi haizi.",
+                                    "p": "tā fùzé zhī háizi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tri thức; sự hiểu biết; kiến thức",
+                            "explain": "知识",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta phải không ngừng tiếp thu kiến thức.",
+                                    "p_vn": "chung ta phai khong ngung tiep thu kien thuc.",
+                                    "_id": "55db399305625a14707d64b9187e5ae8",
+                                    "id": 100378,
+                                    "type": "e_cnvi",
+                                    "e": "我们要不断获取知识。",
+                                    "p_cn": "women yao buduan huoqu zhishi.",
+                                    "p": "wǒmen yào bùduàn huòqǔ zhīshi."
+                                },
+                                {
+                                    "m": "Anh ấy có kiến thức phong phú.",
+                                    "p_vn": "anh ay co kien thuc phong phu.",
+                                    "_id": "55db399305625a14707d64b9187e5d77",
+                                    "id": 100380,
+                                    "type": "e_cnvi",
+                                    "e": "他拥有丰富的知识。",
+                                    "p_cn": "ta yongyou fengfu de zhishi.",
+                                    "p": "tā yōngyǒu fēngfù de zhīshi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tri kỷ; người tri kỷ",
+                            "explain": "知己",
+                            "examples": [
+                                {
+                                    "m": "Tôi rất may mắn có thể có một nhóm bạn tri kỷ.",
+                                    "p_vn": "toi rat may man co the co mot nhom ban tri ky.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95dbf43",
+                                    "id": 94110,
+                                    "type": "e_cnvi",
+                                    "e": "我很幸运能拥有一群知友。",
+                                    "p_cn": "wo hen xingyun neng yongyou yiqun zhi you.",
+                                    "p": "wǒ hěn xìngyùn néng yōngyǒu yīqún zhī yǒu."
+                                },
+                                {
+                                    "m": "Tri kỷ của tôi đến từ những lĩnh vực khác nhau.",
+                                    "p_vn": "tri ky cua toi den tu nhung linh vuc khac nhau.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95dca75",
+                                    "id": 94111,
+                                    "type": "e_cnvi",
+                                    "e": "我的知友来自不同的领域。",
+                                    "p_cn": "wo de zhi you laizi butong de lingyu.",
+                                    "p": "wǒ de zhī yǒu láizì bùtóng de lǐngyù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 93,
+                "search": 7018
+            },
+            "snym": null,
+            "cn_vi": "tri.trí",
+            "pinyin": "zhī",
+            "word": "知",
+            "id": 64411,
+            "phonetic": "zhi",
+            "rank": 1619,
+            "lv_tocfl": 3,
+            "compound": "知宾 ; 知单 ; 知道 ; 知底 ; 知法犯法 ; 知府 ; 知根知底 ; 知会 ; 知己 ; 知己知彼 ; 知交 ; 知近 ; 知觉 ; 知客 ; 知了 ; 知名 ; 知名度 ; 知命 ; 知青 ; 知情 ; 知情达理 ; 知趣 ; 知人之明 ; 知识 ; 知识产业 ; 知识分子 ; 知识青年 ; 知事 ; 知书达理 ; 知疼着热 ; 知悉 ; 知县 ; 知晓 ; 知心 ; 知音 ; 知友 ; 知遇 ; 知照 ; 知州 ; 知足"
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄐㄧˇㄓㄅㄧˇ",
+            "_id": "731d82078dfb729834c36b8750f441d5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "biết người biết ta; biết mình biết người; tri kỷ tri bỉ",
+                            "explain": "《孙子兵法·谋攻》：“知彼知己，百战不殆。”意思是对敌我双方的情况都非常了解，打起仗来就会立于不败之地。后用“知己知彼”指既要正确估计自己，又要深刻了解对方。",
+                            "examples": [
+                                {
+                                    "m": "Chỉ có biết mình biết ta, bạn mới bất khả chiến bại được.",
+                                    "p_vn": "chi co biet minh biet ta, ban moi bat kha chien bai duoc.",
+                                    "_id": "c10c24a6ed43165db916499fa9817f9e",
+                                    "id": 84439,
+                                    "type": "e_cnvi",
+                                    "e": "只有知己知彼，才能立于不败之地。",
+                                    "p_cn": "zhiyou zhijizhibi, caineng li yu bu bai zhi di.",
+                                    "p": "zhǐyǒu zhījǐzhībǐ, cáinéng lì yú bù bài zhī dì."
+                                },
+                                {
+                                    "m": "Ai nói qua chỉ cần biết mình biết ta là không có nguy hiểm nữa?",
+                                    "p_vn": "ai noi qua chi can biet minh biet ta la khong co nguy hiem nua?",
+                                    "_id": "c10c24a6ed43165db916499fa9818dc6",
+                                    "id": 84440,
+                                    "type": "e_cnvi",
+                                    "e": "是谁说过只要知己知彼，就没有危险？",
+                                    "p_cn": "shi shei shuoguo zhiyao zhijizhibi, jiu meiyou weixian?",
+                                    "p": "shì shéi shuōguò zhǐyào zhījǐzhībǐ, jiù méiyǒu wéixiǎn?"
+                                },
+                                {
+                                    "m": "Biết mình biết ta thì mới có thể trăm trận trăm thắng.",
+                                    "p_vn": "biet minh biet ta thi moi co the tram tran tram thang.",
+                                    "_id": "c10c24a6ed43165db916499fa9819358",
+                                    "id": 84441,
+                                    "type": "e_cnvi",
+                                    "e": "知己知彼就能百战百胜。",
+                                    "p_cn": "zhijizhibi jiu neng bai zhan baisheng.",
+                                    "p": "zhījǐzhībǐ jiù néng bǎi zhàn bǎishèng."
+                                },
+                                {
+                                    "m": "Biết mình biết ta là điều kiện tiên quyết quan trọng để hợp tác.",
+                                    "p_vn": "biet minh biet ta la dieu kien tien quyet quan trong de hop tac.",
+                                    "_id": "c10c24a6ed43165db916499fa981a0ef",
+                                    "id": 84442,
+                                    "type": "e_cnvi",
+                                    "e": "知己知彼是合作的重要前提。",
+                                    "p_cn": "zhijizhibi shi hezuo de zhongyao qianti.",
+                                    "p": "zhījǐzhībǐ shì hézuò de zhòngyào qiántí."
+                                },
+                                {
+                                    "m": "Biết mình biết ta là nguyên tắc quan trọng đầu tiên trong đàm phán.",
+                                    "p_vn": "biet minh biet ta la nguyen tac quan trong dau tien trong dam phan.",
+                                    "_id": "c10c24a6ed43165db916499fa981c682",
+                                    "id": 84443,
+                                    "type": "e_cnvi",
+                                    "e": "知己知彼是谈判的首要原则。",
+                                    "p_cn": "zhijizhibi shi tanpan de shouyao yuanze.",
+                                    "p": "zhījǐzhībǐ shì tánpàn de shǒuyào yuánzé."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 44,
+                "search": 349
+            },
+            "snym": {
+                "syno": [
+                    "了如指掌",
+                    "明察秋毫",
+                    "自知之明",
+                    "一目了然",
+                    "知彼知己",
+                    "心中有数",
+                    "知根知底",
+                    "自知自明"
+                ],
+                "anto": [
+                    "心中无数",
+                    "不得要领",
+                    "雾里看花"
+                ]
+            },
+            "cn_vi": "tri kỉ tri bỉ",
+            "pinyin": "zhījǐzhībǐ",
+            "word": "知己知彼",
+            "id": 64423,
+            "phonetic": "zhijizhibi",
+            "rank": 20077,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄍㄣㄓㄉㄧˇ",
+            "_id": "757a542a1b86bb16852ba3d658762540",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "hiểu rõ; hiểu thấu; hiểu tận gốc rễ",
+                            "explain": "知道根底或内情",
+                            "examples": [
+                                {
+                                    "m": "chúng tôi là bạn thân, hiểu nhau rất rõ.",
+                                    "p_vn": "chung toi la ban than hieu nhau rat ro",
+                                    "_id": "68e683b0f1a4c8a91635b3ab93736e67",
+                                    "id": 50097,
+                                    "type": "e_cnvi",
+                                    "e": "我们是老朋友啦，彼此都知根知底。",
+                                    "p_cn": "women shi lao pengyou la bici dou zhigenzhidi",
+                                    "p": "wǒmen shì lǎo péngyǒu la, bǐcǐ dōu zhīgēnzhīdǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 19,
+                "search": 197
+            },
+            "snym": {
+                "syno": [
+                    "知根达底",
+                    "了如指掌",
+                    "知己知彼",
+                    "知冷知热",
+                    "亲眼所见",
+                    "达地知根"
+                ],
+                "anto": [
+                    "来路不明"
+                ]
+            },
+            "cn_vi": "tri căn tri để",
+            "pinyin": "zhīgēnzhīdǐ",
+            "word": "知根知底",
+            "id": 64419,
+            "phonetic": "zhigenzhidi",
+            "rank": 28560,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄌㄥˇㄓㄖㄜˋ",
+            "_id": "d9305f3826374096b7fc7201f287a81a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "rất chu đáo",
+                            "explain": "to be very considerate",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để biết người khác lạnh hay nóng (thành ngữ)",
+                            "explain": "to know whether others are cold or hot (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 150
+            },
+            "snym": {
+                "syno": [
+                    "知疼着热",
+                    "体贴入微",
+                    "嘘寒问暖",
+                    "冷暖自知",
+                    "如人饮水",
+                    "知根知底"
+                ],
+                "anto": [
+                    "不着疼热"
+                ]
+            },
+            "cn_vi": "tri lãnh tri nhiệt",
+            "pinyin": "zhī lěng zhī rè",
+            "word": "知冷知热",
+            "id": 135337,
+            "phonetic": "zhilengzhire",
+            "rank": 33406,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄅㄧˇㄓㄐㄧˇ",
+            "_id": "e97ad1ba1e46438a81de4570053cb405",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "biết kẻ thù và biết chính mình (thành ngữ, từ \"Nghệ thuật chiến tranh\" của Sunzi)",
+                            "explain": "to know the enemy and know oneself (idiom, from Sunzi's\"The Art of War\")",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 30
+            },
+            "snym": {
+                "syno": [
+                    "知己知彼"
+                ]
+            },
+            "cn_vi": "tri bỉ tri kỉ",
+            "pinyin": "zhī bǐ zhījǐ",
+            "word": "知彼知己",
+            "id": 130667,
+            "phonetic": "zhibizhiji",
+            "rank": 71726,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "measure",
+                "v"
+            ],
+            "measure": null,
+            "topic": "76",
+            "zhuyin": "ㄉㄠˋ",
+            "_id": "8eb460475cc6dd32e57b7ba655220c92",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "số lượng đường",
+                            "examples": [
+                                134255,
+                                134256
+                            ],
+                            "struct": "Số từ + 条 + 道"
+                        },
+                        {
+                            "explain": "hành động trên một con đường hoặc tuyến đường",
+                            "examples": [
+                                134260,
+                                134261
+                            ],
+                            "struct": "Động từ (走/让/绕/挡) + 道"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đường; con đường",
+                            "explain": "(道儿) 道路",
+                            "examples": [
+                                {
+                                    "m": "Đường sắt này có lịch sử rất lâu đời.",
+                                    "p_vn": "duong sat nay co lich su rat lau doi.",
+                                    "_id": "641148288b13f4cf43a85133e80f923d",
+                                    "id": 114054,
+                                    "type": "e_cnvi",
+                                    "e": "这条铁道历史很悠久。",
+                                    "p_cn": "zhe tiao tiedao lishi hen youjiu.",
+                                    "p": "zhè tiáo tiědào lìshǐ hěn yōujiǔ."
+                                },
+                                {
+                                    "m": "Con đường này dẫn ra bờ biển.",
+                                    "p_vn": "con duong nay dan ra bo bien.",
+                                    "_id": "641148288b13f4cf43a85133e80fb035",
+                                    "id": 114058,
+                                    "type": "e_cnvi",
+                                    "e": "这道儿能通到海边。",
+                                    "p_cn": "zhe daor neng tong dao haibian.",
+                                    "p": "zhè dàor néng tōng dào hǎibiān."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đường; cống; dòng chảy; kênh; rạch",
+                            "explain": "水流通行的途径",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi đã đi dọc theo con đường sông này rất xa.",
+                                    "p_vn": "chung toi da di doc theo con duong song nay rat xa.",
+                                    "_id": "641148288b13f4cf43a85133e8103024",
+                                    "id": 114077,
+                                    "type": "e_cnvi",
+                                    "e": "我们沿着这条水道走了很远。",
+                                    "p_cn": "women yanzhe zhe tiao shuidao zoule hen yuan.",
+                                    "p": "wǒmen yánzhe zhè tiáo shuǐdào zǒule hěn yuǎn."
+                                },
+                                {
+                                    "m": "Con kênh này nối liền hai thành phố.",
+                                    "p_vn": "con kenh nay noi lien hai thanh pho.",
+                                    "_id": "641148288b13f4cf43a85133e8103cc8",
+                                    "id": 114078,
+                                    "type": "e_cnvi",
+                                    "e": "这个运河道连接了两个城市。",
+                                    "p_cn": "zhege yunhe dao lianjiele liang ge chengshi.",
+                                    "p": "zhège yùnhé dào liánjiēle liǎng gè chéngshì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phương hướng; phương pháp; cách; đạo lý; lý lẽ",
+                            "explain": "方向；方法",
+                            "examples": [
+                                {
+                                    "m": "Phương pháp tập thể dục này phù hợp với chúng ta.",
+                                    "p_vn": "phuong phap tap the duc nay phu hop voi chung ta.",
+                                    "_id": "641148288b13f4cf43a85133e8106d70",
+                                    "id": 114082,
+                                    "type": "e_cnvi",
+                                    "e": "此健身道适合你我。",
+                                    "p_cn": "ci jianshen dao shihe ni wo.",
+                                    "p": "cǐ jiànshēn dào shìhé nǐ wǒ."
+                                },
+                                {
+                                    "m": "Phương pháp học mới khá hiệu quả.",
+                                    "p_vn": "phuong phap hoc moi kha hieu qua.",
+                                    "_id": "641148288b13f4cf43a85133e8108387",
+                                    "id": 114084,
+                                    "type": "e_cnvi",
+                                    "e": "新的学习道挺有效。",
+                                    "p_cn": "xin de xuexi dao ting youxiao.",
+                                    "p": "xīn de xuéxí dào tǐng yǒuxiào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đạo đức",
+                            "explain": "品质",
+                            "examples": [
+                                {
+                                    "m": "Giáo dục đạo đức rất quan trọng đối với trẻ em.",
+                                    "p_vn": "giao duc dao duc rat quan trong doi voi tre em.",
+                                    "_id": "641148288b13f4cf43a85133e8112cba",
+                                    "id": 114103,
+                                    "type": "e_cnvi",
+                                    "e": "道德教育对孩子很重要。",
+                                    "p_cn": "daode jiaoyu dui haizi hen zhongyao.",
+                                    "p": "dàodé jiàoyù duì háizi hěn zhòngyào."
+                                },
+                                {
+                                    "m": "Phẩm chất đạo đức quyết định hành vi của một người.",
+                                    "p_vn": "pham chat dao duc quyet dinh hanh vi cua mot nguoi.",
+                                    "_id": "641148288b13f4cf43a85133e8112e04",
+                                    "id": 114104,
+                                    "type": "e_cnvi",
+                                    "e": "道德品质决定一个人的品行。",
+                                    "p_cn": "daode pinzhi jueding yige ren de pinxing.",
+                                    "p": "dàodé pǐnzhí juédìng yīgè rén de pǐnxíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kỹ thuật; tay nghề; tài; nghệ thuật; đạo",
+                            "explain": "技艺；技术",
+                            "examples": [
+                                {
+                                    "m": "Thưởng thức trà đạo, tu thân dưỡng tính.",
+                                    "p_vn": "thuong thuc tra dao, tu than duong tinh.",
+                                    "_id": "641148288b13f4cf43a85133e8418597",
+                                    "id": 115102,
+                                    "type": "e_cnvi",
+                                    "e": "品味茶道，修身养性。",
+                                    "p_cn": "pinwei chadao, xiushenyangxing.",
+                                    "p": "pǐnwèi chádào, xiūshēnyǎngxìng."
+                                },
+                                {
+                                    "m": "Tôn trọng giá trị của y đạo.",
+                                    "p_vn": "ton trong gia tri cua y dao.",
+                                    "_id": "641148288b13f4cf43a85133e8418d04",
+                                    "id": 115105,
+                                    "type": "e_cnvi",
+                                    "e": "尊重医道的价值。",
+                                    "p_cn": "zunzhong yidao de jiazhi.",
+                                    "p": "zūnzhòng yīdào de jiàzhí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đạo (hệ thống tư tưởng tôn giáo hoặc học thuật)",
+                            "explain": "学术或宗教的思想体系",
+                            "examples": [
+                                {
+                                    "m": "Đạo Khổng Tử  có ảnh hưởng sâu rộng.",
+                                    "p_vn": "dao khong tu  co anh huong sau rong.",
+                                    "_id": "641148288b13f4cf43a85133e84422d9",
+                                    "id": 115127,
+                                    "type": "e_cnvi",
+                                    "e": "孔子之道影响深远广泛。",
+                                    "p_cn": "kongzi zhi dao yingxiang shenyuan guangfan.",
+                                    "p": "kǒngzǐ zhī dào yǐngxiǎng shēnyuǎn guǎngfàn."
+                                },
+                                {
+                                    "m": "Các học giả tích cực truyền bá đạo Khổng Tử..",
+                                    "p_vn": "cac hoc gia tich cuc truyen ba dao khong tu..",
+                                    "_id": "641148288b13f4cf43a85133e8447525",
+                                    "id": 115132,
+                                    "type": "e_cnvi",
+                                    "e": "学者积极传播孔子之道。",
+                                    "p_cn": "xuezhe jiji chuanbo kongzi zhi dao.",
+                                    "p": "xuézhě jījí chuánbò kǒngzǐ zhī dào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đạo; đạo giáo; tín đồ đạo giáo (thuộc về đạo giáo)",
+                            "explain": "属于道教的；也指道教徒",
+                            "examples": [
+                                {
+                                    "m": "Đạo sĩ đang tu luyện trong núi.",
+                                    "p_vn": "dao si dang tu luyen trong nui.",
+                                    "_id": "641148288b13f4cf43a85133e841f360",
+                                    "id": 115108,
+                                    "type": "e_cnvi",
+                                    "e": "道士在山中修炼。",
+                                    "p_cn": "daoshi zai shanzhong xiulian.",
+                                    "p": "dàoshi zài shānzhōng xiūliàn."
+                                },
+                                {
+                                    "m": "Tư tưởng Đạo gia có ảnh hưởng sâu xa.",
+                                    "p_vn": "tu tuong dao gia co anh huong sau xa.",
+                                    "_id": "641148288b13f4cf43a85133e841f477",
+                                    "id": 115109,
+                                    "type": "e_cnvi",
+                                    "e": "道家思想影响深远。",
+                                    "p_cn": "daojia sixiang yingxiang shenyuan.",
+                                    "p": "dàojiā sīxiǎng yǐngxiǎng shēnyuǎn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đạo (tổ chức mê tín trong xã hội phong kiến)",
+                            "explain": "指某些封建迷信组织",
+                            "examples": [
+                                {
+                                    "m": "Phê phán tư tưởng của các hội và đạo phản động.",
+                                    "p_vn": "phe phan tu tuong cua cac hoi va dao phan dong.",
+                                    "_id": "641148288b13f4cf43a85133e844959b",
+                                    "id": 115137,
+                                    "type": "e_cnvi",
+                                    "e": "批判反动会道门思想。",
+                                    "p_cn": "pipan fandong huidaomen sixiang.",
+                                    "p": "pīpàn fǎndòng huìdàomén sīxiǎng."
+                                },
+                                {
+                                    "m": "Xa lánh sự cám dỗ của Đạo Nhất Quán.",
+                                    "p_vn": "xa lanh su cam do cua dao nhat quan.",
+                                    "_id": "641148288b13f4cf43a85133e844a481",
+                                    "id": 115138,
+                                    "type": "e_cnvi",
+                                    "e": "远离一贯道的诱惑。",
+                                    "p_cn": "yuanli yiguandao de youhuo.",
+                                    "p": "yuǎnlí yīguàndào de yòuhuò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đạo (đơn vị hành chánh đời Đường, tương đương với tỉnh ngày nay, thời Thanh, đạo là đơn vị dưới tỉnh)",
+                            "explain": "国历史上行政区域的名称",
+                            "examples": [
+                                {
+                                    "m": "Đạo thời nhà Thanh có địa vị đặc thù.",
+                                    "p_vn": "dao thoi nha thanh co dia vi dac thu.",
+                                    "_id": "641148288b13f4cf43a85133e8459260",
+                                    "id": 115173,
+                                    "type": "e_cnvi",
+                                    "e": "清代道有着特殊地位。",
+                                    "p_cn": "qing dai dao youzhe teshu diwei.",
+                                    "p": "qīng dài dào yǒuzhe tèshū dìwèi."
+                                },
+                                {
+                                    "m": "Quan chức của Đạo thời nhà Thanh trách nhiệm nặng nề.",
+                                    "p_vn": "quan chuc cua dao thoi nha thanh trach nhiem nang ne.",
+                                    "_id": "641148288b13f4cf43a85133e84592b8",
+                                    "id": 115174,
+                                    "type": "e_cnvi",
+                                    "e": "清代道的官员责任重。",
+                                    "p_cn": "qing dai dao de guanyuan zeren zhong.",
+                                    "p": "qīng dài dào de guānyuán zérèn zhòng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đường nét",
+                            "explain": "线条；细长的痕迹",
+                            "examples": [
+                                {
+                                    "m": "Chị gái cẩn thận vẽ đường ngang.",
+                                    "p_vn": "chi gai can than ve duong ngang.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c627099",
+                                    "id": 134240,
+                                    "type": "e_cnvi",
+                                    "e": "姐姐精心画道横道。",
+                                    "p_cn": "jiejie jingxin hua dao hengdao.",
+                                    "p": "jiějie jīngxīn huà dào héngdào."
+                                },
+                                {
+                                    "m": "Thầy giáo minh họa vẽ đường ngang.",
+                                    "p_vn": "thay giao minh hoa ve duong ngang.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6274ce",
+                                    "id": 134241,
+                                    "type": "e_cnvi",
+                                    "e": "老师示范画道横道。",
+                                    "p_cn": "laoshi shifan hua dao hengdao.",
+                                    "p": "lǎoshī shìfàn huà dào héngdào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Đạo",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy họ Đạo.",
+                                    "p_vn": "anh ay ho dao.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c629453",
+                                    "id": 134244,
+                                    "type": "e_cnvi",
+                                    "e": "他姓道。",
+                                    "p_cn": "ta xing dao.",
+                                    "p": "tā xìng dào."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nói; hỏi",
+                            "explain": "说",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy cười mỉm và nói.",
+                                    "p_vn": "anh ay cuoi mim va noi.",
+                                    "_id": "9938873f438f99a1b005f1005007f9cf",
+                                    "id": 137383,
+                                    "type": "e_cnvi",
+                                    "e": "他微笑着开口道。",
+                                    "p_cn": "ta weixiaozhe kaikou dao.",
+                                    "p": "tā wēixiàozhe kāikǒu dào."
+                                },
+                                {
+                                    "m": "Bạn học cùng lớp thắc mắc hỏi.",
+                                    "p_vn": "ban hoc cung lop thac mac hoi.",
+                                    "_id": "9938873f438f99a1b005f10050080352",
+                                    "id": 137384,
+                                    "type": "e_cnvi",
+                                    "e": "同学疑惑地问道。",
+                                    "p_cn": "tongxue yihuo de wen dao.",
+                                    "p": "tóngxué yíhuò de wèn dào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tỏ ý; bày tỏ; ngỏ lời",
+                            "explain": "用语言表示 (情意)",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy cười và ngỏ lời cảm ơn tới mọi người.",
+                                    "p_vn": "co ay cuoi va ngo loi cam on toi moi nguoi.",
+                                    "_id": "641148288b13f4cf43a85133e844a497",
+                                    "id": 115139,
+                                    "type": "e_cnvi",
+                                    "e": "她微笑着向大家道谢。",
+                                    "p_cn": "ta weixiaozhe xiang dajia daoxie.",
+                                    "p": "tā wēixiàozhe xiàng dàjiā dàoxiè."
+                                },
+                                {
+                                    "m": "Chàng trai chủ động đến ngỏ lời xin lỗi.",
+                                    "p_vn": "chang trai chu dong den ngo loi xin loi.",
+                                    "_id": "641148288b13f4cf43a85133e844a921",
+                                    "id": 115140,
+                                    "type": "e_cnvi",
+                                    "e": "男孩主动过来道歉了。",
+                                    "p_cn": "nanhai zhudong guolai daoqianle.",
+                                    "p": "nánhái zhǔdòng guòlái dàoqiànle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nghĩ; cho rằng; cho là; tưởng là",
+                            "explain": "以为；认为",
+                            "examples": [
+                                {
+                                    "m": "Tôi tưởng là ai, hoá ra là anh.",
+                                    "p_vn": "toi tuong la ai, hoa ra la anh.",
+                                    "_id": "3b53e0542a151ee47b1c9c00a6f5f9de",
+                                    "id": 7593,
+                                    "type": "e_cnvi",
+                                    "e": "我道是谁呢，原来是你。",
+                                    "p_cn": "wo dao shi shei ne, yuanlai shi ni.",
+                                    "p": "wǒ dào shì shéi ne, yuánlái shì nǐ."
+                                },
+                                {
+                                    "m": "Tôi tưởng anh ấy ngủ rồi, hóa ra là giả vờ ngủ.",
+                                    "p_vn": "toi tuong anh ay ngu roi, hoa ra la gia vo ngu.",
+                                    "_id": "641148288b13f4cf43a85133e8453b3a",
+                                    "id": 115162,
+                                    "type": "e_cnvi",
+                                    "e": "我道他睡着了，原来是装睡。",
+                                    "p_cn": "wo dao ta shuizhele, yuanlai shi zhuang shui.",
+                                    "p": "wǒ dào tā shuìzhele, yuánlái shì zhuāng shuì."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "số lượng của một đối tượng cụ thể",
+                            "examples": [
+                                134262,
+                                134263
+                            ],
+                            "struct": "Số từ + 道 + Danh từ (河/沟/闪电/灯光/裂缝)"
+                        }
+                    ],
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "món (lượng từ của món ăn)",
+                            "explain": "量词 （菜）",
+                            "examples": [
+                                {
+                                    "m": "Họ đưa lên bảy món thịt.",
+                                    "p_vn": "ho dua len bay mon thit.",
+                                    "_id": "641148288b13f4cf43a85133e847bdc9",
+                                    "id": 115238,
+                                    "type": "e_cnvi",
+                                    "e": "他们上了七道荤菜。",
+                                    "p_cn": "tamen shangle qidao huncai.",
+                                    "p": "tāmen shàngle qīdào hūncài."
+                                },
+                                {
+                                    "m": "Hôm nay có ba món ngon.",
+                                    "p_vn": "hom nay co ba mon ngon.",
+                                    "_id": "641148288b13f4cf43a85133e847c2bb",
+                                    "id": 115239,
+                                    "type": "e_cnvi",
+                                    "e": "今天上了三道好菜。",
+                                    "p_cn": "jintian shangle san dao hao cai.",
+                                    "p": "jīntiān shàngle sān dào hào cài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dòng; vết; vệt; đạo; sợi; tia (dùng trước từ chỉ sông ngòi, vật có hình dài)",
+                            "explain": "用于江、河和某些长条形的东西; 条",
+                            "examples": [
+                                {
+                                    "m": "Một con sông nằm trước thôn.",
+                                    "p_vn": "mot con song nam truoc thon.",
+                                    "_id": "641148288b13f4cf43a85133e8471967",
+                                    "id": 115221,
+                                    "type": "e_cnvi",
+                                    "e": "一道河横在村前。",
+                                    "p_cn": "yidao he heng zai cun qian.",
+                                    "p": "yīdào hé héng zài cūn qián."
+                                },
+                                {
+                                    "m": "Một tia sáng trắng chợt lóe.",
+                                    "p_vn": "mot tia sang trang chot loe.",
+                                    "_id": "641148288b13f4cf43a85133e8472868",
+                                    "id": 115222,
+                                    "type": "e_cnvi",
+                                    "e": "一道白光突然闪过。",
+                                    "p_cn": "yidao baiguang turan shanguo.",
+                                    "p": "yīdào báiguāng túrán shǎnguò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dòng; vết; vệt; đạo; sợi; tia; đường; vạch (dùng trước từ chỉ sông ngòi, vật có hình dài)",
+                            "explain": "用于门、墙等",
+                            "examples": [
+                                {
+                                    "m": "Ba cánh cửa chia cách phòng.",
+                                    "p_vn": "ba canh cua chia cach phong.",
+                                    "_id": "641148288b13f4cf43a85133e846d34c",
+                                    "id": 115214,
+                                    "type": "e_cnvi",
+                                    "e": "三道门隔开了房间。",
+                                    "p_cn": "san daomen ge kaile fangjian.",
+                                    "p": "sān dàomén gé kāile fángjiān."
+                                },
+                                {
+                                    "m": "Một bức tường cao đứng bên đường.",
+                                    "p_vn": "mot buc tuong cao dung ben duong.",
+                                    "_id": "641148288b13f4cf43a85133e846e2e5",
+                                    "id": 115216,
+                                    "type": "e_cnvi",
+                                    "e": "一道高墙立在路边。",
+                                    "p_cn": "yidao gao qiang li zai lu bian.",
+                                    "p": "yīdào gāo qiáng lì zài lù biān."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đạo; câu; lệnh (chỉ mệnh lệnh, câu hỏi, đề bài)",
+                            "explain": "用于题目、命令等",
+                            "examples": [
+                                {
+                                    "m": "Một câu hỏi làm tôi phiền não.",
+                                    "p_vn": "mot cau hoi lam toi phien nao.",
+                                    "_id": "641148288b13f4cf43a85133e846ac96",
+                                    "id": 115207,
+                                    "type": "e_cnvi",
+                                    "e": "一道题让我很苦恼。",
+                                    "p_cn": "yidao ti rang wo hen kunao.",
+                                    "p": "yīdào tí ràng wǒ hěn kǔnǎo."
+                                },
+                                {
+                                    "m": "Một mệnh lệnh thay đổi tình thế.",
+                                    "p_vn": "mot menh lenh thay doi tinh the.",
+                                    "_id": "641148288b13f4cf43a85133e846b96d",
+                                    "id": 115210,
+                                    "type": "e_cnvi",
+                                    "e": "一道命令改变了局势。",
+                                    "p_cn": "yidao mingling gai bian liao jushi.",
+                                    "p": "yīdào mìnglìng gǎi biàn liǎo júshì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 338,
+                "search": 14966
+            },
+            "snym": {
+                "syno": [
+                    "讲",
+                    "路",
+                    "说",
+                    "谈",
+                    "途",
+                    "叙"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "dào",
+            "cn_vi": "đạo.đáo",
+            "word": "道",
+            "id": 11636,
+            "phonetic": "dao",
+            "rank": 498,
+            "lv_hsk": 2,
+            "lv_tocfl": 4,
+            "compound": "道白 ; 道班 ; 道别 ; 道叢粎 ; 道不拾遗 ; 道岔 ; 道场 ; 道床 ; 道道地地 ; 道道儿 ; 道德 ; 道德规范 ; 道德经 ; 道地 ; 道钉 ; 道乏 ; 道高一尺，魔高一丈 ; 道姑 ; 道观 ; 道光 ; 道贺 ; 道行 ; 道家 ; 道家流 ; 道教 ; 道具 ; 道口 ; 道劳 ; 道理 ; 道里 ; 道林纸 ; 道路 ; 道路以目 ; 道貌岸然 ; 道门 ; 道木 ; 道袍 ; 道破 ; 道歉 ; 道情 ; 道人 ; 道士 ; 道术 ; 道台 ; 道听途说 ; 道统 ; 道途 ; 道喜 ; 道谢 ; 道学 ; 道牙 ; 道义 ; 道院 ; 道藏 ; 道砟 ; 道子"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄠˋㄉㄠˋㄦ˙",
+            "_id": "6d73c0fc877fe6dab6c29fa557484311",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biện pháp; phương pháp; phương cách; cách; chủ ý",
+                            "explain": "办法;主意",
+                            "examples": [
+                                {
+                                    "m": "chỉ cần mọi người chịu khó động não chút là sẽ nghĩ ra được rất nhiều phương cách để hoàn thành nhiệm vụ.",
+                                    "p_vn": "chi can moi nguoi chiu kho dong nao chut la se nghi ra duoc rat nhieu phuong cach de hoan thanh nhiem vu",
+                                    "_id": "a1be1bb56136ee0816e019070e274002",
+                                    "id": 7603,
+                                    "type": "e_cnvi",
+                                    "e": "只要大家肯动脑筋，完成任务的道道儿就多了。",
+                                    "p_cn": "zhiyao dajia ken dong naojin wancheng renwu de daodao er jiu duole",
+                                    "p": "zhǐyào dàjiā kěn dòngnǎojīn，wánchéng rènwù de dàodàoér jìu duō le。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lề lối; cách thức; con đường",
+                            "explain": "门道",
+                            "examples": [
+                                {
+                                    "m": "ngồi nghe cả buổi cũng không nghe ra một cách thức nào cả",
+                                    "p_vn": "ngoi nghe ca buoi cung khong nghe ra mot cach thuc nao ca",
+                                    "_id": "1f3f5afcbc358d3dd0436982357a2869",
+                                    "id": 7604,
+                                    "type": "e_cnvi",
+                                    "e": "听了半天也没听出个道道儿来。",
+                                    "p_cn": "tingle bantian ye mei ting chu ge daodao er lai",
+                                    "p": "tīng le bàntiān yě méi tīng chūgè dàodàoér lái。"
+                                },
+                                {
+                                    "m": "anh không hiểu lề lối ở đây, cho nên phải chú ý.",
+                                    "p_vn": "anh khong hieu le loi o day cho nen phai chu y",
+                                    "_id": "cb6494eea8a88180bd675badb674bcda",
+                                    "id": 7605,
+                                    "type": "e_cnvi",
+                                    "e": "你不懂这里面的道道儿，千万要留神。",
+                                    "p_cn": "ni bu dong zhe limian de daodao er qian wan yao liushen",
+                                    "p": "nǐ bù dǒng zhè lǐmiàn de dàodàoér，qiānwàn yào líushén。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "đạo đạo nhi",
+            "pinyin": "dàodao er",
+            "word": "道道儿",
+            "id": 11647,
+            "phonetic": "daodaoer",
+            "rank": 87399,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄖㄣˊㄓㄇㄧㄢˋㄅㄨˋㄓㄒㄧㄣ",
+            "_id": "3870b0c6c82f4d5abb76b586f1f185dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "người ta có thể biết một người trong một thời gian dài mà không hiểu bản chất thực sự của người đó (thành ngữ)",
+                            "explain": "one may know a person for a long time without understanding his true nature (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 30,
+                "search": 263
+            },
+            "snym": null,
+            "cn_vi": "tri nhân tri diện bất tri tâm",
+            "pinyin": "zhīrén zhī miàn bùzhī xīn",
+            "word": "知人知面不知心",
+            "id": 146103,
+            "phonetic": "zhirenzhimianbuzhixin",
+            "rank": 24048,
+            "kind": [
+                "proverb"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "080b313c89ec41499e1c7a92768df237",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Biết việc xảy ra mà la lớn lên cho mọi người biết. Truyện Trê Cóc : » Trê liền quát mắng tri hô vang rầm «.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tri hô",
+            "pinyin": "zhī hū",
+            "word": "知呼",
+            "id": 169022,
+            "phonetic": "zhihu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄡˊㄓ",
+            "_id": "37e456d999b383e1a0b735fe3f336e6a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ham học hỏi; học hỏi; tìm tòi; nghiên cứu; hiếu học",
+                            "explain": "探求知识",
+                            "examples": [
+                                {
+                                    "m": "ham học hỏi.",
+                                    "p_vn": "ham hoc hoi",
+                                    "_id": "0ff07d98bd5dcbfddf00a0ad8e547ee4",
+                                    "id": 32912,
+                                    "type": "e_cnvi",
+                                    "e": "求知欲。",
+                                    "p_cn": "qiuzhi yu",
+                                    "p": "qíuzhīyù。"
+                                },
+                                {
+                                    "m": "tinh thần ham học hỏi.",
+                                    "p_vn": "tinh than ham hoc hoi",
+                                    "_id": "12d9ec31cca338df393c65b86ea09587",
+                                    "id": 32913,
+                                    "type": "e_cnvi",
+                                    "e": "求知精神。",
+                                    "p_cn": "qiuzhi jingshen",
+                                    "p": "qíuzhī jīngshén。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 460
+            },
+            "snym": {
+                "syno": [
+                    "求学",
+                    "求索"
+                ]
+            },
+            "cn_vi": "cầu tri",
+            "pinyin": "qiúzhī",
+            "word": "求知",
+            "id": 43503,
+            "phonetic": "qiuzhi",
+            "rank": 16813,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄑㄩˋ",
+            "_id": "553e51f523b802327a869ca8a9637c82",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "biết điều; biết lẽ phải; khôn hồn",
+                            "explain": "知道进退，不惹人讨厌",
+                            "examples": [
+                                {
+                                    "m": "người ta từ chối, anh ấy vẫn đến quấy rầy, thật không biết điều.",
+                                    "p_vn": "nguoi ta tu choi anh ay van den quay ray that khong biet dieu",
+                                    "_id": "ce890b0e40a739e07a3d5204954a7c09",
+                                    "id": 50115,
+                                    "type": "e_cnvi",
+                                    "e": "人家拒绝了，他还一再去纠缠，真不知趣。",
+                                    "p_cn": "renjia jujuele ta huan yizai qu jiuchan zhen buzhi qu",
+                                    "p": "rénjiā jùjué le，tā huán yīzài qù jīuchán，zhēn bù zhīqù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 164
+            },
+            "snym": {
+                "syno": [
+                    "识相"
+                ],
+                "anto": [
+                    "乏味"
+                ]
+            },
+            "cn_vi": "tri thú",
+            "pinyin": "zhīqù",
+            "word": "知趣",
+            "id": 64435,
+            "phonetic": "zhiqu",
+            "rank": 31768,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0f73119a49c442ab97ff572b977cadbd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "truy nguyên; nghiên cứu đến cùng để biết nguồn gốc của sự vật (cách gọi ở cuối thời Thanh, Trung Quốc) 。穷究事物的原理法则而总结为理性知识。",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "nghiên cứu đến cùng để biết nguồn gốc của sự vật",
+                                    "p_vn": "nghien cuu den cung de biet nguon goc cua su vat",
+                                    "_id": "94a589d9724f07a7e9765752cc45f75f",
+                                    "id": 13573,
+                                    "type": "e_cnvi",
+                                    "e": "格物致知",
+                                    "p_cn": "gewu zhizhi",
+                                    "p": "géwùzhìzhī"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "trí tri",
+            "pinyin": "zhìzhī",
+            "word": "致知",
+            "id": 171381,
+            "phonetic": "zhizhi",
+            "rank": 79081,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄩˋ",
+            "_id": "0ecde0a47301fe1be311ab97e21baf58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tri ngộ (chỉ được thưởng thức hoặc trọng dụng)",
+                            "explain": "指得到赏识或重用",
+                            "examples": [
+                                {
+                                    "m": "tình tri ngộ",
+                                    "p_vn": "tinh tri ngo",
+                                    "_id": "7ededed48142445578456fde3477b8c3",
+                                    "id": 50122,
+                                    "type": "e_cnvi",
+                                    "e": "知遇之感。",
+                                    "p_cn": "zhiyu zhi gan",
+                                    "p": "zhīyù zhīgǎn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 45
+            },
+            "snym": null,
+            "cn_vi": "tri ngộ",
+            "pinyin": "zhīyù",
+            "word": "知遇",
+            "id": 64451,
+            "phonetic": "zhiyu",
+            "rank": 60703,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄠˋㄓ",
+            "_id": "3c073126ae190af21ed9410aed0fa426",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "báo cho biết; cho biết; cho hay",
+                            "explain": "告诉使知道",
+                            "examples": [
+                                {
+                                    "m": "Tôi chắc chắn sẽ nói với Johann Sebastian Bach rằng bạn đã nói như vậy.",
+                                    "p_vn": "Toi chac chan se noi voi Johann Sebastian Bach rang ban da noi nhu vay.",
+                                    "_id": "1e530dc426f04fe3aec3832c025f3911",
+                                    "id": 56567,
+                                    "type": "e_cnvi",
+                                    "e": "我会告知约翰·塞巴斯蒂安·巴赫您的评价",
+                                    "p_cn": "wohui gaozhi yuehan * saibasidian * bahe nin de pingjia",
+                                    "p": "wǒhùi gàozhī yuēhàn · sāibāsīdìān · bāhè nín de píngjià"
+                                },
+                                {
+                                    "m": "Đồng thời, bạn cũng có thể cho chúng tôi biết về nhu cầu mua sắm của bạn và chúng tôi có thể cung cấp dịch vụ mua hộ hàng tại cửa hàng tiện lợi.",
+                                    "p_vn": "Dong thoi, ban cung co the cho chung toi biet ve nhu cau mua sam cua ban va chung toi co the cung cap dich vu mua ho hang tai cua hang tien loi.",
+                                    "_id": "8d74de8dfdbaa9abd9a7951be114601d",
+                                    "id": 53592,
+                                    "type": "e_cnvi",
+                                    "e": "同时,您也可将购物需求告知我们,我们可提供便利店代购服务。",
+                                    "p_cn": "Dong thoi, ban cung co the cho chung toi biet ve nhu cau mua sam cua ban va chung toi co the cung cap dich vu mua ho hang tai cua hang tien loi.",
+                                    "p": "Tóngshí, nín yě kě jiāng gòuwù xūqiú gàozhī wǒmen, wǒmen kě tígōng biànlì diàn dàigòu fúwù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "méc; mách",
+                            "explain": "受害人向法院告发",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 93,
+                "search": 1279
+            },
+            "snym": {
+                "syno": [
+                    "见知",
+                    "示知",
+                    "通知",
+                    "见告",
+                    "奉告",
+                    "敬告",
+                    "报晓",
+                    "授意",
+                    "报知"
+                ],
+                "anto": [
+                    "隐瞒"
+                ]
+            },
+            "cn_vi": "cáo tri",
+            "pinyin": "gàozhī",
+            "word": "告知",
+            "id": 19009,
+            "phonetic": "gaozhi",
+            "rank": 8060,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄐㄧㄠ",
+            "_id": "7ea9f1aee5628379e51898a716a041dd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tri giao; bạn tri kỷ; bạn thân; quen lớn",
+                            "explain": "知己的朋友",
+                            "examples": [
+                                {
+                                    "m": "anh ấy là bạn thân của tôi thời trung học.",
+                                    "p_vn": "anh ay la ban than cua toi thoi trung hoc",
+                                    "_id": "79acb36dcb5a2a3f9bce644b8745d1b4",
+                                    "id": 50102,
+                                    "type": "e_cnvi",
+                                    "e": "他是我中学时代的知交。",
+                                    "p_cn": "ta shi wo zhongxue shidai de zhijiao",
+                                    "p": "tā shì wǒ zhōngxué shídài de zhījiāo。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thâm giao",
+                            "explain": "深密交往",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 70
+            },
+            "snym": {
+                "syno": [
+                    "深交",
+                    "厚交",
+                    "知心",
+                    "至友",
+                    "好友",
+                    "挚友",
+                    "知音",
+                    "老友",
+                    "密友",
+                    "知友",
+                    "知己",
+                    "心腹"
+                ]
+            },
+            "cn_vi": "tri giao",
+            "pinyin": "zhījiāo",
+            "word": "知交",
+            "id": 64424,
+            "phonetic": "zhijiao",
+            "rank": 49712,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥˊㄓ",
+            "_id": "84aa95d105ad4950a992e7bdf2b28c5f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quận trưởng (cũ)",
+                            "explain": "government sub-prefect (old)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "đồng tri",
+            "pinyin": "tóng zhī",
+            "word": "同知",
+            "id": 101943,
+            "phonetic": "tongzhi",
+            "rank": 80245,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄢㄓ",
+            "_id": "db1749a2bce84c7fba8519ca82580a40",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(văn học) làm thế nào là một để biết?",
+                            "explain": "(literary) how is one to know?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 65
+            },
+            "snym": null,
+            "cn_vi": "yên tri",
+            "pinyin": "yān zhī",
+            "word": "焉知",
+            "id": 98295,
+            "phonetic": "yanzhi",
+            "rank": 51236,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄒㄧㄢˋ",
+            "_id": "8cca78807ee8cc2b90aae78bef3a3385",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tri huyện; quan huyện; huyện",
+                            "explain": "宋代多用中央机关的官做县官，称'知某县事'，简称知县，明清两代用做一县长官的正式名称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 91
+            },
+            "snym": null,
+            "cn_vi": "tri huyện",
+            "pinyin": "zhīxiàn",
+            "word": "知县",
+            "id": 64445,
+            "phonetic": "zhixian",
+            "rank": 43682,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄇㄨˇ",
+            "_id": "b1a41d6d32f7411389fbc0403d8dc7a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Anemarrhena asphodeloides; cây tri mẫu",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vần của Anemarrhena (được sử dụng trong TCM)",
+                            "explain": "rhyzome of Anemarrhena (used in TCM)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "tri mẫu",
+            "pinyin": "zhī mǔ",
+            "word": "知母",
+            "id": 92768,
+            "phonetic": "zhimu",
+            "rank": 63087,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9045cf93e0df45fe940c96cde0636ea3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giác",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "giác tri",
+            "pinyin": "jué zhī",
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "word": "觉知",
+            "id": 181838,
+            "phonetic": "juezhi",
+            "rank": 101738,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄎㄜˋ",
+            "_id": "928665852fd029ffce4f562029499790",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người tiếp khách; lễ tân",
+                            "explain": "旧时帮助办喜事或丧事的人家招待宾客的人有的地区叫知宾",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vị sư tiếp khách; tri khách tăng (trong chùa chiền)",
+                            "explain": "寺院中主管接待宾客的和尚也叫知客僧",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 84
+            },
+            "snym": null,
+            "cn_vi": "tri khách",
+            "pinyin": "zhīkè",
+            "word": "知客",
+            "id": 64427,
+            "phonetic": "zhike",
+            "rank": 45312,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄤㄓ",
+            "_id": "7aa1940f8d5244c5a47199276af8fe49",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chỉ để nhận ra sau đó",
+                            "explain": "to realize only then",
+                            "examples": [
+                                {
+                                    "m": "tôi hỏi đến mới biết đầu đuôi.",
+                                    "p_vn": "toi hoi den moi biet dau duoi",
+                                    "_id": "6d1b8f9f40cc06cd7f705a5e7c422a4b",
+                                    "id": 9466,
+                                    "type": "e_cnvi",
+                                    "e": "我一问起，方知端的。",
+                                    "p_cn": "wo yi wen qi fang zhi duandi",
+                                    "p": "wǒ yī wèn qǐ, fāng zhī duāndì."
+                                },
+                                {
+                                    "m": "Võ Tòng đọc xong bảng cáo thị, mới biết quả thực có hổ.",
+                                    "p_vn": "vo tong doc xong bang cao thi moi biet qua thuc co ho",
+                                    "_id": "ab820106af7c28623f2c07649190da16",
+                                    "id": 9464,
+                                    "type": "e_cnvi",
+                                    "e": "武松读了印信榜文，方知端的有虎。",
+                                    "p_cn": "wusong dule yinxin bang wen fang zhi duandi you hu",
+                                    "p": "wǔsōng dúle yìnxìn bǎng wén, fāng zhī duāndì yǒu hǔ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 55
+            },
+            "snym": null,
+            "cn_vi": "phương tri",
+            "pinyin": "fāng zhī",
+            "word": "方知",
+            "id": 103415,
+            "phonetic": "fangzhi",
+            "rank": 55423,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄏㄨㄟˋ",
+            "_id": "800e01c823c6a093a818269992962da5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thông báo; báo cho biết",
+                            "explain": "通知;告诉",
+                            "examples": [
+                                {
+                                    "m": "Anh báo cho anh ấy biết trước, để anh ấy chuẩn bị sớm một tí.",
+                                    "p_vn": "anh bao cho anh ay biet truoc, de anh ay chuan bi som mot ti.",
+                                    "_id": "0405ed32c9f369da9caef85140de9dac",
+                                    "id": 50098,
+                                    "type": "e_cnvi",
+                                    "e": "你先去知会他一声，让他早一点儿准备。",
+                                    "p_cn": "ni xian qu zhihui ta yisheng，rang ta zao yidianr zhunbei。",
+                                    "p": "nǐ xiān qù zhīhùi tā yīshēng，ràng tā zǎo yīdiǎnr zhǔnbèi。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 138
+            },
+            "snym": {
+                "syno": [
+                    "禀告",
+                    "周知"
+                ]
+            },
+            "cn_vi": "tri hội",
+            "pinyin": "zhī hui",
+            "word": "知会",
+            "id": 64421,
+            "phonetic": "zhihui",
+            "rank": 35074,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄣㄓ",
+            "_id": "d31aab66b6f997241a8d75ec637290d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "tự biết",
+                            "explain": "亲身知道",
+                            "examples": [
+                                {
+                                    "m": "người thực sự biết mình là người thực tiễn trong thiên hạ.",
+                                    "p_vn": "nguoi thuc su biet minh la nguoi thuc tien trong thien ha",
+                                    "_id": "911477e869de19e850d43152bf7be4ee",
+                                    "id": 32445,
+                                    "type": "e_cnvi",
+                                    "e": "真正亲知的是天下实践着的人。",
+                                    "p_cn": "zhenzheng qin zhi de shi tianxia shijianzhe de ren",
+                                    "p": "zhēnzhèng qīn zhī de shì tiānxià shíjiànzhe de rén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thân hữu; bạn thân",
+                            "explain": "亲友",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thân tri",
+                            "explain": "亲戚朋友",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "thân tri",
+            "pinyin": "qīn zhī",
+            "word": "亲知",
+            "id": 42911,
+            "phonetic": "qinzhi",
+            "rank": 102664,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄐㄧㄣˋ",
+            "_id": "d98270ce48507068ed24b760d7eaec9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tri kỷ; tri âm",
+                            "explain": "彼此相互了解而关系亲近",
+                            "examples": [
+                                {
+                                    "m": "bạn tri kỷ",
+                                    "p_vn": "ban tri ky",
+                                    "_id": "82048569833cfc3aac49e12c2a899e47",
+                                    "id": 50103,
+                                    "type": "e_cnvi",
+                                    "e": "知近的朋友。",
+                                    "p_cn": "zhi jin de pengyou",
+                                    "p": "zhījìn de péngyǒu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "tri cận",
+            "pinyin": "zhī jìn",
+            "word": "知近",
+            "id": 64425,
+            "phonetic": "zhijin",
+            "rank": 110107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄓ",
+            "_id": "441913a1b9c714caca7a6806aafc1611",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "suy ra; biết được; tính được (qua suy luận hoặc tính toán mà biết được)",
+                            "explain": "经过推论或推算而知道",
+                            "examples": [
+                                {
+                                    "m": "từ đây có thể suy ra những cái còn lại.",
+                                    "p_vn": "tu day co the suy ra nhung cai con lai",
+                                    "_id": "5a386b4163b3a4966505f4fcada69cce",
+                                    "id": 39763,
+                                    "type": "e_cnvi",
+                                    "e": "由此可以推知其余。",
+                                    "p_cn": "you ci keyi tuizhi qiyu",
+                                    "p": "yóucǐ kěyǐ tūizhī qíyú。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 59
+            },
+            "snym": {
+                "syno": [
+                    "推敲",
+                    "得知"
+                ]
+            },
+            "cn_vi": "thôi tri",
+            "pinyin": "tuīzhī",
+            "word": "推知",
+            "id": 51917,
+            "phonetic": "tuizhi",
+            "rank": 53595,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄇㄧㄥˋ",
+            "_id": "5ae812c756b912816746bf10ab41775e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hiểu số mệnh con người; hiểu vận mệnh",
+                            "explain": "了解天命;认识命运",
+                            "examples": [
+                                {
+                                    "m": "vui với số mệnh trời cho.",
+                                    "p_vn": "vui voi so menh troi cho",
+                                    "_id": "71492d9dc4593b18eb6a0a4e5c5d2f8c",
+                                    "id": 50109,
+                                    "type": "e_cnvi",
+                                    "e": "乐天知命",
+                                    "p_cn": "letianzhiming",
+                                    "p": "lètiānzhīmìng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "người năm mươi tuổi",
+                            "explain": "《论语·为政》：''五十而知天命''后来用''知命''指人五十岁",
+                            "examples": [
+                                {
+                                    "m": "năm năm mươi tuổi.",
+                                    "p_vn": "nam nam muoi tuoi",
+                                    "_id": "01acd83bf51009ebe05f4cdf7e8130f1",
+                                    "id": 50110,
+                                    "type": "e_cnvi",
+                                    "e": "知命之年",
+                                    "p_cn": "zhiming zhi nian",
+                                    "p": "zhīmìngzhīnián"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "tri mệnh",
+            "pinyin": "zhīmìng",
+            "word": "知命",
+            "id": 64431,
+            "phonetic": "zhiming",
+            "rank": 99612,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄗㄨㄟˋ",
+            "_id": "73c7219902e04d4ea597351aeee188e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biết tội; biết lỗi",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Việc nhận tội của bị cáo không phụ thuộc vào việc anh ta chối tội, mà phụ thuộc vào việc có bằng chứng để chứng minh tội của anh ta hay không.",
+                                    "p_vn": "Viec nhan toi cua bi cao khong phu thuoc vao viec anh ta choi toi, ma phu thuoc vao viec co bang chung de chung minh toi cua anh ta hay khong.",
+                                    "_id": "dd4df0f91759411c88013a25fd6bdbf3",
+                                    "id": 67895,
+                                    "type": "e_cnvi",
+                                    "e": "被告人是否有罪，不取决于他是否知罪，而取决于是否有证据证明他有罪",
+                                    "p_cn": "Beigao ren shifou youzui, bu qujue yu ta shifou zhi zui, er qujue yu shifou you zhengju zhengming ta youzui",
+                                    "p": "Bèigào rén shìfǒu yǒuzuì, bù qǔjué yú tā shìfǒu zhī zuì, ér qǔjué yú shìfǒu yǒu zhèngjù zhèngmíng tā yǒuzuì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tri tội",
+            "pinyin": "zhī zuì",
+            "word": "知罪",
+            "id": 152966,
+            "phonetic": "zhizui",
+            "rank": 119737,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄧㄡ˙",
+            "_id": "7965998ad87a943431a9d6ede50d9e56",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tri kỷ; bạn thân; tri âm; bạn tâm giao",
+                            "explain": "相互了解的朋友",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 34
+            },
+            "snym": {
+                "syno": [
+                    "相知",
+                    "知心",
+                    "好友",
+                    "知交",
+                    "挚友",
+                    "知音",
+                    "老友",
+                    "密友",
+                    "知己",
+                    "心腹"
+                ]
+            },
+            "cn_vi": "tri hữu",
+            "pinyin": "zhī yǒu",
+            "word": "知友",
+            "id": 64450,
+            "phonetic": "zhiyou",
+            "rank": 68013,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄓㄡ",
+            "_id": "063c2e84df9b4ec05d1ca141fd23644f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tri châu",
+                            "explain": "宋代多用中央机关的官做州官，称'权知某军州事'，简称知州明清两代用作一州长官的正式名称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "tri châu",
+            "pinyin": "zhīzhōu",
+            "word": "知州",
+            "id": 64453,
+            "phonetic": "zhizhou",
+            "rank": 86851,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "64",
+            "zhuyin": "ㄌㄧㄤˊㄓ",
+            "_id": "4fc8c28496a746adb58bc972a9511e64",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bạn thân",
+                            "explain": "bosom friend",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lương tâm",
+                            "explain": "conscience",
+                            "examples": [
+                                {
+                                    "m": "Anh ta không có lương tâm.",
+                                    "p_vn": "Anh ta khong co luong tam.",
+                                    "_id": "0702e40bc8cf4aadbedd9d84f7805692",
+                                    "id": 65578,
+                                    "type": "e_cnvi",
+                                    "e": "他没有良知",
+                                    "p_cn": "ta meiyou liangzhi",
+                                    "p": "tā méiyǒu liángzhī"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ý thức bẩm sinh về đúng và sai",
+                            "explain": "innate sense of right and wrong",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lương tri",
+                            "explain": "指对是非的内心的正确认识, 特别是跟自己的行为有关的",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 215
+            },
+            "snym": {
+                "syno": [
+                    "良心",
+                    "知己"
+                ]
+            },
+            "cn_vi": "lương tri",
+            "pinyin": "liángzhī",
+            "word": "良知",
+            "id": 108869,
+            "phonetic": "liangzhi",
+            "rank": 27157,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄜˇㄓ",
+            "_id": "4f7dafdd5d7140be97da2e007848565a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "rõ ràng",
+                            "explain": "clearly",
+                            "examples": [
+                                {
+                                    "m": "rõ ràng có thể nhìn thấy được.",
+                                    "p_vn": "ro rang co the nhin thay duoc.",
+                                    "_id": "183ba172ff9355fbeb346b04f5c5650f",
+                                    "id": 22183,
+                                    "type": "e_cnvi",
+                                    "e": "居然可知。",
+                                    "p_cn": "juran kezhi。",
+                                    "p": "jūrán kězhī。"
+                                },
+                                {
+                                    "m": "Từ đó có thể biết được.",
+                                    "p_vn": "tu do co the biet duoc.",
+                                    "_id": "7582f21499edb9dbe2a274fac84cd8b8",
+                                    "id": 46559,
+                                    "type": "e_cnvi",
+                                    "e": "由此可知。",
+                                    "p_cn": "youcikezhi。",
+                                    "p": "yóucǐkězhī。"
+                                },
+                                {
+                                    "m": "từ đó có thể biết.",
+                                    "p_vn": "tu do co the biet",
+                                    "_id": "ae78746ad0ba3da829cb9e07b7fc8e27",
+                                    "id": 36034,
+                                    "type": "e_cnvi",
+                                    "e": "由是可知。",
+                                    "p_cn": "you shi kezhi",
+                                    "p": "yóu shì kězhī。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hiển nhiên",
+                            "explain": "evidently",
+                            "examples": []
+                        },
+                        {
+                            "mean": "có thể biết được",
+                            "explain": "knowable",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không có thắc mắc",
+                            "explain": "no wonder",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 139
+            },
+            "snym": {
+                "anto": [
+                    "未知"
+                ]
+            },
+            "cn_vi": "khả tri",
+            "pinyin": "kězhī",
+            "word": "可知",
+            "id": 90497,
+            "phonetic": "kezhi",
+            "rank": 34840,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄓ",
+            "_id": "56c035beabcd806199e7237e1b6f947f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "名",
+                    "means": [
+                        {
+                            "mean": "cần biết; điều cần biết",
+                            "explain": "对所从事的活动必须知道的事项 (多用做通告或指导性文件的名称)",
+                            "examples": [
+                                {
+                                    "m": "du khách cần biết",
+                                    "p_vn": "du khach can biet",
+                                    "_id": "65e78b4bf997f3d103b3fee4c741962d",
+                                    "id": 43304,
+                                    "type": "e_cnvi",
+                                    "e": "游览须知",
+                                    "p_cn": "youlan xuzhi",
+                                    "p": "yóulǎn xūzhī"
+                                },
+                                {
+                                    "m": "đi thi cần biết",
+                                    "p_vn": "di thi can biet",
+                                    "_id": "76976d8a56880a51321d1a86ae052d8a",
+                                    "id": 43305,
+                                    "type": "e_cnvi",
+                                    "e": "考试须知",
+                                    "p_cn": "kaoshi xuzhi",
+                                    "p": "kǎoshì xūzhī"
+                                },
+                                {
+                                    "m": "đại hội cần biết",
+                                    "p_vn": "dai hoi can biet",
+                                    "_id": "9eaca4ea9a4074d549e530db7d8db5b7",
+                                    "id": 43306,
+                                    "type": "e_cnvi",
+                                    "e": "大会须知",
+                                    "p_cn": "dahui xuzhi",
+                                    "p": "dàhùi xūzhī"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "动",
+                    "means": [
+                        {
+                            "mean": "cần biết; nhất định phải biết",
+                            "explain": "一定要知道",
+                            "examples": [
+                                {
+                                    "m": "nhất thiết phải biết cái khó khăn của việc trồng trọt.",
+                                    "p_vn": "nhat thiet phai biet cai kho khan cua viec trong trot",
+                                    "_id": "62c45bfe5b8d1e411ddbfbfc22bcbb65",
+                                    "id": 43307,
+                                    "type": "e_cnvi",
+                                    "e": "须知稼穑之不易。",
+                                    "p_cn": "xuzhi jiase zhi buyi",
+                                    "p": "xūzhī jiàsè zhī bùyì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 88,
+                "search": 507
+            },
+            "snym": null,
+            "cn_vi": "tu tri",
+            "pinyin": "xūzhī",
+            "lv_hsk_new": "6",
+            "word": "须知",
+            "id": 57114,
+            "phonetic": "xuzhi",
+            "rank": 15803,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˊㄓ",
+            "topic": "58, 64",
+            "_id": "ae95fde837a447ee4918892e0adffb93",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "mít đặc; vô tri; tịt mít; không biết gì; không có tri thức; dốt đặc cán mai",
+                            "explain": "缺乏知识;不明事理一窍不通",
+                            "examples": [
+                                {
+                                    "m": "tối tăm dốt nát.",
+                                    "p_vn": "toi tam dot nat",
+                                    "_id": "0760df1cf1a75e36a07bfddc9980b43c",
+                                    "id": 28479,
+                                    "type": "e_cnvi",
+                                    "e": "蒙昧无知。",
+                                    "p_cn": "mengmei wuzhi",
+                                    "p": "méngmèiwúzhī。"
+                                },
+                                {
+                                    "m": "ngu xuẩn không biết gì",
+                                    "p_vn": "ngu xuan khong biet gi",
+                                    "_id": "3da462613af7350ea0b3dbbf192be4e0",
+                                    "id": 47059,
+                                    "type": "e_cnvi",
+                                    "e": "愚蠢无知",
+                                    "p_cn": "yuchun wuzhi",
+                                    "p": "yúchǔn wúzhī"
+                                },
+                                {
+                                    "m": "ngu dốt nói xằng; không biết gì chỉ nói xằng",
+                                    "p_vn": "ngu dot noi xang; khong biet gi chi noi xang",
+                                    "_id": "4dde4ada87e2347ec6818c31cef85b7e",
+                                    "id": 40368,
+                                    "type": "e_cnvi",
+                                    "e": "无知妄说",
+                                    "p_cn": "wuzhi wangshuo",
+                                    "p": "wúzhīwàngshuō"
+                                },
+                                {
+                                    "m": "ngu dốt",
+                                    "p_vn": "ngu dot",
+                                    "_id": "6a04b81c5bcc2e239aad4cd24f7557f6",
+                                    "id": 47065,
+                                    "type": "e_cnvi",
+                                    "e": "愚昧无知",
+                                    "p_cn": "yumei wuzhi",
+                                    "p": "yúmèiwúzhī"
+                                },
+                                {
+                                    "m": "lờ mờ chẳng biết gì.",
+                                    "p_vn": "lo mo chang biet gi.",
+                                    "_id": "8bb7cac164b4f010ef7adf93b29130e1",
+                                    "id": 28484,
+                                    "type": "e_cnvi",
+                                    "e": "懵然无知。",
+                                    "p_cn": "mengranwuzhi。",
+                                    "p": "měngránwúzhī。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 107,
+                "search": 1536
+            },
+            "snym": {
+                "syno": [
+                    "蒙昧",
+                    "迂曲",
+                    "愚蠢",
+                    "愚笨",
+                    "愚昧",
+                    "愚味",
+                    "不谙"
+                ],
+                "anto": [
+                    "博学",
+                    "知识",
+                    "知晓",
+                    "经验"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "wúzhī",
+            "cn_vi": "vô tri",
+            "word": "无知",
+            "id": 53862,
+            "phonetic": "wuzhi",
+            "rank": 6910,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄢˋㄓ",
+            "_id": "ae4ff74afb4a4099a954642ed012c69b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để xác định",
+                            "explain": "to ascertain",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tim ra",
+                            "explain": "to find out",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để có được một ý tưởng về",
+                            "explain": "to get an idea of",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "tham tri",
+            "pinyin": "tànzhī",
+            "word": "探知",
+            "id": 97002,
+            "phonetic": "tanzhi",
+            "rank": 64726,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Bǎ",
+                "examples": "创意是把已知的元素用不凡的方式结合的能力。\nChuàngyì shì bǎ yǐ zhī de yuánsù yòng bùfán de fāngshì jiéhé de nénglì.\nSáng tạo là khả năng kết hợp các yếu tố đã biết theo những cách phi thường.",
+                "measure": "把"
+            },
+            "zhuyin": "ㄧˇㄓ",
+            "_id": "b41b2e0f67674cc59911d62896a5a534",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "được biết đến (đối với khoa học)",
+                            "explain": "known (to science)",
+                            "examples": [
+                                {
+                                    "m": "Các cộng sự Yakuza được biết đến của Michael Noshimuri.",
+                                    "p_vn": "Cac cong su Yakuza duoc biet den cua Michael Noshimuri.",
+                                    "_id": "f78ec9f76aa842009e8610abe2cb9419",
+                                    "id": 57005,
+                                    "type": "e_cnvi",
+                                    "e": "所有已知的同伙",
+                                    "p_cn": "suoyou yizhi de tonghuo",
+                                    "p": "suǒyǒu yǐzhī de tónghuǒ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dữ kiện",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 172
+            },
+            "snym": null,
+            "cn_vi": "dĩ tri",
+            "pinyin": "yǐ zhī",
+            "word": "已知",
+            "id": 91156,
+            "phonetic": "yizhi",
+            "rank": 30941,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄨㄟㄓ",
+            "_id": "c93075bfa7f1400e8130b12a572ab83e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khám phá",
+                            "explain": "to discover",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tìm hiểu về",
+                            "explain": "to find out about",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 118
+            },
+            "snym": null,
+            "cn_vi": "khuy tri",
+            "pinyin": "kuī zhī",
+            "word": "窥知",
+            "id": 98973,
+            "phonetic": "kuizhi",
+            "rank": 38162,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "tong",
+                "examples": "他把交通事故通知了警察。",
+                "measure": "通"
+            },
+            "zhuyin": "ㄓㄌㄜ˙",
+            "_id": "e18d57330c4081a1f60657f8b50336ce",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ve sầu",
+                            "explain": "蚱蝉的俗称，因叫的声音像'知了'而得名",
+                            "examples": [
+                                {
+                                    "m": "chất lượng hàng hoá danh tiếng chưa được ổn định, hàng tạp hiệu thì càng ngày càng kém.",
+                                    "p_vn": "chat luong hang hoa danh tieng chua duoc on dinh hang tap hieu thi cang ngay cang kem",
+                                    "_id": "805e0e6913f79c0b6303ed3ccdbad2e6",
+                                    "id": 7830,
+                                    "type": "e_cnvi",
+                                    "e": "名牌货质量还不稳定，等而下之的杂牌货就可想而知了。",
+                                    "p_cn": "mingpai huo zhiliang hai bu wending dengerxiazhi di zapai huo jiu ke xiang er zhiliao",
+                                    "p": "míngpái huò zhìliàng hái bù wěndìng, děng'érxiàzhī dì zápái huò jiù kě xiǎng ér zhīliǎo."
+                                },
+                                {
+                                    "m": "tôi đi báo cho anh ấy biết trước đã, sau đó mới báo cho anh.",
+                                    "p_vn": "toi di bao cho anh ay biet truoc da sau do moi bao cho anh",
+                                    "_id": "928d043f62547bdaa0e0c111616d2d2e",
+                                    "id": 15774,
+                                    "type": "e_cnvi",
+                                    "e": "我先去通知了他，过后才来通知你的。",
+                                    "p_cn": "wo xian qu tongzhiliao ta guohou cai lai tongzhi ni de",
+                                    "p": "wǒ xiān qù tōngzhīliǎo tā, guòhòu cái lái tōngzhī nǐ de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 294
+            },
+            "snym": {
+                "syno": [
+                    "知道",
+                    "了解"
+                ]
+            },
+            "cn_vi": "tri liễu",
+            "pinyin": "zhīliǎo",
+            "word": "知了",
+            "id": 64428,
+            "phonetic": "zhiliao",
+            "rank": 22482,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "知道"
+}

@@ -1,0 +1,2231 @@
+{
+    "total": 2065,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "fèn, gè, fēn, xiàng",
+                "examples": "",
+                "measure": "份, 个, 分, 项"
+            },
+            "topic": "43, 59, 67, 75",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "674ed8c4635be04107bbcd109bec5c98",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "tiến hành/ bắt đầu/ dừng/ tham gia+ làm việc",
+                            "examples": [
+                                93049,
+                                93050
+                            ],
+                            "struct": "Động từ (进行/ 开始/ 停止/ 参加) + 工作"
+                        },
+                        {
+                            "explain": "làm việc rất/ vô cùng + chăm chỉ/ tích cực/ nỗ lực/ thuận lợi",
+                            "examples": [
+                                93051,
+                                36803
+                            ],
+                            "struct": "工作 + 很/太/非常 + 认真/ 积极/ 努力/ 顺利"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm việc; làm",
+                            "explain": "从事体力或脑力劳动，也泛指机器、工具受人操纵而发挥生产作用",
+                            "examples": [
+                                {
+                                    "m": "Máy xúc đất đang làm việc.",
+                                    "p_vn": "may xuc dat dang lam viec.",
+                                    "_id": "f353584826de3df0f8fc3e27b665756c",
+                                    "id": 13934,
+                                    "type": "e_cnvi",
+                                    "e": "铲土机正在工作",
+                                    "p_cn": "chantuji zhengzai gongzuo",
+                                    "p": "chǎntǔjī zhèngzài gōngzuò"
+                                },
+                                {
+                                    "m": "Tôi làm việc ở ngân hàng.",
+                                    "p_vn": "toi làm viẹc ỏ ngan hàng.",
+                                    "_id": "aee13672ea471817b581457d9bdaaaac",
+                                    "id": 74050,
+                                    "e": "我在银行工作。",
+                                    "p_cn": "wo zai yinhang gongzuo.",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ zài yínháng gōngzuò."
+                                },
+                                {
+                                    "m": "Anh ấy làm việc cả một ngày.",
+                                    "p_vn": "anh áy làm viẹc cả mọt ngày.",
+                                    "_id": "aee13672ea471817b581457d9bdab58d",
+                                    "id": 74051,
+                                    "e": "他工作了一整天。",
+                                    "p_cn": "ta gongzuole yi zheng tian.",
+                                    "type": "e_cnvi",
+                                    "p": "tā gōngzuòle yī zhěng tiān."
+                                },
+                                {
+                                    "m": "Tôi thích bắt đầu làm việc trước 9 giờ.",
+                                    "p_vn": "toi thich bat dau lam viec truoc 9 gio.",
+                                    "_id": "aee13672ea471817b581457d9bdac42f",
+                                    "id": 74052,
+                                    "e": "我喜欢在9点之前开始工作。",
+                                    "p_cn": "wo xihuan zai 9 dian zhiqian kaishi gongzuo.",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ xǐhuan zài 9 diǎn zhīqián kāishǐ gōngzuò."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "công việc + tốt/ phù hợp/ vừa ý/ ổn định",
+                            "examples": [
+                                93052,
+                                93053
+                            ],
+                            "struct": "好/ 合适/ 满意/ 稳定 + 的 + 工作"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "việc làm; nghề nghiệp; công việc; nghề ngỗng",
+                            "explain": "职业",
+                            "examples": [
+                                {
+                                    "m": "Tôi muốn tìm một công việc.",
+                                    "p_vn": "toi muón tìm mọt cong viẹc.",
+                                    "_id": "aee13672ea471817b581457d9bdacccf",
+                                    "id": 74053,
+                                    "e": "我想找一份工作。",
+                                    "p_cn": "wo xiang zhao yi fen gongzuo.",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ xiǎng zhǎo yī fèn gōngzuò."
+                                },
+                                {
+                                    "m": "Cô ấy đang mong muốn tốt nghiệp và tìm được việc làm.",
+                                    "p_vn": "co ay dang mong muon tot nghiep va tim duoc viec lam.",
+                                    "_id": "aee13672ea471817b581457d9bdad355",
+                                    "id": 74054,
+                                    "e": "她渴望毕业找一份工作。",
+                                    "p_cn": "ta kewang biye zhao yi fen gongzuo.",
+                                    "type": "e_cnvi",
+                                    "p": "tā kěwàng bìyè zhǎo yī fèn gōngzuò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhiệm vụ; nghiệp vụ; công tác",
+                            "explain": "业务;任务",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy tham gia vào công tác tuyên truyền.",
+                                    "p_vn": "co áy tham gia vào cong tác tuyen truyèn.",
+                                    "_id": "aee13672ea471817b581457d9bda9b5b",
+                                    "id": 74049,
+                                    "e": "她从事宣传工作。",
+                                    "p_cn": "ta congshi xuanchuan gongzuo.",
+                                    "type": "e_cnvi",
+                                    "p": "tā cóngshì xuānchuán gōngzuò."
+                                },
+                                {
+                                    "m": "Công tác đăng ký",
+                                    "p_vn": "cong tác dang ký",
+                                    "_id": "aee13672ea471817b581457d9bdad8c8",
+                                    "id": 74055,
+                                    "e": "报名工作。",
+                                    "p_cn": "baoming gongzuo",
+                                    "type": "e_cnvi",
+                                    "p": "bàomíng gōngzuò"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"事业\" dùng trong văn viết, \"工作\" được dùng phổ biến cả trong văn nói và văn viết, danh từ \"工作\" đôi khi có thể dùng thay thế cho \"事业\", \"工作\" có thể dùng làm vị ngữ, còn \"事业\" không thể được sử dụng như một vị ngữ.",
+                    "title": "Phân biệt \"工作\" và \"事业\"",
+                    "words": [
+                        "工作",
+                        "事业"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Cả hai đều chỉ công việc.\nKhác:\n- \"活儿\" là danh từ.\n\"工作\" vừa là danh từ vừa là động từ\n- \"活儿\" được dùng trong văn nói.\n\"工作\" được dùng trong cả văn nói và văn viết.\n- \"活儿\" thiên về lao động thể lực, \"工作\" không có giới hạn này.\n- Tần suất sử dụng của từ \"工作\" nhiều hơn \"活儿\"",
+                    "title": "Phân biệt \"活儿\" và \"工作\"",
+                    "words": [
+                        "活儿",
+                        "工作"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "休息"
+                ],
+                "syno": [
+                    "任务"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "gōngzuò",
+            "cn_vi": "công tác",
+            "popularity": {
+                "notebook": 1113,
+                "search": 20938
+            },
+            "word": "工作",
+            "id": 19564,
+            "phonetic": "gongzuo",
+            "rank": 250,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄈㄨˊ",
+            "topic": "23",
+            "_id": "2eaddcf3c2b59f0cde13cb7843f4e523",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quần áo lao động; quần áo bảo hộ; đồng phục",
+                            "explain": "为工作需要而特制的服装",
+                            "examples": [
+                                {
+                                    "m": "bộ đồ lao động dính đầy dầu.",
+                                    "p_vn": "bo do lao dong dinh day dau",
+                                    "_id": "3e12aadac79f181466959800dd2fad90",
+                                    "id": 46608,
+                                    "type": "e_cnvi",
+                                    "e": "工作服油乎乎的。",
+                                    "p_cn": "gongzuofu youhuhu de",
+                                    "p": "gōngzuòfú yóuhūhū de。"
+                                },
+                                {
+                                    "m": "bộ đồ lao động; bộ đồ làm việc",
+                                    "p_vn": "bo do lao dong; bo do lam viec",
+                                    "_id": "521656f0a6788acdcc1e38d029f003b6",
+                                    "id": 44859,
+                                    "type": "e_cnvi",
+                                    "e": "一身工作服。",
+                                    "p_cn": "yishen gongzuofu",
+                                    "p": "yīshēn gōngzuòfú。"
+                                },
+                                {
+                                    "m": "Bộ quần áo công nhân này còn có thể mặc tạm trong một thời gian nữa.",
+                                    "p_vn": "bo quan ao cong nhan nay con co the mac tam trong mot thoi gian nua.",
+                                    "_id": "9305d8ff412868d4d9c371d29352151a",
+                                    "id": 5880,
+                                    "type": "e_cnvi",
+                                    "e": "这件工作服还能凑合着穿些日子。",
+                                    "p_cn": "zhe jian gongzuofu hai neng couhezhu chuan xie rizi.",
+                                    "p": "zhè jiàn gōngzuòfú hái néng còuhézhù chuān xiē rìzi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 377
+            },
+            "snym": null,
+            "cn_vi": "công tá phục",
+            "pinyin": "gōngzuòfú",
+            "word": "工作服",
+            "id": 19565,
+            "phonetic": "gongzuofu",
+            "rank": 19151,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄉㄨㄟˋ",
+            "_id": "b0dc6483e5eb4f46a93a0d175ea49c8c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một đội đặc nhiệm",
+                            "explain": "a task force",
+                            "examples": []
+                        },
+                        {
+                            "mean": "một nhóm làm việc",
+                            "explain": "a working group",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "công tá đội",
+            "pinyin": "gōngzuò duì",
+            "word": "工作队",
+            "id": 121616,
+            "phonetic": "gongzuodui",
+            "rank": 107299,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "67",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄓㄜˇ",
+            "_id": "44484ad7b07a483b88530f0aaf5a82fd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "công nhân",
+                            "explain": "worker",
+                            "examples": [
+                                {
+                                    "m": "qua sự nỗ lực của người làm công tác văn nghệ, loại nghệ thuật này càng thêm điêu luyện, phong phú muôn màu muôn vẻ.",
+                                    "p_vn": "qua su no luc cua nguoi lam cong tac van nghe loai nghe thuat nay cang them dieu luyen phong phu muon mau muon ve",
+                                    "_id": "be34fad5b68664fb28231bbd3dcaeda0",
+                                    "id": 5676,
+                                    "type": "e_cnvi",
+                                    "e": "经过文艺工作者的努力，这种艺术更加醇化，更加丰富多采。",
+                                    "p_cn": "jingguo wenyi gongzuo zhe de nuli zhe zhong yishu gengjia chunhua gengjia fengfu duo cai",
+                                    "p": "jīngguò wényì gōngzuò zhě de nǔlì, zhè zhǒng yìshù gèngjiā chúnhuà, gèngjiā fēngfù duō cǎi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 104
+            },
+            "snym": null,
+            "cn_vi": "công tá giả",
+            "pinyin": "gōngzuò zhě",
+            "word": "工作者",
+            "id": 121615,
+            "phonetic": "gongzuozhe",
+            "rank": 40757,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄒㄧㄤˋ",
+            "_id": "9b17308a3637314202d4ff2773589d70",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hạng mục công việc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "công tá hạng",
+            "pinyin": "gōngzuò xiàng",
+            "word": "工作项",
+            "id": 70296,
+            "phonetic": "gongzuoxiang",
+            "rank": 145915,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "60",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄓㄢˋ",
+            "_id": "be13c3da88ae4d6a9fde1fdda42d2bd2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(máy tính) máy trạm",
+                            "explain": "(computer) workstation",
+                            "examples": [
+                                {
+                                    "m": "Một nỗ lực để máy tính hoặc một trạm làm việc cụ thể có được quyền kiểm soát đường truyền để tiến hành truyền dữ liệu. Xem BID.",
+                                    "p_vn": "Mot no luc de may tinh hoac mot tram lam viec cu the co duoc quyen kiem soat duong truyen de tien hanh truyen du lieu. Xem BID.",
+                                    "_id": "c14d7ec031b74455b5e5a4ccfacf45d3",
+                                    "id": 72708,
+                                    "type": "e_cnvi",
+                                    "e": "计算机或某个工作站为获得线路控制权以进行数据传输的一种企图。参阅BID。",
+                                    "p_cn": "jisuanji huo mou ge gongzuozhan wei huode xianlu kongzhiquan yi jinxing shujuchuanshu de yizhong qitu canyue",
+                                    "p": "jìsuànjī huò mǒu gè gōngzuòzhàn wéi huòdé xiànlù kòngzhìquán yǐ jìnxíng shùjùchuánshū de yīzhǒng qǐtú cānyuè"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "công tá trạm",
+            "pinyin": "gōngzuòzhàn",
+            "word": "工作站",
+            "id": 124817,
+            "phonetic": "gongzuozhan",
+            "rank": 64916,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8e6403cf0cd54ca0bd6d8a5055ca1770",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Số công việc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "công tá hiệu",
+            "pinyin": "gōngzuò hào",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "工作号",
+            "id": 185383,
+            "phonetic": "gongzuohao",
+            "rank": 155263,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "16",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄅㄧㄠˇ",
+            "_id": "fc91c072642b49a282c91c8f1e0f779c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bảng tính",
+                            "explain": "worksheet",
+                            "examples": [
+                                {
+                                    "m": "Tôi làm việc tốt nhất dưới áp lực.",
+                                    "p_vn": "Toi lam viec tot nhat duoi ap luc.",
+                                    "_id": "bed9e761e07a418197631cbfd229066d",
+                                    "id": 64280,
+                                    "type": "e_cnvi",
+                                    "e": "我在壓力之下工作表現最好。",
+                                    "p_cn": "wo zai yali zhixia gongzuo biaoxian zuihao. ",
+                                    "p": "wǒ zài yālì zhīxià gōngzuò biǎoxiàn zùihǎo。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 74
+            },
+            "snym": null,
+            "cn_vi": "công tá biểu",
+            "pinyin": "gōngzuò biǎo",
+            "word": "工作表",
+            "id": 124818,
+            "phonetic": "gongzuobiao",
+            "rank": 48282,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄑㄩ",
+            "_id": "f153104f6fcc40429315b468a2a9a1e8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "workspace",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 68
+            },
+            "snym": null,
+            "cn_vi": "công tá khu",
+            "pinyin": "Gōngzuò qū",
+            "word": "工作区",
+            "id": 157941,
+            "phonetic": "Gongzuoqu",
+            "rank": 50181,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄋㄧㄡˇ",
+            "topic": "72",
+            "_id": "87e545f7e935b01a2145cddd0f947877",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nút vận hành",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "công tá nữu",
+            "pinyin": "gōngzuò niǔ",
+            "word": "工作钮",
+            "id": 70295,
+            "phonetic": "gongzuoniu",
+            "rank": 136357,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "67",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄌㄧㄤˋ",
+            "_id": "9d062877c1febc52dae1389949782e83",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lượng công việc",
+                            "explain": "期待于雇员或分配给雇员的多少工作或工作时间",
+                            "examples": []
+                        },
+                        {
+                            "mean": "trách nhiệm; gánh nặng",
+                            "explain": "实际工作任务或可达工作任务",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 115
+            },
+            "snym": null,
+            "cn_vi": "công tá lượng",
+            "pinyin": "gōngzuò liàng",
+            "word": "工作量",
+            "id": 19566,
+            "phonetic": "gongzuoliang",
+            "rank": 38648,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄨㄛˋㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "ae7bebee5e53465fbc0f3008384c5616",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để làm công việc của một người",
+                            "explain": "to do one's work",
+                            "examples": [
+                                {
+                                    "m": "làm việc phải biết phân biệt việc nặng việc nhẹ, việc gấp hay không gấp.",
+                                    "p_vn": "lam viec phai biet phan biet viec nang viec nhe viec gap hay khong gap",
+                                    "_id": "137a01d3a48054dc8ed258593dc32d9d",
+                                    "id": 32602,
+                                    "type": "e_cnvi",
+                                    "e": "做工作要注意轻重缓急。",
+                                    "p_cn": "zuo gongzuo yao zhuyi qingzhonghuanji",
+                                    "p": "zuò gōngzuò yào zhùyì qīngzhònghuǎnjí。"
+                                },
+                                {
+                                    "m": "làm việc cần phải cẩn thận.",
+                                    "p_vn": "lam viec can phai can than",
+                                    "_id": "1ee1bbc79f8d4cca8f93af9ce4e0b742",
+                                    "id": 15855,
+                                    "type": "e_cnvi",
+                                    "e": "要过细地做工作。",
+                                    "p_cn": "yao guoxi de zuo gongzuo",
+                                    "p": "yào guòxì de zuò gōngzuò."
+                                },
+                                {
+                                    "m": "làm việc phải nắm được khâu mấu chốt, không nắm linh tinh.",
+                                    "p_vn": "lam viec phai nam duoc khau mau chot, khong nam linh tinh.",
+                                    "_id": "ee35a82405c71497de073b5016e3c63c",
+                                    "id": 21119,
+                                    "type": "e_cnvi",
+                                    "e": "做工作要抓住节骨眼儿，别乱抓一气。",
+                                    "p_cn": "zuo gongzuo yao zhua zhu jieguyan er bie luan zhua yiqi",
+                                    "p": "zuò gōngzuò yào zhuāzhù jiégǔyǎnér，biéluàn zhuā yīqì。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cố gắng thuyết phục ai đó",
+                            "explain": "to try to persuade sb",
+                            "examples": []
+                        },
+                        {
+                            "mean": "làm việc trên ai đó",
+                            "explain": "to work on sb",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 202
+            },
+            "snym": null,
+            "cn_vi": "tố công tá",
+            "pinyin": "zuò gōngzuò",
+            "word": "做工作",
+            "id": 120746,
+            "phonetic": "zuogongzuo",
+            "rank": 28169,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄊㄧ",
+            "_id": "932aea6049174f579c130d19fd00724e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thang làm việc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "công tá thê",
+            "pinyin": "Gōngzuò tī",
+            "word": "工作梯",
+            "id": 155621,
+            "phonetic": "Gongzuoti",
+            "rank": 113273,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "60054660658c4c01be9c3f454d7de447",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "công phí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "công tá phí",
+            "pinyin": "gōngzuò fèi",
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "word": "工作费",
+            "id": 179499,
+            "phonetic": "gongzuofei",
+            "rank": 132530,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "621a278cb12742dfb4f43abbd934c93b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chế độ làm việc",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "chế độ công tác",
+                                    "p_vn": "che do cong tac",
+                                    "_id": "ac0d46d150afceea0163e42e3b51e1a0",
+                                    "id": 50518,
+                                    "type": "e_cnvi",
+                                    "e": "工作制度",
+                                    "p_cn": "gongzuo zhidu",
+                                    "p": "gōngzuò zhìdù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "công tá chế",
+            "pinyin": "gōngzuò zhì",
+            "popularity": {
+                "notebook": 11,
+                "search": 56
+            },
+            "word": "工作制",
+            "id": 185382,
+            "phonetic": "gongzuozhi",
+            "rank": 55103,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "67",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄖˋ",
+            "_id": "50d7db88d4be9348579c3c5d8de975a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời gian làm việc; giờ làm việc; giờ hành chánh",
+                            "explain": "一天中按规定做工作的时间",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngày công; ngày làm việc; ngày lao động",
+                            "explain": "按规定应该工作的日子",
+                            "examples": [
+                                {
+                                    "m": "mỗi tuần làm việc từ thứ hai đến thứ sáu, thứ bảy và chủ nhật là ngày nghỉ.",
+                                    "p_vn": "moi tuan lam viec tu thu hai den thu sau thu bay va chu nhat la ngay nghi",
+                                    "_id": "717459a2139588d98c8052c0ba242992",
+                                    "id": 13939,
+                                    "type": "e_cnvi",
+                                    "e": "本周星期一至星期五是工作日，星期六和星期天是休息日。",
+                                    "p_cn": "ben zhou xingqi yi zhi xingqiwu shi gongzuo ri xingqiliu he xingqitian shi xiuxi ri",
+                                    "p": "běnzhōu xīngqīyī zhì xīngqīwǔ shì gōngzuòrì，xīngqīlìu hé xīngqītiān shì xīuxīrì。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "buổi làm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 35,
+                "search": 441
+            },
+            "snym": {
+                "anto": [
+                    "节假日",
+                    "自然日"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "gōngzuò rì",
+            "cn_vi": "công tá nhật",
+            "word": "工作日",
+            "id": 19569,
+            "phonetic": "gongzuori",
+            "rank": 17258,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄥˋㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "2e0f7170739b43f5a4b2253e63e9ddaf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "làm công việc mại dâm",
+                            "explain": "employment as sex worker; prostitution",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "tính công tá",
+            "pinyin": "xìng gōngzuò",
+            "word": "性工作",
+            "id": 124958,
+            "phonetic": "xinggongzuo",
+            "rank": 89737,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Zhāng",
+                "examples": "工作证\ngōngzuòzhèng\ngiấy chứng nhận công tác",
+                "measure": "张"
+            },
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄓㄥˋ",
+            "_id": "a7115aa4ee9340f4518fb0e3dd0a5ce7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thẻ công tác; giấy chứng nhận công tác",
+                            "explain": "表示一个人在某单位工作的证件",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giấy phép lao động",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 356
+            },
+            "snym": null,
+            "cn_vi": "công tá chứng",
+            "pinyin": "gōngzuòzhèng",
+            "word": "工作证",
+            "id": 19570,
+            "phonetic": "gongzuozheng",
+            "rank": 19840,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄅㄥˋ",
+            "_id": "d02ff8109f7b1b669f9be1d50d1a911e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bơm nâng hạ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "công tá bơm",
+            "pinyin": "gōngzuò bèng",
+            "word": "工作泵",
+            "id": 70291,
+            "phonetic": "gongzuobeng",
+            "rank": 134974,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "30, 55, 70, 72",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄕˋ",
+            "_id": "dc54415036dcc1f6116f290c163a60ff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phòng làm việc",
+                            "explain": "工作室：由几个人或一个人建立的组织",
+                            "examples": [
+                                {
+                                    "m": "trong phòng làm việc của anh ấy, đâu cũng la liệt những tiêu bản côn trùng.",
+                                    "p_vn": "trong phong lam viec cua anh ay, dau cung la liet nhung tieu ban con trung.",
+                                    "_id": "ec08dde2aff23eefb5fd01eb36f8a9a3",
+                                    "id": 19157,
+                                    "type": "e_cnvi",
+                                    "e": "他的工作室里，叽里旮旯都是昆虫标本。",
+                                    "p_cn": "ta de gongzuo shi li, ji li gala dou shi kunchong biaoben.",
+                                    "p": "tā de gōngzuò shì lǐ, jī li gālá dōu shì kūnchóng biāoběn."
+                                },
+                                {
+                                    "m": "Anh ấy gọi cho cô ấy từ phòng làm việc vào sáng thứ bảy.",
+                                    "p_vn": "anh ay goi cho co ay tu phong lam viec vao sang thu bay.",
+                                    "_id": "aee13672ea471817b581457d9bdadc07",
+                                    "id": 74056,
+                                    "e": "他星期六早上在工作室给她打电话。",
+                                    "p_cn": "ta xingqiliu zaoshang zai gongzuo shi gei ta da dianhua.",
+                                    "type": "e_cnvi",
+                                    "p": "tā xīngqīliù zǎoshang zài gōngzuò shì gěi tā dǎ diànhuà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phòng làm việc",
+                            "explain": "办公的屋子; 机关、学校、企业等单位内办理行政性事务的部门规模大的称办公厅",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 212
+            },
+            "snym": null,
+            "cn_vi": "công tác thất",
+            "pinyin": "gōngzuò shì",
+            "word": "工作室",
+            "id": 70284,
+            "phonetic": "gongzuoshi",
+            "rank": 27333,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄗㄨˇ",
+            "_id": "dc55cd58b6ee4d2f864e8a0332b75127",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lực lượng đặc nhiệm",
+                            "explain": "task force",
+                            "examples": [
+                                {
+                                    "m": "Đã từng có một đội đặc nhiệm gồm tám giáo viên",
+                                    "p_vn": "Da tung co mot doi dac nhiem gom tam giao vien",
+                                    "_id": "c232738c60ee4a488cd3aa60f9d88eb2",
+                                    "id": 66358,
+                                    "type": "e_cnvi",
+                                    "e": "原本是有由八名教师组成的工作组",
+                                    "p_cn": "yuanben shi you you baming jiaoshi zucheng de gongzuozu",
+                                    "p": "yuánběn shì yǒu yóu bāmíng jiàoshī zǔchéng de gōngzuòzǔ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đội làm việc",
+                            "explain": "work team",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhóm làm việc",
+                            "explain": "working group",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "công tá tổ",
+            "pinyin": "gōngzuò zǔ",
+            "word": "工作组",
+            "id": 117972,
+            "phonetic": "gongzuozu",
+            "rank": 62487,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄊㄞˊ",
+            "_id": "d9e80a56411e4aa2bf3f87e29f34b2b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trạm làm việc",
+                            "explain": "work station",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bàn làm việc",
+                            "explain": "workbench",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 153
+            },
+            "snym": null,
+            "cn_vi": "công tá thai",
+            "pinyin": "gōngzuò tái",
+            "word": "工作台",
+            "id": 121613,
+            "phonetic": "gongzuotai",
+            "rank": 33074,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄌㄧㄝˋ",
+            "_id": "b841c683e88840c2ab22d22173789075",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thanh tác vụ (điện toán) (Tw)",
+                            "explain": "taskbar (computing) (Tw)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "công tá liệt",
+            "pinyin": "gōngzuò liè",
+            "word": "工作列",
+            "id": 121612,
+            "phonetic": "gongzuolie",
+            "rank": 81305,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄇㄧㄢˋ",
+            "_id": "ad4e89ffde57c37c9bcd4c3de2ef4150",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nơi làm việc; chỗ làm việc",
+                            "explain": "直接开采矿物或岩石的工作地点，随着采掘进度而移动",
+                            "examples": [
+                                {
+                                    "m": "Anh ta còn nộp đơn xin hai công việc khác, để phòng trường hợp phỏng vấn công việc này không đạt yêu cầu.",
+                                    "p_vn": "anh ta con nop don xin hai cong viec khac, de phong truong hop phong van cong viec nay khong dat yeu cau.",
+                                    "_id": "342aa62b42d3444e8caf00de13cd61e7",
+                                    "id": 72448,
+                                    "type": "e_cnvi",
+                                    "e": "他还申请了另外两份工作, 以防这份工作面试不合格.",
+                                    "p_cn": "ta hai shenqing le lingwai liang fen gongzuo yifang zhe fen gongzuo mianshi bu hege",
+                                    "p": "tā hái shēnqǐng le lìngwài liǎng fèn gōngzuò yǐfáng zhè fèn gōngzuò miànshì bù hégé"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xưởng sản xuất linh kiện; bộ phận gia công các linh kiện",
+                            "explain": "零件上进行机械加工的部位",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "công tá diện",
+            "pinyin": "gōngzuò miàn",
+            "word": "工作面",
+            "id": 19567,
+            "phonetic": "gongzuomian",
+            "rank": 57570,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "他是个工作狂。\nTā shìgè gōngzuò kuáng.\nAnh ấy là một người nghiện công việc.",
+                "measure": "个"
+            },
+            "topic": "75",
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄎㄨㄤˊ",
+            "_id": "53437375513047d7970a09a8490d6970",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tham công tiếc việc",
+                            "explain": "workaholic",
+                            "examples": [
+                                {
+                                    "m": "Bạn dường như là một trong những kiểu người nghiện công việc đó.",
+                                    "p_vn": "Ban duong nhu la mot trong nhung kieu nguoi nghien cong viec do.",
+                                    "_id": "01be0225e13846efa9be7d53f2ef9703",
+                                    "id": 61745,
+                                    "type": "e_cnvi",
+                                    "e": "你看上去像是个工作狂",
+                                    "p_cn": "ni kanshangqu xiangshi ge gongzuokuang",
+                                    "p": "nǐ kànshàngqù xiàngshì gè gōngzuòkuáng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 53,
+                "search": 592
+            },
+            "snym": null,
+            "cn_vi": "công tá cuồng",
+            "pinyin": "gōngzuò kuáng",
+            "word": "工作狂",
+            "id": 126921,
+            "phonetic": "gongzuokuang",
+            "rank": 14191,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄌㄧㄡˊ",
+            "_id": "110c42282452460f9c0a8c61acc0b2ac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy trình làm việc",
+                            "explain": "workflow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "công tá lưu",
+            "pinyin": "gōngzuò liú",
+            "word": "工作流",
+            "id": 121614,
+            "phonetic": "gongzuoliu",
+            "rank": 84861,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄨ˙ㄍㄨㄥㄗㄨㄛˋㄈㄨˊ",
+            "_id": "b1526fe512909253fffb427352420ac6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Áo công vụ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "công vụ công tá phục",
+            "pinyin": "gōngwù gōngzuòfú",
+            "word": "工务工作服",
+            "id": 76670,
+            "phonetic": "gongwugongzuofu",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩㄢˊㄍㄨㄥㄍㄨㄥㄗㄨㄛˋㄈㄨˊ",
+            "_id": "0a95fba06d0958100167337a19308dd4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Áo công nhân",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "viên công công tá phục",
+            "pinyin": "yuángōng gōngzuòfú",
+            "word": "员工工作服",
+            "id": 76669,
+            "phonetic": "yuangonggongzuofu",
+            "rank": 124667,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄧㄤˋㄆㄧㄢˋ",
+            "topic": "72",
+            "_id": "0a08f56d4aa6adb57d4e1e73459ff900",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phim mẫu",
+                            "explain": "工作样片",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "công tá dạng phiến",
+            "pinyin": "gōngzuò yàngpiàn",
+            "word": "工作样片",
+            "id": 70290,
+            "phonetic": "gongzuoyangpian",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "203664833092422091c15e776bcf413c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "toán trưởng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "công tá đội trưởng",
+            "pinyin": "gōngzuò duìzhǎng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "工作队长",
+            "id": 179971,
+            "phonetic": "gongzuoduizhang",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄥˋㄔㄤˊㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "1d7b989f37a14adfab0c3a7f35b4b610",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "hoạt động binh thương",
+                            "explain": "normal operation",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hoạt động bình thường",
+                            "explain": "proper functioning",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 187
+            },
+            "snym": null,
+            "cn_vi": "chính thường công tá",
+            "pinyin": "zhèngcháng gōngzuò",
+            "word": "正常工作",
+            "id": 141687,
+            "phonetic": "zhengchanggongzuo",
+            "rank": 29478,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄐㄧㄥㄌㄧˋ",
+            "_id": "c405221bf4b842498ac4f59b2d7d8912",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quá trình làm việc",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Khi một doanh nghiệp lựa chọn nhân tài, kinh nghiệm làm việc được điền vào sơ yếu lý lịch là rất quan trọng, nó cũng là một trong những yếu tố tham khảo chính để xác định kết quả tuyển dụng cuối cùng.",
+                                    "p_vn": "Khi mot doanh nghiep lua chon nhan tai, kinh nghiem lam viec duoc dien vao so yeu ly lich la rat quan trong, no cung la mot trong nhung yeu to tham khao chinh de xac dinh ket qua tuyen dung cuoi cung.",
+                                    "_id": "6cb459e30441429db8bd8086269bfb57",
+                                    "id": 68748,
+                                    "type": "e_cnvi",
+                                    "e": "在企业选拔人才时，对于简历上所填写的工作经历是十分看重的，也是决定最终招聘结果的主要参考因素之一",
+                                    "p_cn": "Zai qiye xuanba rencai shi, duiyu jianli shang suo tianxie de gongzuo jingli shi shifen kanzhong de, yeshi jueding zuizhong zhaopin jieguo de zhuyao cankao yinsu zhi yi",
+                                    "p": "Zài qǐyè xuǎnbá réncái shí, duìyú jiǎnlì shàng suǒ tiánxiě de gōngzuò jīnglì shì shífēn kànzhòng de, yěshì juédìng zuìzhōng zhāopìn jiéguǒ de zhǔyào cānkǎo yīnsù zhī yī"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 181
+            },
+            "snym": null,
+            "cn_vi": "công tá kinh lịch",
+            "pinyin": "gōngzuò jīnglì",
+            "word": "工作经历",
+            "id": 154544,
+            "phonetic": "gongzuojingli",
+            "rank": 30036,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "aa0b324a463f42959062c75036ceb98a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Phân tích công việc (tiếng Anh: Job analysis) là quá trình thu thập các tư liệu và đánh giá một cách có hệ thống các thông tin quan trọng có liên quan đến các công việc cụ thể trong tổ chức.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "công tá phân tích",
+            "pinyin": "gōngzuò fēnxī",
+            "word": "工作分析",
+            "id": 160752,
+            "phonetic": "gongzuofenxi",
+            "rank": 138800,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄥˋㄐㄧㄥㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "462aa93d0aa94b11989a6bb56a71c9c5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Công việc đàng hoàng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mẹ nghe con giải thích, công việc của con là công việc đàng hoàng",
+                                    "p_vn": "Me nghe con giai thich, cong viec cua con la cong viec dang hoang",
+                                    "_id": "8aa417246ea54a088e1a3abd9dba0f07",
+                                    "id": 63527,
+                                    "type": "e_cnvi",
+                                    "e": "妈你听我解释，我这真的是正经工作",
+                                    "p_cn": "Ma ni ting wo jieshi, wo zhe zhen de shi zhengjing gongzuo",
+                                    "p": "Mā nǐ tīng wǒ jiěshì, wǒ zhè zhēn de shì zhèngjīng gōngzuò"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "chính kinh công tá",
+            "pinyin": "zhèngjīng gōngzuò",
+            "word": "正经工作",
+            "id": 147442,
+            "phonetic": "zhengjinggongzuo",
+            "rank": 118884,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄕˊㄐㄧㄢ",
+            "topic": "75",
+            "_id": "47859cabadad542dcef191b813b8184e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thời gian công tác",
+                            "explain": "劳部发 [1994]521文件中：",
+                            "examples": [
+                                {
+                                    "m": "Trong quản lý, nếu số người quản lý thực tế gấp đôi con số tối ưu thì số giờ làm việc sẽ nhiều gấp đôi và chi phí công việc sẽ nhiều hơn gấp bốn lần; nếu số người quản lý thực tế nhiều gấp ba lần con số tối ưu thì số giờ làm việc giờ sẽ dài hơn ba lần., Chi phí công việc nhiều hơn sáu lần.  Về mặt quản lý thì không có nhiều quyền lực, càng có nhiều người quản lý thì hiệu quả công việc có thể không cao Trên thực tế, định luận Krishna Harsh cho rằng hiệu quả công việc của tổ hợp nhân viên tỷ lệ nghịch với mức độ khối lượng công việc.",
+                                    "p_vn": "trong quan ly, neu so nguoi quan ly thuc te gap doi con so toi uu thi so gio lam viec se nhieu gap doi va chi phi cong viec se nhieu hon gap bon lan; neu so nguoi quan ly thuc te nhieu gap ba lan con so toi uu thi so gio lam viec gio se dai hon ba lan., chi phi cong viec nhieu hon sau lan.  ve mat quan ly thi khong co nhieu quyen luc, cang co nhieu nguoi quan ly thi hieu qua cong viec co the khong cao tren thuc te, dinh luan krishna harsh cho rang hieu qua cong viec cua to hop nhan vien ty le nghich voi muc do khoi luong cong viec.",
+                                    "_id": "95aa7844202f49d191268d2e3b414a68",
+                                    "id": 67640,
+                                    "type": "e_cnvi",
+                                    "e": "在管理中，如果实际管理人员比最佳人数多两倍，工作时间就要多两倍，工作成本就多四倍；如果实际管理人员比最佳人数多三倍，工作时间就要多三倍，工作成本就多六倍。在管理上，并不是人多力量大，管理人员越多，工作效率未必就会越高，实际上，苛希纳定律认为员工组合的工作效率和工作负荷程度成反比",
+                                    "p_cn": "zai guanli zhong, ruguo shiji guanli renyuan bi zui jia renshu duo liang bei, gongzuo shijian jiu yao duo liang bei, gongzuo chengben jiu duo si bei; ruguo shiji guanli renyuan bi zui jia renshu duo san bei, gongzuo shijian jiu yao duo san bei, gongzuo chengben jiu duo liu bei. zai guanli shang, bing bu shi ren duo liliang da, guanli renyuan yue duo, gongzuo xiaolu weibi jiu hui yue gao, shiji shang, ke xi na dinglu renwei yuangong zuhe de gongzuo xiaolu he gongzuo fuhe chengdu cheng fanbi",
+                                    "p": "Zài guǎnlǐ zhōng, rúguǒ shíjì guǎnlǐ rényuán bǐ zuì jiā rénshù duō liǎng bèi, gōngzuò shíjiān jiù yào duō liǎng bèi, gōngzuò chéngběn jiù duō sì bèi; rúguǒ shíjì guǎnlǐ rényuán bǐ zuì jiā rénshù duō sān bèi, gōngzuò shíjiān jiù yào duō sān bèi, gōngzuò chéngběn jiù duō liù bèi. Zài guǎnlǐ shàng, bìng bú shì rén duō lìliàng dà, guǎnlǐ rényuán yuè duō, gōngzuò xiàolǜ wèibì jiù huì yuè gāo, shíjì shang, kē xī nà dìnglǜ rènwéi yuángōng zǔhé de gōngzuò xiàolǜ hé gōngzuò fùhè chéngdù chéng fǎnbǐ"
+                                },
+                                {
+                                    "m": "Trong thời gian làm việc, xin đừng quấy rầy.",
+                                    "p_vn": "trong thoi gian lam viec, xin dung quay ray.",
+                                    "_id": "dcf0e027a425724a491e0804e3b478ea",
+                                    "id": 6405,
+                                    "type": "e_cnvi",
+                                    "e": "工作时间，请勿打扰。",
+                                    "p_cn": "gongzuo shijian, qingwudarao.",
+                                    "p": "gōngzuò shíjiān, qǐngwùdǎrǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 64
+            },
+            "snym": null,
+            "cn_vi": "công tá thì gian",
+            "pinyin": "gōngzuò shíjiān",
+            "word": "工作时间",
+            "id": 78457,
+            "phonetic": "gongzuoshijian",
+            "rank": 51739,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄢˋㄖˋㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "4831b913217942ab9eef766bfbc18bad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "công việc bán thời gian trong đó một người làm việc mỗi ngày trong nửa ngày, thường là buổi sáng hoặc buổi chiều",
+                            "explain": "part-time work in which one works each day for a half-day, typically a morning or an afternoon",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "bán nhật công tá",
+            "pinyin": "bànrì gōngzuò",
+            "word": "半日工作",
+            "id": 134001,
+            "phonetic": "banrigongzuo",
+            "rank": 73011,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄋㄥˊㄌㄧˋ",
+            "_id": "77579882897b4cb2a8320a2342a391b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Khả năng làm việc",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tự động viên cổ vũ bản thân và  khả năng làm việc xuất sắc.",
+                                    "p_vn": "Tu dong vien co vu ban than va  kha nang lam viec xuat sac.",
+                                    "_id": "3e64d0ab57074445a1f4f9a18c8e6524",
+                                    "id": 68248,
+                                    "type": "e_cnvi",
+                                    "e": "良好的自我激励能力和开展工作能力.",
+                                    "p_cn": "Lianghao de ziwo jili nengli he kaizhan gongzuo nengli.",
+                                    "p": "Liánghǎo de zìwǒ jīlì nénglì hé kāizhǎn gōngzuò nénglì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "công tá năng lực",
+            "pinyin": "gōngzuò nénglì",
+            "word": "工作能力",
+            "id": 153359,
+            "phonetic": "gongzuonengli",
+            "rank": 67704,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˋㄍㄟˇㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "f446740002334a1a9c45d54d00b7b3d8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "làm việc",
+                            "explain": "to task",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "phái cấp công tá",
+            "pinyin": "pài gěi gōngzuò",
+            "word": "派给工作",
+            "id": 137523,
+            "phonetic": "paigeigongzuo",
+            "rank": 124121,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄣˇㄅㄟˋㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "59fc1257974b59f8a7c140ee2909f2be",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Chuẩn bị công việc",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "cần phải làm tốt công tác chuẩn bị chống lụt, kẻo mùa mưa đến thì trở tay không kịp.",
+                                    "p_vn": "can phai lam tot cong tac chuan bi chong lut keo mua mua den thi tro tay khong kip",
+                                    "_id": "31a51ef066f28e925eacbc05f967d673",
+                                    "id": 6080,
+                                    "type": "e_cnvi",
+                                    "e": "必须做好防洪准备工作，以免雨季到来时措手不及。",
+                                    "p_cn": "bixu zuo hao fanghong zhunbei gongzuo yimian yuji daolai shi cuoshoubuji",
+                                    "p": "bìxū zuòhǎo fánghóng zhǔnbèi gōngzuò，yǐmiǎn yǔjì dàolái shí cuòshǒubùjí。"
+                                },
+                                {
+                                    "m": "Việc chuẩn bị do tôi phụ trách.",
+                                    "p_vn": "viec chuan bi do toi phu trach.",
+                                    "_id": "8848d2735d4cf43feff943533fdf9dfc",
+                                    "id": 46557,
+                                    "type": "e_cnvi",
+                                    "e": "准备工作由我负责。",
+                                    "p_cn": "zhunbei gongzuo you wo fuze。",
+                                    "p": "zhǔnbèi gōngzuò yóu wǒ fùzé。"
+                                },
+                                {
+                                    "m": "Công việc chuẩn bị rất đầy đủ.",
+                                    "p_vn": "cong viec chuan bi rat day du.",
+                                    "_id": "c90c3d21d8e2e5521c147d360c5a0bae",
+                                    "id": 4966,
+                                    "type": "e_cnvi",
+                                    "e": "准备工作做得很充分。",
+                                    "p_cn": "zhunbei gongzuo zuo de hen chongfen。",
+                                    "p": "zhǔnbèi gōngzuò zuò dé hěn chōngfēn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 81
+            },
+            "snym": null,
+            "cn_vi": "chuẩn bị công tá",
+            "pinyin": "zhǔnbèi gōngzuò",
+            "word": "准备工作",
+            "id": 76897,
+            "phonetic": "zhunbeigongzuo",
+            "rank": 46109,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "370baf926bb1410b85c51435362a8a6b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dân vận",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "quần chúng công tá",
+            "pinyin": "qúnzhòng gōngzuò",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "群众工作",
+            "id": 182828,
+            "phonetic": "qunzhonggongzuo",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "84d639a56263494196af5274b5629b96",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bản mô tả công việc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "công tá thuyết minh",
+            "pinyin": "gōngzuò shuōmíng",
+            "word": "工作说明",
+            "id": 160755,
+            "phonetic": "gongzuoshuoming",
+            "rank": 111303,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄧㄢˊㄧㄝˇㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "9d8bb108258df6041cc0268ffea3cb58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "công tác dã ngoại; công việc đồng áng",
+                            "explain": "野外工作的旧称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 23
+            },
+            "snym": {
+                "syno": [
+                    "野外工作"
+                ]
+            },
+            "cn_vi": "điền dã công tá",
+            "pinyin": "tiányě gōngzuò",
+            "word": "田野工作",
+            "id": 50746,
+            "phonetic": "tianyegongzuo",
+            "rank": 78664,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄌㄧㄡˊㄔㄥˊ",
+            "_id": "ba23479b9cce4e3abf8bdd1332686486",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy trình làm việc",
+                            "explain": "workflow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 59
+            },
+            "snym": null,
+            "cn_vi": "công tá lưu trình",
+            "pinyin": "gōngzuò liúchéng",
+            "word": "工作流程",
+            "id": 140586,
+            "phonetic": "gongzuoliucheng",
+            "rank": 53845,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄏㄨㄢˊㄐㄧㄥˋ",
+            "_id": "d7763c5f21ad42278095f87f89337e9a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Môi trường làm việc",
+                            "explain": "人际水平的分析主要致力于分析工作空间对交谈的便利程度和工作空间的象征性作用（指工作空间反映使用者在地位、身份上的特征）及工作区域的布局特点等。组织水平的分析包括最大范围的物理环境，集中于分析建筑的内部结构和外部布局，工作单元（如车间）的远近、包围程度等。",
+                            "examples": [
+                                {
+                                    "m": "Hệ thống thoát khí và vỏ hoàn toàn khép kín đảm bảo môi trường làm việc tốt.",
+                                    "p_vn": "He thong thoat khi va vo hoan toan khep kin dam bao moi truong lam viec tot.",
+                                    "_id": "f53b9694f40e4af2bf6758c927a917be",
+                                    "id": 55201,
+                                    "type": "e_cnvi",
+                                    "e": "全封闭外壳与抽风系统,确保良好工作环境.",
+                                    "p_cn": "Quan fengbi waike yu choufeng xitong, quebao lianghao gongzuo huanjing.",
+                                    "p": "Quán fēngbì wàiké yǔ chōufēng xìtǒng, quèbǎo liánghǎo gōngzuò huánjìng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 219
+            },
+            "snym": null,
+            "cn_vi": "công tá hoàn cảnh",
+            "pinyin": "gōngzuò huánjìng",
+            "word": "工作环境",
+            "id": 84485,
+            "phonetic": "gongzuohuanjing",
+            "rank": 26871,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8d2f5e0ba5484db5a641683566fff0f5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bàn giao công tác",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "giao đại công tá",
+            "pinyin": "jiāodài gōngzuò",
+            "popularity": {
+                "notebook": 2,
+                "search": 16
+            },
+            "word": "交代工作",
+            "id": 184387,
+            "phonetic": "jiaodaigongzuo",
+            "rank": 89835,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄖㄣˊㄩㄢˊ",
+            "_id": "e64bfa090db94269aec9ecf6535f2fd9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thành viên đội ngũ nhân viên",
+                            "explain": "staff member",
+                            "examples": [
+                                {
+                                    "m": "trong thư viện rất đông người, có người trả sách, có người mượn sách, nhân viên bận tíu tít.",
+                                    "p_vn": "trong thu vien rat dong nguoi, co nguoi tra sach, co nguoi muon sach, nhan vien ban tiu tit.",
+                                    "_id": "0bf4bae58e26a345b596aab2958d45af",
+                                    "id": 45984,
+                                    "type": "e_cnvi",
+                                    "e": "图书馆挤满了人，有还书的，有借书的，工作人员应接不暇。",
+                                    "p_cn": "tushu guan ji manle ren, you hai shu de, you jie shu de, gongzuo renyuan yingjiebuxia.",
+                                    "p": "túshū guǎn jǐ mǎnle rén, yǒu hái shū de, yǒu jiè shū de, gōngzuò rényuán yìngjiēbùxiá."
+                                },
+                                {
+                                    "m": "Nhân viên khách sạn phụ thuộc vào tiền boa để tăng mức lương thưởng nhỏ của họ.",
+                                    "p_vn": "Nhan vien khach san phu thuoc vao tien boa de tang muc luong thuong nho cua ho.",
+                                    "_id": "72498fee456eb95fa63babd8b51ec390",
+                                    "id": 69020,
+                                    "e": "饭店的工作人员主要靠小费来增加他（她）们平时微薄的收入。",
+                                    "p_cn": "fan dian de gong zuo ren yuan zhu yao kao xiao fei lai zeng jia ta (ta )men ping shi wei bo de shou ru .",
+                                    "type": "e_cnvi",
+                                    "p": "fàndiàn de gōngzuò rényuán zhǔyào kào xiǎofèi lái zēngjiā tā (tā) men píngshí wéibó de shōurù."
+                                },
+                                {
+                                    "m": "Nhân viên tại hiện trường cho biết, người phụ nữ ngoài 20 tuổi, mắt nhắm nghiền, mồ hôi nhễ nhại.",
+                                    "p_vn": "Nhan vien tai hien truong cho biet, nguoi phu nu ngoai 20 tuoi, mat nham nghien, mo hoi nhe nhai.",
+                                    "_id": "d4a55e3ca071459b903773eb23e44784",
+                                    "id": 56127,
+                                    "type": "e_cnvi",
+                                    "e": "现场工作人员表示,女子20多岁,当时双目紧闭,满身是汗。",
+                                    "p_cn": "Xianchang gongzuo renyuan biaoshi, nuzi 20 duo sui, dangshi shuang mu jin bi, man shen shi han.",
+                                    "p": "Xiànchǎng gōngzuò rényuán biǎoshì, nǚzǐ 20 duō suì, dāngshí shuāng mù jǐn bì, mǎn shēn shì hàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 30,
+                "search": 518
+            },
+            "snym": null,
+            "cn_vi": "công tá nhân viên",
+            "pinyin": "gōngzuò rényuán",
+            "word": "工作人员",
+            "id": 139147,
+            "phonetic": "gongzuorenyuan",
+            "rank": 15601,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄩㄢˊㄕˊㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "f0758ac05cb94006b8c22bfcc174f81a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "công việc toàn thời gian",
+                            "explain": "full-time work",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "toàn thì công tá",
+            "pinyin": "quán shí gōngzuò",
+            "word": "全时工作",
+            "id": 138781,
+            "phonetic": "quanshigongzuo",
+            "rank": 89496,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄉㄧㄢˋㄌㄧㄡˊ",
+            "_id": "59f37678f619193e54a969cc4e8e67eb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Dòng điện làm việc",
+                            "explain": "工作电流（working current）是1997年公布的铁道科学技术名词。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "công tá điện lưu",
+            "pinyin": "gōngzuò diànliú",
+            "word": "工作电流",
+            "id": 70292,
+            "phonetic": "gongzuodianliu",
+            "rank": 108056,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄜˋㄏㄨㄟˋㄍㄨㄥㄗㄨㄛˋ",
+            "_id": "85121ec50b1a2368df2fd44c306bf8c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "công tác xã hội",
+                            "explain": "没有报酬的为群众服务的工作",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "xã hội công tá",
+            "pinyin": "shèhuì gōngzuò",
+            "word": "社会工作",
+            "id": 46102,
+            "phonetic": "shehuigongzuo",
+            "rank": 67738,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄐㄧˋㄧˋ",
+            "_id": "84f9fa4579514c44967e4d35450ab41a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trí nhớ làm việc",
+                            "explain": "working memory",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "công tá ký ức",
+            "pinyin": "gōngzuò jìyì",
+            "word": "工作记忆",
+            "id": 132015,
+            "phonetic": "gongzuojiyi",
+            "rank": 140420,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "工作"
+}

@@ -1,0 +1,2414 @@
+{
+    "total": 1737,
+    "found": false,
+    "result": [
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄑㄧˋㄗˋㄉㄨㄥˋ",
+            "_id": "ca33bb18eaa7459b8efa6696c7236762",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cắt cổ bô",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bài khí tự động",
+            "pinyin": "Pái qì zìdòng",
+            "word": "排气自动",
+            "id": 155677,
+            "phonetic": "Paiqizidong",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "phrase"
+            ],
+            "measure": null,
+            "zhuyin": "ㄢㄆㄞˊㄉㄧㄠˋㄉㄨㄥˋ",
+            "_id": "c0bdb9e8e8228eec9b5d82926e97d377",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Xắp xếp điều động",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 72
+            },
+            "snym": null,
+            "cn_vi": "an bài điệu động",
+            "pinyin": "ānpái diàodòng",
+            "word": "安排调动",
+            "id": 77972,
+            "phonetic": "anpaidiaodong",
+            "rank": 49004,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v",
+                "measure"
+            ],
+            "measure": null,
+            "topic": "18",
+            "zhuyin": "ㄆㄞˊ",
+            "_id": "33e12dfb013b3202be0bf584b9580a3c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Sắp xếp cái gì đó",
+                            "examples": [
+                                98630,
+                                112117
+                            ],
+                            "struct": "排 + Tân ngữ ( 课/ 班/ 表 )"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xếp; sắp; sắp xếp (theo thứ tự)",
+                            "explain": "一个挨一个地按着秩序摆",
+                            "examples": [
+                                {
+                                    "m": "Mọi người đang xếp hàng mua vé.",
+                                    "p_vn": "moi nguoi dang xep hang mua ve.",
+                                    "_id": "55db399305625a14707d64b91827f4f4",
+                                    "id": 98520,
+                                    "type": "e_cnvi",
+                                    "e": "大家在排队买票。",
+                                    "p_cn": "dajia zai paidui mai piao.",
+                                    "p": "dàjiā zài páiduì mǎi piào."
+                                },
+                                {
+                                    "m": "Chúng ta xếp hàng đi vào lớp học.",
+                                    "p_vn": "chung ta xep hang di vao lop hoc.",
+                                    "_id": "55db399305625a14707d64b918284fda",
+                                    "id": 98526,
+                                    "type": "e_cnvi",
+                                    "e": "我们排队进入教室。",
+                                    "p_cn": "women paidui jinru jiaoshi.",
+                                    "p": "wǒmen páiduì jìnrù jiàoshì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dàn dựng; diễn; tập dượt",
+                            "explain": "排演;实践",
+                            "examples": [
+                                {
+                                    "m": "Đoàn đang tập dượt một vở kịch lịch sử.",
+                                    "p_vn": "doan dang tap duot mot vo kich lich su.",
+                                    "_id": "55db399305625a14707d64b91828a31c",
+                                    "id": 98530,
+                                    "type": "e_cnvi",
+                                    "e": "剧团正在排一出历史剧。",
+                                    "p_cn": "jutuan zhengzai pai yi chu lishiju.",
+                                    "p": "jùtuán zhèngzài pái yī chū lìshǐjù."
+                                },
+                                {
+                                    "m": "Chúng tôi đang tập dượt một vở kịch.",
+                                    "p_vn": "chung toi dang tap duot mot vo kich.",
+                                    "_id": "55db399305625a14707d64b91828bcb4",
+                                    "id": 98533,
+                                    "type": "e_cnvi",
+                                    "e": "我们正在排练一出戏剧。",
+                                    "p_cn": "women zhengzai pailian yi chu xiju.",
+                                    "p": "wǒmen zhèngzài páiliàn yī chū xìjù."
+                                },
+                                {
+                                    "m": "Các diễn viên đang chăm chú dàn dựng vở kịch.",
+                                    "p_vn": "cac dien vien dang cham chu dan dung vo kich.",
+                                    "_id": "55db399305625a14707d64b91829acb4",
+                                    "id": 98557,
+                                    "type": "e_cnvi",
+                                    "e": "演员们正在认真地排戏。",
+                                    "p_cn": "yanyuanmen zhengzai renzhen di paixi.",
+                                    "p": "yǎnyuánmen zhèngzài rènzhēn dì páixì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "loại trừ; loại bỏ; bỏ; tháo",
+                            "explain": "驱逐；推出",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta cần phải đẩy nước ra ngoài.",
+                                    "p_vn": "chung ta can phai day nuoc ra ngoai.",
+                                    "_id": "55db399305625a14707d64b91828ffb0",
+                                    "id": 98539,
+                                    "type": "e_cnvi",
+                                    "e": "我们需要把水排出去。",
+                                    "p_cn": "women xuyao ba shui paichu qu.",
+                                    "p": "wǒmen xūyào bǎ shuǐ páichū qù."
+                                },
+                                {
+                                    "m": "Chúng ta phải loại bỏ khả năng này.",
+                                    "p_vn": "chung ta phai loai bo kha nang nay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f5c6f",
+                                    "id": 119993,
+                                    "type": "e_cnvi",
+                                    "e": "我们必须排除这个可能性。",
+                                    "p_cn": "women bixu paichu zhege keneng xing.",
+                                    "p": "wǒmen bìxū páichú zhège kěnéng xìng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xô; đẩy; bạt; gạt ra",
+                            "explain": "推",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy tức giận đẩy cửa mà đi ra.",
+                                    "p_vn": "anh ay tuc gian day cua ma di ra.",
+                                    "_id": "55db399305625a14707d64b918292952",
+                                    "id": 98544,
+                                    "type": "e_cnvi",
+                                    "e": "他愤怒地排门而去。",
+                                    "p_cn": "ta fennu de pai men er qu.",
+                                    "p": "tā fènnù de pái mén ér qù."
+                                },
+                                {
+                                    "m": "Anh ấy tức giận dùng sức xô bàn.",
+                                    "p_vn": "anh ay tuc gian dung suc xo ban.",
+                                    "_id": "55db399305625a14707d64b918293fdc",
+                                    "id": 98547,
+                                    "type": "e_cnvi",
+                                    "e": "愤怒的他用力地排桌子。",
+                                    "p_cn": "fennu de ta yongli de pai zhuozi.",
+                                    "p": "fènnù de tā yònglì de pái zhuōzi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "hàng; băng; dãy",
+                            "explain": "用于成行列的东西",
+                            "examples": [
+                                {
+                                    "m": "Trước nhà chúng tôi trồng hai hàng cây.",
+                                    "p_vn": "truoc nha chung toi trong hai hang cay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f1b70",
+                                    "id": 119986,
+                                    "type": "e_cnvi",
+                                    "e": "我们家门前种了两排树。",
+                                    "p_cn": "women jia men qian zhongle liang pai shu.",
+                                    "p": "wǒmen jiā mén qián zhǒngle liǎng pái shù."
+                                },
+                                {
+                                    "m": "Trong hội trường đã sắp xếp ba hàng ghế.",
+                                    "p_vn": "trong hoi truong da sap xep ba hang ghe.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f29c3",
+                                    "id": 119987,
+                                    "type": "e_cnvi",
+                                    "e": "礼堂里摆放了三排椅子。",
+                                    "p_cn": "litang li bai fangle san pai yizi.",
+                                    "p": "lǐtáng lǐ bǎi fàngle sān pái yǐzi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hàng (trước; sau)",
+                            "explain": "行; 线条",
+                            "examples": [
+                                {
+                                    "m": "Khán giả ở hàng trước có tầm nhìn tốt hơn.",
+                                    "p_vn": "khan gia o hang truoc co tam nhin tot hon.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f2de6",
+                                    "id": 119988,
+                                    "type": "e_cnvi",
+                                    "e": "前排的观众视野更好。",
+                                    "p_cn": "qian pai de guanzhong shiye geng hao.",
+                                    "p": "qián pái de guānzhòng shìyě gèng hǎo."
+                                },
+                                {
+                                    "m": "Hàng thứ ba có vài chỗ trống.",
+                                    "p_vn": "hang thu ba co vai cho trong.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f3c91",
+                                    "id": 119989,
+                                    "type": "e_cnvi",
+                                    "e": "第三排有几个空位。",
+                                    "p_cn": "di san pai you ji ge kongwei.",
+                                    "p": "dì sān pái yǒu jǐ gè kòngwèi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bóng chuyền, đội bóng chuyền",
+                            "explain": "(排球) 团队",
+                            "examples": [
+                                {
+                                    "m": "Đội bóng chuyền nam Trung Quốc đang tích cực tập luyện.",
+                                    "p_vn": "doi bong chuyen nam trung quoc dang tich cuc tap luyen.",
+                                    "_id": "55db399305625a14707d64b9182b6775",
+                                    "id": 98611,
+                                    "type": "e_cnvi",
+                                    "e": "中国男排正在积极训练。",
+                                    "p_cn": "zhongguo nan pai zhengzai jiji xunlian.",
+                                    "p": "zhōngguó nán pái zhèngzài jījí xùnliàn."
+                                },
+                                {
+                                    "m": "Đội bóng chuyền của chúng tôi rất tuyệt.",
+                                    "p_vn": "doi bong chuyen cua chung toi rat tuyet.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cb6ada3",
+                                    "id": 112122,
+                                    "type": "e_cnvi",
+                                    "e": "我们的排球团队很棒。",
+                                    "p_cn": "women de paiqiu tuandui hen bang.",
+                                    "p": "wǒmen de páiqiú tuánduì hěn bàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bè",
+                            "explain": "木筏",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy thành thạo sắp xếp xong chiếc bè tre.",
+                                    "p_vn": "anh ay thanh thao sap xep xong chiec be tre.",
+                                    "_id": "55db399305625a14707d64b9182b8c65",
+                                    "id": 98614,
+                                    "type": "e_cnvi",
+                                    "e": "他熟练地排好了竹排。",
+                                    "p_cn": "ta shulian de pai haole zhupai.",
+                                    "p": "tā shúliàn de pái hǎole zhúpái."
+                                },
+                                {
+                                    "m": "Trên mặt sông nổi nhiều bè gỗ.",
+                                    "p_vn": "tren mat song noi nhieu be go.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cb68f08",
+                                    "id": 112118,
+                                    "type": "e_cnvi",
+                                    "e": "江面上漂浮着许多木排。",
+                                    "p_cn": "jiangmian shang piaofuzhe xuduo mu pai.",
+                                    "p": "jiāngmiàn shàng piāofúzhe xǔduō mù pái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bò bít-tết; bít-tết",
+                            "explain": "牛肉菜",
+                            "examples": [
+                                {
+                                    "m": "Phần bít tết bò này rất ngon.",
+                                    "p_vn": "phan bit tet bo nay rat ngon.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cb6960f",
+                                    "id": 112119,
+                                    "type": "e_cnvi",
+                                    "e": "这份牛排很美味。",
+                                    "p_cn": "zhe fen niupai hen meiwei.",
+                                    "p": "zhè fèn niúpái hěn měiwèi."
+                                },
+                                {
+                                    "m": "Tôi thích ăn bò bít tết.",
+                                    "p_vn": "toi thich an bo bit tet.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cb69c4a",
+                                    "id": 112120,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢吃牛排。",
+                                    "p_cn": "wo xihuan chi niupai.",
+                                    "p": "wǒ xǐhuān chī niúpái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trung đội; đội",
+                            "explain": "军队编制单位，在连以下，班以上。",
+                            "examples": [
+                                {
+                                    "m": "Đơn vị này có ba trung đội.",
+                                    "p_vn": "don vi nay co ba trung doi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41edf6f",
+                                    "id": 119980,
+                                    "type": "e_cnvi",
+                                    "e": "这支部队有三个排。",
+                                    "p_cn": "zhe zhi budui yousan ge pai.",
+                                    "p": "zhè zhī bùduì yǒusān gè pái."
+                                },
+                                {
+                                    "m": "Mỗi trung đội do một trung đội trưởng lãnh đạo.",
+                                    "p_vn": "moi trung doi do mot trung doi truong lanh dao.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41edfb5",
+                                    "id": 119981,
+                                    "type": "e_cnvi",
+                                    "e": "每个排由一个排长领导。",
+                                    "p_cn": "mei ge pai you yige pai zhang lingdao.",
+                                    "p": "měi gè pái yóu yīgè pái zhǎng lǐngdǎo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bánh pa-tê; bánh nướng; bánh hấp",
+                            "explain": "肉酱蛋糕；烧饼；蒸食",
+                            "examples": [
+                                {
+                                    "m": "Tôi thích ăn bánh pa-tê thịt lợn.",
+                                    "p_vn": "toi thich an banh pa-te thit lon.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f442b",
+                                    "id": 119990,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢吃猪肉排。",
+                                    "p_cn": "wo xihuan chi zhurou pai.",
+                                    "p": "wǒ xǐhuān chī zhūròu pái."
+                                },
+                                {
+                                    "m": "Tôi ăn một cái bánh trứng nướng vào bữa sáng.",
+                                    "p_vn": "toi an mot cai banh trung nuong vao bua sang.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f4afa",
+                                    "id": 119991,
+                                    "type": "e_cnvi",
+                                    "e": "我早餐吃了一个蛋排。",
+                                    "p_cn": "wo zaocan chile yige dan pai.",
+                                    "p": "wǒ zǎocān chīle yīgè dàn pái."
+                                },
+                                {
+                                    "m": "Những chiếc bánh hấp này rất mềm mịn.",
+                                    "p_vn": "nhung chiec banh hap nay rat mem min.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f503b",
+                                    "id": 119992,
+                                    "type": "e_cnvi",
+                                    "e": "这些蒸排非常软糯。",
+                                    "p_cn": "zhexie zhengpai feichang ruan nuo.",
+                                    "p": "zhèxiē zhēngpái fēicháng ruǎn nuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 270,
+                "search": 7933
+            },
+            "snym": null,
+            "lv_hsk_new": "2, 3",
+            "pinyin": "pái",
+            "cn_vi": "bài",
+            "word": "排",
+            "id": 40065,
+            "phonetic": "pai",
+            "rank": 1374,
+            "lv_tocfl": 3,
+            "compound": "排奡 ; 排班 ; 排版 ; 排比 ; 排笔 ; 排摈 ; 排场 ; 排斥 ; 排除 ; 排挡 ; 排队 ; 排筏 ; 排骨 ; 排灌 ; 排行 ; 排击 ; 排挤 ; 排解 ; 排涝 ; 排雷 ; 排练 ; 排列 ; 排律 ; 排卵期 ; 排难解纷 ; 排偶 ; 排炮 ; 排遣 ; 排枪 ; 排球 ; 排山倒海 ; 排水量 ; 排他性 ; 排调 ; 排头 ; 排外 ; 排尾 ; 排戏 ; 排泄 ; 排揎 ; 排演 ; 排印 ; 排中律 ; 排字"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "18",
+            "zhuyin": "ㄆㄞˊ",
+            "_id": "6a49dcdb2a644e5068d84c0e45da4f83",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cố định hình dáng (giầy dép)",
+                            "explain": "用楦子填紧或撑大新鞋的中空部分使合于某种形状",
+                            "examples": [
+                                {
+                                    "m": "Đôi giày này quá chật và cần phải cố định lại hình dáng.",
+                                    "p_vn": "doi giay nay qua chat va can phai co dinh lai hinh dang.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f5cf6",
+                                    "id": 119994,
+                                    "type": "e_cnvi",
+                                    "e": "这双鞋穿着太紧，得排一排。",
+                                    "p_cn": "zhe shuang xie chuanzhuo tai jin, de pai yi pai.",
+                                    "p": "zhè shuāng xié chuānzhuó tài jǐn, dé pǎi yī pǎi."
+                                },
+                                {
+                                    "m": "Đôi giày của anh ấy quá lớn và cần được cố định lại hình dáng.",
+                                    "p_vn": "doi giay cua anh ay qua lon va can duoc co dinh lai hinh dang.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41f6008",
+                                    "id": 119995,
+                                    "type": "e_cnvi",
+                                    "e": "他的鞋子太大了，需要排一下。",
+                                    "p_cn": "ta de xiezi tai dale, xuyao pai yixia.",
+                                    "p": "tā de xiézi tài dàle, xūyào pǎi yīxià."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 270,
+                "search": 7933
+            },
+            "snym": null,
+            "lv_hsk_new": "2, 3",
+            "pinyin": "pǎi",
+            "cn_vi": "bài",
+            "word": "排",
+            "id": 40066,
+            "phonetic": "pai",
+            "rank": 1375,
+            "lv_tocfl": 3,
+            "compound": "排子车"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, zhī",
+                "examples": "",
+                "measure": "个, 只"
+            },
+            "topic": "6, 68",
+            "zhuyin": "ㄆㄞˊㄑㄧㄡˊ",
+            "_id": "1360184d930298f52945f9974b3db0d9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                136336,
+                                136337
+                            ],
+                            "struct": "排球 + Danh từ"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bóng chuyền",
+                            "explain": "一种球类运动，运动员站在很高的网两边用手打球，把球打落到对方场地上就得分",
+                            "examples": [
+                                {
+                                    "m": "Tôi thích đánh bóng chuyền.",
+                                    "p_vn": "toi thich danh bong chuyen.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ccaf92c",
+                                    "id": 136328,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢打排球。",
+                                    "p_cn": "wo xihuan da paiqiu.",
+                                    "p": "wǒ xǐhuan dǎ páiqiú."
+                                },
+                                {
+                                    "m": "Anh ấy chơi bóng chuyền rất giỏi.",
+                                    "p_vn": "anh ay choi bong chuyen rat gioi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ccb02c5",
+                                    "id": 136329,
+                                    "type": "e_cnvi",
+                                    "e": "他打排球打得很好。",
+                                    "p_cn": "ta da paiqiu da de hen hao.",
+                                    "p": "tā dǎ páiqiú dǎ dé hěn hǎo."
+                                },
+                                {
+                                    "m": "Chúng tôi chơi bóng chuyền ở bãi biển.",
+                                    "p_vn": "chung toi choi bong chuyen o bai bien.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ccb122e",
+                                    "id": 136330,
+                                    "type": "e_cnvi",
+                                    "e": "我们在海边打排球。",
+                                    "p_cn": "women zai haibian da paiqiu.",
+                                    "p": "wǒmen zài hǎibiān dǎ páiqiú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quả bóng chuyền",
+                            "explain": "这种运动中使用的球",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy đã mua một quả bóng chuyền.",
+                                    "p_vn": "co ay da mua mot qua bong chuyen.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ccb1adc",
+                                    "id": 136332,
+                                    "type": "e_cnvi",
+                                    "e": "她买了一个排球。",
+                                    "p_cn": "ta maile yige paiqiu.",
+                                    "p": "tā mǎile yīgè páiqiú."
+                                },
+                                {
+                                    "m": "Chúng tôi cần một quả bóng chuyền mới.",
+                                    "p_vn": "chung toi can mot qua bong chuyen moi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ccb28f6",
+                                    "id": 136333,
+                                    "type": "e_cnvi",
+                                    "e": "我们要一个新的排球。",
+                                    "p_cn": "women yao yige xin de paiqiu.",
+                                    "p": "wǒmen yào yīgè xīn de páiqiú."
+                                },
+                                {
+                                    "m": "Quả bóng chuyền này là của họ.",
+                                    "p_vn": "qua bong chuyen nay la cua ho.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ccb37df",
+                                    "id": 136335,
+                                    "type": "e_cnvi",
+                                    "e": "这个排球是他们的。",
+                                    "p_cn": "zhege paiqiu shi tamen de.",
+                                    "p": "zhège páiqiú shì tāmen de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 282,
+                "search": 2830
+            },
+            "snym": null,
+            "lv_hsk_new": "2, 5",
+            "pinyin": "páiqiú",
+            "cn_vi": "bài cầu",
+            "word": "排球",
+            "id": 40097,
+            "phonetic": "paiqiu",
+            "rank": 4182,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄨˊㄆㄞˊ",
+            "_id": "04e6fef274e930fb98acc3b328eb12e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Vỉ lò",
+                            "explain": "锅炉或工业炉中堆置固体燃料并使之有效燃烧的部件。整个炉排主要包括框架和炉排片两个部分。炉排片通常用铸铁制造，组装后片与片之间保持必要的通风缝隙，并且往往还在炉排下边设置可以调节风量的分隔的通风室，以便空气通过缝隙进入燃料层燃烧。烧尽后的灰渣用人工或机械方法排出。炉排有固定式、移动式、往复式、振动式和下饲式等类型。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "lô bài",
+            "pinyin": "lú pái",
+            "word": "炉排",
+            "id": 72405,
+            "phonetic": "lupai",
+            "rank": 94542,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄌㄩˋ",
+            "_id": "2eef47a871bfcede764345dd24ecf95f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thơ luật trường thiên (thường là ngũ ngôn)",
+                            "explain": "长篇的律诗一般是五言",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "bài luật",
+            "pinyin": "pái lǜ",
+            "word": "排律",
+            "id": 40090,
+            "phonetic": "pailu",
+            "rank": 113559,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄢㄆㄞˊ",
+            "_id": "86c27a79950c46e0acba1ceea1a4c607",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Solo; chơi đơn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Những người chơi bạn gặp trong hàng đợi đơn chỉ có thể lập nhóm với một người chơi khác tối đa, vì vậy mỗi trận đấu là một cơ hội để lập nhóm với một đồng đội mới.",
+                                    "p_vn": "Nhung nguoi choi ban gap trong hang doi don chi co the lap nhom voi mot nguoi choi khac toi da, vi vay moi tran dau la mot co hoi de lap nhom voi mot dong doi moi.",
+                                    "_id": "bdd7819df8fd4b43ac4232a2cd4ed006",
+                                    "id": 67552,
+                                    "type": "e_cnvi",
+                                    "e": "你在单排中遇到的玩家最多只能与另一名玩家组队，所以每局游戏都是一个和全新队友配合的机会。",
+                                    "p_cn": "Ni zai dan pai zhong yu dao de wanjia zuiduo zhi neng yu ling yi ming wanjia zu dui, suoyi mei ju youxi dou shi yige he quanxin duiyou peihe de jihui.",
+                                    "p": "Nǐ zài dān pái zhōng yù dào de wánjiā zuìduō zhǐ néng yǔ lìng yī míng wánjiā zǔ duì, suǒyǐ měi jú yóuxì dōu shì yīgè hé quánxīn duìyǒu pèihé de jīhuì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "đơn bài",
+            "pinyin": "dān pái",
+            "word": "单排",
+            "id": 152308,
+            "phonetic": "danpai",
+            "rank": 62621,
+            "kind": [
+                "v",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄛㄆㄞˊ",
+            "_id": "72c09472d8274935a8ebd181adb5a855",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tìm kiếm kỹ lưỡng",
+                            "explain": "thorough search",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "mạc bài",
+            "pinyin": "mōpái",
+            "word": "摸排",
+            "id": 91678,
+            "phonetic": "mopai",
+            "rank": 75537,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄘㄨㄛˋ",
+            "_id": "7e4b96b549da47d1ae72ecd114f9cb4e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gỡ lỗi",
+                            "explain": "debugging",
+                            "examples": []
+                        },
+                        {
+                            "mean": "erratum",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sắp xếp theo trình tự không chính xác",
+                            "explain": "to arrange in incorrect sequence",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tìm lỗi",
+                            "explain": "to debug",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xử lý sự cố",
+                            "explain": "troubleshooting",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "bài thác",
+            "pinyin": "pái cuò",
+            "word": "排错",
+            "id": 96993,
+            "phonetic": "paicuo",
+            "rank": 98502,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄧㄚˊ",
+            "_id": "e74c5eeb249c45f2855acec5b937e451",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Ngày xưa; trước khi thăng đường; quan viên cho bày biện nghi trượng để đợi liêu thuộc ra mắt. \n◇Bạch Cư Dị 白居易: Bất tri vũ tuyết Giang Lăng phủ; Kim nhật bài nha đắc miễn vô 不知雨雪江陵府; 今日排衙得免無 (Vũ tuyết phỏng triều nhân Hoài Vi Chi 雨雪放朝因懷微之).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bài nha",
+            "pinyin": "pái yá",
+            "word": "排衙",
+            "id": 150188,
+            "phonetic": "paiya",
+            "rank": 158107,
+            "kind": [
+                "time",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛㄆㄞˊ",
+            "_id": "068d07bf1cfe45a9ba054db23e5eb1d0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(sắp chữ) để thụt lề",
+                            "explain": "(typesetting) to indent",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "súc bài",
+            "pinyin": "suō pái",
+            "word": "缩排",
+            "id": 99214,
+            "phonetic": "suopai",
+            "rank": 120021,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧˋㄆㄞˊ",
+            "_id": "7f2499a7da4e44f4a85b7af7a25404a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hàng đầu (giữa các dòng của loại)",
+                            "explain": "leading (between lines of type)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "mật bài",
+            "pinyin": "mì pái",
+            "word": "密排",
+            "id": 91060,
+            "phonetic": "mipai",
+            "rank": 131066,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "82394ff32cbd4286bdcfef139fd8228e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xoa bóp để không bị nhức",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "bài toan",
+            "pinyin": "pái suān",
+            "word": "排酸",
+            "id": 167475,
+            "phonetic": "paisuan",
+            "rank": 116826,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄊㄡˊ",
+            "_id": "b238c21c7fb544d31802cf473df3e77e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người đứng đầu hàng",
+                            "explain": "站在队伍最前面的人",
+                            "examples": [
+                                {
+                                    "m": "nhìn người đứng trước điều chỉnh hàng.",
+                                    "p_vn": "nhin nguoi dung truoc dieu chinh hang",
+                                    "_id": "cdb8faf0ec9bf1c1f1a72f5ac2a85af5",
+                                    "id": 30291,
+                                    "type": "e_cnvi",
+                                    "e": "向排头看齐。",
+                                    "p_cn": "xiang paitou kanqi",
+                                    "p": "xiàng páitóu kànqí。"
+                                },
+                                {
+                                    "m": "người đứng đầu hàng là tiểu đội trưởng.",
+                                    "p_vn": "nguoi dung dau hang la tieu doi truong",
+                                    "_id": "c7aac653af70df866629330a95770d0c",
+                                    "id": 30292,
+                                    "type": "e_cnvi",
+                                    "e": "排头是小队长。",
+                                    "p_cn": "paitou shi xiao duizhang",
+                                    "p": "páitóu shì xiǎo duìzhǎng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 32
+            },
+            "snym": {
+                "anto": [
+                    "排尾"
+                ]
+            },
+            "cn_vi": "bài đầu",
+            "pinyin": "páitóu",
+            "word": "排头",
+            "id": 40101,
+            "phonetic": "paitou",
+            "rank": 69734,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄓㄤˇ",
+            "topic": "18",
+            "_id": "b0cfb95e9150d1ac112a5769a53fe34e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cai; trung đội trưởng",
+                            "explain": "军队职称之一，为一排之长，在班长之上，军长之下",
+                            "examples": [
+                                {
+                                    "m": "trung đội trưởng bị thương rồi, tiểu đội trưởng lên thay.",
+                                    "p_vn": "trung doi truong bi thuong roi, tieu doi truong len thay.",
+                                    "_id": "2f84763e31e90b0ddd309dfd08d2b1a7",
+                                    "id": 14806,
+                                    "type": "e_cnvi",
+                                    "e": "排长挂花了，班长代替指挥。",
+                                    "p_cn": "pai zhang gua huale, banzhang daiti zhihui.",
+                                    "p": "pái zhǎng guà huāle, bānzhǎng dàitì zhǐhuī."
+                                },
+                                {
+                                    "m": "đêm nay trung đội trưởng hướng dẫn trực ban.",
+                                    "p_vn": "dem nay trung doi truong huong dan truc ban",
+                                    "_id": "444495cfecb467ab722a422214ba6644",
+                                    "id": 6808,
+                                    "type": "e_cnvi",
+                                    "e": "今夜排长亲自带班。",
+                                    "p_cn": "jinye pai zhang qinzi daiban",
+                                    "p": "jīnyè pái zhǎng qīnzì dàibān."
+                                },
+                                {
+                                    "m": "sau khi tham gia vào quân đội, nhiều lần giữ chức vụ trung đội trưởng, đại đội trưởng...",
+                                    "p_vn": "sau khi tham gia vao quan doi nhieu lan giu chuc vu trung doi truong dai doi truong",
+                                    "_id": "b8e1ed5b7a0b003a5bdbaa03a9496a5f",
+                                    "id": 25473,
+                                    "type": "e_cnvi",
+                                    "e": "参军后，历任排长、连长等职。",
+                                    "p_cn": "canjun hou liren pai zhang lian zhang deng zhi",
+                                    "p": "cānjūn hòu, lìrèn pái zhǎng, lián zhǎng děng zhí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "bài trưởng",
+            "pinyin": "pái zhǎng",
+            "word": "排长",
+            "id": 40073,
+            "phonetic": "paizhang",
+            "rank": 57950,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d817a18db2c2484fad22a04cfbc28c3a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cột cừ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bài trang",
+            "pinyin": "pái zhuāng",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "排桩",
+            "id": 173905,
+            "phonetic": "paizhuang",
+            "rank": 143603,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄅㄧㄣˋ",
+            "_id": "d531436c1e9244e21375889368407db7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đẩy đi",
+                            "explain": "排挤抛弃",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "bài bấn",
+            "pinyin": "pái bìn",
+            "word": "排摈",
+            "id": 40072,
+            "phonetic": "paibin",
+            "rank": 139708,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄧㄣˋ",
+            "_id": "f9d00af37950f4146b35217b04cbfa7a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sắp chữ và in",
+                            "explain": "排版和印刷",
+                            "examples": [
+                                {
+                                    "m": "đang sắp chữ và in",
+                                    "p_vn": "dang sap chu va in",
+                                    "_id": "f1d0f3bbcf71ea95e83604acdbf661bf",
+                                    "id": 30295,
+                                    "type": "e_cnvi",
+                                    "e": "在排印中",
+                                    "p_cn": "zai paiyin zhong",
+                                    "p": "zài páiyìn zhōng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 35
+            },
+            "snym": {
+                "syno": [
+                    "付梓"
+                ]
+            },
+            "cn_vi": "bài ấn",
+            "pinyin": "páiyìn",
+            "word": "排印",
+            "id": 40110,
+            "phonetic": "paiyin",
+            "rank": 67106,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "38",
+            "zhuyin": "ㄆㄞˊㄅㄢˇ",
+            "_id": "e00419704eeaac171ff8beacc5a4a863",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sắp chữ (ngành in)",
+                            "explain": "依照稿本把铅字、图版等排在一起，拼成活字版",
+                            "examples": [
+                                {
+                                    "m": "Đồng nhất đất để nó trở nên đồng đều, trên một mặt phẳng hoặc sắp xếp với việc để lại các cạnh.",
+                                    "p_vn": "dong nhat dat de no tro nen dong deu, tren mot mat phang hoac sap xep voi viec de lai cac canh.",
+                                    "_id": "698415bc3dba41ac9713fb7d9a06101e",
+                                    "id": 73252,
+                                    "type": "e_cnvi",
+                                    "e": "齐平地使其均匀、在一个平面上或留边排版",
+                                    "p_cn": "qi pingdi shi qi junyun zai yi ge pingmian shang huo liu bian paiban",
+                                    "p": "qī píngdì shǐ qī jūnyún zài yī gè píngmiàn shàng huò liú biān páibǎn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 544
+            },
+            "snym": null,
+            "cn_vi": "bài bản",
+            "pinyin": "páibǎn",
+            "word": "排版",
+            "id": 40069,
+            "phonetic": "paiban",
+            "rank": 15049,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˇㄆㄞˊ",
+            "_id": "ecd71902a87442a8ac3f286de27068c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để giảm lượng khí thải",
+                            "explain": "to reduce emissions",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 83
+            },
+            "snym": null,
+            "cn_vi": "giảm bài",
+            "pinyin": "jiǎn pái",
+            "word": "减排",
+            "id": 101596,
+            "phonetic": "jianpai",
+            "rank": 45547,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄤˋㄆㄞˊ",
+            "_id": "cd415f13f648966ca5a5d364b009d75a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thả bè (gỗ; nứa); thả bè",
+                            "explain": "运竹子、木材的一种方法把它们扎成排筏从水路运走",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "phóng bài",
+            "pinyin": "fàng pái",
+            "word": "放排",
+            "id": 16247,
+            "phonetic": "fangpai",
+            "rank": 134804,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄅㄢ",
+            "_id": "d03ca6e276023ffb9c74852797ff9d00",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sắp xếp lớp học; sắp xếp ca làm",
+                            "explain": "依班次或班级排列",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 215
+            },
+            "snym": null,
+            "cn_vi": "bài ban",
+            "pinyin": "pái bān",
+            "word": "排班",
+            "id": 40068,
+            "phonetic": "paiban",
+            "rank": 27135,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄒㄩㄢ",
+            "_id": "be24716f277ca181529d0fc57de54d24",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quở trách; mắng",
+                            "explain": "数说责备;训斥",
+                            "examples": [
+                                {
+                                    "m": "anh ấy đã nhận lỗi, đừng trách anh ấy nữa.",
+                                    "p_vn": "anh ay da nhan loi dung trach anh ay nua",
+                                    "_id": "93aae99635100f1fcf1c9ff91bc6e758",
+                                    "id": 30294,
+                                    "type": "e_cnvi",
+                                    "e": "他已经认识错了，你别再排揎他了。",
+                                    "p_cn": "ta yijing renshi cuole ni bie zai pai xuan tale",
+                                    "p": "tā yǐjīng rènshì cuò le，nǐbié zài pái xuān tā le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "bài tuyên",
+            "pinyin": "pái xuan",
+            "word": "排揎",
+            "id": 40108,
+            "phonetic": "paixuan",
+            "rank": 127422,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄐㄧㄢˇ",
+            "_id": "e6a938c590614b148efe804c90dc484e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sắp xếp để dễ tìm kiếm",
+                            "explain": "to arrange for ease of search",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vào danh mục để truy xuất",
+                            "explain": "to catalogue for retrieval",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "bài kiểm",
+            "pinyin": "pái jiǎn",
+            "word": "排检",
+            "id": 103195,
+            "phonetic": "paijian",
+            "rank": 92164,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄥˊㄆㄞˊ",
+            "_id": "038c2cb920e946e5995db676c09079eb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thiết lập ngang (in ấn)",
+                            "explain": "horizontal setting (printing)",
+                            "examples": [
+                                {
+                                    "m": "Các lính, phương tiện giao thông hoặc thiết bị được sắp xếp sát nhau theo hàng ngang và cạnh nhau.",
+                                    "p_vn": "Cac linh, phuong tien giao thong hoac thiet bi duoc sap xep sat nhau theo hang ngang va canh nhau.",
+                                    "_id": "b5dce90ecedb48109f4263482999599e",
+                                    "id": 69476,
+                                    "type": "e_cnvi",
+                                    "e": "并排横排紧密地一个挨一个地排列着的士兵、交通工具或装备",
+                                    "p_cn": "bingpai heng pai jinmi di yi ge ai yi ge di pailie zhe de shibing jiaotonggongju huo zhuangbei",
+                                    "p": "bìngpái héng pái jǐnmì dì yī gè āi yī gè dì páiliè zhe de shìbīng jiāotōnggōngjù huò zhuāngbèi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 36
+            },
+            "snym": null,
+            "cn_vi": "hoành bài",
+            "pinyin": "héng pái",
+            "word": "横排",
+            "id": 103752,
+            "phonetic": "hengpai",
+            "rank": 66691,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "70",
+            "zhuyin": "ㄆㄞˊㄨ",
+            "_id": "26ee01fb4bb843ecb6140a7f2aa52db1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhà bậc thang",
+                            "explain": "terraced house",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "bài ốc",
+            "pinyin": "pái wū",
+            "word": "排屋",
+            "id": 91612,
+            "phonetic": "paiwu",
+            "rank": 81766,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄆㄞˊ",
+            "_id": "31828d246f93470ea130914ed368d7df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ức gà",
+                            "explain": "chicken breast",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cốt lết gà",
+                            "explain": "chicken cutlet",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 42,
+                "search": 855
+            },
+            "snym": null,
+            "cn_vi": "kê bài",
+            "pinyin": "jī pái",
+            "word": "鸡排",
+            "id": 94263,
+            "phonetic": "jipai",
+            "rank": 11036,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄨˇ",
+            "_id": "008ab9425a664303aa6e3041e6be9d30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một điệu nhảy trong đội hình",
+                            "explain": "a dance in formation",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vũ đạo biên đạo",
+                            "explain": "choreographed dance",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhảy dây",
+                            "explain": "line dance",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "bài vũ",
+            "pinyin": "pái wǔ",
+            "word": "排舞",
+            "id": 91615,
+            "phonetic": "paiwu",
+            "rank": 96347,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄌㄧㄤˋ",
+            "_id": "fbf0151ded3f4d4ca9abdd293f200474",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khối lượng xả",
+                            "explain": "discharge volume",
+                            "examples": []
+                        },
+                        {
+                            "mean": "công suất động cơ",
+                            "explain": "engine capacity",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dịch chuyển động cơ (thể tích hỗn hợp nhiên liệu không khí được hút vào trong một chu kỳ)",
+                            "explain": "engine displacement (volume of air fuel mixture drawn in during one cycle)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 269
+            },
+            "snym": null,
+            "cn_vi": "bài lượng",
+            "pinyin": "pái liàng",
+            "word": "排量",
+            "id": 107811,
+            "phonetic": "pailiang",
+            "rank": 23722,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "5750c3bde141431d8c39be7e156768cc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bài trận",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bài trận",
+            "pinyin": "pái zhèn",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "排阵",
+            "id": 183739,
+            "phonetic": "paizhen",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄒㄧㄠ",
+            "_id": "93feba3f509842afb3906ef01c4c0d94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "panpipe",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bài tiêu",
+            "pinyin": "pái xiāo",
+            "word": "排萧",
+            "id": 103198,
+            "phonetic": "paixiao",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄉㄧˊ",
+            "topic": "2",
+            "_id": "8e974d20274e2a90f573c0ca7e6586cb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Sáo syrinx, sáo thần păng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bài địch",
+            "pinyin": "pái dí",
+            "word": "排笛",
+            "id": 70978,
+            "phonetic": "paidi",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄨㄞˋ",
+            "_id": "013dd987956714e9f55cb69d95f525db",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bài ngoại (loại bỏ những gì của nước ngoài)",
+                            "explain": "排斥外国、外地或本党派、本集团以外的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 198
+            },
+            "snym": {
+                "anto": [
+                    "媚外"
+                ]
+            },
+            "cn_vi": "bài ngoại",
+            "pinyin": "páiwài",
+            "word": "排外",
+            "id": 40102,
+            "phonetic": "paiwai",
+            "rank": 28476,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄧㄡˊ",
+            "_id": "d14eaa79745a44a3bc386f964fd57ec1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chống chủ nghĩa bài Do Thái",
+                            "explain": "antisemitism",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để loại bỏ người Do Thái",
+                            "explain": "to eliminate Jews",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bài do",
+            "pinyin": "pái yóu",
+            "word": "排犹",
+            "id": 96990,
+            "phonetic": "paiyou",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄎㄨㄥ",
+            "_id": "29bce4b6104f4e9b8b7e14ffc8d42ce1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bay lên bầu trời",
+                            "explain": "to fly up to the sky",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 29
+            },
+            "snym": {
+                "anto": [
+                    "贮满"
+                ]
+            },
+            "cn_vi": "bài không",
+            "pinyin": "pái kōng",
+            "word": "排空",
+            "id": 103197,
+            "phonetic": "paikong",
+            "rank": 72274,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠˇㄆㄞˊ",
+            "topic": "34",
+            "_id": "92958d64392159b5febe81739e49e787",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Sườn non",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 30
+            },
+            "snym": null,
+            "cn_vi": "tiểu bài",
+            "pinyin": "xiǎo pái",
+            "word": "小排",
+            "id": 70192,
+            "phonetic": "xiaopai",
+            "rank": 71271,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄑㄧㄤ",
+            "_id": "928edd1752591a7bbf054f252f245ab9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hoả lực đồng loạt",
+                            "explain": "许多支枪同时向同一方向、目标进行射击的火力",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "bài thương",
+            "pinyin": "páiqiāng",
+            "word": "排枪",
+            "id": 40096,
+            "phonetic": "paiqiang",
+            "rank": 106250,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄉㄤˇ",
+            "_id": "5891514f114ee5c08e5ab41e4fd32152",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hộp số; sang số (bộ phận) (tăng giảm sức kéo của xe ô-tô)",
+                            "explain": "汽车、拖拉机等用来改变牵引力的装置，用于倒车或改变行车速度一般分为几级就叫几挡简称挡",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 148
+            },
+            "snym": null,
+            "cn_vi": "bài đảng",
+            "pinyin": "páidǎng",
+            "word": "排挡",
+            "id": 40077,
+            "phonetic": "paidang",
+            "rank": 33689,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄆㄞˊ",
+            "_id": "7d4478b9b124f935f41f310ddcd6e921",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sườn lợn rán; thịt lợn rán",
+                            "explain": "炸着吃或煎着吃的大片猪肉",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 203
+            },
+            "snym": null,
+            "cn_vi": "trư bài",
+            "pinyin": "zhūpái",
+            "word": "猪排",
+            "id": 65519,
+            "phonetic": "zhupai",
+            "rank": 28105,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "mian",
+                "examples": "一個美麗的女人坐在我前面一排。",
+                "measure": "面"
+            },
+            "zhuyin": "ㄧㄆㄞˊ",
+            "_id": "9a2ad5da57ce4f65b3a1817908cfea87",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hàng ngang",
+                            "explain": "row",
+                            "examples": [
+                                {
+                                    "m": "Một người phụ nữ xinh đẹp đã ngồi một hàng trước mặt tôi.",
+                                    "p_vn": "Mot nguoi phu nu xinh dep da ngoi mot hang truoc mat toi.",
+                                    "_id": "41f479218f7e4e7cb0da68f2fec9edc7",
+                                    "id": 56803,
+                                    "type": "e_cnvi",
+                                    "e": "一個美麗的女人坐在我前面一排。",
+                                    "p_cn": "yige meili de nvren zuozai wo qianmian yipai. ",
+                                    "p": "yīgè měilì de nv̌rén zuòzài wǒ qiánmiàn yīpái。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 154
+            },
+            "snym": null,
+            "cn_vi": "nhất bài",
+            "pinyin": "yī pái",
+            "word": "一排",
+            "id": 89650,
+            "phonetic": "yipai",
+            "rank": 32991,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧㄥˋㄆㄞˊ",
+            "_id": "bf095ee9546077b52a06605664861979",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "song song; dàn hàng; sóng đôi",
+                            "explain": "排列在一条线上，不分前后",
+                            "examples": [
+                                {
+                                    "m": "ba người dàn hàng đi qua",
+                                    "p_vn": "ba nguoi dan hang di qua",
+                                    "_id": "aebb27482c3a6a615a342b7ee77bdd21",
+                                    "id": 2263,
+                                    "type": "e_cnvi",
+                                    "e": "三个人并排地走过来。",
+                                    "p_cn": "san geren bingpai de zou guolai",
+                                    "p": "sān gèrén bìngpái de zǒu guòlái."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Ý nghĩa của \"并列\" và \"并排\" không giống nhau, cách dùng cũng không giống nhau, không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"并列\" và \"并排\"",
+                    "words": [
+                        "并列",
+                        "并排"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "并列"
+                ]
+            },
+            "cn_vi": "tịnh bài",
+            "pinyin": "bìngpái",
+            "popularity": {
+                "notebook": 24,
+                "search": 195
+            },
+            "word": "并排",
+            "id": 4078,
+            "phonetic": "bingpai",
+            "rank": 28805,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b6a5fc1ebb6d47a7ac8c3ee5fe8e09be",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bè cây",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "sao bài",
+            "pinyin": "shāo pái",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "梢排",
+            "id": 179837,
+            "phonetic": "shaopai",
+            "rank": 158017,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄌㄟˊ",
+            "_id": "b3eae623254dfd495f636398b068d63b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gỡ mìn; gỡ địa lôi",
+                            "explain": "排除地雷或水雷",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 49
+            },
+            "snym": null,
+            "cn_vi": "bài lôi",
+            "pinyin": "páiléi",
+            "word": "排雷",
+            "id": 40087,
+            "phonetic": "pailei",
+            "rank": 58393,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "53",
+            "zhuyin": "ㄆㄞˊㄒㄧㄝˋ",
+            "_id": "41219c14cc9ad5c5381b39a6255b580d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rửa sạch; tháo nước; thoát nước",
+                            "explain": "使雨水、污水等流走",
+                            "examples": [
+                                {
+                                    "m": "Tôi không muốn vứt bỏ chất thải của mình.",
+                                    "p_vn": "Toi khong muon vut bo chat thai cua minh.",
+                                    "_id": "3abbe65bee07466a96f23ad6b637e359",
+                                    "id": 66127,
+                                    "type": "e_cnvi",
+                                    "e": "我没有扔自己排泄物的冲动",
+                                    "p_cn": "wo meiyou reng ziji paixiewu de chongdong",
+                                    "p": "wǒ méiyǒu rēng zìjǐ páixièwù de chōngdòng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bài tiết; bài xuất; thải ra",
+                            "explain": "生物把体内的废物排出体外，例如动物的消化器官排泄粪便，皮肤排泄汗液，又如植物把多余的水分和矿物质排出体外",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 28,
+                "search": 298
+            },
+            "snym": {
+                "syno": [
+                    "分泌",
+                    "排除",
+                    "渗透",
+                    "渗出",
+                    "排放",
+                    "代谢"
+                ],
+                "anto": [
+                    "摄取",
+                    "吸收",
+                    "消化"
+                ]
+            },
+            "cn_vi": "bài tiết",
+            "pinyin": "páixiè",
+            "word": "排泄",
+            "id": 40105,
+            "phonetic": "paixie",
+            "rank": 22243,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "21",
+            "zhuyin": "ㄅㄧㄥㄆㄞˊ",
+            "_id": "880ade16ba62128da10b5f319218dabe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tảng băng (nổi trên mặt nước)",
+                            "explain": "大块浮冰",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "băng bài",
+            "pinyin": "bīng pái",
+            "word": "冰排",
+            "id": 3912,
+            "phonetic": "bingpai",
+            "rank": 116830,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄔㄚˊ",
+            "_id": "68ce1cc87f504c85b01a0d47bfddd5ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kiểm toán",
+                            "explain": "to audit",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kiểm tra",
+                            "explain": "to inspect",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chạy qua một danh sách kiểm tra",
+                            "explain": "to run through a checklist",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kiểm kê hàng hoá",
+                            "explain": "to take stock",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 46,
+                "search": 492
+            },
+            "snym": {
+                "syno": [
+                    "彻查"
+                ]
+            },
+            "cn_vi": "bài tra",
+            "pinyin": "páichá",
+            "word": "排查",
+            "id": 96989,
+            "phonetic": "paicha",
+            "rank": 16103,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄕㄥ",
+            "_id": "8ddd3a20fe454c6eb5e389ac21b8d13c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhạc cụ gió ống sậy có bàn phím",
+                            "explain": "reed-pipe wind instrument with a keyboard",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "bài sanh",
+            "pinyin": "pái shēng",
+            "word": "排笙",
+            "id": 107810,
+            "phonetic": "paisheng",
+            "rank": 137141,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "topic": "68",
+            "zhuyin": "ㄆㄞˊㄒㄧㄥˊ",
+            "_id": "8a601e07d48011155e310bc27b92e890",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "bậc; thứ; hạng (anh chị em); lứa",
+                            "explain": "(兄弟姐妹) 依长幼排列次序",
+                            "examples": [
+                                {
+                                    "m": "nó là thứ hai trong nhà (gia đình).",
+                                    "p_vn": "no la thu hai trong nha (gia dinh)",
+                                    "_id": "5004dab91644cfad8e6bd46da13c461e",
+                                    "id": 30293,
+                                    "type": "e_cnvi",
+                                    "e": "他排行第二。",
+                                    "p_cn": "ta paihang di er",
+                                    "p": "tā páiháng dì èr."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 37,
+                "search": 536
+            },
+            "snym": {
+                "syno": [
+                    "名次"
+                ]
+            },
+            "cn_vi": "bài hàng",
+            "pinyin": "páiháng",
+            "word": "排行",
+            "id": 40107,
+            "phonetic": "paihang",
+            "rank": 15214,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄖㄨˋ",
+            "_id": "4ca068afc4e14b048acb1ecd3a52812e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xả vào",
+                            "explain": "to discharge into",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tiết ra thành",
+                            "explain": "to secrete into",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 53
+            },
+            "snym": null,
+            "cn_vi": "bài nhập",
+            "pinyin": "pái rù",
+            "word": "排入",
+            "id": 91610,
+            "phonetic": "pairu",
+            "rank": 56310,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "排（动）"
+}

@@ -1,0 +1,2855 @@
+{
+    "total": 739,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄓㄜˇ",
+            "_id": "e5786a4ac9334861459e09b871bcef9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A hoặc B",
+                            "examples": [
+                                74069,
+                                74070
+                            ],
+                            "struct": "A + 或者 + B"
+                        },
+                        {
+                            "explain": "hoặc là A, hoặc là B",
+                            "examples": [
+                                104731,
+                                104738
+                            ],
+                            "struct": "或者 + A, 或者 + B"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "hoặc; hoặc là; hay; hay là",
+                            "explain": "连词，用在叙述句里，表示选择关系",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy hoặc cô ấy sẽ đến dự bữa tiệc.",
+                                    "p_vn": "anh ay hoac co ay se den du bua tiec.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3384a36",
+                                    "id": 104732,
+                                    "type": "e_cnvi",
+                                    "e": "他或者她会来参加聚会。",
+                                    "p_cn": "ta huozhe ta hui lai canjia juhui.",
+                                    "p": "tā huòzhě tā huì lái cānjiā jùhuì."
+                                },
+                                {
+                                    "m": "Bạn có thể chọn táo hoặc chuối.",
+                                    "p_vn": "ban co the chon tao hoac chuoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac33858f2",
+                                    "id": 104733,
+                                    "type": "e_cnvi",
+                                    "e": "你可以选择苹果或者香蕉。",
+                                    "p_cn": "ni keyi xuanze pingguo huozhe xiangjiao.",
+                                    "p": "nǐ kěyǐ xuǎnzé píngguǒ huòzhě xiāngjiāo."
+                                },
+                                {
+                                    "m": "Cô ấy có thể ở nhà hoặc ở trường.",
+                                    "p_vn": "co ay co the o nha hoac o truong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3386e3a",
+                                    "id": 104736,
+                                    "type": "e_cnvi",
+                                    "e": "她可能在家，或者在学校。",
+                                    "p_cn": "ta keneng zaijia, huozhe zai xuexiao.",
+                                    "p": "tā kěnéng zàijiā, huòzhě zài xuéxiào."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "..., chắc là/ có lẽ...",
+                            "examples": [
+                                104757,
+                                104762,
+                                104763
+                            ],
+                            "struct": "Mệnh đề ，或者 ..."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có lẽ; có thể; chắc là",
+                            "explain": "也许，可能",
+                            "examples": [
+                                {
+                                    "m": "Anh đi nhanh lên, có lẽ kịp chuyến xe đấy.",
+                                    "p_vn": "anh di nhanh len, co le kip chuyen xe day.",
+                                    "_id": "dba2f9f2d931c748093054ec4905298b",
+                                    "id": 19068,
+                                    "type": "e_cnvi",
+                                    "e": "你快走，或者还赶得上车。",
+                                    "p_cn": "ni kuaizou, huozhe hai gandeshang che.",
+                                    "p": "nǐ kuàizǒu, huòzhě hái gǎndéshàng chē."
+                                },
+                                {
+                                    "m": "Anh ta có thể hoàn thành nhiệm vụ đúng thời hạn.",
+                                    "p_vn": "anh ta co the hoan thanh nhiem vu dung thoi han.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3387e0e",
+                                    "id": 104737,
+                                    "type": "e_cnvi",
+                                    "e": "他或者按时完成任务。",
+                                    "p_cn": "ta huozhe anshi wancheng renwu.",
+                                    "p": "tā huòzhě ànshí wánchéng rènwù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều là liên từ mang nghĩa hoặc, biểu thị sự lựa chọn.\nKhác:\n- \"还是\" thường được dùng trong câu nghi vấn.\n\"或者\" thường được dùng trong câu trần thuật.\n- \"还是\" còn biểu thị sự mong muốn, hi vọng.",
+                    "title": "Phân biệt \"还是\" và \"或者\"",
+                    "words": [
+                        "还是",
+                        "或者"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "或许",
+                    "也许",
+                    "恐怕",
+                    "可能",
+                    "或将",
+                    "抑或",
+                    "间或"
+                ],
+                "anto": [
+                    "并且"
+                ]
+            },
+            "lv_hsk_new": "2, 3",
+            "pinyin": "huòzhě",
+            "cn_vi": "hoặc giả",
+            "popularity": {
+                "notebook": 1104,
+                "search": 21236
+            },
+            "word": "或者",
+            "id": 26215,
+            "phonetic": "huozhe",
+            "rank": 246,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv",
+                "conj",
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋ",
+            "_id": "c8617310a6654978ca679d15b66f82cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Có thể; có lẽ",
+                            "examples": [
+                                94624,
+                                94625
+                            ],
+                            "struct": "Chủ ngữ + 或 + Động từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có thể; có lẽ; chắc là",
+                            "explain": "或许; 也许",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy có lẽ đang bận.",
+                                    "p_vn": "anh ay co le dang ban.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c4293a3",
+                                    "id": 110422,
+                                    "type": "e_cnvi",
+                                    "e": "他或许忙了。",
+                                    "p_cn": "ta huoxu mangle.",
+                                    "p": "tā huòxǔ mángle."
+                                },
+                                {
+                                    "m": "Hôm nay có lẽ sẽ mưa.",
+                                    "p_vn": "hom nay co le se mua.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c42940d",
+                                    "id": 110423,
+                                    "type": "e_cnvi",
+                                    "e": "今天或许下雨。",
+                                    "p_cn": "jintian huoxu xia yu.",
+                                    "p": "jīntiān huòxǔ xià yǔ."
+                                },
+                                {
+                                    "m": "Ngày mai có lẽ tôi sẽ đến.",
+                                    "p_vn": "ngay mai co le toi se den.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c429e66",
+                                    "id": 110424,
+                                    "type": "e_cnvi",
+                                    "e": "我明天或许会来。",
+                                    "p_cn": "wo mingtian huoxu hui lai.",
+                                    "p": "wǒ míngtiān huòxǔ huì lái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hơi; chút; một chút; một ít",
+                            "explain": "稍微",
+                            "examples": [
+                                {
+                                    "m": "Không thể thiếu chút nào.",
+                                    "p_vn": "khong the thieu chut nao.",
+                                    "_id": "79272b894e35d06af63b164a94152370",
+                                    "id": 19063,
+                                    "type": "e_cnvi",
+                                    "e": "不可或缺。",
+                                    "p_cn": "bukehuoque.",
+                                    "p": "bùkěhuòquē."
+                                },
+                                {
+                                    "m": "Không thể sơ suất chút nào.",
+                                    "p_vn": "khong the so suat chut nao.",
+                                    "_id": "0d2a3798febd0a8318c04c1d40e372c5",
+                                    "id": 19064,
+                                    "type": "e_cnvi",
+                                    "e": "不可或忽。",
+                                    "p_cn": "buke huo hu.",
+                                    "p": "bùkě huò hū."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "người nào đó; có người",
+                            "explain": "某人; 有人的",
+                            "examples": [
+                                {
+                                    "m": "Có người thích quyển sách này.",
+                                    "p_vn": "co nguoi thich quyen sach nay.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c43b28f",
+                                    "id": 110428,
+                                    "type": "e_cnvi",
+                                    "e": "或曰喜欢这本书。",
+                                    "p_cn": "huo yue xihuan zhe ben shu.",
+                                    "p": "huò yuē xǐhuan zhè běn shū."
+                                },
+                                {
+                                    "m": "Có người nói là sẽ giúp không?",
+                                    "p_vn": "co nguoi noi la se giup khong?",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c440896",
+                                    "id": 110429,
+                                    "type": "e_cnvi",
+                                    "e": "或曰会帮忙吗？",
+                                    "p_cn": "huo yue hui bangmang ma?",
+                                    "p": "huò yuē huì bāngmáng ma?"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "A hoặc/hay là B",
+                            "examples": [
+                                94621,
+                                110569
+                            ],
+                            "struct": "A 或 B"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "hoặc; hay là; hoặc giả",
+                            "explain": "或者",
+                            "examples": [
+                                {
+                                    "m": "Bạn hoặc anh ấy đến đều được.",
+                                    "p_vn": "ban hoac anh ay den deu duoc.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c4af736",
+                                    "id": 110562,
+                                    "type": "e_cnvi",
+                                    "e": "你或他来都可以。",
+                                    "p_cn": "ni huo ta lai dou keyi.",
+                                    "p": "nǐ huò tā lái dōu kěyǐ."
+                                },
+                                {
+                                    "m": "Hôm nay hoặc ngày mai khởi hành.",
+                                    "p_vn": "hom nay hoac ngay mai khoi hanh.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c4af949",
+                                    "id": 110563,
+                                    "type": "e_cnvi",
+                                    "e": "今天或明天出发。",
+                                    "p_cn": "jintian huo mingtian chufa.",
+                                    "p": "jīntiān huò míngtiān chūfā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 213,
+                "search": 6414
+            },
+            "snym": {
+                "syno": [
+                    "或者"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "huò",
+            "cn_vi": "hoặc.vực",
+            "word": "或",
+            "id": 26209,
+            "phonetic": "huo",
+            "rank": 1806,
+            "lv_tocfl": 2,
+            "compound": "或然 ; 或然率 ; 或许 ; 或则 ; 或者"
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄉㄨㄛㄏㄨㄛˋㄕㄠˇ",
+            "_id": "d84d5e75ad230af40e61440ccce02fc3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Dù ít dù nhiều",
+                            "explain": "或多或少：汉语词语",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 82,
+                "search": 598
+            },
+            "snym": {
+                "syno": [
+                    "多多少少"
+                ]
+            },
+            "cn_vi": "hoặc đa hoặc thiếu",
+            "pinyin": "huò duō huò shǎo",
+            "word": "或多或少",
+            "id": 70710,
+            "phonetic": "huoduohuoshao",
+            "rank": 14109,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄣˊㄏㄨㄛˋ",
+            "_id": "b6d476bee1edc89b01e0b8274c31e839",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thậm chí; ngay cả",
+                            "explain": "甚至",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 76
+            },
+            "snym": {
+                "syno": [
+                    "不懂"
+                ]
+            },
+            "cn_vi": "thậm hoặc",
+            "pinyin": "shènhuò",
+            "word": "甚或",
+            "id": 46438,
+            "phonetic": "shenhuo",
+            "rank": 47765,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄕˋ",
+            "_id": "bef75ebc360732e04e0a13effe232401",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "hoặc; hoặc là",
+                            "explain": "有 时候是两项只选择一项",
+                            "examples": [
+                                {
+                                    "m": "Bạn có thể chọn xem phim, hoặc đi bơi.",
+                                    "p_vn": "ban co the chon xem phim, hoac di boi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571255567",
+                                    "id": 126486,
+                                    "type": "e_cnvi",
+                                    "e": "你可以选择看电影，或是去游泳。",
+                                    "p_cn": "ni keyi xuanze kan dianying, huo shi qu youyong.",
+                                    "p": "nǐ kěyǐ xuǎnzé kàn diànyǐng, huò shì qù yóuyǒng."
+                                },
+                                {
+                                    "m": "Chúng ta có thể ăn món Trung, hoặc ăn món Tây.",
+                                    "p_vn": "chung ta co the an mon trung, hoac an mon tay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571256349",
+                                    "id": 126487,
+                                    "type": "e_cnvi",
+                                    "e": "我们可以吃中餐，或是吃西餐。",
+                                    "p_cn": "women keyi chi zhongcan, huo shi chi xican.",
+                                    "p": "wǒmen kěyǐ chī zhōngcān, huò shì chī xīcān."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 90,
+                "search": 1267
+            },
+            "snym": {
+                "syno": [
+                    "抑或"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "huò shì",
+            "cn_vi": "hoặc thị",
+            "word": "或是",
+            "id": 82796,
+            "phonetic": "huoshi",
+            "rank": 8115,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e2428b5ed4f34458aa0128efad86d64e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "lâu lâu",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Quá trình từ trường hóa là quá trình làm cho một vật thể có tính từ tạm thời hoặc vĩnh viễn, ví dụ như đặt một vật thể vào một vật từ trường.",
+                                    "p_vn": "Qua trinh tu truong hoa la qua trinh lam cho mot vat the co tinh tu tam thoi hoac vinh vien, vi du nhu dat mot vat the vao mot vat tu truong.",
+                                    "_id": "d42bf701bda54b69915863f04e60b915",
+                                    "id": 71250,
+                                    "type": "e_cnvi",
+                                    "e": "磁化使一个物体具有暂时或永久性磁性的过程，例如把一个物体放入磁物中",
+                                    "p_cn": "cihua shi yi ge wuti juyou zanshi huo yongjiuxing cixing de guocheng liru ba yi ge wuti fang ru ci wu zhong",
+                                    "p": "cíhuà shǐ yī gè wùtǐ jùyǒu zànshí huò yǒngjiǔxìng cíxìng de guòchéng lìrú bǎ yī gè wùtǐ fàng rù cí wù zhōng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thì hoặc",
+            "pinyin": "shí huò",
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "word": "时或",
+            "id": 177176,
+            "phonetic": "shihuo",
+            "rank": 94043,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄜˋㄏㄨㄛˋ",
+            "_id": "fd5dd04de5e5af5673f623b43a0569b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giả dụ; giả sử",
+                            "explain": "假如",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "thiết hoặc",
+            "pinyin": "shè huò",
+            "word": "设或",
+            "id": 46086,
+            "phonetic": "shehuo",
+            "rank": 103891,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄗㄜˊ",
+            "_id": "785f884454c0346fd1a13510daef29dd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hoặc; hoặc là; hay là",
+                            "explain": "或者2. (大多叠用)",
+                            "examples": [
+                                {
+                                    "m": "Những ngày nắng, người già đi ra ngoại thành dạo chơi hoặc ra bờ sông câu cá.",
+                                    "p_vn": "nhung ngay nang, nguoi gia di ra ngoai thanh dao choi hoac ra bo song cau ca.",
+                                    "_id": "5bc217aa7bd8152c593a80612bf489ef",
+                                    "id": 19067,
+                                    "type": "e_cnvi",
+                                    "e": "天晴的日子, 老人家或则到城外散步, 或则到河边钓鱼。",
+                                    "p_cn": "tianqing de rizi, laorenjia huo ze dao chengwai sanbu, huo ze dao hebian diaoyu. ",
+                                    "p": "tiānqīng de rìzǐ, lǎorénjiā huò zé dào chéngwài sànbù, huò zé dào hébiān diàoyú。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 309
+            },
+            "snym": null,
+            "cn_vi": "hoặc tắc",
+            "pinyin": "huò zé",
+            "word": "或则",
+            "id": 26214,
+            "phonetic": "huoze",
+            "rank": 21768,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄤˇㄏㄨㄛˋ",
+            "_id": "084c28700a8c07d06a81562f389562f2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "nếu; nếu như; giả sử; giá như",
+                            "explain": "倘若",
+                            "examples": [
+                                {
+                                    "m": "Nếu hạn lớn đến, làm sao thoát khỏi?",
+                                    "p_vn": "neu han lon den, lam sao thoat khoi?",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7f16261",
+                                    "id": 89969,
+                                    "type": "e_cnvi",
+                                    "e": "倘或大限到来，如何免脱？",
+                                    "p_cn": "tanghuo daxian daolai, ruhe mian tuo?",
+                                    "p": "tǎnghuò dàxiàn dàolái, rúhé miǎn tuō?"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "chắc là; chắc; có lẽ; có thể (biểu thị sự suy đoán)",
+                            "explain": "可能",
+                            "examples": [
+                                {
+                                    "m": "Thức ăn từ ngoài đưa đến chắc có chuyện gì!",
+                                    "p_vn": "thuc an tu ngoai dua den chac co chuyen gi!",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7f16d2d",
+                                    "id": 89970,
+                                    "type": "e_cnvi",
+                                    "e": "食从外来，倘或有故。",
+                                    "p_cn": "shi cong wailai, tanghuo you gu.",
+                                    "p": "shí cóng wàilái, tǎnghuò yǒu gù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 22
+            },
+            "snym": {
+                "syno": [
+                    "倘若",
+                    "如果",
+                    "假如",
+                    "不信"
+                ]
+            },
+            "cn_vi": "thảng hoặc",
+            "pinyin": "tǎnghuò",
+            "word": "倘或",
+            "id": 50050,
+            "phonetic": "tanghuo",
+            "rank": 79661,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄙㄨˋ",
+            "_id": "ecb74bd26819a82af166253b92331cad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hộp giảm tốc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "hoặc tốc",
+            "pinyin": "huò sù",
+            "word": "或速",
+            "id": 77209,
+            "phonetic": "huosu",
+            "rank": 115342,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄔㄥ",
+            "_id": "f998b5d15a504ad1aa597421c0b47247",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "a.k.a.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Có giá trị đáng khen ngợi, đáng được thưởng hoặc khen ngợi; có giá trị.",
+                                    "p_vn": "Co gia tri dang khen ngoi, dang duoc thuong hoac khen ngoi; co gia tri.",
+                                    "_id": "263bda0c668a46a98d35d9fd1033cbbf",
+                                    "id": 73601,
+                                    "type": "e_cnvi",
+                                    "e": "值得嘉奖的值得奖励或称赞的；具有价值的",
+                                    "p_cn": "zhide jiajiang de zhide jiangli huo chengzan de juyou jiazhi de",
+                                    "p": "zhíde jiājiǎng de zhíde jiǎnglì huò chēngzàn de jùyǒu jiàzhí de"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "còn được gọi là",
+                            "explain": "also called",
+                            "examples": []
+                        },
+                        {
+                            "mean": "còn được biết là",
+                            "explain": "also known as",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "hoặc xưng",
+            "pinyin": "huò chēng",
+            "word": "或称",
+            "id": 107722,
+            "phonetic": "huocheng",
+            "rank": 75375,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄊㄧˇ",
+            "_id": "2f69005fd0a243f1bae39d82a606efbd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dạng thay thế của một ký tự Trung Quốc",
+                            "explain": "alternative form of a Chinese character",
+                            "examples": [
+                                {
+                                    "m": "Máy đo lượng khí thở; máy đo dung tích phổi được sử dụng để đo lực hoặc thể tích không khí hít vào hoặc thở ra từ phổi.",
+                                    "p_vn": "May do luong khi tho; may do dung tich phoi duoc su dung de do luc hoac the tich khong khi hit vao hoac tho ra tu phoi.",
+                                    "_id": "dd69f8067b2648389a221f0962bcfb26",
+                                    "id": 69971,
+                                    "type": "e_cnvi",
+                                    "e": "呼吸气量测定器；肺活量计用以测量肺部吸入或呼出空气的力量或体积的一种仪器",
+                                    "p_cn": "huxi qiliang ceding qi fei huo liangji yongyi celiang fei bu xiru huo huchu kongqi de liliang huo tiji de yizhong yiqi",
+                                    "p": "hūxī qìliàng cèdìng qì fèi huó liángjì yòngyǐ cèliáng fèi bù xīrù huò hūchū kōngqì de lìliang huò tǐjī de yīzhǒng yíqì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ký tự Trung Quốc biến thể",
+                            "explain": "variant Chinese character",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "hoặc thể",
+            "pinyin": "huò tǐ",
+            "word": "或体",
+            "id": 91384,
+            "phonetic": "huoti",
+            "rank": 67719,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄏㄨㄛˋ",
+            "_id": "2d17e68d3b01bafb3b2ed3b3f2e1f558",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "cho dù; dù cho",
+                            "explain": "即使",
+                            "examples": [
+                                {
+                                    "m": "Tác động chuyển cảm; Chuyển đổi cảm xúc là một cơ chế phòng bị, trong đó cảm xúc, ảnh hưởng và mong muốn được từ mục tiêu ban đầu chuyển tiếp vào một đối tượng thay thế ngay lập tức hoặc có thể chấp nhận hơn.",
+                                    "p_vn": "tac dong chuyen cam; chuyen doi cam xuc la mot co che phong bi, trong do cam xuc, anh huong va mong muon duoc tu muc tieu ban dau chuyen tiep vao mot doi tuong thay the ngay lap tuc hoac co the chap nhan hon.",
+                                    "_id": "df40748c4b8b4d15b7409dff42db5df3",
+                                    "id": 69688,
+                                    "type": "e_cnvi",
+                                    "e": "移情作用；情感转移一种防卫机制，情感、影响、愿望从原始目标潜意识地转移到一个立即或更可接受的替代对象",
+                                    "p_cn": "yiqing zuoyong qinggan zhuanyi yizhong fangwei jizhi qinggan yingxiang yuanwang cong yuanshi mubiao qianyishi di zhuanyi dao yi ge liji huo geng ke jieshou de tidai duixiang",
+                                    "p": "yíqīng zuòyòng qīnggǎn zhuǎnyí yīzhǒng fángwèi jīzhì qīnggǎn yǐngxiǎng yuànwàng cóng yuánshǐ mùbiāo qiányìshí dì zhuǎnyí dào yī gè lìjí huò gèng kě jiēshòu de tìdài duìxiàng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "tức hoặc",
+            "pinyin": "jí huò",
+            "word": "即或",
+            "id": 26784,
+            "phonetic": "jihuo",
+            "rank": 76287,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢㄏㄨㄛˋ",
+            "_id": "86f911032edab831bbfce3bb25fc0b8e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thỉnh thoảng; có lúc; ngẫu nhiên; hoạ hoằn; ba hồi; gián hoặc",
+                            "explain": "偶然;有时候",
+                            "examples": [
+                                {
+                                    "m": "mọi người tập trung lắng nghe, thỉnh thoảng có người cười lên vài tiếng.",
+                                    "p_vn": "moi nguoi tap trung lang nghe thinh thoang co nguoi cuoi len vai tieng",
+                                    "_id": "b24259d3d548a4ee1911f6b989a36e01",
+                                    "id": 20196,
+                                    "type": "e_cnvi",
+                                    "e": "大家聚精会神地听着，间或有人笑一两声。",
+                                    "p_cn": "dajia jujinghuishen de tingzhe jianhuo youren xiao yi liang sheng",
+                                    "p": "dàjiā jùjīnghuìshén de tīngzhe, jiànhuò yǒurén xiào yī liǎng shēng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lâu lâu",
+                            "explain": "时时; 经常不断地",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 152
+            },
+            "snym": {
+                "syno": [
+                    "一时",
+                    "不常",
+                    "或者",
+                    "偶然",
+                    "偶或",
+                    "偶尔"
+                ],
+                "anto": [
+                    "时常"
+                ]
+            },
+            "cn_vi": "gián hoặc",
+            "pinyin": "jiànhuò",
+            "word": "间或",
+            "id": 27941,
+            "phonetic": "jianhuo",
+            "rank": 33171,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄖㄢˊ",
+            "_id": "b20a47548fc5638271036e22bb042b26",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "có thể (nhưng không nhất định)",
+                            "explain": "有可能而不一定",
+                            "examples": [
+                                {
+                                    "m": "tính có thể",
+                                    "p_vn": "tinh co the",
+                                    "_id": "6393a6998139fbd6c3974c20351b76d0",
+                                    "id": 19065,
+                                    "type": "e_cnvi",
+                                    "e": "或然性",
+                                    "p_cn": "huo ran xing",
+                                    "p": "huòránxìng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 35
+            },
+            "snym": {
+                "syno": [
+                    "偶然",
+                    "或许",
+                    "随机"
+                ],
+                "anto": [
+                    "必然"
+                ]
+            },
+            "cn_vi": "hoặc nhiên",
+            "pinyin": "huò rán",
+            "word": "或然",
+            "id": 26210,
+            "phonetic": "huoran",
+            "rank": 67552,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2231e687cee2461c88ea327c3343a9d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Có thể là như vậy. Có vẻ vậy. Như: Ý giả 意者.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "ý hoặc",
+            "pinyin": "yì huò",
+            "word": "意或",
+            "id": 169766,
+            "phonetic": "yihuo",
+            "rank": 107865,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "topic": "12, 13, 32",
+            "zhuyin": "ㄏㄨㄛˋㄒㄩˇ",
+            "_id": "4e702526a3f3197cfc40670ce1e30808",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A có thể/ có lẽ ...",
+                            "examples": [
+                                118013,
+                                118014
+                            ],
+                            "struct": "A + 或许 + ..."
+                        },
+                        {
+                            "explain": "có thể/ có lẽ A ...",
+                            "examples": [
+                                118016,
+                                118018,
+                                118019
+                            ],
+                            "struct": "或许 + A +..."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có thể; có lẽ; hay là; biết đâu",
+                            "explain": "也许; 或者; 可能; 恐怕; 表示不很肯定",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy không đến, có lẽ bị bệnh rồi.",
+                                    "p_vn": "anh ay khong den, co le bi benh roi.",
+                                    "_id": "b0c75dced87b76b23135a428edc7f99f",
+                                    "id": 19066,
+                                    "type": "e_cnvi",
+                                    "e": "他没来，或许是病了。",
+                                    "p_cn": "ta meilai，huoxu shi bing le。",
+                                    "p": "tā méilái，huòxǔ shì bìng le。"
+                                },
+                                {
+                                    "m": "Tôi nghĩ có lẽ chúng ta có thể đi cùng nhau.",
+                                    "p_vn": "toi nghi co le chung ta co the di cung nhau.",
+                                    "_id": "329486f68b2b4177e0301e5c72ff22c3",
+                                    "id": 87015,
+                                    "type": "e_cnvi",
+                                    "e": "我觉得或许我们可以一起去。",
+                                    "p_cn": "wo juede huoxu women keyi yiqi qu.",
+                                    "p": "wǒ juéde huòxǔ wǒmen kěyǐ yīqǐ qù."
+                                },
+                                {
+                                    "m": "Câu hỏi này chắc là không khó.",
+                                    "p_vn": "cau hoi nay chac la khong kho.",
+                                    "_id": "641148288b13f4cf43a85133e8cb29e4",
+                                    "id": 118011,
+                                    "type": "e_cnvi",
+                                    "e": "这道题或许不难。",
+                                    "p_cn": "zhe dao ti huoxu bu nan.",
+                                    "p": "zhè dào tí huòxǔ bù nán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"或许\" và\"也许\"giống nhau, đều thể hiện sự suy đoán, đánh giá, có ngữ điệu không khẳng định, không chắc chắn cho lắm.\nKhác:\n- Tần suất sử dụng của \"也许\" nhiều hơn \"或许\".\n- \"或许\" dùng nhiều trong văn viết, văn nói thường dùng \"也许\".",
+                    "title": "Phân biệt \"或许\" và \"也许\"",
+                    "words": [
+                        "或许",
+                        "也许"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "或者",
+                    "大概",
+                    "或然",
+                    "能够",
+                    "恐怕",
+                    "也许",
+                    "可能",
+                    "或将",
+                    "抑或",
+                    "没准"
+                ],
+                "anto": [
+                    "确乎",
+                    "一定",
+                    "肯定",
+                    "确实"
+                ]
+            },
+            "lv_hsk_new": "4, 6",
+            "pinyin": "huòxǔ",
+            "cn_vi": "hoặc hứa",
+            "popularity": {
+                "notebook": 435,
+                "search": 4486
+            },
+            "word": "或许",
+            "id": 26212,
+            "phonetic": "huoxu",
+            "rank": 2699,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄩㄝ",
+            "_id": "0751f18a4453f3516bcee03256210477",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có người nói rằng; người ta nói rằng",
+                            "explain": "有人说这是设问或，不定代词，不是连词里的\"或\"",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "hoặc viết",
+            "pinyin": "huò yuē",
+            "word": "或曰",
+            "id": 26213,
+            "phonetic": "huoyue",
+            "rank": 68978,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄇㄣˊ",
+            "_id": "ee749d999c0c4876993d933e5ce1f07a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Cổng HOẶC (điện tử)",
+                            "explain": "OR gate (electronics)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "hoặc môn",
+            "pinyin": "huò mén",
+            "word": "或门",
+            "id": 96736,
+            "phonetic": "huomen",
+            "rank": 149385,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄏㄨㄛˋ",
+            "_id": "927566db8ca54e228d80d88747180a7e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "hoặc",
+                            "explain": "or",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 113
+            },
+            "snym": null,
+            "cn_vi": "diệc hoặc",
+            "pinyin": "yì huò",
+            "word": "亦或",
+            "id": 89885,
+            "phonetic": "yihuo",
+            "rank": 39080,
+            "kind": [
+                "conj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˋㄏㄨㄛˋ",
+            "_id": "abb5ca81026a1519d7c49c558c948e8c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "hay là; hoặc",
+                            "explain": "表示选择关系",
+                            "examples": [
+                                {
+                                    "m": "không biết họ tán thành hay phản đối.",
+                                    "p_vn": "khong biet ho tan thanh hay phan doi",
+                                    "_id": "510059d7c1f71655d87e131d4fe3f109",
+                                    "id": 45462,
+                                    "type": "e_cnvi",
+                                    "e": "不知他们是赞成，抑或是反对。",
+                                    "p_cn": "buzhi tamen shi zancheng yihuo shi fandui",
+                                    "p": "bùzhī tāmen shì zànchéng，yìhuò shì fǎndùi。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 43,
+                "search": 414
+            },
+            "snym": {
+                "syno": [
+                    "也许",
+                    "或许",
+                    "或是",
+                    "或者"
+                ]
+            },
+            "cn_vi": "ức hoặc",
+            "pinyin": "yìhuò",
+            "word": "抑或",
+            "id": 59861,
+            "phonetic": "yihuo",
+            "rank": 17980,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨㄥˊㄏㄨㄛˋ",
+            "_id": "46d1531a77a41257a661b506757c0068",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có lẽ; có thể",
+                            "explain": "或许;也许",
+                            "examples": [
+                                {
+                                    "m": "bài văn này viết theo hồi ức, so với thực tế có thể thêm bớt.",
+                                    "p_vn": "bai van nay viet theo hoi uc so voi thuc te co the them bot",
+                                    "_id": "1c62121f51641b14305d357b6179e519",
+                                    "id": 33898,
+                                    "type": "e_cnvi",
+                                    "e": "这篇文章是根据回忆写的, 与事实容或有出入。",
+                                    "p_cn": "zhe pian wenzhang shi genju huiyi xie de yu shishi rong huo you churu",
+                                    "p": "zhè piānwénzhāng shì gēnjù húiyì xiě de , yǔ shìshí róng huò yǒu chūrù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 25
+            },
+            "snym": {
+                "syno": [
+                    "容许"
+                ]
+            },
+            "cn_vi": "dung hoặc",
+            "pinyin": "róng huò",
+            "word": "容或",
+            "id": 44485,
+            "phonetic": "ronghuo",
+            "rank": 76073,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "pro",
+                "part"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄜˇ",
+            "_id": "5a521631cfb533be2b77ebf5e20d7db8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                93336,
+                                93337
+                            ],
+                            "struct": "Động từ/ Tính từ （作/读/记/学/消费/旁观）"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người; kẻ; cái (dùng chỉ người, vật hoặc sự việc)",
+                            "explain": "用在形容词或动词后面，或带有形容词或动词的词组后面，表示有此属性或做此动作的人或事物",
+                            "examples": [
+                                {
+                                    "m": "Kẻ mạnh",
+                                    "p_vn": "ke manh",
+                                    "_id": "99544835632b52c09b6da67b7cbeb506",
+                                    "id": 49359,
+                                    "type": "e_cnvi",
+                                    "e": "强者",
+                                    "p_cn": "qiangzhe",
+                                    "p": "qiángzhě"
+                                },
+                                {
+                                    "m": "Ở đây có rất nhiều người già.",
+                                    "p_vn": "o day co rat nhieu nguoi gia.",
+                                    "_id": "e1a71ecacd60365caf3d70782aca40f0",
+                                    "id": 49360,
+                                    "type": "e_cnvi",
+                                    "e": "这里有很多老者。",
+                                    "p_cn": "zhe li you henduo laozhe.",
+                                    "p": "zhè li yǒu hěnduō lǎozhě."
+                                },
+                                {
+                                    "m": "Tác giả",
+                                    "p_vn": "tac gia",
+                                    "_id": "581bec3b7515edd22d67e73c0766af2b",
+                                    "id": 49361,
+                                    "type": "e_cnvi",
+                                    "e": "作者",
+                                    "p_cn": "zuozhe",
+                                    "p": "zuòzhě"
+                                },
+                                {
+                                    "m": "Độc giả; người đọc",
+                                    "p_vn": "doc gia; nguoi doc",
+                                    "_id": "22a10c9cc88405fe4310de75f89cc27f",
+                                    "id": 49362,
+                                    "type": "e_cnvi",
+                                    "e": "读者",
+                                    "p_cn": "duzhe",
+                                    "p": "dúzhě"
+                                },
+                                {
+                                    "m": "Kẻ thắng lợi; người thắng lợi",
+                                    "p_vn": "ke thang loi; nguoi thang loi",
+                                    "_id": "9e9a2b89487fbc2fcf3c8019b632d492",
+                                    "id": 49363,
+                                    "type": "e_cnvi",
+                                    "e": "胜利者",
+                                    "p_cn": "shenglizhe",
+                                    "p": "shènglìzhě"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "người; kẻ (dùng sau công việc hoặc chủ nghĩa)",
+                            "explain": "用在某某工作、某某主义后面，表示从事某项工作或信仰某个主义的人",
+                            "examples": [
+                                {
+                                    "m": "Nghệ sĩ (người làm công tác văn nghệ)",
+                                    "p_vn": "nghe si (nguoi lam cong tac van nghe)",
+                                    "_id": "07ca5b42bf0a875a7cf8e43f27108ec4",
+                                    "id": 49367,
+                                    "type": "e_cnvi",
+                                    "e": "文艺工作者",
+                                    "p_cn": "wenyigongzuozhe",
+                                    "p": "wényìgōngzuòzhě"
+                                },
+                                {
+                                    "m": "Người theo chủ nghĩa cộng sản; người cộng sản",
+                                    "p_vn": "nguoi theo chu nghia cong san; nguoi cong san",
+                                    "_id": "1792bec6b10b6e26aa609ec5d8c9e627",
+                                    "id": 49368,
+                                    "type": "e_cnvi",
+                                    "e": "共产主义者",
+                                    "p_cn": "gongchanzhuyizhe",
+                                    "p": "gòngchǎnzhǔyìzhě"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "này; cái này (dùng sau số từ 2, 3 để chỉ sự vật đã nói ở trên)",
+                            "explain": "用在''二、三数''等数词后面，指上文所说的几件事物",
+                            "examples": [
+                                {
+                                    "m": "Trong hai cái này phải chọn một.",
+                                    "p_vn": "trong hai cai nay phai chon mot.",
+                                    "_id": "1d56e266de32ac0bac3363bfe76dfed3",
+                                    "id": 49369,
+                                    "type": "e_cnvi",
+                                    "e": "二者必居其一。",
+                                    "p_cn": "erzhe bijuqiyi.",
+                                    "p": "èrzhě bìjūqíyī."
+                                },
+                                {
+                                    "m": "Trong hai cái này không thể thiếu một cái.",
+                                    "p_vn": "trong hai cai nay khong the thieu mot cai.",
+                                    "_id": "87f3780e3cabdbdf777315248401c3d3",
+                                    "id": 49370,
+                                    "type": "e_cnvi",
+                                    "e": "两者缺一不可。",
+                                    "p_cn": "liangzhe queyibuke.",
+                                    "p": "liǎngzhě quēyībùkě."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "là (dùng sau từ, nhóm từ hoặc phân câu biểu thị sự ngừng ngắt)",
+                            "explain": "表示“是” 用在词、词组、分句后面表示停顿",
+                            "examples": [
+                                {
+                                    "m": "Gió là do không khí chuyển động mà thành.",
+                                    "p_vn": "gio la do khong khi chuyen dong ma thanh.",
+                                    "_id": "b054d07c985b11ab1421376217169073",
+                                    "id": 49371,
+                                    "type": "e_cnvi",
+                                    "e": "风者，空气流动而成。",
+                                    "p_cn": "fengzhe，kongqi liudong ercheng.",
+                                    "p": "fēngzhě，kōngqì líudòng érchéng."
+                                },
+                                {
+                                    "m": "Lòng nhân là làm người; lẽ phải là làm điều phải.",
+                                    "p_vn": "long nhan la lam nguoi; le phai la lam dieu phai.",
+                                    "_id": "f2efc94449b26b3e2967bccbc934eb4c",
+                                    "id": 93320,
+                                    "type": "e_cnvi",
+                                    "e": "仁者，人也；义者，宜也。",
+                                    "p_cn": "renzhe, ren ye; yi zhe, yi ye.",
+                                    "p": "rénzhě, rén yě; yì zhě, yí yě."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "này (giống từ''这'', thường thấy trong Bạch thoại thời kỳ đầu)",
+                            "explain": "义同''这'' (多见于早期白话)",
+                            "examples": [
+                                {
+                                    "m": "Lần này; chuyến này",
+                                    "p_vn": "lan nay; chuyen nay",
+                                    "_id": "fac349f8cdafc14624403f51851258ec",
+                                    "id": 49373,
+                                    "type": "e_cnvi",
+                                    "e": "者番",
+                                    "p_cn": "zhe fan",
+                                    "p": "zhě fān"
+                                },
+                                {
+                                    "m": "Bên này; phía này",
+                                    "p_vn": "ben nay; phia nay",
+                                    "_id": "1aea65c7e5c618a8bdc48a51575f86df",
+                                    "id": 49374,
+                                    "type": "e_cnvi",
+                                    "e": "者边",
+                                    "p_cn": "zhe bian",
+                                    "p": "zhě biān"
+                                },
+                                {
+                                    "m": "Bên này là trường học của tôi.",
+                                    "p_vn": "ben nay la truong hoc cua toi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9353271",
+                                    "id": 93327,
+                                    "type": "e_cnvi",
+                                    "e": "者边是我的学校。",
+                                    "p_cn": "zhe bian shi wo de xuexiao.",
+                                    "p": "zhě biān shì wǒ de xuéxiào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 259,
+                "search": 9676
+            },
+            "snym": null,
+            "lv_hsk_new": "3",
+            "pinyin": "zhě",
+            "cn_vi": "giả",
+            "word": "者",
+            "id": 63764,
+            "phonetic": "zhe",
+            "rank": 1052,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄖㄢˊㄌㄩˋ",
+            "_id": "abd9c18f4226cef2d7043414f70bd4ef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xác suất",
+                            "explain": "概率的旧称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "hoặc nhiên suất",
+            "pinyin": "huòránlǜ",
+            "word": "或然率",
+            "id": 26211,
+            "phonetic": "huoranlu",
+            "rank": 85453,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄏㄨㄛˋㄕˋ",
+            "_id": "41a1b90c3ad44ae1999fcc0319055baa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Hoặc là; âu đành",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tôi từng nghĩ , hiểu lầm là một từ đơn giản hoặc là phức tạp.",
+                                    "p_vn": "Toi tung nghi , hieu lam la mot tu don gian hoac la phuc tap.",
+                                    "_id": "b7a7ca1403b74c96a049ac892bfa3405",
+                                    "id": 56282,
+                                    "type": "e_cnvi",
+                                    "e": "我曾猜想,误会是一个简单抑或是复杂的词。",
+                                    "p_cn": "Wo ceng caixiang, wuhui shi yige jiandan yihuo shi fuza de ci.",
+                                    "p": "Wǒ céng cāixiǎng, wùhuì shì yīgè jiǎndān yìhuò shì fùzá de cí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "ức hoặc thị",
+            "pinyin": "yìhuò shì",
+            "word": "抑或是",
+            "id": 85638,
+            "phonetic": "yihuoshi",
+            "rank": 69015,
+            "kind": [
+                "conj",
+                "punct"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄧㄡˇㄈㄟˋ",
+            "_id": "955e9faaae0e1f4bc115634c71b6cf55",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lệ phí đột xuất",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hoặc hữu phí",
+            "pinyin": "huò yǒu fèi",
+            "word": "或有费",
+            "id": 82597,
+            "phonetic": "huoyoufei",
+            "rank": 110312,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "qún, míng, wèi",
+                "examples": "",
+                "measure": "群, 名,位"
+            },
+            "topic": "30, 38, 67, 75",
+            "zhuyin": "ㄐㄧˋㄓㄜˇ",
+            "_id": "d8ac68c9d659b9e5b62198a8ea95d21c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                126350,
+                                126351,
+                                126352,
+                                126353
+                            ],
+                            "struct": "(摄影/体育/驻外/实习/女/男) + 记者"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                126354
+                            ],
+                            "struct": "记者+ Danh từ (证/站/招待会）"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ký giả; phóng viên; nhà báo",
+                            "explain": "通讯社、报刊、电台等采访新闻和写通讯报道的专职人员",
+                            "examples": [
+                                {
+                                    "m": "Tôi muốn trở thành một nhà báo sau khi tốt nghiệp.",
+                                    "p_vn": "toi muon tro thanh mot nha bao sau khi tot nghiep.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571206ac1",
+                                    "id": 126347,
+                                    "type": "e_cnvi",
+                                    "e": "毕业后，我想当一名记者。",
+                                    "p_cn": "biye hou, wo xiang dang yi ming jizhe.",
+                                    "p": "bìyè hòu, wǒ xiǎng dāng yī míng jìzhě."
+                                },
+                                {
+                                    "m": "Cô ấy là phóng viên báo chí, kiến thức rất sâu rộng.",
+                                    "p_vn": "co ay la phong vien bao chi, kien thuc rat sau rong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571207713",
+                                    "id": 126348,
+                                    "type": "e_cnvi",
+                                    "e": "她是报社记者，见闻很广。",
+                                    "p_cn": "ta shi baoshe jizhe, jianwen hen guang.",
+                                    "p": "tā shì bàoshè jìzhě, jiànwén hěn guǎng."
+                                },
+                                {
+                                    "m": "Người phóng viên đó đang đưa tin.",
+                                    "p_vn": "nguoi phong vien do dang dua tin.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57120851e",
+                                    "id": 126349,
+                                    "type": "e_cnvi",
+                                    "e": "那位记者在报道新闻。",
+                                    "p_cn": "na wei jizhe zai baodao xinwen.",
+                                    "p": "nà wèi jìzhě zài bàodào xīnwén."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 662,
+                "search": 7148
+            },
+            "snym": null,
+            "lv_hsk_new": "3, 4",
+            "pinyin": "jìzhě",
+            "cn_vi": "kí giả",
+            "word": "记者",
+            "id": 27179,
+            "phonetic": "jizhe",
+            "rank": 1573,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˋㄓㄜˇ",
+            "_id": "d7afcacc135a4da7b8b8a19f5f210392",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người chết hoặc ra đi",
+                            "explain": "the dead or departed",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 141
+            },
+            "snym": {
+                "syno": [
+                    "死人"
+                ]
+            },
+            "cn_vi": "thệ giả",
+            "pinyin": "shì zhě",
+            "word": "逝者",
+            "id": 100224,
+            "phonetic": "shizhe",
+            "rank": 34656,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "他是个侍者也是个演员。\nTā shìgè shìzhě yěshì gè yǎnyuán.\nAnh ấy là một bồi bàn và một diễn viên.",
+                "measure": "个"
+            },
+            "topic": "20, 75, 67",
+            "zhuyin": "ㄕˋㄓㄜˇ",
+            "_id": "c0fa5dff3ef60ad0a90e949a5ac3f746",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phục vụ bồi bàn",
+                            "explain": "侍者：词语",
+                            "examples": [
+                                {
+                                    "m": "Anh ta lén lút đưa một bảng Anh cho người phục vụ, nhằm mong muốn được ngồi ở một bàn tốt.",
+                                    "p_vn": "Anh ta len lut dua mot bang Anh cho nguoi phuc vu, nham mong muon duoc ngoi o mot ban tot.",
+                                    "_id": "155d47ce4f524a308ebb8b077ef2daf2",
+                                    "id": 69748,
+                                    "type": "e_cnvi",
+                                    "e": "他偷偷塞给侍者一镑，以求得到好的桌位。",
+                                    "p_cn": "ta toutou saigei shizhe yi bang yiqiu dedao hao de zhuo wei",
+                                    "p": "tā tōutōu sāigěi shìzhě yī bàng yǐqiú dédào hǎo de zhuō wèi"
+                                },
+                                {
+                                    "m": "Một nhân viên phục vụ mang đến cho anh ta một ly cà phê loãng.",
+                                    "p_vn": "Mot nhan vien phuc vu mang den cho anh ta mot ly ca phe loang.",
+                                    "_id": "80477439fdc54f70b17d823c2ed0ee9e",
+                                    "id": 72749,
+                                    "type": "e_cnvi",
+                                    "e": "一个侍者给他端来一杯稀咖啡。",
+                                    "p_cn": "yi ge shizhe gei ta duan lai yi bei xi kafei",
+                                    "p": "yī gè shìzhě gěi tā duān lái yī bēi xī kāfēi"
+                                },
+                                {
+                                    "m": "Nhân viên phục vụ trên tàu hỏa, nhân viên phục vụ trong các toa giường nằm hoặc xe khách sang trọng hạng đặc biệt để phục vụ hành khách.",
+                                    "p_vn": "nhan vien phuc vu tren tau hoa, nhan vien phuc vu trong cac toa giuong nam hoac xe khach sang trong hang dac biet de phuc vu hanh khach.",
+                                    "_id": "b9fbd2e88f164e5abc4ee03c51066250",
+                                    "id": 72391,
+                                    "type": "e_cnvi",
+                                    "e": "火车中的侍者，服务员火车上的卧铺车厢或特等豪华客车中服务于旅客的雇员",
+                                    "p_cn": "huoche zhongdi shizhe fuwuyuan huoche shang de wopu chexiang huo tedeng haohua keche zhong fuwu yu lǚke de guyuan",
+                                    "p": "huǒchē zhòngdì shìzhě fúwùyuán huǒchē shàng de wòpù chēxiāng huò tèděng háohuá kèchē zhōng fúwù yú lǚkè de gùyuán"
+                                },
+                                {
+                                    "m": "Anh ấy gọi người phục vụ mang thực đơn đến.",
+                                    "p_vn": "Anh ay goi nguoi phuc vu mang thuc don den.",
+                                    "_id": "bb310274f792463a97cab0561b4f5ba2",
+                                    "id": 72750,
+                                    "type": "e_cnvi",
+                                    "e": "他叫侍者拿菜单来。",
+                                    "p_cn": "ta jiao shizhe na caidan lai",
+                                    "p": "tā jiào shìzhě ná càidān lái"
+                                },
+                                {
+                                    "m": "Người phục vụ cẩu thả đó đã làm rơi đĩa xuống đất.",
+                                    "p_vn": "Nguoi phuc vu cau tha do da lam roi dia xuong dat.",
+                                    "_id": "5f2976603e85406d99ac0a020e25e0d9",
+                                    "id": 72751,
+                                    "type": "e_cnvi",
+                                    "e": "那个粗心的侍者把盘子摔到了地上。",
+                                    "p_cn": "nage cuxin de shizhe ba panzi shuai daoliao dishang",
+                                    "p": "nàge cūxīn de shìzhě bǎ pánzi shuāi dàoliǎo dìshang"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 114
+            },
+            "snym": {
+                "syno": [
+                    "仆欧",
+                    "侍役",
+                    "堂倌",
+                    "跑堂",
+                    "酒保"
+                ]
+            },
+            "cn_vi": "thị giả",
+            "pinyin": "shìzhě",
+            "word": "侍者",
+            "id": 68460,
+            "phonetic": "shizhe",
+            "rank": 38886,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˇㄓㄜˇ",
+            "_id": "f01bee37ac6e48f0a940b1a59c069bdb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ninja; nhẫn giả",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Ninja là một nghề đặc biệt ở Nhật Bản, giải thích đơn giản là ở Nhật Bản cổ đại, nó là một loại tổ chức đặc biệt.",
+                                    "p_vn": "Ninja la mot nghe dac biet o Nhat Ban, giai thich don gian la o Nhat Ban co dai, no la mot loai to chuc dac biet.",
+                                    "_id": "0c44e31178444358aa3eaec6e897184c",
+                                    "id": 55259,
+                                    "type": "e_cnvi",
+                                    "e": "忍者是日本特有的一种职业，简单的解释就是在古代日本一种受过特殊机构",
+                                    "p_cn": "Renzhe shi riben teyou de yi zhong zhiye, jiandan de jieshi jiushi zai gudai riben yi zhong shouguo teshu jigou",
+                                    "p": "Rěnzhě shì rìběn tèyǒu de yī zhǒng zhíyè, jiǎndān de jiěshì jiùshì zài gǔdài rìběn yī zhǒng shòuguò tèshū jīgòu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 165
+            },
+            "snym": null,
+            "cn_vi": "nhẫn giả",
+            "pinyin": "rěnzhě",
+            "word": "忍者",
+            "id": 84544,
+            "phonetic": "renzhe",
+            "rank": 31686,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "24, 42, 50",
+            "zhuyin": "ㄒㄧㄥˊㄓㄜˇ",
+            "_id": "88a87b0a9c591daae8277056329569a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người đi đường; khách bộ hành",
+                            "explain": "行人",
+                            "examples": [
+                                {
+                                    "m": "Du hành tàu thăm dò không gian",
+                                    "p_vn": "Du hanh tau tham do khong gian",
+                                    "_id": "4b209c0c84b9454da85a2c27bb43fec8",
+                                    "id": 65923,
+                                    "type": "e_cnvi",
+                                    "e": "旅行者号太空探测器",
+                                    "p_cn": "lvxingzhe hao taikong tanceqi",
+                                    "p": "lv̌xíngzhě hào tàikōng tàncèqì"
+                                },
+                                {
+                                    "m": "Tôn Hành Giả đánh bại công chúa Thiết Phiến.",
+                                    "p_vn": "ton hanh gia danh bai cong chua thiet phien.",
+                                    "_id": "7b1e72a34306e0a7947aad596a6d4063",
+                                    "id": 48854,
+                                    "type": "e_cnvi",
+                                    "e": "孙行者战败了铁扇公主。",
+                                    "p_cn": "sunxingzhe zhanbai le tieshangongzhu。",
+                                    "p": "sūnxíngzhě zhànbài le tiěshàngōngzhǔ。"
+                                },
+                                {
+                                    "m": "Tôn Hành Giả đã chiến thắng công chúa Thiết Phiến.",
+                                    "p_vn": "ton hanh gia da chien thang cong chua thiet phien",
+                                    "_id": "965f671797388d6c41dc8beda0b07d13",
+                                    "id": 48855,
+                                    "type": "e_cnvi",
+                                    "e": "孙行者把铁扇公主战败了。",
+                                    "p_cn": "sun xingzhe ba tie shan gongzhu zhanbaile",
+                                    "p": "sūnxíngzhě bǎ tiěshàngōngzhǔ zhànbài le。"
+                                },
+                                {
+                                    "m": "Tôi là người làm và người hành động!",
+                                    "p_vn": "Toi la nguoi lam va nguoi hanh dong!",
+                                    "_id": "9f27b7f0d50e4d28b079568967e5a7f1",
+                                    "id": 66354,
+                                    "type": "e_cnvi",
+                                    "e": "我是践行者和实干家",
+                                    "p_cn": "wo shi jian xingzhe he shiganjia",
+                                    "p": "wǒ shì jiàn xíngzhě hé shígānjiā"
+                                },
+                                {
+                                    "m": "những người đi trước.",
+                                    "p_vn": "nhung nguoi di truoc",
+                                    "_id": "c46bf83ca93458cb63ab6cea5b92caae",
+                                    "id": 41734,
+                                    "type": "e_cnvi",
+                                    "e": "先行者。",
+                                    "p_cn": "xianxingzhe",
+                                    "p": "xiānxíngzhě。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hành giả (tín đồ đạo Phật chưa làm lễ xuống tóc)",
+                            "explain": "出家而未经剃度的佛教徒",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 112
+            },
+            "snym": null,
+            "cn_vi": "hành giả",
+            "pinyin": "xíngzhě",
+            "word": "行者",
+            "id": 56766,
+            "phonetic": "xingzhe",
+            "rank": 39251,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "34",
+            "zhuyin": "ㄓˋㄓㄜˇ",
+            "_id": "8bd408781b3846319dcf54052bb727e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người thông minh và hiểu biết",
+                            "explain": "clever and knowledgeable person",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Hiền nhân",
+                            "explain": "sage",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người đàn ông thông minh",
+                            "explain": "wise man",
+                            "examples": [
+                                {
+                                    "m": "Tôi là một nhà thông thái.",
+                                    "p_vn": "Toi la mot nha thong thai.",
+                                    "_id": "5cb1fdb71c1542959c71af5ffd7ad699",
+                                    "id": 64557,
+                                    "type": "e_cnvi",
+                                    "e": "我就是智者",
+                                    "p_cn": "wo jiushi zhizhe",
+                                    "p": "wǒ jìushì zhìzhě"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 50,
+                "search": 630
+            },
+            "snym": {
+                "syno": [
+                    "圣贤",
+                    "圣人",
+                    "先哲",
+                    "智士"
+                ],
+                "anto": [
+                    "愚者",
+                    "莽夫"
+                ]
+            },
+            "cn_vi": "trí giả",
+            "pinyin": "zhìzhě",
+            "word": "智者",
+            "id": 97338,
+            "phonetic": "zhizhe",
+            "rank": 13613,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄞˊㄓㄜˇ",
+            "_id": "8dade3d10e1709baf7e776759decdcdd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "sắp xảy ra; sắp xuất hiện (sự việc, con người)",
+                            "explain": "将来出现的事或人",
+                            "examples": [
+                                {
+                                    "m": "Một số quan chức tham nhũng luôn hoan nghênh những người đút lót.",
+                                    "p_vn": "Mot so quan chuc tham nhung luon hoan nghenh nhung nguoi dut lot.",
+                                    "_id": "b0f51e3656fa41f0aaae505271debb4c",
+                                    "id": 55519,
+                                    "type": "e_cnvi",
+                                    "e": "有些贪官对送礼者是来者不拒。",
+                                    "p_cn": "Youxie tanguan dui songli zhe shi lai zhe bu ju.",
+                                    "p": "Yǒuxiē tānguān duì sònglǐ zhě shì lái zhě bù jù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xảy ra; đến",
+                            "explain": "到来的人或物",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "người tới, người đến",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 85
+            },
+            "snym": {
+                "syno": [
+                    "过客"
+                ]
+            },
+            "cn_vi": "lai giả",
+            "pinyin": "lái zhě",
+            "word": "来者",
+            "id": 33443,
+            "phonetic": "laizhe",
+            "rank": 45047,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄜ˙ㄓㄜˇ",
+            "_id": "7608dff080ca814621bda2ba757f80d0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tác giả; người sáng tác; trứ giả",
+                            "explain": "书或文章的作者",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 76
+            },
+            "snym": null,
+            "cn_vi": "trước giả",
+            "pinyin": "zhùzhě",
+            "word": "著者",
+            "id": 65820,
+            "phonetic": "zhuzhe",
+            "rank": 47731,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0d4abc173d3045fe886f3e4043047ca0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thức giả",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thức giả",
+            "pinyin": "shí zhě",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "识者",
+            "id": 178215,
+            "phonetic": "shizhe",
+            "rank": 157483,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "005e0f7b03d744bd84217d3104756f78",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kẻ yếu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nhược giả",
+            "pinyin": "ruòzhě",
+            "popularity": {
+                "notebook": 9,
+                "search": 123
+            },
+            "word": "弱者",
+            "id": 173334,
+            "phonetic": "ruozhe",
+            "rank": 37304,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙˇㄓㄜˇ",
+            "_id": "4140fcd8cbe04e72bfd3d13d5a9ec186",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cái chết",
+                            "explain": "the dead",
+                            "examples": [
+                                {
+                                    "m": "Người chết thứ tư.",
+                                    "p_vn": "Nguoi chet thu tu.",
+                                    "_id": "e1aeb7092e6c41adb21bfa87f2e6fe90",
+                                    "id": 57122,
+                                    "type": "e_cnvi",
+                                    "e": "死者是第四个",
+                                    "p_cn": "sizhe shi disige",
+                                    "p": "sǐzhě shì dìsìgè"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "người chết",
+                            "explain": "the deceased",
+                            "examples": [
+                                {
+                                    "m": "Người đã khuất là một người bạn của bạn?",
+                                    "p_vn": "Nguoi da khuat la mot nguoi ban cua ban?",
+                                    "_id": "f7923e88ce5f4e96b6c6fdba74f5f414",
+                                    "id": 57127,
+                                    "type": "e_cnvi",
+                                    "e": "死者是你朋友吗",
+                                    "p_cn": "sizhe shi ni pengyou ma",
+                                    "p": "sǐzhě shì nǐ péngyǒu ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 128
+            },
+            "snym": null,
+            "cn_vi": "tử giả",
+            "pinyin": "sǐzhě",
+            "word": "死者",
+            "id": 92133,
+            "phonetic": "sizhe",
+            "rank": 36426,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Wèi",
+                "examples": "从前有一位老者住在这个岛屿上。\nCóngqián yǒuyī wèi lǎozhě zhù zài zhège dǎoyǔ shàng.\nTừng có một ông già sống trên hòn đảo này.",
+                "measure": "位"
+            },
+            "zhuyin": "ㄌㄠˇㄓㄜˇ",
+            "_id": "98565175ab3bc100aca64cc1a0f9ce39",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lão già; ông già",
+                            "explain": "年老的男子",
+                            "examples": [
+                                {
+                                    "m": "Lão nhân gia dặn dò không được càng ngày càng lún sâu, càng ngày càng phạm sai lầm.",
+                                    "p_vn": "Lao nhan gia dan do khong duoc cang ngay cang lun sau, cang ngay cang pham sai lam.",
+                                    "_id": "9d1a3fd1e47c4c28aabfda91cb9e3667",
+                                    "id": 55858,
+                                    "type": "e_cnvi",
+                                    "e": "这位老者劝诫他不要越陷越深,一错再错。",
+                                    "p_cn": "Zhe wei laozhe quanjie ta buyao yue xian yue shen, yi cuo zai cuo.",
+                                    "p": "Zhè wèi lǎozhě quànjiè tā bùyào yuè xiàn yuè shēn, yī cuò zài cuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 141
+            },
+            "snym": {
+                "anto": [
+                    "童子"
+                ]
+            },
+            "cn_vi": "lão giả",
+            "pinyin": "lǎozhě",
+            "word": "老者",
+            "id": 33939,
+            "phonetic": "laozhe",
+            "rank": 34567,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "30",
+            "zhuyin": "ㄊㄧㄥㄓㄜˇ",
+            "_id": "37634936d741f78d1a8a49b720f71bdc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người nghe",
+                            "explain": "“听者”是听者文化科技为iphone用户精心打造的实用软件，它是通过网友上传分享来讲解图书的，提供给使用者数以万计的音频内容：资讯、听者讲堂、培训、音乐赏析、评书、小说、少儿·.....上百个精品类目，让更多的听众在闲暇时间更方便、更快捷的了解和掌握各种知识。",
+                            "examples": [
+                                {
+                                    "m": "Cô cúi đầu tuyệt vọng vì người nói không có chủ ý và người nghe có chủ ý.",
+                                    "p_vn": "Co cui dau tuyet vong vi nguoi noi khong co chu y va nguoi nghe co chu y.",
+                                    "_id": "8d7f1442f09de3624779ccdfbe2d59fd",
+                                    "id": 54559,
+                                    "type": "e_cnvi",
+                                    "e": "言者无意,听者有心,她把头拼命低下来。",
+                                    "p_cn": "Yan zhe wuyi, ting zhe youxin, ta batou pinming di xialai.",
+                                    "p": "Yán zhě wúyì, tīng zhě yǒuxīn, tā bǎtóu pīnmìng dī xiàlái."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 67
+            },
+            "snym": null,
+            "cn_vi": "thính giả",
+            "pinyin": "tīng zhě",
+            "word": "听者",
+            "id": 83835,
+            "phonetic": "tingzhe",
+            "rank": 50856,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄥㄓㄜˇ",
+            "_id": "72a929c06413482db781b7a0a1acbdef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trong những trường hợp ít nghiêm trọng hơn",
+                            "explain": "in less severe cases; less serious case",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 40
+            },
+            "snym": null,
+            "cn_vi": "khinh giả",
+            "pinyin": "qīng zhě",
+            "word": "轻者",
+            "id": 105733,
+            "phonetic": "qingzhe",
+            "rank": 63342,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧˇㄓㄜˇ",
+            "_id": "27b6343bfbf40d080d64127b0197094e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người viết; người viết bài này; người viết sách này; tác giả (tự xưng)",
+                            "explain": "某一篇文章或某一本书的作者（多用于自称）",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 155
+            },
+            "snym": null,
+            "cn_vi": "bút giả",
+            "pinyin": "bǐzhě",
+            "word": "笔者",
+            "id": 2912,
+            "phonetic": "bizhe",
+            "rank": 32757,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "25e67bedb8f446d9aaca2f03050a06aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh vọng; quyền thế vang dội",
+                            "explain": "指聲譽、勢力等著稱。",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phô trương; khoe khoang",
+                            "explain": "顯擺。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "hiển giả",
+            "pinyin": "xiǎn zhě",
+            "word": "显者",
+            "id": 172038,
+            "phonetic": "xianzhe",
+            "rank": 125291,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "把伤者送到医院。\nBǎ shāng zhě sòng dào yīyuàn.\nKhiêng người bị thương đến bệnh viện.",
+                "measure": "个"
+            },
+            "zhuyin": "ㄕㄤㄓㄜˇ",
+            "_id": "35c0ff0adb5245269b7f4f5df6cb224d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thương vong",
+                            "explain": "casualty",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nạn nhân (của một tai nạn)",
+                            "explain": "victim (of an accident)",
+                            "examples": [
+                                {
+                                    "m": "Hiện nữ nạn nhân sắp được phẫu thuật",
+                                    "p_vn": "Hien nu nan nhan sap duoc phau thuat",
+                                    "_id": "96e09f7c0dfa4347a27cf9581d689e52",
+                                    "id": 65352,
+                                    "type": "e_cnvi",
+                                    "e": "女伤者现在结束手术了",
+                                    "p_cn": "nv shangzhe xianzai jieshu shouzhu le",
+                                    "p": "nv̌ shāngzhě xiànzài jiéshù shǒuzhú le"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "người bị thương",
+                            "explain": "wounded person",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "thương giả",
+            "pinyin": "shāng zhě",
+            "word": "伤者",
+            "id": 106754,
+            "phonetic": "shangzhe",
+            "rank": 65201,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄛˋㄓㄜˇ",
+            "_id": "3c5dd790143e47738bb472f7ac15903d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Mohist",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người theo trường phái Mohist",
+                            "explain": "follower of Mohist school",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "mặc giả",
+            "pinyin": "mò zhě",
+            "word": "墨者",
+            "id": 90759,
+            "phonetic": "mozhe",
+            "rank": 149959,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄡˋㄓㄜˇ",
+            "_id": "6059e6930fc117d94872f984c5b29fdd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "sau; thứ hai",
+                            "explain": "所提到的或不言自明的两个或更多人或事物中的最后一个",
+                            "examples": [
+                                {
+                                    "m": "tiền nhân chủ trương nhân nghĩa, hậu nhân chủ trương tranh lợi",
+                                    "p_vn": "tien nhan chu truong nhan nghia, hau nhan chu truong tranh loi",
+                                    "_id": "61844d72bd43413d903f36c2962979bb",
+                                    "id": 67785,
+                                    "type": "e_cnvi",
+                                    "e": "前者主张仁义，后者主张争利",
+                                    "p_cn": "Qianzhe zhuzhang renyi, hou zhe zhuzhang zheng li",
+                                    "p": "Qiánzhě zhǔzhāng rényì, hòu zhě zhǔzhāng zhēng lì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 30,
+                "search": 822
+            },
+            "snym": {
+                "syno": [
+                    "其次",
+                    "另外"
+                ]
+            },
+            "cn_vi": "hậu giả",
+            "pinyin": "hòu zhě",
+            "word": "后者",
+            "id": 23919,
+            "phonetic": "houzhe",
+            "rank": 11330,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄣˇㄓㄜˇ",
+            "_id": "9ef2cb9b2a814976ae6327cd7dea803d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người ở ẩn.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "ẩn giả",
+            "pinyin": "yǐn zhě",
+            "word": "隐者",
+            "id": 150629,
+            "phonetic": "yinzhe",
+            "rank": 98592,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9c0c02d879b04233896bb16dfafe8db9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "tệ hơn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Hiện nay rất nhiều học sinh gian lận thi cử, không chỉ thế, còn có những “người thi hộ” chuyên thi hộ người khác",
+                                    "p_vn": "hien nay rat nhieu hoc sinh gian lan thi cu, khong chi the, con co nhung \"nguoi thi ho\" chuyen thi ho nguoi khac",
+                                    "_id": "bc2c3b5ee1de465fac0f893ccc3f32f3",
+                                    "id": 56118,
+                                    "type": "e_cnvi",
+                                    "e": "如今有不少学生考试作弊，更有甚者，还有专门替别人考试的”枪手”",
+                                    "p_cn": "rujin you bu shao xuesheng kaoshi zuobi, geng you shen zhe, hai you zhuanmen ti bieren kaoshi de\" qiangshou\"",
+                                    "p": "Rújīn yǒu bù shǎo xuéshēng kǎoshì zuòbì, gèng yǒu shén zhě, hái yǒu zhuānmén tì biéren kǎoshì de” qiāngshǒu”"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thậm giả",
+            "pinyin": "shén zhě",
+            "popularity": {
+                "notebook": 3,
+                "search": 41
+            },
+            "word": "甚者",
+            "id": 186026,
+            "phonetic": "shenzhe",
+            "rank": 63284,
+            "kind": [
+                "conj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄤˊㄓㄜˇ",
+            "_id": "7de076fae23e4ab486a0439811582919",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người mạnh",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Thế giới là thế giới của kẻ mạnh, và chỉ kẻ mạnh mới có thể vượt qua mọi khó khăn, cải tạo thế giới và làm chủ thế giới.",
+                                    "p_vn": "The gioi la the gioi cua ke manh, va chi ke manh moi co the vuot qua moi kho khan, cai tao the gioi va lam chu the gioi.",
+                                    "_id": "23a88993539d4111b238a58cd31794fa",
+                                    "id": 55575,
+                                    "type": "e_cnvi",
+                                    "e": "世界是世界的强者，只有强者，才能排除万难，改造世界，驾驭世界。",
+                                    "p_cn": "Shijie shi shijie de qiang zhe, zhiyou qiang zhe, caineng paichu wannan, gaizao shijie, jiayu shijie.",
+                                    "p": "Shìjiè shì shìjiè de qiáng zhě, zhǐyǒu qiáng zhě, cáinéng páichú wànnán, gǎizào shìjiè, jiàyù shìjiè."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 334
+            },
+            "snym": {
+                "syno": [
+                    "强人",
+                    "王者",
+                    "过人",
+                    "强手"
+                ],
+                "anto": [
+                    "懦夫"
+                ]
+            },
+            "cn_vi": "cường giả",
+            "pinyin": "qiáng zhě",
+            "word": "强者",
+            "id": 84883,
+            "phonetic": "qiangzhe",
+            "rank": 20641,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "7",
+            "zhuyin": "ㄨㄟˊㄓㄜˇ",
+            "_id": "a1812933e4f74bbb93f7860dc46d8b70",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người vi phạm",
+                            "explain": "violator",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 67
+            },
+            "snym": null,
+            "cn_vi": "vi giả",
+            "pinyin": "wéi zhě",
+            "word": "违者",
+            "id": 100164,
+            "phonetic": "weizhe",
+            "rank": 50558,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄨˊㄓㄜˇ",
+            "_id": "886d08d17c904c26a4fc9deb53631aeb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nho gia",
+                            "explain": "Confucian",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "nho giả",
+            "pinyin": "rúzhě",
+            "word": "儒者",
+            "id": 90076,
+            "phonetic": "ruzhe",
+            "rank": 110287,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "或者"
+}

@@ -1,0 +1,2961 @@
+{
+    "total": 277,
+    "found": true,
+    "result": [
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄔˊ",
+            "_id": "e3fc25a48681e4551e5e307890299f8a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "hoãn/ dời lại bao lâu",
+                            "examples": [
+                                79736,
+                                142541
+                            ],
+                            "struct": "推迟 + (到) + Danh từ chỉ thời gian"
+                        },
+                        {
+                            "explain": "chủ thể hoãn/ dời lại cái gì",
+                            "examples": [
+                                142551,
+                                142552
+                            ],
+                            "struct": "Chủ ngữ + 推迟 + Danh từ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hoãn; dời lại; chậm lại; lùi lại; hoãn lại; trì hoãn",
+                            "explain": "把预定时间向后改动",
+                            "examples": [
+                                {
+                                    "m": "Thời gian họp dời lại một ngày.",
+                                    "p_vn": "thoi gian hop doi lai mot ngay.",
+                                    "_id": "15f9eede0d2f6b212954ac2f67d7375d",
+                                    "id": 39711,
+                                    "type": "e_cnvi",
+                                    "e": "开会日期推迟一天。",
+                                    "p_cn": "kaihui riqi tuichi yitian。",
+                                    "p": "kāihùi rìqī tūichí yītiān。"
+                                },
+                                {
+                                    "m": "Đám cưới bị hoãn đến tháng sau.",
+                                    "p_vn": "dam cuoi bi hoan den thang sau.",
+                                    "_id": "9938873f438f99a1b005f10050fb788c",
+                                    "id": 142539,
+                                    "type": "e_cnvi",
+                                    "e": "婚礼被推迟到下个月。",
+                                    "p_cn": "hunli bei tuichi dao xia ge yue.",
+                                    "p": "hūnlǐ bèi tuīchí dào xià gè yuè."
+                                },
+                                {
+                                    "m": "Chuyến bay bị hoãn hai giờ.",
+                                    "p_vn": "chuyen bay bi hoan hai gio.",
+                                    "_id": "9938873f438f99a1b005f10050fb78b3",
+                                    "id": 142540,
+                                    "type": "e_cnvi",
+                                    "e": "航班推迟了两个小时。",
+                                    "p_cn": "hangban tuichile liang ge xiaoshi.",
+                                    "p": "hángbān tuīchíle liǎng gè xiǎoshí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"推迟\" và \"推后\" là từ đồng nghĩa và có thể được sử dụng thay thế cho nhau.",
+                    "title": "Phân biệt \"推迟\" và \"退后\"",
+                    "words": [
+                        "推迟",
+                        "退后"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "推延",
+                    "推后",
+                    "拒绝",
+                    "迟到"
+                ],
+                "anto": [
+                    "提前",
+                    "延长",
+                    "提早"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "tuīchí",
+            "cn_vi": "thôi trì",
+            "popularity": {
+                "notebook": 500,
+                "search": 5136
+            },
+            "word": "推迟",
+            "id": 51866,
+            "phonetic": "tuichi",
+            "rank": 2332,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄔˊ",
+            "_id": "c54b9ac9fb1c2896512f8c4be4027336",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                127060,
+                                127061
+                            ],
+                            "struct": "迟迟不 + Động từ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                127058,
+                                127059
+                            ],
+                            "struct": "迟迟没有 + Động từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "chậm trễ; lần lữa; kề cà; chề chà; cứ mãi",
+                            "explain": "表示时间长或时间拖得很晚。",
+                            "examples": [
+                                {
+                                    "m": "Sao bạn mãi không nghe điện thoại vậy.",
+                                    "p_vn": "sao ban mai khong nghe dien thoai vay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5713cb733",
+                                    "id": 127047,
+                                    "type": "e_cnvi",
+                                    "e": "你怎么迟迟不接电话啊。",
+                                    "p_cn": "ni zenme chi chi bu jie dianhua a.",
+                                    "p": "nǐ zěnme chí chí bù jiē diànhuà a."
+                                },
+                                {
+                                    "m": "Lão Trương vẫn chưa đến.",
+                                    "p_vn": "lao truong van chua den.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5713cb879",
+                                    "id": 127048,
+                                    "type": "e_cnvi",
+                                    "e": "老张还迟迟不来。",
+                                    "p_cn": "lao zhang hai chi chi bu lai.",
+                                    "p": "lǎo zhāng hái chí chí bù lái."
+                                },
+                                {
+                                    "m": "Cô ấy vẫn mãi không dậy.",
+                                    "p_vn": "co ay van mai khong day.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5713ccad7",
+                                    "id": 127050,
+                                    "type": "e_cnvi",
+                                    "e": "她还迟迟不起床。",
+                                    "p_cn": "ta hai chi chi bu qichuang.",
+                                    "p": "tā hái chí chí bù qǐchuáng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 59,
+                "search": 695
+            },
+            "snym": {
+                "syno": [
+                    "迟疑",
+                    "徐徐",
+                    "延迟",
+                    "迟到",
+                    "款款"
+                ],
+                "anto": [
+                    "立刻",
+                    "马上",
+                    "立即"
+                ]
+            },
+            "cn_vi": "trì trì",
+            "pinyin": "chí chí",
+            "word": "迟迟",
+            "id": 7656,
+            "phonetic": "chichi",
+            "rank": 12777,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                "n"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄔˊ",
+            "_id": "b3cf97f4e21ff065a7e98a2084f5d644",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Trì trệ chưa bắt đầu làm gì",
+                            "examples": [
+                                100232,
+                                120756
+                            ],
+                            "struct": "迟迟 + 不/ 没 + Động từ"
+                        },
+                        {
+                            "explain": "Đến muộn; ngủ muộn",
+                            "examples": [
+                                100235
+                            ],
+                            "struct": "Động từ ( 来/ 去/ 睡 ）+ 迟 + 了"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "chậm; chần chừ; trì trệ",
+                            "explain": "慢",
+                            "examples": [
+                                {
+                                    "m": "Anh ta luôn hành động rất chậm.",
+                                    "p_vn": "anh ta luon hanh dong rat cham.",
+                                    "_id": "55db399305625a14707d64b91878e005",
+                                    "id": 100221,
+                                    "type": "e_cnvi",
+                                    "e": "他总是行动很迟。",
+                                    "p_cn": "ta zong shi xingdong hen chi.",
+                                    "p": "tā zǒng shì xíngdòng hěn chí."
+                                },
+                                {
+                                    "m": "Anh ta chần chừ mãi mà không quyết định về việc này.",
+                                    "p_vn": "anh ta chan chu mai ma khong quyet dinh ve viec nay.",
+                                    "_id": "55db399305625a14707d64b918790ecf",
+                                    "id": 100224,
+                                    "type": "e_cnvi",
+                                    "e": "他对这件事迟迟不决。",
+                                    "p_cn": "ta dui zhe jian shi chi chi bu jue.",
+                                    "p": "tā duì zhè jiàn shì chí chí bù jué."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trễ; muộn",
+                            "explain": "比规定的时间或合适的时间靠后",
+                            "examples": [
+                                {
+                                    "m": "Hôm qua đi ngủ muộn quá.",
+                                    "p_vn": "hom qua di ngu muon qua.",
+                                    "_id": "27dbd16e36ed5210b66fc1c47e7f4517",
+                                    "id": 4872,
+                                    "type": "e_cnvi",
+                                    "e": "昨儿睡得太迟了。",
+                                    "p_cn": "zuoer shuide taichi le。",
+                                    "p": "zuóér shùidé tàichí le。"
+                                },
+                                {
+                                    "m": "Anh ta đến rất muộn.",
+                                    "p_vn": "anh ta den rat muon.",
+                                    "_id": "55db399305625a14707d64b91878bdab",
+                                    "id": 100216,
+                                    "type": "e_cnvi",
+                                    "e": "他来得很迟。",
+                                    "p_cn": "ta laide hen chi.",
+                                    "p": "tā láidé hěn chí."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "họ Trì",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Ông Trì rất vui khi được gặp ông.",
+                                    "p_vn": "ong tri rat vui khi duoc gap ong.",
+                                    "_id": "55db399305625a14707d64b9187929e3",
+                                    "id": 100227,
+                                    "type": "e_cnvi",
+                                    "e": "迟先生，很高兴见到您。",
+                                    "p_cn": "chi xiansheng, hen gaoxing jian dao nin.",
+                                    "p": "chí xiānshēng, hěn gāoxìng jiàn dào nín."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Ý nghĩa \"迟\" và \"晚\" có chỗ giống nhau, nhưng \"迟\" có thể trùng lặp, \"晚\" không thể trùng lặp.",
+                    "title": "Phân biệt \"迟\" và \"晚\"",
+                    "words": [
+                        "迟",
+                        "晚"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "慢",
+                    "缓",
+                    "晚"
+                ],
+                "anto": [
+                    "早",
+                    "速"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "chí",
+            "cn_vi": "trì.trí",
+            "popularity": {
+                "notebook": 140,
+                "search": 3720
+            },
+            "word": "迟",
+            "id": 7654,
+            "phonetic": "chi",
+            "rank": 3215,
+            "lv_tocfl": 4,
+            "compound": "迟笨 ; 迟迟 ; 迟到 ; 迟钝 ; 迟缓 ; 迟脉 ; 迟慢 ; 迟暮 ; 迟误 ; 迟效肥料 ; 迟延 ; 迟疑 ; 迟早 ; 迟滞"
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": {
+                "pinyin": "cì",
+                "measure": "次"
+            },
+            "zhuyin": "ㄔˊㄉㄨㄣˋ",
+            "_id": "d0a5cabfff08b1c43674cee05c692e5b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                139956,
+                                139957
+                            ],
+                            "struct": "对 + Tân ngữ + (很) 迟钝"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                139968,
+                                139969
+                            ],
+                            "struct": "反应 + 迟钝"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "ì; chậm chạp; trì trệ; không nhạy bén; không lanh lợi ",
+                            "explain": "（感官、言行等）反应不敏捷\n",
+                            "examples": [
+                                {
+                                    "m": "Suy nghĩ của cô ấy hơi trì trệ.",
+                                    "p_vn": "suy nghi cua co ay hoi tri tre.",
+                                    "_id": "9938873f438f99a1b005f1005085e1dc",
+                                    "id": 139920,
+                                    "type": "e_cnvi",
+                                    "e": "她的思维有点迟钝。",
+                                    "p_cn": "ta de siwei youdian chidun.",
+                                    "p": "tā de sīwéi yǒudiǎn chídùn."
+                                },
+                                {
+                                    "m": "Trực giác của anh ấy hơi chậm chạp.",
+                                    "p_vn": "truc giac cua anh ay hoi cham chap.",
+                                    "_id": "9938873f438f99a1b005f1005085eda2",
+                                    "id": 139921,
+                                    "type": "e_cnvi",
+                                    "e": "他的直觉有点迟钝。",
+                                    "p_cn": "ta de zhijue youdian chidun.",
+                                    "p": "tā de zhíjué yǒudiǎn chídùn."
+                                },
+                                {
+                                    "m": "Cử động của anh ấy rất chậm chạp.",
+                                    "p_vn": "cu dong cua anh ay rat cham chap.",
+                                    "_id": "9938873f438f99a1b005f1005085f152",
+                                    "id": 139922,
+                                    "type": "e_cnvi",
+                                    "e": "他的动作很迟钝。",
+                                    "p_cn": "ta de dongzuo hen chidun.",
+                                    "p": "tā de dòngzuò hěn chídùn."
+                                },
+                                {
+                                    "m": "Gần đây tôi cảm thấy đầu óc mình chậm chạp.",
+                                    "p_vn": "gan day toi cam thay dau oc minh cham chap.",
+                                    "_id": "9938873f438f99a1b005f1005087b1a6",
+                                    "id": 139985,
+                                    "type": "e_cnvi",
+                                    "e": "最近我觉得脑子迟钝。",
+                                    "p_cn": "zuijin wo juede naozi chidun.",
+                                    "p": "zuìjìn wǒ juédé nǎozi chídùn."
+                                },
+                                {
+                                    "m": "Phản ứng của máy móc này rất trì trệ.",
+                                    "p_vn": "phan ung cua may moc nay rat tri tre.",
+                                    "_id": "9938873f438f99a1b005f1005087c09c",
+                                    "id": 139986,
+                                    "type": "e_cnvi",
+                                    "e": "这个机器的反应很迟钝。",
+                                    "p_cn": "zhege jiqi de fanying hen chidun.",
+                                    "p": "zhège jīqì de fǎnyìng hěn chídùn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 149,
+                "search": 1367
+            },
+            "snym": {
+                "syno": [
+                    "愚钝",
+                    "愚笨",
+                    "迟缓",
+                    "拙笨",
+                    "痴钝",
+                    "迟笨",
+                    "呆滞"
+                ],
+                "anto": [
+                    "伶俐",
+                    "矫捷",
+                    "锐敏",
+                    "机敏",
+                    "敏捷",
+                    "灵敏",
+                    "尖锐",
+                    "灵活",
+                    "敏锐",
+                    "机灵",
+                    "锐利",
+                    "捷敏",
+                    "迅捷"
+                ]
+            },
+            "cn_vi": "trì độn",
+            "pinyin": "chídùn",
+            "word": "迟钝",
+            "id": 7658,
+            "phonetic": "chidun",
+            "rank": 7626,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔˊㄧˊ",
+            "_id": "b701a52c98f33b1d284427f9e29eb7d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                81691,
+                                81692
+                            ],
+                            "struct": "Chủ ngữ + 迟疑"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                81693,
+                                81694
+                            ],
+                            "struct": "迟疑 + 的 + Danh từ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                81695,
+                                81696
+                            ],
+                            "struct": "迟疑 + 地 + Động từ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chần chừ; do dự; ngập ngừng; lưỡng lự; không nhất quyết; nhú nhứ; yêm trì; ngại ngần",
+                            "explain": "拿不定主意;犹豫",
+                            "examples": [
+                                {
+                                    "m": "do dự không quyết định.",
+                                    "p_vn": "do du khong quyet dinh.",
+                                    "_id": "8d0d648d23a076c9d57d06abccc802f8",
+                                    "id": 4874,
+                                    "type": "e_cnvi",
+                                    "e": "迟疑不决。",
+                                    "p_cn": "chiyibujue。",
+                                    "p": "chíyíbùjué。"
+                                },
+                                {
+                                    "m": "đừng do dự nữa, mau đi thôi!",
+                                    "p_vn": "dung do du nua, mau di thoi!",
+                                    "_id": "5f1adf3e4794a18d885701d1a3fd945c",
+                                    "id": 81689,
+                                    "type": "e_cnvi",
+                                    "e": "别迟疑了，快走吧!",
+                                    "p_cn": "bie chiyile, kuaizou ba!",
+                                    "p": "bié chíyíle, kuàizǒu ba!"
+                                },
+                                {
+                                    "m": "anh lưỡng lự một lúc rồi nói rằng anh mời tôi uống cà phê sữa.",
+                                    "p_vn": "anh luong lu mot luc roi noi rang anh moi toi uong ca phe sua.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3fda3e2",
+                                    "id": 81690,
+                                    "type": "e_cnvi",
+                                    "e": "他迟疑了一下，说牛奶咖啡是他请我喝的。",
+                                    "p_cn": "ta chiyile yixia, shuo niunai kafei shi ta qing wo he de.",
+                                    "p": "tā chíyíle yīxià, shuō niúnǎi kāfēi shì tā qǐng wǒ hē de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "e ấp",
+                            "explain": "拿不定主意",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"迟疑\" là động từ, \"犹豫\" vừa là động từ vừa là tính từ.\n\"迟疑\" dùng nhiều để chỉ thời gian, biểu thị vì suy nghĩ lo nghĩ mà hành động xảy ra chậm, \"犹豫\" thường chỉ hành động.",
+                    "title": "Phân biệt \"迟疑\" và \"犹豫\"",
+                    "words": [
+                        "迟疑",
+                        "犹豫"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "夷由",
+                    "彷徨",
+                    "夷犹",
+                    "犹疑",
+                    "游移",
+                    "动摇",
+                    "犹豫",
+                    "踌躇",
+                    "观望",
+                    "犹豫不决",
+                    "寡断",
+                    "躇踌",
+                    "迟迟",
+                    "飞鸟",
+                    "名言"
+                ],
+                "anto": [
+                    "断然",
+                    "坚决",
+                    "料定",
+                    "果决",
+                    "果断",
+                    "评断",
+                    "坚确",
+                    "决择"
+                ]
+            },
+            "cn_vi": "trì nghi",
+            "pinyin": "chíyí",
+            "popularity": {
+                "notebook": 215,
+                "search": 1792
+            },
+            "lv_hsk_new": "6",
+            "word": "迟疑",
+            "id": 7666,
+            "phonetic": "chiyi",
+            "rank": 6120,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "be28e095052e44be8b9499b59b84e1ba",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "lâu lắc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": {
+                "syno": [
+                    "长久",
+                    "持久",
+                    "恒久"
+                ]
+            },
+            "cn_vi": "trì cửu",
+            "pinyin": "chí jiǔ",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "迟久",
+            "id": 179490,
+            "phonetic": "chijiu",
+            "rank": 158107,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄧㄢˊ",
+            "_id": "640cf40677e4b41c746201d67792618a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trì hoãn; chậm chạp; muộn; trễ; bỏ lỡ; làm lỡ; kéo dài lỡ việc",
+                            "explain": "耽搁;拖延",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dai dẳng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 191
+            },
+            "snym": {
+                "syno": [
+                    "迁延",
+                    "稽迟",
+                    "稽延",
+                    "耽搁",
+                    "拖延",
+                    "延宕",
+                    "担搁",
+                    "拖欠",
+                    "滞后"
+                ],
+                "anto": [
+                    "提前",
+                    "迅速",
+                    "快捷",
+                    "速度",
+                    "迅即"
+                ]
+            },
+            "cn_vi": "trì diên",
+            "pinyin": "chíyán",
+            "word": "迟延",
+            "id": 7665,
+            "phonetic": "chiyan",
+            "rank": 29097,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟ",
+            "_id": "ba47c2a3285bf8a6ef05548773d30eeb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đẩy; đùn; xô; ấn",
+                            "explain": "向外用力使物体或物体的某一部分顺着用力的方向移动",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy đẩy cánh cửa đó.",
+                                    "p_vn": "co ay day canh cua do.",
+                                    "_id": "71a8f4da663cb843c22cd96cf47180f3",
+                                    "id": 122008,
+                                    "type": "e_cnvi",
+                                    "e": "他推那扇门。",
+                                    "p_cn": "ta tui na shan men.",
+                                    "p": "tā tuī nà shàn mén."
+                                },
+                                {
+                                    "m": "Anh ấy đẩy chiếc xe này.",
+                                    "p_vn": "anh ay day chiec xe nay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf471848a",
+                                    "id": 122009,
+                                    "type": "e_cnvi",
+                                    "e": "他推这辆车。",
+                                    "p_cn": "ta tui zhe liang che.",
+                                    "p": "tā tuī zhè liàng chē."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xay",
+                            "explain": "(推磨) 磨或 (推碾子) 碾 (粮食)",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đang xay bột bằng cối xay.",
+                                    "p_vn": "anh ay dang xay bot bang coi xay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4727ecb",
+                                    "id": 122038,
+                                    "type": "e_cnvi",
+                                    "e": "他在推磨磨面。",
+                                    "p_cn": "ta zai tui mo mo mian.",
+                                    "p": "tā zài tuī mó mò miàn."
+                                },
+                                {
+                                    "m": "Bà tôi xay gạo bằng cối xay.",
+                                    "p_vn": "ba toi xay gao bang coi xay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4728ad3",
+                                    "id": 122039,
+                                    "type": "e_cnvi",
+                                    "e": "奶奶推碾子米。",
+                                    "p_cn": "nainai tui nianzi mi.",
+                                    "p": "nǎinai tuī niǎnzi mǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cắt; bào; xén",
+                            "explain": "用工具贴着物体的表面向前剪或削",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy bào phẳng tấm gỗ này.",
+                                    "p_vn": "anh ay bao phang tam go nay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4729b49",
+                                    "id": 122041,
+                                    "type": "e_cnvi",
+                                    "e": "他推平这块木板。",
+                                    "p_cn": "ta tui ping zhe kuai muban.",
+                                    "p": "tā tuī píng zhè kuài mùbǎn."
+                                },
+                                {
+                                    "m": "Anh ấy cắt đi các góc cạnh của đá.",
+                                    "p_vn": "anh ay cat di cac goc canh cua da.",
+                                    "_id": "71a8f4da663cb843c22cd96cf472a104",
+                                    "id": 122042,
+                                    "type": "e_cnvi",
+                                    "e": "他推掉石头棱角。",
+                                    "p_cn": "ta tui diao shitou lengjiao.",
+                                    "p": "tā tuī diào shítou léngjiǎo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mở rộng; phát triển",
+                            "explain": "使事情开展",
+                            "examples": [
+                                {
+                                    "m": "Phát triển mạnh các công trình thủy lợi.",
+                                    "p_vn": "phat trien manh cac cong trinh thuy loi.",
+                                    "_id": "fb8b357ffd8c56dc43f51f520c631abd",
+                                    "id": 39698,
+                                    "type": "e_cnvi",
+                                    "e": "把水利建设推向高潮。",
+                                    "p_cn": "ba shuilijianshe tuixiang gaochao。",
+                                    "p": "bǎ shǔilìjiànshè tūixiàng gāocháo。"
+                                },
+                                {
+                                    "m": "Anh ấy thúc đẩy công việc tiến hành thuận lợi.",
+                                    "p_vn": "anh ay thuc day cong viec tien hanh thuan loi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf472d26e",
+                                    "id": 122047,
+                                    "type": "e_cnvi",
+                                    "e": "他推工作顺利进行。",
+                                    "p_cn": "ta tui gongzuo shunli jinxing.",
+                                    "p": "tā tuī gōngzuò shùnlì jìnxíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "suy ra",
+                            "explain": "根据已知的事实断定其他;从某方面的情况想到其他方面",
+                            "examples": [
+                                {
+                                    "m": "Theo kinh nghiệm suy luận việc chưa biết.",
+                                    "p_vn": "theo kinh nghiem suy luan viec chua biet.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4726974",
+                                    "id": 122035,
+                                    "type": "e_cnvi",
+                                    "e": "依经验推未知事。",
+                                    "p_cn": "yi jingyan tui weizhi shi.",
+                                    "p": "yī jīngyàn tuī wèizhī shì."
+                                },
+                                {
+                                    "m": "Từ kết quả suy luận nguyên nhân ban đầu.",
+                                    "p_vn": "tu ket qua suy luan nguyen nhan ban dau.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4726daf",
+                                    "id": 122036,
+                                    "type": "e_cnvi",
+                                    "e": "从结果推初始因。",
+                                    "p_cn": "cong jieguo tui chushi yin.",
+                                    "p": "cóng jiéguǒ tuī chūshǐ yīn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chối từ; nhường",
+                            "explain": "让给别人;辞让",
+                            "examples": [
+                                {
+                                    "m": "Cơ hội anh ấy cũng từ chối.",
+                                    "p_vn": "co hoi anh ay cung tu choi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4722cef",
+                                    "id": 122029,
+                                    "type": "e_cnvi",
+                                    "e": "机会他也推掉。",
+                                    "p_cn": "jihui ta ye tui diao.",
+                                    "p": "jīhuì tā yě tuī diào."
+                                },
+                                {
+                                    "m": "Lợi ích của bạn đừng từ chối.",
+                                    "p_vn": "loi ich cua ban dung tu choi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4723747",
+                                    "id": 122030,
+                                    "type": "e_cnvi",
+                                    "e": "利益你别推掉。",
+                                    "p_cn": "liyi ni bie tui diao.",
+                                    "p": "lìyì nǐ bié tuī diào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thoái thác; khước từ",
+                            "explain": "推委;推托",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy luôn tìm lý do thoái thác.",
+                                    "p_vn": "anh ay luon tim ly do thoai thac.",
+                                    "_id": "71a8f4da663cb843c22cd96cf47203b9",
+                                    "id": 122025,
+                                    "type": "e_cnvi",
+                                    "e": "他总爱找理由推。",
+                                    "p_cn": "ta zong ai zhao liyou tui.",
+                                    "p": "tā zǒng ài zhǎo lǐyóu tuī."
+                                },
+                                {
+                                    "m": "Anh ấy lại bắt đầu tìm cớ thoái thác.",
+                                    "p_vn": "anh ay lai bat dau tim co thoai thac.",
+                                    "_id": "71a8f4da663cb843c22cd96cf47212a3",
+                                    "id": 122026,
+                                    "type": "e_cnvi",
+                                    "e": "他又开始找借口推。",
+                                    "p_cn": "ta you kaishi zhao jiekou tui.",
+                                    "p": "tā yòu kāishǐ zhǎo jièkǒu tuī."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hoãn lại; trì hoãn; để chậm lại",
+                            "explain": "推迟",
+                            "examples": [
+                                {
+                                    "m": "Hội nghị hoãn lại đến ngày mai.",
+                                    "p_vn": "hoi nghi hoan lai den ngay mai.",
+                                    "_id": "71a8f4da663cb843c22cd96cf471d6b8",
+                                    "id": 122021,
+                                    "type": "e_cnvi",
+                                    "e": "会议推到明天。",
+                                    "p_cn": "huiyi tui dao mingtian.",
+                                    "p": "huìyì tuī dào míngtiān."
+                                },
+                                {
+                                    "m": "Cuộc hẹn dời đến tuần sau.",
+                                    "p_vn": "cuoc hen doi den tuan sau.",
+                                    "_id": "71a8f4da663cb843c22cd96cf471dc69",
+                                    "id": 122022,
+                                    "type": "e_cnvi",
+                                    "e": "约会推到下周。",
+                                    "p_cn": "yuehui tui dao xia zhou.",
+                                    "p": "yuēhuì tuī dào xià zhōu."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tôn sùng; sùng bái",
+                            "explain": "推崇",
+                            "examples": [
+                                {
+                                    "m": "Mọi người xem trọng cô ấy.",
+                                    "p_vn": "moi nguoi xem trong co ay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4719fab",
+                                    "id": 122013,
+                                    "type": "e_cnvi",
+                                    "e": "众人推她为优。",
+                                    "p_cn": "zhongren tui ta wei you.",
+                                    "p": "zhòngrén tuī tā wèi yōu."
+                                },
+                                {
+                                    "m": "Người cùng nghề xem trọng cô ấy.",
+                                    "p_vn": "nguoi cung nghe xem trong co ay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf471a60c",
+                                    "id": 122014,
+                                    "type": "e_cnvi",
+                                    "e": "同行推她为能。",
+                                    "p_cn": "tongxing tui ta wei neng.",
+                                    "p": "tóngxíng tuī tā wéi néng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đề cử; bầu cử",
+                            "explain": "推选;推举",
+                            "examples": [
+                                {
+                                    "m": "Mọi người đề cử ông Trương làm tổ trưởng.",
+                                    "p_vn": "moi nguoi de cu ong truong lam to truong.",
+                                    "_id": "165b1157e376ac2b2e6c49238f3a1a9e",
+                                    "id": 39708,
+                                    "type": "e_cnvi",
+                                    "e": "大家推老张担任小组长。",
+                                    "p_cn": "dajia tui lao zhang danren xiaozu zhang.",
+                                    "p": "dàjiā tuī lǎo zhāng dānrèn xiǎozǔ zhǎng."
+                                },
+                                {
+                                    "m": "Mọi người đều đề cử anh ấy làm lớp trưởng.",
+                                    "p_vn": "moi nguoi deu de cu anh ay lam lop truong.",
+                                    "_id": "71a8f4da663cb843c22cd96cf47187de",
+                                    "id": 122010,
+                                    "type": "e_cnvi",
+                                    "e": "大家推他当班长。",
+                                    "p_cn": "dajia tui ta dang banzhang.",
+                                    "p": "dàjiā tuī tā dāng bānzhǎng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 592,
+                "search": 12558
+            },
+            "snym": {
+                "anto": [
+                    "拉"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "tuī",
+            "cn_vi": "thôi.suy",
+            "word": "推",
+            "id": 51860,
+            "phonetic": "tui",
+            "rank": 680,
+            "lv_tocfl": 3,
+            "compound": "推本溯源 ; 推波助澜 ; 推测 ; 推陈出新 ; 推诚相见 ; 推迟 ; 推崇 ; 推辞 ; 推戴 ; 推宕 ; 推导 ; 推倒 ; 推定 ; 推动 ; 推断 ; 推度 ; 推翻 ; 推服 ; 推广 ; 推及 ; 推己及人 ; 推见 ; 推荐 ; 推襟送抱 ; 推进 ; 推究 ; 推举 ; 推理 ; 推力 ; 推论 ; 推拿 ; 推敲 ; 推求 ; 推却 ; 推让 ; 推三阻四 ; 推事 ; 推算 ; 推涛作浪 ; 推头 ; 推土机 ; 推托 ; 推脱 ; 推委 ; 推问 ; 推想 ; 推销 ; 推卸 ; 推谢 ; 推心置腹 ; 推行 ; 推许 ; 推选 ; 推延 ; 推演 ; 推移 ; 推知 ; 推重 ; 推子"
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄗㄠˇ",
+            "_id": "8592980578d9350f2b452d441790f28b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A sớm muộn gì cũng sẽ làm gì",
+                            "examples": [
+                                87341,
+                                135529
+                            ],
+                            "struct": "A + 迟早 + 会 + Động từ/ Cụm động từ"
+                        },
+                        {
+                            "explain": "“迟早” làm định ngữ",
+                            "examples": [
+                                135532,
+                                135535
+                            ],
+                            "struct": "迟早（+ 的) + Danh từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "sớm muộn; không sớm thì muộn; trước sau gì",
+                            "explain": "或早或晚；早晚",
+                            "examples": [
+                                {
+                                    "m": "Sớm muộn gì anh ta cũng sẽ đến thôi.",
+                                    "p_vn": "som muon gi anh ta cung se den thoi.",
+                                    "_id": "9a7fd1c061bd4f8d45544133e24e8ece",
+                                    "id": 4875,
+                                    "type": "e_cnvi",
+                                    "e": "他迟早会来的。",
+                                    "p_cn": "ta chizaohui lai de.",
+                                    "p": "tā chízǎohùi lái de."
+                                },
+                                {
+                                    "m": "Chúng ta trước sau gì cũng phải đối mặt.",
+                                    "p_vn": "chung ta truoc sau gi cung phai doi mat.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c9ec828",
+                                    "id": 135525,
+                                    "type": "e_cnvi",
+                                    "e": "我们迟早要面对。",
+                                    "p_cn": "women chizao yao mian dui.",
+                                    "p": "wǒmen chízǎo yào miàn duì."
+                                },
+                                {
+                                    "m": "Vấn đề này không sớm thì muộn cũng có thể giải quyết.",
+                                    "p_vn": "van de nay khong som thi muon cung co the giai quyet.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c9ed048",
+                                    "id": 135526,
+                                    "type": "e_cnvi",
+                                    "e": "这个问题迟早能解决。",
+                                    "p_cn": "zhege wenti chizao neng jiejue.",
+                                    "p": "zhège wèntí chízǎo néng jiějué."
+                                },
+                                {
+                                    "m": "Cô ấy sớm muộn cũng phải rời đi.",
+                                    "p_vn": "co ay som muon cung phai roi di.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c9ed963",
+                                    "id": 135527,
+                                    "type": "e_cnvi",
+                                    "e": "她迟早得离开。",
+                                    "p_cn": "ta chizao dei likai.",
+                                    "p": "tā chízǎo děi líkāi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 169,
+                "search": 1700
+            },
+            "snym": {
+                "syno": [
+                    "早晚"
+                ]
+            },
+            "cn_vi": "trì tảo",
+            "pinyin": "chízǎo",
+            "word": "迟早",
+            "id": 7667,
+            "phonetic": "chizao",
+            "rank": 6377,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓˋㄔˊ",
+            "_id": "c3c712f6bbc9415685f23151fd12c3d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "vào lúc muộn nhất",
+                            "explain": "at the latest",
+                            "examples": [
+                                {
+                                    "m": "Hành khách nên làm thủ tục ít nhất một giờ trước khi chuyến bay khởi hành",
+                                    "p_vn": "hanh khach nen lam thu tuc it nhat mot gio truoc khi chuyen bay khoi hanh",
+                                    "_id": "48cbaaa2d6294dea8b0b8b74d8a3ef7b",
+                                    "id": 55811,
+                                    "type": "e_cnvi",
+                                    "e": "乘客至迟应在班机起飞前一小时办理登机手续",
+                                    "p_cn": "chengke zhi chi ying zai banji qifei qian yi xiaoshi banli deng ji shouxu",
+                                    "p": "Chéngkè zhì chí yīng zài bānjī qǐfēi qián yī xiǎoshí bànlǐ dēng jī shǒuxù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 49
+            },
+            "snym": null,
+            "cn_vi": "chí trì",
+            "pinyin": "zhì chí",
+            "word": "至迟",
+            "id": 99447,
+            "phonetic": "zhichi",
+            "rank": 58153,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cacad43ae1d54b86a43c0b6d69035294",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "trì hồi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "trì hồi",
+            "pinyin": "chí huí",
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "word": "迟回",
+            "id": 180603,
+            "phonetic": "chihui",
+            "rank": 130280,
+            "kind": [
+                "adj",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "76",
+            "zhuyin": "ㄔˊㄏㄨㄢˇ",
+            "_id": "48e4add39b5bb310bb561420ee105b70",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "chậm chạp; đà đẫn; rề rà; trì trệ; lững thững; lai rai; trễ tràng",
+                            "explain": "缓慢",
+                            "examples": [
+                                {
+                                    "m": "động tác chậm chạp.",
+                                    "p_vn": "dong tac cham chap",
+                                    "_id": "a36d17dfd308a99b52c3c1a070f59505",
+                                    "id": 4873,
+                                    "type": "e_cnvi",
+                                    "e": "动作迟缓。",
+                                    "p_cn": "dongzuo chihuan",
+                                    "p": "dòngzuò chíhuǎn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 94,
+                "search": 625
+            },
+            "snym": {
+                "syno": [
+                    "鲁钝",
+                    "慢慢",
+                    "呆笨",
+                    "拙笨",
+                    "缓慢",
+                    "迟笨",
+                    "迟钝",
+                    "迟速",
+                    "迟顿"
+                ],
+                "anto": [
+                    "快速",
+                    "躁急",
+                    "快捷",
+                    "敏捷",
+                    "急切",
+                    "急速",
+                    "迅速",
+                    "赶紧",
+                    "赶快",
+                    "灵通",
+                    "灵敏",
+                    "便捷"
+                ]
+            },
+            "cn_vi": "trì hoãn",
+            "pinyin": "chíhuǎn",
+            "lv_hsk_new": "6",
+            "word": "迟缓",
+            "id": 7659,
+            "phonetic": "chihuan",
+            "rank": 13689,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b1986191617c442a9ce7f5ca3b3bc765",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tẩn ngẩn tần ngần",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "trì trì nghi nghi",
+            "pinyin": "chí chíyí yí",
+            "popularity": {
+                "notebook": 3,
+                "search": 0
+            },
+            "word": "迟迟疑疑",
+            "id": 180918,
+            "phonetic": "chichiyiyi",
+            "rank": 159549,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2c21d188ea154a7ba4d6b18f5ea354f2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "muộn mằn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "trì trì bất sinh dục",
+            "pinyin": "chí chí bù shēngyù",
+            "popularity": {
+                "notebook": 1,
+                "search": 2
+            },
+            "word": "迟迟不生育",
+            "id": 180228,
+            "phonetic": "chichibushengyu",
+            "rank": 147133,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "af36ae9a38f148628804e55d6f930fc2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "người thì đẩy; người thì kéo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thôi đích thôi",
+            "pinyin": "tuī de tuī",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "推的推",
+            "id": 185545,
+            "phonetic": "tuidetui",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄇㄞˋ",
+            "_id": "546658de51372458fc8eb30cd5feb3d0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mạch đập chậm (dưới 60 lần phút)",
+                            "explain": "中医指一呼一吸的时间内跳三下，也就是每分钟跳六十次以下的脉搏",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "trì mạch",
+            "pinyin": "chí mài",
+            "word": "迟脉",
+            "id": 7660,
+            "phonetic": "chimai",
+            "rank": 149705,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔˊㄉㄨㄣˋ",
+            "_id": "8034038b58394b329c4d8555fd8e772f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không hoạt động",
+                            "explain": "inactive",
+                            "examples": []
+                        },
+                        {
+                            "mean": "u mê",
+                            "explain": "obtuse",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 85
+            },
+            "snym": {
+                "syno": [
+                    "钝涩",
+                    "迟缓",
+                    "笨拙"
+                ],
+                "anto": [
+                    "锐利"
+                ]
+            },
+            "cn_vi": "trì đốn",
+            "pinyin": "chí dùn",
+            "word": "迟顿",
+            "id": 100174,
+            "phonetic": "chidun",
+            "rank": 45132,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄔˊ",
+            "_id": "5df1ed012eba0b3de077ef6e12d98fb3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trễ; hoãn; trì hoãn; chậm trễ",
+                            "explain": "延误滞留",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": {
+                "syno": [
+                    "迁延",
+                    "迟延",
+                    "拖延"
+                ]
+            },
+            "cn_vi": "kê trì",
+            "pinyin": "jī chí",
+            "word": "稽迟",
+            "id": 26667,
+            "phonetic": "jichi",
+            "rank": 88346,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄓˋ",
+            "_id": "d5e200d8dd8ada528b9ca96fe65bbd6f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "chậm chạp; lờ đờ; lững lờ; uể oải; lờ phờ; không hoạt bát; không nhanh nhẹn",
+                            "explain": "缓慢;不通畅",
+                            "examples": [
+                                {
+                                    "m": "sông bị ách tắc, nước chảy lững lờ.",
+                                    "p_vn": "song bi ach tac nuoc chay lung lo",
+                                    "_id": "50b7858ae1348ad13f0f920c8d24f072",
+                                    "id": 4876,
+                                    "type": "e_cnvi",
+                                    "e": "河道淤塞，流水迟滞。",
+                                    "p_cn": "hedao yuse liushui chizhi",
+                                    "p": "hédào yūsè, liúshuǐ chízhì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bê trễ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 60
+            },
+            "snym": {
+                "syno": [
+                    "磨蹭"
+                ],
+                "anto": [
+                    "灵活",
+                    "通畅",
+                    "进展"
+                ]
+            },
+            "cn_vi": "trì trệ",
+            "pinyin": "chízhì",
+            "word": "迟滞",
+            "id": 7668,
+            "phonetic": "chizhi",
+            "rank": 53327,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": {
+                "pinyin": "fa",
+                "examples": "由于天气变差，出发延迟了。",
+                "measure": "发"
+            },
+            "zhuyin": "ㄧㄢˊㄔˊ",
+            "_id": "d525a2148f074ee0f44295ba9eea739c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lùi lại; trì hoãn; để chậm lại; lui",
+                            "explain": "推迟",
+                            "examples": [
+                                {
+                                    "m": "ngày triển lãm chính thức đã dời lại rồi.",
+                                    "p_vn": "ngay trien lam chinh thuc da doi lai roi",
+                                    "_id": "d3277e2248c2b4aa814c19300645accb",
+                                    "id": 43923,
+                                    "type": "e_cnvi",
+                                    "e": "公开展览的日期延迟了。",
+                                    "p_cn": "gongkai zhanlan de riqi yanchile",
+                                    "p": "gōngkāi zhǎnlǎn de rìqī yánchí le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 174,
+                "search": 2441
+            },
+            "snym": {
+                "syno": [
+                    "延伸",
+                    "延长",
+                    "迟误",
+                    "耽延",
+                    "耽搁",
+                    "耽误",
+                    "贻误",
+                    "即时",
+                    "迟迟"
+                ],
+                "anto": [
+                    "提前",
+                    "提早"
+                ]
+            },
+            "cn_vi": "duyên trì",
+            "pinyin": "yánchí",
+            "word": "延迟",
+            "id": 58057,
+            "phonetic": "yanchi",
+            "rank": 4700,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄥˊㄔˊ",
+            "_id": "50a84af8187a3ea0b5e75ccbde6ab53a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "suy bại; suy yếu",
+                            "explain": "衰落",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lăng trì; tùng xẻo (hình phạt thời xa xưa, trước tiên là chặt tay chân của phạm nhân, sau mới cắt cổ)",
+                            "explain": "古代的一种残酷死刑，先分割犯人的肢体，然后割断咽喉",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "lăng trì",
+            "pinyin": "líng chí",
+            "word": "陵迟",
+            "id": 35496,
+            "phonetic": "lingchi",
+            "rank": 150303,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "12eb6e69a9084ac1af18d1f519b8970d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thước lá",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "tắc trì",
+            "pinyin": "sāi chí",
+            "word": "塞迟",
+            "id": 167171,
+            "phonetic": "saichi",
+            "rank": 78142,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔˊㄐㄧㄠ",
+            "_id": "1e5ebcc6cc1248e590c000c0f31c0948",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trì hoãn việc bàn giao (thanh toán, bài tập về nhà, v.v.)",
+                            "explain": "to delay handing over (payment, homework etc)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "trì giao",
+            "pinyin": "chí jiāo",
+            "word": "迟交",
+            "id": 105805,
+            "phonetic": "chijiao",
+            "rank": 62345,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄨˋ",
+            "_id": "9d5f6e7d9fa8020ab022ecc29789ee58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chậm trễ; làm lỡ; để chậm; chần chừ; để lỡ; trì hoãn lỡ việc; chậm bước",
+                            "explain": "迟延耽误; 失去 (时机)",
+                            "examples": [
+                                {
+                                    "m": "Sợ hãi và không tiến lên phía trước hoặc lạc hậu, chậm trễ và lười biếng.",
+                                    "p_vn": "So hai va khong tien len phia truoc hoac lac hau, cham tre va luoi bieng.",
+                                    "_id": "c3859c2415e14eccbe3e65cec9fa353c",
+                                    "id": 72204,
+                                    "type": "e_cnvi",
+                                    "e": "畏缩不前的或落后的；迟误拖拉的",
+                                    "p_cn": "weisuobuqian de huo luohou de chiwu tuola de",
+                                    "p": "wèisuōbùqián de huò luòhòu de chíwù tuōlā de"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhỡ nhàng; lỡ làng",
+                            "explain": "因拖延或错过时机而误事",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 76
+            },
+            "snym": {
+                "syno": [
+                    "贻误",
+                    "耽误",
+                    "耽搁",
+                    "延迟",
+                    "耽延",
+                    "伸延"
+                ]
+            },
+            "cn_vi": "trì ngộ",
+            "pinyin": "chíwù",
+            "word": "迟误",
+            "id": 7663,
+            "phonetic": "chiwu",
+            "rank": 47807,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄅㄣˋ",
+            "_id": "d7e7815ba0fa6a48e14acce239f0d979",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "chậm chạp",
+                            "explain": "迟钝、笨拙",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": {
+                "syno": [
+                    "迟缓",
+                    "拙笨",
+                    "鲁钝",
+                    "迟钝"
+                ]
+            },
+            "cn_vi": "trì bổn",
+            "pinyin": "chí bèn",
+            "word": "迟笨",
+            "id": 7655,
+            "phonetic": "chiben",
+            "rank": 99242,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "76",
+            "zhuyin": "ㄔˊㄇㄢˋ",
+            "_id": "d8342169b68fc5f795653bc19aa2dd59",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chậm chạp; rề rà",
+                            "explain": "迟缓，慢腾",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 21
+            },
+            "snym": {
+                "anto": [
+                    "迅速"
+                ]
+            },
+            "cn_vi": "trì mạn",
+            "pinyin": "chí màn",
+            "word": "迟慢",
+            "id": 7661,
+            "phonetic": "chiman",
+            "rank": 81113,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d5d0f1b662b24812a57edcf893dc9b60",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "muộn màng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "trì vãn",
+            "pinyin": "chí wǎn",
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "word": "迟晚",
+            "id": 175304,
+            "phonetic": "chiwan",
+            "rank": 103322,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄉㄠˋ",
+            "_id": "4a8c2d59d6160d3191ce924adedaea14",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "muộn bao lâu/bao lần",
+                            "examples": [
+                                90124,
+                                100794
+                            ],
+                            "struct": "迟到 + thời gian/ số lần"
+                        },
+                        {
+                            "explain": "A làm gì muộn rồi",
+                            "examples": [
+                                100792,
+                                100793
+                            ],
+                            "struct": "A + Động từ + 迟到了"
+                        },
+                        {
+                            "explain": "Bởi vì..., A muộn rồi",
+                            "examples": [
+                                100795,
+                                100796
+                            ],
+                            "struct": "因为，由于 +..., A + 迟到了"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trễ; muộn; đến trễ; trễ giờ; đến muộn; chậm bước; chậm chân",
+                            "explain": "到得比规定的时间晚",
+                            "examples": [
+                                {
+                                    "m": "Bạn đi trễ ba lần trong học kỳ này.",
+                                    "p_vn": "bạn di trẽ ba làn trong học kỳ này.",
+                                    "_id": "0860ec755d794598a0eb7d281b4a5566",
+                                    "id": 63781,
+                                    "type": "e_cnvi",
+                                    "e": "这学期你已经迟到三次了",
+                                    "p_cn": "zhe xueqi ni yijing chidao sanci le",
+                                    "p": "zhè xuéqī nǐ yǐjīng chídào sāncì le"
+                                },
+                                {
+                                    "m": "Đi làm không được tự tiện đến trễ về sớm.",
+                                    "p_vn": "di lam khong duoc tu tien den tre ve som.",
+                                    "_id": "25b2c1afb89a0938f7764315bb8b1078",
+                                    "id": 48335,
+                                    "type": "e_cnvi",
+                                    "e": "上班不得随意迟到早退。",
+                                    "p_cn": "shangban bude suiyi chidaozaotui。",
+                                    "p": "shàngbān bùdé súiyì chídàozǎotùi。"
+                                },
+                                {
+                                    "m": "Cô ấy lo lắng mình sẽ đến trễ.",
+                                    "p_vn": "co ay lo lang minh se den tre.",
+                                    "_id": "55db399305625a14707d64b91895a416",
+                                    "id": 100797,
+                                    "type": "e_cnvi",
+                                    "e": "她担心自己会迟到。",
+                                    "p_cn": "ta danxin ziji hui chidao.",
+                                    "p": "tā dānxīn zìjǐ huì chídào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"迟到\" dùng để chỉ sự chậm trễ trong tình huống đi học, hẹn hò,...; \"晚到\" ngoại trừ dùng trong tình huống đi học, hẹn hò ra thì thường có thể chỉ sự chậm trễ sai giờ của phương tiện giao thông ví dụ như ô tô, thuyền, máy bay cũng có thể nói \"晚到\".",
+                    "title": "Phân biệt \"迟到\" và \"晚到\"",
+                    "words": [
+                        "迟到",
+                        "晚到"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "早退"
+                ],
+                "syno": [
+                    "晚到"
+                ]
+            },
+            "lv_hsk_new": "3, 4",
+            "pinyin": "chídào",
+            "cn_vi": "trì đáo",
+            "popularity": {
+                "notebook": 993,
+                "search": 11993
+            },
+            "word": "迟到",
+            "id": 7657,
+            "phonetic": "chidao",
+            "rank": 727,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄣㄔˊ",
+            "_id": "8959915c16f4750c5c7da77037d65ba8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kính ngưỡng; kính trọng và ngưỡng mộ",
+                            "explain": "敬仰 (旧时书函用语)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "khâm trì",
+            "pinyin": "qīn chí",
+            "word": "钦迟",
+            "id": 42936,
+            "phonetic": "qinchi",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄔˊㄌㄜ˙",
+            "_id": "38c48e1a9c464916877e0fa9f1f3c717",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "muộn",
+                            "explain": "late",
+                            "examples": [
+                                {
+                                    "m": "Nhưng sau đó đã quá muộn.",
+                                    "p_vn": "Nhung sau do da qua muon.",
+                                    "_id": "ba0dffc14ae8483da18ff3865dadc64a",
+                                    "id": 57365,
+                                    "type": "e_cnvi",
+                                    "e": "但太迟了",
+                                    "p_cn": "dantaichi le",
+                                    "p": "dàntàichí le"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 123
+            },
+            "snym": null,
+            "cn_vi": "trì liễu",
+            "pinyin": "chíle",
+            "word": "迟了",
+            "id": 93796,
+            "phonetic": "chile",
+            "rank": 37352,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄥˋㄔˊ",
+            "_id": "967868a75795ba2e6b8ab0e258459e87",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lăng trì; tùng xẻo (hình phạt thời xa xưa, trước tiên là chặt bỏ tay chân, sau đó mới chặt đầu)",
+                            "explain": "古代的一种残酷死刑， 先分割犯人的肢体、然后割断咽喉也作陵迟",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 155
+            },
+            "snym": {
+                "syno": [
+                    "杀人如麻"
+                ]
+            },
+            "cn_vi": "lăng trì",
+            "pinyin": "língchí",
+            "word": "凌迟",
+            "id": 35476,
+            "phonetic": "lingchi",
+            "rank": 32770,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔˊㄇㄨˋ",
+            "_id": "8bc70329cceb5128a3d9a867727e00d1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tuổi xế chiều; tuổi về già; tuổi hoàng hôn; tuổi heo may",
+                            "explain": "比喻晚年",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 82
+            },
+            "snym": null,
+            "cn_vi": "trì mộ",
+            "pinyin": "chímù",
+            "word": "迟暮",
+            "id": 7662,
+            "phonetic": "chimu",
+            "rank": 45986,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cb6db7b1ffe24bc3a6b2b84c69c25569",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "dễ chịu; thoải mái; khoan khoái。舒服安逸。",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hoãn",
+                            "explain": "推迟 (日期); 放宽 (限期)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "thư trì",
+            "pinyin": "shū chí",
+            "word": "舒迟",
+            "id": 171420,
+            "phonetic": "shuchi",
+            "rank": 131117,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄚˋㄔˊ",
+            "_id": "eb81eb43493c4887b9a74935cebd9bab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Sai lầm. \n☆Tương tự: sai thác 差錯; thác ngộ 錯誤.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "sai trì",
+            "pinyin": "chà chí",
+            "word": "差迟",
+            "id": 149947,
+            "phonetic": "chachi",
+            "rank": 128685,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄟˋㄔˊ",
+            "_id": "fd6e726df726beaa96db7aeaef229425",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "họ Uất Trì",
+                            "explain": "姓",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "uất trì",
+            "pinyin": "yùchí",
+            "word": "尉迟",
+            "id": 53223,
+            "phonetic": "yuchi",
+            "rank": 69825,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄌㄞˊㄊㄨㄟㄑㄩˋ",
+            "_id": "b85f9dcadd4045b38698195171ac26dd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "(thành ngữ) để trốn tránh trách nhiệm và đẩy nó cho người khác",
+                            "explain": "(idiom) to evade responsibility and push it to others",
+                            "examples": []
+                        },
+                        {
+                            "mean": "(thành ngữ) đẩy và kéo người khác một cách thô lỗ",
+                            "explain": "(idiom) to rudely push and pull others",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "thôi lai thôi khứ",
+            "pinyin": "tuī lái tuī qù",
+            "word": "推来推去",
+            "id": 132242,
+            "phonetic": "tuilaituiqu",
+            "rank": 72455,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄊㄨㄟㄙㄤˇㄙㄤˇ",
+            "_id": "089e5d11b97442d09e6b8c7165427780",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đẩy và xô",
+                            "explain": "to push and shove",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xô đẩy",
+                            "explain": "连续不断的推",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 31
+            },
+            "snym": {
+                "syno": [
+                    "推推拉拉"
+                ]
+            },
+            "cn_vi": "thôi thôi táng táng",
+            "pinyin": "tuī tuī sǎng sǎng",
+            "word": "推推搡搡",
+            "id": 139320,
+            "phonetic": "tuituisangsang",
+            "rank": 70580,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄟˋㄔˊㄍㄨㄥ",
+            "_id": "1e72cd290f3347a9b50b9334016c1b53",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tướng quân Yuchi Gong (585-658), nhà quân sự nổi tiếng có công sáng lập triều đại nhà Đường",
+                            "explain": "General Yuchi Gong (585-658), famous military man instrumental in founding the Tang dynasty",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "uý trì cung",
+            "pinyin": "yùchí gōng",
+            "word": "尉迟恭",
+            "id": 117913,
+            "phonetic": "yuchigong",
+            "rank": 90201,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4b9d2fb391364801ae3c1ffa48fcfa77",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đường chậm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "trì diên tuyến",
+            "pinyin": "chíyán xiàn",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "迟延线",
+            "id": 177358,
+            "phonetic": "chiyanxian",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "dd6cfc82326b41f29b42c108f22bf415",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tài khoản bị chậm trễ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "trướng diên trì",
+            "pinyin": "zhàng yánchí",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "账延迟",
+            "id": 186485,
+            "phonetic": "zhangyanchi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄍㄨㄤˇ",
+            "_id": "a03da90ed30c825cfd27263d1e8ce9e6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "quảng bá cái gì",
+                            "examples": [
+                                126033,
+                                126034,
+                                126035
+                            ],
+                            "struct": "推广 + Danh từ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mở rộng; phổ biến; phát triển; quảng cáo; đưa ra thị trường; quảng bá; giới thiệu",
+                            "explain": "扩大事物使用的范围或起作用的范围",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi đang quảng bá sản phẩm mới.",
+                                    "p_vn": "chung toi dang quang ba san pham moi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57115c50b",
+                                    "id": 126029,
+                                    "type": "e_cnvi",
+                                    "e": "我们正在推广新产品。",
+                                    "p_cn": "women zhengzai tuiguang xin chanpin.",
+                                    "p": "wǒmen zhèngzài tuīguǎng xīn chǎnpǐn."
+                                },
+                                {
+                                    "m": "Công ty đã phổ biến chính sách mới.",
+                                    "p_vn": "cong ty da pho bien chinh sach moi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57115d0b7",
+                                    "id": 126030,
+                                    "type": "e_cnvi",
+                                    "e": "公司推广了新政策。",
+                                    "p_cn": "gongsi tuiguangle xin zhengce.",
+                                    "p": "gōngsī tuīguǎngle xīn zhèngcè."
+                                },
+                                {
+                                    "m": "Trường học quảng bá giáo dục bảo vệ môi trường.",
+                                    "p_vn": "truong hoc quang ba giao duc bao ve moi truong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57115d1e7",
+                                    "id": 126031,
+                                    "type": "e_cnvi",
+                                    "e": "学校推广环保教育。",
+                                    "p_cn": "xuexiao tuiguang huanbao jiaoyu.",
+                                    "p": "xuéxiào tuīguǎng huánbǎo jiàoyù."
+                                },
+                                {
+                                    "m": "Giáo viên quảng bá phương pháp giảng dạy mới.",
+                                    "p_vn": "giao vien quang ba phuong phap giang day moi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57115dfe6",
+                                    "id": 126032,
+                                    "type": "e_cnvi",
+                                    "e": "老师推广新的教学方法。",
+                                    "p_cn": "laoshi tuiguang xin de jiaoxue fangfa.",
+                                    "p": "lǎoshī tuīguǎng xīn de jiàoxué fāngfǎ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 320,
+                "search": 4628
+            },
+            "snym": {
+                "syno": [
+                    "引申",
+                    "扩充",
+                    "增加",
+                    "增添",
+                    "扩展",
+                    "推论",
+                    "推行",
+                    "扩张",
+                    "实行",
+                    "炒作"
+                ],
+                "anto": [
+                    "收束",
+                    "压制"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "tuīguǎng",
+            "cn_vi": "thôi quảng",
+            "word": "推广",
+            "id": 51879,
+            "phonetic": "tuiguang",
+            "rank": 2600,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄉㄞˋ",
+            "_id": "37f0de281d98e89a227a56c07e633c2c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ủng hộ; suy tôn",
+                            "explain": "拥护某人做领袖",
+                            "examples": [
+                                {
+                                    "m": "chân thành suy tôn.",
+                                    "p_vn": "chan thanh suy ton",
+                                    "_id": "917f89228d5724395bb5f623f0efa5cc",
+                                    "id": 39714,
+                                    "type": "e_cnvi",
+                                    "e": "竭诚推戴",
+                                    "p_cn": "jiecheng tuidai",
+                                    "p": "jiéchéng tūidài"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": {
+                "anto": [
+                    "反对"
+                ],
+                "syno": [
+                    "拥戴"
+                ]
+            },
+            "cn_vi": "thôi đái",
+            "pinyin": "tuīdài",
+            "word": "推戴",
+            "id": 51869,
+            "phonetic": "tuidai",
+            "rank": 96896,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄓ",
+            "_id": "441913a1b9c714caca7a6806aafc1611",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "suy ra; biết được; tính được (qua suy luận hoặc tính toán mà biết được)",
+                            "explain": "经过推论或推算而知道",
+                            "examples": [
+                                {
+                                    "m": "từ đây có thể suy ra những cái còn lại.",
+                                    "p_vn": "tu day co the suy ra nhung cai con lai",
+                                    "_id": "5a386b4163b3a4966505f4fcada69cce",
+                                    "id": 39763,
+                                    "type": "e_cnvi",
+                                    "e": "由此可以推知其余。",
+                                    "p_cn": "you ci keyi tuizhi qiyu",
+                                    "p": "yóucǐ kěyǐ tūizhī qíyú。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 59
+            },
+            "snym": {
+                "syno": [
+                    "推敲",
+                    "得知"
+                ]
+            },
+            "cn_vi": "thôi tri",
+            "pinyin": "tuīzhī",
+            "word": "推知",
+            "id": 51917,
+            "phonetic": "tuizhi",
+            "rank": 53595,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄊㄨㄟ",
+            "_id": "7173c27c101449c780e5c25645f4fc30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sự tái xuất",
+                            "explain": "recurrence",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đệ quy",
+                            "explain": "recursion",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đệ quy (tính toán)",
+                            "explain": "recursive (calculation)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "đệ thôi",
+            "pinyin": "dì tuī",
+            "word": "递推",
+            "id": 93827,
+            "phonetic": "ditui",
+            "rank": 116951,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄒㄧㄝˋ",
+            "_id": "754dc58192b93f954b983feca7762863",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khước từ; từ chối; thoái thác",
+                            "explain": "借故推辞",
+                            "examples": [
+                                {
+                                    "m": "nhiều lần từ chối",
+                                    "p_vn": "nhieu lan tu choi",
+                                    "_id": "d472d27db1531d2084b1212463beef33",
+                                    "id": 39752,
+                                    "type": "e_cnvi",
+                                    "e": "推谢再三",
+                                    "p_cn": "tui xie zaisan",
+                                    "p": "tūixiè zàisān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "thôi tạ",
+            "pinyin": "tuī xiè",
+            "word": "推谢",
+            "id": 51909,
+            "phonetic": "tuixie",
+            "rank": 153370,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄑㄩㄝˋ",
+            "_id": "4d0525fea583cb7a713b2241b070855c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "từ chối; khước từ; chối từ; thoái thác",
+                            "explain": "拒绝;推辞",
+                            "examples": [
+                                {
+                                    "m": "nhiều lần từ chối",
+                                    "p_vn": "nhieu lan tu choi",
+                                    "_id": "87fb84db75812dfe2029b75a4ce6274a",
+                                    "id": 39743,
+                                    "type": "e_cnvi",
+                                    "e": "再三推却",
+                                    "p_cn": "zaisan tui que",
+                                    "p": "zàisān tūiquè"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 84
+            },
+            "snym": {
+                "syno": [
+                    "推托",
+                    "推卸",
+                    "推辞",
+                    "拒绝",
+                    "推脱",
+                    "抵赖",
+                    "辞让",
+                    "推诿",
+                    "辞谢",
+                    "谢绝"
+                ],
+                "anto": [
+                    "接收",
+                    "接受",
+                    "承担",
+                    "承受",
+                    "承包"
+                ]
+            },
+            "cn_vi": "thôi khước",
+            "pinyin": "tuī què",
+            "word": "推却",
+            "id": 51894,
+            "phonetic": "tuique",
+            "rank": 45496,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄩㄢˇ",
+            "_id": "d2dd1c2ca1184383b93593fa7b5b4f98",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Đẩy đi; đẩy ra xa",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Trực tiếp đẩy xa khoảng cách của hai đứa",
+                                    "p_vn": "Truc tiep day xa khoang cach cua hai dua",
+                                    "_id": "cb76e84ba1ac444bb5883dd396a2bb4d",
+                                    "id": 68471,
+                                    "type": "e_cnvi",
+                                    "e": "把你俩的距离直接推远",
+                                    "p_cn": "Ba ni lia de juli zhijie tui yuan",
+                                    "p": "Bǎ nǐ liǎ de jùlí zhíjiē tuī yuǎn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "thôi viễn",
+            "pinyin": "tuī yuǎn",
+            "word": "推远",
+            "id": 154168,
+            "phonetic": "tuiyuan",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄗㄨㄣ",
+            "_id": "098e7e53700f4e0f9f6589ffecb82b87",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quý trọng",
+                            "explain": "to esteem",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tôn kính",
+                            "explain": "to revere",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nghĩ cao về ai đó",
+                            "explain": "to think highly of sb",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "suy tôn",
+            "pinyin": "tuī zūn",
+            "word": "推尊",
+            "id": 97013,
+            "phonetic": "tuizun",
+            "rank": 128592,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄔㄢˇ",
+            "_id": "250c1cce470348ce8508b423a6b65966",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để làm sáng tỏ",
+                            "explain": "to elucidate",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để nghiên cứu và giải thích",
+                            "explain": "to study and expound",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "thôi xiển",
+            "pinyin": "tuī chǎn",
+            "word": "推阐",
+            "id": 103216,
+            "phonetic": "tuichan",
+            "rank": 152627,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟㄨㄟˇ",
+            "_id": "870e8f88dc299ca0695c2f741440e850",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đùn đẩy trách nhiệm; đùn đẩy trách nhiệm cho người khác; đùn đẩy",
+                            "explain": "把责任推给别人",
+                            "examples": [
+                                {
+                                    "m": "có chuyện thì đùn trách nhiệm cho người khác.",
+                                    "p_vn": "co chuyen thi dun trach nhiem cho nguoi khac",
+                                    "_id": "ac4075e51302c7058e8e16cc6ad4dd7f",
+                                    "id": 39747,
+                                    "type": "e_cnvi",
+                                    "e": "遇事推委",
+                                    "p_cn": "yu shi tui wei",
+                                    "p": "yùshì tūiwěi"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thoái thác",
+                            "explain": "借故拒绝",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "thôi uy",
+            "pinyin": "tuī wěi",
+            "word": "推委",
+            "id": 51904,
+            "phonetic": "tuiwei",
+            "rank": 69223,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "推迟"
+}

@@ -1,0 +1,3179 @@
+{
+    "total": 935,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "topic": "44, 46",
+            "zhuyin": "ㄒㄧㄚˋㄨˇ",
+            "_id": "a0554ae6f2cce5773612fe28e5a61e46",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "số lượng danh",
+                            "examples": [
+                                140221,
+                                140222
+                            ],
+                            "struct": "Số từ + 个 + 下午"
+                        }
+                    ],
+                    "kind": "n, time",
+                    "means": [
+                        {
+                            "mean": "buổi chiều; xế bóng (từ 12 giờ trưa đến tối)",
+                            "explain": "一般指中午十二点到太阳落下的这段时间。",
+                            "examples": [
+                                {
+                                    "m": "Chiều nay tôi không có tiết học.",
+                                    "p_vn": "chieu nay toi khong co tiet hoc.",
+                                    "_id": "9938873f438f99a1b005f100508ffb59",
+                                    "id": 140216,
+                                    "type": "e_cnvi",
+                                    "e": "今天下午我没有课。",
+                                    "p_cn": "jintian xiawu wo meiyou ke.",
+                                    "p": "jīntiān xiàwǔ wǒ méiyǒu kè."
+                                },
+                                {
+                                    "m": "Tôi ngủ cả buổi chiều hôm nay.",
+                                    "p_vn": "toi ngu ca buoi chieu hom nay.",
+                                    "_id": "9938873f438f99a1b005f100509006f9",
+                                    "id": 140217,
+                                    "type": "e_cnvi",
+                                    "e": "我今天睡了一个下午。",
+                                    "p_cn": "wo jintian shuile yige xiawu.",
+                                    "p": "wǒ jīntiān shuìle yīgè xiàwǔ."
+                                },
+                                {
+                                    "m": "Bây giờ đã là 4 giờ rưỡi chiều rồi.",
+                                    "p_vn": "bay gio da la 4 gio ruoi chieu roi.",
+                                    "_id": "9938873f438f99a1b005f1005090127b",
+                                    "id": 140218,
+                                    "type": "e_cnvi",
+                                    "e": "现在已经下午四点了。",
+                                    "p_cn": "xianzai yijing xiawu si dianle.",
+                                    "p": "xiànzài yǐjīng xiàwǔ sì diǎnle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 992,
+                "search": 10126
+            },
+            "snym": {
+                "anto": [
+                    "上昼",
+                    "上午"
+                ],
+                "syno": [
+                    "下昼",
+                    "下半天",
+                    "下战书"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "xiàwǔ",
+            "cn_vi": "hạ ngọ",
+            "word": "下午",
+            "id": 54787,
+            "phonetic": "xiawu",
+            "rank": 991,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄚˋㄨˇㄔㄚˊ",
+            "_id": "20c561394bc6e7a0f76eac032ce31070",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Trà chiều",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 34,
+                "search": 298
+            },
+            "snym": null,
+            "cn_vi": "hạ ngọ trà",
+            "pinyin": "xiàwǔ chá",
+            "word": "下午茶",
+            "id": 82972,
+            "phonetic": "xiawucha",
+            "rank": 22285,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨˇ",
+            "_id": "7d02dc10b5ae70419208c97d5841323a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giờ ngọ; trưa (giữa trưa)",
+                            "explain": "日中的时候;白天十二点",
+                            "examples": [
+                                {
+                                    "m": "Buổi trưa tôi đến nhà hàng ăn trưa.",
+                                    "p_vn": "buoi trua toi den nha hang an trua.",
+                                    "_id": "553d4cf7c42e605038b7e3084cc57b67",
+                                    "id": 41127,
+                                    "type": "e_cnvi",
+                                    "e": "中午我去饭店吃午饭。",
+                                    "p_cn": "zhongwu wo qu fandian chi wufan.",
+                                    "p": "zhōngwǔ wǒ qù fàndiàn chī wǔfàn."
+                                },
+                                {
+                                    "m": "Trưa nay tôi ngủ được hai tiếng.",
+                                    "p_vn": "trua nay toi ngu duoc hai tieng.",
+                                    "_id": "f2efc94449b26b3e2967bccbc972d08e",
+                                    "id": 94670,
+                                    "type": "e_cnvi",
+                                    "e": "今午我睡两个小时。",
+                                    "p_cn": "jin wu wo shui liang ge xiaoshi.",
+                                    "p": "jīn wǔ wǒ shuì liǎng gè xiǎoshí."
+                                },
+                                {
+                                    "m": "Buổi trưa bố về nhà.",
+                                    "p_vn": "buỏi trua bó vè nhà.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9752f29",
+                                    "id": 94673,
+                                    "type": "e_cnvi",
+                                    "e": "中午爸爸回家。",
+                                    "p_cn": "zhongwu baba hui jia.",
+                                    "p": "zhōngwǔ bàba huí jiā."
+                                },
+                                {
+                                    "m": "Buổi trưa ở nhà xem ti vi.",
+                                    "p_vn": "buỏi trua ỏ nhà xem ti vi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc97533f9",
+                                    "id": 94674,
+                                    "type": "e_cnvi",
+                                    "e": "中午在家看电视。",
+                                    "p_cn": "zhongwu zaijia kan dianshi.",
+                                    "p": "zhōngwǔ zàijiā kàn diànshì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 577,
+                "search": 5890
+            },
+            "snym": null,
+            "cn_vi": "ngọ",
+            "pinyin": "wǔ",
+            "word": "午",
+            "id": 53960,
+            "phonetic": "wu",
+            "rank": 1998,
+            "lv_tocfl": null,
+            "compound": "午饭 ; 午后 ; 午觉 ; 午前 ; 午时 ; 午睡 ; 午夜"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄤㄨˇ",
+            "_id": "2e33774ac69d4c4412b86a5cf2659e92",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giữa trưa; trưa; buổi trưa",
+                            "explain": "正午;中午",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đứng bóng",
+                            "explain": "指白天十二点左右的一段时间",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "đương ngọ",
+            "pinyin": "dāng wǔ",
+            "word": "当午",
+            "id": 11300,
+            "phonetic": "dangwu",
+            "rank": 65900,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄨˇ",
+            "_id": "5fa1661612e9489a99e0b072a04d7e48",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "I7 năm thứ mười chín của chu kỳ 60 năm, ví dụ: 2002 hoặc 2062",
+                            "explain": "nineteenth year I7 of the 60 year cycle, e.g. 2002 or 2062",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "nhâm ngọ",
+            "pinyin": "rén wǔ",
+            "word": "壬午",
+            "id": 90768,
+            "phonetic": "renwu",
+            "rank": 81023,
+            "kind": [
+                "numb",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨˇㄇㄣˊ",
+            "_id": "25c0cc254e64407a5d227bf7cecb4c46",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngọ môn; cổng thành",
+                            "explain": "宫城的正门",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 79
+            },
+            "snym": null,
+            "cn_vi": "ngọ môn",
+            "pinyin": "wǔ mén",
+            "word": "午门",
+            "id": 53964,
+            "phonetic": "wumen",
+            "rank": 46670,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄕㄨㄟˋ",
+            "_id": "7f482f4f82297234a04f22db4bb5c449",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giấc ngủ trưa",
+                            "explain": "午觉",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngủ trưa; nghỉ trưa",
+                            "explain": "睡午觉",
+                            "examples": [
+                                {
+                                    "m": "mọi người đều ngủ trưa hết rồi, nói chuyện xin nhỏ tiếng một tý.",
+                                    "p_vn": "moi nguoi deu ngu trua het roi noi chuyen xin nho tieng mot ty",
+                                    "_id": "ac3ac2645daabe20cfd06d5029017b88",
+                                    "id": 41131,
+                                    "type": "e_cnvi",
+                                    "e": "大家都午睡了，说话请小声一些。",
+                                    "p_cn": "dajia dou wushuile shuohua qing xiaosheng yixie",
+                                    "p": "dàjiā dōu wǔshuìle, shuōhuà qǐng xiǎoshēng yīxiē."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 414
+            },
+            "snym": null,
+            "lv_hsk_new": "2",
+            "pinyin": "wǔshuì",
+            "cn_vi": "ngọ thuỵ",
+            "word": "午睡",
+            "id": 53967,
+            "phonetic": "wushui",
+            "rank": 17997,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "dùn",
+                "examples": "",
+                "measure": "顿"
+            },
+            "topic": "20",
+            "zhuyin": "ㄨˇㄈㄢˋ",
+            "_id": "a3fada1c4ccdfa7f50f1bd22a284d9b8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "bữa trưa như thế nào",
+                            "examples": [
+                                130729,
+                                130730
+                            ],
+                            "struct": "(丰富/丰盛/美味/简单) + 的+ 午饭"
+                        },
+                        {
+                            "explain": "bữa trưa như thế nào",
+                            "examples": [
+                                130731,
+                                130732
+                            ],
+                            "struct": "午饭+ (很/不+) Tính từ/ Động từ (是/吃/便宜/好吃/简单)"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bữa trưa; cơm trưa",
+                            "explain": "中午吃的饭",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta cùng đi ăn trưa nhé.",
+                                    "p_vn": "chung ta cung di an trua nhe.",
+                                    "_id": "71a8f4da663cb843c22cd96cf406a43a",
+                                    "id": 119382,
+                                    "type": "e_cnvi",
+                                    "e": "我们一起去吃午饭吧。",
+                                    "p_cn": "women yiqi qu chi wufan ba.",
+                                    "p": "wǒmen yīqǐ qù chī wǔfàn ba."
+                                },
+                                {
+                                    "m": "Bữa trưa hôm nay rất thịnh soạn.",
+                                    "p_vn": "bua trua hom nay rat thinh soan.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571c83547",
+                                    "id": 130717,
+                                    "type": "e_cnvi",
+                                    "e": "今天午饭很丰盛。",
+                                    "p_cn": "jintian wufan hen fengsheng.",
+                                    "p": "jīntiān wǔfàn hěn fēngshèng."
+                                },
+                                {
+                                    "m": "Bữa trưa đơn giản cũng tốt.",
+                                    "p_vn": "bua trua don gian cung tot.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571c8372c",
+                                    "id": 130718,
+                                    "type": "e_cnvi",
+                                    "e": "简单午饭也不错。",
+                                    "p_cn": "jiandan wufan ye bucuo.",
+                                    "p": "jiǎndān wǔfàn yě bùcuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 302,
+                "search": 2070
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "wǔfàn",
+            "cn_vi": "ngọ phạn",
+            "word": "午饭",
+            "id": 53961,
+            "phonetic": "wufan",
+            "rank": 5432,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨˇㄕˊ",
+            "_id": "d91d56ed4e3acf24d3cfcd6cbff0367d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "giờ ngọ (từ 11 giờ đến 13 giờ); giờ Ngọ",
+                            "explain": "旧式计时法指上午十一点钟到下午一点钟的时间",
+                            "examples": [
+                                {
+                                    "m": "Đồng hồ reo báo trưa đã đến.",
+                                    "p_vn": "Dong ho reo bao trua da den.",
+                                    "_id": "0ba35ba77bbd4a16b2e93b7aa64222b5",
+                                    "id": 73170,
+                                    "type": "e_cnvi",
+                                    "e": "时钟鸣响报午时已至",
+                                    "p_cn": "shizhong ming xiang bao wushi yi zhi",
+                                    "p": "shízhōng míng xiǎng bào wǔshí yǐ zhì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 47
+            },
+            "snym": {
+                "syno": [
+                    "中午",
+                    "正午",
+                    "晌午"
+                ],
+                "anto": [
+                    "子时"
+                ]
+            },
+            "cn_vi": "ngọ thời",
+            "pinyin": "wǔshí",
+            "word": "午时",
+            "id": 53966,
+            "phonetic": "wushi",
+            "rank": 59307,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Cì",
+                "examples": "每次端午节的时候，妈妈都会包粽子给我吃。\nMěi cì duānwǔ jié de shíhòu, māmā dūhuì bāo zòngzi gěi wǒ chī.\nMỗi lần trong lễ hội thuyền rồng, mẹ tôi thường làm bánh bao cho tôi.",
+                "measure": "次"
+            },
+            "zhuyin": "ㄉㄨㄢㄨˇ",
+            "_id": "c242e88ba34d35ef8c337f1058832230",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Đoan Ngọ",
+                            "explain": "中国传统节日，农历五月初五日相传古代诗人屈原在这天投江自杀，后人为了纪念他，把这天当做节日，有吃粽子、赛龙舟等风俗也叫端五",
+                            "examples": [
+                                {
+                                    "m": "tết Đoan Ngọ ăn bánh tro mới đúng dịp.",
+                                    "p_vn": "tet doan ngo an banh tro moi dung dip",
+                                    "_id": "17910e96121fcfcce8ff4ce1a1284240",
+                                    "id": 21122,
+                                    "type": "e_cnvi",
+                                    "e": "端午节吃粽子，应应节令。",
+                                    "p_cn": "duanwu jie chi zongzi ying ying jieling",
+                                    "p": "duānwǔjié chī zòngzǐ，yìngyìng jiélìng。"
+                                },
+                                {
+                                    "m": "tết Đoan ngọ ăn bánh ú là hợp thời.",
+                                    "p_vn": "tet doan ngo an banh u la hop thoi",
+                                    "_id": "b9f19827151b2f7602a4764f5675b7a8",
+                                    "id": 45988,
+                                    "type": "e_cnvi",
+                                    "e": "端午吃粽子是应景儿。",
+                                    "p_cn": "duanwu chi zongzi shi yingjing er",
+                                    "p": "duānwǔ chī zòngzǐ shì yìngjǐng ér。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 26,
+                "search": 649
+            },
+            "snym": null,
+            "cn_vi": "đoan ngọ",
+            "pinyin": "duānwǔ",
+            "word": "端午",
+            "id": 14273,
+            "phonetic": "duanwu",
+            "rank": 13340,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄒㄧㄡ",
+            "_id": "86148d7ea9e54073afaa3f062e6d7ce6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nghỉ trưa",
+                            "explain": "lunch break",
+                            "examples": [
+                                {
+                                    "m": "Nghỉ trưa từ đâu?",
+                                    "p_vn": "Nghi trua tu dau?",
+                                    "_id": "52b94b54f780420f9891ba2b8d263355",
+                                    "id": 63863,
+                                    "type": "e_cnvi",
+                                    "e": "哪里的午休",
+                                    "p_cn": "nali de wuxiu",
+                                    "p": "nǎlǐ de wǔxīu"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giờ ngủ trưa",
+                            "explain": "lunchtime nap",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nghỉ trưa",
+                            "explain": "noon break",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 65,
+                "search": 699
+            },
+            "snym": null,
+            "cn_vi": "ngọ hưu",
+            "pinyin": "wǔxiū",
+            "word": "午休",
+            "id": 90312,
+            "phonetic": "wuxiu",
+            "rank": 12727,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄡˊㄨˇ",
+            "_id": "53385864b3024190a78de4e464a9c2e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(phương ngữ) buổi sáng",
+                            "explain": "(dialect) morning",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": {
+                "anto": [
+                    "过午"
+                ]
+            },
+            "cn_vi": "đầu ngọ",
+            "pinyin": "tóu wǔ",
+            "word": "头午",
+            "id": 90870,
+            "phonetic": "touwu",
+            "rank": 108420,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄊㄧㄢ",
+            "_id": "9433ebb56cae4da48f81afb51399dd9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Trời giữa trưa; trung ngọ.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "ngọ thiên",
+            "pinyin": "wǔ tiān",
+            "word": "午天",
+            "id": 149293,
+            "phonetic": "wutian",
+            "rank": 86798,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚˇㄨˇ",
+            "_id": "7b7ab6fec11540e2a66a032e483cec4f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "A7 năm thứ 31 của chu kỳ 60 năm, ví dụ: 1954 hoặc 2014",
+                            "explain": "thirty-first year A7 of the 60 year cycle, e.g. 1954 or 2014",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 92
+            },
+            "snym": null,
+            "cn_vi": "giáp ngọ",
+            "pinyin": "jiǎwǔ",
+            "word": "甲午",
+            "id": 92646,
+            "phonetic": "jiawu",
+            "rank": 43255,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "53f4a6eb135b4e58a9af0590049e31fd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giữa trưa.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bình ngọ",
+            "pinyin": "píng wǔ",
+            "word": "平午",
+            "id": 168907,
+            "phonetic": "pingwu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄧㄥˊㄨˇ",
+            "_id": "80466af086f72ba76da77f2a0a6ef746",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giữa trưa; đúng ngọ",
+                            "explain": "正午;中午",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "đình ngọ",
+            "pinyin": "tíng wǔ",
+            "word": "亭午",
+            "id": 51061,
+            "phonetic": "tingwu",
+            "rank": 119018,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄓㄥˋㄨˇ",
+            "_id": "485af30248da847c410cced7bfa99699",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "đúng ngọ; chính ngọ; giữa trưa (12 giờ)",
+                            "explain": "中午十二点",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi ước tính sẽ đến Delhi vào buổi trưa.",
+                                    "p_vn": "Chung toi uoc tinh se den Delhi vao buoi trua.",
+                                    "_id": "8d4573b813174d48ba410b4ff249ea29",
+                                    "id": 70797,
+                                    "type": "e_cnvi",
+                                    "e": "我们估计正午抵达德里.",
+                                    "p_cn": "women guji zhengwu dida Deli",
+                                    "p": "wǒmen gūjì zhèngwǔ dǐdá Délǐ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "buổi trưa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 90
+            },
+            "snym": {
+                "syno": [
+                    "午时",
+                    "中午",
+                    "日中"
+                ],
+                "anto": [
+                    "午夜",
+                    "子夜",
+                    "夜半"
+                ]
+            },
+            "cn_vi": "chính ngọ",
+            "pinyin": "zhèngwǔ",
+            "word": "正午",
+            "id": 64251,
+            "phonetic": "zhengwu",
+            "rank": 43910,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄤˋㄨˇ",
+            "_id": "42fd3e1ae60c5de18737e74eb13e8290",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gần trưa",
+                            "explain": "意同\"傍晌\"接近中午时会",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "bàng ngọ",
+            "pinyin": "bàng wǔ",
+            "word": "傍午",
+            "id": 1690,
+            "phonetic": "bangwu",
+            "rank": 95359,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄥˋㄨˇ",
+            "_id": "7816881367f6d745a979f3d6b8d3a91d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trùng ngọ; tết đoan ngọ; tết mùng 5 tháng năm (tết)",
+                            "explain": "旧时称端午也作重五",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "trọng ngọ",
+            "pinyin": "chóng wǔ",
+            "word": "重午",
+            "id": 65330,
+            "phonetic": "chongwu",
+            "rank": 62075,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄛˋㄨˇ",
+            "_id": "c43f053f6af87bf462cfaa3f0eed44cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quá trưa; quá ngọ; buổi chiều",
+                            "explain": "中午以后",
+                            "examples": [
+                                {
+                                    "m": "buổi sáng anh ấy không ở nhà, mời anh buổi chiều hãy đến.",
+                                    "p_vn": "buoi sang anh ay khong o nha moi anh buoi chieu hay den",
+                                    "_id": "57a869e7ba3d631ee26d233495653347",
+                                    "id": 15853,
+                                    "type": "e_cnvi",
+                                    "e": "上午他不在家，请你过午再来吧。",
+                                    "p_cn": "shangwu ta bu zaijia qing ni guowu zailai ba",
+                                    "p": "shàngwǔ tā bù zàijiā，qǐng nǐ guòwǔ zàilái ba。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 44
+            },
+            "snym": {
+                "anto": [
+                    "头午"
+                ]
+            },
+            "cn_vi": "quá ngọ",
+            "pinyin": "guòwǔ",
+            "word": "过午",
+            "id": 22055,
+            "phonetic": "guowu",
+            "rank": 60929,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˋㄨˇ",
+            "_id": "05f7211f1bd047e0b1bbe9e00153664c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "năm thứ năm E7 của chu kỳ 60 năm, ví dụ: 1978 hoặc 2038",
+                            "explain": "fifty-fifth year E7 of the 60 year cycle, e.g. 1978 or 2038",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "mậu ngọ",
+            "pinyin": "wù wǔ",
+            "word": "戊午",
+            "id": 88574,
+            "phonetic": "wuwu",
+            "rank": 94119,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄩㄝˋ",
+            "_id": "d1a83132859746acaee0bbb0a83a12e9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Âm lịch (có từ đời nhà Hạ 夏) gọi tháng năm là ngọ nguyệt 午月. \n§ Âm lịch lấy mười hai địa chi 地支: tí; sửu; dần; mão; thìn; tị; ngọ; vị (mùi); thân; dậu; tuất; hợi 子; 丑; 寅; 卯; 辰; 巳; 午; 未; 申; 酉; 戌; 亥 tương phối với mười hai tháng. Tháng đầu năm là dần nguyệt 寅月; do đó tháng năm là ngọ nguyệt 午月.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "ngọ nguyệt",
+            "pinyin": "wǔ yuè",
+            "word": "午月",
+            "id": 149291,
+            "phonetic": "wuyue",
+            "rank": 72632,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄢ",
+            "_id": "c14e7462212a417b87b9e878af798f57",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chào buổi chiều",
+                            "explain": "午后相见或分别时的礼貌用语。",
+                            "examples": [
+                                {
+                                    "m": "Chào buổi chiều thưa ngài. Tôi có thể giúp gì được cho ngài.",
+                                    "p_vn": "chao buoi chieu thua ngai. toi co the giup gi duoc cho ngai.",
+                                    "_id": "69997d89b5f75300ec8abc83cab4477f",
+                                    "id": 82647,
+                                    "type": "e_cnvi",
+                                    "e": "午安，先生。我能帮您什么吗？",
+                                    "p_cn": "wu an, xiansheng. wo neng bang nin shenme ma?",
+                                    "p": "wǔ ān, xiānshēng. wǒ néng bāng nín shénme ma?"
+                                },
+                                {
+                                    "m": "Chào buổi chiều thưa ngài.Ngài có thể vui lòng cho tôi xem hộ chiếu của ngài được không?",
+                                    "p_vn": "chao buoi chieu thua ngai.ngai co the vui long cho toi xem ho chieu cua ngai duoc khong?",
+                                    "_id": "69997d89b5f75300ec8abc83cab449d3",
+                                    "id": 82648,
+                                    "type": "e_cnvi",
+                                    "e": "午安，先生。请出示您的护照好吗？",
+                                    "p_cn": "wu an, xiansheng. qing chushi nin de huzhao hao ma?",
+                                    "p": "wǔ ān, xiānshēng. qǐng chūshì nín de hùzhào hǎo ma?"
+                                },
+                                {
+                                    "m": "Chào buổi chiều, tôi muốn đặt một căn phòng ở chỗ các bạn?",
+                                    "p_vn": "chao buoi chieu, toi muon dat mot can phong o cho cac ban?",
+                                    "_id": "69997d89b5f75300ec8abc83cab44c3d",
+                                    "id": 82649,
+                                    "type": "e_cnvi",
+                                    "e": "午安，我想在你们这边订一间客房？",
+                                    "p_cn": "wu an, wo xiang zai nimen zhe bian ding yi jian kefang?",
+                                    "p": "wǔ ān, wǒ xiǎng zài nǐmen zhè biān dìng yī jiàn kèfáng?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 1227
+            },
+            "snym": {
+                "anto": [
+                    "晚安",
+                    "早安"
+                ],
+                "syno": [
+                    "下午好"
+                ]
+            },
+            "cn_vi": "ngọ an",
+            "pinyin": "wǔ ān",
+            "word": "午安",
+            "id": 88084,
+            "phonetic": "wuan",
+            "rank": 8350,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f566c5a2f9874349a0031c4204705374",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chợ chiều",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Trưa mai lãnh đạo thành phố sẽ về kiểm tra công việc.",
+                                    "p_vn": "Trua mai lanh dao thanh pho se ve kiem tra cong viec.",
+                                    "_id": "f90eb453305f469ba32c693120a6ba80",
+                                    "id": 73811,
+                                    "e": "明天中午市领导回来检查工作。",
+                                    "p_cn": "ming tian zhong wu shi ling dao hui lai jian cha gong zuo .",
+                                    "type": "e_cnvi",
+                                    "p": "míngtiān zhōngwǔ shì lǐngdǎo huílái jiǎnchá gōngzuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "ngọ thị",
+            "pinyin": "wǔ shì",
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "word": "午市",
+            "id": 181135,
+            "phonetic": "wushi",
+            "rank": 96499,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "58b7b882fe4444e5ba0f45eb693ce338",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngọ báo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "ngọ báo",
+            "pinyin": "wǔ bào",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "午报",
+            "id": 181173,
+            "phonetic": "wubao",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄨˇㄑㄧㄢˊ",
+            "_id": "59e09258356fb39686c4f688d92957b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "sáng; buổi sáng",
+                            "explain": "上午",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 64
+            },
+            "snym": null,
+            "cn_vi": "ngọ tiền",
+            "pinyin": "wǔqián",
+            "word": "午前",
+            "id": 53965,
+            "phonetic": "wuqian",
+            "rank": 51821,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧㄥˇㄨˇ",
+            "_id": "5aca919d0a164ec98c171e0daeb7f99b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "C7 năm thứ bốn mươi ba của chu kỳ 60 năm, ví dụ: 1966 hoặc 2026",
+                            "explain": "forty-third year C7 of the 60 year cycle, e.g. 1966 or 2026",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "bính ngọ",
+            "pinyin": "bǐngwǔ",
+            "word": "丙午",
+            "id": 94415,
+            "phonetic": "bingwu",
+            "rank": 89483,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨˇㄐㄩㄝˊ",
+            "_id": "5b6a9ae561a489700fe34622b9fa83e2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngủ trưa; nghỉ trưa",
+                            "explain": "午饭后短时间的睡眠",
+                            "examples": [
+                                {
+                                    "m": "ngủ trưa.",
+                                    "p_vn": "ngu trua",
+                                    "_id": "0601386506e6a1141a11173c7842125c",
+                                    "id": 41130,
+                                    "type": "e_cnvi",
+                                    "e": "睡午觉。",
+                                    "p_cn": "shui wujiao",
+                                    "p": "shuì wǔjiào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 100,
+                "search": 850
+            },
+            "snym": null,
+            "cn_vi": "ngọ giác",
+            "pinyin": "wǔjiào",
+            "word": "午觉",
+            "id": 53963,
+            "phonetic": "wujiao",
+            "rank": 11076,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄇㄚˇ",
+            "_id": "4cfc98badaf14b2cb24f3c8db5824310",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Năm 7, năm Ngọ (ví dụ: 2002)",
+                            "explain": "Year 7, year of the Horse (e.g. 2002)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "ngọ mã",
+            "pinyin": "wǔ mǎ",
+            "word": "午马",
+            "id": 88085,
+            "phonetic": "wuma",
+            "rank": 81388,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄖˋ",
+            "_id": "a147f7c6ec0343ca8d1237cfa7702556",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Đoan ngọ; tức ngày 5 tháng 5 âm lịch. Lúc trưa; trung ngọ. \n◇Trương Tịch 張籍: Trường Can ngọ nhật cô xuân tửu; Cao cao tửu kì huyền giang khẩu 長干午日沽春酒; 高高酒旗懸江口 (Giang Nam hành 江南行).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "ngọ nhật",
+            "pinyin": "wǔ rì",
+            "word": "午日",
+            "id": 149292,
+            "phonetic": "wuri",
+            "rank": 101751,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "topic": "44, 46",
+            "zhuyin": "ㄓㄨㄥㄨˇ",
+            "_id": "2f8b23fe449469852e7d461cb72c7c6b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n, nlocal",
+                    "means": [
+                        {
+                            "mean": "buổi trưa; giữa trưa; đứng bóng",
+                            "explain": "指白天十二点左右的一段时间",
+                            "examples": [
+                                {
+                                    "m": "Buổi trưa mấy giờ ăn cơm?",
+                                    "p_vn": "buỏi trua máy giò an com?",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3096a3b",
+                                    "id": 90037,
+                                    "type": "e_cnvi",
+                                    "e": "中午几点吃饭？",
+                                    "p_cn": "zhongwu ji dian chifan?",
+                                    "p": "zhōngwǔ jǐ diǎn chīfàn?"
+                                },
+                                {
+                                    "m": "Trưa nay tớ đi ra ga tàu hỏa.",
+                                    "p_vn": "trua nay tó di ra ga tàu hỏa.",
+                                    "_id": "aee13672ea471817b581457d9bcf4cf1",
+                                    "id": 74028,
+                                    "e": "我今天中午去火车站。",
+                                    "p_cn": "wo jintian zhongwu qu huoche zhan.",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ jīntiān zhōngwǔ qù huǒchē zhàn."
+                                },
+                                {
+                                    "m": "Trưa chúng mình đi ăn há cảo, thấy được không?",
+                                    "p_vn": "trua chúng mình di an há cảo, tháy duọc khong?",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3096ffa",
+                                    "id": 90038,
+                                    "type": "e_cnvi",
+                                    "e": "中午我们吃饺子，怎么样?",
+                                    "p_cn": "zhongwu women chi jiaozi, zenme yang?",
+                                    "p": "zhōngwǔ wǒmen chī jiǎozi, zěnme yàng?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 905,
+                "search": 7188
+            },
+            "snym": {
+                "syno": [
+                    "午时",
+                    "正午",
+                    "日中"
+                ],
+                "anto": [
+                    "半夜"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "zhōngwǔ",
+            "cn_vi": "trung ngọ",
+            "word": "中午",
+            "id": 65082,
+            "phonetic": "zhongwu",
+            "rank": 1555,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "fēn, dùn, cì",
+                "examples": "",
+                "measure": "份, 顿, 次"
+            },
+            "topic": "20",
+            "zhuyin": "ㄨˇㄘㄢ",
+            "_id": "f033c286d61948f19a6bb3ff2fc587e2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                141138,
+                                141139,
+                                141140
+                            ],
+                            "struct": "Động từ (吃/做/准备/提供) + 午餐"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bữa trưa",
+                            "explain": "中午饭",
+                            "examples": [
+                                {
+                                    "m": "Bữa trưa có nhiều món ăn.",
+                                    "p_vn": "bua trua co nhieu mon an.",
+                                    "_id": "9938873f438f99a1b005f10050ba15ae",
+                                    "id": 141132,
+                                    "type": "e_cnvi",
+                                    "e": "午餐有很多菜。",
+                                    "p_cn": "wucan you henduo cai.",
+                                    "p": "wǔcān yǒu hěnduō cài."
+                                },
+                                {
+                                    "m": "Tôi thích ăn mì vào bữa trưa.",
+                                    "p_vn": "toi thich an mi vao bua trua.",
+                                    "_id": "9938873f438f99a1b005f10050ba22c6",
+                                    "id": 141133,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢午餐吃面。",
+                                    "p_cn": "wo xihuan wucan chi mian.",
+                                    "p": "wǒ xǐhuān wǔcān chī miàn."
+                                },
+                                {
+                                    "m": "Tôi đã nấu súp cho bữa trưa.",
+                                    "p_vn": "toi da nau sup cho bua trua.",
+                                    "_id": "9938873f438f99a1b005f10050ba2cd3",
+                                    "id": 141134,
+                                    "type": "e_cnvi",
+                                    "e": "午餐我做了汤。",
+                                    "p_cn": "wucan wo zuole tang.",
+                                    "p": "wǔcān wǒ zuòle tāng."
+                                },
+                                {
+                                    "m": "午餐很丰盛。",
+                                    "p_vn": "午餐很丰盛。",
+                                    "_id": "9938873f438f99a1b005f10050ba38d4",
+                                    "id": 141135,
+                                    "type": "e_cnvi",
+                                    "e": "午餐很丰盛。",
+                                    "p_cn": "wucan hen fengsheng.",
+                                    "p": "wǔcān hěn fēngshèng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 112,
+                "search": 1516
+            },
+            "snym": {
+                "syno": [
+                    "午饭"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "wǔcān",
+            "cn_vi": "ngọ xan",
+            "word": "午餐",
+            "id": 90314,
+            "phonetic": "wucan",
+            "rank": 7001,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠㄨˇ",
+            "_id": "152f1867ee6b4bb254519c697520d7b7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trưa; buổi trưa; đến trưa",
+                            "explain": "到中午",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngang dọc; đan xen",
+                            "explain": "纵横交错",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "giao ngọ",
+            "pinyin": "jiāo wǔ",
+            "word": "交午",
+            "id": 28834,
+            "phonetic": "jiaowu",
+            "rank": 72692,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄨˇㄏㄡˋ",
+            "_id": "52ecd854746a066c7be853bc441edadf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "buổi chiều; chiều; hồi chiều",
+                            "explain": "下午",
+                            "examples": [
+                                {
+                                    "m": "Tiểu Điền, năm sau bốn anh em đi nhận tài sản của Vương Gia giao cho Tề gia, đứng để bọn hẹ kiếm chuyện",
+                                    "p_vn": "tieu dien, nam sau bon anh em di nhan tai san cua vuong gia giao cho te gia, dung de bon he kiem chuyen",
+                                    "_id": "6aa8d9146b3d45789edd601abdd37fc3",
+                                    "id": 67690,
+                                    "type": "e_cnvi",
+                                    "e": "小田,午后你们四个兄弟去交接齐家的王家产业,别让他们耍什么幺蛾子。",
+                                    "p_cn": "xiaotian, wuhou nimen si ge xiongdi qu jiaojie qi jia de wangjia chanye, bie rang tamen shua shenme yao ezi.",
+                                    "p": "Xiǎotián, wǔhòu nǐmen sì gè xiōngdì qù jiāojiē qī jiā de wángjiā chǎnyè, bié ràng tāmen shuǎ shénme yāo ézi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 398
+            },
+            "snym": null,
+            "cn_vi": "ngọ hậu",
+            "pinyin": "wǔhòu",
+            "word": "午后",
+            "id": 53962,
+            "phonetic": "wuhou",
+            "rank": 18473,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄕㄤˇㄨˇ",
+            "_id": "d98292efd1b0d95e8a7c66a38ac24128",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "buổi trưa",
+                            "explain": "中午",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 156
+            },
+            "snym": {
+                "syno": [
+                    "午时",
+                    "午初",
+                    "午正",
+                    "约摸"
+                ],
+                "anto": [
+                    "午夜"
+                ]
+            },
+            "cn_vi": "thưởng ngọ",
+            "pinyin": "shǎngwu",
+            "word": "晌午",
+            "id": 45736,
+            "phonetic": "shangwu",
+            "rank": 32730,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄤˊㄨˇ",
+            "_id": "b8e3a2eaee814cdeb85e73f1bb069c9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Qua lại ngang dọc; không gián đoạn. \n◇Trần Quốc Tuấn 陳國峻: Ngụy sứ vãng lai đạo đồ bàng ngọ 偽使往來道途旁午 (Dụ chư bì tướng hịch văn 諭諸裨將檄文) Sứ ngụy đi lại nghênh ngang ngoài đường. Bận rộn; phồn tạp. \n◎Như: quân sự bàng ngọ 軍事旁午 việc binh chộn rộn. Bốn mặt tám hướng; khắp nơi. \n◇Lưu Khắc Trang 劉克莊: Huyện phù bàng ngọ thôi điều phát; đại xa tiểu xa thanh yết yết 縣符旁午催調發; 大車小車聲軋軋 (Vận lương hành 運糧行) Thẻ phù huyện thúc giục phân phát đi các nơi; xe lớn xe nhỏ tiếng kẽo kịt.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "bàng ngọ",
+            "pinyin": "páng wǔ",
+            "word": "旁午",
+            "id": 149290,
+            "phonetic": "pangwu",
+            "rank": 94599,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a95cfaaaa8dc44e9b237f84bff534d74",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ban trưa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "ngọ gian",
+            "pinyin": "wǔjiān",
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "word": "午间",
+            "id": 174293,
+            "phonetic": "wujian",
+            "rank": 110411,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": null,
+            "topic": "44, 46",
+            "zhuyin": "ㄨˇㄧㄝˋ",
+            "_id": "cedc39091307a0a1b2da2690ecaa6849",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "nửa đêm",
+                            "explain": "半夜;夜里十二点前后",
+                            "examples": [
+                                {
+                                    "m": "Bạn xem cô gái mặc bikini đi catwalk lúc nửa đêm",
+                                    "p_vn": "Ban xem co gai mac bikini di catwalk luc nua dem",
+                                    "_id": "48c505a04bc942599ff3215ad3a7ad72",
+                                    "id": 55163,
+                                    "type": "e_cnvi",
+                                    "e": "你在午夜收看比基尼女郎走秀。",
+                                    "p_cn": "Ni zai wuye shoukan bijini nulang zouxiu.",
+                                    "p": "Nǐ zài wǔyè shōukàn bǐjīní nǚláng zǒuxiù."
+                                },
+                                {
+                                    "m": "Nhưng không có võ sĩ nào trong The Ring.",
+                                    "p_vn": "nhung khong co vo si nao trong the ring.",
+                                    "_id": "831c6e75577c4c4fa06495d478aaf1cf",
+                                    "id": 61220,
+                                    "type": "e_cnvi",
+                                    "e": "《午夜凶铃》里也没拳击手啊",
+                                    "p_cn": "《 wuyexiongling 》 li ye mei quanjishou a",
+                                    "p": "《 wǔyèxiōnglíng 》 lǐ yě méi quánjīshǒu a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 73,
+                "search": 736
+            },
+            "snym": {
+                "syno": [
+                    "子夜",
+                    "深夜",
+                    "夜半",
+                    "半夜"
+                ],
+                "anto": [
+                    "正午",
+                    "晌午"
+                ]
+            },
+            "cn_vi": "ngọ dạ",
+            "pinyin": "wǔyè",
+            "word": "午夜",
+            "id": 53968,
+            "phonetic": "wuye",
+            "rank": 12281,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄧㄢˋ",
+            "_id": "d3f338f8f55d40fd97b5dadda2ef2d4c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bữa tiệc trưa",
+                            "explain": "lunch banquet",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "ngọ yến",
+            "pinyin": "wǔ yàn",
+            "word": "午宴",
+            "id": 90313,
+            "phonetic": "wuyan",
+            "rank": 88977,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "整个上午，我都在忙着打字。\nZhěnggè shàngwǔ, wǒ dū zài mángzhe dǎzì.\nCả buổi sáng, tôi bận đánh máy.",
+                "measure": "个"
+            },
+            "topic": "44",
+            "zhuyin": "ㄕㄤˋㄨˇ",
+            "_id": "fa938bc6c253347f900c078542cfe0ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "buổi sáng (từ 7 giờ sáng tới 12 giờ trưa); ban sáng",
+                            "explain": "指半夜十二点到正午十二点的一段时间，一般也指清晨到正午十二点的一段时间",
+                            "examples": [
+                                {
+                                    "m": "Cả buổi sáng.",
+                                    "p_vn": "ca buoi sang.",
+                                    "_id": "221465721c999f32f37efb74170b4102",
+                                    "id": 49763,
+                                    "type": "e_cnvi",
+                                    "e": "整个上午。",
+                                    "p_cn": "zhengge shangwu",
+                                    "p": "zhěnggè shàngwǔ"
+                                },
+                                {
+                                    "m": "thời gian họp định vào sáng mai.",
+                                    "p_vn": "thoi gian hop dinh vao sang mai.",
+                                    "_id": "33b30a772ebc9f049226d3895fe86d77",
+                                    "id": 8839,
+                                    "type": "e_cnvi",
+                                    "e": "开会时间定在明天上午。",
+                                    "p_cn": "kaihuishijian ding zai mingtian shangwu。",
+                                    "p": "kāihùishíjiān dìng zài míngtiān shàngwǔ。"
+                                },
+                                {
+                                    "m": "Thời tiết buổi sáng như thế nào?",
+                                    "p_vn": "thoi tiet buoi sang nhu the nao?",
+                                    "_id": "b2776ac4a861e06178aa5de73bd576ba",
+                                    "id": 78909,
+                                    "type": "e_cnvi",
+                                    "e": "上午天气怎么样？",
+                                    "p_cn": "shangwu tianqi zenmeyang?",
+                                    "p": "shàngwǔ tiānqì zěnmeyàng?"
+                                },
+                                {
+                                    "m": "Sáng trời có mưa, bây giờ không mưa nữa.",
+                                    "p_vn": "sáng tròi có mua, bay giò khong mua nũa.",
+                                    "_id": "b2776ac4a861e06178aa5de73bd583fa",
+                                    "id": 78910,
+                                    "type": "e_cnvi",
+                                    "e": "上午下雨了，现在不下了。",
+                                    "p_cn": "shangwu xia yule, xianzai buxiale.",
+                                    "p": "shàngwǔ xià yǔle, xiànzài bùxiàle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 839,
+                "search": 9017
+            },
+            "snym": {
+                "syno": [
+                    "上昼"
+                ],
+                "anto": [
+                    "下午",
+                    "下昼"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "shàngwǔ",
+            "cn_vi": "thượng ngọ",
+            "word": "上午",
+            "id": 45872,
+            "phonetic": "shangwu",
+            "rank": 1159,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄥㄨˇ",
+            "_id": "233340ac6764428796fc91904148c02e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "G7 năm thứ bảy của chu kỳ 60 năm, ví dụ: 1990 hoặc 2050",
+                            "explain": "seventh year G7 of the 60 year cycle, e.g. 1990 or 2050",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "canh ngọ",
+            "pinyin": "gēngwǔ",
+            "word": "庚午",
+            "id": 96446,
+            "phonetic": "gengwu",
+            "rank": 94668,
+            "kind": [
+                "n",
+                "time"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "94287ec6918740b58e14238dc5ef8e2f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hộp thiếc để đóng hộp thực phẩm; Lon bảo quản thực phẩm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "ngọ xan hạp",
+            "pinyin": "wǔcān hé",
+            "word": "午餐盒",
+            "id": 165066,
+            "phonetic": "wucanhe",
+            "rank": 92642,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠˇㄕㄤˇㄨˇ",
+            "_id": "805fcc29ca620c3fe5db0c95b87438d5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gần trưa",
+                            "explain": "将近中午的时候",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tiểu thưởng ngọ",
+            "pinyin": "xiǎo shǎngwu",
+            "word": "小晌午",
+            "id": 55852,
+            "phonetic": "xiaoshangwu",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "34",
+            "zhuyin": "ㄨˇㄘㄢㄖㄡˋ",
+            "_id": "a3e21c70612b48da92d45aefcaaa5298",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thư rác",
+                            "explain": "Spam",
+                            "examples": [
+                                {
+                                    "m": "Thư rác là một chất được kiểm soát.",
+                                    "p_vn": "Thu rac la mot chat duoc kiem soat.",
+                                    "_id": "66d5c02381474e2d8f6a71b82da99644",
+                                    "id": 66050,
+                                    "type": "e_cnvi",
+                                    "e": "午餐肉是管制物品",
+                                    "p_cn": "wucanrou shi guanzhi wupin",
+                                    "p": "wǔcānròu shì guǎnzhì wùpǐn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thịt hộp",
+                            "explain": "canned luncheon meat",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 128
+            },
+            "snym": null,
+            "cn_vi": "ngọ xan nhụ",
+            "pinyin": "wǔcān ròu",
+            "word": "午餐肉",
+            "id": 114010,
+            "phonetic": "wucanrou",
+            "rank": 36469,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "21",
+            "zhuyin": "ㄗ˙ㄨˇㄒㄧㄢˋ",
+            "_id": "b2c56823c11d15c5a8e6cd98111655c8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kinh tuyến; tý ngọ tuyến",
+                            "explain": "为测量地球而假设的南 (午) 北 (子) 方向的线，即通过地面某点的经线",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 43
+            },
+            "snym": {
+                "anto": [
+                    "纬线"
+                ]
+            },
+            "cn_vi": "tử ngọ tuyến",
+            "pinyin": "zǐwǔxiàn",
+            "word": "子午线",
+            "id": 66654,
+            "phonetic": "ziwuxian",
+            "rank": 61754,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨˇㄘㄢㄏㄨㄟˋ",
+            "_id": "42cb72388f194e0aaf857ba177446d1a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tiệc trưa",
+                            "explain": "luncheon",
+                            "examples": [
+                                {
+                                    "m": "Tôi có bữa trưa của các phóng viên vào ngày mai.",
+                                    "p_vn": "Toi co bua trua cua cac phong vien vao ngay mai.",
+                                    "_id": "cd188fce4d3945b09be64978dc9d6661",
+                                    "id": 59954,
+                                    "type": "e_cnvi",
+                                    "e": "我明天有记者午餐会",
+                                    "p_cn": "wo mingtian you jizhe wucanhui",
+                                    "p": "wǒ míngtiān yǒu jìzhě wǔcānhùi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "ngọ xan hội",
+            "pinyin": "wǔcān huì",
+            "word": "午餐会",
+            "id": 114009,
+            "phonetic": "wucanhui",
+            "rank": 83634,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨˇㄧㄝˋㄔㄤˇ",
+            "topic": "72",
+            "_id": "483adba16834111ecc7733f78019e7a3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Buổi chiếu lúc nửa đêm",
+                            "explain": "午夜场：蔡琴专辑",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 46
+            },
+            "snym": null,
+            "cn_vi": "ngọ dạ trường",
+            "pinyin": "wǔyè chǎng",
+            "word": "午夜场",
+            "id": 69080,
+            "phonetic": "wuyechang",
+            "rank": 59843,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "260362e0b45b45c0bdf22fbd51274f9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lễ hội thuyền rồng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "đoan ngọ tiết đoan ngọ tiết",
+            "pinyin": "duānwǔ jié duānwǔ jié",
+            "word": "端午节端午节",
+            "id": 168035,
+            "phonetic": "duanwujieduanwujie",
+            "rank": 68435,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v",
+                "measure"
+            ],
+            "measure": null,
+            "topic": "6, 17, 58, 60, 69",
+            "zhuyin": "ㄒㄧㄚˋ",
+            "_id": "396c01a21bb34dc0af446158c71c1078",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dưới; phía dưới",
+                            "explain": "低处；底部（跟“上”相对）",
+                            "examples": [
+                                {
+                                    "m": "Trên có cha mẹ, dưới có con cái.",
+                                    "p_vn": "tren co cha me, duoi co con cai.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac353d22b",
+                                    "id": 105332,
+                                    "type": "e_cnvi",
+                                    "e": "上有父母，下有儿女。",
+                                    "p_cn": "shang you fumu, xia you ernǚ.",
+                                    "p": "shàng yǒu fùmǔ, xià yǒu érnǚ."
+                                },
+                                {
+                                    "m": "Trên có sếp, dưới có nhân viên.",
+                                    "p_vn": "tren co sep, duoi co nhan vien.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac353d9fc",
+                                    "id": 105333,
+                                    "type": "e_cnvi",
+                                    "e": "上有老板，下有员工。",
+                                    "p_cn": "shang you laoban, xia you yuangong.",
+                                    "p": "shàng yǒu lǎobǎn, xià yǒu yuángōng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xuống (sau một giới từ)",
+                            "explain": "向下（在介词之后）",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy nhìn xuống sàn nhà.",
+                                    "p_vn": "anh ay nhin xuong san nha.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac354f2af",
+                                    "id": 105338,
+                                    "type": "e_cnvi",
+                                    "e": "他往下看着地板。",
+                                    "p_cn": "ta wang xia kan zhuo diban.",
+                                    "p": "tā wǎng xià kàn zhuó dìbǎn."
+                                },
+                                {
+                                    "m": "Anh ấy kéo vành mũ xuống.",
+                                    "p_vn": "anh ay keo vanh mu xuong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35501d0",
+                                    "id": 105339,
+                                    "type": "e_cnvi",
+                                    "e": "他将帽沿向下。",
+                                    "p_cn": "ta jiang mao yan xiang xia.",
+                                    "p": "tā jiāng mào yán xiàng xià."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dưới (sau một danh từ)",
+                            "explain": "下（在名词之后）",
+                            "examples": [
+                                {
+                                    "m": "Dưới bàn có sách.",
+                                    "p_vn": "duoi ban co sach.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35543ab",
+                                    "id": 105344,
+                                    "type": "e_cnvi",
+                                    "e": "桌子下有书。",
+                                    "p_cn": "zhuozi xia you shu.",
+                                    "p": "zhuōzi xià yǒu shū."
+                                },
+                                {
+                                    "m": "Dưới giường có giày.",
+                                    "p_vn": "duoi giuong co giay.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3554633",
+                                    "id": 105345,
+                                    "type": "e_cnvi",
+                                    "e": "床下有鞋。",
+                                    "p_cn": "chuangxia you xie.",
+                                    "p": "chuángxià yǒu xié."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thấp (thứ bậc, vị trí, chất lượng)",
+                            "explain": "等级或品级低的",
+                            "examples": [
+                                {
+                                    "m": "Đây là sản phẩm chất lượng thấp.",
+                                    "p_vn": "day la san pham chat luong thap.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35618f9",
+                                    "id": 105368,
+                                    "type": "e_cnvi",
+                                    "e": "这是下级产品。",
+                                    "p_cn": "zhe shi xiaji chanpin.",
+                                    "p": "zhè shì xiàjí chǎnpǐn."
+                                },
+                                {
+                                    "m": "Anh ấy có chức vụ thấp.",
+                                    "p_vn": "anh ay co chuc vu thap.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3561ce2",
+                                    "id": 105369,
+                                    "type": "e_cnvi",
+                                    "e": "他有下等职位。",
+                                    "p_cn": "ta you xia deng zhiwei.",
+                                    "p": "tā yǒu xià děng zhíwèi."
+                                },
+                                {
+                                    "m": "Cô ấy sống ở phòng hạng thấp.",
+                                    "p_vn": "co ay song o phong hang thap.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35631a5",
+                                    "id": 105371,
+                                    "type": "e_cnvi",
+                                    "e": "她住在下等房。",
+                                    "p_cn": "ta zhu zaixia deng fang.",
+                                    "p": "tā zhù zàixià děng fáng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sau (thứ tự hoặc thời gian)",
+                            "explain": "时间或者顺序在后面的",
+                            "examples": [
+                                {
+                                    "m": "Tuần sau chúng ta khởi hành.",
+                                    "p_vn": "tuan sau chung ta khoi hanh.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35664f8",
+                                    "id": 105377,
+                                    "type": "e_cnvi",
+                                    "e": "下星期我们出发。",
+                                    "p_cn": "xia xingqi women chufa.",
+                                    "p": "xià xīngqī wǒmen chūfā."
+                                },
+                                {
+                                    "m": "Tháng sau đi du lịch.",
+                                    "p_vn": "thang sau di du lich.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3566a87",
+                                    "id": 105378,
+                                    "type": "e_cnvi",
+                                    "e": "下个月去旅行。",
+                                    "p_cn": "xia ge yue qu lǚxing.",
+                                    "p": "xià ge yuè qù lǚxíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xuống; hướng xuống (trước một động từ)",
+                            "explain": "向下（在动词之前）",
+                            "examples": [
+                                {
+                                    "m": "Đừng để xe lăn xuống.",
+                                    "p_vn": "dung de xe lan xuong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac355e269",
+                                    "id": 105363,
+                                    "type": "e_cnvi",
+                                    "e": "不要让车下滚。",
+                                    "p_cn": "buyao rang che xia gun.",
+                                    "p": "bùyào ràng chē xià gǔn."
+                                },
+                                {
+                                    "m": "Ngăn chặn khúc gỗ tròn trượt xuống.",
+                                    "p_vn": "ngan chan khuc go tron truot xuong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac355e8df",
+                                    "id": 105364,
+                                    "type": "e_cnvi",
+                                    "e": "防止圆木下滑。",
+                                    "p_cn": "fangzhi yuan mu xiahua.",
+                                    "p": "fángzhǐ yuán mù xiàhuá."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dưới; trong (một phạm vi, điều kiện nào đó)",
+                            "explain": "表示属于一定范围、情况、条件等",
+                            "examples": [
+                                {
+                                    "m": "Dưới sự quản lý của anh ta",
+                                    "p_vn": "duói sụ quản lý của anh ta",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b36bbcb4",
+                                    "id": 90242,
+                                    "type": "e_cnvi",
+                                    "e": "在他的管理下",
+                                    "p_cn": "zai ta de guanli xia",
+                                    "p": "zài tā de guǎnlǐ xià"
+                                },
+                                {
+                                    "m": "Dưới sự giúp đỡ của cảnh sát.",
+                                    "p_vn": "duói sụ giúp dõ của cảnh sát.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b36bc41e",
+                                    "id": 90243,
+                                    "type": "e_cnvi",
+                                    "e": "在警察的帮助下",
+                                    "p_cn": "zai jingcha de bangzhu xia",
+                                    "p": "zài jǐngchá de bāngzhù xià"
+                                },
+                                {
+                                    "m": "Trong tình huống này đừng hoảng loạn.",
+                                    "p_vn": "trong tinh huong nay dung hoang loan.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3568769",
+                                    "id": 105383,
+                                    "type": "e_cnvi",
+                                    "e": "这种情况下别慌张。",
+                                    "p_cn": "zhe zhong qingkuang xia bie huangzhang.",
+                                    "p": "zhè zhǒng qíngkuàng xià bié huāngzhāng."
+                                },
+                                {
+                                    "m": "Dưới sự lãnh đạo của anh ấy có tiến bộ.",
+                                    "p_vn": "duoi su lanh dao cua anh ay co tien bo.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3568ee2",
+                                    "id": 105384,
+                                    "type": "e_cnvi",
+                                    "e": "在他领导下有进步。",
+                                    "p_cn": "zai ta lingdao xia you jinbu.",
+                                    "p": "zài tā lǐngdǎo xià yǒu jìnbù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đương; đang (trong thời gian, thời tiết nào đó)",
+                            "explain": "表示当某个时间或时节",
+                            "examples": [
+                                {
+                                    "m": "Đang thịnh hành phong cách này.",
+                                    "p_vn": "dang thinh hanh phong cach nay.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac356fb8e",
+                                    "id": 105397,
+                                    "type": "e_cnvi",
+                                    "e": "时下流行这种风格。",
+                                    "p_cn": "shixia liuxing zhe zhong fengge.",
+                                    "p": "shíxià liúxíng zhè zhǒng fēnggé."
+                                },
+                                {
+                                    "m": "Tâm trạng của anh ấy đang không tốt.",
+                                    "p_vn": "tam trang cua anh ay dang khong tot.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35707f6",
+                                    "id": 105398,
+                                    "type": "e_cnvi",
+                                    "e": "时下他心情不佳。",
+                                    "p_cn": "shixia ta xinqing bu jia.",
+                                    "p": "shíxià tā xīnqíng bù jiā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bên; phía (dùng sau số từ)",
+                            "explain": "用在数目字后面，表示方面或方位",
+                            "examples": [
+                                {
+                                    "m": "Hai bên đều đồng ý.",
+                                    "p_vn": "hai ben deu dong y.",
+                                    "_id": "c9422210f14edfb39127cddb96d892f6",
+                                    "id": 41560,
+                                    "type": "e_cnvi",
+                                    "e": "两下里都同意。",
+                                    "p_cn": "liangxiali dou tongyi.",
+                                    "p": "liǎngxiàlǐ dōu tóngyì."
+                                },
+                                {
+                                    "m": "Hai phía này đều phải quan tâm.",
+                                    "p_vn": "hai phia nay deu phai quan tam.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3571b13",
+                                    "id": 105401,
+                                    "type": "e_cnvi",
+                                    "e": "两下里都要兼顾。",
+                                    "p_cn": "liangxiali dou yao jiangu.",
+                                    "p": "liǎngxiàlǐ dōu yào jiāngù."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuống; hạ (từ cao đến thấp)",
+                            "explain": "由高处到低处",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đang xuống lầu.",
+                                    "p_vn": "anh áy dang xuóng làu.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b368f31f",
+                                    "id": 90209,
+                                    "type": "e_cnvi",
+                                    "e": "他在下楼。",
+                                    "p_cn": "ta zaixia lou.",
+                                    "p": "tā zàixià lóu."
+                                },
+                                {
+                                    "m": "Anh ấy vừa xuống giường đi lại.",
+                                    "p_vn": "anh ay vua xuong giuong di lai.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35732a2",
+                                    "id": 105404,
+                                    "type": "e_cnvi",
+                                    "e": "他刚刚下床走动。",
+                                    "p_cn": "ta ganggang xia chuang zoudong.",
+                                    "p": "tā gānggāng xià chuáng zǒudòng."
+                                },
+                                {
+                                    "m": "Chúng tôi chuẩn bị xuống núi.",
+                                    "p_vn": "chung toi chuan bi xuong nui.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35733c6",
+                                    "id": 105405,
+                                    "type": "e_cnvi",
+                                    "e": "我们准备下山了。",
+                                    "p_cn": "women zhunbei xiashanle.",
+                                    "p": "wǒmen zhǔnbèi xiàshānle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "rơi (từ trên xuống)",
+                            "explain": "(雨、雪等) 降落",
+                            "examples": [
+                                {
+                                    "m": "Bên ngoài đang có tuyết rơi.",
+                                    "p_vn": "ben ngoai dang co tuyet roi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3573fe2",
+                                    "id": 105406,
+                                    "type": "e_cnvi",
+                                    "e": "外面正在下雪呢。",
+                                    "p_cn": "waimian zhengzai xia xue ne.",
+                                    "p": "wàimiàn zhèngzài xià xuě ne."
+                                },
+                                {
+                                    "m": "Mưa rơi mấy tiếng vẫn không ngừng.",
+                                    "p_vn": "mua roi may tieng van khong ngung.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3574e95",
+                                    "id": 105407,
+                                    "type": "e_cnvi",
+                                    "e": "下雨几个小时还不停。",
+                                    "p_cn": "xia yu ji ge xiaoshi hai bu ting.",
+                                    "p": "xià yǔ jǐ ge xiǎoshí hái bù tíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hạ; ra (ban phát, trao)",
+                            "explain": "上级把要求、通知等告诉下级；发",
+                            "examples": [
+                                {
+                                    "m": "Tướng quân hạ lệnh tấn công.",
+                                    "p_vn": "tuong quan ha lenh tan cong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac357cd0e",
+                                    "id": 105420,
+                                    "type": "e_cnvi",
+                                    "e": "将军下了进攻令。",
+                                    "p_cn": "jiangjun xiale jingong ling.",
+                                    "p": "jiāngjūn xiàle jìngōng lìng."
+                                },
+                                {
+                                    "m": "Ra chỉ thị lập tức thi hành.",
+                                    "p_vn": "ra chi thi lap tuc thi hanh.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac357ce70",
+                                    "id": 105421,
+                                    "type": "e_cnvi",
+                                    "e": "下指示马上执行。",
+                                    "p_cn": "xia zhishi mashang zhixing.",
+                                    "p": "xià zhǐshì mǎshàng zhíxíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xuống (thường là từ thành phố xuống nông thôn)",
+                            "explain": "去; 到 (处所)",
+                            "examples": [
+                                {
+                                    "m": "Xuống nông thôn trải nghiệm cuộc sống.",
+                                    "p_vn": "xuong nong thon trai nghiem cuoc song.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35853a7",
+                                    "id": 105426,
+                                    "type": "e_cnvi",
+                                    "e": "下农村体验生活。",
+                                    "p_cn": "xia nongcun tiyan shenghuo.",
+                                    "p": "xià nóngcūn tǐyàn shēnghuó."
+                                },
+                                {
+                                    "m": "Xuống cơ sở tìm hiểu tình hình.",
+                                    "p_vn": "xuong co so tim hieu tinh hinh.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3586216",
+                                    "id": 105427,
+                                    "type": "e_cnvi",
+                                    "e": "下基层了解情况。",
+                                    "p_cn": "xia jiceng liaojie qingkuang.",
+                                    "p": "xià jīcéng liǎojiě qíngkuàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ra khỏi vị trí; rời khỏi; xuống",
+                            "explain": "离开表演、比赛的场所",
+                            "examples": [
+                                {
+                                    "m": "Trọng tài yêu cầu anh ta rời khỏi vị trí.",
+                                    "p_vn": "trọng tài yeu càu anh ta ròi khỏi vị trí.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b369d549",
+                                    "id": 90217,
+                                    "type": "e_cnvi",
+                                    "e": "裁判让他下场。",
+                                    "p_cn": "caipan rang ta xiachang.",
+                                    "p": "cáipàn ràng tā xiàchǎng."
+                                },
+                                {
+                                    "m": "Thay người, số ba xuống, số bốn lên.",
+                                    "p_vn": "thay nguòi, só ba xuóng, só bón len.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b369e487",
+                                    "id": 90218,
+                                    "type": "e_cnvi",
+                                    "e": "换人，三号下，四号上。",
+                                    "p_cn": "huan ren, san hao xia, si hao shang.",
+                                    "p": "huàn rén, sān hào xià, sì hào shàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xuống (thả; gieo)",
+                            "explain": "放入",
+                            "examples": [
+                                {
+                                    "m": "Thả bánh bao vào nồi luộc.",
+                                    "p_vn": "tha banh bao vao noi luoc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac358bca6",
+                                    "id": 105434,
+                                    "type": "e_cnvi",
+                                    "e": "下饺子到锅里煮。",
+                                    "p_cn": "xia jiaozi dao guo li zhu.",
+                                    "p": "xià jiǎozi dào guō lǐ zhǔ."
+                                },
+                                {
+                                    "m": "Thả mồi câu vào ao.",
+                                    "p_vn": "tha moi cau vao ao.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac358c82b",
+                                    "id": 105435,
+                                    "type": "e_cnvi",
+                                    "e": "下鱼饵到池塘里。",
+                                    "p_cn": "xia yu'er dao chitang li.",
+                                    "p": "xià yú'ěr dào chítáng lǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hạ; đi đến; đưa ra (kết luận, phán đoán...)",
+                            "explain": "做出 (言论、判断等)",
+                            "examples": [
+                                {
+                                    "m": "Đưa ra kết luận phải thận trọng hơn.",
+                                    "p_vn": "dua ra ket luan phai than trong hon.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac358eb30",
+                                    "id": 105441,
+                                    "type": "e_cnvi",
+                                    "e": "下结论要谨慎些。",
+                                    "p_cn": "xia jielun yao jinshen xie.",
+                                    "p": "xià jiélùn yào jǐnshèn xiē."
+                                },
+                                {
+                                    "m": "Giờ phút này tôi hạ quyết tâm thay đổi.",
+                                    "p_vn": "gio phut nay toi ha quyet tam thay doi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac358fa35",
+                                    "id": 105442,
+                                    "type": "e_cnvi",
+                                    "e": "我此刻下决心改。",
+                                    "p_cn": "wo cike xia juexin gai.",
+                                    "p": "wǒ cǐkè xià juéxīn gǎi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tan (kết thúc công việc hàng ngày theo thời gian quy định)",
+                            "explain": "到规定时间结束日常工作或学习等",
+                            "examples": [
+                                {
+                                    "m": "Thời gian tan làm sắp đến rồi.",
+                                    "p_vn": "thoi gian tan lam sap den roi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac358fc56",
+                                    "id": 105443,
+                                    "type": "e_cnvi",
+                                    "e": "下班时间快到了。",
+                                    "p_cn": "xiaban shijian kuai daole.",
+                                    "p": "xiàbān shíjiān kuài dàole."
+                                },
+                                {
+                                    "m": "Sau khi tan học cùng nhau chơi đùa.",
+                                    "p_vn": "sau khi tan hoc cung nhau choi dua.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac358fd88",
+                                    "id": 105444,
+                                    "type": "e_cnvi",
+                                    "e": "下学后一起玩耍。",
+                                    "p_cn": "xia xue hou yiqi wanshua.",
+                                    "p": "xià xué hòu yīqǐ wánshuǎ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dùng; đặt; bỏ",
+                            "explain": "使用;开始使用",
+                            "examples": [
+                                {
+                                    "m": "Bỏ công sức ra luyện tập thư pháp.",
+                                    "p_vn": "bo cong suc ra luyen tap thu phap.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35933d2",
+                                    "id": 105450,
+                                    "type": "e_cnvi",
+                                    "e": "下功夫练习书法。",
+                                    "p_cn": "xia gongfu lianxi shufa.",
+                                    "p": "xià gōngfū liànxí shūfǎ."
+                                },
+                                {
+                                    "m": "Dùng sức lực dọn dẹp phòng.",
+                                    "p_vn": "dung suc luc don dep phong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3593f62",
+                                    "id": 105451,
+                                    "type": "e_cnvi",
+                                    "e": "下力气整理房间。",
+                                    "p_cn": "xia liqi zhengli fangjian.",
+                                    "p": "xià lìqì zhěnglǐ fángjiān."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đẻ; sinh (động vật)",
+                            "explain": "(动物) 生产",
+                            "examples": [
+                                {
+                                    "m": "Bò mẹ đã sinh ra bê con.",
+                                    "p_vn": "bo me da sinh ra be con.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3596e0c",
+                                    "id": 105458,
+                                    "type": "e_cnvi",
+                                    "e": "母牛下了小牛犊。",
+                                    "p_cn": "mu niu xiale xiao niudu.",
+                                    "p": "mǔ niú xiàle xiǎo niúdú."
+                                },
+                                {
+                                    "m": "Con lợn nái đã sinh được một đàn con.",
+                                    "p_vn": "con lon nai da sinh duoc mot dan con.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35970ca",
+                                    "id": 105459,
+                                    "type": "e_cnvi",
+                                    "e": "母猪下了一窝崽。",
+                                    "p_cn": "mu zhu xiale yi wo zai.",
+                                    "p": "mǔ zhū xiàle yī wō zǎi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hạ; chiếm (đánh lấy)",
+                            "explain": "攻陷",
+                            "examples": [
+                                {
+                                    "m": "Chỉ một đòn đã hạ được cứ điểm đó.",
+                                    "p_vn": "chi mot don da ha duoc cu diem do.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3598f34",
+                                    "id": 105464,
+                                    "type": "e_cnvi",
+                                    "e": "一举下了那据点。",
+                                    "p_cn": "yiju xiale na judian.",
+                                    "p": "yījǔ xiàle nà jùdiǎn."
+                                },
+                                {
+                                    "m": "Quân địch đã chiếm được thành này.",
+                                    "p_vn": "quan dich da chiem duoc thanh nay.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35996e7",
+                                    "id": 105465,
+                                    "type": "e_cnvi",
+                                    "e": "敌军下了这座城。",
+                                    "p_cn": "di jun xiale zhe zuo cheng.",
+                                    "p": "dí jūn xiàle zhè zuò chéng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lui nhường; nhân nhượng; nhượng bộ",
+                            "explain": "退让",
+                            "examples": [
+                                {
+                                    "m": "Lần này anh ấy chọn nhượng bộ.",
+                                    "p_vn": "lan nay anh ay chon nhuong bo.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac359d5e0",
+                                    "id": 105472,
+                                    "type": "e_cnvi",
+                                    "e": "这次他选择下让。",
+                                    "p_cn": "zhe ci ta xuanze xia rang.",
+                                    "p": "zhè cì tā xuǎnzé xià ràng."
+                                },
+                                {
+                                    "m": "Nhường lại một bước để tránh xảy ra xung đột.",
+                                    "p_vn": "nhuong lai mot buoc de tranh xay ra xung dot.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac359e188",
+                                    "id": 105473,
+                                    "type": "e_cnvi",
+                                    "e": "下了一步避免起冲突。",
+                                    "p_cn": "xiale yibu bimian qi chongtu.",
+                                    "p": "xiàle yībù bìmiǎn qǐ chōngtú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dưới (thấp hơn, ít hơn)",
+                            "explain": "用于否定式; 低于; 少于",
+                            "examples": [
+                                {
+                                    "m": "Số người tham gia đại hội không dưới ba nghìn người.",
+                                    "p_vn": "so nguoi tham gia dai hoi khong duoi ba nghin nguoi.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b36b03f4",
+                                    "id": 90229,
+                                    "type": "e_cnvi",
+                                    "e": "参加大会的不下三千人。",
+                                    "p_cn": "canjia dahui de buxia sanqian ren.",
+                                    "p": "cānjiā dàhuì de bùxià sānqiān rén."
+                                },
+                                {
+                                    "m": "Người tham dự không dưới mười nghìn người.",
+                                    "p_vn": "nguoi tham du khong duoi muoi nghin nguoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35a0a61",
+                                    "id": 105480,
+                                    "type": "e_cnvi",
+                                    "e": "参会者不下一万人。",
+                                    "p_cn": "can hui zhe buxia yi wan ren.",
+                                    "p": "cān huì zhě bùxià yī wàn rén."
+                                },
+                                {
+                                    "m": "Khán giả không dưới một vạn người.",
+                                    "p_vn": "khan gia khong duoi mot van nguoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35a0d7d",
+                                    "id": 105481,
+                                    "type": "e_cnvi",
+                                    "e": "观众不下一万人。",
+                                    "p_cn": "guanzhong buxia yi wan ren.",
+                                    "p": "guānzhòng bùxià yī wàn rén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thi đấu; chơi (thi đấu cờ hoặc vui chơi giải trí)",
+                            "explain": "进行 (棋类游艺或比赛)",
+                            "examples": [
+                                {
+                                    "m": "Chơi một ván cờ tuyệt vời.",
+                                    "p_vn": "choi mot van co tuyet voi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35a4e75",
+                                    "id": 105487,
+                                    "type": "e_cnvi",
+                                    "e": "下一盘精彩的棋。",
+                                    "p_cn": "xia yi pan jingcai de qi.",
+                                    "p": "xià yī pán jīngcǎi de qí."
+                                },
+                                {
+                                    "m": "Chơi một ván cờ gay cấn.",
+                                    "p_vn": "choi mot van co gay can.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35a50aa",
+                                    "id": 105488,
+                                    "type": "e_cnvi",
+                                    "e": "下一局激烈的棋。",
+                                    "p_cn": "xia yi ju jilie de qi.",
+                                    "p": "xià yī jú jīliè de qí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dỡ xuống; lấy xuống; hạ xuống",
+                            "explain": "卸除; 取下",
+                            "examples": [
+                                {
+                                    "m": "Hạ súng của quân địch rồi.",
+                                    "p_vn": "ha sung cua quan dich roi.",
+                                    "_id": "e2ab26345b11f83871f022bca694d240",
+                                    "id": 41574,
+                                    "type": "e_cnvi",
+                                    "e": "把敌人的枪下了。",
+                                    "p_cn": "ba diren de qiang xia le.",
+                                    "p": "bǎ dírén de qiāng xià le."
+                                },
+                                {
+                                    "m": "Hạ cửa sổ xuống.",
+                                    "p_vn": "ha cua so xuong.",
+                                    "_id": "1b9851765c46c31d84f5951d47d7652f",
+                                    "id": 41575,
+                                    "type": "e_cnvi",
+                                    "e": "把窗户下下来。",
+                                    "p_cn": "ba chuanghu xia xialai.",
+                                    "p": "bǎ chuānghù xià xiàlái."
+                                },
+                                {
+                                    "m": "Hạ xuống biển hiệu quán đóng cửa.",
+                                    "p_vn": "ha xuong bien hieu quan dong cua.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35a6e03",
+                                    "id": 105493,
+                                    "type": "e_cnvi",
+                                    "e": "下招牌店铺关门。",
+                                    "p_cn": "xia zhaopai dianpu guanmen.",
+                                    "p": "xià zhāopái diànpù guānmén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "được; đủ (biểu thị có đủ không gian chứa đựng)",
+                            "explain": "表示有空间，能容纳",
+                            "examples": [
+                                {
+                                    "m": "Phòng này có thể ngồi được 50 người.",
+                                    "p_vn": "phong nay co the ngoi duoc 50 nguoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35ac4c2",
+                                    "id": 105503,
+                                    "type": "e_cnvi",
+                                    "e": "这房间能坐下五十人。",
+                                    "p_cn": "zhe fangjian neng zuo xia wushi ren.",
+                                    "p": "zhè fángjiān néng zuò xià wǔshí rén."
+                                },
+                                {
+                                    "m": "Ở đây còn đủ chỗ để ngồi không?",
+                                    "p_vn": "o day con du cho de ngoi khong?",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35acbcb",
+                                    "id": 105504,
+                                    "type": "e_cnvi",
+                                    "e": "这里还坐得下吗？",
+                                    "p_cn": "zheli hai zuo de xia ma?",
+                                    "p": "zhèlǐ hái zuò dé xià ma?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đặt (biểu thị sự hoàn thành hoặc kết quả của động tác)",
+                            "explain": "表示动作的完成或结果",
+                            "examples": [
+                                {
+                                    "m": "Đặt một nền tảng vững chắc.",
+                                    "p_vn": "dat mot nen tang vung chac.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35af41f",
+                                    "id": 105510,
+                                    "type": "e_cnvi",
+                                    "e": "打下扎实的基础。",
+                                    "p_cn": "daxia zhashi de jichu.",
+                                    "p": "dǎxià zhāshi de jīchǔ."
+                                },
+                                {
+                                    "m": "Đặt ra mục tiêu rõ ràng.",
+                                    "p_vn": "dat ra muc tieu ro rang.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35b187a",
+                                    "id": 105514,
+                                    "type": "e_cnvi",
+                                    "e": "定下明确的目标。",
+                                    "p_cn": "ding xia mingque de mubiao.",
+                                    "p": "dìng xià míngquè de mùbiāo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xuống (hướng từ cao xuống thấp)",
+                            "explain": "用在动词后，表示由高处到低处",
+                            "examples": [
+                                {
+                                    "m": "Nhảy xuống hồ bơi bơi lội.",
+                                    "p_vn": "nhay xuong ho boi boi loi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35b41f6",
+                                    "id": 105520,
+                                    "type": "e_cnvi",
+                                    "e": "跳下水池游起泳。",
+                                    "p_cn": "tiao xia shuichi you qi yong.",
+                                    "p": "tiào xià shuǐchí yóu qǐ yǒng."
+                                },
+                                {
+                                    "m": "Đi xuống cầu thang chậm một chút.",
+                                    "p_vn": "di xuong cau thang cham mot chut.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35b4ee5",
+                                    "id": 105521,
+                                    "type": "e_cnvi",
+                                    "e": "走下楼梯慢些走。",
+                                    "p_cn": "zou xia louti man xie zou.",
+                                    "p": "zǒu xià lóutī màn xiē zǒu."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "tiếng; cái; lần (chỉ số lần của động tác)",
+                            "explain": "用于动作的次数",
+                            "examples": [
+                                {
+                                    "m": "Chuông đổ ba tiếng.",
+                                    "p_vn": "chuong do ba tieng.",
+                                    "_id": "ff478fc8ed714fcd75b0abe9c29ec2b8",
+                                    "id": 41589,
+                                    "type": "e_cnvi",
+                                    "e": "钟打了三下。",
+                                    "p_cn": "zhongda le sanxia.",
+                                    "p": "zhōngdǎ le sānxià."
+                                },
+                                {
+                                    "m": "Phất cờ mấy lần.",
+                                    "p_vn": "phat co may lan.",
+                                    "_id": "40e9795119b8966796963b87570735cd",
+                                    "id": 41590,
+                                    "type": "e_cnvi",
+                                    "e": "摇了几下旗子。",
+                                    "p_cn": "yao le jixia qizi.",
+                                    "p": "yáo le jīxià qízi."
+                                },
+                                {
+                                    "m": "Gõ cửa ba lần.",
+                                    "p_vn": "gõ của ba làn.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b36b58e9",
+                                    "id": 90231,
+                                    "type": "e_cnvi",
+                                    "e": "敲三下门。",
+                                    "p_cn": "qiao san xia men.",
+                                    "p": "qiāo sān xià mén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chỉ dung lượng của vật chứa",
+                            "explain": "用于器物的容量",
+                            "examples": [
+                                {
+                                    "m": "Chai này chứa nửa lít dầu.",
+                                    "p_vn": "chai nay chua nua lit dau.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35b97ad",
+                                    "id": 105529,
+                                    "type": "e_cnvi",
+                                    "e": "这瓶下了半升油。",
+                                    "p_cn": "zhe ping xiale ban sheng you.",
+                                    "p": "zhè píng xiàle bàn shēng yóu."
+                                },
+                                {
+                                    "m": "Nồi đó chứa hai lít nước.",
+                                    "p_vn": "noi do chua hai lit nuoc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35ba53e",
+                                    "id": 105530,
+                                    "type": "e_cnvi",
+                                    "e": "那锅下了两升水。",
+                                    "p_cn": "na guo xiale liang shengshui.",
+                                    "p": "nà guō xiàle liǎng shēngshuǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngón; chiêu (dùng sau 两、几 để chỉ bản lĩnh, kỹ năng)",
+                            "explain": "用在''两、几''后面，表示本领、技能",
+                            "examples": [
+                                {
+                                    "m": "Không ngờ anh ấy còn có vài chiêu.",
+                                    "p_vn": "khong ngò anh áy còn có vài chieu.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b36b7b0c",
+                                    "id": 90234,
+                                    "type": "e_cnvi",
+                                    "e": "想不到他还有几下。",
+                                    "p_cn": "xiangbudao ta hai you ji xia.",
+                                    "p": "xiǎngbùdào tā hái yǒu jǐ xià."
+                                },
+                                {
+                                    "m": "Hai chiêu này thật tuyệt.",
+                                    "p_vn": "hai chieu nay that tuyet.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35b9304",
+                                    "id": 105528,
+                                    "type": "e_cnvi",
+                                    "e": "这两下子真不错。",
+                                    "p_cn": "zhe liang xiazi zhen bucuo.",
+                                    "p": "zhè liǎng xiàzi zhēn bùcuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"下\" và \"下边(面)\" đều chỉ phương hướng và nơi chốn.\nKhác:\n- \"下\" còn là một ngữ tố, có khả năng tổ hợp từ, còn \"下边(面)\" không có khả năng cấu tạo từ.",
+                    "title": "Phân biệt \"下\" và \"下边\"",
+                    "words": [
+                        "下",
+                        "下边"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "高",
+                    "上",
+                    "高字"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "xià",
+            "cn_vi": "hạ",
+            "popularity": {
+                "notebook": 624,
+                "search": 20666
+            },
+            "word": "下",
+            "id": 54684,
+            "phonetic": "xia",
+            "rank": 264,
+            "lv_tocfl": 1,
+            "compound": "下巴 ; 下巴颏儿 ; 下摆 ; 下班 ; 下半旗 ; 下半晌 ; 下半天 ; 下半夜 ; 下辈 ; 下辈子 ; 下本儿 ; 下笔 ; 下边 ; 下不来 ; 下不为例 ; 下操 ; 下策 ; 下层 ; 下场 ; 下场门 ; 下车伊始 ; 下乘 ; 下处 ; 下船 ; 下存 ; 下达 ; 下蛋 ; 下等 ; 下地 ; 下第 ; 下店 ; 下定 ; 下碇 ; 下颚 ; 下凡 ; 下饭 ; 下房 ; 下放 ; 下风 ; 下疳 ; 下工 ; 下工夫 ; 下海 ; 下颌 ; 下怀 ; 下级 ; 下家 ; 下贱 ; 下江 ; 下降 ; 下焦 ; 下脚 ; 下脚货 ; 下界 ; 下劲 ; 下酒 ; 下课 ; 下款 ; 下来 ; 下里巴人 ; 下里 ; 下联 ; 下列 ; 下令 ; 下流 ; 下落 ; 下马 ; 下马看花 ; 下马威 ; 下面 ; 下奶 ; 下品 ; 下坡路 ; 下欠 ; 下情 ; 下去 ; 下人 ; 下梢 ; 下身 ; 下神 ; 下生 ; 下剩 ; 下士 ; 下世 ; 下手 ; 下书 ; 下属 ; 下水 ; 下水道 ; 下榻 ; 下台 ; 下体 ; 下帖 ; 下同 ; 下头 ; 下晚儿 ; 下痿 ; 下文 ; 下午 ; 下弦 ; 下限 ; 下乡 ; 下行 ; 下旬 ; 下压力 ; 下药 ; 下野 ; 下意识 ; 下议院 ; 下游 ; 下葬 ; 下肢 ; 下中农 ; 下种 ; 下箸 ; 下装 ; 下坠 ; 下子 ; 下作"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "16489d024f4d4d9389f00acb68515956",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "thanh gươm giữa ngọ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "chính ngọ chi kiếm",
+            "pinyin": "zhèngwǔ zhī jiàn",
+            "word": "正午之剑",
+            "id": 167694,
+            "phonetic": "zhengwuzhijian",
+            "rank": 156367,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "下午"
+}

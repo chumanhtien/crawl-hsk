@@ -1,0 +1,3087 @@
+{
+    "total": 697,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄎㄜˇ",
+            "_id": "39d1a0e4aa30ab43416922d059bf7c89",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "chỉ cần A cho phép, mệnh đề chỉ kết quả",
+                            "examples": [
+                                89001
+                            ],
+                            "struct": "只要 + A + 许可, mệnh đề"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cấp phép; đồng ý",
+                            "explain": "准许;容许",
+                            "examples": [
+                                {
+                                    "m": "Giấy phép.",
+                                    "p_vn": "giay phep.",
+                                    "_id": "25690b8eeaf2f262f867eff082084696",
+                                    "id": 43392,
+                                    "type": "e_cnvi",
+                                    "e": "许可证。",
+                                    "p_cn": "xukezheng",
+                                    "p": "xǔkězhèng"
+                                },
+                                {
+                                    "m": "Loại thuốc mới chưa được cấp phép tại Hoa Kỳ.",
+                                    "p_vn": "loai thuoc moi chua duoc cap phep tai hoa ky.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab280696",
+                                    "id": 88999,
+                                    "type": "e_cnvi",
+                                    "e": "这种新药尚未在美国获得许可。",
+                                    "p_cn": "zhezhong xinyao shang weizai meiguo huode xuke",
+                                    "p": "zhèzhǒng xīnyào shàng wèizài měiguó huòdé xǔkě"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cho phép",
+                            "explain": "某种客观条件满足，某行为可以进行",
+                            "examples": [
+                                {
+                                    "m": "Chỉ cần điều kiện kinh tế cho phép, thì tôi sẽ mua nhà.",
+                                    "p_vn": "chi can dieu kien kinh te cho phep, thi toi se mua nha.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab280ef9",
+                                    "id": 89000,
+                                    "type": "e_cnvi",
+                                    "e": "只要经济条件许可，我会买房。",
+                                    "p_cn": "zhiyao jingji tiaojian xuke, wo hui maifang.",
+                                    "p": "zhǐyào jīngjì tiáojiàn xǔkě, wǒ huì mǎifáng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- Ba từ này là từ đồng nghĩa.\nNgữ khí của \"容许\" nặng hơn \"允许\" và \"许可\", và sự khác biệt của chúng nằm ở cách tổ hợp từ là khác nhau.\n- \"允许\" thường được sử dụng trong khẩu ngữ, \"容许\" thường được sử dụng trong văn viết.",
+                    "title": "Phân biệt \"许可\"，\"容许\" và \"允许\"",
+                    "words": [
+                        "许可",
+                        "容许",
+                        "允许"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "答允",
+                    "承诺",
+                    "答应",
+                    "容许",
+                    "允诺",
+                    "允许",
+                    "应承",
+                    "准许",
+                    "同意",
+                    "许字"
+                ],
+                "anto": [
+                    "禁止",
+                    "阻止",
+                    "反对",
+                    "禁令"
+                ]
+            },
+            "lv_hsk_new": "5, 6",
+            "pinyin": "xǔkě",
+            "cn_vi": "hứa khả",
+            "popularity": {
+                "notebook": 134,
+                "search": 1395
+            },
+            "word": "许可",
+            "id": 57189,
+            "phonetic": "xuke",
+            "rank": 7499,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄎㄜˇㄓㄥˋ",
+            "_id": "226529e1d2fc4f19a6328313bea06d74",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ủy quyền",
+                            "explain": "authorization",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giấy phép",
+                            "explain": "license",
+                            "examples": [
+                                {
+                                    "m": "Tôi đã có giấy phép rượu.",
+                                    "p_vn": "Toi da co giay phep ruou.",
+                                    "_id": "a00678d0ac3a4f18bf39563b2c45d86a",
+                                    "id": 66466,
+                                    "type": "e_cnvi",
+                                    "e": "取得了酒类许可证",
+                                    "p_cn": "qude le jiulei xukezheng",
+                                    "p": "qǔdé le jǐulèi xǔkězhèng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cho phép làm gì",
+                            "explain": "permit",
+                            "examples": [
+                                {
+                                    "m": "Bạn có giấy phép để phá hủy doanh nghiệp của tôi?",
+                                    "p_vn": "ban co giay phep de pha huy doanh nghiep cua toi?",
+                                    "_id": "2a8c74753c9946518917d5508075d7dd",
+                                    "id": 66469,
+                                    "type": "e_cnvi",
+                                    "e": "你有毁了我生意的许可证吗",
+                                    "p_cn": "ni you hui le wo shengyi de xukezheng ma",
+                                    "p": "nǐ yǒu hǔi le wǒ shēngyi de xǔkězhèng ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 62,
+                "search": 710
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "xǔkě zhèng",
+            "cn_vi": "hứa khả chứng",
+            "word": "许可证",
+            "id": 119826,
+            "phonetic": "xukezheng",
+            "rank": 12607,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "75a514ab4e164e60bed614c3d0223b4f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giấy phép",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khả hứa chứng",
+            "pinyin": "kě xǔ zhèng",
+            "popularity": {
+                "notebook": 1,
+                "search": 5
+            },
+            "word": "可许证",
+            "id": 177570,
+            "phonetic": "kexuzheng",
+            "rank": 125588,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄩㄌㄧㄡˊㄒㄩˇㄎㄜˇ",
+            "_id": "d7fdbbd5e99f4f2aa0f9b7a2301c7c32",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thẻ cư trú",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Việc xin giấy phép cư trú có thể do đơn vị công tác giải quyết.",
+                                    "p_vn": "Viec xin giay phep cu tru co the do don vi cong tac giai quyet.",
+                                    "_id": "5448f9d43007467596327c155da3517a",
+                                    "id": 67711,
+                                    "type": "e_cnvi",
+                                    "e": "申请居留许可,可以由工作单位代办。",
+                                    "p_cn": "Shenqing juliu xuke, keyi you gongzuo danwei daiban.",
+                                    "p": "Shēnqǐng jūliú xǔkě, kěyǐ yóu gōngzuò dānwèi dàibàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 144
+            },
+            "snym": null,
+            "cn_vi": "cư lưu hứa khả",
+            "pinyin": "jūliú xǔkě",
+            "word": "居留许可",
+            "id": 152645,
+            "phonetic": "juliuxuke",
+            "rank": 34205,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄡˊㄗㄒㄩˇㄎㄜˇ",
+            "_id": "4914147ff890480d8e1b5f185152abd6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giấy phép đầu tư",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 36
+            },
+            "snym": null,
+            "cn_vi": "đầu tư hứa khả",
+            "pinyin": "tóuzī xǔkě",
+            "word": "投资许可",
+            "id": 154792,
+            "phonetic": "touzixuke",
+            "rank": 66355,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄎㄜˇㄒㄧㄝˊㄧˋ",
+            "_id": "a2e7ed147bcb4c91922697bec8cd5bd8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thỏa thuận cấp phép (đối với sở hữu trí tuệ)",
+                            "explain": "licensing agreement (for intellectual property)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "hứa khả hiệp nghị",
+            "pinyin": "xǔkě xiéyì",
+            "word": "许可协议",
+            "id": 129372,
+            "phonetic": "xukexieyi",
+            "rank": 93875,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄇㄧㄢˋㄒㄩˇㄎㄜˇ",
+            "_id": "85a24e2c33e44ac98ac510b95e456d46",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ủy quyền bằng văn bản",
+                            "explain": "written authorization",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sự cho phép bằng văn bản",
+                            "explain": "written permission",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "thư diện hứa khả",
+            "pinyin": "shūmiàn xǔkě",
+            "word": "书面许可",
+            "id": 131309,
+            "phonetic": "shumianxuke",
+            "rank": 82150,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄒㄩˇㄎㄜˇㄓㄥˋ",
+            "_id": "73a0513afb1243ff9391e05c3bf09aa6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giấy phép lao động",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 213
+            },
+            "snym": null,
+            "cn_vi": "công tá hứa khả chứng",
+            "pinyin": "gōngzuò xǔkě zhèng",
+            "word": "工作许可证",
+            "id": 154789,
+            "phonetic": "gongzuoxukezheng",
+            "rank": 27255,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄎㄡˇㄒㄩˇㄎㄜˇㄓㄥˋ",
+            "_id": "1bf0f244c12658509e1c0e908be2c31e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giấy phép xuất khẩu",
+                            "explain": "在国际贸易中，根据一国出口商品管制的法令规定，由有关当局签发的准许出口的证件。出口许可证制是一国对外出口货物实行管制的一项措施。一般而言，某些国家对国内生产所需的原料，半制成品以及国内供不应求的一些紧销物资和商品实行出口许可证制。通过签发许可证进行控制，限制出口或禁止出口，以满足国内市场和消费者的需要，保护民族经济。此外，某些不能复制，再生的古董文物也是各国保护对象，严禁出口；根据国际通行准则，鸦片等毒品或各种淫秽品也禁止出口。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "xuất khẩu hứa khả chứng",
+            "pinyin": "chūkǒu xǔkě zhèng",
+            "word": "出口许可证",
+            "id": 80693,
+            "phonetic": "chukouxukezheng",
+            "rank": 96126,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄎㄜˇㄓㄥˋㄅㄠˇㄒㄧㄢˇ",
+            "_id": "257fc86f47649d03a68c47bb401d850b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bảo hiểm giấy phép",
+                            "explain": "许可证保险（license insurance）是2012年发布的经贸名词。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "hứa khả chứng bảo hiểm",
+            "pinyin": "xǔkě zhèng bǎoxiǎn",
+            "word": "许可证保险",
+            "id": 82559,
+            "phonetic": "xukezhengbaoxian",
+            "rank": 72048,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                " v",
+                " adv",
+                "part"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩˇ",
+            "_id": "b77ae50eab26c2ded303f70a37958992",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Không/đặc biệt/chỉ cho phép ai đó làm gì",
+                            "examples": [
+                                96161,
+                                96162
+                            ],
+                            "struct": "不/特/只 + 许 + Người + Động từ"
+                        },
+                        {
+                            "explain": "Ai hứa với/hứa cho ai cái gì đấy",
+                            "examples": [
+                                96170,
+                                96171
+                            ],
+                            "struct": "Chủ ngữ +许 + 过/给/了 + Tân ngữ (người)"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cho phép; đồng ý",
+                            "explain": "同意或者允许做",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy không cho phép tôi đi.",
+                                    "p_vn": "anh ay khong cho phep toi di.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b59bc5",
+                                    "id": 95892,
+                                    "type": "e_cnvi",
+                                    "e": "他不许我去。",
+                                    "p_cn": "ta buxu wo qu.",
+                                    "p": "tā bùxǔ wǒ qù."
+                                },
+                                {
+                                    "m": "Mẹ chỉ cho phép tôi chơi điện thoại 1 tiếng đồng hồ.",
+                                    "p_vn": "me chi cho phep toi choi dien thoai 1 tieng dong ho.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9bec68a",
+                                    "id": 96157,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈只许我玩手机一个小时。",
+                                    "p_cn": "mama zhi xu wo wan shouji yi xiaoshi.",
+                                    "p": "māma zhǐ xǔ wǒ wán shǒujī yī xiǎoshí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hứa; hứa hẹn",
+                            "explain": "答应以后送人东西或者帮人做事",
+                            "examples": [
+                                {
+                                    "m": "Bạn hứa cho tôi quyển sách này.",
+                                    "p_vn": "ban hua cho toi quyen sach nay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b5e069",
+                                    "id": 95900,
+                                    "type": "e_cnvi",
+                                    "e": "你许给我这本书。",
+                                    "p_cn": "ni xu gei wo zhe ben shu.",
+                                    "p": "nǐ xǔ gěi wǒ zhè běn shū."
+                                },
+                                {
+                                    "m": "Anh đã hứa với tôi rất nhiều lần rồi.",
+                                    "p_vn": "anh da hua voi toi rat nhieu lan roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b5e922",
+                                    "id": 95901,
+                                    "type": "e_cnvi",
+                                    "e": "你跟我许过很多次了。",
+                                    "p_cn": "ni gen wo xuguo henduo cile.",
+                                    "p": "nǐ gēn wǒ xǔguò hěnduō cìle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ước; ước nguyện; cầu nguyện",
+                            "explain": "人们求神帮助自己实现愿望",
+                            "examples": [
+                                {
+                                    "m": "Vào sinh nhật mọi người thường ước nguyện.",
+                                    "p_vn": "vao sinh nhat moi nguoi thuong uoc nguyen.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b60828",
+                                    "id": 95904,
+                                    "type": "e_cnvi",
+                                    "e": "在生日人们常许愿。",
+                                    "p_cn": "zai shengri renmen chang xuyuan.",
+                                    "p": "zài shēngrì rénmen cháng xǔyuàn."
+                                },
+                                {
+                                    "m": "Khi gặp khó khăn rất nhiều người đã cầu nguyện với thần linh.",
+                                    "p_vn": "khi gap kho khan rat nhieu nguoi da cau nguyen voi than linh.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b60be0",
+                                    "id": 95905,
+                                    "type": "e_cnvi",
+                                    "e": "遇到困难时很多人向神灵许愿。",
+                                    "p_cn": "yu dao kunnan shi henduo ren xiang shen xuyuan.",
+                                    "p": "yù dào kùnnán shí hěnduō rén xiàng shén xǔyuàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hứa hôn; gả",
+                            "explain": "父母同意把女儿嫁给某人",
+                            "examples": [
+                                {
+                                    "m": "Tôi đem con gái của mình gả cho cậu ấy.",
+                                    "p_vn": "toi dem con gai cua minh ga cho cau ay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b60ed6",
+                                    "id": 95906,
+                                    "type": "e_cnvi",
+                                    "e": "我把自己的女儿许给他。",
+                                    "p_cn": "wo ba ziji de nǚr xu gei ta.",
+                                    "p": "wǒ bǎ zìjǐ de nǚr xǔ gěi tā."
+                                },
+                                {
+                                    "m": "Cô gái tốt này đã hứa hôn với người ta rồi.",
+                                    "p_vn": "co gai tot nay da hua hon voi nguoi ta roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b610d8",
+                                    "id": 95907,
+                                    "type": "e_cnvi",
+                                    "e": "好姑娘许了人家了。",
+                                    "p_cn": "hao guniang xule renjiale.",
+                                    "p": "hǎo gūniáng xǔle rénjiāle."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "có thể làm sao đó",
+                            "examples": [
+                                95913,
+                                95914
+                            ],
+                            "struct": "许 + Động từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có lẽ",
+                            "explain": "可能；也许",
+                            "examples": [
+                                {
+                                    "m": "Có lẽ là anh ấy không thích tớ.",
+                                    "p_vn": "co le la anh ay khong thich to.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b5a731",
+                                    "id": 95894,
+                                    "type": "e_cnvi",
+                                    "e": "他许是不喜欢我。",
+                                    "p_cn": "ta xu shi bu xihuan wo.",
+                                    "p": "tā xǔ shì bù xǐhuān wǒ."
+                                },
+                                {
+                                    "m": "Hôm nay có lẽ anh ấy không đến.",
+                                    "p_vn": "hom nay co le anh ay khong den.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b5b660",
+                                    "id": 95895,
+                                    "type": "e_cnvi",
+                                    "e": "今天他许是不来。",
+                                    "p_cn": "jintian ta xu shi bu lai.",
+                                    "p": "jīntiān tā xǔ shì bù lái."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "Khoảng mấy giờ/khoảng bao nhiêu",
+                            "examples": [
+                                95888,
+                                95889
+                            ],
+                            "struct": "thời gian/số + 许"
+                        }
+                    ],
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "khoảng; gần",
+                            "explain": "大约；差不多",
+                            "examples": [
+                                {
+                                    "m": "Học sinh đi du học khoảng 40 người.",
+                                    "p_vn": "hoc sinh di du hoc khoang 40 nguoi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b570fc",
+                                    "id": 95885,
+                                    "type": "e_cnvi",
+                                    "e": "去留学的有四十许学生。",
+                                    "p_cn": "qu liuxue de you sishi xu xuesheng.",
+                                    "p": "qù liúxué de yǒu sìshí xǔ xuéshēng."
+                                },
+                                {
+                                    "m": "Khỏng 6 giờ tôi ăn bữa sáng.",
+                                    "p_vn": "khong 6 gio toi an bua sang.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b578c6",
+                                    "id": 95886,
+                                    "type": "e_cnvi",
+                                    "e": "六点许，我吃早餐。",
+                                    "p_cn": "liu dian xu, wo chi zaocan.",
+                                    "p": "liù diǎn xǔ, wǒ chī zǎocān."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 178,
+                "search": 10465
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "xǔ",
+            "cn_vi": "hứa.hổ.hử",
+            "word": "许",
+            "id": 57185,
+            "phonetic": "xu",
+            "rank": 946,
+            "lv_hsk": 4,
+            "lv_tocfl": 4,
+            "compound": "许多 ; 许婚 ; 许久 ; 许可 ; 许诺 ; 许配 ; 许愿 ; 许字"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄎㄡˇㄒㄩˇㄎㄜˇㄓㄥˋ",
+            "_id": "2c49ad58b83eab4f0995be1229721cd7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giấy phép nhập khẩu",
+                            "explain": "进口许可证是有关进口许可证的申请、审查、颁发、使用、效力、撤销和废止方面的法律。通过对进口商品实行许可证管理，可以调节国家进口商品结构，稳定国内市场，但是，当进口许可程序透明度不强或签发过程产生不必要的延误时，它又成为贸易保护的工具。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "tiến khẩu hứa khả chứng",
+            "pinyin": "jìnkǒu xǔkě zhèng",
+            "word": "进口许可证",
+            "id": 80690,
+            "phonetic": "jinkouxukezheng",
+            "rank": 82087,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˊㄏㄨㄣㄒㄩˇㄎㄜˇㄓㄥˋ",
+            "_id": "81ec4f11da5ea87cf0ae8cc61299da6a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giấy phép kết hôn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "kết hôn hứa khả chứng",
+            "pinyin": "jiéhūn xǔkě zhèng",
+            "word": "结婚许可证",
+            "id": 78392,
+            "phonetic": "jiehunxukezheng",
+            "rank": 159298,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cbeca18f924949fe97fde697e29357a3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dịch vụ li-xăng sở hữu trí tuệ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "tri thức sản quyền hứa khả",
+            "pinyin": "zhīshì chǎnquán xǔkě",
+            "word": "知识产权许可",
+            "id": 166819,
+            "phonetic": "zhishichanquanxuke",
+            "rank": 151813,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "topic": "12, 13, 32",
+            "zhuyin": "ㄒㄧㄥˋㄒㄩˇ",
+            "_id": "d92257004ae931207838f12d634af5df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có thể; có lẽ; hoạ may",
+                            "explain": "也许;或许",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hẳn",
+                            "explain": "或者; 可能; 恐怕; 表示不很肯定",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 266
+            },
+            "snym": {
+                "syno": [
+                    "也许"
+                ]
+            },
+            "cn_vi": "hưng hứa",
+            "pinyin": "xīngxǔ",
+            "word": "兴许",
+            "id": 56606,
+            "phonetic": "xingxu",
+            "rank": 23869,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄩㄢˋ",
+            "_id": "eebe782bff63ada3dfd3d214e81e0600",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cầu nguyện; ước",
+                            "explain": "迷信的人对神佛有所祈求，许下某种酬谢",
+                            "examples": [
+                                {
+                                    "m": "Họ thường cầu nguyện bình an với Bồ Tát.",
+                                    "p_vn": "ho thuong cau nguyen binh an voi bo tat.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57140f7c2",
+                                    "id": 127166,
+                                    "type": "e_cnvi",
+                                    "e": "他们常向菩萨许愿平安。",
+                                    "p_cn": "tamen chang xiang pusa xuyuan ping'an.",
+                                    "p": "tāmen cháng xiàng púsà xǔyuàn píng'ān."
+                                },
+                                {
+                                    "m": "Tôi đi chùa cầu nguyện thành công.",
+                                    "p_vn": "toi di chua cau nguyen thanh cong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57140fce6",
+                                    "id": 127167,
+                                    "type": "e_cnvi",
+                                    "e": "我去庙里许愿成功。",
+                                    "p_cn": "wo qu miao li xuyuan chenggong.",
+                                    "p": "wǒ qù miào lǐ xǔyuàn chénggōng."
+                                },
+                                {
+                                    "m": "Anh ấy cầu nguyện thuận lợi trước Phật.",
+                                    "p_vn": "anh ay cau nguyen thuan loi truoc phat.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571410b33",
+                                    "id": 127168,
+                                    "type": "e_cnvi",
+                                    "e": "他在佛前许愿顺利。",
+                                    "p_cn": "ta zai fo qian xuyuan shunli.",
+                                    "p": "tā zài fó qián xǔyuàn shùnlì."
+                                },
+                                {
+                                    "m": "Cô ấy mỗi ngày đều cầu nguyện hạnh phúc.",
+                                    "p_vn": "co ay moi ngay deu cau nguyen hanh phuc.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714112c3",
+                                    "id": 127169,
+                                    "type": "e_cnvi",
+                                    "e": "她每天都许愿幸福。",
+                                    "p_cn": "ta meitian dou xuyuan xingfu.",
+                                    "p": "tā měitiān dōu xǔyuàn xìngfú."
+                                },
+                                {
+                                    "m": "Tôi ước khỏe mạnh.",
+                                    "p_vn": "toi uoc khoe manh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714120c7",
+                                    "id": 127170,
+                                    "type": "e_cnvi",
+                                    "e": "我许愿健康。",
+                                    "p_cn": "wo xuyuan jiankang.",
+                                    "p": "wǒ xǔyuàn jiànkāng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đồng ý; hứa; hứa hẹn",
+                            "explain": "借指事前答应对方将来给以某种好处",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy hứa cho tôi quà.",
+                                    "p_vn": "anh ay hua cho toi qua.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714122e3",
+                                    "id": 127171,
+                                    "type": "e_cnvi",
+                                    "e": "他许愿给我礼物。",
+                                    "p_cn": "ta xuyuan gei wo liwu.",
+                                    "p": "tā xǔyuàn gěi wǒ lǐwù."
+                                },
+                                {
+                                    "m": "Ông chủ hứa hẹn tăng lương.",
+                                    "p_vn": "ong chu hua hen tang luong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571412c72",
+                                    "id": 127172,
+                                    "type": "e_cnvi",
+                                    "e": "老板许愿加工资。",
+                                    "p_cn": "laoban xuyuan jia gongzi.",
+                                    "p": "lǎobǎn xǔyuàn jiā gōngzī."
+                                },
+                                {
+                                    "m": "Bố mẹ hứa mua đồ chơi.",
+                                    "p_vn": "bo me hua mua do choi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571413444",
+                                    "id": 127173,
+                                    "type": "e_cnvi",
+                                    "e": "父母许愿买玩具。",
+                                    "p_cn": "fumu xuyuan mai wanju.",
+                                    "p": "fùmǔ xǔyuàn mǎi wánjù."
+                                },
+                                {
+                                    "m": "Thầy giáo hứa phát thưởng.",
+                                    "p_vn": "thay giao hua phat thuong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571413eed",
+                                    "id": 127174,
+                                    "type": "e_cnvi",
+                                    "e": "老师许愿发奖励。",
+                                    "p_cn": "laoshi xuyuan fa jiangli.",
+                                    "p": "lǎoshī xǔyuàn fā jiǎnglì."
+                                },
+                                {
+                                    "m": "Anh ấy hứa sẽ trở về.",
+                                    "p_vn": "anh ay hua se tro ve.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571414685",
+                                    "id": 127175,
+                                    "type": "e_cnvi",
+                                    "e": "他许愿会回来。",
+                                    "p_cn": "ta xuyuan hui huilai.",
+                                    "p": "tā xǔyuàn huì huílái."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 174,
+                "search": 1750
+            },
+            "snym": {
+                "syno": [
+                    "许诺"
+                ],
+                "anto": [
+                    "还愿",
+                    "兑现"
+                ]
+            },
+            "cn_vi": "hứa nguyện",
+            "pinyin": "xǔyuàn",
+            "word": "许愿",
+            "id": 57192,
+            "phonetic": "xuyuan",
+            "rank": 6228,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄒㄩˇ",
+            "_id": "d4f8a19778691b1c6a9ae1fe99588cc8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thế nào; gì; ra sao",
+                            "explain": "何处",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy là người thế nào?",
+                                    "p_vn": "anh ay la nguoi the nao?",
+                                    "_id": "f7f05bd928b3349ea3724d383ac33801",
+                                    "id": 16721,
+                                    "type": "e_cnvi",
+                                    "e": "他何许人也?",
+                                    "p_cn": "ta hexu ren ye?",
+                                    "p": "tā héxǔ rén yě?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ở đâu; nơi nào",
+                            "explain": "在哪",
+                            "examples": [
+                                {
+                                    "m": "Bạn là người ở đâu?",
+                                    "p_vn": "ban la nguoi o dau?",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7d2afc7",
+                                    "id": 89929,
+                                    "type": "e_cnvi",
+                                    "e": "你不知何许人也？",
+                                    "p_cn": "ni buzhi hexu ren ye?",
+                                    "p": "nǐ bùzhī héxǔ rén yě?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "hà hứa",
+            "pinyin": "héxǔ",
+            "word": "何许",
+            "id": 23007,
+            "phonetic": "hexu",
+            "rank": 69949,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄣㄒㄩˇ",
+            "_id": "ded508366015478982330460eec7ec10",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đồng ý ngầm",
+                            "explain": "to consent tacitly",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phê duyệt bất thành văn",
+                            "explain": "unspoken approval",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tâm hứa",
+                            "explain": "心里承认, 但不表示出来",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "tâm hứa",
+            "pinyin": "xīn xǔ",
+            "word": "心许",
+            "id": 91297,
+            "phonetic": "xinxu",
+            "rank": 104315,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄐㄧㄚˋ",
+            "_id": "160d4de6142d48d08df3537339a99b9d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "được phép kết hôn",
+                            "explain": "allowed to marry",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "hứa giá",
+            "pinyin": "xǔ jià",
+            "word": "许嫁",
+            "id": 93530,
+            "phonetic": "xujia",
+            "rank": 112215,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄎㄜˇㄓㄨㄢˇㄖㄤˋㄉㄜ˙ㄆㄞˊㄈㄤˋㄒㄩˇㄎㄜˇㄓㄥˋ",
+            "_id": "9a5457a1b0cc4603a0d4104cccef3109",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Transferable emissions permits",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "khả chuyển nhượng đích bài phóng hứa khả chứng",
+            "pinyin": "Kě zhuǎnràng de páifàng xǔkě zhèng",
+            "word": "可转让的排放许可证",
+            "id": 157183,
+            "phonetic": "Kezhuanrangdepaifangxukezheng",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "topic": "12, 13, 32",
+            "zhuyin": "ㄏㄨㄛˋㄒㄩˇ",
+            "_id": "4e702526a3f3197cfc40670ce1e30808",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A có thể/ có lẽ ...",
+                            "examples": [
+                                118013,
+                                118014
+                            ],
+                            "struct": "A + 或许 + ..."
+                        },
+                        {
+                            "explain": "có thể/ có lẽ A ...",
+                            "examples": [
+                                118016,
+                                118018,
+                                118019
+                            ],
+                            "struct": "或许 + A +..."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có thể; có lẽ; hay là; biết đâu",
+                            "explain": "也许; 或者; 可能; 恐怕; 表示不很肯定",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy không đến, có lẽ bị bệnh rồi.",
+                                    "p_vn": "anh ay khong den, co le bi benh roi.",
+                                    "_id": "b0c75dced87b76b23135a428edc7f99f",
+                                    "id": 19066,
+                                    "type": "e_cnvi",
+                                    "e": "他没来，或许是病了。",
+                                    "p_cn": "ta meilai，huoxu shi bing le。",
+                                    "p": "tā méilái，huòxǔ shì bìng le。"
+                                },
+                                {
+                                    "m": "Tôi nghĩ có lẽ chúng ta có thể đi cùng nhau.",
+                                    "p_vn": "toi nghi co le chung ta co the di cung nhau.",
+                                    "_id": "329486f68b2b4177e0301e5c72ff22c3",
+                                    "id": 87015,
+                                    "type": "e_cnvi",
+                                    "e": "我觉得或许我们可以一起去。",
+                                    "p_cn": "wo juede huoxu women keyi yiqi qu.",
+                                    "p": "wǒ juéde huòxǔ wǒmen kěyǐ yīqǐ qù."
+                                },
+                                {
+                                    "m": "Câu hỏi này chắc là không khó.",
+                                    "p_vn": "cau hoi nay chac la khong kho.",
+                                    "_id": "641148288b13f4cf43a85133e8cb29e4",
+                                    "id": 118011,
+                                    "type": "e_cnvi",
+                                    "e": "这道题或许不难。",
+                                    "p_cn": "zhe dao ti huoxu bu nan.",
+                                    "p": "zhè dào tí huòxǔ bù nán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"或许\" và\"也许\"giống nhau, đều thể hiện sự suy đoán, đánh giá, có ngữ điệu không khẳng định, không chắc chắn cho lắm.\nKhác:\n- Tần suất sử dụng của \"也许\" nhiều hơn \"或许\".\n- \"或许\" dùng nhiều trong văn viết, văn nói thường dùng \"也许\".",
+                    "title": "Phân biệt \"或许\" và \"也许\"",
+                    "words": [
+                        "或许",
+                        "也许"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "或者",
+                    "大概",
+                    "或然",
+                    "能够",
+                    "恐怕",
+                    "也许",
+                    "可能",
+                    "或将",
+                    "抑或",
+                    "没准"
+                ],
+                "anto": [
+                    "确乎",
+                    "一定",
+                    "肯定",
+                    "确实"
+                ]
+            },
+            "lv_hsk_new": "4, 6",
+            "pinyin": "huòxǔ",
+            "cn_vi": "hoặc hứa",
+            "popularity": {
+                "notebook": 435,
+                "search": 4486
+            },
+            "word": "或许",
+            "id": 26212,
+            "phonetic": "huoxu",
+            "rank": 2699,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄆㄟˋ",
+            "_id": "64879bd366a6f906ef1551077dbb37aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đính hôn (do cha mẹ làm chủ); gả bán",
+                            "explain": "旧时女子由家长做主，跟某人订婚; 女子结婚 (跟'娶'相对)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 116
+            },
+            "snym": {
+                "syno": [
+                    "出嫁",
+                    "般配"
+                ]
+            },
+            "cn_vi": "hứa phối",
+            "pinyin": "xǔpèi",
+            "word": "许配",
+            "id": 57191,
+            "phonetic": "xupei",
+            "rank": 38545,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄥㄒㄩˇ",
+            "_id": "ce8601ebaf0949cb3d3bdd15e634e498",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khen hay; khen tốt; hoan nghênh; tán thưởng; tán thành",
+                            "explain": "赞许",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 53
+            },
+            "snym": {
+                "syno": [
+                    "赞许"
+                ],
+                "anto": [
+                    "贬责",
+                    "指责"
+                ]
+            },
+            "cn_vi": "xưng hứa",
+            "pinyin": "chēngxǔ",
+            "word": "称许",
+            "id": 7149,
+            "phonetic": "chengxu",
+            "rank": 56360,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "7, 57",
+            "zhuyin": "ㄖㄨㄥˊㄒㄩˇ",
+            "_id": "ec5d87b393393042eb72230709c3e3df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cho phép; đồng ý",
+                            "explain": "许可",
+                            "examples": [
+                                {
+                                    "m": "những vấn đề nguyên tắc quyết không được nhượng bộ.",
+                                    "p_vn": "nhung van de nguyen tac quyet khong duoc nhuong bo",
+                                    "_id": "bc48d3b71f01b217a6e2c7493e3f9228",
+                                    "id": 33908,
+                                    "type": "e_cnvi",
+                                    "e": "原则问题决不容许让步。",
+                                    "p_cn": "yuanze wenti jue bu rongxu rangbu",
+                                    "p": "yuánzé wèntí juébù róngxǔ ràngbù。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "có thể; có lẽ",
+                            "explain": "或许;也许",
+                            "examples": [
+                                {
+                                    "m": "những sự kiện loại này, mười năm trước có lẽ có đấy.",
+                                    "p_vn": "nhung su kien loai nay muoi nam truoc co le co day",
+                                    "_id": "be834e0ef59a597e59b0399581f51513",
+                                    "id": 33909,
+                                    "type": "e_cnvi",
+                                    "e": "此类事件，十年前容许有之。",
+                                    "p_cn": "ci lei shijian shi nian qian rongxu you zhi",
+                                    "p": "cǐlèi shìjiàn，shínián qián róngxǔ yǒu zhī。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- Ba từ này là từ đồng nghĩa.\nNgữ khí của \"容许\" nặng hơn \"允许\" và \"许可\", và sự khác biệt của chúng nằm ở cách tổ hợp từ là khác nhau.\n- \"允许\" thường được sử dụng trong khẩu ngữ, \"容许\" thường được sử dụng trong văn viết.",
+                    "title": "Phân biệt \"许可\"，\"容许\" và \"允许\"",
+                    "words": [
+                        "许可",
+                        "容许",
+                        "允许"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "容或",
+                    "应许",
+                    "许可",
+                    "答允",
+                    "承诺",
+                    "愿意",
+                    "允诺",
+                    "允许",
+                    "应承",
+                    "批准",
+                    "准许",
+                    "答应",
+                    "同意",
+                    "应允",
+                    "原意"
+                ],
+                "anto": [
+                    "不容",
+                    "阻拦",
+                    "禁止",
+                    "阻挠",
+                    "阻挡",
+                    "谢绝"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "róngxǔ",
+            "cn_vi": "dung hứa",
+            "popularity": {
+                "notebook": 40,
+                "search": 581
+            },
+            "word": "容许",
+            "id": 44496,
+            "phonetic": "rongxu",
+            "rank": 14376,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄣˇㄒㄩˇ",
+            "_id": "f239de3efbf7e9d371dddbb86b67b620",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cho phép; đồng ý; bằng lòng; chuẩn hứa; phép",
+                            "explain": "同意人的要求; 本身合于准则, 可供同类事物比较核对的事物",
+                            "examples": [
+                                {
+                                    "m": "cho phép lưu hành",
+                                    "p_vn": "cho phep luu hanh",
+                                    "_id": "9391626f706982d635c74fc4fa5bcc59",
+                                    "id": 52030,
+                                    "type": "e_cnvi",
+                                    "e": "准许通行",
+                                    "p_cn": "zhunxu tongxing",
+                                    "p": "zhǔnxǔ tōngxíng"
+                                },
+                                {
+                                    "m": "cho phép làm thủ tục xuất cảnh.",
+                                    "p_vn": "cho phep lam thu tuc xuat canh",
+                                    "_id": "1749ad945ea36fef17caccd99123a32c",
+                                    "id": 52031,
+                                    "type": "e_cnvi",
+                                    "e": "准许办理出境手续。",
+                                    "p_cn": "zhunxu banli chujing shouxu",
+                                    "p": "zhǔnxǔ bànlǐ chūjìng shǒuxù。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chuẩn chấp",
+                            "explain": "对事物容纳而不拒绝",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 55,
+                "search": 434
+            },
+            "snym": {
+                "syno": [
+                    "应许",
+                    "愿意",
+                    "许可",
+                    "答允",
+                    "承诺",
+                    "答应",
+                    "容许",
+                    "听任",
+                    "允诺",
+                    "允许",
+                    "应承",
+                    "批准",
+                    "照准",
+                    "同意",
+                    "应允",
+                    "核准",
+                    "原意",
+                    "获准"
+                ],
+                "anto": [
+                    "禁止",
+                    "不许"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "zhǔnxǔ",
+            "cn_vi": "chuẩn hứa",
+            "word": "准许",
+            "id": 66369,
+            "phonetic": "zhunxu",
+            "rank": 17443,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄔㄤ",
+            "_id": "1f50589d2b844d7c9ddd4a4e192c0251",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thành phố cấp tỉnh Xuchang ở bắc Hà Nam, trên tuyến đường sắt Bắc Kinh-Quảng Châu",
+                            "explain": "Xuchang prefecture level city in north Henan, on the Beijing-Guangzhou railway line",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 64
+            },
+            "snym": null,
+            "cn_vi": "hứa xương",
+            "pinyin": "xǔchāng",
+            "word": "许昌",
+            "id": 105516,
+            "phonetic": "xuchang",
+            "rank": 51713,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄞㄒㄩˇ",
+            "_id": "72056acbc0784451ae0b7cb025f350d7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(văn học) để cho phép",
+                            "explain": "(literary) to allow; to permit",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "khai hứa",
+            "pinyin": "kāi xǔ",
+            "word": "开许",
+            "id": 91237,
+            "phonetic": "kaixu",
+            "rank": 151376,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄢˇㄒㄩˇ",
+            "_id": "6eebd660915a8d1590f6b6e3cf30cb51",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "có lẽ; có thể; chắc là",
+                            "explain": "也许;或许",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 103
+            },
+            "snym": null,
+            "cn_vi": "cảm hứa",
+            "pinyin": "gǎn xǔ",
+            "word": "敢许",
+            "id": 18462,
+            "phonetic": "ganxu",
+            "rank": 41052,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄠㄒㄩˇ",
+            "_id": "695c686984b51eb912a89b5520aaca2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sơ qua; hơi; một chút",
+                            "explain": "稍微",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 47
+            },
+            "snym": {
+                "syno": [
+                    "稍微"
+                ]
+            },
+            "cn_vi": "sảo hứa",
+            "pinyin": "shāoxǔ",
+            "word": "稍许",
+            "id": 45954,
+            "phonetic": "shaoxu",
+            "rank": 59617,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄒㄩˇ",
+            "_id": "9104a08779d3f14054f84ab3a0e5d163",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không được; không được phép; không cho phép",
+                            "explain": "不充许",
+                            "examples": [
+                                {
+                                    "m": "Không được nói dối.",
+                                    "p_vn": "khong duoc noi doi.",
+                                    "_id": "e5b1d142bf64093142e809f7c099e799",
+                                    "id": 3013,
+                                    "type": "e_cnvi",
+                                    "e": "不许说谎。",
+                                    "p_cn": "buxu shuohuang.",
+                                    "p": "bùxǔ shuōhuǎng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không thể (dùng trong câu phản vấn)",
+                            "explain": "不能（用于反问句）",
+                            "examples": [
+                                {
+                                    "m": "sao cứ phải đợi tôi, anh không thể tự đi được sao?",
+                                    "p_vn": "sao cu phai doi toi anh khong the tu di duoc sao",
+                                    "_id": "0e2a719e491d030194a0af04635e5828",
+                                    "id": 3014,
+                                    "type": "e_cnvi",
+                                    "e": "何必非等我，你就不许自己去吗?",
+                                    "p_cn": "hebi fei deng wo ni jiu buxu ziji qu ma",
+                                    "p": "hébì fēi děng wǒ, nǐ jiù bùxǔ zìjǐ qù ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 155,
+                "search": 1593
+            },
+            "snym": {
+                "syno": [
+                    "不可",
+                    "不能",
+                    "不让"
+                ],
+                "anto": [
+                    "可以",
+                    "准许"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "bùxǔ",
+            "cn_vi": "bất hứa",
+            "word": "不许",
+            "id": 4996,
+            "phonetic": "buxu",
+            "rank": 6729,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "443cbe4a41ba4fa984a73267e594b77c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hứa lời",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hứa nhạ",
+            "pinyin": "xǔ ruò",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "许偌",
+            "id": 178563,
+            "phonetic": "xuruo",
+            "rank": 125165,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˇㄒㄩˇ",
+            "_id": "7bdccedba6444a43e0849bfb7c197168",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bao nhiêu",
+                            "explain": "多少",
+                            "examples": [
+                                {
+                                    "m": "không biết bao nhiêu.",
+                                    "p_vn": "khong biet bao nhieu",
+                                    "_id": "8040a19a97f54317f813e4206cc2cd86",
+                                    "id": 19585,
+                                    "type": "e_cnvi",
+                                    "e": "不知几许。",
+                                    "p_cn": "buzhi jixu",
+                                    "p": "bùzhī jīxǔ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chừng nào; mấy; mấy mươi",
+                            "explain": "疑问代词, 问数量",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 126
+            },
+            "snym": {
+                "syno": [
+                    "若干",
+                    "些许",
+                    "多少",
+                    "几多",
+                    "几何"
+                ]
+            },
+            "cn_vi": "kỉ hứa",
+            "pinyin": "jǐxǔ",
+            "word": "几许",
+            "id": 27064,
+            "phonetic": "jixu",
+            "rank": 36727,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄢˋㄒㄩˇ",
+            "_id": "645781baff5c9fede4ea8f73d3672ac0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khen ngợi; tán thành; tỏ ý khen ngợi",
+                            "explain": "认为好而加以称赞",
+                            "examples": [
+                                {
+                                    "m": "Gật đầu tán thành.",
+                                    "p_vn": "gat dau tan thanh.",
+                                    "_id": "508761c22bcf268c55ad33e03552a361",
+                                    "id": 48220,
+                                    "type": "e_cnvi",
+                                    "e": "赞许地点点头。",
+                                    "p_cn": "zanxu de diandiantou。",
+                                    "p": "zànxǔ de diǎndiǎntóu。"
+                                },
+                                {
+                                    "m": "đáng được khen ngợi",
+                                    "p_vn": "dáng duọc khen ngọi",
+                                    "_id": "b2776ac4a861e06178aa5de73b0e0eaa",
+                                    "id": 76581,
+                                    "type": "e_cnvi",
+                                    "e": "值得赞许",
+                                    "p_cn": "zhide zanxu",
+                                    "p": "zhídé zànxǔ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "khen thưởng",
+                            "explain": "称赞的话语或奖励的实物",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 50,
+                "search": 359
+            },
+            "snym": {
+                "syno": [
+                    "歌颂",
+                    "赞扬",
+                    "称誉",
+                    "赞同",
+                    "称道",
+                    "赞美",
+                    "称赞",
+                    "赞赏",
+                    "赞叹",
+                    "称扬",
+                    "讴歌",
+                    "颂扬",
+                    "颂赞",
+                    "夸奖",
+                    "称许",
+                    "嘉愿",
+                    "嘉许",
+                    "点赞"
+                ],
+                "anto": [
+                    "斥责",
+                    "责怪",
+                    "诅骂"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "zànxǔ",
+            "cn_vi": "tán hứa",
+            "word": "赞许",
+            "id": 62809,
+            "phonetic": "zanxu",
+            "rank": 19765,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄥㄒㄩˇ",
+            "_id": "cbc6a9c6d2b2a132e15d9f736dcc8c6c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhận lời; ưng thuận; hứa; ưng theo",
+                            "explain": "答应 (做)",
+                            "examples": [
+                                {
+                                    "m": "anh ấy nhận lời ngày mai đến nói chuyện.",
+                                    "p_vn": "anh ay nhan loi ngay mai den noi chuyen",
+                                    "_id": "5df23bc0e7e8cf0db14cc9d8db4d74d1",
+                                    "id": 46008,
+                                    "type": "e_cnvi",
+                                    "e": "他应许明天来谈。",
+                                    "p_cn": "ta yingxu mingtian lai tan",
+                                    "p": "tā yìngxǔ míngtiān láitán。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đồng ý; cho phép",
+                            "explain": "允许",
+                            "examples": [
+                                {
+                                    "m": "Ai cho phép anh ấy khiêng cái bàn làm việc đi?",
+                                    "p_vn": "ai cho phep anh ay khieng cai ban lam viec di?",
+                                    "_id": "1257d0117f39b36dd384c9a55987d302",
+                                    "id": 46009,
+                                    "type": "e_cnvi",
+                                    "e": "谁应许他把写字台搬走的?",
+                                    "p_cn": "shei yingxu ta ba xiezitai ban zou de?",
+                                    "p": "shéi yīngxǔ tā bǎ xiězìtái bān zǒu de?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bằng lòng",
+                            "explain": "答应并顺从",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ưng chịu",
+                            "explain": "对事物容纳而不拒绝",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 109
+            },
+            "snym": {
+                "syno": [
+                    "承诺",
+                    "愿意",
+                    "容许",
+                    "允诺",
+                    "允许",
+                    "应承",
+                    "准许",
+                    "答应",
+                    "同意",
+                    "应允",
+                    "原意"
+                ],
+                "anto": [
+                    "拒绝"
+                ]
+            },
+            "cn_vi": "ứng hứa",
+            "pinyin": "yīngxǔ",
+            "word": "应许",
+            "id": 60481,
+            "phonetic": "yingxu",
+            "rank": 39883,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄒㄩˇ",
+            "_id": "d4dfb80addd29d53b67dc6c9508896e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mong đợi; kỳ vọng",
+                            "explain": "期望 (多用于对晚辈)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 59,
+                "search": 593
+            },
+            "snym": {
+                "syno": [
+                    "希冀",
+                    "希望",
+                    "期望",
+                    "期盼"
+                ],
+                "anto": [
+                    "失望",
+                    "灰心"
+                ]
+            },
+            "cn_vi": "kì hứa",
+            "pinyin": "qī xǔ",
+            "word": "期许",
+            "id": 41724,
+            "phonetic": "qixu",
+            "rank": 14181,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄜˇㄎㄜˇ",
+            "_id": "6b9dbcd15f56624566d861be635a4052",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cây ca-cao",
+                            "explain": "可可树，常绿乔木，叶子卵形，花冠带黄色，花萼粉色，果实卵形，红色或黄色种子炒熟制成粉可以做饮料，榨的油可供药用产在热带地区",
+                            "examples": [
+                                {
+                                    "m": "ngay khi tôi vừa đi ra khỏi cửa thì trời đổ mưa.",
+                                    "p_vn": "ngay khi toi vua di ra khoi cua thi troi do mua.",
+                                    "_id": "7d7a1a7c1883541a7f2b264a8bc4d5ca",
+                                    "id": 23317,
+                                    "type": "e_cnvi",
+                                    "e": "我刚出门，可可儿的就 遇着 下雨。",
+                                    "p_cn": "wo gang chumen, keke er de jiu yuzhe xia yu.",
+                                    "p": "wǒ gāng chūmén, kěkě er de jiù yùzhe xià yǔ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bột ca-cao",
+                            "explain": "可可树种子制成的粉末",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nước ca-cao",
+                            "explain": "用可可树种子的粉做成的饮料也叫寇寇 (kōukōu) (英cocoa)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 589
+            },
+            "snym": {
+                "syno": [
+                    "咖啡"
+                ]
+            },
+            "cn_vi": "khả khả",
+            "pinyin": "kěkě",
+            "word": "可可",
+            "id": 32244,
+            "phonetic": "keke",
+            "rank": 14246,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": {
+                "pinyin": "",
+                "examples": "",
+                "measure": ""
+            },
+            "topic": "7, 57",
+            "zhuyin": "ㄩㄣˇㄒㄩˇ",
+            "_id": "5d6aa875d200b38b0760389b7dc793ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "điều kiện cho phép/không cho phép",
+                            "examples": [
+                                139122,
+                                139123
+                            ],
+                            "struct": "条件 + (不+) + 允许"
+                        },
+                        {
+                            "explain": "A cho phép B làm gì",
+                            "examples": [
+                                139657,
+                                139658
+                            ],
+                            "struct": "A + 允许 + B + Động từ +..."
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cho phép; được phép",
+                            "explain": "许可",
+                            "examples": [
+                                {
+                                    "m": "Ở đây không được phép đỗ xe.",
+                                    "p_vn": "o day khong duoc phep do xe.",
+                                    "_id": "9938873f438f99a1b005f100505dfe49",
+                                    "id": 139107,
+                                    "type": "e_cnvi",
+                                    "e": "这儿不允许停车。",
+                                    "p_cn": "zher bu yunxu tingche.",
+                                    "p": "zhèr bù yǔnxǔ tíngchē."
+                                },
+                                {
+                                    "m": "Mẹ cho phép tôi chơi điện tử.",
+                                    "p_vn": "me cho phep toi choi dien tu.",
+                                    "_id": "9938873f438f99a1b005f100505e0355",
+                                    "id": 139108,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈允许我玩电脑游戏。",
+                                    "p_cn": "mama yunxu wo wan youxi.",
+                                    "p": "māma yǔnxǔ wǒ wán yóuxì."
+                                },
+                                {
+                                    "m": "Công ty cho phép nhân viên chơi điện thoại.",
+                                    "p_vn": "cong ty cho phep nhan vien choi dien thoai.",
+                                    "_id": "9938873f438f99a1b005f100507ce82d",
+                                    "id": 139656,
+                                    "type": "e_cnvi",
+                                    "e": "公司允许员工玩手机。",
+                                    "p_cn": "gongsi yunxu yuangong wan shouji.",
+                                    "p": "gōngsī yǔnxǔ yuángōng wán shǒujī."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "được/chưa được sự cho phép từ ai đó",
+                            "examples": [
+                                139120,
+                                139121
+                            ],
+                            "struct": "Động từ (获得/得到/未经) + (Ai đó的+) 允许"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sự cho phép",
+                            "explain": "准许；容许",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã được sự cho phép của bác sĩ.",
+                                    "p_vn": "anh ay da duoc su cho phep cua bac si.",
+                                    "_id": "9938873f438f99a1b005f100507209a9",
+                                    "id": 139530,
+                                    "type": "e_cnvi",
+                                    "e": "他得到了医生的允许。",
+                                    "p_cn": "ta dedaole yisheng de yunxu.",
+                                    "p": "tā dédàole yīshēng de yǔnxǔ."
+                                },
+                                {
+                                    "m": "Bạn đã nhận được sự cho phép của họ chưa?",
+                                    "p_vn": "ban da nhan duoc su cho phep cua ho chua?",
+                                    "_id": "9938873f438f99a1b005f10050721725",
+                                    "id": 139531,
+                                    "type": "e_cnvi",
+                                    "e": "你获得他们的允许了吗？",
+                                    "p_cn": "ni huode tamen de yunxu lema?",
+                                    "p": "nǐ huòdé tāmen de yǔnxǔ lema?"
+                                },
+                                {
+                                    "m": "Họ nhận được sự cho phép của trường học.",
+                                    "p_vn": "ho nhan duoc su cho phep cua truong hoc.",
+                                    "_id": "9938873f438f99a1b005f100507ccf37",
+                                    "id": 139652,
+                                    "type": "e_cnvi",
+                                    "e": "他们得到学校的允许。",
+                                    "p_cn": "tamen dedao xuexiao de yunxu.",
+                                    "p": "tāmen dédào xuéxiào de yǔnxǔ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- Ba từ này là từ đồng nghĩa.\nNgữ khí của \"容许\" nặng hơn \"允许\" và \"许可\", và sự khác biệt của chúng nằm ở cách tổ hợp từ là khác nhau.\n- \"允许\" thường được sử dụng trong khẩu ngữ, \"容许\" thường được sử dụng trong văn viết.",
+                    "title": "Phân biệt \"许可\"，\"容许\" và \"允许\"",
+                    "words": [
+                        "许可",
+                        "容许",
+                        "允许"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "首肯",
+                    "应许",
+                    "愿意",
+                    "许可",
+                    "答允",
+                    "承诺",
+                    "答应",
+                    "容许",
+                    "许诺",
+                    "允诺",
+                    "应承",
+                    "批准",
+                    "可以",
+                    "准许",
+                    "听任",
+                    "同意",
+                    "应允",
+                    "许字",
+                    "原意",
+                    "恩准"
+                ],
+                "anto": [
+                    "反对",
+                    "不准",
+                    "禁止",
+                    "阻挠",
+                    "回绝",
+                    "禁绝",
+                    "制止",
+                    "谢绝",
+                    "僭越",
+                    "禁令"
+                ]
+            },
+            "lv_hsk_new": "4, 6, 7-9",
+            "pinyin": "yǔnxǔ",
+            "cn_vi": "duẫn hứa",
+            "popularity": {
+                "notebook": 958,
+                "search": 10699
+            },
+            "word": "允许",
+            "id": 62511,
+            "phonetic": "yunxu",
+            "rank": 904,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄉㄨㄛ",
+            "_id": "926ded586f83f54e7c55e6da7c16eeda",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "rất nhiều; nhiều",
+                            "explain": "很多",
+                            "examples": [
+                                {
+                                    "m": "Rất nhiều người.",
+                                    "p_vn": "rat nhieu nguoi.",
+                                    "_id": "f3a1f493899c5cba4ce1f03f19a508d3",
+                                    "id": 43385,
+                                    "type": "e_cnvi",
+                                    "e": "许多人。",
+                                    "p_cn": "xuduo ren。",
+                                    "p": "xǔduō rén。"
+                                },
+                                {
+                                    "m": "Rất nhiều đồ đạc.",
+                                    "p_vn": "rat nhieu do dac.",
+                                    "_id": "df7010055e4119f85c90e59ec0fb4e07",
+                                    "id": 43386,
+                                    "type": "e_cnvi",
+                                    "e": "许多东西",
+                                    "p_cn": "xuduo dongxi",
+                                    "p": "xǔduō dōngxi"
+                                },
+                                {
+                                    "m": "Trên quảng trường có rất nhiều người.",
+                                    "p_vn": "tren quang truong co rat nhieu nguoi.",
+                                    "_id": "197c44c07ed294c04ee763911bf2f945",
+                                    "id": 43387,
+                                    "type": "e_cnvi",
+                                    "e": "广场上有许多人。",
+                                    "p_cn": "guangchang shang you xuduo ren。",
+                                    "p": "guǎngcháng shàng yǒu xǔduō rén。"
+                                },
+                                {
+                                    "m": "Nhiều năm rồi chúng tôi không gặp nhau.",
+                                    "p_vn": "nhieu nam roi chung toi khong gap nhau.",
+                                    "_id": "8a376c0f96dc04344118f168f3adbb73",
+                                    "id": 43388,
+                                    "type": "e_cnvi",
+                                    "e": "我们有许多年没见面了。",
+                                    "p_cn": "women you xuduonian mei jianmian le。",
+                                    "p": "wǒmen yǒu xǔduōnián méi jiànmiàn le。"
+                                },
+                                {
+                                    "m": "Hoa cúc có rất nhiều loại.",
+                                    "p_vn": "hoa cuc co rat nhieu loai.",
+                                    "_id": "99b1a437ebcfe887bfe20c3a067475f4",
+                                    "id": 43389,
+                                    "type": "e_cnvi",
+                                    "e": "菊花有许许多多的品种。",
+                                    "p_cn": "juhua you xuxuduoduo de pinzhong。",
+                                    "p": "júhuā yǒu xǔxǔduōduō de pǐnzhǒng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"许多\" có thể bổ nghĩa cho danh từ đơn âm tiết, cũng có thể bổ nghĩa cho danh từ song âm tiết.\n\"多\" có thể bổ nghĩa cho danh từ đơn âm tiết.\n\"多\" có thể làm bổ ngữ kết quả, nhưng \"许多\" thì không thể.\n\"多\" có thể được phó từ chỉ mức độ tu sức,còn có thể thêm \"了\", và \"许多\" không thể đđược phó từ chỉ mức độ tu sức và không thể thêm \"了\".",
+                    "title": "Phân biệt \"许多\" và \"多\"",
+                    "words": [
+                        "许多",
+                        "多"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "很多",
+                    "好多",
+                    "更多",
+                    "万千",
+                    "不少"
+                ],
+                "anto": [
+                    "很少",
+                    "极少"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "xǔduō",
+            "cn_vi": "hứa đa",
+            "popularity": {
+                "notebook": 678,
+                "search": 8238
+            },
+            "word": "许多",
+            "id": 57186,
+            "phonetic": "xuduo",
+            "rank": 1305,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "15",
+            "zhuyin": "ㄒㄩˇㄋㄨㄛˋ",
+            "_id": "45c700306e4ab5f5bda67698ab27ec23",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đồng ý; hứa hẹn",
+                            "explain": "答应;应承",
+                            "examples": [
+                                {
+                                    "m": "Tại sao tôi lại nói rằng tôi sẽ làm điều gì đó mà không làm điều đó?",
+                                    "p_vn": "tai sao toi lai noi rang toi se lam dieu gi do ma khong lam dieu do?",
+                                    "_id": "8aecd7bf891049ce91db20c510ff02f6",
+                                    "id": 64602,
+                                    "type": "e_cnvi",
+                                    "e": "我为什么要许诺某事却不履行呢",
+                                    "p_cn": "wo weishenme  yao xunuo moushi que bu lvxing ni",
+                                    "p": "wǒ wèishénme  yào xǔnuò mǒushì què bù lv̌xíng ní"
+                                },
+                                {
+                                    "m": "Đừng hứa với người khác nếu bạn không chắc chắn về những gì bạn sẽ hoàn thành.",
+                                    "p_vn": "dung hua voi nguoi khac neu ban khong chac chan ve nhung gi ban se hoan thanh.",
+                                    "_id": "a5069060f16a48159d1dabbf29127b4e",
+                                    "id": 67657,
+                                    "type": "e_cnvi",
+                                    "e": "自己没有把握办成的事，不要随便向人家许诺。",
+                                    "p_cn": "ziji meiyou bawo ban cheng de shi, buyao suibian xiang renjia xunuo.",
+                                    "p": "Zìjǐ méiyǒu bǎwò bàn chéng de shì, bùyào suíbiàn xiàng rénjia xǔnuò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đoan ước",
+                            "explain": "担保（使顺利进行, 宾语常是动词和动词性词组\"完成、完成任务、实施、执行计划\"等）",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 47,
+                "search": 615
+            },
+            "snym": {
+                "syno": [
+                    "首肯",
+                    "答允",
+                    "答应",
+                    "允诺",
+                    "允许",
+                    "应承",
+                    "同意",
+                    "许愿",
+                    "许下",
+                    "应诺"
+                ],
+                "anto": [
+                    "食言"
+                ]
+            },
+            "cn_vi": "hứa nặc",
+            "pinyin": "xǔnuò",
+            "word": "许诺",
+            "id": 57190,
+            "phonetic": "xunuo",
+            "rank": 13844,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄏㄨㄣ",
+            "_id": "347b9fa6bce367cd82cfaed2e8235b88",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hứa hôn",
+                            "explain": "(女方的家长或本人) 接受男方的求亲",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "hứa hôn",
+            "pinyin": "xǔhūn",
+            "word": "许婚",
+            "id": 57187,
+            "phonetic": "xuhun",
+            "rank": 100438,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥㄒㄩˇ",
+            "_id": "8e531d259a444dada7fd07b6970b70f1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Quận Tongxu ở Khai Phong 開封 | 开封 , Hà Nam",
+                            "explain": "Tongxu county in Kaifeng 開封|开封 [Kāifēng], Henan",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "thông hứa",
+            "pinyin": "tōngxǔ",
+            "word": "通许",
+            "id": 100223,
+            "phonetic": "tongxu",
+            "rank": 109630,
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄜˋㄒㄩˇ",
+            "_id": "ce6e706a66e8b810e5dfa6e59d79af59",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giấy phép đặc biệt; phép đặc biệt; đặc biệt cho phép",
+                            "explain": "特别许可",
+                            "examples": [
+                                {
+                                    "m": "giấy phép đặc biệt",
+                                    "p_vn": "giay phep dac biet",
+                                    "_id": "76939207efc8801def3dc0b7c161c30a",
+                                    "id": 38115,
+                                    "type": "e_cnvi",
+                                    "e": "特许证",
+                                    "p_cn": "texu zheng",
+                                    "p": "tèxǔzhèng"
+                                },
+                                {
+                                    "m": "không có giấy phép kinh doanh đặc biệt, cửa hàng không được bán những loại hàng này.",
+                                    "p_vn": "khong co giay phep kinh doanh dac biet cua hang khong duoc ban nhung loai hang nay",
+                                    "_id": "30069e46984287ec1243f62ad1ffbb7b",
+                                    "id": 38116,
+                                    "type": "e_cnvi",
+                                    "e": "非经特许，一般商店不得经销此类商品。",
+                                    "p_cn": "fei jing texu yiban shangdian bude jingxiao ci lei shangpin",
+                                    "p": "fēi jīng tèxǔ，yībān shāngdiàn bùdé jīngxiāo cǐlèi shāngpǐn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 360
+            },
+            "snym": {
+                "syno": [
+                    "特准"
+                ]
+            },
+            "cn_vi": "đặc hứa",
+            "pinyin": "tèxǔ",
+            "word": "特许",
+            "id": 50279,
+            "phonetic": "texu",
+            "rank": 19733,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄕㄣˋ",
+            "_id": "fd2e8185980b4a8fb9125aec51c162bd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Xu Shen (-147) người biên dịch từ điển gốc Hán Shuowen Jiezi 說文解字 | 说文解字",
+                            "explain": "Xu Shen (-147) the compiler of the original Han dynasty dictionary Shuowen Jiezi 說文解字|说文解字 [Shuō wén Jiě zì]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 181
+            },
+            "snym": null,
+            "cn_vi": "hứa thận",
+            "pinyin": "xǔ shèn",
+            "word": "许慎",
+            "id": 99813,
+            "phonetic": "xushen",
+            "rank": 30061,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄒㄧㄚˋ",
+            "_id": "16272a5a566f46dbbeed6c282b0d80ee",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hứa",
+                            "explain": "to make a promise",
+                            "examples": [
+                                {
+                                    "m": "trước khi ra đi anh ấy nhắn lại rằng có lẽ tháng sau về.",
+                                    "p_vn": "truoc khi ra di anh ay nhan lai rang co le thang sau ve",
+                                    "_id": "401a9aeb1da13c90c87de632a7f93f5b",
+                                    "id": 18919,
+                                    "type": "e_cnvi",
+                                    "e": "他临走的时候留下个活话儿，说也许下个月能回来。",
+                                    "p_cn": "ta lin zou de shihou liu xia ge huo hua er shuo yexu xia ge yue neng huilai",
+                                    "p": "tā línzǒu de shíhòu líuxià gèhuó huàér，shuō yěxǔ xiàgèyuè néng húilái。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 319
+            },
+            "snym": {
+                "syno": [
+                    "答允",
+                    "许诺",
+                    "答应"
+                ]
+            },
+            "cn_vi": "hứa hạ",
+            "pinyin": "xǔ xià",
+            "word": "许下",
+            "id": 93528,
+            "phonetic": "xuxia",
+            "rank": 21277,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄜ˙ㄒㄧㄚˋㄕㄨㄟˇㄕˇㄩㄥˋㄒㄩˇㄎㄜˇ",
+            "_id": "6f9e006ac59f4ad4aa1f7aafe8d13080",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giấy phép sử dụng nước ngầm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "địa hạ thuỷ sứ dụng hứa khả",
+            "pinyin": "dìxiàshuǐ shǐyòng xǔkě",
+            "word": "地下水使用许可",
+            "id": 154790,
+            "phonetic": "dixiashuishiyongxuke",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧㄠˇㄇㄧㄢˋㄕㄨㄟˇㄕˇㄩㄥˋㄒㄩˇㄎㄜˇ",
+            "_id": "a0e4a873b3f041f1b9c9f04a3604bded",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giấy phép sử dụng mặt nước",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "biểu diện thuỷ sứ dụng hứa khả",
+            "pinyin": "biǎomiàn shuǐ shǐyòng xǔkě",
+            "word": "表面水使用许可",
+            "id": 154791,
+            "phonetic": "biaomianshuishiyongxuke",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "topic": "12, 13, 32",
+            "zhuyin": "ㄧㄝˇㄒㄩˇ",
+            "_id": "5f8152131003ff70fa30cd728fc62fdd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "có lẽ..., cho nên...",
+                            "examples": [
+                                101166,
+                                101171
+                            ],
+                            "struct": "也许 + Mệnh đề,  所以 +..."
+                        },
+                        {
+                            "explain": "A có lẽ/ có thể làm gì",
+                            "examples": [
+                                101174,
+                                101175
+                            ],
+                            "struct": "A + 也许 + Động từ +..."
+                        },
+                        {
+                            "explain": "biểu thị dự đoán A có thể/ sẽ làm gì",
+                            "examples": [
+                                101179,
+                                133493
+                            ],
+                            "struct": "也许 + A + 会/ 可能会 + Động từ +..."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "biết đâu; may ra; có lẽ; hoạ; không biết chừng; hẳn; biết đâu chừng; có thể",
+                            "explain": "或者;可能; 恐怕;表示不很肯定; 表示有很大的可能性",
+                            "examples": [
+                                {
+                                    "m": "Ngày mai có lẽ sẽ mưa.",
+                                    "p_vn": "ngày mai có lẽ sẽ mua.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7a71526",
+                                    "id": 89892,
+                                    "type": "e_cnvi",
+                                    "e": "明天也许会下雨。",
+                                    "p_cn": "mingtian yexu hui xia yu.",
+                                    "p": "míngtiān yěxǔ huì xià yǔ."
+                                },
+                                {
+                                    "m": "Có lẽ anh ta sẽ không tới.",
+                                    "p_vn": "có lẽ anh ta sẽ khong tói.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7a72213",
+                                    "id": 89893,
+                                    "type": "e_cnvi",
+                                    "e": "他也许不会来了。",
+                                    "p_cn": "ta yexu bu hui laile.",
+                                    "p": "tā yěxǔ bù huì láile."
+                                },
+                                {
+                                    "m": "Anh ấy có thể chưa ra khỏi giường.",
+                                    "p_vn": "anh ay co the chua ra khoi giuong.",
+                                    "_id": "55db399305625a14707d64b918a3500a",
+                                    "id": 101161,
+                                    "type": "e_cnvi",
+                                    "e": "他也许还没起床。",
+                                    "p_cn": "ta yexu hai mei qichuang.",
+                                    "p": "tā yěxǔ hái méi qǐchuáng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"或许\" và\"也许\"giống nhau, đều thể hiện sự suy đoán, đánh giá, có ngữ điệu không khẳng định, không chắc chắn cho lắm.\nKhác:\n- Tần suất sử dụng của \"也许\" nhiều hơn \"或许\".\n- \"或许\" dùng nhiều trong văn viết, văn nói thường dùng \"也许\".",
+                    "title": "Phân biệt \"或许\" và \"也许\"",
+                    "words": [
+                        "或许",
+                        "也许"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Ý nghĩa của \"可能\" và \"也许\"giống nhau, đều có thể đặt phía trước động từ, thể hiện ý nghĩa ước tính và phỏng đoán.\nKhác:\n- \"可能\" là trợ động từ và danh từ, còn \"也许\" là phó từ, chỉ có thể làm trạng ngữ, không thể làm tân ngữ và định ngữ.\n- - Khi biểu thị sự phủ định \"不，没有\" có thể đặt phía trước \"可能\" nhưng không thể đặt phía trước \"也许\".\n- Phía trước \"可能\" có thể được phó từ chỉ mức độ bổ nghĩa cho，\"也许\" không thể.\n- Phía trước \"可能\" có thể có từ chỉ số lượng đi kèm, \"也许\" không thể.",
+                    "title": "Phân biệt \"可能\" và \"也许\"",
+                    "words": [
+                        "可能",
+                        "也许"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "或许",
+                    "或者",
+                    "兴许"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "yěxǔ",
+            "cn_vi": "dã hứa",
+            "popularity": {
+                "notebook": 933,
+                "search": 13814
+            },
+            "word": "也许",
+            "id": 58900,
+            "phonetic": "yexu",
+            "rank": 577,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "7",
+            "zhuyin": "ㄇㄛˋㄒㄩˇ",
+            "_id": "3912149df2e2994e9ed379e4c39e5f11",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ngầm đồng ý; bằng lòng ngầm; ưng thuận ngầm",
+                            "explain": "没有明白表示同意，但是暗示已经许可",
+                            "examples": [
+                                {
+                                    "m": "Chấp nhận hoặc tuân theo một hành động bằng cách không phản ứng hoặc không làm gì.",
+                                    "p_vn": "Chap nhan hoac tuan theo mot hanh dong bang cach khong phan ung hoac khong lam gi.",
+                                    "_id": "5999254d72134f3f81ecf0e321262e98",
+                                    "id": 70524,
+                                    "type": "e_cnvi",
+                                    "e": "默许的以无反应或不行动作为回应而接受或服从于某一行动的",
+                                    "p_cn": "moxu de yi wu fanying huo bu xingdong zuowei huiying er jieshou huo fucong yu mou yi xingdong de",
+                                    "p": "mòxǔ de yǐ wú fǎnyìng huò bù xíngdòng zuòwéi huíyìng ér jiēshòu huò fúcóng yú mǒu yī xíngdòng de"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tâm hứa",
+                            "explain": "心里承认, 但不表示出来",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 25,
+                "search": 226
+            },
+            "snym": {
+                "syno": [
+                    "默认"
+                ]
+            },
+            "cn_vi": "mặc hứa",
+            "pinyin": "mòxǔ",
+            "word": "默许",
+            "id": 38600,
+            "phonetic": "moxu",
+            "rank": 26363,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "numb",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩˇㄐㄧㄡˇ",
+            "_id": "38e9bcbbb8658680aa58166bfc74c3c3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "形",
+                    "means": [
+                        {
+                            "mean": "rất lâu; lâu, hồi lâu",
+                            "explain": "很久; 很久; 许久",
+                            "examples": [
+                                {
+                                    "m": "lâu rồi anh ấy không đến",
+                                    "p_vn": "lau roi anh ay khong den",
+                                    "_id": "1e03f511122b473c4924c91ef905534f",
+                                    "id": 43390,
+                                    "type": "e_cnvi",
+                                    "e": "他许久没来了。",
+                                    "p_cn": "ta xujiu mei laile",
+                                    "p": "tā xǔjǐu méilái le。"
+                                },
+                                {
+                                    "m": "mọi người bàn bạc hồi lâu, mới nghĩ ra được cách giải quyết.",
+                                    "p_vn": "moi nguoi ban bac hoi lau, moi nghi ra duoc cach giai quyet.",
+                                    "_id": "0b6687fb5b6de82451a6dd76abc8d39d",
+                                    "id": 43391,
+                                    "type": "e_cnvi",
+                                    "e": "大家商量了许久，才想出个办法来。",
+                                    "p_cn": "dajia shangliangle xujiu cai xiang chu ge banfa lai",
+                                    "p": "dàjiā shāngliàng le xǔjǐu，cái xiǎng chūgè bànfǎ lái。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 37,
+                "search": 375
+            },
+            "snym": {
+                "syno": [
+                    "迂久",
+                    "很久",
+                    "良久",
+                    "好久",
+                    "长久",
+                    "半响"
+                ],
+                "anto": [
+                    "刹那"
+                ]
+            },
+            "cn_vi": "hứa cửu",
+            "pinyin": "xǔjiǔ",
+            "word": "许久",
+            "id": 57188,
+            "phonetic": "xujiu",
+            "rank": 19225,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨˊㄒㄩˇ",
+            "_id": "344dea141cc57ce5efaee6343f55f8da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "như thế; như vậy; thư thế",
+                            "explain": "如此;这样",
+                            "examples": [
+                                {
+                                    "m": "nước suối trong như thế.",
+                                    "p_vn": "nuoc suoi trong nhu the",
+                                    "_id": "66dc91bba854f36efc1bc8a1efcff2e3",
+                                    "id": 34017,
+                                    "type": "e_cnvi",
+                                    "e": "泉水清如许。",
+                                    "p_cn": "quanshui qing ruxu",
+                                    "p": "quánshǔi qīng rúxǔ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "những cái như vậy; những cái như thế",
+                            "explain": "这么些;那么些",
+                            "examples": [
+                                {
+                                    "m": "phí công hoài sức đến như thế.",
+                                    "p_vn": "phi cong hoai suc den nhu the",
+                                    "_id": "6fd04f8729b7295be5013feec8b1bbbe",
+                                    "id": 34018,
+                                    "type": "e_cnvi",
+                                    "e": "枉费如许工力。",
+                                    "p_cn": "wangfei ruxu gong li",
+                                    "p": "wǎngfèi rúxǔ gōnglì。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dường ấy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "như hứa",
+            "pinyin": "rúxǔ",
+            "word": "如许",
+            "id": 44642,
+            "phonetic": "ruxu",
+            "rank": 73004,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "许可"
+}

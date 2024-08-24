@@ -1,0 +1,2561 @@
+{
+    "total": 188,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v",
+                "measure"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋ",
+            "_id": "af066b559ef278839f15856a6de28448",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Treo gì đó vào địa điểm nào",
+                            "examples": [
+                                80127,
+                                80131
+                            ],
+                            "struct": "把 + Tân ngữ + 挂 + 在/到 + Địa điểm"
+                        },
+                        {
+                            "explain": "trạng thái hoặc đối tượng  của bị treo",
+                            "examples": [
+                                80132,
+                                80134
+                            ],
+                            "struct": "Địa điểm + 挂着 + Tân ngữ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "treo; móc; quặc; ngoắc",
+                            "explain": "借助于绳子、钩子、钉子等使物体附着于某处的一点或几点",
+                            "examples": [
+                                {
+                                    "m": "Trên tường treo một tấm bản đồ thế giới.",
+                                    "p_vn": "tren tuong treo mot tam ban do the gioi.",
+                                    "_id": "ac2ce0e6c1cf0a187eab1767316c3c88",
+                                    "id": 14775,
+                                    "type": "e_cnvi",
+                                    "e": "墙上挂着一幅世界地图。",
+                                    "p_cn": "qiang shang guazhe yi fu shijie ditu.",
+                                    "p": "qiáng shàng guàzhe yī fú shìjiè dìtú."
+                                },
+                                {
+                                    "m": "Vầng trăng sáng treo trên bầu trời.",
+                                    "p_vn": "vang trang sang treo tren bau troi.",
+                                    "_id": "0adf64f1860939ea7d8a965b63020254",
+                                    "id": 14776,
+                                    "type": "e_cnvi",
+                                    "e": "一轮明月挂在天上。",
+                                    "p_cn": "yi lun mingyue gua zai tianshang.",
+                                    "p": "Yī lún míngyuè guà zài tiānshàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cúp; đặt; ngắt; tắt (điện thoại)",
+                            "explain": "把耳机放回电话机上使电路断开",
+                            "examples": [
+                                {
+                                    "m": "Đừng tắt máy xuống, đợi tôi tra một chút.",
+                                    "p_vn": "dung tát may xuong, doi toi tra mot chut.",
+                                    "_id": "67044c52e59372549ac38afdf790f170",
+                                    "id": 14778,
+                                    "type": "e_cnvi",
+                                    "e": "电话先不要挂，等我查一下。",
+                                    "p_cn": "dianhua xian buyao gua, deng wocha yixia.",
+                                    "p": "diànhuà xiān bùyào guà, děng wǒchá yīxià."
+                                },
+                                {
+                                    "m": "Cô ấy tức giận cúp điện thoại.",
+                                    "p_vn": "co ay tuc gian cup dien thoai.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3536613",
+                                    "id": 80118,
+                                    "type": "e_cnvi",
+                                    "e": "她一气之下挂了电话。",
+                                    "p_cn": "ta yiqizhixia guale dianhua。",
+                                    "p": "tā yīqìzhīxià guàle diànhuà。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nối máy; gọi (điện thoại)",
+                            "explain": "指交换机接通电话，也指打电话",
+                            "examples": [
+                                {
+                                    "m": "Xin anh hãy nối máy với phòng hành chính tổng hợp.",
+                                    "p_vn": "xin anh hay noi may voi phong hanh chinh tong hop.",
+                                    "_id": "4f3e878809b393aead39fab073c746bc",
+                                    "id": 14779,
+                                    "type": "e_cnvi",
+                                    "e": "请你挂总务科",
+                                    "p_cn": "qing ni gua zongwuke.",
+                                    "p": "qǐng nǐ guà zǒngwùkē."
+                                },
+                                {
+                                    "m": "Xin hãy nối máy cho trụ sở kiểm soát lũ lụt.",
+                                    "p_vn": "xin hay noi may cho tru so kiem soat lu lut.",
+                                    "_id": "fd11f71d318469fb878a81da5c46d8a7",
+                                    "id": 14780,
+                                    "type": "e_cnvi",
+                                    "e": "给防汛指挥部挂个电话。",
+                                    "p_cn": "gei fangxun zhihuibu guage dianhua.",
+                                    "p": "gěi fángxùn zhǐhūibù guàgè diànhuà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trượt môn",
+                            "explain": "考试没有达到通过的标准",
+                            "examples": [
+                                {
+                                    "m": "Tớ trượt môn toán rồi, giờ phải thi lại.",
+                                    "p_vn": "to truot mon toan roi, gio phai thi lai.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3538693",
+                                    "id": 80124,
+                                    "type": "e_cnvi",
+                                    "e": "我数学挂了，要重考。",
+                                    "p_cn": "wo shuxue guale, yao chong kao.",
+                                    "p": "wǒ shùxué guàle, yào chóng kǎo."
+                                },
+                                {
+                                    "m": "Tôi trượt môn triết học.",
+                                    "p_vn": "toi truot mon triet hoc.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3538a1f",
+                                    "id": 80125,
+                                    "type": "e_cnvi",
+                                    "e": "我哲学挂了。",
+                                    "p_cn": "wo zhexue guale .",
+                                    "p": "wǒ zhéxué guàle ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đăng ký; ghi tên; báo",
+                            "explain": "登记",
+                            "examples": [
+                                {
+                                    "m": "Đăng ký số thứ tự.",
+                                    "p_vn": "dang ky so thu tu.",
+                                    "_id": "5f1adf3e4794a18d885701d1a35381dc",
+                                    "id": 80123,
+                                    "type": "e_cnvi",
+                                    "e": "挂一个号。",
+                                    "p_cn": "gua yige hao。",
+                                    "p": "guà yīgè hào。"
+                                },
+                                {
+                                    "m": "Đăng ký tên tham gia hoạt động.",
+                                    "p_vn": "dang ky ten tham gia hoat dong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37a1b32",
+                                    "id": 106167,
+                                    "type": "e_cnvi",
+                                    "e": "挂下名参加活动。",
+                                    "p_cn": "gua xia ming canjia huodong.",
+                                    "p": "guà xià míng cānjiā huódòng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vướng; mắc phải; mắc kẹt",
+                            "explain": "钩住；绊住",
+                            "examples": [
+                                {
+                                    "m": "Đinh vướng vào áo rồi.",
+                                    "p_vn": "dinh vuong vao ao roi.",
+                                    "_id": "7ffa31adedc8b8aa3ba4c280114d9b26",
+                                    "id": 14781,
+                                    "type": "e_cnvi",
+                                    "e": "钉子把衣服挂住了。",
+                                    "p_cn": "dingzi ba yifu gua zhu le.",
+                                    "p": "dīngzi bǎ yīfu guà zhù le."
+                                },
+                                {
+                                    "m": "Con diều vướng vào cây rồi.",
+                                    "p_vn": "con dieu vuong vao cay roi.",
+                                    "_id": "5f1adf3e4794a18d885701d1a35375dd",
+                                    "id": 80120,
+                                    "type": "e_cnvi",
+                                    "e": "风筝挂到树上了。",
+                                    "p_cn": "fengzheng gua dao shu shangle.",
+                                    "p": "fēngzheng guà dào shù shàngle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vấn vương; lo lắng; lo nghĩ (nội tâm)",
+                            "explain": "(内心) 牵挂",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy cứ lo lắng chuyện gia đình.",
+                                    "p_vn": "anh ay cu lo lang chuyen gia dinh.",
+                                    "_id": "2d9d2cc5eec67dccd1c587bdbfe905f4",
+                                    "id": 14782,
+                                    "type": "e_cnvi",
+                                    "e": "他总是挂着家里的事。",
+                                    "p_cn": "ta zong shi guazhe jiali de shi.",
+                                    "p": "tā zǒng shì guàzhe jiālǐ de shì."
+                                },
+                                {
+                                    "m": "Chuyện này luôn vấn vương trong lòng tôi.",
+                                    "p_vn": "chuyen nay luon van vuong trong long toi.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3537d3b",
+                                    "id": 80121,
+                                    "type": "e_cnvi",
+                                    "e": "这件事总挂在心上。",
+                                    "p_cn": "zhe jian shi zong gua zaixin shang.",
+                                    "p": "zhè jiàn shì zǒng guà zàixīn shàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phủ; phủ lên (bề mặt của vật)",
+                            "explain": "(物体表面) 蒙上;糊着",
+                            "examples": [
+                                {
+                                    "m": "Trên mặt phủ một lớp bụi.",
+                                    "p_vn": "tren mat phu mot lop bui.",
+                                    "_id": "186ef8f343577fc3726d2f39569ed40d",
+                                    "id": 14783,
+                                    "type": "e_cnvi",
+                                    "e": "脸上挂了一层尘土。",
+                                    "p_cn": "lianshang gua le yiceng chentu.",
+                                    "p": "liǎnshàng guà le yīcéng chéntǔ."
+                                },
+                                {
+                                    "m": "Mặt ngoài đồ gốm phủ một lớp men.",
+                                    "p_vn": "mat ngoai do gom phu mot lop men.",
+                                    "_id": "2f42ab01eb18174778b12726248de781",
+                                    "id": 14784,
+                                    "type": "e_cnvi",
+                                    "e": "瓦器外面挂一层釉子。",
+                                    "p_cn": "waqi waimian gua yiceng youzi.",
+                                    "p": "wǎqì wàimiàn guà yīcéng yòuzi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "án treo (án chưa quyết)",
+                            "explain": "(案件等) 悬而未决",
+                            "examples": [
+                                {
+                                    "m": "Vụ án này vẫn chưa được quyết.",
+                                    "p_vn": "vu an nay van chua duoc quyet.",
+                                    "_id": "82fa80abdebf65141013781c33f33dc5",
+                                    "id": 14777,
+                                    "type": "e_cnvi",
+                                    "e": "这个案子还挂着呢。",
+                                    "p_cn": "zhege anzi hai gua zhene.",
+                                    "p": "zhège ànzi hái guà zhene."
+                                },
+                                {
+                                    "m": "Vụ án của anh ấy vẫn chưa được quyết.",
+                                    "p_vn": "vu an cua anh ay van chua duoc quyet.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37b4938",
+                                    "id": 106198,
+                                    "type": "e_cnvi",
+                                    "e": "他的案件挂起了。",
+                                    "p_cn": "ta de anjian gua qile.",
+                                    "p": "tā de ànjiàn guà qǐle."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "chuỗi; tràng; cỗ; bánh",
+                            "explain": "量词，多用于成套或成串的东西",
+                            "examples": [
+                                {
+                                    "m": "Cỗ xe bốn bánh.",
+                                    "p_vn": "co xe bon banh.",
+                                    "_id": "526e74fcbf1457b7f5cadacca8417998",
+                                    "id": 14787,
+                                    "type": "e_cnvi",
+                                    "e": "一挂四轮大车",
+                                    "p_cn": "yigua silun dache",
+                                    "p": "yīguà sìlún dàchē"
+                                },
+                                {
+                                    "m": "Hơn mười tràng pháo",
+                                    "p_vn": "hon muoi trang phao",
+                                    "_id": "f7f160bb56befde904b836a4bbb682a8",
+                                    "id": 14788,
+                                    "type": "e_cnvi",
+                                    "e": "十多挂鞭炮",
+                                    "p_cn": "shiduo gua bianpao",
+                                    "p": "shíduō guà biānpào"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"挂\" và \"吊\" đều thể hiện trạng thái của động tác hoặc sự xuất hiện của động tác sau khi kết thúc.\nKhác:\n- Vật được \"吊\" là được treo lưo lửng trong không trung, còn vật được \"挂\" có thể được treo trong không trung, cũng có thể không phải trong không trung mà dựa vào tường, dựa vào cửa.\nĐối tượng liên quan đến hai từ này cũng khác nhau",
+                    "title": "Phân biệt \"挂\" và \"吊\"",
+                    "words": [
+                        "挂",
+                        "吊"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "吊",
+                    "垂",
+                    "悬"
+                ],
+                "anto": [
+                    "取"
+                ]
+            },
+            "lv_hsk_new": "3, 4",
+            "pinyin": "guà",
+            "cn_vi": "quải",
+            "popularity": {
+                "notebook": 736,
+                "search": 14194
+            },
+            "word": "挂",
+            "id": 20760,
+            "phonetic": "gua",
+            "rank": 556,
+            "lv_tocfl": 2,
+            "compound": "挂碍 ; 挂表 ; 挂不住 ; 挂彩 ; 挂车 ; 挂齿 ; 挂锄 ; 挂单 ; 挂斗 ; 挂钩 ; 挂冠 ; 挂果 ; 挂号 ; 挂花 ; 挂怀 ; 挂幌子 ; 挂火 ; 挂记 ; 挂甲 ; 挂件 ; 挂镜线 ; 挂靠 ; 挂累 ; 挂历 ; 挂镰 ; 挂零 ; 挂漏 ; 挂虑 ; 挂面 ; 挂名 ; 挂念 ; 挂拍 ; 挂牌 ; 挂屏 ; 挂气 ; 挂牵 ; 挂欠 ; 挂失 ; 挂帅 ; 挂锁 ; 挂毯 ; 挂图 ; 挂孝 ; 挂鞋 ; 挂心 ; 挂羊头卖狗肉 ; 挂一漏万 ; 挂账 ; 挂职 ; 挂钟 ; 挂轴"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄒㄧㄠˋ",
+            "_id": "2c74c6ff9e208306fc132dedf395101b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để tang; cư tang; đeo tang",
+                            "explain": "带孝",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quải hiếu",
+            "pinyin": "guà xiào",
+            "word": "挂孝",
+            "id": 20815,
+            "phonetic": "guaxiao",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a738a8700351488f91cee1be4ce156d1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "treo giò",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "quải thối",
+            "pinyin": "guà tuǐ",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "挂腿",
+            "id": 174263,
+            "phonetic": "guatui",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄐㄧˋ",
+            "_id": "170449e6f675d9bf2a00c7b7500373e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhớ; nhớ mong; nhớ nhung; lo lắng; nghĩ ngợi",
+                            "explain": "挂念;惦记",
+                            "examples": [
+                                {
+                                    "m": "anh hãy an tâm làm việc, chuyện nhà không phải lo lắng đâu.",
+                                    "p_vn": "anh hay an tam lam viec chuyen nha khong phai lo lang dau",
+                                    "_id": "467af47adbb18f5960a477ec52b56be4",
+                                    "id": 14811,
+                                    "type": "e_cnvi",
+                                    "e": "你安心工作，家里的事用不着挂记。",
+                                    "p_cn": "ni anxin gongzuo jiali de shi yong buzhao guaji",
+                                    "p": "nǐ ānxīn gōngzuò，jiālǐ de shì yòngbùzháo guàjì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 29
+            },
+            "snym": {
+                "syno": [
+                    "挂心"
+                ],
+                "anto": [
+                    "放心"
+                ]
+            },
+            "cn_vi": "quải ký",
+            "pinyin": "guàjì",
+            "word": "挂记",
+            "id": 20783,
+            "phonetic": "guaji",
+            "rank": 72135,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄌㄧㄥˊ",
+            "_id": "bac3ad3b3fd8842d7518e892d3f384f8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lẻ; số lẻ; linh",
+                            "explain": "(挂零儿) 整数外还有零数",
+                            "examples": [
+                                {
+                                    "m": "trông dáng người này thì nhiều lắm cũng bốn mươi tuổi lẻ thôi.",
+                                    "p_vn": "trong dang nguoi nay thi nhieu lam cung bon muoi tuoi le thoi",
+                                    "_id": "34fd6fbed08d1135194d592732b635ea",
+                                    "id": 14818,
+                                    "type": "e_cnvi",
+                                    "e": "这个人看样子顶多不过四十挂零。",
+                                    "p_cn": "zhege ren kan yangzi ding duo buguo sishi gualing",
+                                    "p": "zhègè rén kànyángzǐ dǐngduō bùguò sìshí guàlíng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "quải linh",
+            "pinyin": "guàlíng",
+            "word": "挂零",
+            "id": 20795,
+            "phonetic": "gualing",
+            "rank": 70888,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄍㄨㄢ",
+            "_id": "5a328d1d9f771fd93bae4e194a112e51",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "từ quan; từ chức",
+                            "explain": "指辞去官职",
+                            "examples": [
+                                {
+                                    "m": "từ quan ở ẩn",
+                                    "p_vn": "tu quan o an",
+                                    "_id": "db8a96e9a7c2b652dd20c5316f17a1c0",
+                                    "id": 14800,
+                                    "type": "e_cnvi",
+                                    "e": "挂冠归隐",
+                                    "p_cn": "guaguan guiyin",
+                                    "p": "guàguān gūiyǐn"
+                                },
+                                {
+                                    "m": "từ quan ra đi.",
+                                    "p_vn": "tu quan ra di",
+                                    "_id": "6f8a47c99d96a1b32f15bda25ae7823a",
+                                    "id": 14801,
+                                    "type": "e_cnvi",
+                                    "e": "挂冠而去",
+                                    "p_cn": "guaguan er qu",
+                                    "p": "guàguānérqù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "quải quan",
+            "pinyin": "guàguān",
+            "word": "挂冠",
+            "id": 20774,
+            "phonetic": "guaguan",
+            "rank": 92004,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄔㄜˇ",
+            "_id": "5d76f83401b4fed0bd410881a133e8c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "móc rách",
+                            "explain": "钩住并撕破",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "方",
+                    "means": [
+                        {
+                            "mean": "liên lụy; dính líu; dính dáng",
+                            "explain": "牵连;牵扯",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "quải xả",
+            "pinyin": "guà chě",
+            "word": "挂扯",
+            "id": 20767,
+            "phonetic": "guache",
+            "rank": 130112,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄒㄧㄢˋ",
+            "_id": "6ea4806226a5485496f0017c99ce4ae6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cúp điện thoại",
+                            "explain": "to hang up the phone",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 66
+            },
+            "snym": null,
+            "cn_vi": "quải tuyến",
+            "pinyin": "guà xiàn",
+            "word": "挂线",
+            "id": 103135,
+            "phonetic": "guaxian",
+            "rank": 51157,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄌㄡˋ",
+            "_id": "6dd382425bdad0a17f0608e6de7da5cb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "được một mất một vạn; được ít mất nhiều",
+                            "explain": "挂一漏万",
+                            "examples": [
+                                {
+                                    "m": "được ít mất nhiều, khó tránh khỏi.",
+                                    "p_vn": "duoc it mat nhieu kho tranh khoi",
+                                    "_id": "963885d6bf947fbd59c6171f47dfc10c",
+                                    "id": 14819,
+                                    "type": "e_cnvi",
+                                    "e": "挂漏之处，在所难免。",
+                                    "p_cn": "gua lou zhi chu zai suo nanmian",
+                                    "p": "guàlòu zhī chù，zàisuǒnánmiǎn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "quải lậu",
+            "pinyin": "guà lòu",
+            "word": "挂漏",
+            "id": 20796,
+            "phonetic": "gualou",
+            "rank": 151182,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄏㄨㄞˊ",
+            "_id": "847d636f275535b4b23c22ba926465d6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lo lắng; lo âu; quan tâm; nhớ nhung; nhớ trong lòng",
+                            "explain": "挂念;挂心",
+                            "examples": [
+                                {
+                                    "m": "việc nhỏ mà, không nên lo lắng.",
+                                    "p_vn": "viec nho ma khong nen lo lang",
+                                    "_id": "89b19f105dd1e12890ba406fb37d28d7",
+                                    "id": 14808,
+                                    "type": "e_cnvi",
+                                    "e": "区区小事，不必挂怀。",
+                                    "p_cn": "ququ xiaoshi bubi guahuai",
+                                    "p": "qūqūxiǎoshì，bùbì guàhuái。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đoái hoài",
+                            "explain": "参与其事; 参加意见; 表示关心",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 130
+            },
+            "snym": null,
+            "cn_vi": "quải hoài",
+            "pinyin": "guàhuái",
+            "word": "挂怀",
+            "id": 20779,
+            "phonetic": "guahuai",
+            "rank": 36080,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄏㄠˇ",
+            "_id": "d1d57c60f244416d8f2b3af46e6a233d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "treo lên đúng cách (điện thoại, hình ảnh, quần áo, v.v.)",
+                            "explain": "to hang up properly (telephone, picture, clothes etc)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "quải hảo",
+            "pinyin": "guà hǎo",
+            "word": "挂好",
+            "id": 96924,
+            "phonetic": "guahao",
+            "rank": 69151,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄐㄧㄣˋ",
+            "_id": "8b23a5978deb8e7b0072a25e50778d64",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nổi giận; phát cáu; tức giận",
+                            "explain": "发怒;生气",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "quải kình",
+            "pinyin": "guà jìn",
+            "word": "挂劲",
+            "id": 20787,
+            "phonetic": "guajin",
+            "rank": 112661,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄕㄥˊ",
+            "_id": "b2bd53135b2a4fbcb158deed6b2b57e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Dây đeo",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Dây đeo( thẻ sinh viên, thẻ nhân viên)",
+                                    "p_vn": "Day deo( the sinh vien, the nhan vien)",
+                                    "_id": "50c5f21ca8364ee8a296301985ae237d",
+                                    "id": 67572,
+                                    "type": "e_cnvi",
+                                    "e": "一条挂绳",
+                                    "p_cn": "Yitiao gua sheng",
+                                    "p": "Yītiáo guà shéng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 72
+            },
+            "snym": null,
+            "cn_vi": "quải thằng",
+            "pinyin": "guà shéng",
+            "word": "挂绳",
+            "id": 152331,
+            "phonetic": "guasheng",
+            "rank": 48980,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄠˋㄍㄨㄚˋ",
+            "_id": "71d93fe45d7176a6a6c5bf3f8162c150",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "treo; móc",
+                            "explain": "悬挂",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 76
+            },
+            "snym": {
+                "syno": [
+                    "悬挂",
+                    "垂挂"
+                ]
+            },
+            "cn_vi": "điếu quải",
+            "pinyin": "diào guà",
+            "word": "吊挂",
+            "id": 12950,
+            "phonetic": "diaogua",
+            "rank": 47666,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄌㄟˋ",
+            "_id": "72729417c1fa9f8ded33782933e25853",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "liên luỵ; liên quan; dính líu",
+                            "explain": "牵挂;连累",
+                            "examples": [
+                                {
+                                    "m": "không có liên quan gì.",
+                                    "p_vn": "khong co lien quan gi",
+                                    "_id": "6c49400cc0711b397233892ec5b6c63e",
+                                    "id": 14816,
+                                    "type": "e_cnvi",
+                                    "e": "没有任何挂累",
+                                    "p_cn": "meiyou renhe gua lei",
+                                    "p": "méiyǒu rènhé guàlèi"
+                                },
+                                {
+                                    "m": "người có liên quan đến việc này rất nhiều.",
+                                    "p_vn": "nguoi co lien quan den viec nay rat nhieu",
+                                    "_id": "f0827d8b08f3e047e12e7253ddaafbdc",
+                                    "id": 14817,
+                                    "type": "e_cnvi",
+                                    "e": "受此事挂累的人很多。",
+                                    "p_cn": "shou ci shi gua lei de ren henduo",
+                                    "p": "shòu cǐshì guàlèi de rén hěnduō。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đèo bòng",
+                            "explain": "牵挂; 挂念",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bận bịu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": {
+                "syno": [
+                    "连累",
+                    "拖累"
+                ]
+            },
+            "cn_vi": "quải luỹ",
+            "pinyin": "guà lěi",
+            "word": "挂累",
+            "id": 20791,
+            "phonetic": "gualei",
+            "rank": 125814,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄒㄧㄤ",
+            "_id": "2c5498f7ca5d3e47fa671997be5b9f5b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xụ mặt",
+                            "explain": "现出脸色，多因不高兴",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "quải tướng",
+            "pinyin": "guà xiāng",
+            "word": "挂相",
+            "id": 20814,
+            "phonetic": "guaxiang",
+            "rank": 72613,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄓˊ",
+            "_id": "3b1e361b9fddb2753a69b783ad8a936a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tạm giữ chức",
+                            "explain": "临时担任某种职务 (以进行锻炼)",
+                            "examples": [
+                                {
+                                    "m": "tác giả này tạm giữ chức phó chủ tịch huyện, đi sâu vào cuộc sống để thu thập tư liệu sáng tác.",
+                                    "p_vn": "tac gia nay tam giu chuc pho chu tich huyen di sau vao cuoc song de thu thap tu lieu sang tac",
+                                    "_id": "22c4298444f9cbc51ce28300868a7b3f",
+                                    "id": 14831,
+                                    "type": "e_cnvi",
+                                    "e": "这位作家挂职副县长，深入生活搜集创作素材。",
+                                    "p_cn": "zhe wei zuojia guazhi fu xian zhang shenru shenghuo souji chuangzuo sucai",
+                                    "p": "zhè wèi zuòjiā guàzhí fù xiàn zhǎng, shēnrù shēnghuó sōují chuàngzuò sùcái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giữ nguyên chức vụ",
+                            "explain": "保留原职务 (下放到基层单位工作)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "quải chức",
+            "pinyin": "guàzhí",
+            "word": "挂职",
+            "id": 20824,
+            "phonetic": "guazhi",
+            "rank": 62234,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄍㄨㄚˋ",
+            "_id": "4f95801d528444549d1e1781e8850048",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để kéo",
+                            "explain": "to pull; to tow",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "tha quải",
+            "pinyin": "tuō guà",
+            "word": "拖挂",
+            "id": 96882,
+            "phonetic": "tuogua",
+            "rank": 110947,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄞㄍㄨㄚˋ",
+            "_id": "74775c4b85274850aab49d81250de65b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Hack",
+                            "explain": "开挂（Cheated），原意是指开外挂，即使用外挂的意思。外挂是指某些人利用电脑技术专门针对电脑游戏进行一些修改后，达到充分有利于自己玩游戏的作弊程序。",
+                            "examples": [
+                                {
+                                    "m": "Game đó có rất nhiều hack",
+                                    "p_vn": "game do co rat nhieu hack",
+                                    "_id": "c06bee85d9404689ab3df1917f620e4d",
+                                    "id": 56057,
+                                    "type": "e_cnvi",
+                                    "e": "那个游戏有很多开挂的。",
+                                    "p_cn": "nage youxi you henduo kai gua de.",
+                                    "p": "nàge yóuxì yǒu hěnduō kāi guà de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 35,
+                "search": 517
+            },
+            "snym": null,
+            "cn_vi": "khai quải",
+            "pinyin": "kāi guà",
+            "word": "开挂",
+            "id": 85410,
+            "phonetic": "kaigua",
+            "rank": 15614,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄐㄧㄚˇ",
+            "_id": "320ecdfc76703bae16ac767a1d3a8335",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phục viên; giải ngũ",
+                            "explain": "指军人退役",
+                            "examples": [
+                                {
+                                    "m": "phụ viên về nhà; giải ngũ về quê.",
+                                    "p_vn": "phu vien ve nha; giai ngu ve que",
+                                    "_id": "2a39832f6f2b311098358e0d85262eba",
+                                    "id": 14812,
+                                    "type": "e_cnvi",
+                                    "e": "挂甲归田",
+                                    "p_cn": "guajia guitian",
+                                    "p": "guàjiǎ gūitián"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quải giáp",
+            "pinyin": "guàjiǎ",
+            "word": "挂甲",
+            "id": 20785,
+            "phonetic": "guajia",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "3, 55",
+            "zhuyin": "ㄍㄨㄚˋㄊㄢˇ",
+            "_id": "19eadd122630cd83c3c82e9e6e64c7ca",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thảm treo tường; thảm thêu",
+                            "explain": "壁毯",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "quải thảm",
+            "pinyin": "guàtǎn",
+            "word": "挂毯",
+            "id": 20811,
+            "phonetic": "guatan",
+            "rank": 70669,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄔˇ",
+            "_id": "196bf225c4281fe739c6c55dd2142b8c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nói đến; nhắc đến; đề cập đến; đáng kể (lời nói khách sáo)",
+                            "explain": "说起;提起 (常用做客套话)",
+                            "examples": [
+                                {
+                                    "m": "chuyện nhỏ này, nhắc đến làm chi.",
+                                    "p_vn": "chuyen nho nay nhac den lam chi",
+                                    "_id": "4527f74fe34ba4ff9de1421b48c625d8",
+                                    "id": 14795,
+                                    "type": "e_cnvi",
+                                    "e": "这点小事，何足挂齿。",
+                                    "p_cn": "zhe dian xiaoshi he zu guachi",
+                                    "p": "zhèdiǎn xiǎoshì，hézúguàchǐ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đếm xỉa",
+                            "explain": "参与其事; 参加意见; 表示关心",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 99
+            },
+            "snym": null,
+            "cn_vi": "quải xỉ",
+            "pinyin": "guàchǐ",
+            "word": "挂齿",
+            "id": 20768,
+            "phonetic": "guachi",
+            "rank": 41681,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄓㄡˊ",
+            "_id": "c3a0adc0ac75de10e0eb126a9a044b27",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tranh cuộn (có cốt ở hai đầu để treo)",
+                            "explain": "(挂轴儿) 装裱成轴可以悬挂的字画",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quải trục",
+            "pinyin": "guà zhóu",
+            "word": "挂轴",
+            "id": 20826,
+            "phonetic": "guazhou",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄞˋ",
+            "_id": "56b4acb4fa805d9e952e1dee1d486d4c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lo lắng; lo nghĩ; lo âu; vấn vương; lo ngại; băn khoăn; ngang ngang",
+                            "explain": "牵挂;牵掣",
+                            "examples": [
+                                {
+                                    "m": "trong lòng không lo lắng vấn vương gì.",
+                                    "p_vn": "trong long khong lo lang van vuong gi",
+                                    "_id": "2272f7f34834bd884bfe19d94819c523",
+                                    "id": 14789,
+                                    "type": "e_cnvi",
+                                    "e": "心中没有挂碍",
+                                    "p_cn": "xinzhong meiyou guaai",
+                                    "p": "xīnzhōng méiyǒu guàài"
+                                },
+                                {
+                                    "m": "anh ấy chẳng có gì lo nghĩ cả.",
+                                    "p_vn": "anh ay chang co gi lo nghi ca",
+                                    "_id": "1ad49b7f06944a229cf6163920401cb6",
+                                    "id": 14790,
+                                    "type": "e_cnvi",
+                                    "e": "他一身无挂碍。",
+                                    "p_cn": "ta yishen wu guaai",
+                                    "p": "tā yīshēn wú guàài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 59
+            },
+            "snym": {
+                "syno": [
+                    "惦念",
+                    "忘怀",
+                    "牵挂",
+                    "挂念"
+                ]
+            },
+            "cn_vi": "quải ngại",
+            "pinyin": "guà'ài",
+            "word": "挂碍",
+            "id": 20761,
+            "phonetic": "guaai",
+            "rank": 53615,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄌㄧㄢˊ",
+            "_id": "9156602537f5d7521ec83827803d7a68",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gặt hái xong; xong mùa vụ; thu hoạch xong",
+                            "explain": "指一年中最后一茬庄稼的收割工作结束",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quải liêm",
+            "pinyin": "guà lián",
+            "word": "挂镰",
+            "id": 20794,
+            "phonetic": "gualian",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄌㄧˋ",
+            "_id": "6f830b956fac34dac040eeadc985ebbf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lịch treo tường",
+                            "explain": "挂在墙上用的月历",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 116
+            },
+            "snym": null,
+            "cn_vi": "quải lịch",
+            "pinyin": "guàlì",
+            "word": "挂历",
+            "id": 20792,
+            "phonetic": "guali",
+            "rank": 38542,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟˊㄍㄨㄚˋ",
+            "_id": "6f0e77ba5196cd0f0d9ae5bd6db86b65",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rủ xuống",
+                            "explain": "物体上端固定于某点而下垂",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": {
+                "syno": [
+                    "下垂",
+                    "吊挂",
+                    "挂念",
+                    "悬垂"
+                ],
+                "anto": [
+                    "平放"
+                ]
+            },
+            "cn_vi": "thuỳ quải",
+            "pinyin": "chuíguà",
+            "word": "垂挂",
+            "id": 8948,
+            "phonetic": "chuigua",
+            "rank": 88813,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄒㄧㄠˋ",
+            "_id": "0fc4f4bcb39fe3c10960b85b5b3a87ed",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tươi cười",
+                            "explain": "面带笑容",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "quải tiếu",
+            "pinyin": "guà xiào",
+            "word": "挂笑",
+            "id": 20816,
+            "phonetic": "guaxiao",
+            "rank": 124009,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄔㄨˊ",
+            "_id": "6b2ed7631ff8dfbb6b9ec1c3602dbaf6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "treo cuốc; cày bừa xong",
+                            "explain": "指锄地工作结束",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": {
+                "anto": [
+                    "开锄"
+                ]
+            },
+            "cn_vi": "quải sừ",
+            "pinyin": "guà chú",
+            "word": "挂锄",
+            "id": 20769,
+            "phonetic": "guachu",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄌㄨㄛˋ",
+            "_id": "3acd391177fedd182379c3b391dc4657",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "liên lụy; dính dáng; dính líu",
+                            "explain": "牵连;连累也作\"挂络\"",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "quải lạc",
+            "pinyin": "guà luò",
+            "word": "挂落",
+            "id": 20798,
+            "phonetic": "gualuo",
+            "rank": 101045,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄌㄩˋ",
+            "_id": "39ae0603113b4afb33fb915b12b6f4cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lo lắng; lo ngại; băn khoăn; không yên tâm; thấp thỏm nhớ mong; không an tâm",
+                            "explain": "挂念，不放心",
+                            "examples": [
+                                {
+                                    "m": "việc nhà đã có tôi lo rồi, anh không phải băn khoăn.",
+                                    "p_vn": "viec nha da co toi lo roi anh khong phai ban khoan",
+                                    "_id": "194600268fbff15464075399b049ab6f",
+                                    "id": 14820,
+                                    "type": "e_cnvi",
+                                    "e": "家里的事有我照顾呢，你不用挂虑。",
+                                    "p_cn": "jiali de shi you wo zhaogu ne ni buyong gualu",
+                                    "p": "jiālǐ de shì yǒu wǒ zhàogù ne, nǐ bùyòng guàlǜ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bồi hồi",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lo",
+                            "explain": "放心不下",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 60
+            },
+            "snym": {
+                "anto": [
+                    "放心"
+                ]
+            },
+            "cn_vi": "quải lự",
+            "pinyin": "guàlǜ",
+            "word": "挂虑",
+            "id": 20797,
+            "phonetic": "gualu",
+            "rank": 53468,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄆㄞˊ",
+            "_id": "7b2b86223437a8d55dd4b79b04516547",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "treo biển hành nghề (bác sĩ, luật sư)",
+                            "explain": "指医生、律师等正式开业",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bảng tên",
+                            "explain": "(挂牌儿) 医生、售货员服务员等工作时胸前佩戴印有姓名、号码等的标牌",
+                            "examples": [
+                                {
+                                    "m": "bảng tên của phục vụ",
+                                    "p_vn": "bang ten cua phuc vu",
+                                    "_id": "ed5bfdfd548c5d1b96da2aac31d597d5",
+                                    "id": 14825,
+                                    "type": "e_cnvi",
+                                    "e": "挂牌服务",
+                                    "p_cn": "guapai fuwu",
+                                    "p": "guàpái fúwù"
+                                },
+                                {
+                                    "m": "bảng tên của người bán hàng.",
+                                    "p_vn": "bang ten cua nguoi ban hang",
+                                    "_id": "8458d78b0964719118e94909341f09cc",
+                                    "id": 14826,
+                                    "type": "e_cnvi",
+                                    "e": "挂牌售货",
+                                    "p_cn": "guapai shou huo",
+                                    "p": "guàpái shòuhuò"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 323
+            },
+            "snym": null,
+            "cn_vi": "quải bài",
+            "pinyin": "guàpái",
+            "word": "挂牌",
+            "id": 20803,
+            "phonetic": "guapai",
+            "rank": 21080,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄢㄍㄨㄚˋ",
+            "_id": "e8c39ffecb3321d08522aef8dfa5d57c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bận tâm; bận lòng; vướng víu; vướng vít, vấn vương",
+                            "explain": "挂念",
+                            "examples": [
+                                {
+                                    "m": "Ba mẹ dặn dò anh ấy ở bên ngoài phải công tác tốt, đừng bận tâm đến chuyện gia đình.",
+                                    "p_vn": "ba me dan do anh ay o ben ngoai phai cong tac tot, dung ban tam den chuyen gia dinh.",
+                                    "_id": "17abd218884b032369103f7b44a677e4",
+                                    "id": 31917,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸妈妈嘱咐他在外边要好好工作，家里的事不用牵挂。",
+                                    "p_cn": "baba mama zhufu ta zai waibian yao haohao gongzuo, jiali de shi buyong qiangua.",
+                                    "p": "Bàba māma zhǔfù tā zài wàibian yào hǎohāo gōngzuò, jiālǐ de shì bùyòng qiānguà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bận bịu",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dính líu",
+                            "explain": "牵累; 使受牵累",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 262,
+                "search": 2598
+            },
+            "snym": {
+                "syno": [
+                    "惦念",
+                    "想念",
+                    "悬念",
+                    "思念",
+                    "牵记",
+                    "怀念",
+                    "挂心",
+                    "记挂",
+                    "担心",
+                    "思量",
+                    "惦记",
+                    "怀想",
+                    "顾虑",
+                    "缅怀",
+                    "挂念",
+                    "系念",
+                    "驰念",
+                    "萦系",
+                    "默念",
+                    "羁旅",
+                    "牵绊",
+                    "挂碍",
+                    "心系"
+                ],
+                "anto": [
+                    "忘怀",
+                    "放心",
+                    "死心"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "qiānguà",
+            "cn_vi": "khản quải",
+            "word": "牵挂",
+            "id": 42287,
+            "phonetic": "qiangua",
+            "rank": 4472,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄑㄧㄢ",
+            "_id": "a26afc740b7fa1228b3a4d457f54bf2e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhớ mong; lo lắng",
+                            "explain": "挂念;牵挂",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 33
+            },
+            "snym": {
+                "syno": [
+                    "挂念",
+                    "想念"
+                ],
+                "anto": [
+                    "放心"
+                ]
+            },
+            "cn_vi": "quải khản",
+            "pinyin": "guàqiān",
+            "word": "挂牵",
+            "id": 20806,
+            "phonetic": "guaqian",
+            "rank": 68695,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄑㄧˇ",
+            "_id": "c56f472bf36e4fd488c67668f7b60fea",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(máy tính) để tạm ngừng (một quá trình)",
+                            "explain": "(computing) to suspend (a process)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "(của một hệ thống) để treo",
+                            "explain": "(of a system) to hang",
+                            "examples": [
+                                {
+                                    "m": "Bạn sẽ không treo nó lên?",
+                                    "p_vn": "Ban se khong treo no len?",
+                                    "_id": "7a20915d8bc44bdc9963b6023476d652",
+                                    "id": 63979,
+                                    "type": "e_cnvi",
+                                    "e": "你不把它挂起来吗",
+                                    "p_cn": "ni bu ba ta gua qilai ma",
+                                    "p": "nǐ bù bǎ tā guà qǐlái ma"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đang chờ xử lý (hoạt động)",
+                            "explain": "pending (operation)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cúp máy (một bức tranh, v.v.)",
+                            "explain": "to hang up (a picture etc)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "treo lên (một lá cờ)",
+                            "explain": "to hoist up (a flag)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 78
+            },
+            "snym": null,
+            "cn_vi": "quải khởi",
+            "pinyin": "guà qǐ",
+            "word": "挂起",
+            "id": 91565,
+            "phonetic": "guaqi",
+            "rank": 46995,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄙㄨㄛˇ",
+            "_id": "cad9651935752dd0bbb5f430c97a4efc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cái khoá móc",
+                            "explain": "一种用时挂在屈戌儿的环孔中的锁",
+                            "examples": [
+                                {
+                                    "m": "Phải mua một ổ khóa cho nhà kho của tôi.",
+                                    "p_vn": "Phai mua mot o khoa cho nha kho cua toi.",
+                                    "_id": "1fc13200a3aa44c281dcc6a9f1343bd3",
+                                    "id": 64463,
+                                    "type": "e_cnvi",
+                                    "e": "我得给我的小屋买个挂锁了",
+                                    "p_cn": "wo de gei wo de xiaowu maige guasuo le",
+                                    "p": "wǒ dé gěi wǒ de xiǎowū mǎigè guàsuǒ le"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Ổ Khóa cửa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 106
+            },
+            "snym": null,
+            "cn_vi": "quải toả",
+            "pinyin": "guàsuǒ",
+            "word": "挂锁",
+            "id": 20810,
+            "phonetic": "guasuo",
+            "rank": 40394,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄎㄠˋ",
+            "_id": "e4c7171b870d605f4289b7504aa05bd3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trực thuộc; chi nhánh",
+                            "explain": "机构或组织从属或依附于另一机构或组织叫挂靠",
+                            "examples": [
+                                {
+                                    "m": "đơn vị trực thuộc",
+                                    "p_vn": "don vi truc thuoc",
+                                    "_id": "82d22fdd52b3243e1dd8b33714fa822a",
+                                    "id": 14814,
+                                    "type": "e_cnvi",
+                                    "e": "挂靠单位",
+                                    "p_cn": "guakao danwei",
+                                    "p": "guàkào dānwèi"
+                                },
+                                {
+                                    "m": "hiệp hội du lịch trực thuộc cục du lịch.",
+                                    "p_vn": "hiep hoi du lich truc thuoc cuc du lich",
+                                    "_id": "d70e5c21a05d72f674d6d842e7215ee9",
+                                    "id": 14815,
+                                    "type": "e_cnvi",
+                                    "e": "旅游协会挂靠在旅游局。",
+                                    "p_cn": "luyou xiehui guakao zai luyou ju",
+                                    "p": "lǚyóu xiéhuì guàkào zài lǚyóu jú."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 281
+            },
+            "snym": null,
+            "cn_vi": "quải kháo",
+            "pinyin": "guàkào",
+            "word": "挂靠",
+            "id": 20789,
+            "phonetic": "guakao",
+            "rank": 23098,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄐㄧㄚ",
+            "_id": "cf708be6616bb6964bf4fb19f9c663de",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhớ nhà",
+                            "explain": "挂念家;想家",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "quải gia",
+            "pinyin": "guà jiā",
+            "word": "挂家",
+            "id": 20784,
+            "phonetic": "guajia",
+            "rank": 89105,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄨˋㄍㄨㄚˋ",
+            "_id": "d1040c8ff17927ccb9b2a521483bb796",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sương đọng trên lá cây",
+                            "explain": "雾凇的通称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "thụ quải",
+            "pinyin": "shùguà",
+            "word": "树挂",
+            "id": 48237,
+            "phonetic": "shugua",
+            "rank": 97345,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄢˋㄍㄨㄚˋ",
+            "_id": "b22f822d012ccfef33060844b8bfdde2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhớ; nhớ lại",
+                            "explain": "心里惦念牵挂",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "điếm quải",
+            "pinyin": "diàn guà",
+            "word": "惦挂",
+            "id": 12854,
+            "phonetic": "diangua",
+            "rank": 105654,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄍㄨㄛˇ",
+            "_id": "c55927e1c7275dc1c7e7be7c0b4f968c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kết quả; kết trái; ra trái; ra quả",
+                            "explain": "(果树) 结果实",
+                            "examples": [
+                                {
+                                    "m": "ba năm thành rừng, năm năm kết trái.",
+                                    "p_vn": "ba nam thanh rung nam nam ket trai",
+                                    "_id": "6a52385bb228892aa1859190715783ac",
+                                    "id": 14802,
+                                    "type": "e_cnvi",
+                                    "e": "三年成林，五年挂果。",
+                                    "p_cn": "san nian cheng lin wu nian guaguo",
+                                    "p": "sānnián chénglín，wǔnián guàguǒ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "quải quả",
+            "pinyin": "guàguǒ",
+            "word": "挂果",
+            "id": 20775,
+            "phonetic": "guaguo",
+            "rank": 73570,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄒㄧㄝˊ",
+            "_id": "cd45dc1c9cf37dc2333bc35d69b04885",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "treo giày (chỉ những vận động viên bóng đá, trượt băng, điền kinh... không tham gia thi đấu nữa)",
+                            "explain": "指足球、滑冰、田径等运动员结束运动员生活，不再参加正规训练和比赛也说挂靴",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "quải hài",
+            "pinyin": "guà xié",
+            "word": "挂鞋",
+            "id": 20817,
+            "phonetic": "guaxie",
+            "rank": 135185,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄥˋㄍㄨㄚˋ",
+            "_id": "1fdc48d07fc34f88f661c800bb231488",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "treo lại",
+                            "explain": "尤指用新的、不同的方式再挂",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "trọng quải",
+            "pinyin": "zhòng guà",
+            "word": "重挂",
+            "id": 65280,
+            "phonetic": "zhonggua",
+            "rank": 145207,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄉㄢ",
+            "_id": "524779ad51f11abf8e4f21530a551375",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ngủ lại chùa khác (chỉ những nhà sư đi hành khất)",
+                            "explain": "(游方和尚) 到庙里投宿也说挂褡",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xem 掛褡 | 挂褡",
+                            "explain": "see 掛褡|挂褡 [guàdā]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 86
+            },
+            "snym": null,
+            "cn_vi": "quải đơn",
+            "pinyin": "guàdān",
+            "word": "挂单",
+            "id": 20771,
+            "phonetic": "guadan",
+            "rank": 44698,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄍㄡ",
+            "_id": "1ddc0a9f3757f1d51a756626bbbad744",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "nóc; nối (hai toa xe lại với nhau)",
+                            "explain": "用钩把两节车厢连接起来",
+                            "examples": []
+                        },
+                        {
+                            "mean": "móc nối; móc ngoặc; đặt quan hệ; thiết lập quan hệ; liên hệ (ví với sự liên hệ với nhau)",
+                            "explain": "比喻建立某种联系",
+                            "examples": [
+                                {
+                                    "m": "hợp tác xã cung tiêu cơ sở liên hệ trực tiếp với nơi sản xuất.",
+                                    "p_vn": "hop tac xa cung tieu co so lien he truc tiep voi noi san xuat",
+                                    "_id": "6502675fc24d39ab91094810e3ffd2cb",
+                                    "id": 14796,
+                                    "type": "e_cnvi",
+                                    "e": "基层供销社直接跟产地挂钩。",
+                                    "p_cn": "jiceng gongxiao she zhijie gen chandi guagou",
+                                    "p": "jīcéng gōngxiāoshè zhíjiē gēn chǎndì guàgōu。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "rơ-moóc; móc",
+                            "explain": "用来吊起重物或把车厢等连接起来的钩",
+                            "examples": [
+                                {
+                                    "m": "móc của cần cẩu.",
+                                    "p_vn": "moc cua can cau",
+                                    "_id": "b09bbdd797759707333fe8186625d537",
+                                    "id": 14798,
+                                    "type": "e_cnvi",
+                                    "e": "吊车挂钩",
+                                    "p_cn": "diaoche guagou",
+                                    "p": "diàochē guàgōu"
+                                },
+                                {
+                                    "m": "móc toa xe lửa",
+                                    "p_vn": "moc toa xe lua",
+                                    "_id": "94a86f794974bdcec1de3120153254ed",
+                                    "id": 14799,
+                                    "type": "e_cnvi",
+                                    "e": "火车挂钩",
+                                    "p_cn": "huoche guagou",
+                                    "p": "huǒchē guàgōu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 67,
+                "search": 1269
+            },
+            "snym": null,
+            "cn_vi": "quải câu",
+            "pinyin": "guàgōu",
+            "word": "挂钩",
+            "id": 20773,
+            "phonetic": "guagou",
+            "rank": 8101,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": {
+                "pinyin": "jiā",
+                "examples": "这以后，对身体千万不可大意，免得大家挂念。",
+                "measure": "家"
+            },
+            "zhuyin": "ㄍㄨㄚˋㄋㄧㄢˋ",
+            "_id": "348dbbd241529b36f0714a01a1c2b8f0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhớ; nhớ mong; thắp thỏm; phập phồng; niệm lự",
+                            "explain": "因想念而放心不下",
+                            "examples": [
+                                {
+                                    "m": "mẹ rất nhớ đứa con trai đi học xa.",
+                                    "p_vn": "me rat nho dua con trai di hoc xa",
+                                    "_id": "f2ff49b6677fb6a09ada43b15423adcb",
+                                    "id": 14822,
+                                    "type": "e_cnvi",
+                                    "e": "母亲十分挂念在外地念书的儿子。",
+                                    "p_cn": "muqin shifen guanian zai waidi nianshu de erzi",
+                                    "p": "mǔqīn shífēn guàniàn zài wàidì niànshū de érzǐ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "buồn lo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 64,
+                "search": 692
+            },
+            "snym": {
+                "syno": [
+                    "惦念",
+                    "记念",
+                    "顾虑",
+                    "操心",
+                    "悬念",
+                    "缅怀",
+                    "想念",
+                    "怀念",
+                    "怀想",
+                    "驰念",
+                    "挂心",
+                    "记挂",
+                    "担心",
+                    "惦记",
+                    "系念",
+                    "缅想",
+                    "思念",
+                    "牵挂",
+                    "担忧",
+                    "牵记",
+                    "顾忌",
+                    "存念",
+                    "牵扰",
+                    "挂牵",
+                    "垂挂",
+                    "私念",
+                    "挂碍"
+                ],
+                "anto": [
+                    "忘怀",
+                    "放心",
+                    "安心"
+                ]
+            },
+            "cn_vi": "quải niệm",
+            "pinyin": "guàniàn",
+            "word": "挂念",
+            "id": 20801,
+            "phonetic": "guanian",
+            "rank": 12807,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄒㄧㄣ",
+            "_id": "4cd13b43108179794ca03cf248e144ef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lo; lo lắng; bận tâm; lo ngại; băn khoăn; canh cánh bên lòng",
+                            "explain": "牵挂在心上;挂念",
+                            "examples": [
+                                {
+                                    "m": "anh ấy lo cho gia đình, hận không thể về ngay.",
+                                    "p_vn": "anh ay lo cho gia dinh han khong the ve ngay",
+                                    "_id": "aab36f5c07381e218cbba7c50167d1b2",
+                                    "id": 14830,
+                                    "type": "e_cnvi",
+                                    "e": "他挂心家里，恨不得马上赶回去。",
+                                    "p_cn": "ta guaxin jiali henbude mashang gan huiqu",
+                                    "p": "tā guàxīn jiālǐ，hènbùdé mǎshàng gǎnhúiqù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 86
+            },
+            "snym": {
+                "syno": [
+                    "挂念",
+                    "挂记",
+                    "牵挂",
+                    "萦心"
+                ],
+                "anto": [
+                    "放心",
+                    "操心"
+                ]
+            },
+            "cn_vi": "quải tâm",
+            "pinyin": "guàxīn",
+            "word": "挂心",
+            "id": 20818,
+            "phonetic": "guaxin",
+            "rank": 44868,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄕㄨㄞˋ",
+            "_id": "a06bbb7e42c7cd96e2d5a1f26beda0ca",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nắm giữ ấn soái; nắm giữ; đứng đầu; làm thống soái",
+                            "explain": "掌帅印，当元帅比喻居于领导、统帅地位",
+                            "examples": [
+                                {
+                                    "m": "xưởng trưởng nắm giữ công việc chất lượng của sản phẩm.",
+                                    "p_vn": "xuong truong nam giu cong viec chat luong cua san pham",
+                                    "_id": "e10da2938d65d1508bd1b3ab608beffb",
+                                    "id": 14828,
+                                    "type": "e_cnvi",
+                                    "e": "厂长挂帅抓产品质量工作。",
+                                    "p_cn": "chang zhang guashuai zhua chanpin zhi liang gongzuo",
+                                    "p": "chǎng zhǎng guàshuài zhuā chǎnpǐn zhí liàng gōngzuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 49
+            },
+            "snym": null,
+            "cn_vi": "quải suất",
+            "pinyin": "guàshuài",
+            "word": "挂帅",
+            "id": 20809,
+            "phonetic": "guashuai",
+            "rank": 58207,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧˋㄍㄨㄚˋ",
+            "_id": "0d80786009f243702a8d60272c9fee1c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "treo tường",
+                            "explain": "悬挂在墙上的工艺美术品",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 65
+            },
+            "snym": null,
+            "cn_vi": "bích quải",
+            "pinyin": "bìguà",
+            "word": "壁挂",
+            "id": 3116,
+            "phonetic": "bigua",
+            "rank": 51220,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄚˋㄇㄚˇ",
+            "_id": "59604393c3c9442d81c7776a3d3028b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Trojan horse, để thêm phần mềm độc hại vào một trang web hoặc chương trình (máy tính)",
+                            "explain": "Trojan horse, to add malware to a website or program (computing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "quải mã",
+            "pinyin": "guà mǎ",
+            "word": "挂马",
+            "id": 91566,
+            "phonetic": "guama",
+            "rank": 139843,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "挂"
+}

@@ -1,0 +1,2743 @@
+{
+    "total": 561,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "cì",
+                "examples": "",
+                "measure": "次"
+            },
+            "topic": "16",
+            "zhuyin": "ㄐㄧㄠˋㄒㄩㄣ˙",
+            "_id": "8599624194761058d1d34d31d9028179",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "câu chữ \"把\"",
+                            "examples": [
+                                91160,
+                                112499
+                            ],
+                            "struct": "A + 把 + B + 教训 + 了 + 一顿"
+                        },
+                        {
+                            "explain": "dạy dỗ A về B",
+                            "examples": [
+                                112495,
+                                112496
+                            ],
+                            "struct": "教训 + A + 关于 +B"
+                        },
+                        {
+                            "explain": "dạy dỗ/ dạy A được/ không được làm gì",
+                            "examples": [
+                                112497,
+                                112498
+                            ],
+                            "struct": "教训 + A+ 要/不要 + 做某事"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dạy; dạy bảo; giáo huấn; dạy dỗ",
+                            "explain": "教育训戒",
+                            "examples": [
+                                {
+                                    "m": "Mẹ anh đã dạy anh không được nói dối.",
+                                    "p_vn": "me anh da day anh khong duoc noi doi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cc90a5c",
+                                    "id": 112493,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈教训他别总撒谎。",
+                                    "p_cn": "mama jiaoxun ta bie zong sahuang.",
+                                    "p": "māma jiàoxùn tā bié zǒng sāhuǎng."
+                                },
+                                {
+                                    "m": "Ông nội dạy tôi phải trung thực và giữ chữ tín.",
+                                    "p_vn": "ong noi day toi phai trung thuc va giu chu tin.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cc918ba",
+                                    "id": 112494,
+                                    "type": "e_cnvi",
+                                    "e": "爷爷教训我要诚实守信。",
+                                    "p_cn": "yeye jiaoxun wo yao chengshi shouxin.",
+                                    "p": "yéye jiàoxùn wǒ yào chéngshí shǒuxìn."
+                                },
+                                {
+                                    "m": "Chị dạy dỗ em trai không được lười biếng.",
+                                    "p_vn": "chi day do em trai khong duoc luoi bieng.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c4cb6b4",
+                                    "id": 133841,
+                                    "type": "e_cnvi",
+                                    "e": "姐姐教训弟弟不要偷懒。",
+                                    "p_cn": "jiejie jiaoxun didi buyao toulan.",
+                                    "p": "jiějie jiàoxùn dìdi bùyào tōulǎn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "\"教训\" vai trò trung tâm ngữ",
+                            "examples": [
+                                133836,
+                                133837
+                            ],
+                            "struct": "Tính từ + 的 + 教训"
+                        },
+                        {
+                            "explain": "hành động liên quan đến bài học",
+                            "examples": [
+                                133838,
+                                133839
+                            ],
+                            "struct": "Động từ + 教训"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bài học",
+                            "explain": "指从错误、挫折中取得的经验",
+                            "examples": [
+                                {
+                                    "m": "Tiếp thu bài học kinh nghiệm, cải tiến công tác.",
+                                    "p_vn": "tiep thu bai hoc kinh nghiem, cai tien cong tac.",
+                                    "_id": "e14f2aec4197706c076381c47296e816",
+                                    "id": 20979,
+                                    "type": "e_cnvi",
+                                    "e": "接受教训改进工作。",
+                                    "p_cn": "jieshou jiaoxun gaijin gongzuo。",
+                                    "p": "jiēshòu jiàoxùn gǎijìn gōngzuò。"
+                                },
+                                {
+                                    "m": "Chúng ta phải ghi nhớ những bài học lịch sử.",
+                                    "p_vn": "chung ta phai ghi nho nhung bai hoc lich su.",
+                                    "_id": "329486f68b2b4177e0301e5c722974a1",
+                                    "id": 85507,
+                                    "type": "e_cnvi",
+                                    "e": "我们要牢记历史的教训。",
+                                    "p_cn": "women yao laoji lishi de jiaoxun.",
+                                    "p": "wǒmen yào láojì lìshǐ de jiàoxùn."
+                                },
+                                {
+                                    "m": "Đây là một bài học sâu sắc.",
+                                    "p_vn": "day la mot bai hoc sau sac.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cc90365",
+                                    "id": 112491,
+                                    "type": "e_cnvi",
+                                    "e": "这是个深刻的教训。",
+                                    "p_cn": "zhe shige shenke de jiaoxun.",
+                                    "p": "zhè shìgè shēnkè de jiàoxùn."
+                                },
+                                {
+                                    "m": "Bài học này thật khó quên.",
+                                    "p_vn": "bai hoc nay that kho quen.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cc908d0",
+                                    "id": 112492,
+                                    "type": "e_cnvi",
+                                    "e": "这次教训让人刻骨铭心。",
+                                    "p_cn": "zhe ci jiaoxun rang ren kegumingxin.",
+                                    "p": "zhè cì jiàoxùn ràng rén kègǔmíngxīn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 367,
+                "search": 4646
+            },
+            "snym": {
+                "syno": [
+                    "经验",
+                    "教育",
+                    "教会",
+                    "训诫",
+                    "教养",
+                    "训诲",
+                    "教诲",
+                    "教导",
+                    "训导",
+                    "调教"
+                ],
+                "anto": [
+                    "表扬",
+                    "赞扬"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "jiàoxùn",
+            "cn_vi": "giáo huấn",
+            "word": "教训",
+            "id": 29317,
+            "phonetic": "jiaoxun",
+            "rank": 2588,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄑㄩˇㄐㄧㄠˋㄒㄩㄣ˙",
+            "_id": "e8b34718f9af405cae3f15ff947bbcbf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Học một bài học",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta nên học hỏi từ sự tan rã của Syria",
+                                    "p_vn": "Chung ta nen hoc hoi tu su tan ra cua Syria",
+                                    "_id": "2741eacbb17840f5971a155c41c99ad0",
+                                    "id": 55649,
+                                    "type": "e_cnvi",
+                                    "e": "我们应当从叙利亚的解体中吸取教训",
+                                    "p_cn": "Women yingdang cong xuliya de jieti zhong xiqu jiaoxun",
+                                    "p": "Wǒmen yīngdāng cóng xùlìyǎ de jiětǐ zhōng xīqǔ jiàoxùn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 49,
+                "search": 427
+            },
+            "snym": null,
+            "cn_vi": "hấp thủ giáo huấn",
+            "pinyin": "xīqǔ jiàoxùn",
+            "word": "吸取教训",
+            "id": 84974,
+            "phonetic": "xiqujiaoxun",
+            "rank": 17625,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠˋㄩˋㄒㄩㄣ˙ㄌㄧㄢˋ",
+            "_id": "663ee483db0445adac858ac8e4f66aa5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bồi dưỡng giáo dục",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Đối với ngành công nghiệp làm tóc mà nói, bồi dưỡng và đào tạo là những vấn đề rất quan trọng.",
+                                    "p_vn": "Doi voi nganh cong nghiep lam toc ma noi, boi duong va dao tao la nhung van de rat quan trong.",
+                                    "_id": "3290e45dc694493b9c4a6ff6fbe72596",
+                                    "id": 54884,
+                                    "type": "e_cnvi",
+                                    "e": "对于以人为主体的美发业来说，教育训练是很重要的课题。",
+                                    "p_cn": "Duiyu yi renwei zhuti di meifa ye lai shuo, jiaoyu xunlian shi hen zhongyao de keti.",
+                                    "p": "Duìyú yǐ rénwéi zhǔtǐ dì měifǎ yè lái shuō, jiàoyù xùnliàn shì hěn zhòngyào de kètí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 55
+            },
+            "snym": null,
+            "cn_vi": "giáo dục huấn luyện",
+            "pinyin": "jiàoyù xùnliàn",
+            "word": "教育训练",
+            "id": 84163,
+            "phonetic": "jiaoyuxunlian",
+            "rank": 55304,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c2182ecfd0384dfab84c63d95c9f4bb9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "bài học xương máu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "huyết đích giáo huấn",
+            "pinyin": "xuè de jiàoxùn",
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "word": "血的教训",
+            "id": 176100,
+            "phonetic": "xuedejiaoxun",
+            "rank": 107189,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "98a2e1e2baca4c26b8ba6cf57c3037b8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bài học xương máu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thâm khắc đích giáo huấn",
+            "pinyin": "shēnkè de jiàoxùn",
+            "popularity": {
+                "notebook": 4,
+                "search": 12
+            },
+            "word": "深刻的教训",
+            "id": 176101,
+            "phonetic": "shenkedejiaoxun",
+            "rank": 99005,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": {
+                "pinyin": "",
+                "examples": "",
+                "measure": ""
+            },
+            "zhuyin": "ㄒㄩㄣ˙",
+            "_id": "c722e44ed84bc5114580103280865362",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "khiển trách; khóc sau khi bị khiển trách",
+                            "examples": [
+                                131758,
+                                131758
+                            ],
+                            "struct": "训 + 一顿/哭"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dạy bảo; khuyên bảo; khuyên răn",
+                            "explain": "教导；告诫",
+                            "examples": [
+                                {
+                                    "m": "Cha dạy bảo con cái phải trung thực.",
+                                    "p_vn": "cha day bao con cai phai trung thuc.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ed66b0",
+                                    "id": 131695,
+                                    "type": "e_cnvi",
+                                    "e": "父亲训孩子要诚实。",
+                                    "p_cn": "fuqin xun haizi yao chengshi.",
+                                    "p": "fùqīn xùn háizi yào chéngshí."
+                                },
+                                {
+                                    "m": "Anh ấy thường dạy bảo em trai tôn trọng người lớn.",
+                                    "p_vn": "anh ay thuong day bao em trai ton trong nguoi lon.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ed6854",
+                                    "id": 131696,
+                                    "type": "e_cnvi",
+                                    "e": "他常训弟弟尊重长辈。",
+                                    "p_cn": "ta chang xun didi zunzhong zhangbei.",
+                                    "p": "tā cháng xùn dìdi zūnzhòng zhǎngbèi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giải thích nghĩa từ; tự giải",
+                            "explain": "词义解释",
+                            "examples": [
+                                {
+                                    "m": "Chữ này giải nghĩa là thế này.",
+                                    "p_vn": "chu nay giai nghia la the nay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ee87a5",
+                                    "id": 131728,
+                                    "type": "e_cnvi",
+                                    "e": "这个字训是这样的。",
+                                    "p_cn": "zhege zi xun shi zheyang de.",
+                                    "p": "zhège zì xùn shì zhèyàng de."
+                                },
+                                {
+                                    "m": "Giải nghĩa này rất có lý.",
+                                    "p_vn": "giai nghia nay rat co ly.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ee8c05",
+                                    "id": 131729,
+                                    "type": "e_cnvi",
+                                    "e": "这个训很是有道理。",
+                                    "p_cn": "zhege xun hen shi you daoli.",
+                                    "p": "zhège xùn hěn shì yǒu dàolǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "huấn luyện; tập luyện",
+                            "explain": "教练",
+                            "examples": [
+                                {
+                                    "m": "Các diễn viên triển khai tập luyện biểu diễn.",
+                                    "p_vn": "cac dien vien trien khai tap luyen bieu dien.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ef44b1",
+                                    "id": 131748,
+                                    "type": "e_cnvi",
+                                    "e": "演员展开表演训练。",
+                                    "p_cn": "yanyuan zhankai biaoyan xunlian.",
+                                    "p": "yǎnyuán zhǎnkāi biǎoyǎn xùnliàn."
+                                },
+                                {
+                                    "m": "Các vũ công tập luyện mỗi ngày.",
+                                    "p_vn": "cac vu cong tap luyen moi ngay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ef45bf",
+                                    "id": 131749,
+                                    "type": "e_cnvi",
+                                    "e": "舞者每天进行训练。",
+                                    "p_cn": "wu zhe meitian jinxing xunlian.",
+                                    "p": "wǔ zhě měitiān jìnxíng xùnliàn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lời giáo huấn; lời dạy bảo",
+                            "explain": "教导或训诫的话",
+                            "examples": [
+                                {
+                                    "m": "Lời dạy bảo của ông nội cả đời không quên.",
+                                    "p_vn": "loi day bao cua ong noi ca doi khong quen.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ede573",
+                                    "id": 131710,
+                                    "type": "e_cnvi",
+                                    "e": "爷爷的训终身难忘。",
+                                    "p_cn": "yeye de xun zhongshen nanwang.",
+                                    "p": "yéye de xùn zhōngshēn nánwàng."
+                                },
+                                {
+                                    "m": "Lời dạy bảo của cha được ghi nhớ trong tâm.",
+                                    "p_vn": "loi day bao cua cha duoc ghi nho trong tam.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571edf4d0",
+                                    "id": 131711,
+                                    "type": "e_cnvi",
+                                    "e": "父亲的训铭记于心。",
+                                    "p_cn": "fuqin de xun mingji yu xin.",
+                                    "p": "fùqīn de xùn míngjì yú xīn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chuẩn mực; phép tắc; nguyên tắc chuẩn mực",
+                            "explain": "准则",
+                            "examples": [
+                                {
+                                    "m": "Quy tắc ngành nghề không được vi phạm.",
+                                    "p_vn": "quy tac nganh nghe khong duoc vi pham.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ee4529",
+                                    "id": 131719,
+                                    "type": "e_cnvi",
+                                    "e": "行业训不得去违背。",
+                                    "p_cn": "hangye xun bude qu weibei.",
+                                    "p": "hángyè xùn bùdé qù wéibèi."
+                                },
+                                {
+                                    "m": "Nguyên tắc đạo đức phải được nhớ kỹ mọi lúc.",
+                                    "p_vn": "nguyen tac dao duc phai duoc nho ky moi luc.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ee4d1b",
+                                    "id": 131720,
+                                    "type": "e_cnvi",
+                                    "e": "道德训要时刻牢记。",
+                                    "p_cn": "daode xun yao shike laoji.",
+                                    "p": "dàodé xùn yào shíkè láojì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 55,
+                "search": 1642
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "xùn",
+            "cn_vi": "huấn",
+            "word": "训",
+            "id": 57734,
+            "phonetic": "xun",
+            "rank": 6553,
+            "lv_tocfl": 5,
+            "compound": "训斥 ; 训词 ; 训导 ; 训迪 ; 训诂 ; 训话 ; 训诲 ; 训诫 ; 训练 ; 训令 ; 训示 ; 训育 ; 训喻"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠˋㄩˋㄆㄟˊㄒㄩㄣ˙ㄅㄨˋ",
+            "topic": "33",
+            "_id": "64106710013d5d54fc32fefd74ecd89b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bộ Giáo dục và đào tạo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 82
+            },
+            "snym": null,
+            "cn_vi": "giáo dục bồi huấn bộ",
+            "pinyin": "jiàoyù péixùn bù",
+            "word": "教育培训部",
+            "id": 81723,
+            "phonetic": "jiaoyupeixunbu",
+            "rank": 45942,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄡˋㄒㄩㄣ˙",
+            "_id": "f5a15b22e42418237c7058b020645adc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thụ huấn; huấn luyện; đi huấn luyện",
+                            "explain": "接受训练",
+                            "examples": [
+                                {
+                                    "m": "Có bao nhiêu phi công được đào tạo không vượt qua cuộc kiểm tra lần trước và bị loại bỏ?",
+                                    "p_vn": "Co bao nhieu phi cong duoc dao tao khong vuot qua cuoc kiem tra lan truoc va bi loai bo?",
+                                    "_id": "b293296c9b1b4cba9dcc4f649490ad0d",
+                                    "id": 73562,
+                                    "type": "e_cnvi",
+                                    "e": "有多少受训的飞行员没有通过上次考核而被淘汰？",
+                                    "p_cn": "you duoshao shouxun de feixingyuan meiyou tongguo shangci kaohe er bei taotai",
+                                    "p": "yǒu duōshao shòuxùn de fēixíngyuán méiyǒu tōngguò shàngcì kǎohé ér bèi táotài"
+                                },
+                                {
+                                    "m": "Những thành viên của đội tác chiến đã được đào tạo sẽ tham gia vào khóa huấn luyện tác chiến gian khổ và mệt mỏi.",
+                                    "p_vn": "Nhung thanh vien cua doi tac chien da duoc dao tao se tham gia vao khoa huan luyen tac chien gian kho va met moi.",
+                                    "_id": "2503631c25f14c329f2ba2b5388f8762",
+                                    "id": 73563,
+                                    "type": "e_cnvi",
+                                    "e": "受训的突击队员要参加令人筋疲力尽的突击课程.",
+                                    "p_cn": "shouxun de tujiduiyuan yao canjia lingren jinpilijin de tuji kecheng",
+                                    "p": "shòuxùn de tūjīduìyuán yào cānjiā lìngrén jīnpílìjìn de tūjī kèchéng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 73
+            },
+            "snym": null,
+            "cn_vi": "thụ huấn",
+            "pinyin": "shòuxùn",
+            "word": "受训",
+            "id": 47920,
+            "phonetic": "shouxun",
+            "rank": 48607,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄕˋ",
+            "_id": "cf73640c773c4c42b507d8aa3971a15d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "diễn dịch",
+                            "explain": "interpretation",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giải thích",
+                            "explain": "to explain",
+                            "examples": []
+                        },
+                        {
+                            "mean": "diễn giải",
+                            "explain": "to interpret",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": {
+                "syno": [
+                    "训责",
+                    "训斥",
+                    "注解",
+                    "斥责"
+                ]
+            },
+            "cn_vi": "huấn thích",
+            "pinyin": "xùn shì",
+            "word": "训释",
+            "id": 99811,
+            "phonetic": "xunshi",
+            "rank": 111554,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄏㄨㄚˋ",
+            "_id": "caa3b6a49edc6e5cde85714557e65079",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lời dạy bảo; lời giáo huấn (của người bề trên)",
+                            "explain": "旧时指上级对下级讲教导和告诫的话",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 76
+            },
+            "snym": null,
+            "cn_vi": "huấn thoại",
+            "pinyin": "xùnhuà",
+            "word": "训话",
+            "id": 57740,
+            "phonetic": "xunhua",
+            "rank": 47771,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˊㄒㄩㄣ˙",
+            "_id": "0b07b2be8f544daf9c449fdd9453dc67",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để hoàn thành khóa đào tạo (Tw)",
+                            "explain": "to complete the training course (Tw)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "kết huấn",
+            "pinyin": "jié xùn",
+            "word": "结训",
+            "id": 99162,
+            "phonetic": "jiexun",
+            "rank": 111962,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "167c477dc44b45bbb401f64383c828e5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tuyên ngôn",
+                            "explain": "(國家、政黨或團體) 對重大問題公開表示意見以進行宣傳號召的文告。",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tuyên cáo; tuyên bố",
+                            "explain": "宣告;聲明。",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tuyên huấn",
+                            "explain": "宣传训练",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "tuyên huấn",
+            "pinyin": "xuān xùn",
+            "word": "宣训",
+            "id": 171570,
+            "phonetic": "xuanxun",
+            "rank": 153253,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄏㄨㄟˋ",
+            "_id": "7c0c1e99b5cc13cf1221ba89c5bb248e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dạy bảo; huấn hối",
+                            "explain": "教导",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 9
+            },
+            "snym": {
+                "syno": [
+                    "教育",
+                    "教会",
+                    "训诫",
+                    "教训",
+                    "指导",
+                    "教诲",
+                    "教导",
+                    "训导"
+                ]
+            },
+            "cn_vi": "huấn hối",
+            "pinyin": "xùnhuì",
+            "word": "训诲",
+            "id": 57741,
+            "phonetic": "xunhui",
+            "rank": 105136,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄥˇㄒㄩㄣ˙",
+            "_id": "00bf5e5e57c4fcb7761fb59a25e55154",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chỉnh huấn; chỉnh đốn và huấn luyện",
+                            "explain": "整顿和训练",
+                            "examples": [
+                                {
+                                    "m": "chỉnh đốn huấn luyện cán bộ",
+                                    "p_vn": "chinh don huan luyen can bo",
+                                    "_id": "378b7cd639860e1d7008c0cf82fce20f",
+                                    "id": 49789,
+                                    "type": "e_cnvi",
+                                    "e": "整训干部",
+                                    "p_cn": "zhengxun ganbu",
+                                    "p": "zhěngxùn gānbù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "chỉnh huấn",
+            "pinyin": "zhěngxùn",
+            "word": "整训",
+            "id": 64156,
+            "phonetic": "zhengxun",
+            "rank": 122832,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄥㄒㄩㄣ˙",
+            "_id": "7409fbc263dd46d5a2ce3c5c0dc8b4fb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giải thích một ký tự hoặc từ bằng cách sử dụng một từ đồng âm",
+                            "explain": "explaining a character or word by using a homophone",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "thanh huấn",
+            "pinyin": "shēng xùn",
+            "word": "声训",
+            "id": 107286,
+            "phonetic": "shengxun",
+            "rank": 127066,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄐㄧㄝˋ",
+            "_id": "8db72e5f6af87d76339a70d3da3bbf40",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "răn dạy; huấn giới",
+                            "explain": "教导和告诫",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phê bình giáo dục (loại hình phạt nhẹ nhất, toà án nhân dân trên danh nghĩa quốc gia tiến hành phê bình giáo dục công khai người phạm tội)",
+                            "explain": "一种最轻的刑罚，人民法院以国家的名义对犯罪者进行公开的批评教育",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 121
+            },
+            "snym": {
+                "syno": [
+                    "训斥",
+                    "教育",
+                    "教会",
+                    "告戒",
+                    "训诲",
+                    "教诲",
+                    "教导",
+                    "教训",
+                    "教诫"
+                ],
+                "anto": [
+                    "鼓舞"
+                ]
+            },
+            "cn_vi": "huấn giới",
+            "pinyin": "xùnjiè",
+            "word": "训诫",
+            "id": 57742,
+            "phonetic": "xunjie",
+            "rank": 37607,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄩˋ",
+            "_id": "1c3f523553adbf726524bbd50a638faa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "动",
+                    "means": [
+                        {
+                            "mean": "giáo dục đạo đức",
+                            "explain": "旧时指学校里的道德教育",
+                            "examples": []
+                        },
+                        {
+                            "mean": "huấn",
+                            "explain": "教育训戒",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "huấn dục",
+            "pinyin": "xùnyù",
+            "word": "训育",
+            "id": 57746,
+            "phonetic": "xunyu",
+            "rank": 92729,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄉㄠˇ",
+            "_id": "a2029aa8bf2831aa75a6a8acc217c7a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "huấn đạo; dạy bảo; khuyên răn",
+                            "explain": "教育训戒",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 67
+            },
+            "snym": {
+                "syno": [
+                    "教育",
+                    "教会",
+                    "指导",
+                    "训诲",
+                    "教诲",
+                    "教导",
+                    "教训",
+                    "训示",
+                    "管教",
+                    "教诫"
+                ],
+                "anto": [
+                    "赞扬"
+                ]
+            },
+            "cn_vi": "huấn đạo",
+            "pinyin": "xùndǎo",
+            "word": "训导",
+            "id": 57737,
+            "phonetic": "xundao",
+            "rank": 50707,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄩㄣㄒㄩㄣ˙",
+            "_id": "a50bf1b2596650a3670b76f3842dc81a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "huấn luyện quân sự; quân huấn",
+                            "explain": "军事训练",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 63,
+                "search": 724
+            },
+            "snym": {
+                "syno": [
+                    "训练"
+                ]
+            },
+            "cn_vi": "quân huấn",
+            "pinyin": "jūnxùn",
+            "word": "军训",
+            "id": 31548,
+            "phonetic": "junxun",
+            "rank": 12438,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨˋㄒㄩㄣ˙",
+            "_id": "180cbd05ef532cd2571fc8793f26ad7f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giải thích qua lại",
+                            "explain": "(两处或几处的文字) 相互注释",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "hỗ huấn",
+            "pinyin": "hù xùn",
+            "word": "互训",
+            "id": 24241,
+            "phonetic": "huxun",
+            "rank": 116724,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄩˋ",
+            "_id": "7199cd5d4d725eaeb47025dbfc0b1505",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "huấn dụ; giảng giải khuyên bảo",
+                            "explain": "训诲;开导",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "huấn dụ",
+            "pinyin": "xùn yù",
+            "word": "训喻",
+            "id": 57747,
+            "phonetic": "xunyu",
+            "rank": 114898,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄉㄧˊ",
+            "_id": "001bccc37153fba6e4ee862ad30cc6e6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dẫn dắt dạy bảo",
+                            "explain": "教诲开导",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "huấn địch",
+            "pinyin": "xùn dí",
+            "word": "训迪",
+            "id": 57738,
+            "phonetic": "xundi",
+            "rank": 113658,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "每天坚持做这4个训练，让你增强身体肌肉力量，保持活力和精力。",
+                "measure": "个"
+            },
+            "topic": "16, 68, 75",
+            "zhuyin": "ㄒㄩㄣ˙ㄌㄧㄢˋ",
+            "_id": "08348a4e9a7789a302629af58b5b87d1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                78685,
+                                78687
+                            ],
+                            "struct": "训练 + Tân ngữ (警察、军人、运动员、狗、听力、想象力、考试能力)"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                78693
+                            ],
+                            "struct": "严格/紧张/认真/刻苦/反复/科学 (+ 地) + 训练"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                78695,
+                                78696
+                            ],
+                            "struct": "训练 + Thời gian/一下/好/出/成/Số 次"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "huấn luyện; tập luyện; tôi luyện; rèn luyện; xổ",
+                            "explain": "有计划有步骤地使具有某种特长或技能",
+                            "examples": [
+                                {
+                                    "m": "Chó nghiệp vụ đều phải trải qua sự huấn luyện.",
+                                    "p_vn": "cho nghiep vu deu phai trai qua su huan luyen.",
+                                    "_id": "f5cef6864342d1b24d836a26e16828e8",
+                                    "id": 43716,
+                                    "type": "e_cnvi",
+                                    "e": "警犬都是受过训练的。",
+                                    "p_cn": "jingquan dou shi shouguo xunlian de.",
+                                    "p": "jǐngquǎn dōu shì shòuguò xùnliàn de."
+                                },
+                                {
+                                    "m": "Bọn họ đang huấn luyện.",
+                                    "p_vn": "bon ho dang huan luyen.",
+                                    "_id": "b2776ac4a861e06178aa5de73bbe26a5",
+                                    "id": 78678,
+                                    "type": "e_cnvi",
+                                    "e": "他们正在训练。",
+                                    "p_cn": "tamen zhengzai xunlian.",
+                                    "p": "tāmen zhèngzài xùnliàn."
+                                },
+                                {
+                                    "m": "Bọn tôi tập luyện rất vất vả, 10 tiếng một ngày.",
+                                    "p_vn": "bon toi tap luyen rat vat va, 10 tieng mot ngay.",
+                                    "_id": "b2776ac4a861e06178aa5de73bbe2f5d",
+                                    "id": 78681,
+                                    "type": "e_cnvi",
+                                    "e": "我们训练得非常辛苦，一天训练十个小时。",
+                                    "p_cn": "women xunlian de feichang xinku, yitian xunlian shi ge xiaoshi.",
+                                    "p": "wǒmen xùnliàn de fēicháng xīnkǔ, yītiān xùnliàn shí gè xiǎoshí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tập dượt",
+                            "explain": "以队列形式学习和练习军事或体育等方面的技能",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "việc huấn luyện; việc đào tạo; việc tập luyện",
+                            "explain": "教练、操练兵士，教育学名词，与教学意义相近; 训练的目的是使受训者获得一项行为方式或技能。",
+                            "examples": [
+                                {
+                                    "m": "Các vận động viên cần phải trải qua một quá trình huấn luyện nghiêm ngặt",
+                                    "p_vn": "cac van dong vien can phai trai qua mot qua trinh huan luyen nghiem ngat",
+                                    "_id": "b2776ac4a861e06178aa5de73bbf8c02",
+                                    "id": 78702,
+                                    "type": "e_cnvi",
+                                    "e": "运动员需要经过严格的训练。",
+                                    "p_cn": "yundongyuan xuyao jingguo yange de xunlian.",
+                                    "p": "yùndòngyuán xūyào jīngguò yángé de xùnliàn."
+                                },
+                                {
+                                    "m": "Việc huấn luyện của cô ấy rất gian khổ, nhưng cô ấy luôn kiên trì.",
+                                    "p_vn": "viec huan luyen cua co ay rat gian kho, nhung co ay luon kien tri.",
+                                    "_id": "b2776ac4a861e06178aa5de73bbf9b82",
+                                    "id": 78703,
+                                    "type": "e_cnvi",
+                                    "e": "她的训练非常辛苦，但她一直坚持下来了。",
+                                    "p_cn": "ta de xunlian feichang xinku, dan ta yizhi jianchi xialaile.",
+                                    "p": "tā de xùnliàn fēicháng xīnkǔ, dàn tā yīzhí jiānchí xiàláile."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- Đối tượng của \"训练\" có thể là người cũng có thể là động vật, đối tượng của \"操练\" chỉ có thể là người.",
+                    "title": "Phân biệt \"操练\" và \"训练\"",
+                    "words": [
+                        "操练",
+                        "训练"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "磨炼",
+                    "练习",
+                    "操练",
+                    "磨练",
+                    "锻练",
+                    "陶冶",
+                    "锻炼",
+                    "军训",
+                    "集训",
+                    "养成",
+                    "培训",
+                    "演练",
+                    "训服",
+                    "磨砺"
+                ],
+                "anto": [
+                    "贪玩"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "xùnliàn",
+            "cn_vi": "huấn luyện",
+            "popularity": {
+                "notebook": 439,
+                "search": 4810
+            },
+            "word": "训练",
+            "id": 57743,
+            "phonetic": "xunlian",
+            "rank": 2497,
+            "lv_tocfl": 3,
+            "compound": "飞行训练 ; 对口训练 ; 干部训练班 ; 耐力训练 ; 暑期训练班 ; 外展训练"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˊㄒㄩㄣ˙",
+            "_id": "3d0e1391eff1482ca0e14a880bec2531",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khuyến khích thường xuyên",
+                            "explain": "regular exhortations",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "di huấn",
+            "pinyin": "yí xùn",
+            "word": "彝训",
+            "id": 91266,
+            "phonetic": "yixun",
+            "rank": 155515,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˊㄒㄩㄣ˙",
+            "_id": "7e015bcaa9c33ce9d7ad44877f549825",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "di huấn",
+                            "explain": "死者生前所说的有教育意义的话",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "di huấn",
+            "pinyin": "yíxùn",
+            "word": "遗训",
+            "id": 59599,
+            "phonetic": "yixun",
+            "rank": 104276,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄘˊ",
+            "_id": "858e2f147b078723d852d9aed09fe4ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lời giáo huấn; lời răn dạy",
+                            "explain": "训话时所说的话",
+                            "examples": []
+                        },
+                        {
+                            "mean": "từ huấn",
+                            "explain": "教训的言语",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 7
+            },
+            "snym": {
+                "anto": [
+                    "答词"
+                ]
+            },
+            "cn_vi": "huấn từ",
+            "pinyin": "xùncí",
+            "word": "训词",
+            "id": 57736,
+            "phonetic": "xunci",
+            "rank": 114516,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cacae26aa8e547b3bc2bd7eee37c1003",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "huấn luyện quân sự; tập huấn quân sự",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "quân huấn",
+            "pinyin": "jūn xùn",
+            "word": "君训",
+            "id": 167112,
+            "phonetic": "junxun",
+            "rank": 142729,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄨㄥㄒㄩㄣ˙",
+            "_id": "dfda4d65904ae024c26fa0f09f40de88",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "huấn luyện vào mùa đông",
+                            "explain": "冬季训练",
+                            "examples": [
+                                {
+                                    "m": "sắp đưa những người mới gia nhập vào đội bóng rổ huấn luyện vào mùa đông.",
+                                    "p_vn": "sap dua nhung nguoi moi gia nhap vao doi bong ro huan luyen vao mua dong",
+                                    "_id": "b880ade2d29bc701f406f520aa52b4b0",
+                                    "id": 8978,
+                                    "type": "e_cnvi",
+                                    "e": "篮球队即将投入冬训。",
+                                    "p_cn": "lanqiu dui jijiang touru dongxun",
+                                    "p": "lánqíudùi jíjiāng tóurù dōngxùn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "đông huấn",
+            "pinyin": "dōngxùn",
+            "word": "冬训",
+            "id": 13602,
+            "phonetic": "dongxun",
+            "rank": 107492,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9b7973ac62944140bf292a6c61b33bda",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lời dạy của mẹ (phân biệt với Nghiêm huấn, là lời dạy của cha).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "từ huấn",
+            "pinyin": "cí xùn",
+            "word": "慈训",
+            "id": 169774,
+            "phonetic": "cixun",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "beabc900722841ef9ecebcedc7d0fab4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chính huấn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chính huấn",
+            "pinyin": "zhèng xùn",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "政训",
+            "id": 174954,
+            "phonetic": "zhengxun",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄒㄩㄣ˙",
+            "_id": "26cd8a2808d2dd08e3a2b4392200d086",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tập huấn",
+                            "explain": "集中到一个地方训练",
+                            "examples": [
+                                {
+                                    "m": "cán bộ luân phiên nhau tập huấn.",
+                                    "p_vn": "can bo luan phien nhau tap huan",
+                                    "_id": "24371d6d5d4bc8dbc71294c621229cc2",
+                                    "id": 19553,
+                                    "type": "e_cnvi",
+                                    "e": "干部轮流集训。",
+                                    "p_cn": "ganbu lunliu jixun",
+                                    "p": "gānbù lúnlíu jíxùn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 186
+            },
+            "snym": {
+                "syno": [
+                    "训练",
+                    "培训",
+                    "练习"
+                ]
+            },
+            "cn_vi": "tập huấn",
+            "pinyin": "jíxùn",
+            "word": "集训",
+            "id": 27003,
+            "phonetic": "jixun",
+            "rank": 29601,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄔˋ",
+            "_id": "4f4fc19fb253cb4207dc036585ed1c03",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "răn dạy và quở mắng",
+                            "explain": "训诫和斥责",
+                            "examples": [
+                                {
+                                    "m": "anh trách mắng nó như vậy, nó có lỗi gì thế?",
+                                    "p_vn": "anh trach mang no nhu vay no co loi gi the",
+                                    "_id": "0aa702bba3d2c0097d846d206d4bfc72",
+                                    "id": 53081,
+                                    "type": "e_cnvi",
+                                    "e": "你这样训斥他，他有什么罪过?",
+                                    "p_cn": "ni zheyang xunchi ta ta you she me zuiguo",
+                                    "p": "nǐ zhèyàng xùnchì tā, tā yǒu shé me zuìguo?"
+                                },
+                                {
+                                    "m": "nó vừa bị mắng một trận, chán nản bỏ đi rồi.",
+                                    "p_vn": "no vua bi mang mot tran chan nan bo di roi",
+                                    "_id": "0eba9ae4e1fa60b733f7ea81032ed9c4",
+                                    "id": 18360,
+                                    "type": "e_cnvi",
+                                    "e": "他挨了一顿训斥，灰溜溜地走出来。",
+                                    "p_cn": "ta aile yi dun xunchi hui liuliu de zou chulai",
+                                    "p": "tā āile yī dùn xùnchì, huī liūliū de zǒu chūlái."
+                                },
+                                {
+                                    "m": "hở ra là lên giọng trách mắng người khác.",
+                                    "p_vn": "ho ra la len giong trach mang nguoi khac",
+                                    "_id": "c37a19b37409a495e39d3abc1c8d7d31",
+                                    "id": 6353,
+                                    "type": "e_cnvi",
+                                    "e": "动不动就打官腔训斥人。",
+                                    "p_cn": "dongbudong jiu da guanqiang xunchi ren",
+                                    "p": "dòngbùdòng jìu dǎguānqiāng xùnchì rén。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 108,
+                "search": 987
+            },
+            "snym": {
+                "syno": [
+                    "训诫",
+                    "训责",
+                    "谴责",
+                    "怒斥",
+                    "责备",
+                    "指责",
+                    "申斥",
+                    "训释",
+                    "改为",
+                    "训诂",
+                    "苛责"
+                ],
+                "anto": [
+                    "称赞",
+                    "勉励",
+                    "夸奖",
+                    "表扬"
+                ]
+            },
+            "cn_vi": "huấn xích",
+            "pinyin": "xùnchì",
+            "word": "训斥",
+            "id": 57735,
+            "phonetic": "xunchi",
+            "rank": 9933,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄥˋㄒㄩㄣ˙",
+            "_id": "58cfa083b79e4bc7b443ddba1cde1bf8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sắc lệnh hoàng gia",
+                            "explain": "imperial edict",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hướng dẫn của hiền nhân",
+                            "explain": "sage's instructions",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "thánh huấn",
+            "pinyin": "shèng xùn",
+            "word": "圣训",
+            "id": 107258,
+            "phonetic": "shengxun",
+            "rank": 113975,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9945e4223aea4ead8247ae95a40bcbfb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "huấn chính",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "huấn chính",
+            "pinyin": "xùn zhèng",
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "word": "训政",
+            "id": 183794,
+            "phonetic": "xunzheng",
+            "rank": 131955,
+            "kind": [
+                "n",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄞㄒㄩㄣ˙",
+            "_id": "c30d12f332304e6e8d2050a32109fa65",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Được giáo huấn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Được đào tạo như một sinh viên?",
+                                    "p_vn": "Duoc dao tao nhu mot sinh vien?",
+                                    "_id": "1beb2aa38687434f91423512b77c5879",
+                                    "id": 55323,
+                                    "type": "e_cnvi",
+                                    "e": "像学生一样挨训？",
+                                    "p_cn": "Xiang xuesheng yiyang ai xun?",
+                                    "p": "Xiàng xuéshēng yīyàng āi xùn?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 132
+            },
+            "snym": null,
+            "cn_vi": "ai huấn",
+            "pinyin": "āi xùn",
+            "word": "挨训",
+            "id": 84608,
+            "phonetic": "aixun",
+            "rank": 35825,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨˇㄒㄩㄣ˙",
+            "_id": "86314dd79fd07850fbd6056fe7292356",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cổ huấn; lời dạy của người xưa",
+                            "explain": "指古代流传下来的、可以作为准则的话",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 72
+            },
+            "snym": null,
+            "cn_vi": "cổ huấn",
+            "pinyin": "gǔxùn",
+            "word": "古训",
+            "id": 20376,
+            "phonetic": "guxun",
+            "rank": 48896,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨˋㄒㄩㄣ˙",
+            "_id": "671f730e182942d3a13a58c1484189a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giáo huấn cũ (ví dụ: hướng dẫn tôn giáo)",
+                            "explain": "old teaching (e.g. religious instruction)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "cố huấn",
+            "pinyin": "gù xùn",
+            "word": "故训",
+            "id": 91709,
+            "phonetic": "guxun",
+            "rank": 126948,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "16, 68, 75",
+            "zhuyin": "ㄆㄟˊㄒㄩㄣ˙",
+            "_id": "aa71a22035f769a297f5a96f5434d32a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "đào tạo ai đó",
+                            "examples": [
+                                76308,
+                                124389
+                            ],
+                            "struct": "培训 + Tân ngữ (老师、新员工、技术人员、飞行员)"
+                        },
+                        {
+                            "explain": "(làm, thực hiện, thực hiện, tham gia, chấp nhận) + đào tạo",
+                            "examples": [
+                                124390,
+                                124391
+                            ],
+                            "struct": "Động từ (做、进行、开展、参加、接受) + 培训"
+                        },
+                        {
+                            "explain": "đào tạo ...",
+                            "examples": [
+                                124392,
+                                124393
+                            ],
+                            "struct": "培训 + 出/出来/下去/起来/Số 次/Khoảng thời gian/一下"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "huấn luyện; đào tạo",
+                            "explain": "培养和训练 (技术工人、专业干部等)",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy tham gia lớp đào tạo kỹ thuật.",
+                                    "p_vn": "anh ay tham gia lop dao tao ky thuat.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4d22a93",
+                                    "id": 124385,
+                                    "type": "e_cnvi",
+                                    "e": "他参加了技术培训班。",
+                                    "p_cn": "ta canjiale jishu peixun ban.",
+                                    "p": "tā cānjiāle jìshù péixùn bān."
+                                },
+                                {
+                                    "m": "Nhân viên mới cần được đào tạo.",
+                                    "p_vn": "nhan vien moi can duoc dao tao.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4d230de",
+                                    "id": 124386,
+                                    "type": "e_cnvi",
+                                    "e": "新员工需要培训。",
+                                    "p_cn": "xin yuangong xuyao peixun.",
+                                    "p": "xīn yuángōng xūyào péixùn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 501,
+                "search": 5925
+            },
+            "snym": {
+                "syno": [
+                    "集训",
+                    "进修",
+                    "教学",
+                    "训练"
+                ],
+                "anto": [
+                    "自学"
+                ]
+            },
+            "lv_hsk_new": "4, 6",
+            "pinyin": "péixùn",
+            "cn_vi": "bồi huấn",
+            "word": "培训",
+            "id": 40461,
+            "phonetic": "peixun",
+            "rank": 1985,
+            "lv_tocfl": 5,
+            "compound": "培训班"
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄍㄨˇ",
+            "_id": "36bbbb3dcb1d0dce71822f57e31a40d9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "名",
+                    "means": [
+                        {
+                            "mean": "huấn hỗ; giải nghĩa từ trong sách cổ",
+                            "explain": "对古书字句的解释",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 57
+            },
+            "snym": {
+                "syno": [
+                    "考据",
+                    "训斥",
+                    "训故"
+                ]
+            },
+            "cn_vi": "huấn hỗ",
+            "pinyin": "xùngǔ",
+            "word": "训诂",
+            "id": 57739,
+            "phonetic": "xungu",
+            "rank": 54605,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄕˋ",
+            "_id": "5d30b69250bdc2ed70646340f992baa8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "huấn thị; dạy dỗ chỉ bảo",
+                            "explain": "上级对下级或长辈对晚辈的指示",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 35
+            },
+            "snym": {
+                "syno": [
+                    "训导",
+                    "训责"
+                ]
+            },
+            "cn_vi": "huấn thị",
+            "pinyin": "xùnshì",
+            "word": "训示",
+            "id": 57745,
+            "phonetic": "xunshi",
+            "rank": 67595,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩㄣ˙ㄊㄧㄠˊ",
+            "_id": "5f7dcabd4d494e46a4c0b2eb19d0e258",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hướng dẫn",
+                            "explain": "instruction",
+                            "examples": []
+                        },
+                        {
+                            "mean": "châm ngôn",
+                            "explain": "maxim",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đặt hàng",
+                            "explain": "order",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "huấn điều",
+            "pinyin": "xùn tiáo",
+            "word": "训条",
+            "id": 105510,
+            "phonetic": "xuntiao",
+            "rank": 104189,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄠˋㄒㄩㄣ˙",
+            "_id": "6ed15c24457c4a3795359cd6fc4671ee",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chăm sóc và giáo dục",
+                            "explain": "to care for and educate",
+                            "examples": []
+                        },
+                        {
+                            "mean": "huấn luyện",
+                            "explain": "to train",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "điệu huấn",
+            "pinyin": "diào xùn",
+            "word": "调训",
+            "id": 105554,
+            "phonetic": "diaoxun",
+            "rank": 121656,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "60",
+            "zhuyin": "ㄒㄩㄣ˙ㄌㄧㄥˋ",
+            "_id": "a37a37c5ba3fb8c413afa473d9d36a4d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "huấn lệnh; dạy bảo và ra lệnh; giáo lệnh",
+                            "explain": "机关晓谕下属或委派人员时所用的公文",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 14
+            },
+            "snym": {
+                "syno": [
+                    "喝令"
+                ]
+            },
+            "cn_vi": "huấn lệnh",
+            "pinyin": "xùnlìng",
+            "word": "训令",
+            "id": 57744,
+            "phonetic": "xunling",
+            "rank": 92368,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠˋㄒㄩㄣ˙",
+            "_id": "8e325544298ecc1b4b78cc91dac16ce2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khẩu hiệu của trường; những lời giáo huấn của nhà trường",
+                            "explain": "学校规定的对学生有指导意义的词语",
+                            "examples": [
+                                {
+                                    "m": "khẩu hiệu của trường Hồ Đại là đoàn kết, nghiêm túc, khẩn trương, linh hoạt.",
+                                    "p_vn": "khau hieu cua truong ho dai la doan ket nghiem tuc khan truong linh hoat",
+                                    "_id": "b8829ad1dabdc1e789314a494ea91f1e",
+                                    "id": 42433,
+                                    "type": "e_cnvi",
+                                    "e": "胡大的校训是团结、紧张、严肃、活泼。",
+                                    "p_cn": "hu da de xiaoxun shi tuanjie jinzhang yansu huopo",
+                                    "p": "húdà de xiàoxùn shì tuánjié 、 jǐnzhāng 、 yánsù 、 huópō。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 132
+            },
+            "snym": null,
+            "cn_vi": "hiệu huấn",
+            "pinyin": "xiàoxùn",
+            "word": "校训",
+            "id": 56001,
+            "phonetic": "xiaoxun",
+            "rank": 35833,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄒㄩㄣ˙",
+            "_id": "e9c2649f28dde3638084d8450561d482",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia huấn; lời giáo huấn trong gia đình",
+                            "explain": "对子孙立身处世、持家治业的教诲",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thói phép",
+                            "explain": "家长对子弟进行的关于道德、礼节的教育",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đình huấn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "gia huấn",
+            "pinyin": "jiā xùn",
+            "word": "家训",
+            "id": 27630,
+            "phonetic": "jiaxun",
+            "rank": 62906,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄧㄥˊㄒㄩㄣ˙",
+            "_id": "5c4377a77c494ac480e1a019f63b8d19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giáo dục từ cha",
+                            "explain": "education from father",
+                            "examples": []
+                        },
+                        {
+                            "mean": "học phí trong gia đình",
+                            "explain": "tuition within family",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đình huấn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "đình huấn",
+            "pinyin": "tíng xùn",
+            "word": "庭训",
+            "id": 102754,
+            "phonetic": "tingxun",
+            "rank": 138403,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "5ce48d9dde44472190bd397874e6703f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tin tức; thư từ。音信。",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "âm huấn",
+            "pinyin": "yīn xùn",
+            "word": "音训",
+            "id": 171493,
+            "phonetic": "yinxun",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄨㄣˊㄒㄩㄣ˙",
+            "_id": "0e2ca19e5348921a7dddc683a5841c78",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "luân phiên huấn luyện; huấn luyện nhân viên (nhân viên)",
+                            "explain": "(人员) 轮流训练",
+                            "examples": [
+                                {
+                                    "m": "cán bộ luân phiên đi huấn luyện.",
+                                    "p_vn": "can bo luan phien di huan luyen",
+                                    "_id": "8213e1fc20fa50565b507292e3924ea0",
+                                    "id": 27750,
+                                    "type": "e_cnvi",
+                                    "e": "干部轮训。",
+                                    "p_cn": "ganbu lunxun",
+                                    "p": "gānbù lúnxùn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "luân huấn",
+            "pinyin": "lúnxùn",
+            "word": "轮训",
+            "id": 36483,
+            "phonetic": "lunxun",
+            "rank": 101906,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠˋ",
+            "_id": "20c4e0a3da551e6012d181e5b4670757",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Dạy cái gì đó",
+                            "examples": [
+                                107222,
+                                108333
+                            ],
+                            "struct": "教 + Tân ngữ（课/ 英语/ 中文/ 历史）"
+                        },
+                        {
+                            "explain": "Dạy cho ai đó",
+                            "examples": [
+                                74663,
+                                107221
+                            ],
+                            "struct": "教 + 给 + Ai đó"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dạy",
+                            "explain": "把知识或技能传给人",
+                            "examples": [
+                                {
+                                    "m": "Dạy trẻ con học chữ.",
+                                    "p_vn": "day tre con hoc chu.",
+                                    "_id": "5df2db957b9019f83c069e60eb8bd996",
+                                    "id": 20964,
+                                    "type": "e_cnvi",
+                                    "e": "教小孩儿识字。",
+                                    "p_cn": "jiao xiaohair shizi.",
+                                    "p": "jiāo xiǎoháir shízì."
+                                },
+                                {
+                                    "m": "Dạy kiến thức phải kiên nhẫn.",
+                                    "p_vn": "day kien thuc phai kien nhan.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a7c878",
+                                    "id": 107180,
+                                    "type": "e_cnvi",
+                                    "e": "教知识应耐心 。",
+                                    "p_cn": "jiao zhishi ying naixin.",
+                                    "p": "jiāo zhīshì yīng nàixīn."
+                                },
+                                {
+                                    "m": "Dạy kỹ năng cần dụng tâm.",
+                                    "p_vn": "day ky nang can dung tam.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a7d3db",
+                                    "id": 107181,
+                                    "type": "e_cnvi",
+                                    "e": "教技能需用心 。",
+                                    "p_cn": "jiao jineng xu yongxin.",
+                                    "p": "jiāo jìnéng xū yòngxīn."
+                                },
+                                {
+                                    "m": "Dạy bạn bản lĩnh đừng cẩu thả.",
+                                    "p_vn": "day ban ban linh dung cau tha.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a7decd",
+                                    "id": 107182,
+                                    "type": "e_cnvi",
+                                    "e": "教你本事莫粗心。",
+                                    "p_cn": "jiao ni benshi mo cuxin.",
+                                    "p": "jiāo nǐ běnshì mò cūxīn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"传授\" có ý nghĩa của \"教\" nhưng tân ngữ của \"教\" có thể là học vấn, tri thức, cũng có thể là người, tân ngữ của \"传授\" chỉ có thể là kĩ năng, tri thức.",
+                    "title": "Phân biệt \"传授\" và \"教\"",
+                    "words": [
+                        "传授",
+                        "教"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "授"
+                ],
+                "anto": [
+                    "学"
+                ]
+            },
+            "lv_hsk_new": "1, 3",
+            "pinyin": "jiāo",
+            "cn_vi": "giáo.giao",
+            "popularity": {
+                "notebook": 725,
+                "search": 24349
+            },
+            "word": "教",
+            "id": 29267,
+            "phonetic": "jiao",
+            "rank": 177,
+            "lv_hsk": 3,
+            "lv_tocfl": 2,
+            "compound": "教书 ; 教学"
+        },
+        {
+            "kind": [
+                "v",
+                "n",
+                "prep"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠˋ",
+            "_id": "3d41f2c1f6943fd46f94d6a6bd7f9710",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dạy dỗ; giáo dục; chỉ bảo",
+                            "explain": "教导; 教育",
+                            "examples": [
+                                {
+                                    "m": "Giáo dục cần được bồi dưỡng từ nhỏ.",
+                                    "p_vn": "giao duc can duoc boi duong tu nho.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a81431",
+                                    "id": 107191,
+                                    "type": "e_cnvi",
+                                    "e": "教养需从小培养。",
+                                    "p_cn": "jiaoyang xu congxiao peiyang.",
+                                    "p": "jiàoyǎng xū cóngxiǎo péiyǎng."
+                                },
+                                {
+                                    "m": "Giáo dục con cái phải dụng tâm.",
+                                    "p_vn": "giao duc con cai phai dung tam.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a82319",
+                                    "id": 107192,
+                                    "type": "e_cnvi",
+                                    "e": "教育孩子要用心。",
+                                    "p_cn": "jiaoyu haizi yao yongxin.",
+                                    "p": "jiàoyù háizi yào yòngxīn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "làm cho; bảo; để",
+                            "explain": "使; 吩咐；让",
+                            "examples": [
+                                {
+                                    "m": "Gió có thể làm cho con thuyền đi.",
+                                    "p_vn": "gio co the lam cho con thuyen di.",
+                                    "_id": "ac7be255046819fca340054063f00a82",
+                                    "id": 75954,
+                                    "type": "e_cnvi",
+                                    "e": "风能教船走。",
+                                    "p_cn": "fengneng jiao chuan zou.",
+                                    "p": "fēngnéng jiào chuán zǒu."
+                                },
+                                {
+                                    "m": "Bảo bạn đừng đi, dừng lại mau.",
+                                    "p_vn": "bao ban dung di, dung lai mau.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a83921",
+                                    "id": 107195,
+                                    "type": "e_cnvi",
+                                    "e": "教你别去快停下。",
+                                    "p_cn": "jiao ni bie qu kuai ting xia.",
+                                    "p": "jiào nǐ bié qù kuài tíng xià."
+                                },
+                                {
+                                    "m": "Để tôi làm việc, đừng nói nhiều.",
+                                    "p_vn": "de toi lam viec, dung noi nhieu.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a841dd",
+                                    "id": 107196,
+                                    "type": "e_cnvi",
+                                    "e": "教我做事别多嘴。",
+                                    "p_cn": "jiao wo zuoshi bie duozui.",
+                                    "p": "jiào wǒ zuòshì bié duōzuǐ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tôn giáo; giáo; đạo",
+                            "explain": "指宗教",
+                            "examples": [
+                                {
+                                    "m": "Quy định tôn giáo ràng buộc tín đồ.",
+                                    "p_vn": "quy dinh ton giao rang buoc tin do.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a88f88",
+                                    "id": 107205,
+                                    "type": "e_cnvi",
+                                    "e": "教规约束信徒。",
+                                    "p_cn": "jiaogui yueshu xintu.",
+                                    "p": "jiàoguī yuēshù xìntú."
+                                },
+                                {
+                                    "m": "Tôi trước giờ không tin vào tôn giáo.",
+                                    "p_vn": "toi truoc gio khong tin vao ton giao.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a89954",
+                                    "id": 107206,
+                                    "type": "e_cnvi",
+                                    "e": "我从来不信教。",
+                                    "p_cn": "wo conglai bu xinjiao.",
+                                    "p": "wǒ cónglái bu xìnjiào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giáo dục; giáo viên; học",
+                            "explain": "指教育或教师",
+                            "examples": [
+                                {
+                                    "m": "Trách nhiệm của giáo viên nặng như núi.",
+                                    "p_vn": "trach nhiem cua giao vien nang nhu nui.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a8c1e8",
+                                    "id": 107209,
+                                    "type": "e_cnvi",
+                                    "e": "教师责任重如山。",
+                                    "p_cn": "jiaoshi zeren zhong rushan.",
+                                    "p": "jiàoshī zérèn zhòng rúshān."
+                                },
+                                {
+                                    "m": "Giáo dục là nền tảng của một đất nước mạnh mẽ.",
+                                    "p_vn": "giao duc la nen tang cua mot dat nuoc manh me.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a8c8eb",
+                                    "id": 107210,
+                                    "type": "e_cnvi",
+                                    "e": "教育为本强国基。",
+                                    "p_cn": "jiaoyu wei ben qiangguo ji.",
+                                    "p": "jiàoyù wéi běn qiángguó jī."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Giáo",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Tôi họ Giáo.",
+                                    "p_vn": "toi ho giao.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a8caff",
+                                    "id": 107211,
+                                    "type": "e_cnvi",
+                                    "e": "我姓教。",
+                                    "p_cn": "wo xing jiao.",
+                                    "p": "wǒ xìng jiào."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "prep",
+                    "means": [
+                        {
+                            "mean": "bị",
+                            "explain": "用在被动式里引进主动者",
+                            "examples": [
+                                {
+                                    "m": "Bị anh ta phê bình rất khó chịu.",
+                                    "p_vn": "bi anh ta phe binh rat kho chiu.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a8e408",
+                                    "id": 107214,
+                                    "type": "e_cnvi",
+                                    "e": "教他批评很难受。",
+                                    "p_cn": "jiao ta piping hen nanshou.",
+                                    "p": "jiào tā pīpíng hěn nánshòu."
+                                },
+                                {
+                                    "m": "Bị bạn hữu cười nhạo quá uất khuất.",
+                                    "p_vn": "bi ban huu cuoi nhao qua uat khuat.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3a8f1bf",
+                                    "id": 107215,
+                                    "type": "e_cnvi",
+                                    "e": "教人误解心烦恼。",
+                                    "p_cn": "jiao ren wujie xin fannao.",
+                                    "p": "jiào rén wùjiě xīn fánnǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 725,
+                "search": 24349
+            },
+            "snym": {
+                "syno": [
+                    "授"
+                ],
+                "anto": [
+                    "学"
+                ]
+            },
+            "lv_hsk_new": "1, 3",
+            "pinyin": "jiào",
+            "cn_vi": "giáo.giao",
+            "word": "教",
+            "id": 29266,
+            "phonetic": "jiao",
+            "rank": 178,
+            "lv_hsk": 2,
+            "lv_tocfl": 2,
+            "compound": "教案 ; 教本 ; 教鞭 ; 教材 ; 教程 ; 教导 ; 教导员 ; 教官 ; 教规 ; 教化 ; 教皇 ; 教会 ; 教诲 ; 教具 ; 教科书 ; 教练 ; 教门 ; 教派 ; 教师 ; 教士 ; 教室 ; 教授 ; 教唆 ; 教唆犯 ; 教堂 ; 教条 ; 教条主义 ; 教廷 ; 教徒 ; 教务 ; 教习 ; 教学 ; 教学相长 ; 教训 ; 教研室 ; 教研组 ; 教养 ; 教养员 ; 教义 ; 教益 ; 教育 ; 教员 ; 教正 ; 教职员 ; 教主"
+        }
+    ],
+    "query": "教训"
+}

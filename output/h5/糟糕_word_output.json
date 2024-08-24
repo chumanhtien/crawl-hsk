@@ -1,0 +1,2630 @@
+{
+    "total": 123,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "adj",
+                "intj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠㄍㄠ",
+            "topic": "39, 76, 68, 59",
+            "_id": "46482f1d4be7f6a7caba4693de325eb1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "điều tồi tệ hơn là/ tệ hơn nữa",
+                            "examples": [
+                                90264,
+                                95542
+                            ],
+                            "struct": "更糟糕的是"
+                        },
+                        {
+                            "explain": "A rất/ vô cùng/ thực sự/ quá + tệ/ tồi tệ",
+                            "examples": [
+                                95531,
+                                95535
+                            ],
+                            "struct": "A + 很，十分，真的 ，太+ 糟糕"
+                        },
+                        {
+                            "explain": "A làm gì tồi tệ",
+                            "examples": [
+                                95537,
+                                95540,
+                                95541
+                            ],
+                            "struct": "A + Động từ + 得 + Phó từ mức độ (很，太，非常) + 糟糕"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hỏng; hỏng bét; gay go; kinh khủng; rắc rối; tồi tệ; tệ",
+                            "explain": "(身体、情况等) 非常不好, 很坏",
+                            "examples": [
+                                {
+                                    "m": "Gần đây sức khỏe của anh ấy rất tệ.",
+                                    "p_vn": "gan day suc khoe cua anh ay rat te.",
+                                    "_id": "ac7be255046819fca340054063ea9c22",
+                                    "id": 75880,
+                                    "type": "e_cnvi",
+                                    "e": "他的身体最近很糟糕。",
+                                    "p_cn": "ta de shenti zuijin hen zaogao.",
+                                    "p": "tā de shēntǐ zuìjìn hěn zāogāo."
+                                },
+                                {
+                                    "m": "Hôm nay thực sự tồi tệ.",
+                                    "p_vn": "hom nay thuc su toi te.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a03cfe",
+                                    "id": 95526,
+                                    "type": "e_cnvi",
+                                    "e": "今天真糟糕。",
+                                    "p_cn": "jintian zhen zaogao.",
+                                    "p": "jīntiān zhēn zāogāo."
+                                },
+                                {
+                                    "m": "Thời tiết rất tệ.",
+                                    "p_vn": "thoi tiet rat te.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a04342",
+                                    "id": 95527,
+                                    "type": "e_cnvi",
+                                    "e": "天气十分糟糕。",
+                                    "p_cn": "tianqi shifen zaogao.",
+                                    "p": "tiānqì shífēn zāogāo."
+                                },
+                                {
+                                    "m": "Giao thông thật tệ.",
+                                    "p_vn": "giao thong that te.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a11001",
+                                    "id": 95550,
+                                    "type": "e_cnvi",
+                                    "e": "交通真糟糕呢。",
+                                    "p_cn": "jiaotong zhen zaogao ne.",
+                                    "p": "jiāotōng zhēn zāogāo ne."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "intj",
+                    "means": [
+                        {
+                            "mean": "tiêu rồi; chết rồi; toang rồi; thôi rồi; thôi chết; thôi xong; tiêu đời",
+                            "explain": "突然发现某种不好的情况，常用在句首。",
+                            "examples": [
+                                {
+                                    "m": "Thôi chết, lỡ tàu rồi.",
+                                    "p_vn": "thoi chet, lo tau roi.",
+                                    "_id": "ac7be255046819fca340054063ea8d4b",
+                                    "id": 75879,
+                                    "type": "e_cnvi",
+                                    "e": "糟糕, 误了火车啦。",
+                                    "p_cn": "zaogao, wule huoche la.",
+                                    "p": "zāogāo, wùle huǒchē la."
+                                },
+                                {
+                                    "m": "Toang rồi, tôi quên mang chìa khóa rồi.",
+                                    "p_vn": "toang roi, toi quen mang chia khoa roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a04711",
+                                    "id": 95529,
+                                    "type": "e_cnvi",
+                                    "e": "糟糕！我忘带钥匙了。",
+                                    "p_cn": "zaogao! wo wang dai yaoshile.",
+                                    "p": "zāogāo! wǒ wàng dài yàoshile."
+                                },
+                                {
+                                    "m": "Thôi xong, sắp muộn rồi.",
+                                    "p_vn": "thoi xong, sap muon roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a0fdb1",
+                                    "id": 95548,
+                                    "type": "e_cnvi",
+                                    "e": "糟糕！要迟到了。",
+                                    "p_cn": "zaogao! yao chidaole.",
+                                    "p": "zāogāo! yào chídàole."
+                                },
+                                {
+                                    "m": "Toang rồi, Điện thoại hết pin rồi.",
+                                    "p_vn": "toang roi, dien thoai het pin roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a10ad9",
+                                    "id": 95549,
+                                    "type": "e_cnvi",
+                                    "e": "糟糕！手机没电了。",
+                                    "p_cn": "zaogao! shouji mei dianle.",
+                                    "p": "zāogāo! shǒujī méi diànle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"倒霉\" và \"糟糕\" đều thể hiện tính huống bất lợi hoặc không tốt, nhưng chủ thể sắc thái của \"倒霉\" sẽ sâu sắc hơn một chút, \"糟糕\" thường dùng để miêu tả những sự việc khách quan.",
+                    "title": "Phân biệt \"倒霉\" và \"糟糕\"",
+                    "words": [
+                        "倒霉",
+                        "糟糕"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "美好",
+                    "精彩",
+                    "曼妙"
+                ],
+                "syno": [
+                    "倒霉"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "zāogāo",
+            "cn_vi": "tao cao",
+            "popularity": {
+                "notebook": 925,
+                "search": 16736
+            },
+            "word": "糟糕",
+            "id": 62862,
+            "phonetic": "zaogao",
+            "rank": 405,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄨㄢˋㄗㄠㄗㄠ",
+            "_id": "21bf845ed4e0c177eea22f90c26b5563",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "lộn xộn; rối bời; tùm lum tùm la; bối rối",
+                            "explain": "形容事物杂乱无章或心里烦乱",
+                            "examples": [
+                                {
+                                    "m": "trên bàn lộn xộn, phải dọn sạch một tý.",
+                                    "p_vn": "tren ban lon xon phai don sach mot ty",
+                                    "_id": "f81da168a83e10a3e1197208a95bafd9",
+                                    "id": 27639,
+                                    "type": "e_cnvi",
+                                    "e": "桌子上乱糟糟的， 得清理一下。",
+                                    "p_cn": "zhuozi shang luanzaozao de de qingli yixia",
+                                    "p": "zhuōzǐ shàng luànzāozāo de，dé qīnglǐ yīxià。"
+                                },
+                                {
+                                    "m": "ngồi cũng không được, đứng cũng không yên, trong lòng rối bời.",
+                                    "p_vn": "ngoi cung khong duoc, dung cung khong yen, trong long roi boi.",
+                                    "_id": "1352271c48e8081e8f6d1a81fc5cd9c4",
+                                    "id": 27640,
+                                    "type": "e_cnvi",
+                                    "e": "坐也不是， 站也不是， 心里乱糟糟的。",
+                                    "p_cn": "zuo ye bu shi,zhan ye bu shi,xinli luanzaozao de. ",
+                                    "p": "zuò yě bú shì，zhàn yě bú shì，xīnlǐ luànzāozāo de。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 421
+            },
+            "snym": {
+                "syno": [
+                    "乱哄哄",
+                    "乱蓬蓬",
+                    "乱纷纷",
+                    "乱腾腾"
+                ],
+                "anto": [
+                    "齐刷刷"
+                ]
+            },
+            "cn_vi": "loạn tao tao",
+            "pinyin": "luànzāozāo",
+            "word": "乱糟糟",
+            "id": 36418,
+            "phonetic": "luanzaozao",
+            "rank": 17776,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                " adj",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠ",
+            "_id": "5e4c81e79cb08012b9fead1224438c71",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bã; bã rượu",
+                            "explain": "酿酒余下的渣滓",
+                            "examples": [
+                                {
+                                    "m": "Bã rượu có thể dùng để cho lợn ăn.",
+                                    "p_vn": "ba ruou co the dung de cho lon an.",
+                                    "_id": "71a8f4da663cb843c22cd96cf457a3c8",
+                                    "id": 121437,
+                                    "type": "e_cnvi",
+                                    "e": "酒糟可以用来喂猪。",
+                                    "p_cn": "jiuzao keyi yong lai wei zhu.",
+                                    "p": "jiǔzāo kěyǐ yòng lái wèi zhū."
+                                },
+                                {
+                                    "m": "Tôi đã vứt bã rượu đi.",
+                                    "p_vn": "toi da vut ba ruou di.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4eceb3e",
+                                    "id": 125042,
+                                    "type": "e_cnvi",
+                                    "e": "我把酒糟扔掉了。",
+                                    "p_cn": "wo ba jiuzao reng diaole.",
+                                    "p": "wǒ bǎ jiǔzāo rēng diàole."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "thối nát; kém; thối; mục; mục nát",
+                            "explain": "朽烂；不结实",
+                            "examples": [
+                                {
+                                    "m": "Khúc gỗ này rất mục nát.",
+                                    "p_vn": "khuc go nay rat muc nat.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ecd4a2",
+                                    "id": 125039,
+                                    "type": "e_cnvi",
+                                    "e": "这块木头很糟。",
+                                    "p_cn": "zhe kuai mutou hen zao.",
+                                    "p": "zhè kuài mùtou hěn zāo."
+                                },
+                                {
+                                    "m": "Kết cấu của ngôi nhà rất kém.",
+                                    "p_vn": "ket cau cua ngoi nha rat kem.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ecdd05",
+                                    "id": 125040,
+                                    "type": "e_cnvi",
+                                    "e": "房子的结构很糟。",
+                                    "p_cn": "fangzi de jiegou hen zao.",
+                                    "p": "fángzi de jiégòu hěn zāo."
+                                },
+                                {
+                                    "m": "Chiếc ghế này rất mục nát.",
+                                    "p_vn": "chiec ghe nay rat muc nat.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ecdf55",
+                                    "id": 125041,
+                                    "type": "e_cnvi",
+                                    "e": "这张椅子很糟。",
+                                    "p_cn": "zhe zhang yizi hen zao.",
+                                    "p": "zhè zhāng yǐzi hěn zāo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không tốt; xấu; tệ; tồi tề",
+                            "explain": "（事情或情况）坏；不好",
+                            "examples": [
+                                {
+                                    "m": "Thời tiết này rất tệ.",
+                                    "p_vn": "thoi tiet nay rat te.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ecd166",
+                                    "id": 125037,
+                                    "type": "e_cnvi",
+                                    "e": "这个天气很糟。",
+                                    "p_cn": "zhege tianqi hen zao.",
+                                    "p": "zhège tiānqì hěn zāo."
+                                },
+                                {
+                                    "m": "Vận may hôm nay thật không tốt.",
+                                    "p_vn": "van may hom nay that khong tot.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ecd316",
+                                    "id": 125038,
+                                    "type": "e_cnvi",
+                                    "e": "今天的运气真糟。",
+                                    "p_cn": "jintian de yunqi zhen zao.",
+                                    "p": "jīntiān de yùnqì zhēn zāo."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ngâm; ướp; nấu (ngâm hoặc nấu với rượu)",
+                            "explain": "用酒或糟腌制食物",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy dùng rượu nấu cá.",
+                                    "p_vn": "co ay dung ruou nau ca.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ec6136",
+                                    "id": 125032,
+                                    "type": "e_cnvi",
+                                    "e": "她用酒糟鱼。",
+                                    "p_cn": "ta yong jiuzao yu.",
+                                    "p": "tā yòng jiǔzāo yú."
+                                },
+                                {
+                                    "m": "Chúng tôi dùng rượu ướp gà.",
+                                    "p_vn": "chung toi dung ruou uop ga.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ec625f",
+                                    "id": 125033,
+                                    "type": "e_cnvi",
+                                    "e": "我们用酒糟鸡。",
+                                    "p_cn": "women yong jiuzao ji.",
+                                    "p": "wǒmen yòng jiǔzāo jī."
+                                },
+                                {
+                                    "m": "Cô ấy thường dùng rượu ngâm rau.",
+                                    "p_vn": "co ay thuong dung ruou ngam rau.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ec6e96",
+                                    "id": 125034,
+                                    "type": "e_cnvi",
+                                    "e": "她常常用酒糟菜。",
+                                    "p_cn": "ta changchang yong jiuzao cai.",
+                                    "p": "tā chángcháng yòng jiǔzāo cài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "làm hỏng; phá hỏng; huỷ hoại",
+                            "explain": "损坏；破坏",
+                            "examples": [
+                                {
+                                    "m": "Nước mưa đã làm hỏng mái nhà.",
+                                    "p_vn": "nuoc mua da lam hong mai nha.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ecb643",
+                                    "id": 125035,
+                                    "type": "e_cnvi",
+                                    "e": "雨水糟了房顶。",
+                                    "p_cn": "yushui zaole fang ding.",
+                                    "p": "yǔshuǐ zāole fáng dǐng."
+                                },
+                                {
+                                    "m": "Chú chó đã phá hỏng khu vườn.",
+                                    "p_vn": "chu cho da pha hong khu vuon.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4ecb772",
+                                    "id": 125036,
+                                    "type": "e_cnvi",
+                                    "e": "小狗糟了花园。",
+                                    "p_cn": "xiao gou zaole huayuan.",
+                                    "p": "xiǎo gǒu zāole huāyuán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 146,
+                "search": 4507
+            },
+            "snym": {
+                "syno": [
+                    "差"
+                ],
+                "anto": [
+                    "好"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "zāo",
+            "cn_vi": "tao",
+            "word": "糟",
+            "id": 62860,
+            "phonetic": "zao",
+            "rank": 2687,
+            "lv_tocfl": 4,
+            "compound": "糟改 ; 糟糕 ; 糟害 ; 糟践 ; 糟糠 ; 糟粕 ; 糟踏 ; 糟蹋 ; 糟心"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠㄐㄧㄢˋ",
+            "_id": "0276424cf6a228c5078c76667491f366",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giày xéo; làm nhục; chà đạp; làm hỏng",
+                            "explain": "糟蹋",
+                            "examples": [
+                                {
+                                    "m": "đừng giẫm hư lương thực",
+                                    "p_vn": "dung giam hu luong thuc",
+                                    "_id": "b1480c14fe71268f373c6f4c3c82ede2",
+                                    "id": 48281,
+                                    "type": "e_cnvi",
+                                    "e": "别糟践粮食",
+                                    "p_cn": "bie zaojian liangshi",
+                                    "p": "bié zāojiàn liángshí"
+                                },
+                                {
+                                    "m": "nói chuyện không nên tuỳ tiện chà đạp lên người khác.",
+                                    "p_vn": "noi chuyen khong nen tuy tien cha dap len nguoi khac",
+                                    "_id": "1d39e69cbbc1c0d4674122078baaad52",
+                                    "id": 48282,
+                                    "type": "e_cnvi",
+                                    "e": "说话可不要随便糟践人。",
+                                    "p_cn": "shuohua ke buyao suibian zaojian ren",
+                                    "p": "shuōhuà kě bùyào súibiàn zāojiàn rén。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 107
+            },
+            "snym": {
+                "syno": [
+                    "糟蹋",
+                    "践踏"
+                ],
+                "anto": [
+                    "爱惜",
+                    "珍惜",
+                    "节约",
+                    "鉴赏",
+                    "惜爱",
+                    "润色"
+                ]
+            },
+            "cn_vi": "tao tiễn",
+            "pinyin": "zāojiàn",
+            "word": "糟践",
+            "id": 62864,
+            "phonetic": "zaojian",
+            "rank": 40173,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a39eb526bc4c42edbad405e26140540f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống máng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tao tử",
+            "pinyin": "zāo zi",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "糟子",
+            "id": 182249,
+            "phonetic": "zaozi",
+            "rank": 147320,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "34",
+            "zhuyin": "ㄍㄠ",
+            "_id": "b80f0adb1c950ee0672675baa6f53bf4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh; bánh ngọt; bánh ga-tô",
+                            "explain": "用米粉、面粉等制成的食品",
+                            "examples": [
+                                {
+                                    "m": "Tôi thích ăn bánh ngọt.",
+                                    "p_vn": "toi thich an banh ngot.",
+                                    "_id": "71a8f4da663cb843c22cd96cf484a6ca",
+                                    "id": 122404,
+                                    "type": "e_cnvi",
+                                    "e": "我爱吃蛋糕。",
+                                    "p_cn": "wo ai chi dangao.",
+                                    "p": "wǒ ài chī dàngāo."
+                                },
+                                {
+                                    "m": "Mẹ đã nướng rất nhiều bánh ngọt.",
+                                    "p_vn": "me da nuong rat nhieu banh ngot.",
+                                    "_id": "71a8f4da663cb843c22cd96cf484a96d",
+                                    "id": 122405,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈烤了好多蛋糕。",
+                                    "p_cn": "mama kaole haoduo dangao.",
+                                    "p": "māma kǎole hǎoduō dàngāo."
+                                },
+                                {
+                                    "m": "Cô ấy biết làm bánh đậu xanh.",
+                                    "p_vn": "co ay biet lam banh dau xanh.",
+                                    "_id": "71a8f4da663cb843c22cd96cf484b419",
+                                    "id": 122406,
+                                    "type": "e_cnvi",
+                                    "e": "她会做绿豆糕。",
+                                    "p_cn": "ta hui zuo lǜdougao.",
+                                    "p": "tā huì zuò lǜdòugāo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 37,
+                "search": 1870
+            },
+            "snym": null,
+            "cn_vi": "cao",
+            "pinyin": "gāo",
+            "word": "糕",
+            "id": 18930,
+            "phonetic": "gao",
+            "rank": 5916,
+            "lv_tocfl": null,
+            "compound": "糕饼 ; 糕点 ; 糕干"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄠㄊㄚˋ",
+            "_id": "3b6a6bfb996d3ed7e3671a31f66b1db4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lãng phí; làm hại",
+                            "explain": "浪费或损坏",
+                            "examples": [
+                                {
+                                    "m": "trận gió to này làm hư không ít trái cây.",
+                                    "p_vn": "tran gio to nay lam hu khong it trai cay",
+                                    "_id": "6845f8e08fd4404279e85501568e67df",
+                                    "id": 48285,
+                                    "type": "e_cnvi",
+                                    "e": "这阵大风糟蹋了不少果子。",
+                                    "p_cn": "zhe zhen dafeng zao ta liao bu shao guozi",
+                                    "p": "zhè zhèn dàfēng zāo tà liǎo bù shǎo guǒzi."
+                                },
+                                {
+                                    "m": "cắt cẩn thận, đừng làm hư vải.",
+                                    "p_vn": "cat can than dung lam hu vai",
+                                    "_id": "defaae3f15cad96e7391c6b49f2ba6be",
+                                    "id": 48286,
+                                    "type": "e_cnvi",
+                                    "e": "小心剪裁，别把料子糟蹋了。",
+                                    "p_cn": "xiaoxin jiancai bie ba liaozi zaotale",
+                                    "p": "xiǎoxīn jiǎncái，bié bǎ liàozǐ zāotà le。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "làm nhục; chà đạp; xỉ vả",
+                            "explain": "侮辱;蹂躏",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giày xéo",
+                            "explain": "糟蹋损害, 多指禽兽糟蹋庄稼等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 129,
+                "search": 1030
+            },
+            "snym": {
+                "syno": [
+                    "虚耗",
+                    "不惜",
+                    "凌虐",
+                    "踹踏",
+                    "虐待",
+                    "耗费",
+                    "奢侈",
+                    "摧毁",
+                    "残害",
+                    "糜费",
+                    "践踏",
+                    "踩踏",
+                    "挥霍",
+                    "摧残",
+                    "浪费",
+                    "遭塌",
+                    "浪掷",
+                    "鄙弃",
+                    "蹂躏",
+                    "糟践",
+                    "糟塌",
+                    "伤害",
+                    "撒欢",
+                    "浪废"
+                ],
+                "anto": [
+                    "爱护",
+                    "珍惜",
+                    "节省",
+                    "节约",
+                    "爱惜",
+                    "保护"
+                ]
+            },
+            "cn_vi": "tao đạp",
+            "pinyin": "zāotà",
+            "lv_hsk_new": "6",
+            "word": "糟蹋",
+            "id": 62868,
+            "phonetic": "zaota",
+            "rank": 9623,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄠㄌㄜ˙",
+            "_id": "a08844ea06ba47569798a46b01bd658d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "anh yêu!",
+                            "explain": "darn!",
+                            "examples": [
+                                {
+                                    "m": "sự tình do anh ấy làm rối lên.",
+                                    "p_vn": "su tinh do anh ay lam roi len",
+                                    "_id": "b1671505d491960d2ce0e15d22151724",
+                                    "id": 20900,
+                                    "type": "e_cnvi",
+                                    "e": "事情让他搅和糟了。",
+                                    "p_cn": "shiqing rang ta jiaohuo zaole",
+                                    "p": "shìqíng ràng tā jiǎohuo zāole."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chết tiệt!",
+                            "explain": "gosh!",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Ôi không!",
+                            "explain": "oh no!",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ôi thôi",
+                            "explain": "感叹词, 表惋惜",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hỏng kiểu",
+                            "explain": "指事情或情况坏",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 71,
+                "search": 963
+            },
+            "snym": null,
+            "cn_vi": "tao liễu",
+            "pinyin": "zāole",
+            "word": "糟了",
+            "id": 92956,
+            "phonetic": "zaole",
+            "rank": 10125,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠㄍㄞˇ",
+            "_id": "2af3375f76e80c4bf302936e26274b1c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giễu cợt; xỉ vả",
+                            "explain": "讽刺挖苦;戏弄",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "tao cải",
+            "pinyin": "zāo gǎi",
+            "word": "糟改",
+            "id": 62861,
+            "phonetic": "zaogai",
+            "rank": 96680,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "63734f59270f4c1b92e2e844aee4916a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giết hết không chừa người nào — Tục gọi nhơ bẩn, không thanh khiết là Ao tao.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "ao tao",
+            "pinyin": "áo zāo",
+            "word": "鏖糟",
+            "id": 170250,
+            "phonetic": "aozao",
+            "rank": 152421,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄠˊㄗㄠ",
+            "_id": "d990543ad432cad18fc385a77e5351b9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "rượu nếp than; rượu gạo (loại rượu ngon của vùng Giang Nam Trung Quốc)",
+                            "explain": "红米酒",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 62
+            },
+            "snym": null,
+            "cn_vi": "lao tao",
+            "pinyin": "láozāo",
+            "word": "醪糟",
+            "id": 33754,
+            "phonetic": "laozao",
+            "rank": 52464,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄨㄥˋㄗㄠ",
+            "_id": "fcb80d40a15a49e5a9cd9d9188ce941c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm xáo trộn",
+                            "explain": "to mess up",
+                            "examples": []
+                        },
+                        {
+                            "mean": "làm hỏng",
+                            "explain": "to spoil",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xện",
+                            "explain": "坏事或机密事件被发觉﹑揭露",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "lộng tao",
+            "pinyin": "nòng zāo",
+            "word": "弄糟",
+            "id": 102797,
+            "phonetic": "nongzao",
+            "rank": 77066,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄗㄠ",
+            "_id": "e4243a3ba8054df9808323916765da07",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "bẩn thỉu",
+                            "explain": "filthy",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Tổng",
+                            "explain": "gross",
+                            "examples": []
+                        },
+                        {
+                            "mean": "có vảy",
+                            "explain": "squalid",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không hợp vệ sinh",
+                            "explain": "unhygienic",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "ô tao",
+            "pinyin": "wū zāo",
+            "word": "污糟",
+            "id": 92212,
+            "phonetic": "wuzao",
+            "rank": 73366,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠㄊㄚˋ",
+            "_id": "66881a5789d6fadde08f978dce9dc5bd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giày xéo; chà đạp; làm hỏng; làm nhục",
+                            "explain": "同'糟蹋'",
+                            "examples": [
+                                {
+                                    "m": "khó khăn lắm mới làm ra lương thực, có thể cho phép anh phung phí sao!",
+                                    "p_vn": "kho khan lam moi lam ra luong thuc co the cho phep anh phung phi sao",
+                                    "_id": "5c56ce5779fbceadc1c4e051ee92bd2b",
+                                    "id": 46567,
+                                    "type": "e_cnvi",
+                                    "e": "辛辛苦苦种出来的粮食，由得你作践糟踏吗!",
+                                    "p_cn": "xin xinku ku zhong chulai de liangshi you de ni zuojian zaota ma",
+                                    "p": "xīn xīnkǔ kǔ zhǒng chūlái de liángshí, yóu dé nǐ zuòjian zāotà ma!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 33
+            },
+            "snym": {
+                "syno": [
+                    "践踏"
+                ],
+                "anto": [
+                    "珍惜",
+                    "爱惜"
+                ]
+            },
+            "cn_vi": "tao đạp",
+            "pinyin": "zāotà",
+            "word": "糟踏",
+            "id": 62867,
+            "phonetic": "zaota",
+            "rank": 68503,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠㄒㄧㄣ",
+            "_id": "558b8992c02b8345cda57153f0789a17",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sốt ruột; nóng ruột; bực mình; phiền lòng; lo lắng",
+                            "explain": "因情况坏而心烦",
+                            "examples": [
+                                {
+                                    "m": "xe lại hư đúng vào lúc này, thật bực mình.",
+                                    "p_vn": "xe lai hu dung vao luc nay that buc minh",
+                                    "_id": "c85811947d2d8910b19a6741d28f5ca6",
+                                    "id": 48287,
+                                    "type": "e_cnvi",
+                                    "e": "偏这个时候车又坏了，真叫人糟心。",
+                                    "p_cn": "pian zhege shihou che you huaile zhen jiao ren zao xin",
+                                    "p": "piān zhègè shíhòu chē yòuhuàile，zhēnjiàorén zāoxīn。"
+                                },
+                                {
+                                    "m": "gặp phải những việc như thế này, anh ấy rất bực mình.",
+                                    "p_vn": "gap phai nhung viec nhu the nay anh ay rat buc minh",
+                                    "_id": "cf59f8a30db3a50d5499517b87198d1b",
+                                    "id": 48288,
+                                    "type": "e_cnvi",
+                                    "e": "遇到这样的事情，他很糟心。",
+                                    "p_cn": "yu dao zheyang de shiqing ta hen zao xin",
+                                    "p": "yùdào zhèyáng de shìqíng，tā hěn zāoxīn。"
+                                },
+                                {
+                                    "m": "thật là bực mình.",
+                                    "p_vn": "that la buc minh",
+                                    "_id": "4716164dea7463e7c6740ae449e436b3",
+                                    "id": 48289,
+                                    "type": "e_cnvi",
+                                    "e": "真是糟心",
+                                    "p_cn": "zhenshi zao xin",
+                                    "p": "zhēnshì zāoxīn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 46,
+                "search": 412
+            },
+            "snym": null,
+            "cn_vi": "tao tâm",
+            "pinyin": "zāo xīn",
+            "word": "糟心",
+            "id": 62869,
+            "phonetic": "zaoxin",
+            "rank": 18057,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠㄆㄛˋ",
+            "_id": "17a38801cf3ce4f4d2400bd76f2fd135",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bã; bã rượu; bã đậu",
+                            "explain": "酒糟、豆渣之类的东西比喻粗劣而没有价值的东西",
+                            "examples": [
+                                {
+                                    "m": "gạn đục khơi trong; bỏ cái cặn bã, lấy cái tinh hoa.",
+                                    "p_vn": "gan duc khoi trong; bo cai can ba lay cai tinh hoa",
+                                    "_id": "53a47d35003625ba481ef421bae2ad8e",
+                                    "id": 48284,
+                                    "type": "e_cnvi",
+                                    "e": "弃其糟粕，取其精华。",
+                                    "p_cn": "qi qi zaopo qu qi jinghua",
+                                    "p": "qì qí zāopò，qǔqíjīnghuá。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 220
+            },
+            "snym": {
+                "syno": [
+                    "剩余",
+                    "残存",
+                    "残剩",
+                    "渣滓",
+                    "残余",
+                    "菁华"
+                ],
+                "anto": [
+                    "精华",
+                    "精粹",
+                    "珍品"
+                ]
+            },
+            "cn_vi": "tao phách",
+            "pinyin": "zāopò",
+            "word": "糟粕",
+            "id": 62866,
+            "phonetic": "zaopo",
+            "rank": 26786,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠㄎㄤ",
+            "_id": "6f6cad901304c687913f838018f0c6c2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cám bã (thường chỉ thức ăn thô, thời xưa người nghèo dùng làm thức ăn.); tao khang",
+                            "explain": "酒糟、米糠等粗劣食物，旧时穷人用来充饥",
+                            "examples": [
+                                {
+                                    "m": "tào khang chi thê; người vợ tào khang; người vợ thuỷ chung từ thời nghèo hèn.",
+                                    "p_vn": "tao khang chi the; nguoi vo tao khang; nguoi vo thuy chung tu thoi ngheo hen",
+                                    "_id": "78a6c30f0dd3cec10c7829d008a0104f",
+                                    "id": 48283,
+                                    "type": "e_cnvi",
+                                    "e": "糟糠之妻(指贫穷时共患难的妻子)。",
+                                    "p_cn": "zaokang zhi qi (zhi pinqiong shi gong huannan de qizi)",
+                                    "p": "zāokāngzhīqī ( zhǐ pínqióng shí gònghuànnán de qīzǐ )。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 99
+            },
+            "snym": {
+                "syno": [
+                    "荆布"
+                ],
+                "anto": [
+                    "精粹"
+                ]
+            },
+            "cn_vi": "tao khang",
+            "pinyin": "zāokāng",
+            "word": "糟糠",
+            "id": 62865,
+            "phonetic": "zaokang",
+            "rank": 41698,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "46, 64",
+            "zhuyin": "ㄗㄠㄊㄡˋ",
+            "_id": "2ce06f93a7c34efc8b7f437dc01fba75",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ghê gớm",
+                            "explain": "dreadful",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hoàn toàn đáng tiếc",
+                            "explain": "entirely regrettable",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kinh khủng",
+                            "explain": "horrible",
+                            "examples": [
+                                {
+                                    "m": "Ăn thức ăn thừa và cảm thấy kinh khủng.",
+                                    "p_vn": "An thuc an thua va cam thay kinh khung.",
+                                    "_id": "f915c7c1c35b471a8001e3c2e3eacf07",
+                                    "id": 64709,
+                                    "type": "e_cnvi",
+                                    "e": "吃残羹冷炙心情糟透",
+                                    "p_cn": "chi cangenglengzhi xinqing zaotou",
+                                    "p": "chī cángēnglěngzhì xīnqíng zāotòu"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trong tình trạng tồi tệ",
+                            "explain": "in a bad state",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 25,
+                "search": 284
+            },
+            "snym": null,
+            "cn_vi": "tao thấu",
+            "pinyin": "zāo tòu",
+            "word": "糟透",
+            "id": 99068,
+            "phonetic": "zaotou",
+            "rank": 22955,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄠㄏㄞˋ",
+            "_id": "414c0c46b9c4b94f21d101704f258bef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giày xéo; phá hoại (thường chỉ chim thú phá hoại mùa màng.)",
+                            "explain": "糟蹋损害，多指禽兽糟蹋庄稼等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": {
+                "anto": [
+                    "保护"
+                ]
+            },
+            "cn_vi": "tao hại",
+            "pinyin": "zāo hài",
+            "word": "糟害",
+            "id": 62863,
+            "phonetic": "zaohai",
+            "rank": 89996,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄡˇㄗㄠ",
+            "_id": "9fbad8db1013bfcd25e8037065df0713",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hèm rượu; bã rượu; hèm",
+                            "explain": "造酒剩下的渣滓",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 54
+            },
+            "snym": null,
+            "cn_vi": "tửu tao",
+            "pinyin": "jiǔzāo",
+            "word": "酒糟",
+            "id": 30898,
+            "phonetic": "jiuzao",
+            "rank": 55778,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄗㄠ",
+            "_id": "c59819f5df0afbe6ebfe5a96a1a6f7fe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tệ hại; tồi tệ; nát",
+                            "explain": "极糟",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "hi tao",
+            "pinyin": "xī zāo",
+            "word": "稀糟",
+            "id": 54319,
+            "phonetic": "xizao",
+            "rank": 70576,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄠˇㄗㄠ",
+            "_id": "4cc7ed2252e85414f891c298bdfd0f4a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm hỏng; làm sai",
+                            "explain": "由于犯错误或蹩脚的判断而弄糟",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bét",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 66
+            },
+            "snym": null,
+            "cn_vi": "cảo tao",
+            "pinyin": "gǎo zāo",
+            "word": "搞糟",
+            "id": 18950,
+            "phonetic": "gaozao",
+            "rank": 51166,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "34",
+            "zhuyin": "ㄙㄨㄥㄍㄠ",
+            "_id": "4516ec8c09cf4fe49a87d575661f1ca5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh xốp",
+                            "explain": "sponge cake",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "tùng cao",
+            "pinyin": "sōng gāo",
+            "word": "松糕",
+            "id": 103612,
+            "phonetic": "songgao",
+            "rank": 69547,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b801a57708e148b0a8912c468c9a63eb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "oản",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "sa cao",
+            "pinyin": "shā gāo",
+            "popularity": {
+                "notebook": 0,
+                "search": 22
+            },
+            "word": "沙糕",
+            "id": 182910,
+            "phonetic": "shagao",
+            "rank": 80090,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄠㄎㄤㄑㄧ",
+            "_id": "4139aa61c6b140c8a0865ebc9ed0f037",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người vợ tào khang, người vợ cùng chồng vượt qua khó khăn nghèo khổ",
+                            "explain": "wife who goes through the hardships of poverty with her husband",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 47
+            },
+            "snym": null,
+            "cn_vi": "tao khang thê",
+            "pinyin": "zāokāng qī",
+            "word": "糟糠妻",
+            "id": 119404,
+            "phonetic": "zaokangqi",
+            "rank": 59467,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, kuài",
+                "examples": "",
+                "measure": "个, 块"
+            },
+            "topic": "34",
+            "zhuyin": "ㄉㄢˋㄍㄠ",
+            "_id": "4772ee5d47fe1ecdf4385ca631ea0141",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "bánh ga tô/ bánh kem + ngọt/ nhiều tầng/ tinh tế/ ngon",
+                            "examples": [
+                                96473,
+                                96476
+                            ],
+                            "struct": "香甜，多层，精致，美味 + 蛋糕"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh ga-tô; bánh ngọt; bánh bông lan; bánh kem",
+                            "explain": "鸡蛋和面粉加糖和油制成的松软的糕",
+                            "examples": [
+                                {
+                                    "m": "Những chiếc bánh ngọt mẹ tôi làm rất ngon.",
+                                    "p_vn": "nhung chiec banh ngot me toi lam rat ngon.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9c9ad8c",
+                                    "id": 96437,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈做的蛋糕非常美味。",
+                                    "p_cn": "mama zuo de dangao feichang meiwei.",
+                                    "p": "māma zuò de dàngāo fēicháng měiwèi."
+                                },
+                                {
+                                    "m": "Bánh ga tô rất ngon.",
+                                    "p_vn": "banh ga to rat ngon.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9c9f7de",
+                                    "id": 96444,
+                                    "type": "e_cnvi",
+                                    "e": "蛋糕很好吃。",
+                                    "p_cn": "dangao hen hao chi.",
+                                    "p": "dàngāo hěn hǎo chī."
+                                },
+                                {
+                                    "m": "Cô ấy làm bánh ga tô.",
+                                    "p_vn": "co ay lam banh ga to.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9ca2a8b",
+                                    "id": 96450,
+                                    "type": "e_cnvi",
+                                    "e": "她做个蛋糕。",
+                                    "p_cn": "ta zuo ge dangao.",
+                                    "p": "tā zuò gè dàngāo."
+                                },
+                                {
+                                    "m": "Mẹ làm cho tôi một chiếc bánh kem.",
+                                    "p_vn": "me lam cho toi mot chiec banh kem.",
+                                    "_id": "641148288b13f4cf43a85133e8ad2dc7",
+                                    "id": 117400,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈为我做了一个蛋糕。",
+                                    "p_cn": "mama wei wo zuole yige dangao.",
+                                    "p": "māma wèi wǒ zuòle yīgè dàngāo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 849,
+                "search": 15333
+            },
+            "snym": {
+                "syno": [
+                    "面包",
+                    "糕饼"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "dàngāo",
+            "cn_vi": "đản cao",
+            "word": "蛋糕",
+            "id": 11207,
+            "phonetic": "dangao",
+            "rank": 480,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩˊㄍㄠ",
+            "_id": "4b3284119427480281df7809e1ff21b8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chả cá",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "ngư cao",
+            "pinyin": "yú gāo",
+            "word": "鱼糕",
+            "id": 153565,
+            "phonetic": "yugao",
+            "rank": 72674,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙㄍㄠ",
+            "_id": "faf377ae25913ae69ee66d146e3f26db",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh hấp xốp; bánh bò",
+                            "explain": "小米面、玉米面等加水搅拌发酵后蒸成的松软的食品",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "ty cao",
+            "pinyin": "sī gāo",
+            "word": "丝糕",
+            "id": 48772,
+            "phonetic": "sigao",
+            "rank": 96244,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄝˇㄍㄠ",
+            "_id": "a8d3155ecbc809df5695f6883cc5c8d7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kem; ice cream",
+                            "explain": "冰激凌",
+                            "examples": [
+                                {
+                                    "m": "Em thích ăn kem.",
+                                    "p_vn": "em thich an kem.",
+                                    "_id": "329486f68b2b4177e0301e5c72184e26",
+                                    "id": 85391,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢吃雪糕。",
+                                    "p_cn": "wo xihuan chi xuegao.",
+                                    "p": "wǒ xǐhuan chī xuěgāo."
+                                },
+                                {
+                                    "m": "Đây là thời điểm tuyệt vời để ăn kem.",
+                                    "p_vn": "day là thòi diẻm tuyẹt vòi dẻ an kem.",
+                                    "_id": "329486f68b2b4177e0301e5c72184ec2",
+                                    "id": 85392,
+                                    "type": "e_cnvi",
+                                    "e": "这是吃冰激凌或者雪糕的好时间。",
+                                    "p_cn": "zhe shi chi bingjiling huozhe xuegao de hao shijian.",
+                                    "p": "zhè shì chī bīngjīlíng huòzhě xuěgāo de hǎo shíjiān."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 80,
+                "search": 1097
+            },
+            "snym": {
+                "syno": [
+                    "冰棒",
+                    "冰糕",
+                    "棒冰",
+                    "冰棍"
+                ]
+            },
+            "cn_vi": "tuyết cao",
+            "pinyin": "xuěgāo",
+            "word": "雪糕",
+            "id": 57535,
+            "phonetic": "xuegao",
+            "rank": 9130,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄝˋㄍㄠ",
+            "_id": "f1f9a27fee154733a8502a2daf7082ef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh óc chó ngọt truyền thống Tân Cương",
+                            "explain": "traditional Xinjiang sweet walnut cake",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "thiết cao",
+            "pinyin": "qiē gāo",
+            "word": "切糕",
+            "id": 95073,
+            "phonetic": "qiegao",
+            "rank": 78961,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄡˋㄍㄠ",
+            "_id": "a8c725dc2d014bdbb6c08200682e2596",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh sinh nhật",
+                            "explain": "birthday cake",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 437
+            },
+            "snym": null,
+            "cn_vi": "thọ cao",
+            "pinyin": "shòu gāo",
+            "word": "寿糕",
+            "id": 102497,
+            "phonetic": "shougao",
+            "rank": 17373,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄚˋㄍㄠ",
+            "topic": "34",
+            "_id": "262aeb86fc0b7976509fe283a70570df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bánh rán",
+                            "explain": "炸糕是一道由糯米粉、普通面粉等原料制成的小吃，是天津地区著名的传统小吃之一，与狗不理包子、桂发祥麻花并称\"津门三绝\"食品。",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bánh rán",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 106
+            },
+            "snym": null,
+            "cn_vi": "tạc cao",
+            "pinyin": "zhà gāo",
+            "word": "炸糕",
+            "id": 72421,
+            "phonetic": "zhagao",
+            "rank": 40409,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄠㄅㄧㄥˇ",
+            "_id": "5e389a78f6f53602b544e20cb8cf98df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh ngọt; bánh ga-tô",
+                            "explain": "糕点",
+                            "examples": [
+                                {
+                                    "m": "Chiếc bánh này ngon tuyệt vời.",
+                                    "p_vn": "Chiec banh nay ngon tuyet voi.",
+                                    "_id": "352eb515533c47b792dfc4235e0b5d76",
+                                    "id": 71136,
+                                    "type": "e_cnvi",
+                                    "e": "这块糕饼好极了.",
+                                    "p_cn": "zhe kuai gaobing hao jile",
+                                    "p": "zhè kuài gāobǐng hǎo jíle"
+                                },
+                                {
+                                    "m": "Mỗi miếng bánh giá 20 xu.",
+                                    "p_vn": "Moi mieng banh gia 20 xu.",
+                                    "_id": "8dada982867a4c7eaaea0ee32e336230",
+                                    "id": 71137,
+                                    "type": "e_cnvi",
+                                    "e": "糕饼每块20便士.",
+                                    "p_cn": "gaobing mei kuai bianshi",
+                                    "p": "gāobǐng měi kuài biànshì"
+                                },
+                                {
+                                    "m": "Cô ấy đo một lượng nhất định bột mì, bơ và đường, bắt đầu trộn làm bánh.",
+                                    "p_vn": "co ay do mot luong nhat dinh bot mi, bo va duong, bat dau tron lam banh.",
+                                    "_id": "83090489be7c4c9c8912b53f663699e0",
+                                    "id": 71138,
+                                    "type": "e_cnvi",
+                                    "e": "她量出一定量的面粉、黄油和糖，开始拌做糕饼。",
+                                    "p_cn": "ta liang chu yiding liang de mianfen huangyou he tang kaishi ban zuo gaobing",
+                                    "p": "tā liáng chū yídìng liáng de miànfěn huángyóu hé táng kāishǐ bàn zuò gāobǐng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bánh trái",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 161
+            },
+            "snym": {
+                "syno": [
+                    "饼干",
+                    "蛋糕",
+                    "甜点"
+                ]
+            },
+            "cn_vi": "cao bính",
+            "pinyin": "gāobǐng",
+            "word": "糕饼",
+            "id": 18931,
+            "phonetic": "gaobing",
+            "rank": 32144,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄠㄍㄢˋ",
+            "_id": "07063fc682d0575fc0adb2a883d9bd18",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bột thay sữa",
+                            "explain": "一种代乳品，主要用来粉和糖等制成",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bánh khảo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "cao can",
+            "pinyin": "gāo gan",
+            "word": "糕干",
+            "id": 18933,
+            "phonetic": "gaogan",
+            "rank": 75708,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "ming",
+                "examples": "我从小就梦想着做一名糕点师。",
+                "measure": "名"
+            },
+            "zhuyin": "ㄍㄠㄉㄧㄢˇ",
+            "_id": "1a9ad439a55467ebb7bb82590bc27e0b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh ngọt; bánh điểm tâm",
+                            "explain": "糕和点心 (总称)",
+                            "examples": [
+                                {
+                                    "m": "tự làm bánh ngọt",
+                                    "p_vn": "tu lam banh ngot",
+                                    "_id": "2217d6e694318d8e267c7dffa5a246e7",
+                                    "id": 52579,
+                                    "type": "e_cnvi",
+                                    "e": "自制糕点",
+                                    "p_cn": "zizhi gaodian",
+                                    "p": "zìzhì gāodiǎn"
+                                },
+                                {
+                                    "m": "Nam tước bánh ngọt của Brooklyn.",
+                                    "p_vn": "Nam tuoc banh ngot cua Brooklyn.",
+                                    "_id": "69c8e945a5e14031b6e3899448a79fd1",
+                                    "id": 57903,
+                                    "type": "e_cnvi",
+                                    "e": "布鲁克林的糕点男爵",
+                                    "p_cn": "bulukelin de gaodian nanjue",
+                                    "p": "bùlǔkèlín de gāodiǎn nánjué"
+                                },
+                                {
+                                    "m": "bánh ngọt kiểu miền nam.",
+                                    "p_vn": "banh ngot kieu mien nam",
+                                    "_id": "7cf15d291de2f7eeb0d7eaacf160c7ed",
+                                    "id": 29567,
+                                    "type": "e_cnvi",
+                                    "e": "南味糕点。",
+                                    "p_cn": "nan wei gaodian",
+                                    "p": "nánwèi gāodiǎn。"
+                                },
+                                {
+                                    "m": "bánh ngọt bóng nhẫy dầu.",
+                                    "p_vn": "banh ngot bong nhay dau",
+                                    "_id": "85a54cec6716b22f77969f8df9b18f81",
+                                    "id": 46607,
+                                    "type": "e_cnvi",
+                                    "e": "油乎乎的糕点。",
+                                    "p_cn": "youhuhu de gaodian",
+                                    "p": "yóuhūhū de gāodiǎn。"
+                                },
+                                {
+                                    "m": "triển lãm bánh ngọt Nam Bắc",
+                                    "p_vn": "trien lam banh ngot nam bac",
+                                    "_id": "a37f4dc5fcf07edddd96e5af02ed3aed",
+                                    "id": 18599,
+                                    "type": "e_cnvi",
+                                    "e": "南北糕点汇展。",
+                                    "p_cn": "nanbei gaodian huizhan",
+                                    "p": "nánběi gāodiǎn hùizhǎn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 41,
+                "search": 528
+            },
+            "snym": {
+                "syno": [
+                    "点心",
+                    "面包"
+                ]
+            },
+            "cn_vi": "cao điểm",
+            "pinyin": "gāodiǎn",
+            "word": "糕点",
+            "id": 18932,
+            "phonetic": "gaodian",
+            "rank": 15380,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄘㄠˊㄍㄠ",
+            "_id": "27f73eabf9573fb18f82e98f177abc1b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh bông lan; bánh ga-tô",
+                            "explain": "用模子制成的各种形状的蛋糕也叫槽子糕",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 214
+            },
+            "snym": {
+                "syno": [
+                    "棘手",
+                    "尴尬",
+                    "窝囊"
+                ]
+            },
+            "cn_vi": "tào cao",
+            "pinyin": "cáo gāo",
+            "word": "槽糕",
+            "id": 5734,
+            "phonetic": "caogao",
+            "rank": 27251,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄡˇㄗㄠㄅㄧˊ",
+            "_id": "2e29a67824344c03853b29943b6ba866",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "rượu mạnh mũi",
+                            "explain": "brandy nose",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bệnh rosacea (tình trạng da liễu ở mặt và mũi)",
+                            "explain": "rosacea (dermatological condition of the face and nose)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": {
+                "syno": [
+                    "酒渣鼻"
+                ]
+            },
+            "cn_vi": "tửu tao tị",
+            "pinyin": "jiǔzāo bí",
+            "word": "酒糟鼻",
+            "id": 116350,
+            "phonetic": "jiuzaobi",
+            "rank": 86264,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄥㄍㄠ",
+            "_id": "70ff012166efb1b057559df2ff654f2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh tổ ong (làm bằng bột mì, hình dạng như tổ ong); bánh bò",
+                            "explain": "用发酵的面粉加糖等蒸的糕，比较松软，切开后断面呈蜂窝状",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "phong cao",
+            "pinyin": "fēng gāo",
+            "word": "蜂糕",
+            "id": 17165,
+            "phonetic": "fenggao",
+            "rank": 113965,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄚㄍㄠ",
+            "_id": "1935b42e804e7db1cf5f04f638ec30c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh xốp; bánh bò",
+                            "explain": "用米粉、面粉等发酵做成的糕，有的还加糖、枣儿、青丝等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 190
+            },
+            "snym": null,
+            "cn_vi": "phát cao",
+            "pinyin": "fāgāo",
+            "word": "发糕",
+            "id": 15288,
+            "phonetic": "fagao",
+            "rank": 29250,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d852b5d4cd214f2cbed239b0aa756795",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "học cao; lên lớp ngủ, tan học quậy phá, điểm cao",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "học cao",
+            "pinyin": "xué gāo",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "学糕",
+            "id": 185319,
+            "phonetic": "xuegao",
+            "rank": 158159,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "34",
+            "zhuyin": "ㄅㄧㄥㄍㄠ",
+            "_id": "a05ae188bc9e91344c5339fe4c62bd2a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kem hộp",
+                            "explain": "冰激凌",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kem cây",
+                            "explain": "冰棍儿",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 82
+            },
+            "snym": {
+                "syno": [
+                    "雪糕"
+                ]
+            },
+            "cn_vi": "băng cao",
+            "pinyin": "bīnggāo",
+            "word": "冰糕",
+            "id": 3889,
+            "phonetic": "binggao",
+            "rank": 45925,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄥㄍㄠ",
+            "_id": "d109680019f64b6dac74b4ca722e2111",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh hấp",
+                            "explain": "steamed cake",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "chưng cao",
+            "pinyin": "zhēng gāo",
+            "word": "蒸糕",
+            "id": 108931,
+            "phonetic": "zhenggao",
+            "rank": 99691,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "我吃了两个年糕。\nwǒchī le liǎnggè niángāo\nTôi đã ăn hai chiếc bánh tổ.",
+                "measure": "个"
+            },
+            "zhuyin": "ㄋㄧㄢˊㄍㄠ",
+            "_id": "9bf9fd17d9f7c4610ca16ea4652d137a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh mật; bánh tổ",
+                            "explain": "用黏性比较大的米或米粉蒸成的糕，是过农历年的应时食品",
+                            "examples": [
+                                {
+                                    "m": "Bánh tổ càng hấp càng lõm xuống.",
+                                    "p_vn": "banh to cang hap cang lom xuong.",
+                                    "_id": "f17e59a2468e04eee537a9776dec3c4b",
+                                    "id": 37476,
+                                    "type": "e_cnvi",
+                                    "e": "年糕越蒸越往下塌。",
+                                    "p_cn": "niangao yuezheng yuewang xia ta。",
+                                    "p": "niángāo yuèzhēng yuèwǎng xià tā。"
+                                },
+                                {
+                                    "m": "Trên mặt bánh tổ có rắc một lớp đường.",
+                                    "p_vn": "tren mat banh to co rac mot lop duong.",
+                                    "_id": "fa08a38831638b6760720400bb2b18c1",
+                                    "id": 34184,
+                                    "type": "e_cnvi",
+                                    "e": "年糕上撒了一层白糖。",
+                                    "p_cn": "niangao shang sa le yiceng baitang。",
+                                    "p": "niángāo shàng sǎ le yīcéng báitáng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 101,
+                "search": 2465
+            },
+            "snym": null,
+            "cn_vi": "niên cao",
+            "pinyin": "niángāo",
+            "word": "年糕",
+            "id": 39453,
+            "phonetic": "niangao",
+            "rank": 4663,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3e0131943428473caec8d8b8300791cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bánh gạo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 126
+            },
+            "snym": null,
+            "cn_vi": "mễ cao",
+            "pinyin": "mǐ gāo",
+            "word": "米糕",
+            "id": 165863,
+            "phonetic": "migao",
+            "rank": 36722,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄚㄍㄠ",
+            "_id": "4d5de26a009cf6d1b09f1f19f258d451",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bột kiều mạch (món ăn)",
+                            "explain": "用荞麦面制成的凉拌食物",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "bái cao",
+            "pinyin": "pá gāo",
+            "word": "扒糕",
+            "id": 682,
+            "phonetic": "pagao",
+            "rank": 125841,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e719885b7ef541459f5b771372882fd1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống máng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thuỷ dũng tao",
+            "pinyin": "shuǐtǒng zāo",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "水桶糟",
+            "id": 182248,
+            "phonetic": "shuitongzao",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄊㄨㄢˊㄗㄠ",
+            "_id": "cd1856498cc99bfceeb45abf817c8b94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hỏng bét; nát bét; rối loạn",
+                            "explain": "形容异常混乱，不易收拾",
+                            "examples": [
+                                {
+                                    "m": "Đó là một thảm họa chết tiệt.",
+                                    "p_vn": "Do la mot tham hoa chet tiet.",
+                                    "_id": "cc6c3e9c2e814b589b1873d863520f42",
+                                    "id": 65768,
+                                    "type": "e_cnvi",
+                                    "e": "他妈的一团糟",
+                                    "p_cn": "tamade yituanzao",
+                                    "p": "tāmāde yītuánzāo"
+                                },
+                                {
+                                    "m": "bên ngoài vàng ngọc, bên trong giẻ rách; tốt mã xấu cùi; tốt gỗ hơn tốt nước sơn",
+                                    "p_vn": "ben ngoai vang ngoc ben trong gie rach; tot ma xau cui; tot go hon tot nuoc son",
+                                    "_id": "cedd71f58c5263e221c755f0cfb00932",
+                                    "id": 21406,
+                                    "type": "e_cnvi",
+                                    "e": "金玉其外，败絮其中(外表很华美，里头一团糟)。",
+                                    "p_cn": "jinyu qi wai baixu qizhong (waibiao hen huamei litou yituanzao)",
+                                    "p": "jīnyùqíwài，bàixùqízhōng ( wàibiǎo hěn huáměi，lǐtóu yītuánzāo )。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 52,
+                "search": 473
+            },
+            "snym": {
+                "syno": [
+                    "烂摊子"
+                ]
+            },
+            "cn_vi": "nhất đoàn tao",
+            "pinyin": "yītuánzāo",
+            "word": "一团糟",
+            "id": 59302,
+            "phonetic": "yituanzao",
+            "rank": 16536,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩˋㄇㄧˇㄍㄠ",
+            "_id": "03b2aa3b211f413ebdc09c9e409437a2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bánh bắp",
+                            "explain": "corn cake",
+                            "examples": []
+                        },
+                        {
+                            "mean": "polenta (bột ngô)",
+                            "explain": "polenta (corn mush)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "ngọc mễ cao",
+            "pinyin": "yùmǐ gāo",
+            "word": "玉米糕",
+            "id": 112865,
+            "phonetic": "yumigao",
+            "rank": 147190,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "458ed830860d4793beff12ddbea66f71",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh pía",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 102
+            },
+            "snym": null,
+            "cn_vi": "lựu liên cao",
+            "pinyin": "liúlián gāo",
+            "word": "榴莲糕",
+            "id": 167681,
+            "phonetic": "liuliangao",
+            "rank": 41247,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3b403b2fa2d54bd78936d2c3e01a1fd7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thạch",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bạch thái cao",
+            "pinyin": "báicài gāo",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "白菜糕",
+            "id": 184339,
+            "phonetic": "baicaigao",
+            "rank": 125601,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "糟糕"
+}

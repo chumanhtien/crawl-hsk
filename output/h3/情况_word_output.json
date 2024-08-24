@@ -1,0 +1,2755 @@
+{
+    "total": 584,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "zhǒng, gè, xiē",
+                "examples": "",
+                "measure": "种, 个, 些"
+            },
+            "zhuyin": "ㄑㄧㄥˊㄎㄨㄤˋ",
+            "_id": "4ba69a14e3075579e9ac66ea6bf24c62",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "chỉ tình hình cụ thể",
+                            "examples": [
+                                76428,
+                                76431,
+                                119819
+                            ],
+                            "struct": "这/Số lượng + 个/种 + 情况"
+                        },
+                        {
+                            "explain": "tình huống/ tình trạng như thế nào",
+                            "examples": [
+                                76433,
+                                119825,
+                                119835
+                            ],
+                            "struct": "情况 +（很 +）Tính từ（紧急、特殊、复杂）"
+                        },
+                        {
+                            "explain": "có/ không có + thay đổi/ chuyện gì",
+                            "examples": [
+                                119795,
+                                119800,
+                                119804
+                            ],
+                            "struct": "有/没有 + 情况"
+                        },
+                        {
+                            "explain": "tình hình/ tình huống/ tình trạng gì",
+                            "examples": [
+                                119848,
+                                119849,
+                                119855,
+                                105412
+                            ],
+                            "struct": "（学校/ 家庭/ 身体/ 紧急（+的）+ 情况"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình; tình trạng; trạng thái",
+                            "explain": "事情实际的样子、状态。",
+                            "examples": [
+                                {
+                                    "m": "Bác sĩ đã kiểm tra tình trạng của bệnh nhân.",
+                                    "p_vn": "bac si da kiem tra tinh trang cua benh nhan.",
+                                    "_id": "71a8f4da663cb843c22cd96cf401e24a",
+                                    "id": 119211,
+                                    "type": "e_cnvi",
+                                    "e": "医生检查了病人的情况。",
+                                    "p_cn": "yisheng jianchale bingren de qingkuang.",
+                                    "p": "yīshēng jiǎnchále bìngrén de qíngkuàng."
+                                },
+                                {
+                                    "m": "Tình hình chính trị hiện nay rất phức tạp.",
+                                    "p_vn": "tinh hinh chinh tri hien nay rat phuc tap.",
+                                    "_id": "71a8f4da663cb843c22cd96cf401f5c0",
+                                    "id": 119214,
+                                    "type": "e_cnvi",
+                                    "e": "现在的政治情况很复杂。",
+                                    "p_cn": "xianzai de zhengzhi qingkuang hen fuza.",
+                                    "p": "xiànzài de zhèngzhì qíngkuàng hěn fùzá."
+                                },
+                                {
+                                    "m": "Chúng tôi cần hiểu thêm về tình hình.",
+                                    "p_vn": "chung toi can hieu them ve tinh hinh.",
+                                    "_id": "71a8f4da663cb843c22cd96cf40203dd",
+                                    "id": 119216,
+                                    "type": "e_cnvi",
+                                    "e": "我们需要了解更多情况。",
+                                    "p_cn": "women xuyao liaojie geng duo qingkuang.",
+                                    "p": "wǒmen xūyào liǎojiě gèng duō qíngkuàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tình cảnh; hoàn cảnh; điều kiện sống; tình hình (con người)",
+                            "explain": "泛指人的处境或环境。",
+                            "examples": [
+                                {
+                                    "m": "Điều kiện kinh tế của gia đình anh ấy không tốt.",
+                                    "p_vn": "dieu kien kinh te cua gia dinh anh ay khong tot.",
+                                    "_id": "71a8f4da663cb843c22cd96cf40228b6",
+                                    "id": 119223,
+                                    "type": "e_cnvi",
+                                    "e": "他家的经济情况不好。",
+                                    "p_cn": "ta jia de jingji qingkuang bu hao.",
+                                    "p": "tā jiā de jīngjì qíngkuàng bù hǎo."
+                                },
+                                {
+                                    "m": "Tình hình công việc của cô ấy rất ổn định.",
+                                    "p_vn": "tinh hinh cong viec cua co ay rat on dinh.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4022ed1",
+                                    "id": 119225,
+                                    "type": "e_cnvi",
+                                    "e": "她的工作情况很稳定。",
+                                    "p_cn": "ta de gongzuo qingkuang hen wending.",
+                                    "p": "tā de gōngzuò qíngkuàng hěn wěndìng."
+                                },
+                                {
+                                    "m": "Cậu có hiểu rõ hoàn cảnh gia đình của em ấy không?",
+                                    "p_vn": "cau co hieu ro hoan canh gia dinh cua em ay khong?",
+                                    "_id": "71a8f4da663cb843c22cd96cf4024297",
+                                    "id": 119228,
+                                    "type": "e_cnvi",
+                                    "e": "你了解她的家庭情况吗？",
+                                    "p_cn": "ni liaojie ta de jiating qingkuang ma?",
+                                    "p": "nǐ liǎojiě tā de jiātíng qíngkuàng ma?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chuyển biến; thay đổi; biến đổi (đáng chú ý, có ảnh hưởng)",
+                            "explain": "值得注意的，影响大的新变化。",
+                            "examples": [
+                                {
+                                    "m": "Mọi thứ đều bình thường, không có gì thay đổi.",
+                                    "p_vn": "moi thu deu binh thuong, khong co gi thay doi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf41877b0",
+                                    "id": 119778,
+                                    "type": "e_cnvi",
+                                    "e": "一切都正常，没有什么情况。",
+                                    "p_cn": "yiqie dou zhengchang, meiyou shenme qingkuang.",
+                                    "p": "yīqiè dōu zhèngcháng, méiyǒu shénme qíngkuàng."
+                                },
+                                {
+                                    "m": "Nếu có thay đổi gì, thông báo cho tôi ngay lập tức.",
+                                    "p_vn": "neu co thay doi gi, thong bao cho toi ngay lap tuc.",
+                                    "_id": "71a8f4da663cb843c22cd96cf418b3fd",
+                                    "id": 119787,
+                                    "type": "e_cnvi",
+                                    "e": "如果有情况，立刻通知我。",
+                                    "p_cn": "ruguo you qingkuang, like tongzhi wo.",
+                                    "p": "rúguǒ yǒu qíngkuàng, lìkè tōngzhī wǒ."
+                                },
+                                {
+                                    "m": "Quan hệ giữa hai người họ đã có chuyển biến mới.",
+                                    "p_vn": "quan he giua hai nguoi ho da co chuyen bien moi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf418df93",
+                                    "id": 119794,
+                                    "type": "e_cnvi",
+                                    "e": "他们的关系有了新的情况。",
+                                    "p_cn": "tamen de guanxi youle xin de qingkuang.",
+                                    "p": "tāmen de guānxi yǒule xīn de qíngkuàng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Sự khác biệt giữa\"情景\" và \"情况\" là \"情景\" chủ yếu thu hút các cảnh trực quan, \"情况\" không có giới hạn như vậy.",
+                    "title": "Phân biệt \"情景\" và \"情况\"",
+                    "words": [
+                        "情景",
+                        "情况"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- \"情况\" và \"情形\" là đồng nghĩa.\nKhác:\n- \"情况\" tập trung vào ngoại quan của sự vật, \"情形\" không có hạn chế như vậy.",
+                    "title": "Phân biệt \"情况\" và \"情形\"",
+                    "words": [
+                        "情况",
+                        "情形"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "境况",
+                    "状况",
+                    "意况",
+                    "情景",
+                    "情形",
+                    "情状"
+                ]
+            },
+            "lv_hsk_new": "3, 4",
+            "pinyin": "qíngkuàng",
+            "cn_vi": "tình huống",
+            "popularity": {
+                "notebook": 1035,
+                "search": 13324
+            },
+            "word": "情况",
+            "id": 43284,
+            "phonetic": "qingkuang",
+            "rank": 613,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄢˋㄑㄧㄥˊㄎㄨㄤˋ",
+            "_id": "017383ec59c4443786ddfc39cc2c1069",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "tuỳ thuộc vào tình hình",
+                            "explain": "depending on the situation",
+                            "examples": [
+                                {
+                                    "m": "Nó phụ thuộc vào ngữ cảnh.",
+                                    "p_vn": "No phu thuoc vao ngu canh.",
+                                    "_id": "efa494e4d96b474ca91a58f24d32a3e4",
+                                    "id": 58042,
+                                    "type": "e_cnvi",
+                                    "e": "这要看情况。",
+                                    "p_cn": "zheyao kan qingkuang. ",
+                                    "p": "zhèyào kàn qíngkuàng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 131
+            },
+            "snym": null,
+            "cn_vi": "khán tình huống",
+            "pinyin": "kàn qíngkuàng",
+            "word": "看情况",
+            "id": 127368,
+            "phonetic": "kanqingkuang",
+            "rank": 36060,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "7f6d2e33c5144452b90afbc28e9a1ec0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tình hình dịch bệnh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 60
+            },
+            "snym": null,
+            "cn_vi": "dịch tình tình huống",
+            "pinyin": "yìqíng qíngkuàng",
+            "word": "疫情情况",
+            "id": 159785,
+            "phonetic": "yiqingqingkuang",
+            "rank": 53136,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨˊㄒㄧㄑㄧㄥˊㄎㄨㄤˋ",
+            "_id": "17ff9e978b644f0e8d5e4f4651242cef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Hiểu rõ tình hình",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bơi ở những con sông không quen thuộc rất nguy hiểm.",
+                                    "p_vn": "Boi o nhung con song khong quen thuoc rat nguy hiem.",
+                                    "_id": "a2459cccfe60489db383825b79d71d75",
+                                    "id": 68578,
+                                    "type": "e_cnvi",
+                                    "e": "到不熟悉情况的江河里去游泳是很危险的。",
+                                    "p_cn": "Dao bu shuxi qingkuang de jianghe li qu youyong shi hen weixian de.",
+                                    "p": "Dào bù shúxī qíngkuàng de jiānghé lǐ qù yóuyǒng shì hěn wéixiǎn de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 267
+            },
+            "snym": null,
+            "cn_vi": "thục tất tình huống",
+            "pinyin": "shúxī qíngkuàng",
+            "word": "熟悉情况",
+            "id": 154318,
+            "phonetic": "shuxiqingkuang",
+            "rank": 23836,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠˋㄩˋㄑㄧㄥˊㄎㄨㄤˋ",
+            "topic": "75",
+            "_id": "5d0529766686db45a5f9dc2950687695",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Trình độ giáo dục",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "giáo dục tình huống",
+            "pinyin": "jiàoyù qíngkuàng",
+            "word": "教育情况",
+            "id": 78446,
+            "phonetic": "jiaoyuqingkuang",
+            "rank": 82711,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˊㄐㄧˋㄑㄧㄥˊㄎㄨㄤˋ",
+            "_id": "6f069d5ad99b479d9d2eca3d824be7cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hoàn cảnh thực tế",
+                            "explain": "actual circumstances; reality",
+                            "examples": [
+                                {
+                                    "m": "căn cứ vào tình hình lao động thực tế của từng người để tiến hành xem xét quyết định cấp bậc.",
+                                    "p_vn": "can cu vao tinh hinh lao dong thuc te cua tung nguoi de tien hanh xem xet quyet dinh cap bac",
+                                    "_id": "13c0912a3218a7b0df09ae702aa1520d",
+                                    "id": 31135,
+                                    "type": "e_cnvi",
+                                    "e": "根据每人劳动的实际情况进行评议，决定等级。",
+                                    "p_cn": "genju mei ren laodong de shiji qingkuang jinxing pingyi jueding dengji",
+                                    "p": "gēnjù měirén láodòng de shíjì qíngkuàng jìnxíng píngyì，juédìng děngjí。"
+                                },
+                                {
+                                    "m": "không hiểu rõ được tình hình thực tế thì không phán đoán đúng được.",
+                                    "p_vn": "khong hieu ro duoc tinh hinh thuc te thi khong phan doan dung duoc",
+                                    "_id": "92b8ae37afb36bdf07095845594dce97",
+                                    "id": 28950,
+                                    "type": "e_cnvi",
+                                    "e": "不明了实际情况就不能做出正确的判断。",
+                                    "p_cn": "bumingliao shiji qingkuang jiu buneng zuo chu zhengque de panduan",
+                                    "p": "bùmíngliǎo shíjì qíngkuàng jiù bùnéng zuò chū zhèngquè de pànduàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tình hình thực tế",
+                            "explain": "the real situation",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tình thật",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 85
+            },
+            "snym": null,
+            "cn_vi": "thực tế tình huống",
+            "pinyin": "shíjì qíngkuàng",
+            "word": "实际情况",
+            "id": 139102,
+            "phonetic": "shijiqingkuang",
+            "rank": 45197,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄢˋㄐㄧㄠㄑㄧㄥˊㄎㄨㄤˋ",
+            "_id": "21a49ae5d419270afad26ec552b20c71",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thiếu keo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "khiếm giao tình huống",
+            "pinyin": "qiàn jiāo qíngkuàng",
+            "word": "欠胶情况",
+            "id": 77813,
+            "phonetic": "qianjiaoqingkuang",
+            "rank": 137960,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄥㄐㄧˋㄑㄧㄥˊㄎㄨㄤˋ",
+            "_id": "e66dbbb79db74b0fa1e6781e274ec3f7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình kinh tế",
+                            "explain": "economic situation",
+                            "examples": [
+                                {
+                                    "m": "Điều này sẽ thay đổi tình hình kinh tế của ngành.",
+                                    "p_vn": "dieu nay se thay doi tinh hinh kinh te cua nganh.",
+                                    "_id": "fdc58e79fee539d64590b9667573d1f3",
+                                    "id": 73699,
+                                    "e": "这将改变这个行业的经济情况。",
+                                    "p_cn": "zhe jiāng gǎibian zhege hangye de jīngji qingkuang.",
+                                    "type": "e_cnvi",
+                                    "p": "zhè jiāng gǎibiàn zhège hángyè de jīngjì qíngkuàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tình trạng kinh tế xã hội của một người",
+                            "explain": "one's socio-economic status",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 46
+            },
+            "snym": null,
+            "cn_vi": "kinh tế tình huống",
+            "pinyin": "jīngjì qíngkuàng",
+            "word": "经济情况",
+            "id": 140962,
+            "phonetic": "jingjiqingkuang",
+            "rank": 59722,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢˋㄕˊㄑㄧㄥˊㄎㄨㄤˋ",
+            "_id": "ed24180ca80142d097b12da4ff8a0659",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình hiện tại",
+                            "explain": "current situation",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tình trạng hiện tại",
+                            "explain": "current state",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 81
+            },
+            "snym": null,
+            "cn_vi": "hiện thực tình huống",
+            "pinyin": "xiànshí qíngkuàng",
+            "word": "现实情况",
+            "id": 141442,
+            "phonetic": "xianshiqingkuang",
+            "rank": 46237,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cede1e962e2c4858824313627ae212d9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "bộ sậu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tiến triển tình huống",
+            "pinyin": "jìnzhǎn qíngkuàng",
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "word": "进展情况",
+            "id": 182964,
+            "phonetic": "jinzhanqingkuang",
+            "rank": 111154,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v",
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄨㄤˋ",
+            "_id": "ac29ce0196cb7cb74ad1db0b56310c97",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình; tình trạng; tình huống",
+                            "explain": "情形",
+                            "examples": [
+                                {
+                                    "m": "Đó là loại tình huống nào đây.",
+                                    "p_vn": "do la loai tinh huong nao day.",
+                                    "_id": "55db399305625a14707d64b9189f6535",
+                                    "id": 101086,
+                                    "type": "e_cnvi",
+                                    "e": "那是何种况呢。",
+                                    "p_cn": "na shi he zhong kuang ne.",
+                                    "p": "nà shì hé zhǒng kuàng ne."
+                                },
+                                {
+                                    "m": "Tình trạng này không tốt chút nào.",
+                                    "p_vn": "tinh trang nay khong tot chut nao.",
+                                    "_id": "55db399305625a14707d64b9189f65b9",
+                                    "id": 101087,
+                                    "type": "e_cnvi",
+                                    "e": "这种况不太好。",
+                                    "p_cn": "zhe zhong kuang bu tai hao.",
+                                    "p": "zhè zhǒng kuàng bù tài hǎo."
+                                },
+                                {
+                                    "m": "Hiểu rõ tình hình thực tế.",
+                                    "p_vn": "hieu ro tinh hinh thuc te.",
+                                    "_id": "55db399305625a14707d64b9189f6659",
+                                    "id": 101088,
+                                    "type": "e_cnvi",
+                                    "e": "了解实际况呀。",
+                                    "p_cn": "liaojie shiji kuang ya.",
+                                    "p": "liǎojiě shíjì kuàng ya."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Huống",
+                            "explain": "(Kuàng) 姓",
+                            "examples": [
+                                {
+                                    "m": "Tôi họ Huống.",
+                                    "p_vn": "toi ho huong.",
+                                    "_id": "55db399305625a14707d64b9189f8392",
+                                    "id": 101091,
+                                    "type": "e_cnvi",
+                                    "e": "我姓况。",
+                                    "p_cn": "wo xing kuang.",
+                                    "p": "wǒ xìng kuàng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "so sánh; so; ví",
+                            "explain": "比方",
+                            "examples": [
+                                {
+                                    "m": "Lấy hoa để ví tư thế của mỹ nhân.",
+                                    "p_vn": "lay hoa de vi tu the cua my nhan.",
+                                    "_id": "55db399305625a14707d64b9189fb3dd",
+                                    "id": 101097,
+                                    "type": "e_cnvi",
+                                    "e": "拿花况美人之姿。",
+                                    "p_cn": "na hua kuang meiren zhi zi.",
+                                    "p": "ná huā kuàng měirén zhī zī."
+                                },
+                                {
+                                    "m": "Dùng vật này để so sánh.",
+                                    "p_vn": "dung vat nay de so sanh.",
+                                    "_id": "55db399305625a14707d64b9189fbfda",
+                                    "id": 101098,
+                                    "type": "e_cnvi",
+                                    "e": "以此物来比况。",
+                                    "p_cn": "yi ci wu lai bi kuang.",
+                                    "p": "yǐ cǐ wù lái bǐ kuàng."
+                                },
+                                {
+                                    "m": "Không được tùy tiện so sánh.",
+                                    "p_vn": "khong duoc tuy tien so sanh.",
+                                    "_id": "55db399305625a14707d64b9189fc5df",
+                                    "id": 101099,
+                                    "type": "e_cnvi",
+                                    "e": "不要随意比况。",
+                                    "p_cn": "buyao suiyi bi kuang.",
+                                    "p": "bùyào suíyì bǐ kuàng."
+                                },
+                                {
+                                    "m": "Không có so sánh, sẽ không có đau thương.",
+                                    "p_vn": "khong co so sanh, se khong co dau thuong.",
+                                    "_id": "55db399305625a14707d64b9189fd177",
+                                    "id": 101100,
+                                    "type": "e_cnvi",
+                                    "e": "没有比况，就没有凄侧。",
+                                    "p_cn": "meiyou bi kuang, jiu meiyou qi ce.",
+                                    "p": "méiyǒu bǐ kuàng, jiù méiyǒu qī cè."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "bên cạnh đó; hơn nữa",
+                            "explain": "除此之外；更多",
+                            "examples": [
+                                {
+                                    "m": "Không chỉ vấn đề này, bên cạnh đó còn có vấn đề khác.",
+                                    "p_vn": "khong chi van de nay, ben canh do con co van de khac.",
+                                    "_id": "55db399305625a14707d64b918a03857",
+                                    "id": 101110,
+                                    "type": "e_cnvi",
+                                    "e": "不仅有这个，况还有其他问题。",
+                                    "p_cn": "bujin you zhege, kuang hai you qita wenti.",
+                                    "p": "bùjǐn yǒu zhège, kuàng hái yǒu qítā wèntí."
+                                },
+                                {
+                                    "m": "Đừng bỏ cuộc quá nhanh, hơn nữa đây mới chỉ là sự khởi đầu.",
+                                    "p_vn": "dung bo cuoc qua nhanh, hon nua day moi chi la su khoi dau.",
+                                    "_id": "55db399305625a14707d64b918a04358",
+                                    "id": 101111,
+                                    "type": "e_cnvi",
+                                    "e": "别放弃这么快，况这只是开始。",
+                                    "p_cn": "bie fangqi zheme kuai, kuang zhe zhishi kaishi.",
+                                    "p": "bié fàngqì zhème kuài, kuàng zhè zhǐshì kāishǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ít nhiều; huống hồ là; chưa kể",
+                            "explain": "更不用说",
+                            "examples": [
+                                {
+                                    "m": "Người lớn còn không làm được, huống hồ là trẻ con.",
+                                    "p_vn": "nguoi lon con khong lam duoc, huong ho la tre con.",
+                                    "_id": "55db399305625a14707d64b918a05f06",
+                                    "id": 101115,
+                                    "type": "e_cnvi",
+                                    "e": "大人都做不到，况小孩。",
+                                    "p_cn": "daren dou zuo bu dao, kuang xiaohai.",
+                                    "p": "dàrén dōu zuò bù dào, kuàng xiǎohái."
+                                },
+                                {
+                                    "m": "Anh ấy còn không biết, huống hồ những người khác.",
+                                    "p_vn": "anh ay con khong biet, huong ho nhung nguoi khac.",
+                                    "_id": "55db399305625a14707d64b918a06492",
+                                    "id": 101116,
+                                    "type": "e_cnvi",
+                                    "e": "他还不会，况其他人。",
+                                    "p_cn": "ta hai bu hui, kuang qita ren.",
+                                    "p": "tā hái bù huì, kuàng qítā rén."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 56,
+                "search": 1767
+            },
+            "snym": null,
+            "cn_vi": "huống",
+            "pinyin": "kuàng",
+            "word": "况",
+            "id": 32994,
+            "phonetic": "kuang",
+            "rank": 6191,
+            "lv_tocfl": null,
+            "compound": "况且 ; 况味"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄨㄤˋㄨㄟˋ",
+            "_id": "38920fd0e9a75efa9a16565d0ce70b6b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình cảnh; hoàn cảnh; trường hợp; tình huống; tình thế",
+                            "explain": "境况和情味",
+                            "examples": [
+                                {
+                                    "m": "trong tình huống đó, khó mà diễn tả hết lời.",
+                                    "p_vn": "trong tinh huong do kho ma dien ta het loi",
+                                    "_id": "f424fe8342c3d5dd025d384b15e98855",
+                                    "id": 24186,
+                                    "type": "e_cnvi",
+                                    "e": "个中况味，难以尽言。",
+                                    "p_cn": "ge zhong kuangwei nanyi jin yan",
+                                    "p": "gè zhōng kuàngwèi，nányǐ jǐnyán。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 127
+            },
+            "snym": null,
+            "cn_vi": "huống vị",
+            "pinyin": "kuàngwèi",
+            "word": "况味",
+            "id": 32996,
+            "phonetic": "kuangwei",
+            "rank": 36679,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄢˋㄎㄨㄤˋ",
+            "_id": "cb17733a7dcf4a32a8fabbf799d80995",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tiến trình chiến đấu",
+                            "explain": "battle progress",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tình hình chiến trường",
+                            "explain": "battlefield situation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "chiến huống",
+            "pinyin": "zhànkuàng",
+            "word": "战况",
+            "id": 110030,
+            "phonetic": "zhankuang",
+            "rank": 75871,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, zhǒng",
+                "examples": "",
+                "measure": "个、种"
+            },
+            "zhuyin": "ㄓㄨㄤˋㄎㄨㄤˋ",
+            "_id": "562dee984db5171e5a30c8476865d0b9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "ở trong tình huống như thế nào",
+                            "examples": [
+                                113880,
+                                113881,
+                                113883
+                            ],
+                            "struct": "处于/ 在……状况"
+                        },
+                        {
+                            "explain": "tìm hiểu/ nắm bắt/ cải thiện/ thay đổi + tình hình",
+                            "examples": [
+                                113902,
+                                113910
+                            ],
+                            "struct": "了解、掌握、改善、改变……状况"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình; tình trạng; tình cảnh",
+                            "explain": "情形",
+                            "examples": [
+                                {
+                                    "m": "Tình hình kinh tế.",
+                                    "p_vn": "tinh hinh kinh te.",
+                                    "_id": "fa68ff44c4ee3a5374fa3a2667dab403",
+                                    "id": 51873,
+                                    "type": "e_cnvi",
+                                    "e": "经济状况。",
+                                    "p_cn": "jingji zhuangkuang",
+                                    "p": "jīngjì zhuàngkuàng"
+                                },
+                                {
+                                    "m": "Tình hình sức khỏe của anh ấy không được tốt.",
+                                    "p_vn": "tinh hinh suc khoe cua anh ay khong duoc tot.",
+                                    "_id": "641148288b13f4cf43a85133e8084723",
+                                    "id": 113837,
+                                    "type": "e_cnvi",
+                                    "e": "他的健康状况不佳。",
+                                    "p_cn": "ta de jiankang zhuangkuang bu jia.",
+                                    "p": "tā de jiànkāng zhuàngkuàng bù jiā."
+                                },
+                                {
+                                    "m": "Điều kiện thời tiết ảnh hưởng đến việc đi lại.",
+                                    "p_vn": "dieu kien thoi tiet anh huong den viec di lai.",
+                                    "_id": "641148288b13f4cf43a85133e8097f72",
+                                    "id": 113871,
+                                    "type": "e_cnvi",
+                                    "e": "天气状况影响出行。",
+                                    "p_cn": "tianqi zhuangkuang yingxiang chuxing.",
+                                    "p": "tiānqì zhuàngkuàng yǐngxiǎng chūxíng."
+                                },
+                                {
+                                    "m": "Thay đổi tình trạng cuộc sống.",
+                                    "p_vn": "thay doi tinh trang cuoc song.",
+                                    "_id": "641148288b13f4cf43a85133e80aa939",
+                                    "id": 113913,
+                                    "type": "e_cnvi",
+                                    "e": "改变生活状况。",
+                                    "p_cn": "gaibian shenghuo zhuangkuang.",
+                                    "p": "gǎibiàn shēnghuó zhuàngkuàng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 424,
+                "search": 4470
+            },
+            "snym": {
+                "syno": [
+                    "境况",
+                    "情况",
+                    "处境",
+                    "景况",
+                    "情景",
+                    "状态",
+                    "景遇",
+                    "情形",
+                    "情状"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "zhuàngkuàng",
+            "cn_vi": "trạng huống",
+            "word": "状况",
+            "id": 66225,
+            "phonetic": "zhuangkuang",
+            "rank": 2702,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧㄥˋㄎㄨㄤˋ",
+            "_id": "83f32c765f2343e88166acb956cfd3d7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tình trạng bệnh nhân",
+                            "explain": "patient's condition",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tình trạng bệnh tật",
+                            "explain": "state of an illness",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 11
+            },
+            "snym": {
+                "syno": [
+                    "病态"
+                ]
+            },
+            "cn_vi": "bệnh huống",
+            "pinyin": "bìngkuàng",
+            "word": "病况",
+            "id": 110265,
+            "phonetic": "bingkuang",
+            "rank": 99267,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄩㄥˇㄎㄨㄤˋ",
+            "_id": "0b9aaef94299076ce92d9522d0aae089",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình trạng quẫn bách; tình thế khó khăn; nước bí",
+                            "explain": "非常困难又无法摆脱的境况",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 74
+            },
+            "snym": {
+                "syno": [
+                    "困窘",
+                    "窘态",
+                    "窘迫",
+                    "窘困"
+                ],
+                "anto": [
+                    "宽裕"
+                ]
+            },
+            "cn_vi": "quẫn huống",
+            "pinyin": "jiǒngkuàng",
+            "word": "窘况",
+            "id": 30786,
+            "phonetic": "jiongkuang",
+            "rank": 48385,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄨˇㄎㄨㄤˋ",
+            "_id": "ad35f1c074364f568073ec364e945652",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cảnh ngộ khốn khổ",
+                            "explain": "miserable plight",
+                            "examples": []
+                        },
+                        {
+                            "mean": "trạng thái khốn khổ",
+                            "explain": "wretched state",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nỗi khổ",
+                            "explain": "所受的痛苦",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "khổ huống",
+            "pinyin": "kǔ kuàng",
+            "word": "苦况",
+            "id": 105282,
+            "phonetic": "kukuang",
+            "rank": 117819,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗˋㄎㄨㄤˋ",
+            "_id": "20308dbf673440129e2f6983ae74d4e3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để so sánh bản thân",
+                            "explain": "to compare oneself",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để xem bản thân như",
+                            "explain": "to view oneself as",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tự huống",
+            "pinyin": "zì kuàng",
+            "word": "自况",
+            "id": 105225,
+            "phonetic": "zikuang",
+            "rank": 127461,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄘㄞˊㄨ˙ㄑㄧㄥˊㄎㄨㄤˋㄅㄠˋㄍㄠˋ",
+            "_id": "2623d79eec4457ce133d93dcff2ca368",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Báo cáo tình hình tài chính",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tài vụ tình huống báo cáo",
+            "pinyin": "cáiwù qíngkuàng bàogào",
+            "word": "财务情况报告",
+            "id": 80712,
+            "phonetic": "caiwuqingkuangbaogao",
+            "rank": 158608,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄎㄨㄤˋ",
+            "_id": "e3846611c6e398b5fe77e976ecacf0aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình gần đây; cận trạng; cận huống",
+                            "explain": "最近一段时间的情况",
+                            "examples": [
+                                {
+                                    "m": "tình hình gần đây như thế nào?",
+                                    "p_vn": "tinh hinh gan day nhu the nao?",
+                                    "_id": "b6ea492e0d5f5385126ad48a55f873d0",
+                                    "id": 34003,
+                                    "type": "e_cnvi",
+                                    "e": "近况如何?",
+                                    "p_cn": "jinkuang ruhe?",
+                                    "p": "jìnkuàng rúhé?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 26,
+                "search": 229
+            },
+            "snym": null,
+            "cn_vi": "cận huống",
+            "pinyin": "jìnkuàng",
+            "word": "近况",
+            "id": 30285,
+            "phonetic": "jinkuang",
+            "rank": 26124,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄨˋㄎㄨㄤˋ",
+            "_id": "67a7d76a7abe19ce8783cf777f371f94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình giao thông (lưu lượng giao thông)",
+                            "explain": "道路的情况 (指路面、交通流量等)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 43,
+                "search": 274
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "lùkuàng",
+            "cn_vi": "lộ huống",
+            "word": "路况",
+            "id": 36221,
+            "phonetic": "lukuang",
+            "rank": 23437,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄎㄨㄤˋ",
+            "_id": "61dc7b437065060d8a98916877526f9c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình chung; tình hình tổng quát; tình hình đại khái; khái huống",
+                            "explain": "大概的情况",
+                            "examples": [
+                                {
+                                    "m": "tình hình chung của cuộc sống.",
+                                    "p_vn": "tinh hinh chung cua cuoc song",
+                                    "_id": "92ce0defdc6aa327f264710f4ec615dc",
+                                    "id": 12841,
+                                    "type": "e_cnvi",
+                                    "e": "生活概况",
+                                    "p_cn": "shenghuo gaikuang",
+                                    "p": "shēnghuó gàikuàng"
+                                },
+                                {
+                                    "m": "tình hình tổng quát về lịch sử Đôn Hoàng.",
+                                    "p_vn": "tinh hinh tong quat ve lich su don hoang",
+                                    "_id": "afce079e3911e08aeb34ce0186f09285",
+                                    "id": 12842,
+                                    "type": "e_cnvi",
+                                    "e": "敦煌历史概况",
+                                    "p_cn": "dunhuang lishi gaikuang",
+                                    "p": "dūnhuáng lìshǐ gàikuàng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 34,
+                "search": 879
+            },
+            "snym": {
+                "syno": [
+                    "概略",
+                    "大概",
+                    "皮相",
+                    "轮廓",
+                    "外貌",
+                    "梗概",
+                    "外表",
+                    "概貌",
+                    "概述"
+                ],
+                "anto": [
+                    "详情",
+                    "详细"
+                ]
+            },
+            "cn_vi": "khái huống",
+            "pinyin": "gàikuàng",
+            "word": "概况",
+            "id": 18211,
+            "phonetic": "gaikuang",
+            "rank": 10815,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄘㄢˇㄎㄨㄤˋ",
+            "_id": "61ff863785a8e0084399617d00f1a2ff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình huống bi thảm; tình trạng bi thảm",
+                            "explain": "凄惨的状况",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "thảm huống",
+            "pinyin": "cǎn kuàng",
+            "word": "惨况",
+            "id": 5584,
+            "phonetic": "cankuang",
+            "rank": 94656,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄎㄨㄤˋ",
+            "_id": "b7793e40e76cf88f5b024e1da236970b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Đến A còn/ cũng.., huống hồ là B",
+                            "examples": [],
+                            "struct": "连 A 都/也/还 …，（更）何况 B？"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "huống; huống hồ; huống chi; lọ; há rằng; lo là",
+                            "explain": "连词，用反问的语气表示更进一层的意思",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vả chăng; vả lại; hơn nữa",
+                            "explain": "表示更进一层",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"况且\" dùng để tường thuật, \"何况\" dùng làm câu phản vấn.\n- \"何况\" thể hiện ý nghĩa mạnh mẽ và khẳng định chắc chắn hơn \"况且\".",
+                    "title": "Phân biệt \"况且\" và \"何况\"",
+                    "words": [
+                        "况且",
+                        "何况"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "况且"
+                ]
+            },
+            "cn_vi": "hà huống",
+            "pinyin": "hékuàng",
+            "popularity": {
+                "notebook": 353,
+                "search": 5177
+            },
+            "lv_hsk_new": "5",
+            "word": "何况",
+            "id": 22997,
+            "phonetic": "hekuang",
+            "rank": 2307,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄦˊㄎㄨㄤˋ",
+            "_id": "b6580b94fe99e842073ffba8cc0eb1dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "huống hồ; huống chi; không kể đến; chưa nói đến",
+                            "explain": "何况",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lọ là",
+                            "explain": "连词, 用反问的语气表示更进一层的意思",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 72
+            },
+            "snym": null,
+            "cn_vi": "nhi huống",
+            "pinyin": "érkuàng",
+            "word": "而况",
+            "id": 15097,
+            "phonetic": "erkuang",
+            "rank": 49104,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢˋㄎㄨㄤˋ",
+            "_id": "cf6f6dac35e242a386de750cb8a3ec49",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình hiện nay",
+                            "explain": "the current situation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 107
+            },
+            "snym": {
+                "syno": [
+                    "实况"
+                ]
+            },
+            "cn_vi": "hiện huống",
+            "pinyin": "xiàn kuàng",
+            "word": "现况",
+            "id": 110230,
+            "phonetic": "xiankuang",
+            "rank": 40202,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d31ba8de195c4b2d8550e5322035a8d8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chính huống",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chính huống",
+            "pinyin": "zhèng kuàng",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "政况",
+            "id": 176914,
+            "phonetic": "zhengkuang",
+            "rank": 156114,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄥˋㄎㄨㄤˋ",
+            "_id": "39247d823c4e74a4c7b7afabfecfec9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "rầm rộ; sôi nổi",
+                            "explain": "盛大热烈的状况",
+                            "examples": [
+                                {
+                                    "m": "rầm rộ chưa từng thấy.",
+                                    "p_vn": "ram ro chua tung thay",
+                                    "_id": "96b06d9ca954c943eec2eb9b352e942e",
+                                    "id": 35339,
+                                    "type": "e_cnvi",
+                                    "e": "盛况空前。",
+                                    "p_cn": "shengkuang kongqian",
+                                    "p": "shèngkuàngkōngqián。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 231
+            },
+            "snym": {
+                "syno": [
+                    "场面",
+                    "盛景",
+                    "实况"
+                ]
+            },
+            "cn_vi": "thịnh huống",
+            "pinyin": "shèngkuàng",
+            "word": "盛况",
+            "id": 46761,
+            "phonetic": "shengkuang",
+            "rank": 26044,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄞˇㄎㄨㄤˋ",
+            "_id": "6f6bb04973e99de82af964e3e6fbea99",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình biển",
+                            "explain": "指海区的温度、海水成分、浮游生物组成等情况",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tốc độ gió (trên biển)",
+                            "explain": "指海面在风的作用下波动的情况，根据波浪的大小有无，分为0-9共10级",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "hải huống",
+            "pinyin": "hǎikuàng",
+            "word": "海况",
+            "id": 22159,
+            "phonetic": "haikuang",
+            "rank": 106626,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄥˇㄎㄨㄤˋ",
+            "_id": "10f222ba4911e7bab21ff37033180921",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình; tình huống; tình cảnh; cảnh ngộ; tình thế; quang cảnh",
+                            "explain": "情况;光景",
+                            "examples": [
+                                {
+                                    "m": "tình hình của chúng ta ngày càng tốt.",
+                                    "p_vn": "tinh hinh cua chung ta ngay cang tot",
+                                    "_id": "1da42b395519ea3450c5f20bb14e7737",
+                                    "id": 21871,
+                                    "type": "e_cnvi",
+                                    "e": "我们的景况越来越好。",
+                                    "p_cn": "women de jingkuang yue lai yue hao",
+                                    "p": "wǒmen de jǐngkuàng yuèláiyuè hǎo。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 88
+            },
+            "snym": {
+                "syno": [
+                    "境况",
+                    "状况",
+                    "情景",
+                    "景遇",
+                    "情形",
+                    "情状"
+                ]
+            },
+            "cn_vi": "cảnh huống",
+            "pinyin": "jǐngkuàng",
+            "word": "景况",
+            "id": 30634,
+            "phonetic": "jingkuang",
+            "rank": 44275,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e9a6a93729c04c7f92abb876d03f3d2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "há rằng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "huống hồ",
+            "pinyin": "kuàng hū",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "况乎",
+            "id": 183871,
+            "phonetic": "kuanghu",
+            "rank": 158107,
+            "kind": [
+                "conj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "2, 30, 35, 77",
+            "zhuyin": "ㄕˊㄎㄨㄤˋ",
+            "_id": "3e8a2120a3f609896292e931a30a385e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình thực tế; tại chỗ",
+                            "explain": "实际情况",
+                            "examples": [
+                                {
+                                    "m": "truyền tin tại chỗ.",
+                                    "p_vn": "truyen tin tai cho",
+                                    "_id": "18cd078d723e2a8598f8948e319d7db0",
+                                    "id": 35627,
+                                    "type": "e_cnvi",
+                                    "e": "实况报导。",
+                                    "p_cn": "shikuang baodao",
+                                    "p": "shíkuàngbàodǎo。"
+                                },
+                                {
+                                    "m": "ghi âm tại chỗ.",
+                                    "p_vn": "ghi am tai cho",
+                                    "_id": "f99ae57312fe3f08736e6a2d25d0940a",
+                                    "id": 35628,
+                                    "type": "e_cnvi",
+                                    "e": "实况录音。",
+                                    "p_cn": "shikuang luyin",
+                                    "p": "shíkuàng lùyīn。"
+                                },
+                                {
+                                    "m": "tình hình thực tế tại đại hội; tình hình đang diễn ra tại đại hội.",
+                                    "p_vn": "tinh hinh thuc te tai dai hoi; tinh hinh dang dien ra tai dai hoi",
+                                    "_id": "f81ca79be2828b5ff615e541ff1fb122",
+                                    "id": 35629,
+                                    "type": "e_cnvi",
+                                    "e": "大会实况。",
+                                    "p_cn": "dahui shikuang",
+                                    "p": "dàhùi shíkuàng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 27,
+                "search": 234
+            },
+            "snym": {
+                "syno": [
+                    "实情",
+                    "实际",
+                    "现况",
+                    "盛况"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "shíkuàng",
+            "cn_vi": "thực huống",
+            "word": "实况",
+            "id": 47189,
+            "phonetic": "shikuang",
+            "rank": 25822,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄨㄤˋㄑㄧㄝˇ",
+            "_id": "df999c943e4ca8007e1a127c0cac7561",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "hơn nữa; vả lại; ngoài ra; vả chăng, huống hồ",
+                            "explain": "连词， 表示更进一层; 表示更进一层",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lại nữa",
+                            "explain": "表示进一步, 前面往往有'不但、不仅'等跟它呼应",
+                            "examples": []
+                        },
+                        {
+                            "mean": "huống chi; lọ là",
+                            "explain": "连词, 用反问的语气表示更进一层的意思",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"况且\" dùng để tường thuật, \"何况\" dùng làm câu phản vấn.\n- \"何况\" thể hiện ý nghĩa mạnh mẽ và khẳng định chắc chắn hơn \"况且\".",
+                    "title": "Phân biệt \"况且\" và \"何况\"",
+                    "words": [
+                        "况且",
+                        "何况"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "而且",
+                    "何况",
+                    "况兼",
+                    "再说"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "kuàngqiě",
+            "cn_vi": "huống thả",
+            "popularity": {
+                "notebook": 221,
+                "search": 2817
+            },
+            "word": "况且",
+            "id": 32995,
+            "phonetic": "kuangqie",
+            "rank": 4196,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄥˋㄎㄨㄤˋ",
+            "_id": "f7123c8f30aba9969fd0050006d9dd3a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình trạng; tình cảnh; hoàn cảnh; tình hình (thường nói về kinh tế)",
+                            "explain": "状况 (多指经济方面的)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cảnh trạng",
+                            "explain": "情形",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nỗi",
+                            "explain": "达到的程度",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 368
+            },
+            "snym": {
+                "syno": [
+                    "情况",
+                    "境遇",
+                    "状况",
+                    "处境",
+                    "景况",
+                    "环境",
+                    "情形",
+                    "情状"
+                ]
+            },
+            "cn_vi": "cảnh huống",
+            "pinyin": "jìngkuàng",
+            "word": "境况",
+            "id": 30739,
+            "phonetic": "jingkuang",
+            "rank": 19427,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˊㄎㄨㄤˋㄓㄨˇ",
+            "_id": "cb774ebaaff340d5911413591aca3351",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vlogger trực tiếp",
+                            "explain": "live vlogger",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người phát trực tiếp",
+                            "explain": "live-streamer",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "thực huống chủ",
+            "pinyin": "shíkuàng zhǔ",
+            "word": "实况主",
+            "id": 124709,
+            "phonetic": "shikuangzhu",
+            "rank": 94527,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄥˊ",
+            "_id": "6ee22eb7cd111b1acb0e0c03e0820fd4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình cảm",
+                            "explain": "感情",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy thật sự là một người vô tình.",
+                                    "p_vn": "anh ay that su la mot nguoi vo tinh.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9e5aefc",
+                                    "id": 97080,
+                                    "type": "e_cnvi",
+                                    "e": "他真是个无情的人。",
+                                    "p_cn": "ta zhenshi ge wuqing de ren.",
+                                    "p": "tā zhēnshì gè wúqíng de rén."
+                                },
+                                {
+                                    "m": "Anh ấy là một người coi trọng tình cảm.",
+                                    "p_vn": "anh ay la mot nguoi coi trong tinh cam.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9e5c525",
+                                    "id": 97081,
+                                    "type": "e_cnvi",
+                                    "e": "他是个重情的人。",
+                                    "p_cn": "ta shige zhong qing de ren.",
+                                    "p": "tā shìgè zhòng qíng de rén."
+                                },
+                                {
+                                    "m": "Giữa chúng ta có tình cảm sâu đậm.",
+                                    "p_vn": "giua chung ta co tinh cam sau dam.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9e5d273",
+                                    "id": 97082,
+                                    "type": "e_cnvi",
+                                    "e": "我们之间有深厚的情。",
+                                    "p_cn": "women zhi jian you shenhou de qing.",
+                                    "p": "wǒmen zhī jiān yǒu shēnhòu de qíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tình người; ân tình",
+                            "explain": "情面",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy nợ tôi một ân tình.",
+                                    "p_vn": "anh ay no toi mot an tinh.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3fd08dc",
+                                    "id": 81673,
+                                    "type": "e_cnvi",
+                                    "e": "他欠我一个情。",
+                                    "p_cn": "ta qian wo yige qing.",
+                                    "p": "tā qiàn wǒ yīgè qíng."
+                                },
+                                {
+                                    "m": "Tình người ở đây rất ấm áp.",
+                                    "p_vn": "tinh nguoi o day rat am ap.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9e5f901",
+                                    "id": 97083,
+                                    "type": "e_cnvi",
+                                    "e": "这里的人情很温暖。",
+                                    "p_cn": "zheli de renqing hen wennuan.",
+                                    "p": "zhèlǐ de rénqíng hěn wēnnuǎn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tình hình; tình trạng; sự việc",
+                            "explain": "情形;情况;事件",
+                            "examples": [
+                                {
+                                    "m": "Tình trạng bệnh của anh ấy rất nghiêm trọng.",
+                                    "p_vn": "tinh trang benh cua anh ay rat nghiem trong.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9e6a63f",
+                                    "id": 97088,
+                                    "type": "e_cnvi",
+                                    "e": "他的病情很严重。",
+                                    "p_cn": "ta de bingqing hen yanzhong.",
+                                    "p": "tā de bìngqíng hěn yánzhòng."
+                                },
+                                {
+                                    "m": "Anh ấy cuối cùng cũng nói ra sự thật.",
+                                    "p_vn": "anh ay cuoi cung cung noi ra su that.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9e6c643",
+                                    "id": 97092,
+                                    "type": "e_cnvi",
+                                    "e": "他终于说出了实情。",
+                                    "p_cn": "ta zhongyu shuo chule shiqing.",
+                                    "p": "tā zhōngyú shuō chūle shíqíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "yêu cầu",
+                            "explain": "要求",
+                            "examples": [
+                                {
+                                    "m": "Tôi có một yêu cầu không thích hợp, mong bạn đồng ý.",
+                                    "p_vn": "toi co mot yeu cau khong thich hop, mong ban dong y.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9e72395",
+                                    "id": 97105,
+                                    "type": "e_cnvi",
+                                    "e": "我有个不情之请，望你答应。",
+                                    "p_cn": "wo you ge bu qing zhi qing, wang ni daying.",
+                                    "p": "wǒ yǒu gè bù qíng zhī qǐng, wàng nǐ dāyìng."
+                                },
+                                {
+                                    "m": "Yêu cầu này không thích hợp, tôi thấy xấu hổ.",
+                                    "p_vn": "yeu cau nay khong thich hop, toi thay xau ho.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9e73316",
+                                    "id": 97106,
+                                    "type": "e_cnvi",
+                                    "e": "这不情之请，我不好意思。",
+                                    "p_cn": "zhe bu qing zhi qing, wo bu haoyisi.",
+                                    "p": "zhè bù qíng zhī qǐng, wǒ bù hǎoyìsi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 143,
+                "search": 8910
+            },
+            "snym": {
+                "syno": [
+                    "爱"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "qíng",
+            "cn_vi": "tình",
+            "word": "情",
+            "id": 43263,
+            "phonetic": "qing",
+            "rank": 1169,
+            "lv_tocfl": 3,
+            "compound": "情爱 ; 情报 ; 情不自禁 ; 情操 ; 情敌 ; 情调 ; 情窦初开 ; 情分 ; 情夫 ; 情妇 ; 情感 ; 情歌 ; 情话 ; 情怀 ; 情急 ; 情节 ; 情景 ; 情境 ; 情况 ; 情郎 ; 情理 ; 情侣 ; 情面 ; 情趣 ; 情人 ; 情势 ; 情事 ; 情书 ; 情思 ; 情愫 ; 情随事迁 ; 情态 ; 情投意合 ; 情网 ; 情味 ; 情形 ; 情绪 ; 情义 ; 情谊 ; 情意 ; 情由 ; 情欲 ; 情愿 ; 情知 ; 情致 ; 情状"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄘㄞˊㄈㄨˋㄓㄨㄤˋㄎㄨㄤˋ",
+            "_id": "55b1ea244a2049e8974369228a6cfaee",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Endowment position",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 61
+            },
+            "snym": null,
+            "cn_vi": "tài phú trạng huống",
+            "pinyin": "Cáifù zhuàngkuàng",
+            "word": "财富状况",
+            "id": 157069,
+            "phonetic": "Caifuzhuangkuang",
+            "rank": 52959,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˊㄎㄨㄤˋㄓㄨㄢˇㄅㄛ",
+            "_id": "9e3839814e344031b45913eee55708ef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phát sóng cảnh thực tế",
+                            "explain": "broadcast of actual scene",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tiếp sức trực tiếp",
+                            "explain": "live relay",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phát sóng trực tiếp",
+                            "explain": "to broadcast live",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "thực huống chuyển bá",
+            "pinyin": "shíkuàng zhuǎnbò",
+            "word": "实况转播",
+            "id": 140549,
+            "phonetic": "shikuangzhuanbo",
+            "rank": 64968,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄈㄚㄓㄨㄤˋㄎㄨㄤˋ",
+            "_id": "8266ab0e80cd4b20919f5f203280e2bb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tình hình khẩn cấp",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tình hình khẩn cấp xảy ra khiến anh ta không kịp dự liệu",
+                                    "p_vn": "Tinh hinh khan cap xay ra khien anh ta khong kip du lieu",
+                                    "_id": "3dc10b83b7d0454b964165b51a63ca63",
+                                    "id": 63544,
+                                    "type": "e_cnvi",
+                                    "e": "这个突发状况是他始料不及的",
+                                    "p_cn": "Zhege tu fa zhuangkuang shi ta shi liao buji de",
+                                    "p": "Zhège tú fā zhuàngkuàng shì tā shǐ liào bùjí de"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 45
+            },
+            "snym": null,
+            "cn_vi": "đột phát trạng huống",
+            "pinyin": "tú fā zhuàngkuàng",
+            "word": "突发状况",
+            "id": 147461,
+            "phonetic": "tufazhuangkuang",
+            "rank": 60350,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧㄠㄓㄨㄣˇㄓㄨㄤˋㄎㄨㄤˋ",
+            "_id": "96489584a0164f89999e0d9e79244577",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "điều kiện tiêu chuẩn về nhiệt độ và áp suất",
+                            "explain": "standard conditions for temperature and pressure",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tiêu chuẩn trạng huống",
+            "pinyin": "biāozhǔn zhuàngkuàng",
+            "word": "标准状况",
+            "id": 141799,
+            "phonetic": "biaozhunzhuangkuang",
+            "rank": 132543,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄨㄟㄑㄧㄥˊ",
+            "_id": "b67c16aa24554145a1d0996c8ea15d51",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kích thích chu kỳ động dục; kích thích động dục",
+                            "explain": "用人工方法促进雌性动物发情排卵。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 47
+            },
+            "snym": null,
+            "cn_vi": "thôi tình",
+            "pinyin": "cuīqíng",
+            "word": "催情",
+            "id": 101414,
+            "phonetic": "cuiqing",
+            "rank": 59675,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b6aff22f06184ce49b24f942c371ac24",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tình tứ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "tình mẫu tử.",
+                                    "p_vn": "tinh mau tu.",
+                                    "_id": "018086d3d5838d0494dfc65ccb6dc451",
+                                    "id": 36090,
+                                    "type": "e_cnvi",
+                                    "e": "舐犊情深(比喻对子女的慈爱)。",
+                                    "p_cn": "shi du qing shen (biyu dui zinǚ de ci'ai).",
+                                    "p": "shì dú qíng shēn (bǐyù duì zǐnǚ de cí'ài)."
+                                },
+                                {
+                                    "m": "Trên đời có một loại tình yêu, không có ngông cuồng, không phân biệt ai đúng sai và càng không vì tình cảm nông nổi.",
+                                    "p_vn": "Tren doi co mot loai tinh yeu, khong co ngong cuong, khong phan biet ai dung sai va cang khong vi tinh cam nong noi.",
+                                    "_id": "76ec494cebea4e5cb8e3ab309b12fe0b",
+                                    "id": 67545,
+                                    "type": "e_cnvi",
+                                    "e": "人世间有一种爱，没有奢求，没有谁对谁错，亦不怪缘浅情深",
+                                    "p_cn": "Ren shijian youyi zhong ai, meiyou sheqiu, meiyou shei dui shei cuo, yi bu guai yuan qian qing shen",
+                                    "p": "Rén shìjiān yǒuyī zhǒng ài, méiyǒu shēqiú, méiyǒu shéi duì shéi cuò, yì bù guài yuán qiǎn qíng shēn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tình thâm",
+            "pinyin": "qíng shēn",
+            "popularity": {
+                "notebook": 8,
+                "search": 216
+            },
+            "word": "情深",
+            "id": 183465,
+            "phonetic": "qingshen",
+            "rank": 27065,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄣˊㄑㄧㄥˊ",
+            "_id": "b7140485783bdad9cbcafc5f339983a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình xưa; tình cũ",
+                            "explain": "旧情",
+                            "examples": []
+                        },
+                        {
+                            "mean": "trần tình; phát biểu ý kiến",
+                            "explain": "陈述自己的想法",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 76
+            },
+            "snym": null,
+            "cn_vi": "trần tình",
+            "pinyin": "chén qíng",
+            "word": "陈情",
+            "id": 7066,
+            "phonetic": "chenqing",
+            "rank": 47814,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄥˊㄙㄜˋ",
+            "_id": "d3c60871fd9b4f2eaedd4cf0c7e73bc0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khiêu dâm (nghệ thuật, v.v.)",
+                            "explain": "erotic (of art etc)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nét mặt (cổ xưa)",
+                            "explain": "facial expression (archaic)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 116
+            },
+            "snym": null,
+            "cn_vi": "tình sắc",
+            "pinyin": "qíngsè",
+            "word": "情色",
+            "id": 96676,
+            "phonetic": "qingse",
+            "rank": 38555,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "zhuyin": "ㄑㄧㄥˊㄒㄧㄥˊ",
+            "_id": "ae7f6f7b37973148145f4b0d032b273d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình",
+                            "explain": "事物所表现出来的具体状况",
+                            "examples": [
+                                {
+                                    "m": "Tình hình hiện tại rất phức tạp.",
+                                    "p_vn": "tinh hinh hien tai rat phuc tap.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ec27e5",
+                                    "id": 131654,
+                                    "type": "e_cnvi",
+                                    "e": "现在的情形很复杂。",
+                                    "p_cn": "xianzai de qingxing hen fuza.",
+                                    "p": "xiànzài de qíngxing hěn fùzá."
+                                },
+                                {
+                                    "m": "Anh ấy không nói cho tôi tình hình thực sự.",
+                                    "p_vn": "anh ay khong noi cho toi tinh hinh thuc su.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ec34c4",
+                                    "id": 131656,
+                                    "type": "e_cnvi",
+                                    "e": "他没告诉我真实的情形。",
+                                    "p_cn": "ta mei gaosu wo zhenshi de qingxing.",
+                                    "p": "tā méi gàosù wǒ zhēnshí de qíngxing."
+                                },
+                                {
+                                    "m": "Tình hình này khiến tôi rất lo lắng.",
+                                    "p_vn": "tinh hinh nay khien toi rat lo lang.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ec44ca",
+                                    "id": 131658,
+                                    "type": "e_cnvi",
+                                    "e": "这个情形让我很担心。",
+                                    "p_cn": "zhege qingxing rang wo hen danxin.",
+                                    "p": "zhègè qíngxing ràng wǒ hěn dānxīn."
+                                },
+                                {
+                                    "m": "Giáo viên hiểu rõ tình hình của học sinh.",
+                                    "p_vn": "giao vien hieu ro tinh hinh cua hoc sinh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ec5519",
+                                    "id": 131660,
+                                    "type": "e_cnvi",
+                                    "e": "老师了解学生的情形。",
+                                    "p_cn": "laoshi liaojie xuesheng de qingxing.",
+                                    "p": "lǎoshī liǎojiě xuéshēng de qíngxing."
+                                },
+                                {
+                                    "m": "Bạn có thể giải thích tình hình này không?",
+                                    "p_vn": "ban co the giai thich tinh hinh nay khong?",
+                                    "_id": "b3c6ec0c8f520232d683a7b571ec6638",
+                                    "id": 131662,
+                                    "type": "e_cnvi",
+                                    "e": "你能解释一下这个情形吗？",
+                                    "p_cn": "ni neng jieshi yixia zhege qingxing ma?",
+                                    "p": "nǐ néng jiěshì yīxià zhègè qíngxing ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"情况\" và \"情形\" là đồng nghĩa.\nKhác:\n- \"情况\" tập trung vào ngoại quan của sự vật, \"情形\" không có hạn chế như vậy.",
+                    "title": "Phân biệt \"情况\" và \"情形\"",
+                    "words": [
+                        "情况",
+                        "情形"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "境况",
+                    "情况",
+                    "状况",
+                    "形态",
+                    "景况",
+                    "情景",
+                    "情境"
+                ]
+            },
+            "lv_hsk_new": "5, 6",
+            "pinyin": "qíngxing",
+            "cn_vi": "tình hình",
+            "popularity": {
+                "notebook": 191,
+                "search": 1907
+            },
+            "word": "情形",
+            "id": 43304,
+            "phonetic": "qingxing",
+            "rank": 5816,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄠˋㄑㄧㄥˊ",
+            "_id": "c6b41e2e1afd10d211d32aec4ef4b6aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đạo tình (hình thức diễn xuất lấy hát làm chính, đệm bằng trống và phách, chuyên diễn các tích của đạo giáo.)",
+                            "explain": "以唱为主的一种曲艺，用渔鼓和简板伴奏，原为道士演唱的道教故事的曲子，后来用一般民间故事做题材也叫渔鼓 (鱼鼓)、渔鼓道情 (鱼鼓道情)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "đạo tình",
+            "pinyin": "dào qíng",
+            "word": "道情",
+            "id": 11676,
+            "phonetic": "daoqing",
+            "rank": 97761,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "58, 64",
+            "zhuyin": "ㄑㄧㄥˊㄧˋ",
+            "_id": "dae5fc97d462ab98c37e51f188ea56c0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình nghĩa; tình",
+                            "explain": "亲属、同志、朋友相互间应有的感情",
+                            "examples": [
+                                {
+                                    "m": "chí gái đối với nó rất có tình có nghĩa.",
+                                    "p_vn": "chi gai doi voi no rat co tinh co nghia.",
+                                    "_id": "1a225ec78d181cbb76063ca222ca296c",
+                                    "id": 32792,
+                                    "type": "e_cnvi",
+                                    "e": "姐姐待他很有情义。",
+                                    "p_cn": "jiejie dai ta hen you qingyi. ",
+                                    "p": "jiějiě dài tā hěn yǒu qīngyì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 173
+            },
+            "snym": {
+                "syno": [
+                    "情意",
+                    "情谊",
+                    "交谊",
+                    "交情",
+                    "友谊",
+                    "爱意"
+                ],
+                "anto": [
+                    "绝情"
+                ]
+            },
+            "cn_vi": "tình nghĩa",
+            "pinyin": "qíngyì",
+            "word": "情义",
+            "id": 43306,
+            "phonetic": "qingyi",
+            "rank": 30816,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨㄥˊㄑㄧㄥˊ",
+            "_id": "f59b9c9e006c2906faa6c2d20be8883a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khoan dung; tha thứ; độ lượng",
+                            "explain": "加以宽容 (多用于否定式)",
+                            "examples": [
+                                {
+                                    "m": "chúng tôi quyết không khoan dung với những chuyện xấu, người xấu.",
+                                    "p_vn": "chung toi quyet khong khoan dung voi nhung chuyen xau nguoi xau",
+                                    "_id": "93784ff6fb1a19fb96cbc3470e4afec0",
+                                    "id": 33905,
+                                    "type": "e_cnvi",
+                                    "e": "我们对坏人坏事是决不容情。",
+                                    "p_cn": "women dui huairen huaishi shi jue burong qing",
+                                    "p": "wǒmen dùi huàirénhuàishì shì juébù róngqíng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nể",
+                            "explain": "将就别人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "dung tình",
+            "pinyin": "róng qíng",
+            "word": "容情",
+            "id": 44492,
+            "phonetic": "rongqing",
+            "rank": 92808,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄑㄧㄥˊ",
+            "_id": "bbc920c51a9d22649e857a588110da14",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "trữ tình; tự tình; tả tình",
+                            "explain": "抒发情感",
+                            "examples": [
+                                {
+                                    "m": "văn xuôi trữ tình.",
+                                    "p_vn": "van xuoi tru tinh",
+                                    "_id": "1d76dd47bf653594ca114927f14f67aa",
+                                    "id": 36394,
+                                    "type": "e_cnvi",
+                                    "e": "抒情散文。",
+                                    "p_cn": "shuqing sanwen",
+                                    "p": "shūqíngsànwén。"
+                                },
+                                {
+                                    "m": "trong văn tả cảnh, tự sự cũng luôn có thành phần trữ tình.",
+                                    "p_vn": "trong van ta canh, tu su cung luon co thanh phan tru tinh.",
+                                    "_id": "d92bbaa9c48dda315456591455064522",
+                                    "id": 36395,
+                                    "type": "e_cnvi",
+                                    "e": "写景、叙事的诗里也往往含有抒情的成分。",
+                                    "p_cn": "xiejing 、 xushi de shili ye wangwang hanyou shuqing de chengfen。",
+                                    "p": "xiějǐng 、 xùshì de shīlǐ yě wǎngwǎng hányǒu shūqíng de chéngfēn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 66,
+                "search": 882
+            },
+            "snym": {
+                "syno": [
+                    "抒怀"
+                ],
+                "anto": [
+                    "叙事"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "shūqíng",
+            "cn_vi": "trữ tình",
+            "word": "抒情",
+            "id": 48035,
+            "phonetic": "shuqing",
+            "rank": 10783,
+            "kind": [
+                "v",
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e2043b85b96c4c4b84d6da082ae46364",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chiếu tình",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chiếu tình",
+            "pinyin": "zhào qíng",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "照情",
+            "id": 176954,
+            "phonetic": "zhaoqing",
+            "rank": 151532,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "情况"
+}

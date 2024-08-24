@@ -1,0 +1,3584 @@
+{
+    "total": 2570,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "adv",
+                "adj"
+            ],
+            "measure": null,
+            "topic": "12, 57",
+            "zhuyin": "ㄧㄉㄧㄥˋ",
+            "_id": "bc7717b7f0b7656e295e9e8dc5478837",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "chắc chắc/ nhất định + phải/cần/ có thể làm gì",
+                            "examples": [
+                                99333,
+                                99336
+                            ],
+                            "struct": "一定 + （要、得、能 +）Động từ"
+                        },
+                        {
+                            "explain": "không nhất định/ không chắc/ nhất định làm gì",
+                            "examples": [
+                                99334,
+                                99339,
+                                99340
+                            ],
+                            "struct": "不一定/一定 + Động từ"
+                        },
+                        {
+                            "explain": "chỉ cần..., chắc chắn/ nhất định...",
+                            "examples": [
+                                99337,
+                                99342
+                            ],
+                            "struct": "只要...，就 +  一定 ..."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "phải; nhất định; cần phải; chắc chắn (biểu thị kiên quyết hoặc xác định)",
+                            "explain": "(副) 表示坚决或确定;必定",
+                            "examples": [
+                                {
+                                    "m": "Tôi nhất định phải thành công",
+                                    "p_vn": "toi nhat dinh phai thanh cong",
+                                    "_id": "55db399305625a14707d64b918477186",
+                                    "id": 99330,
+                                    "type": "e_cnvi",
+                                    "e": "我一定要成功。",
+                                    "p_cn": "wo yiding yao chenggong.",
+                                    "p": "wǒ yīdìng yào chénggōng."
+                                },
+                                {
+                                    "m": "Anh ấy chắc chắn ở nhà.",
+                                    "p_vn": "anh ay chac chan o nha.",
+                                    "_id": "55db399305625a14707d64b9184778c9",
+                                    "id": 99331,
+                                    "type": "e_cnvi",
+                                    "e": "他一定在家。",
+                                    "p_cn": "ta yiding zaijia.",
+                                    "p": "tā yīdìng zàijiā."
+                                },
+                                {
+                                    "m": "Anh ấy nhất định sẽ đến tham dự cuộc họp.",
+                                    "p_vn": "anh ay nhat dinh se den tham du cuoc hop.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4f168ef",
+                                    "id": 125176,
+                                    "type": "e_cnvi",
+                                    "e": "他一定会来参加会议。",
+                                    "p_cn": "ta yiding hui lai canjia huiyi.",
+                                    "p": "tā yīdìng huì lái cānjiā huìyì."
+                                },
+                                {
+                                    "m": "Cuốn sách này chắc chắn rất thú vị.",
+                                    "p_vn": "cuon sach nay chac chan rat thu vi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4f17478",
+                                    "id": 125177,
+                                    "type": "e_cnvi",
+                                    "e": "这本书一定很有趣。",
+                                    "p_cn": "zhe ben shu yiding hen youqu.",
+                                    "p": "zhè běn shū yīdìng hěn yǒuqù."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "(thời gian/ yêu cầu/ điều kiện/ nhiệt độ) nhất định",
+                            "examples": [
+                                99344,
+                                99345
+                            ],
+                            "struct": "一定（+ 的）+ Danh từ （时间、要求、条件、温度）"
+                        },
+                        {
+                            "explain": "(đám đông/ trình độ/ kiến ​​thức/ sự tiến bộ) nhất định",
+                            "examples": [
+                                99346,
+                                99347
+                            ],
+                            "struct": "一定 + 的 + Danh từ/Động từ（人群、水平、知识、进步）"
+                        },
+                        {
+                            "explain": "Ở mức độ/ điều kiện nhất định,...",
+                            "examples": [
+                                99349,
+                                99351
+                            ],
+                            "struct": "在 + 一定 + 的 + 程度，条件 + 上/下"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nhất định (nào đó)",
+                            "explain": "具有某种具体水平的",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy có một nét quyến rũ nhất định thu hút mọi người.",
+                                    "p_vn": "co ay co mot net quyen ru nhat dinh thu hut moi nguoi.",
+                                    "_id": "55db399305625a14707d64b918484d29",
+                                    "id": 99353,
+                                    "type": "e_cnvi",
+                                    "e": "她拥有一定的魅力吸引大家。",
+                                    "p_cn": "ta yong you yiding de meili xiyin dajia.",
+                                    "p": "tā yōng yǒu yīdìng de mèilì xīyǐn dàjiā."
+                                },
+                                {
+                                    "m": "Kỳ thi này có độ khó nhất định.",
+                                    "p_vn": "ky thi nay co do kho nhat dinh.",
+                                    "_id": "55db399305625a14707d64b918485ace",
+                                    "id": 99354,
+                                    "type": "e_cnvi",
+                                    "e": "这次考试有一定的难度。",
+                                    "p_cn": "zhe ci kaoshi you yiding de nandu.",
+                                    "p": "zhè cì kǎoshì yǒu yīdìng de nándù."
+                                },
+                                {
+                                    "m": "Công việc này có những yêu cầu nhất định.",
+                                    "p_vn": "cong viec nay co nhung yeu cau nhat dinh.",
+                                    "_id": "55db399305625a14707d64b918486419",
+                                    "id": 99355,
+                                    "type": "e_cnvi",
+                                    "e": "这项工作有一定的要求。",
+                                    "p_cn": "zhe xiang gongzuo you yiding de yaoqiu.",
+                                    "p": "zhè xiàng gōngzuò yǒu yīdìng de yāoqiú."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều mang nghĩa chắc chắn.\nKhác:\n- \"必定\" nhấn mạnh sự phán đoán một cách chủ quan, và kết quả đúng như phán đoán.\n\"一定\" nhấn mạnh sự suy đoán, suy luận chủ quan biểu hiện sự quyết tâm.\n- \"必定\" dùng trong văn viết.\n\"一定\" dùng trong văn nói.\n- \"必定\" khi biểu đạt ý chí quyết tâm, \"一定\" có thể dùng chủ ngữ là ngôi thứ hai hay ba, để biểu thị ý dặn dò, yêu cầu.",
+                    "title": "Phân biệt \"必然\" và \"一定\"",
+                    "words": [
+                        "必然",
+                        "一定"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Đều mang nghĩa chắc chắn.\nKhác:\n- \"必然\" nhấn mạnh quy luật khách quan, dù muốn dù không cũng sẽ phát triển như vậy.\n\"一定\" nhấn mạnh sự suy đoán, suy luận chủ quan biểu hiện sự quyết tâm.\n- \"必然\" dùng trong văn viết.\n\"一定\" dùng trong văn nói.\n- \"必然\" khi biểu đạt ý quy luật khách quan, nên chủ ngữ không thể là ngôi thứ nhất hay ngôi thứ hai, \"一定\" có thể dùng chủ ngữ là ngôi thứ hai hay ba, để biểu thị ý dặn dò, yêu cầu.",
+                    "title": "Phân biệt \"必定\" và \"一定\"",
+                    "words": [
+                        "必定",
+                        "一定"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Khi làm phó từ, đều mang nghĩa sẽ như thế này, sẽ diễn ra như thế nào đó.\nKhác:\nKhác:\n- \"势必\" căn cứ vào quá trình phát triển của sự việc để dự đoán kết quả (kết quả thường không tốt).\n\"一定\" biểu thị sự dự đoán, kết quả dự đoán không nhất định là không tốt.\n- \"一定\" biểu thị thái độ kiên quyết, thường dùng trước động từ hoặc trợ động từ \"要\", \"得\".\n- \"一定\" có thể làm hình dung từ, mang ý nghĩa cố định không thay đổi, chính xác.",
+                    "title": "Phân biệt \"势必\" và \"一定\"",
+                    "words": [
+                        "势必",
+                        "一定"
+                    ]
+                },
+                {
+                    "mean_vi": "Cấu trúc \"非......不可\" biểu thị sự việc nhất thiết là như thế này, nhất định phải hoặc biểu thị tính tất nhiên, tất yếu.\nMang nghĩa \"nhất định, không thể không hoặc không....không được\".\nCấu trúc： S + 非 +((Cụm) động từ, danh từ, đoản ngữ) +不可.\n\"非...\n...不可\" dùng với nghĩa:\n1.\nNhất định phải...\n(一定要): Biểu thị có ý định, quyết định mãnh liệt.\n2.\nNhất định sẽ...\n(一定会): Biểu thị hành động mang tính tất yếu (sẽ xảy ra).\nVí dụ:\n- 我本来不想带她来，可是她非跟我来不可。// Tôi vốn dĩ không muốn mang cô ấy đi nhưng cô ấy cứ kiên quyết đi theo.\n- 爸爸要是知道了这件事，非批评你不可。// Nếu mà bố biết được chuyện này, nhất định sẽ mắng bạn.\n- 赵老师买衣服非买名牌不行。// Thầy Triệu mua quần áo không mua hàng hiệu không được.\n- 你现在不起床，上课非晚了不可。// Con giờ còn không dậy thì sẽ muộn học đó.\nLưu ý:\n- Sau \"非\" có thể kết hợp với các trợ từ như \"不行 hoặc 不成\".\n- Trong khẩu ngữ, cụm từ \"非要、 非得\" có thể lược bỏ \"不可\".\n- Thường dùng trong trường hợp xuất hiện tình huống không được như ý.\n- Trong trường hợp \"Quyết định chủ quan của ai đó\" chúng ta dùng \"S + 一定要 + V + O\"\n- Trong trường hợp \"mang tính cấp thiết, cần thiết\" chúng ta cũng có thể sử dụng \"必须\".\nVí dụ:\n- 她病得很严重，非住院不可。= 她病得很严重，必须住院!\nCâu hỏi: Khi nào chúng ta dùng \"非...\n...不可\" với ý nghĩa \"nhất định phải\"？\nĐáp: Khi có đó khuyên bạn, đả kích bạn, can ngăn bạn...Hãy dùng nó để biểu thị nhất định phải..., chứng minh bản thân.",
+                    "title": "Phân biệt \"非..不可\" và \"一定\"",
+                    "words": [
+                        "非",
+                        "不可",
+                        "一定"
+                    ]
+                },
+                {
+                    "mean_vi": "\"肯定\" vừa là động từ vừa là tính từ, \"一定\" chỉ là tính từ, hai từ này đều có thể làm trạng ngữ.\n\"肯定\" có thể làm vị ngữ, \"一定\" ngoài trường hợp cá nhân ra, thường không thể làm vị ngữ.\n\"肯定\" có thể đi kèm với tân ngữ và bổ ngữ, \"一定\" không thể",
+                    "title": "Phân biệt \"肯定\" và \"一定\"",
+                    "words": [
+                        "肯定",
+                        "一定"
+                    ]
+                },
+                {
+                    "mean_vi": "\"千万\" là phó từ, có nghĩa là \"bất luận thế nào đều…\", \"一定\" ngoài là phó từ thì còn là hình dung từ.\n \"千万\" dùng trong câu cầu khiến, biểu thị mệnh lệnh, dặn dò, thỉnh cầu,..,Nhưng không thể dùng trong câu có chủ ngữ là đại từ nhân xưng ngôi thứ nhất, \"一定\" không có giới hạn này.\n\"一定\" có thể làm định ngữ, \"千万\" không thể.",
+                    "title": "Phân biệt \"千万\" và \"一定\"",
+                    "words": [
+                        "千万",
+                        "一定"
+                    ]
+                },
+                {
+                    "mean_vi": "\"务必\" có nghĩa của \"一定\", nhưng \"务必\" nhấn mạnh rằng chủ thể của hành động là \"你\"、\"你们\" hoặc \"我们\", thường nói \"我务必怎样怎样\", nhưng \"一定\", có thể nói \"我一定……\".\nNgoài ra, \"务必\" diễn tả một lời khẩn cầu,thỉnh cầu, căn dặn, khuyên nhủ, thuyết phục, v.v.\nmột cách lịch sự và khách sáo, nhưng \"一定\" thể hiện mệnh lệnh, yêu cầu hoặc quyết định, v.v.",
+                    "title": "Phân biệt \"务必\" và \"一定\"",
+                    "words": [
+                        "务必",
+                        "一定"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "肯定",
+                    "必需",
+                    "必然",
+                    "确定",
+                    "注定",
+                    "必定",
+                    "既定",
+                    "指定",
+                    "铁定",
+                    "特定",
+                    "定在"
+                ],
+                "anto": [
+                    "倘若",
+                    "大概",
+                    "未必",
+                    "不必",
+                    "大致",
+                    "不定",
+                    "也许",
+                    "可能",
+                    "莫非",
+                    "或许"
+                ]
+            },
+            "lv_hsk_new": "2, 3",
+            "pinyin": "yīdìng",
+            "cn_vi": "nhất định",
+            "popularity": {
+                "notebook": 873,
+                "search": 13190
+            },
+            "word": "一定",
+            "id": 59128,
+            "phonetic": "yiding",
+            "rank": 630,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "85411546d6464ca7a835d3c451708346",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có phần",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mỗi ngày làm việc mấy tiếng, học mấy tiếng, nghỉ ngơi mấy tiếng, đều có quy định sẵn.",
+                                    "p_vn": "moi ngay lam viec may tieng, hoc may tieng, nghi ngoi may tieng, deu co quy dinh san.",
+                                    "_id": "10ccf4cf582b2b84721f22b50c6fb9fc",
+                                    "id": 44719,
+                                    "type": "e_cnvi",
+                                    "e": "每天工作几小时，学习几小时，休息几小时，都有一定。",
+                                    "p_cn": "meitian gongzuo ji xiaoshi, xuexi ji xiaoshi, xiuxi ji xiaoshi, dou you yiding.",
+                                    "p": "měitiān gōngzuò jǐ xiǎoshí, xuéxí jǐ xiǎoshí, xiūxi jǐ xiǎoshí, dōu yǒu yídìng."
+                                },
+                                {
+                                    "m": "Nó có thể chỉ là những nét vẽ nguệch ngoạc ngẫu nhiên, nhưng nếu nó đến từ những nhà khoa học nổi tiếng nhất thế giới, thì độ tin cậy của nó phải được tăng lên nhất định.",
+                                    "p_vn": "no co the chi la nhung net ve nguech ngoac ngau nhien, nhung neu no den tu nhung nha khoa hoc noi tieng nhat the gioi, thi do tin cay cua no phai duoc tang len nhat dinh.",
+                                    "_id": "39fcfdd9c5644e83ad8a4c16252b5be3",
+                                    "id": 67944,
+                                    "type": "e_cnvi",
+                                    "e": "它也许只是随意涂鸦,但考虑到它来自世界上最知名的科学家,其可信度就必然会有一定的增加。",
+                                    "p_cn": "ta yexu zhishi suiyi tuya, dan kaolu dao ta laizi shijie shang zui zhiming de kexuejia, qi ke xin du jiu biran hui you yiding de zengjia.",
+                                    "p": "Tā yěxǔ zhǐshì suíyì túyā, dàn kǎolǜ dào tā láizì shìjiè shàng zuì zhīmíng de kēxuéjiā, qī kě xìn dù jiù bìrán huì yǒu yídìng de zēngjiā."
+                                },
+                                {
+                                    "m": "Trong quá trình tinh thể hóa của hợp chất, có tỷ lệ nhất định của phân tử nước trong tinh thể, trong đó lượng phân tử nước và tinh thể có tỷ lệ cố định.",
+                                    "p_vn": "trong qua trinh tinh the hoa cua hop chat, co ty le nhat dinh cua phan tu nuoc trong tinh the, trong do luong phan tu nuoc va tinh the co ty le co dinh.",
+                                    "_id": "5fb5609c9d724f348d86df23c6224617",
+                                    "id": 70234,
+                                    "type": "e_cnvi",
+                                    "e": "水合物结晶中有一定比例水分子成分的固体化合物，其中水分子与晶体的含量为一固定比例",
+                                    "p_cn": "shuihewu jiejing zhong you yiding bili shui fenzi chengfen de guti huahewu qizhong shui fenzi yu jingti de hanliang wei yi guding bili",
+                                    "p": "shuǐhéwù jiéjīng zhōng yǒu yídìng bǐlì shuǐ fēnzǐ chéngfèn de gùtǐ huàhéwù qīzhōng shuǐ fēnzǐ yǔ jīngtǐ de hánliàng wéi yī gùdìng bǐlì"
+                                },
+                                {
+                                    "m": "anh ấy có sự hiểu biết nhất định về phong tục, tập quán của Hàn Quốc.",
+                                    "p_vn": "anh ay co su hieu biet nhat dinh ve phong tuc, tap quan cua han quoc.",
+                                    "_id": "69997d89b5f75300ec8abc83ca21a1ce",
+                                    "id": 81826,
+                                    "type": "e_cnvi",
+                                    "e": "他对韩国的风土人情有一定的了解。",
+                                    "p_cn": "ta dui hanguo de fengtu renqing you yiding de liaojie.",
+                                    "p": "tā duì hánguó de fēngtǔ rénqīng yǒu yídìng de liǎojiě."
+                                },
+                                {
+                                    "m": "sự tồn tại và phát triển của sự vật, cần phải có những điều kiện nhất định",
+                                    "p_vn": "su ton tai va phat trien cua su vat, can phai co nhung dieu kien nhat dinh",
+                                    "_id": "90b78ce7d01ad440d04a93c5432c2c1d",
+                                    "id": 1590,
+                                    "type": "e_cnvi",
+                                    "e": "事物的存在和发展，必有一定的条件。",
+                                    "p_cn": "shiwu de cunzai he fazhan,biyou yiding de tiaojian. ",
+                                    "p": "shìwù de cúnzài hé fāzhǎn，bìyǒu yídìng de tiáojiàn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hữu nhất định",
+            "pinyin": "yǒu yīdìng",
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "word": "有一定",
+            "id": 179273,
+            "phonetic": "youyiding",
+            "rank": 115916,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄧㄉㄧㄥˋ",
+            "_id": "5a344993a91683b0d691d8b1f91425b0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A không nhất định/ không chắc chắn làm gì",
+                            "examples": [
+                                84387
+                            ],
+                            "struct": "A + 不一定 + động từ + ..."
+                        },
+                        {
+                            "explain": "không nhất định/ không chắc như thế nào",
+                            "examples": [
+                                84388
+                            ],
+                            "struct": "不一定 + tính từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "không nhất định, không chắc chắn; chưa chắc",
+                            "explain": "是指不能确定。",
+                            "examples": [
+                                {
+                                    "m": "Không phải lúc nào bạn cũng phải làm theo những gì người phụ nữ muốn.",
+                                    "p_vn": "khong phai luc nao ban cung phai lam theo nhung gi nguoi phu nu muon.",
+                                    "_id": "28f48a02614a4b6ba90c26df3b38e7a8",
+                                    "id": 65328,
+                                    "type": "e_cnvi",
+                                    "e": "你不一定总是要顺着女人的意思。",
+                                    "p_cn": "ni bu yiding zongshi yao shunzhao nvren de yisi",
+                                    "p": "nǐ bù yídìng zǒngshì yào shùnzháo nv̌rén de yìsī"
+                                },
+                                {
+                                    "m": "Anh ấy có đến được hay không vẫn chưa chắc chắn",
+                                    "p_vn": "anh ay co den duoc hay khong van chua chac chan",
+                                    "_id": "31a36a510ab9403a3a0ce20bbaf5d394",
+                                    "id": 36065,
+                                    "type": "e_cnvi",
+                                    "e": "他是否能来，还不一定。",
+                                    "p_cn": "ta shifou neng lai, hai bu yiding.",
+                                    "p": "tā shìfǒu néng lái, hái bù yídìng."
+                                },
+                                {
+                                    "m": "Nhìn nhau một giây chưa chắc đã yêu.",
+                                    "p_vn": "nhin nhau mot giay chua chac da yeu.",
+                                    "_id": "3998a2b676e84f91837fef00ce3a1532",
+                                    "id": 56227,
+                                    "type": "e_cnvi",
+                                    "e": "相视一秒不一定是爱。",
+                                    "p_cn": "xiang shi yi miao bu yiding shi ai",
+                                    "p": "Xiāng shì yī miǎo bù yídìng shì ài"
+                                },
+                                {
+                                    "m": "Cho con chó một khúc xương, chắc chắn nó sẽ vẫy đuôi cảm ơn, nhưng người thì chưa chắc",
+                                    "p_vn": "cho con cho mot khuc xuong, chac chan no se vay duoi cam on, nhung nguoi thi chua chac",
+                                    "_id": "52eab2cc66a3492e9c4c9c196438b359",
+                                    "id": 69122,
+                                    "type": "e_cnvi",
+                                    "e": "给狗一根骨头，它还会摇尾巴感谢，但人就不一定了。",
+                                    "p_cn": "gei gou yi gen gutou, ta hai hui yao weiba ganxie, dan ren jiu bu yidingle",
+                                    "p": "Gěi gǒu yī gēn gǔtou, tā hái huì yáo wěibā gǎnxiè, dàn rén jiù bù yídìngle"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Ý nghĩa của \"不见得\" và \"不一定\"giống nhau, đều có thể đứng trước danh từ và động từ làm trạng ngữ, trong rất nhiều tình huống có thể thay thế cho nhau.\nKhác:\n- \"不一定\" có thể làm vị ngữ, \"不见得\" không thể.\n- \"不一定\" có thể làm tân ngữ, \"不见得\" không thể làm tân ngữ.",
+                    "title": "Phân biệt \"不见得\" và \"不一定\"",
+                    "words": [
+                        "不见得",
+                        "不一定"
+                    ]
+                },
+                {
+                    "mean_vi": "- \"未必\" mang nghĩa của \"不一定\" - \"không chắc\", làm trạng ngữ, chủ yếu dùng trong văn viết, \"不一定\" chủ yếu dùng trong văn nói.\n- \"不一定\" có thể được sử dụng một mình và \"未必\" không thể sử dụng một mình.",
+                    "title": "Phân biệt \"未必\" và \"不一定\"",
+                    "words": [
+                        "未必",
+                        "不一定"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "差不多",
+                    "未必"
+                ],
+                "anto": [
+                    "肯定",
+                    "一定",
+                    "确定"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "bù yīdìng",
+            "cn_vi": "bất nhất định",
+            "popularity": {
+                "notebook": 115,
+                "search": 1832
+            },
+            "word": "不一定",
+            "id": 68077,
+            "phonetic": "buyiding",
+            "rank": 6014,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "338f299c71534dcdbac8d52bf0ea8e76",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "phiêu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "một nhất định",
+            "pinyin": "méi yīdìng",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "没一定",
+            "id": 178462,
+            "phonetic": "meiyiding",
+            "rank": 147139,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "bu",
+                "examples": "你们全部一定要读。",
+                "measure": "部"
+            },
+            "topic": "12, 57",
+            "zhuyin": "ㄧㄉㄧㄥˋㄧㄠˋ",
+            "_id": "a8868c15c87846179fe9c6cf67a81b51",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "cần phải",
+                            "explain": "must",
+                            "examples": [
+                                {
+                                    "m": "Chúng phải được ngăn chặn!",
+                                    "p_vn": "chung phai duoc ngan chan!",
+                                    "_id": "4408604c20e44d13bd2986f194dc1659",
+                                    "id": 60477,
+                                    "type": "e_cnvi",
+                                    "e": "一定要阻止他们",
+                                    "p_cn": "yiding yao zuzhi tamen",
+                                    "p": "yídìng yào zǔzhǐ tāmen"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 433
+            },
+            "snym": null,
+            "cn_vi": "nhất định yếu",
+            "pinyin": "yīdìng yào",
+            "word": "一定要",
+            "id": 116640,
+            "phonetic": "yidingyao",
+            "rank": 17471,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄔㄨㄟˊㄉㄧㄥˋㄧㄣ",
+            "_id": "2c2737c4f0bf616e67aa623cbda48f58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "giải quyết dứt khoát",
+                            "explain": "比喻凭某个人的一句话做出最后决定",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 60
+            },
+            "snym": {
+                "syno": [
+                    "一槌定音",
+                    "千棰打锣",
+                    "一棰定声"
+                ],
+                "anto": [
+                    "犹豫不决",
+                    "犹犹豫豫"
+                ]
+            },
+            "cn_vi": "nhất chuỳ định âm",
+            "pinyin": "yīchuídìngyīn",
+            "word": "一锤定音",
+            "id": 59112,
+            "phonetic": "yichuidingyin",
+            "rank": 53140,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄎㄡˇㄧㄠˇㄉㄧㄥˋ",
+            "_id": "cc0314f775b04a449fd058ba92a0e295",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "để cáo buộc",
+                            "explain": "to allege",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tự ý khẳng định",
+                            "explain": "to arbitrarily assert",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bám vào quan điểm của một người",
+                            "explain": "to cling to one's view",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bám vào tuyên bố của một người",
+                            "explain": "to stick to one's statement",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đổ riệt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 189
+            },
+            "snym": {
+                "syno": [
+                    "矢口不移"
+                ],
+                "anto": [
+                    "不置可否",
+                    "矢口否认"
+                ]
+            },
+            "cn_vi": "nhất khẩu giảo định",
+            "pinyin": "yīkǒu yǎodìng",
+            "word": "一口咬定",
+            "id": 133498,
+            "phonetic": "yikouyaoding",
+            "rank": 29335,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄩˊㄧㄗㄨㄣ",
+            "_id": "c8d0a48cacfd4cf28fdaa2e6c8ebdcad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "(thành ngữ) dựa vào một thẩm quyền duy nhất để xác định điều gì là đúng",
+                            "explain": "(idiom) to rely on a single authority to determine what is correct",
+                            "examples": []
+                        },
+                        {
+                            "mean": "coi một nguồn (hoặc thực thể hoặc cá nhân) là cơ quan có thẩm quyền cuối cùng",
+                            "explain": "to regard a source (or entity or individual) as the ultimate authority",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": {
+                "anto": [
+                    "鼎足而立"
+                ]
+            },
+            "cn_vi": "định ư nhất tôn",
+            "pinyin": "dìng yú yīzūn",
+            "word": "定于一尊",
+            "id": 131964,
+            "phonetic": "dingyuyizun",
+            "rank": 101383,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄧㄢˊㄨㄟˋㄉㄧㄥˋ",
+            "_id": "bda7b8658efa5d6d24e303a64ab888a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "thỏ thuận; nhất định như vậy; nói lời giữ lời",
+                            "explain": "一句话说定，不再更改或后悔。",
+                            "examples": [
+                                {
+                                    "m": "Được rồi, chúng ta đã thỏa thuận xong và sẽ ký hợp đồng vào ngày mai.",
+                                    "p_vn": "duoc roi, chung ta da thoa thuan xong va se ky hop dong vao ngay mai.",
+                                    "_id": "c10c24a6ed43165db916499fa9b5d6e2",
+                                    "id": 84738,
+                                    "type": "e_cnvi",
+                                    "e": "好，我们一言为定，明天就签合同。",
+                                    "p_cn": "hao, women yi yan wei ding, mingtian jiu qian hetong.",
+                                    "p": "hǎo, wǒmen yī yán wéi dìng, míngtiān jiù qiān hétóng."
+                                },
+                                {
+                                    "m": "Tôi bảo đảm với bạn, nói lời giữ lời..",
+                                    "p_vn": "toi bao dam voi ban, noi loi giu loi..",
+                                    "_id": "c10c24a6ed43165db916499fa9b5d869",
+                                    "id": 84739,
+                                    "type": "e_cnvi",
+                                    "e": "我向你保证，一言为定。",
+                                    "p_cn": "wo xiang ni baozheng, yi yan wei ding.",
+                                    "p": "wǒ xiàng nǐ bǎozhèng, yī yán wéi dìng."
+                                },
+                                {
+                                    "m": "Nói lời giữ lời, tôi chắc chắn sẽ đi.",
+                                    "p_vn": "noi loi giu loi, toi chac chan se di.",
+                                    "_id": "c10c24a6ed43165db916499fa9b5e30d",
+                                    "id": 84740,
+                                    "type": "e_cnvi",
+                                    "e": "一言为定，我一定去。",
+                                    "p_cn": "yi yan wei ding, wo yiding qu.",
+                                    "p": "yī yán wéi dìng, wǒ yídìng qù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 110,
+                "search": 1685
+            },
+            "snym": {
+                "syno": [
+                    "一诺千金",
+                    "说一不二",
+                    "言而有信",
+                    "言无二诺",
+                    "力排众议",
+                    "说一是一",
+                    "驷马难追",
+                    "一言九鼎",
+                    "三缄其口",
+                    "不见不散"
+                ],
+                "anto": [
+                    "背信弃义",
+                    "自食其言",
+                    "言而无信",
+                    "信口雌黄",
+                    "口血未干",
+                    "一言难尽",
+                    "口说无凭",
+                    "出尔反尔"
+                ]
+            },
+            "cn_vi": "nhất ngôn vi định",
+            "pinyin": "yī yán wéi dìng",
+            "word": "一言为定",
+            "id": 67981,
+            "phonetic": "yiyanweiding",
+            "rank": 6430,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄍㄨㄟㄉㄧㄥˋ",
+            "_id": "b20f1721f2b04d11808d53ec6d08c82d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "điều khoản thông thường (luật)",
+                            "explain": "ordinary provision (law)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "nhất ban quy định",
+            "pinyin": "yībān guīdìng",
+            "word": "一般规定",
+            "id": 133518,
+            "phonetic": "yibanguiding",
+            "rank": 106754,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄉㄧㄥˋㄓㄍㄨㄟ",
+            "_id": "d89f74c371b7a4bc45fcb5ea96f42320",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "quy tắc đã định; ý đã định",
+                            "explain": "一定的规则多比喻已经打定的主意",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 83
+            },
+            "snym": {
+                "syno": [
+                    "理有固然",
+                    "事有必至",
+                    "有物有则",
+                    "必由之路"
+                ],
+                "anto": [
+                    "奥妙无穷",
+                    "不时之需"
+                ]
+            },
+            "cn_vi": "nhất định chi quy",
+            "pinyin": "yīdìngzhīguī",
+            "word": "一定之规",
+            "id": 59129,
+            "phonetic": "yidingzhigui",
+            "rank": 45536,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "fd10ddea842e4b38b29eae0bfdc53498",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tất nhiên luận",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nhân ứng nhất định thuyết",
+            "pinyin": "yīnyìng yīdìng shuō",
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "word": "因应一定说",
+            "id": 184861,
+            "phonetic": "yinyingyidingshuo",
+            "rank": 139248,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋ",
+            "_id": "b7724ca0102ff7b0b037d3205ccac512",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Quyết định/đặt cái gì đấy",
+                            "examples": [
+                                100054,
+                                100055,
+                                100056
+                            ],
+                            "struct": "定 + Tân ngữ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cố định; dừng; làm cho cố định",
+                            "explain": "固定; 使固定",
+                            "examples": [
+                                {
+                                    "m": "Cố định chắc cái gậy rồi.",
+                                    "p_vn": "co dinh chac cai gay roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9612b68",
+                                    "id": 94214,
+                                    "type": "e_cnvi",
+                                    "e": "把棍子定住了。",
+                                    "p_cn": "ba gunzi dingzhule.",
+                                    "p": "bǎ gùnzi dìngzhùle."
+                                },
+                                {
+                                    "m": "Kim đồng hồ dừng rồi không chạy nữa.",
+                                    "p_vn": "kim dong ho dung roi khong chay nua.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9613965",
+                                    "id": 94215,
+                                    "type": "e_cnvi",
+                                    "e": "表针定住不走。",
+                                    "p_cn": "biaozhen dingzhu bu zou.",
+                                    "p": "biǎozhēn dìngzhù bù zǒu."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quyết định; xác định; chắc chắn",
+                            "explain": "决定; 使确定",
+                            "examples": [
+                                {
+                                    "m": "Quyết định như thế nhé!",
+                                    "p_vn": "quyet dinh nhu the nhe!",
+                                    "_id": "f2efc94449b26b3e2967bccbc960f8c8",
+                                    "id": 94209,
+                                    "type": "e_cnvi",
+                                    "e": "就这么定!",
+                                    "p_cn": "jiu zheme ding!",
+                                    "p": "jiù zhème dìng!"
+                                },
+                                {
+                                    "m": "Chúng ta quyết định thời gian đi!",
+                                    "p_vn": "chung ta quyet dinh thoi gian di!",
+                                    "_id": "f2efc94449b26b3e2967bccbc960f9e3",
+                                    "id": 94210,
+                                    "type": "e_cnvi",
+                                    "e": "我们把时间定一定吧!",
+                                    "p_cn": "women ba shijian ding yiding ba!",
+                                    "p": "wǒmen bǎ shíjiān dìng yīdìng ba!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đặt; báo",
+                            "explain": "约定",
+                            "examples": [
+                                {
+                                    "m": "Đặt một lô hàng.",
+                                    "p_vn": "dat mot lo hang.",
+                                    "_id": "f2efc94449b26b3e2967bccbc961d02c",
+                                    "id": 94229,
+                                    "type": "e_cnvi",
+                                    "e": "定一批货。",
+                                    "p_cn": "ding yi pi huo.",
+                                    "p": "dìng yī pī huò."
+                                },
+                                {
+                                    "m": "Tôi muốn đặt làm một bộ quần áo.",
+                                    "p_vn": "toi muón dạt làm mọt bọ quàn áo.",
+                                    "_id": "55db399305625a14707d64b91875b523",
+                                    "id": 100133,
+                                    "type": "e_cnvi",
+                                    "e": "我要定做一件衣服。",
+                                    "p_cn": "wo yao dingzuo yi jian yifu.",
+                                    "p": "wǒ yào dìngzuò yī jiàn yīfu."
+                                },
+                                {
+                                    "m": "Anh ấy đặt làm một chiếc bánh kem.",
+                                    "p_vn": "anh áy dạt làm mọt chiéc bánh kem.",
+                                    "_id": "55db399305625a14707d64b91875bbb7",
+                                    "id": 100134,
+                                    "type": "e_cnvi",
+                                    "e": "他定做了一个蛋糕。",
+                                    "p_cn": "ta dingzuole yige dangao.",
+                                    "p": "tā dìngzuòle yīgè dàngāo."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "định",
+                            "explain": "已经确立的；固定的；不改变",
+                            "examples": [
+                                {
+                                    "m": "Định lý này tôi không hiểu.",
+                                    "p_vn": "dinh ly nay toi khong hieu.",
+                                    "_id": "f2efc94449b26b3e2967bccbc96158d7",
+                                    "id": 94219,
+                                    "type": "e_cnvi",
+                                    "e": "这个定理我不懂。",
+                                    "p_cn": "zhege dingli wo bu dong.",
+                                    "p": "zhège dìnglǐ wǒ bù dǒng."
+                                },
+                                {
+                                    "m": "Vật lí có rất nhiều định luật.",
+                                    "p_vn": "vat li co rat nhieu dinh luat.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9616687",
+                                    "id": 94220,
+                                    "type": "e_cnvi",
+                                    "e": "物理有很多定律。",
+                                    "p_cn": "wuli you henduo dinglǜ.",
+                                    "p": "wùlǐ yǒu hěnduō dìnglǜ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quy định; định phần; quy định khẩu phần",
+                            "explain": "规定的",
+                            "examples": [
+                                {
+                                    "m": "Định lượng bao nhiêu?",
+                                    "p_vn": "dinh luong bao nhieu?",
+                                    "_id": "f2efc94449b26b3e2967bccbc961b931",
+                                    "id": 94227,
+                                    "type": "e_cnvi",
+                                    "e": "定量是多少？",
+                                    "p_cn": "dingliang shi duoshao?",
+                                    "p": "dìngliàng shì duōshǎo?"
+                                },
+                                {
+                                    "m": "Kiểm tra định kỳ.",
+                                    "p_vn": "kiem tra dinh ky.",
+                                    "_id": "f2efc94449b26b3e2967bccbc961c4cf",
+                                    "id": 94228,
+                                    "type": "e_cnvi",
+                                    "e": "定期检查。",
+                                    "p_cn": "ding qi jiancha.",
+                                    "p": "dìng qī jiǎnchá."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bình định; ổn định; yên; bình tĩnh",
+                            "explain": "平静； 稳定",
+                            "examples": [
+                                {
+                                    "m": "Tâm thần bất định.",
+                                    "p_vn": "tam than bat dinh.",
+                                    "_id": "c9d393962f7ed3090a854c124a9590d1",
+                                    "id": 42676,
+                                    "type": "e_cnvi",
+                                    "e": "心神不定。",
+                                    "p_cn": "xinshenbuding.",
+                                    "p": "xīnshénbùdìng."
+                                },
+                                {
+                                    "m": "Bạn ngồi yên ở đây.",
+                                    "p_vn": "ban ngoi yen o day.",
+                                    "_id": "f2efc94449b26b3e2967bccbc960dfe9",
+                                    "id": 94207,
+                                    "type": "e_cnvi",
+                                    "e": "你在这里坐定。",
+                                    "p_cn": "ni zai zheli zuo ding.",
+                                    "p": "nǐ zài zhèlǐ zuò dìng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "Nhất định/chắc chắn có thể làm gì đấy",
+                            "examples": [
+                                100249,
+                                100250
+                            ],
+                            "struct": "定 + 能/可/有"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "nhất định; chắc chắn",
+                            "explain": "一定；必然",
+                            "examples": [
+                                {
+                                    "m": "Nhất định có nguyên nhân.",
+                                    "p_vn": "nhat dinh co nguyen nhan.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9627bc6",
+                                    "id": 94249,
+                                    "type": "e_cnvi",
+                                    "e": "一定有原因。",
+                                    "p_cn": "yiding you yuanyin.",
+                                    "p": "yīdìng yǒu yuányīn."
+                                },
+                                {
+                                    "m": "Bạn nhất định có thể mua đươc.",
+                                    "p_vn": "ban nhat dinh co the mua duoc.",
+                                    "_id": "f2efc94449b26b3e2967bccbc962076f",
+                                    "id": 94237,
+                                    "type": "e_cnvi",
+                                    "e": "你定能买到。",
+                                    "p_cn": "ni ding neng mai dao.",
+                                    "p": "nǐ dìng néng mǎi dào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 127,
+                "search": 6623
+            },
+            "snym": {
+                "anto": [
+                    "退"
+                ],
+                "syno": [
+                    "订"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "dìng",
+            "cn_vi": "định.đính",
+            "word": "定",
+            "id": 13360,
+            "phonetic": "ding",
+            "rank": 1732,
+            "kind": [
+                "v",
+                "adj",
+                "adv"
+            ],
+            "compound": "定案 ; 定本 ; 定编 ; 定标 ; 定场白 ; 定常流 ; 定场诗 ; 定单 ; 定当 ; 定点 ; 定调 ; 定鼎 ; 定都 ; 定夺 ; 定额 ; 定岗 ; 定稿 ; 定格 ; 定更 ; 定购 ; 定冠词 ; 定规 ; 定户 ; 定滑轮 ; 定婚 ; 定货 ; 定级 ; 定计 ; 定价 ; 定见 ; 定界 ; 定金 ; 定睛 ; 定居 ; 定居点 ; 定局 ; 定礼 ; 定理 ; 定例 ; 定量 ; 定量分析 ; 定律 ; 定论 ; 定苗 ; 定名 ; 定命 ; 定盘星 ; 定评 ; 定期 ; 定钱 ; 定亲 ; 定情 ; 定然 ; 定神 ; 定时 ; 定时炸弹 ; 定时钟 ; 定式 ; 定势 ; 定说 ; 定位 ; 定息 ; 定弦 ; 定祥 ; 定向 ; 定向培育 ; 定销 ; 定心 ; 定心骨 ; 定心丸 ; 定刑 ; 定型 ; 定性 ; 定性分析 ; 定旋律 ; 定谳 ; 定洋 ; 定义 ; 定音 ; 定音鼓 ; 定影 ; 定语 ; 定员 ; 定约 ; 定阅 ; 定则 ; 定植 ; 定址 ; 定准 ; 定从 ; 定子 ; 定租 ; 定罪 ; 定做"
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄧ",
+            "_id": "2d4276a2ad6adaf3a8cc6980404b20b5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                143394,
+                                143395
+                            ],
+                            "struct": "Chủ  ngữ  +  一一  +  Động  từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "từng cái; từng việc; tất cả; hết cả",
+                            "explain": "一个一个地",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã trả lời từng câu hỏi của tôi.",
+                                    "p_vn": "anh ay da tra loi tung cau hoi cua toi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571f5bad3",
+                                    "id": 131946,
+                                    "type": "e_cnvi",
+                                    "e": "他一一回答了我的问题。",
+                                    "p_cn": "ta yiyi huidale wo de wenti.",
+                                    "p": "tā yīyī huídále wǒ de wèntí."
+                                },
+                                {
+                                    "m": "Anh ấy đã kiểm tra từng chi tiết một.",
+                                    "p_vn": "anh ay da kiem tra tung chi tiet mot.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571f5c009",
+                                    "id": 131947,
+                                    "type": "e_cnvi",
+                                    "e": "他一一检查了每一个细节。",
+                                    "p_cn": "ta yiyi jianchale mei yige xijie.",
+                                    "p": "tā yīyī jiǎnchále měi yīgè xìjié."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 1003
+            },
+            "snym": {
+                "syno": [
+                    "逐一"
+                ],
+                "anto": [
+                    "不一"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yīyī",
+            "cn_vi": "nhất nhất",
+            "word": "一一",
+            "id": 59345,
+            "phonetic": "yiyi",
+            "rank": 9803,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "relative clause"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄧ",
+            "_id": "8546524824ec5654f0678faa4319ebef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "relative clause",
+                    "means": [
+                        {
+                            "mean": "Dùng trước hai danh từ cùng loại",
+                            "explain": "分别用在两个同类的名词前面",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Biểu thị toàn bộ",
+                            "explain": "表示整个",
+                            "examples": [
+                                {
+                                    "m": "toàn tâm toàn ý",
+                                    "p_vn": "toan tam toan y",
+                                    "_id": "09c773c0a0660e3b72b827fc23d830c6",
+                                    "id": 44647,
+                                    "type": "e_cnvi",
+                                    "e": "一心一意。",
+                                    "p_cn": "yixinyiyi",
+                                    "p": "yīxīnyīyì。"
+                                },
+                                {
+                                    "m": "suốt đời",
+                                    "p_vn": "suot doi",
+                                    "_id": "5eb2b4312b022b698f8ad66e7072a687",
+                                    "id": 44648,
+                                    "type": "e_cnvi",
+                                    "e": "一生一世(人的一生)。",
+                                    "p_cn": "yisheng yishi (ren de yisheng)",
+                                    "p": "yīshēngyīshì ( rén de yīshēng )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Biểu thị số lượng cực nhỏ",
+                            "explain": "表示数量极少",
+                            "examples": [
+                                {
+                                    "m": "một cây kim một sợi chỉ",
+                                    "p_vn": "mot cay kim mot soi chi",
+                                    "_id": "86af16e4ae01bf3235dc85ca29e6a800",
+                                    "id": 44649,
+                                    "type": "e_cnvi",
+                                    "e": "一针一线。",
+                                    "p_cn": "yi zhen yixian",
+                                    "p": "yīzhēnyīxiàn。"
+                                },
+                                {
+                                    "m": "một ngọn cỏ, một gốc cây",
+                                    "p_vn": "mot ngon co mot goc cay",
+                                    "_id": "a5d77bfe81a45c5a1d9a1bc6612cdbec",
+                                    "id": 44650,
+                                    "type": "e_cnvi",
+                                    "e": "一草一木。",
+                                    "p_cn": "yi cao yi mu",
+                                    "p": "yīcǎoyīmù。"
+                                },
+                                {
+                                    "m": "một lời nói, một việc làm",
+                                    "p_vn": "mot loi noi mot viec lam",
+                                    "_id": "55f2b240bff52a32cb23f2de6bbec840",
+                                    "id": 44651,
+                                    "type": "e_cnvi",
+                                    "e": "一言一行。",
+                                    "p_cn": "yi yan yixing",
+                                    "p": "yīyányīxíng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước hai danh từ không cùng loại",
+                            "explain": "分别用在不同类的名词前面",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Dùng danh từ đối nhau, biểu thị sự so sánh trước và sau",
+                            "explain": "用相对的名词表明前后事物的对比",
+                            "examples": [
+                                {
+                                    "m": "một cọng cỏ thơm, một cọng cỏ thối (ví với có sự phân biệt xấu tốt)",
+                                    "p_vn": "mot cong co thom, mot cong co thoi (vi voi co su phan biet xau tot)",
+                                    "_id": "13ccbb87fc5a36539e59018bba02adb8",
+                                    "id": 44652,
+                                    "type": "e_cnvi",
+                                    "e": "一薰一莸(比喻好的和坏的有区别)。",
+                                    "p_cn": "yixun yi you ( biyu hao de he huai de you qubie )。",
+                                    "p": "yīxūn yī yóu ( bǐyù hǎo de hé huài de yǒu qūbié )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước các danh từ liên quan với nhau, biểu thị mối quan hệ giữa các sự vật",
+                            "explain": "用相关的名词表示事物的关系",
+                            "examples": [
+                                {
+                                    "m": "một vốn một lãi",
+                                    "p_vn": "mot von mot lai",
+                                    "_id": "ae41051b94f0b0fb7f281020d3f8b02d",
+                                    "id": 44653,
+                                    "type": "e_cnvi",
+                                    "e": "一本一利(指本钱和利息相等)。",
+                                    "p_cn": "yi ben yi li (zhi benqian he lixi xiangdeng)",
+                                    "p": "yīběn yīlì ( zhǐ běnqián hé lìxī xiāngděng )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước động từ cùng loại biểu thị động tác liên tục",
+                            "explain": "分别用在同类动词的前面，表示动作是连续的",
+                            "examples": [
+                                {
+                                    "m": "tập tà tập tễnh",
+                                    "p_vn": "tap ta tap tenh",
+                                    "_id": "8e17807ddbd4c8d4bfd6dfff766cb790",
+                                    "id": 44654,
+                                    "type": "e_cnvi",
+                                    "e": "一瘸一拐。",
+                                    "p_cn": "yi que yi guai",
+                                    "p": "yīquéyīguǎi。"
+                                },
+                                {
+                                    "m": "lảo đà lảo đảo",
+                                    "p_vn": "lao da lao dao",
+                                    "_id": "78659828ff6ca041a4649d7ea7500f52",
+                                    "id": 44655,
+                                    "type": "e_cnvi",
+                                    "e": "一歪一扭。",
+                                    "p_cn": "yi wai yi niu",
+                                    "p": "yīwāiyī nǐu。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước hai động từ đối nhau, biểu thị sự phối hợp giữa hai mặt hoặc hai động tác kế tiếp nhau",
+                            "explain": "分别用在相对的动词前面，表示两方面的行动协调配合或两种动作交替进行",
+                            "examples": [
+                                {
+                                    "m": "một bên hỏi một bên trả lời",
+                                    "p_vn": "mot ben hoi mot ben tra loi",
+                                    "_id": "a96dab154df42b67be2feee1002d3271",
+                                    "id": 44656,
+                                    "type": "e_cnvi",
+                                    "e": "一问一答。",
+                                    "p_cn": "yi wen yi da",
+                                    "p": "yīwènyīdá。"
+                                },
+                                {
+                                    "m": "bên xướng bên hoạ",
+                                    "p_vn": "ben xuong ben hoa",
+                                    "_id": "92349804d825509e6f9eb95712833140",
+                                    "id": 44657,
+                                    "type": "e_cnvi",
+                                    "e": "一唱一和。",
+                                    "p_cn": "yichangyihe",
+                                    "p": "yīchàngyīhé。"
+                                },
+                                {
+                                    "m": "bên nổi lên bên tụt xuống",
+                                    "p_vn": "ben noi len ben tut xuong",
+                                    "_id": "1df41a6c18f5c0f43a1332fc3d9e70a3",
+                                    "id": 44658,
+                                    "type": "e_cnvi",
+                                    "e": "一起一落。",
+                                    "p_cn": "yiqi yi luo",
+                                    "p": "yīqǐ yīluò。"
+                                },
+                                {
+                                    "m": "bên căng bên chùng",
+                                    "p_vn": "ben cang ben chung",
+                                    "_id": "ad1877dc84d77cbd540bf498a6c8db5c",
+                                    "id": 44659,
+                                    "type": "e_cnvi",
+                                    "e": "一张一弛。",
+                                    "p_cn": "yi zhangyichi",
+                                    "p": "yīzhāngyīchí。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước các phương vị từ, tính từ... tương phản, biểu thị phương vị hoặc tình huống ngược nhau.",
+                            "explain": "分别用在相反的方位词、形容词等的前面，表示相反的方位或情况",
+                            "examples": [
+                                {
+                                    "m": "cái trên cái dưới",
+                                    "p_vn": "cai tren cai duoi",
+                                    "_id": "78c023aff71d42d206fdeb48f30dec0c",
+                                    "id": 44660,
+                                    "type": "e_cnvi",
+                                    "e": "一上一下。",
+                                    "p_cn": "yi shang yixia",
+                                    "p": "yī shàng yīxià。"
+                                },
+                                {
+                                    "m": "cái đông cái tây",
+                                    "p_vn": "cai dong cai tay",
+                                    "_id": "f80bf59aea7da85c1ffc39890bea8a5d",
+                                    "id": 44661,
+                                    "type": "e_cnvi",
+                                    "e": "一东一西。",
+                                    "p_cn": "yi dong yi xi",
+                                    "p": "yī dōngyīxī。"
+                                },
+                                {
+                                    "m": "bên dài bên ngắn; cái ngắn cái dài",
+                                    "p_vn": "ben dai ben ngan; cai ngan cai dai",
+                                    "_id": "ec64e39db760a04aa9d1db85113a1a7a",
+                                    "id": 44662,
+                                    "type": "e_cnvi",
+                                    "e": "一长一短。",
+                                    "p_cn": "yi chang yi duan",
+                                    "p": "yīchángyīduǎn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "nhất nhất",
+            "pinyin": "yī... yī...",
+            "word": "一...一...",
+            "id": 59062,
+            "phonetic": "yi...yi...",
+            "rank": 118494,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥˇㄧㄗㄩㄢˊㄉㄧㄥˋㄨㄟˋ",
+            "_id": "e826c05762b24a6da0e62efca4d94fb1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "định vị tài nguyên chung (URL), i.s. địa chỉ web",
+                            "explain": "universal resource locator (URL), i.e. webaddress",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "thống nhất tư nguyên định vị",
+            "pinyin": "tǒngyī zīyuán dìngwèi",
+            "word": "统一资源定位",
+            "id": 145318,
+            "phonetic": "tongyiziyuandingwei",
+            "rank": 139948,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3adfd445481e4f739182bbf4dd4def3f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "chắc chắn khẳng định",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "xác định khẳng định",
+            "pinyin": "quèdìng kěndìng",
+            "word": "确定肯定",
+            "id": 167987,
+            "phonetic": "quedingkending",
+            "rank": 98980,
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄩㄢˊㄉㄧㄥˋㄜˊ",
+            "_id": "114c4a2001074d58aa31a296ef69af5a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Định mức nhân viên biên chế",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Một trong những nội dung chính của cải cách ngân sách cấp sở là quản lý hạn ngạch định mức nhân viên biên chế.",
+                                    "p_vn": "Mot trong nhung noi dung chinh cua cai cach ngan sach cap so la quan ly han ngach dinh muc nhan vien bien che.",
+                                    "_id": "1aec7044a776496693259b24bf56d608",
+                                    "id": 68668,
+                                    "type": "e_cnvi",
+                                    "e": "部门预算改革的一项主要内容就是基本支出的定员定额管理。",
+                                    "p_cn": "Bumen yusuan gaige de yi xiang zhuyao neirong jiushi jiben zhichu de dingyuan ding'e guanli.",
+                                    "p": "Bùmén yùsuàn gǎigé de yī xiàng zhǔyào nèiróng jiùshì jīběn zhīchū de dìngyuán dìng'é guǎnlǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "định viên định ngạch",
+            "pinyin": "dìngyuán dìng'é",
+            "word": "定员定额",
+            "id": 154439,
+            "phonetic": "dingyuanding'e",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "numb",
+                "part",
+                "adv",
+                "prep",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧ",
+            "_id": "a4806dccb0a9d5d38b59b06e0acdede6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "numb",
+                    "means": [
+                        {
+                            "mean": "nhất; một; số một",
+                            "explain": "数目，最小的正整数参看〖数字〗",
+                            "examples": [
+                                {
+                                    "m": "Tớ có một cuốn sách tiếng Anh.",
+                                    "p_vn": "to co mot cuon sach tieng anh.",
+                                    "_id": "641148288b13f4cf43a85133e86cda14",
+                                    "id": 116047,
+                                    "type": "e_cnvi",
+                                    "e": "我有一本英语书。",
+                                    "p_cn": "wo youyi ben yingyu shu.",
+                                    "p": "wǒ yǒuyī běn yīngyǔ shū."
+                                },
+                                {
+                                    "m": "Bố tớ là một người lính cứu hỏa.",
+                                    "p_vn": "bo to la mot nguoi linh cuu hoa.",
+                                    "_id": "641148288b13f4cf43a85133e86ce069",
+                                    "id": 116048,
+                                    "type": "e_cnvi",
+                                    "e": "我的爸爸是一名消防员。",
+                                    "p_cn": "wo de baba shi yi ming xiaofang yuan.",
+                                    "p": "wǒ de bàba shì yī míng xiāofáng yuán."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đồng nhất; như nhau; cùng (nhau)",
+                            "explain": "同一",
+                            "examples": [
+                                {
+                                    "m": "Đây không phải là cùng một việc.",
+                                    "p_vn": "day khong phai la cung mot viec.",
+                                    "_id": "b89517a0387167e47b4d45c4361f658b",
+                                    "id": 44606,
+                                    "type": "e_cnvi",
+                                    "e": "这不是一码事。",
+                                    "p_cn": "zhe bu shi yimashi.",
+                                    "p": "zhè bú shì yīmǎshì."
+                                },
+                                {
+                                    "m": "Chúng ta cùng tiến bước.",
+                                    "p_vn": "chung ta cung tien buoc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac386a8d3",
+                                    "id": 106446,
+                                    "type": "e_cnvi",
+                                    "e": "我们一同行进。",
+                                    "p_cn": "women yitong xingjin.",
+                                    "p": "wǒmen yītóng xíngjìn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cái khác; một cái khác",
+                            "explain": "另一",
+                            "examples": [
+                                {
+                                    "m": "Một phương án không được thay bằng một phương án khác.",
+                                    "p_vn": "mot phuong an khong duoc thay bang mot phuong an khac.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac386c3d1",
+                                    "id": 106448,
+                                    "type": "e_cnvi",
+                                    "e": "一方案不行换另一。",
+                                    "p_cn": "yi fang'an buxing huan ling yi.",
+                                    "p": "yī fāng'àn bùxíng huàn lìng yī."
+                                },
+                                {
+                                    "m": "Một ý tưởng sai thì chọn một ý tưởng khác.",
+                                    "p_vn": "mot y tuong sai thi chon mot y tuong khac.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac386cf9e",
+                                    "id": 106449,
+                                    "type": "e_cnvi",
+                                    "e": "一想法错了选另一。",
+                                    "p_cn": "yi xiangfa cuole xuan ling yi.",
+                                    "p": "yī xiǎngfǎ cuòle xuǎn lìng yī."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cả; đầy",
+                            "explain": "全; 满",
+                            "examples": [
+                                {
+                                    "m": "Cả căn phòng đầy đồ chơi.",
+                                    "p_vn": "ca can phong day do choi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac386e63c",
+                                    "id": 106452,
+                                    "type": "e_cnvi",
+                                    "e": "一屋子都是玩具。",
+                                    "p_cn": "yi wuzi dou shi wanju.",
+                                    "p": "yī wūzi dōu shì wánjù."
+                                },
+                                {
+                                    "m": "Cả sân đầy hoa tươi.",
+                                    "p_vn": "ca san day hoa tuoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac386eb5f",
+                                    "id": 106453,
+                                    "type": "e_cnvi",
+                                    "e": "一院子全是鲜花。",
+                                    "p_cn": "yi yuanzi quan shi xianhua.",
+                                    "p": "yī yuànzi quán shì xiānhuā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "một lòng; dốc lòng; chuyên nhất",
+                            "explain": "专一",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy một lòng nghiên cứu học vấn.",
+                                    "p_vn": "anh ay mot long nghien cuu hoc van.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38706f1",
+                                    "id": 106455,
+                                    "type": "e_cnvi",
+                                    "e": "他一心钻研学问。",
+                                    "p_cn": "ta yixin zuan yan xuewen.",
+                                    "p": "tā yīxīn zuàn yán xuéwèn."
+                                },
+                                {
+                                    "m": "Anh một lòng chỉ vì tốt cho em.",
+                                    "p_vn": "anh mot long chi vi tot cho em.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac387100f",
+                                    "id": 106456,
+                                    "type": "e_cnvi",
+                                    "e": "我一心只为你好。",
+                                    "p_cn": "wo yixin zhi wei ni hao.",
+                                    "p": "wǒ yīxīn zhǐ wèi nǐ hǎo."
+                                },
+                                {
+                                    "m": "Anh ấy một lòng một dạ muốn thi đậu đại học.",
+                                    "p_vn": "anh ay mot long mot da muon thi dau dai hoc.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce2dd05",
+                                    "id": 136790,
+                                    "type": "e_cnvi",
+                                    "e": "他一心一意想考上大学。",
+                                    "p_cn": "ta yixinyiyi xiang kao shang daxue.",
+                                    "p": "tā yīxīnyīyì xiǎng kǎo shàng dàxué."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đơn; một mình; chỉ một",
+                            "explain": "单一; 唯一",
+                            "examples": [
+                                {
+                                    "m": "Một mình bạn ổn chứ？",
+                                    "p_vn": "mot minh ban on chu？",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38721ad",
+                                    "id": 106458,
+                                    "type": "e_cnvi",
+                                    "e": "你一个人行吗？",
+                                    "p_cn": "ni yige renxing ma?",
+                                    "p": "nǐ yīgè rénxíng ma?"
+                                },
+                                {
+                                    "m": "Bây giờ tôi đang ở nhà một mình.",
+                                    "p_vn": "bay gio toi dang o nha mot minh.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38730ab",
+                                    "id": 106459,
+                                    "type": "e_cnvi",
+                                    "e": "现在只有我一个人在家。",
+                                    "p_cn": "xianzai zhiyou wo yige ren zaijia.",
+                                    "p": "xiànzài zhǐyǒu wǒ yīgè rén zàijiā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "một (chỉ ra rằng hành động là một lần hoặc ngắn)",
+                            "explain": "表示动作是一次或短暂的",
+                            "examples": [
+                                {
+                                    "m": "Đợi một chút, tôi sẽ đến ngay.",
+                                    "p_vn": "doi mot chut, toi se den ngay.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38747cd",
+                                    "id": 106461,
+                                    "type": "e_cnvi",
+                                    "e": "等一等，我马上来。",
+                                    "p_cn": "deng yi deng wo mashang lai.",
+                                    "p": "děng yī děng wǒ mǎshàng lái."
+                                },
+                                {
+                                    "m": "Cô ấy ho một tiếng mọi người im lặng.",
+                                    "p_vn": "co ay ho mot tieng moi nguoi im lang.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38753b2",
+                                    "id": 106462,
+                                    "type": "e_cnvi",
+                                    "e": "她咳一声众人安静。",
+                                    "p_cn": "ta ke yisheng zhongren anjing.",
+                                    "p": "tā ké yīshēng zhòngrén ānjìng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mỗi; mỗi lần",
+                            "explain": "每一",
+                            "examples": [
+                                {
+                                    "m": "Mỗi lời nói mỗi hành động phải thận trọng.",
+                                    "p_vn": "moi loi noi moi hanh dong phai than trong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38754b2",
+                                    "id": 106464,
+                                    "type": "e_cnvi",
+                                    "e": "一言一行要谨慎。",
+                                    "p_cn": "yi yan yixing yao jinshen.",
+                                    "p": "yī yán yīxíng yào jǐnshèn."
+                                },
+                                {
+                                    "m": "Mỗi ngày ba bữa phải đều đặn.",
+                                    "p_vn": "moi ngay ba bua phai deu dan.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3876461",
+                                    "id": 106465,
+                                    "type": "e_cnvi",
+                                    "e": "一日三餐要规律。",
+                                    "p_cn": "yi ri san can yao guilǜ.",
+                                    "p": "yī rì sān cān yào guīlǜ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vừa; một cái (dùng trước động từ hoặc động lượng từ, biểu thị làm trước một động tác nào đó, phần sau thường nói về kết quả của động tác đó)",
+                            "explain": "用在动词或动量词前面， 表示先做某个动作， 下文说明动作结果",
+                            "examples": [
+                                {
+                                    "m": "Bác sĩ vừa kiểm tra, quả nhiên là viêm phổi.",
+                                    "p_vn": "bac si vua kiem tra, qua nhien la viem phoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3876e47",
+                                    "id": 106467,
+                                    "type": "e_cnvi",
+                                    "e": "医生一检查，果然是肺炎。",
+                                    "p_cn": "yisheng yi jiancha, guoran shi feiyan.",
+                                    "p": "yīshēng yī jiǎnchá, guǒrán shì fèiyán."
+                                },
+                                {
+                                    "m": "Nhìn một cái liền hiểu chuyện gì xảy ra.",
+                                    "p_vn": "nhin mot cai lien hieu chuyen gi xay ra.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38772b7",
+                                    "id": 106468,
+                                    "type": "e_cnvi",
+                                    "e": "一看就明白怎么回事。",
+                                    "p_cn": "yi kan jiu mingbai zenme hui shi.",
+                                    "p": "yī kàn jiù míngbái zěnme huí shì."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "ngay; một chút; nhất định; một lát (dùng trước từ nào đó để tăng thêm ngữ khí)",
+                            "explain": "助词，用在某些词前加强语气",
+                            "examples": [
+                                {
+                                    "m": "Tôi không đói một chút nào.",
+                                    "p_vn": "toi khong doi mot chut nao.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce2c4b9",
+                                    "id": 136787,
+                                    "type": "e_cnvi",
+                                    "e": "我一点也不饿。",
+                                    "p_cn": "wo yidian ye bu e.",
+                                    "p": "wǒ yīdiǎn yě bù è."
+                                },
+                                {
+                                    "m": "Bạn nhất định phải đến dự tiệc sinh nhật của tôi.",
+                                    "p_vn": "ban nhat dinh phai den du tiec sinh nhat cua toi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce2ceab",
+                                    "id": 136788,
+                                    "type": "e_cnvi",
+                                    "e": "你一定要来参加我的生日派对。",
+                                    "p_cn": "ni yiding yao lai canjia wo de shengri paidui.",
+                                    "p": "nǐ yīdìng yào lái cānjiā wǒ de shēngrì pàiduì."
+                                },
+                                {
+                                    "m": "Tôi sẽ quay lại ngay.",
+                                    "p_vn": "toi se quay lai ngay.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce2da13",
+                                    "id": 136789,
+                                    "type": "e_cnvi",
+                                    "e": "我一会儿就回来。",
+                                    "p_cn": "wo yihuir jiu huilai.",
+                                    "p": "wǒ yīhuǐr jiù huílái."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "một lúc; ngay khi; một khi",
+                            "explain": "一旦; 一经",
+                            "examples": [
+                                {
+                                    "m": "Tôi sẽ nói với anh ấy ngay khi anh ấy quay lại.",
+                                    "p_vn": "toi se noi voi anh ay ngay khi anh ay quay lai.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac387a8cd",
+                                    "id": 106474,
+                                    "type": "e_cnvi",
+                                    "e": "他一回来我就告诉他。",
+                                    "p_cn": "ta yi huilai wo jiu gaosu ta.",
+                                    "p": "tā yī huílai wǒ jiù gàosu tā."
+                                },
+                                {
+                                    "m": "Một khi buông tay liền mất cơ hội.",
+                                    "p_vn": "mot khi buong tay lien mat co hoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac387a93d",
+                                    "id": 106475,
+                                    "type": "e_cnvi",
+                                    "e": "一松手就失去机会。",
+                                    "p_cn": "yi songshou jiu shiqu jihui.",
+                                    "p": "yī sōngshǒu jiù shīqù jīhuì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Chủ ngữ + 一 + Động từ 1 + 就 + Động từ 2",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mỗi ngày tôi đều đi ăn ngay sau khi tan học.",
+                                    "p_vn": "moi ngay toi deu di an ngay sau khi tan hoc.",
+                                    "_id": "9938873f438f99a1b005f1005023743d",
+                                    "id": 137877,
+                                    "type": "e_cnvi",
+                                    "e": "我每天都是一下课就去吃饭。",
+                                    "p_cn": "wo meitian dou shi yi xiake jiu qu chifan.",
+                                    "p": "wǒ měitiān dōu shì yī xiàkè jiù qù chīfàn."
+                                },
+                                {
+                                    "m": "Anh ấy vừa xuống máy bay liền đi công ty.",
+                                    "p_vn": "anh ay vua xuong may bay lien di cong ty.",
+                                    "_id": "9938873f438f99a1b005f10050237d1f",
+                                    "id": 137878,
+                                    "type": "e_cnvi",
+                                    "e": "他一下飞机就去公司了。",
+                                    "p_cn": "ta yixia feiji jiu qu gongsile.",
+                                    "p": "tā yīxià fēijī jiù qù gōngsīle."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "prep",
+                    "means": [
+                        {
+                            "mean": "mỗi; một",
+                            "explain": "每个; 一",
+                            "examples": [
+                                {
+                                    "m": "Có hai mươi người trong một lớp học.",
+                                    "p_vn": "co hai muoi nguoi trong mot lop hoc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac387b4c8",
+                                    "id": 106477,
+                                    "type": "e_cnvi",
+                                    "e": "一班二十个人。",
+                                    "p_cn": "yi ban ershi ge ren.",
+                                    "p": "yī bān èrshí gè rén."
+                                },
+                                {
+                                    "m": "Sáu mươi cây số một giờ.",
+                                    "p_vn": "sau muoi cay so mot gio.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac387b60a",
+                                    "id": 106478,
+                                    "type": "e_cnvi",
+                                    "e": "一小时六十公里。",
+                                    "p_cn": "yi xiaoshi liushi gongli.",
+                                    "p": "yī xiǎoshí liùshí gōnglǐ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhất (một cấp độ trong âm nhạc Trung Quốc, dùng làm kí hiệu ghi âm trong nhạc phổ, tương đương với số 7 trong giản phổ)",
+                            "explain": "中国民族音乐音阶上的一级，乐谱上用做记音符号，相当于简谱的''7ò''参看〖工尺〗",
+                            "examples": [
+                                {
+                                    "m": "Âm này là âm \"nhất\".",
+                                    "p_vn": "am nay la am \"nhat\".",
+                                    "_id": "a5336cc612d96caefbcf7e0ac387c0a0",
+                                    "id": 106480,
+                                    "type": "e_cnvi",
+                                    "e": "这个音是“一”音。",
+                                    "p_cn": "zhege yin shi “yi” yin.",
+                                    "p": "zhègè yīn shì “yī” yīn."
+                                },
+                                {
+                                    "m": "Giai điệu \"nhất\" nên được hát ở đây.",
+                                    "p_vn": "giai dieu \"nhat\" nen duoc hat o day.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac387c0c1",
+                                    "id": 106481,
+                                    "type": "e_cnvi",
+                                    "e": "此处应唱“一”调。",
+                                    "p_cn": "ci chu ying chang “yi” diao.",
+                                    "p": "cǐ chù yīng chàng “yī” diào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 884,
+                "search": 39500
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "yī",
+            "cn_vi": "nhất",
+            "word": "一",
+            "id": 59054,
+            "phonetic": "yi",
+            "rank": 37,
+            "lv_tocfl": 1,
+            "compound": "一把手 ; 一把死拿 ; 一把抓 ; 一百一 ; 一败涂地 ; 一般 ; 一般见识 ; 一斑 ; 一板一眼 ; 一半 ; 一...半... ; 一半天 ; 一包在内 ; 一辈子 ; 一本万利 ; 一本正经 ; 一鼻孔出气 ; 一笔带过 ; 一笔勾销 ; 一笔抹杀 ; 一臂之力 ; 一边 ; 一边倒 ; 一表非凡 ; 一表人才 ; 一并 ; 一波三折 ; 一波未平，一波又起 ; 一...不... ; 一不做，二不休 ; 一步登天 ; 一步一个脚印儿 ; 一差二错 ; 一刹那 ; 一刬 ; 一倡百和 ; 一唱一和 ; 一朝天子一朝臣 ; 一尘不染 ; 一成不变 ; 一程子 ; 一筹 ; 一筹莫展 ; 一触即发 ; 一触即溃 ; 一锤定音 ; 一锤子买卖 ; 一次能源 ; 一次性 ; 一从 ; 一蹴而就 ; 一搭两用儿 ; 一带 ; 一旦 ; 一刀两断 ; 一刀切 ; 一道 ; 一得之功 ; 一得之愚 ; 一点儿 ; 一丁点儿 ; 一定 ; 一定之规 ; 一动 ; 一度 ; 一端 ; 一多半 ; 一...而... ; 一而再，再而三 ; 一二 ; 一...二... ; 一二·九运动 ; 一发 ; 一发千钧 ; 一帆风顺 ; 一反常态 ; 一风吹 ; 一概 ; 一概而论 ; 一干 ; 一竿子到底 ; 一个巴掌拍不响 ; 一个劲儿 ; 一个萝卜一个坑儿 ; 一个心眼儿 ; 一共 ; 一股劲儿 ; 一股脑儿 ; 一鼓作气 ; 一贯 ; 一棍子打死 ; 一锅端 ; 一锅粥 ; 一锅煮 ; 一国三公 ; 一呼百应 ; 一忽儿 ; 一晃 ; 一会儿 ; 一己 ; 一技之长 ; 一家之言 ; 一见如故 ; 一见钟情 ; 一箭双雕 ; 一经 ; 一径 ; 一...就... ; 一举 ; 一举两得 ; 一蹶不振 ; 一刻 ; 一空 ; 一孔之见 ; 一口 ; 一口气 ; 一块儿 ; 一来二去 ; 一览 ; 一览表 ; 一揽子 ; 一劳永逸 ; 一力 ; 一例 ; 一连 ; 一连串 ; 一连气儿 ; 一了百了 ; 一鳞半爪 ; 一零儿 ; 一流 ; 一溜风 ; 一溜儿 ; 一溜歪斜 ; 一溜烟 ; 一路 ; 一律 ; 一落千丈 ; 一马当先 ; 一马平川 ; 一脉相传 ; 一毛不拔 ; 一门心思 ; 一面 ; 一面儿理 ; 一面之词 ; 一面之交 ; 一鸣惊人 ; 一命呜呼 ; 一木难支 ; 一目了然 ; 一目十行 ; 一年到头 ; 一年生 ; 一念之差 ; 一诺千金 ; 一拍即合 ; 一盘棋 ; 一盘散沙 ; 一旁 ; 一炮打响 ; 一偏 ; 一片冰心 ; 一瞥 ; 一贫如洗 ; 一品锅 ; 一品红 ; 一暴十寒 ; 一齐 ; 一起 ; 一气 ; 一气呵成 ; 一窍不通 ; 一切 ; 一清早 ; 一穷二白 ; 一丘之貉 ; 一人得道，鸡犬升天 ; 一任 ; 一仍旧贯 ; 一日千里 ; 一日三秋 ; 一日之雅 ; 一如 ; 一如既往 ; 一色 ; 一霎 ; 一身 ; 一身两役 ; 一身是胆 ; 一神教 ; 一审 ; 一生 ; 一失足成千古恨 ; 一时 ; 一时半会儿 ; 一时一刻 ; 一世 ; 一事 ; 一事无成 ; 一视同仁 ; 一是一，二是二 ; 一手 ; 一手一足 ; 一手遮天 ; 一水儿 ; 一顺儿 ; 一瞬 ; 一丝 ; 一丝不苟 ; 一丝不挂 ; 一丝一毫 ; 一死儿 ; 一似 ; 一塌刮子 ; 一塌糊涂 ; 一潭死水 ; 一体 ; 一天 ; 一天到晚 ; 一条龙 ; 一条藤儿 ; 一条心 ; 一同 ; 一统 ; 一通 ; 一头 ; 一头儿沉 ; 一团和气 ; 一团漆黑 ; 一团糟 ; 一退六二五 ; 一碗水端平 ; 一网打尽 ; 一往情深 ; 一往无前 ; 一望无际 ; 一味 ; 一文不名 ; 一窝蜂 ; 一无 ; 一无是处 ; 一无所有 ; 一五一十 ; 一物降一物 ; 一息尚存 ; 一席话 ; 一席之地 ; 一系列 ; 一下 ; 一线 ; 一相情愿 ; 一向 ; 一小儿 ; 一笑置之 ; 一些 ; 一泻千里 ; 一蟹不如一蟹 ; 一心 ; 一心一德 ; 一心一意 ; 一新 ; 一星半点儿 ; 一星儿 ; 一行 ; 一言既出，驷马难追 ; 一言堂 ; 一言以蔽之 ; 一氧化碳 ; 一样 ; 一叶弊目 ; 一叶知秋 ; 一一 ; 一...一... ; 一衣带水 ; 一意孤行 ; 一应 ; 一隅 ; 一隅三反 ; 一语破的 ; 一元化 ; 一元论 ; 一再 ; 一...再... ; 一早 ; 一朝 ; 一朝一夕 ; 一针见血 ; 一枕黄粱 ; 一阵 ; 一阵风 ; 一知半解 ; 一直 ; 一纸空文 ; 一致 ; 一掷千金 ; 一准 ; 一字长蛇阵 ; 一字千金 ; 一字一板 ; 一总"
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄅㄞˇㄧ",
+            "_id": "1d9043a05032c4a16c63ae53ecf57589",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hoàn toàn; rất",
+                            "explain": "形容好到极点，无可挑剔",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy là một người cực tốt.",
+                                    "p_vn": "anh ay la mot nguoi cuc tot.",
+                                    "_id": "33b307a7e8586915855af9c33c1f0392",
+                                    "id": 44669,
+                                    "type": "e_cnvi",
+                                    "e": "他是一百一的好人。",
+                                    "p_cn": "ta shi yibai yi de haoren。",
+                                    "p": "tā shì yībǎi yī de hǎorén。"
+                                },
+                                {
+                                    "m": "Anh ấy chăm sóc người bệnh cực tốt.",
+                                    "p_vn": "anh ay cham soc nguoi benh cuc tot.",
+                                    "_id": "a015753c25b962c80cdb966510f7648a",
+                                    "id": 44670,
+                                    "type": "e_cnvi",
+                                    "e": "他侍候病人可说是一百一。",
+                                    "p_cn": "ta shihou bingren keshuoshi yibai yi。",
+                                    "p": "tā shìhòu bìngrén kěshuōshì yībǎi yī。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 256
+            },
+            "snym": null,
+            "cn_vi": "nhất bá nhất",
+            "pinyin": "yībǎi yī",
+            "word": "一百一",
+            "id": 59068,
+            "phonetic": "yibaiyi",
+            "rank": 24425,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "numb"
+            ],
+            "measure": {
+                "pinyin": "",
+                "examples": "",
+                "measure": ""
+            },
+            "zhuyin": "ㄧ",
+            "_id": "bb162c8ae79bea08aa187b0625d28d0d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "numb",
+                    "means": [
+                        {
+                            "mean": "\"一\" đứng trước các âm tiết mang thanh 1, thanh 2 hoặc thanh 3 thì biến điệu thành thanh 4 (yì)",
+                            "explain": "变音；变调",
+                            "examples": [
+                                {
+                                    "m": "Một ngày nào đó tôi sẽ đến đó.",
+                                    "p_vn": "mot ngay nao do toi se den do.",
+                                    "_id": "9938873f438f99a1b005f1005023a24b",
+                                    "id": 137883,
+                                    "type": "e_cnvi",
+                                    "e": "一天我会去那里。",
+                                    "p_cn": "yitian wo hui qu nali.",
+                                    "p": "yìtiān wǒ huì qù nàlǐ."
+                                },
+                                {
+                                    "m": "Anh ấy là một bác sĩ giỏi.",
+                                    "p_vn": "anh ay la mot bac si gioi.",
+                                    "_id": "9938873f438f99a1b005f1005023a5b0",
+                                    "id": 137884,
+                                    "type": "e_cnvi",
+                                    "e": "他是一名好医生。",
+                                    "p_cn": "ta shi yi ming hao yisheng.",
+                                    "p": "tā shì yì míng hǎo yīshēng."
+                                },
+                                {
+                                    "m": "Chúng ta cùng đi ăn cơm nhé.",
+                                    "p_vn": "chung ta cung di an com nhe.",
+                                    "_id": "9938873f438f99a1b005f1005023a97a",
+                                    "id": 137885,
+                                    "type": "e_cnvi",
+                                    "e": "我们一起去吃饭吧。",
+                                    "p_cn": "women yiqi qu chifan ba.",
+                                    "p": "wǒmen yìqǐ qù chīfàn ba."
+                                },
+                                {
+                                    "m": "Cô ấy một lòng muốn thành công.",
+                                    "p_vn": "co ay mot long muon thanh cong.",
+                                    "_id": "9938873f438f99a1b005f1005023ab70",
+                                    "id": 137886,
+                                    "type": "e_cnvi",
+                                    "e": "她一心想要成功。",
+                                    "p_cn": "ta yixin xiang yao chenggong.",
+                                    "p": "tā yìxīn xiǎng yào chénggōng."
+                                },
+                                {
+                                    "m": "Anh ấy đã đi nước ngoài từ một năm trước.",
+                                    "p_vn": "anh ay da di nuoc ngoai tu mot nam truoc.",
+                                    "_id": "9938873f438f99a1b005f1005023b149",
+                                    "id": 137887,
+                                    "type": "e_cnvi",
+                                    "e": "他一年前去了国外。",
+                                    "p_cn": "ta yi nian qian qule guowai.",
+                                    "p": "tā yì nián qián qùle guówài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 884,
+                "search": 39500
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "yì",
+            "cn_vi": "nhất",
+            "word": "一",
+            "id": 59056,
+            "phonetic": "yi",
+            "rank": 39,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧ",
+            "_id": "5cb98306cf5ca793ef975774fdb26922",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "\"一\" đứng trước một âm tiết mang thanh 4 thì biến điệu thành thanh 2 (yí)",
+                            "explain": "变音；变调",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy vừa nhìn thấy bạn đã cười.",
+                                    "p_vn": "co ay vua nhin thay ban da cuoi.",
+                                    "_id": "9938873f438f99a1b005f1005023894e",
+                                    "id": 137879,
+                                    "type": "e_cnvi",
+                                    "e": "她一见到你就笑了。",
+                                    "p_cn": "ta yi jian dao ni jiu xiaole.",
+                                    "p": "tā yí jiàn dào nǐ jiù xiàole."
+                                },
+                                {
+                                    "m": "Anh ấy vừa về nhà là đi ngủ ngay.",
+                                    "p_vn": "anh ay vua ve nha la di ngu ngay.",
+                                    "_id": "9938873f438f99a1b005f10050238c9b",
+                                    "id": 137880,
+                                    "type": "e_cnvi",
+                                    "e": "他一到家就睡觉。",
+                                    "p_cn": "ta yi daojia jiu shuijiao.",
+                                    "p": "tā yí dàojiā jiù shuìjiào."
+                                },
+                                {
+                                    "m": "Bạn nhất định phải chú ý an toàn.",
+                                    "p_vn": "ban nhat dinh phai chu y an toan.",
+                                    "_id": "9938873f438f99a1b005f10050238fa7",
+                                    "id": 137881,
+                                    "type": "e_cnvi",
+                                    "e": "你一定要注意安全。",
+                                    "p_cn": "ni yiding yao zhuyi anquan.",
+                                    "p": "nǐ yídìng yào zhùyì ānquán."
+                                },
+                                {
+                                    "m": "Anh ấy vừa uống rượu là mặt đỏ ngay.",
+                                    "p_vn": "anh ay vua uong ruou la mat do ngay.",
+                                    "_id": "9938873f438f99a1b005f10050239337",
+                                    "id": 137882,
+                                    "type": "e_cnvi",
+                                    "e": "他一喝酒就脸红。",
+                                    "p_cn": "ta yi hejiu jiu lianhong.",
+                                    "p": "tā yí hējiǔ jiù liǎnhóng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 884,
+                "search": 39500
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "yí",
+            "cn_vi": "nhất",
+            "word": "一",
+            "id": 59055,
+            "phonetic": "yi",
+            "rank": 38,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩˋㄉㄧㄥˋ",
+            "_id": "c04f096a6f1262ef2154d177b149079e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A dự kiến/ dự định sẽ làm gì trong khoảng thời gian bao lâu",
+                            "examples": [
+                                85645,
+                                115530,
+                                115531
+                            ],
+                            "struct": "A + 预定 + (在 ) + Thời gian + Động từ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dự định; định; dự tính; định sẵn",
+                            "explain": "预先规定或约定",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy dự định mai sẽ về nhà.",
+                                    "p_vn": "anh ay du dinh mai se ve nha.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c6f0226",
+                                    "id": 134455,
+                                    "type": "e_cnvi",
+                                    "e": "他预定明天会回家。",
+                                    "p_cn": "ta yuding mingtian hui hui jia.",
+                                    "p": "tā yùdìng míngtiān huì huí jiā."
+                                },
+                                {
+                                    "m": "Tôi dự định đi du lịch vào ngày mai.",
+                                    "p_vn": "toi du dinh di du lich vao ngay mai.",
+                                    "_id": "9938873f438f99a1b005f1005030eda0",
+                                    "id": 138114,
+                                    "type": "e_cnvi",
+                                    "e": "我预定了明天去旅行。",
+                                    "p_cn": "wo yudingle mingtian qu lǚxing.",
+                                    "p": "wǒ yùdìngle míngtiān qù lǚxíng."
+                                },
+                                {
+                                    "m": "Chúng tôi dự định họp vào tháng tới.",
+                                    "p_vn": "chung toi du dinh hop vao thang toi.",
+                                    "_id": "9938873f438f99a1b005f100503113eb",
+                                    "id": 138117,
+                                    "type": "e_cnvi",
+                                    "e": "我们预定了下个月开会。",
+                                    "p_cn": "women yudingle xia ge yue kaihui.",
+                                    "p": "wǒmen yùdìngle xià gè yuè kāihuì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 228,
+                "search": 4554
+            },
+            "snym": {
+                "syno": [
+                    "预约",
+                    "预订",
+                    "预留"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yùdìng",
+            "cn_vi": "dự định",
+            "word": "预定",
+            "id": 61847,
+            "phonetic": "yuding",
+            "rank": 2660,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄗㄨㄛˋ",
+            "_id": "f79f08313b31c97958421087b329b747",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm theo yêu cầu",
+                            "explain": "定制按照个人的规格制做、安装或改制",
+                            "examples": [
+                                {
+                                    "m": "anh ấy đang mặc một bộ đồ tây, trông giống như một bộ đồ may đo vậy.",
+                                    "p_vn": "anh ay dang mac mot bo do tay, trong giong nhu mot bo do may do vay.",
+                                    "_id": "0fb98846791d4a68a1c32d9c32baf8a7",
+                                    "id": 55405,
+                                    "type": "e_cnvi",
+                                    "e": "他身穿一套西服，看上去像是量身定做的",
+                                    "p_cn": "ta shen chuan yi tao xifu, kan shangqu xiang shi liang shen dingzuo de",
+                                    "p": "Tā shēn chuān yī tào xīfú, kàn shàngqù xiàng shì liáng shēn dìngzuò de"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 201
+            },
+            "snym": {
+                "syno": [
+                    "定制",
+                    "制作"
+                ]
+            },
+            "cn_vi": "định tố",
+            "pinyin": "dìngzuò",
+            "word": "定做",
+            "id": 13454,
+            "phonetic": "dingzuo",
+            "rank": 28249,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄌㄧㄠˋ",
+            "_id": "38d20fa22dca45feacdfd7b2268b2dd8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Sắp đặt tính toán.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "định liệu",
+            "pinyin": "dìng liào",
+            "word": "定料",
+            "id": 149836,
+            "phonetic": "dingliao",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄩㄝˋ",
+            "_id": "11bda3a1fd72340ed4354c88ffaf6dfc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đặt mua (báo, tạp chí)",
+                            "explain": "同'订阅'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "định duyệt",
+            "pinyin": "dìng yuè",
+            "word": "定阅",
+            "id": 13446,
+            "phonetic": "dingyue",
+            "rank": 128597,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨˋㄉㄧㄥˋ",
+            "_id": "160fe145cded7a9bac2c671d55ef93ef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhập định; ngồi thiền",
+                            "explain": "佛教徒的一种修行方法，闭着眼睛静坐，控制身心各种活动",
+                            "examples": [
+                                {
+                                    "m": "vị tăng già nhập định.",
+                                    "p_vn": "vi tang gia nhap dinh",
+                                    "_id": "c61ad743deb2445fa97b2df732c6f0b5",
+                                    "id": 34063,
+                                    "type": "e_cnvi",
+                                    "e": "老僧入定。",
+                                    "p_cn": "lao seng ruding",
+                                    "p": "lǎosēngrùdìng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 52
+            },
+            "snym": null,
+            "cn_vi": "nhập định",
+            "pinyin": "rùdìng",
+            "word": "入定",
+            "id": 44718,
+            "phonetic": "ruding",
+            "rank": 56688,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄉㄧㄥˋ",
+            "_id": "19a251112f5a4c01b71f0170afb0e6bf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để đánh giá",
+                            "explain": "to assess",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để ước tính giá trị",
+                            "explain": "to estimate the value",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hỗ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "cổ định",
+            "pinyin": "gū dìng",
+            "word": "估定",
+            "id": 94706,
+            "phonetic": "guding",
+            "rank": 75637,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄥˋㄉㄧㄥˋ",
+            "_id": "1e0a9b89c41a43408ef8babdb5b67781",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Quận Zhengding ở Thạch Gia Trang 石家莊 | 石家庄 , Hà Bắc",
+                            "explain": "Zhengding county in Shijiazhuang 石家莊|石家庄 [Shi2jiāzhuāng], Hebei",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "chính định",
+            "pinyin": "zhèngdìng",
+            "word": "正定",
+            "id": 110135,
+            "phonetic": "zhengding",
+            "rank": 81735,
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄊㄠˊ",
+            "_id": "1f1dc79eaae9488ea226a80711f91679",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Quận Dingtao ở Heze 菏澤 | 菏泽 , Sơn Đông",
+                            "explain": "Dingtao county in Heze 菏澤|菏泽 [Hé zé], Shandong",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "định đào",
+            "pinyin": "dìng táo",
+            "word": "定陶",
+            "id": 102427,
+            "phonetic": "dingtao",
+            "rank": 129814,
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄧㄣ",
+            "_id": "95483766ea5f451c4af4295fc0a29e64",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hoà âm; phối âm",
+                            "explain": "弦乐器的调音安排",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "định âm",
+            "pinyin": "dìng yīn",
+            "word": "定音",
+            "id": 13440,
+            "phonetic": "dingyin",
+            "rank": 68987,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄍㄨㄟ",
+            "_id": "bd3941008c4d87970aa7555f2e7c1ecd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy chế; quy định",
+                            "explain": "一定的规矩;成规",
+                            "examples": [
+                                {
+                                    "m": "cuối tháng kiểm lại, đã thành quy định.",
+                                    "p_vn": "cuoi thang kiem lai da thanh quy dinh",
+                                    "_id": "ecf33759cf1253f07c2a3a7544e62de6",
+                                    "id": 8868,
+                                    "type": "e_cnvi",
+                                    "e": "月底盘点，已成定规。",
+                                    "p_cn": "yuedi pandian yi cheng dinggui",
+                                    "p": "yuèdǐ pándiǎn，yǐchéng dìnggūi。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhất định; chắc chắn",
+                            "explain": "一定 (专指主观意志)",
+                            "examples": [
+                                {
+                                    "m": "bảo anh ấy đừng đi, anh ấy nhất định đòi đi.",
+                                    "p_vn": "bao anh ay dung di anh ay nhat dinh doi di",
+                                    "_id": "57f050ddb013f5517af8291d812fd460",
+                                    "id": 8869,
+                                    "type": "e_cnvi",
+                                    "e": "叫他不要去，他定规要去。",
+                                    "p_cn": "jiao ta buyao qu ta dinggui yao qu",
+                                    "p": "jiào tā bùyào qù，tā dìnggūi yào qù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 57
+            },
+            "snym": {
+                "syno": [
+                    "定例"
+                ]
+            },
+            "cn_vi": "định quy",
+            "pinyin": "dìngguī",
+            "word": "定规",
+            "id": 13383,
+            "phonetic": "dinggui",
+            "rank": 54385,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄉㄧㄠˋ",
+            "_id": "988f93b42e2619b3948c0bcc56563c56",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "định âm điệu",
+                            "explain": "给...定调子，确定基调",
+                            "examples": [
+                                {
+                                    "m": "cấp trên quyết định điều một số cán bộ chi viện cho nông thôn.",
+                                    "p_vn": "cap tren quyet dinh dieu mot so can bo chi vien cho nong thon",
+                                    "_id": "2f33046be88fff5e7cb5e0de850aaaff",
+                                    "id": 8595,
+                                    "type": "e_cnvi",
+                                    "e": "上级决定调派大批干部支援农业。",
+                                    "p_cn": "shangji jueding diaopai dapi ganbu zhiyuan nongye",
+                                    "p": "shàngjí juédìng diàopài dàpī gānbù zhīyuán nóngyè。"
+                                },
+                                {
+                                    "m": "vạch ra kế hoạch điều tra.",
+                                    "p_vn": "vach ra ke hoach dieu tra",
+                                    "_id": "bdc9fc8681e1091f4249067fa20dca73",
+                                    "id": 13179,
+                                    "type": "e_cnvi",
+                                    "e": "拟定调查纲目",
+                                    "p_cn": "niding diaocha gangmu",
+                                    "p": "nǐdìng diàochá gāngmù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 40
+            },
+            "snym": null,
+            "cn_vi": "định điệu",
+            "pinyin": "dìng diào",
+            "word": "定调",
+            "id": 13372,
+            "phonetic": "dingdiao",
+            "rank": 63997,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄘㄤ",
+            "_id": "be306b4eefe74716b992f8f9df2ae803",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(của hàng hóa hoặc hàng hóa) để đặt",
+                            "explain": "(of freight or cargo) to book",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "định thương",
+            "pinyin": "dìng cāng",
+            "word": "定舱",
+            "id": 107389,
+            "phonetic": "dingcang",
+            "rank": 99553,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄠˇㄉㄧㄥˋ",
+            "_id": "e8d56d55280c47d1a28d6758630ee544",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để khẳng định",
+                            "explain": "to assert",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhấn mạnh rằng",
+                            "explain": "to insist that",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 98
+            },
+            "snym": {
+                "anto": [
+                    "怀疑"
+                ]
+            },
+            "cn_vi": "giảo định",
+            "pinyin": "yǎodìng",
+            "word": "咬定",
+            "id": 102030,
+            "phonetic": "yaoding",
+            "rank": 42037,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄒㄧㄠ",
+            "_id": "3cedc2a85719eae47a898769b0b1bf61",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "định tiêu; hệ thống hạn ngạch cố định tiêu thụ",
+                            "explain": "针对市场销售的固定限额体系",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "định tiêu",
+            "pinyin": "dìng xiāo",
+            "word": "定销",
+            "id": 13428,
+            "phonetic": "dingxiao",
+            "rank": 143178,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄏㄨㄣ",
+            "_id": "61abfcef2ae4cc89ecb158e81498287c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đính hôn",
+                            "explain": "同'订婚'",
+                            "examples": [
+                                {
+                                    "m": "Nghe nói bạn đã đính hôn, Marry, xin hãy chấp nhận lời chúc tốt đẹp của tôi.",
+                                    "p_vn": "Nghe noi ban da dinh hon, Marry, xin hay chap nhan loi chuc tot dep cua toi.",
+                                    "_id": "4d250e2f19a64b86b486e7e5cbc15680",
+                                    "id": 71193,
+                                    "type": "e_cnvi",
+                                    "e": "听说你已定婚，Marry，请接受我的良好祝愿。",
+                                    "p_cn": "tingshuo ni yi dinghun qing jieshou wo de lianghao zhuyuan",
+                                    "p": "tīngshuō nǐ yǐ dìnghūn qǐng jiēshòu wǒ de liánghǎo zhùyuàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "định hôn",
+            "pinyin": "dìnghūn",
+            "word": "定婚",
+            "id": 13386,
+            "phonetic": "dinghun",
+            "rank": 73261,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄋㄥˊ",
+            "_id": "8fbb96786eac420386122c62945750e3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "chắc chắn có thể (làm cái gì đó)",
+                            "explain": "to be definitely able (to do sth)",
+                            "examples": [
+                                {
+                                    "m": "anh ta chắc chắn sẽ hoàn thành nhiệm vụ đúng thời hạn, tôi dám cam đoan đấy.",
+                                    "p_vn": "anh ta chac chan se hoan thanh nhiem vu dung thoi han, toi dam cam doan day.",
+                                    "_id": "05ed2e74ce54cc204fe782beda6a47bf",
+                                    "id": 1019,
+                                    "type": "e_cnvi",
+                                    "e": "他一定能按时完成任务，我敢打包票",
+                                    "p_cn": "ta yiding neng anshi wancheng renwu,wogan dabaopiao",
+                                    "p": "tā yídìng néng ànshí wánchéng rènwù，wǒgǎn dǎbāopiào"
+                                },
+                                {
+                                    "m": "Nhưng chắc chắn một người đoạt giải Nobel trong tương lai có thể hiểu được điều đó.",
+                                    "p_vn": "Nhung chac chan mot nguoi doat giai Nobel trong tuong lai co the hieu duoc dieu do.",
+                                    "_id": "12cdec89ac794dada41b935f99a821e0",
+                                    "id": 66536,
+                                    "type": "e_cnvi",
+                                    "e": "但未来的诺奖得主肯定能搞明白的",
+                                    "p_cn": "dan weilai de nuo jiangdezhu kending neng gao mingbai de",
+                                    "p": "dàn wèilái de nuò jiǎngdézhǔ kěndìng néng gǎo míngbái de"
+                                },
+                                {
+                                    "m": "anh ấy rất có khả năng phân tích, nhất định sẽ là một nhà thiết kế thời trang xuất sắc.",
+                                    "p_vn": "anh ay rat co kha nang phan tich, nhat dinh se la mot nha thiet ke thoi trang xuat sac.",
+                                    "_id": "3c08069224fbf17d91af17730be2c4f9",
+                                    "id": 26658,
+                                    "type": "e_cnvi",
+                                    "e": "他很有灵气， 一定能成为出色的服装设计师。",
+                                    "p_cn": "ta hen you lingqi,yiding neng chengwei chuse de fuzhuang shejishi. ",
+                                    "p": "tā hěn yǒu língqì，yídìng néng chéngwèi chūsè de fúzhuāng shèjìshī。"
+                                },
+                                {
+                                    "m": "Tôi chắc rằng chúng ta sẽ tìm được một chỗ đậu xe tốt hơn.",
+                                    "p_vn": "Toi chac rang chung ta se tim duoc mot cho dau xe tot hon.",
+                                    "_id": "4005a84613f54990a6a3738b37e0da2f",
+                                    "id": 64807,
+                                    "type": "e_cnvi",
+                                    "e": "我们肯定能找到一个更好的车位",
+                                    "p_cn": "women kending neng zhaodao yige genghao de chewei",
+                                    "p": "wǒmen kěndìng néng zhǎodào yīgè gènghǎo de chēwèi"
+                                },
+                                {
+                                    "m": "anh ấy dự đoán sự việc nhất định sẽ thành công.",
+                                    "p_vn": "anh ay du doan su viec nhat dinh se thanh cong",
+                                    "_id": "65dc6988de811e50e3aa63989b0ab6e5",
+                                    "id": 26328,
+                                    "type": "e_cnvi",
+                                    "e": "他料想事情定能成功。",
+                                    "p_cn": "ta liaoxiang shiqing ding neng chenggong",
+                                    "p": "tā liàoxiǎng shìqíng dìng néng chénggōng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "định năng",
+            "pinyin": "dìng néng",
+            "word": "定能",
+            "id": 107388,
+            "phonetic": "dingneng",
+            "rank": 87368,
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄅㄧㄠ",
+            "_id": "92a16700c6caf60c23f7cc41cf2621a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "định cỡ; kiểm tra cỡ trước khi chia độ",
+                            "explain": "以标准件来确定其误差（如测量仪表），尤指以此确定适当的修正系数",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 43
+            },
+            "snym": null,
+            "cn_vi": "định tiêu",
+            "pinyin": "dìng biāo",
+            "word": "定标",
+            "id": 13364,
+            "phonetic": "dingbiao",
+            "rank": 61927,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄧㄥˊㄉㄧㄥˋ",
+            "_id": "dcb6fb15eea3158636a29c622960f5a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đánh giá; định giá",
+                            "explain": "经过评判或审核来决定",
+                            "examples": [
+                                {
+                                    "m": "Thành tích thi cử đã được đánh giá xong xuôi.",
+                                    "p_vn": "thanh tich thi cu da duoc danh gia xong xuoi.",
+                                    "_id": "22868470d6bbe40355e5c919b59e9f68",
+                                    "id": 31124,
+                                    "type": "e_cnvi",
+                                    "e": "考试成绩已经评定完毕。",
+                                    "p_cn": "kaoshichengji yijing pingding wanbi。",
+                                    "p": "kǎoshìchéngjī yǐjīng píngdìng wánbì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 283
+            },
+            "snym": {
+                "syno": [
+                    "评议",
+                    "评比",
+                    "评价",
+                    "选定",
+                    "评级",
+                    "裁断"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "píngdìng",
+            "cn_vi": "bình định",
+            "word": "评定",
+            "id": 41280,
+            "phonetic": "pingding",
+            "rank": 22993,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄏㄨㄛˋ",
+            "_id": "2ea7443c330dc5babc69fdcdf3df3512",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đặt hàng; đặt mua; đặt mua hàng",
+                            "explain": "同'订货'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 56
+            },
+            "snym": null,
+            "cn_vi": "định hoá",
+            "pinyin": "dìnghuò",
+            "word": "定货",
+            "id": 13387,
+            "phonetic": "dinghuo",
+            "rank": 54956,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄗ˙",
+            "_id": "6f02c4ee4217c000b1d947741e47b25a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xta-tô; phần tĩnh (trong máy phát điện)",
+                            "explain": "电动机和发电机中，跟转子相应而固定在外壳上的部分",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 78
+            },
+            "snym": null,
+            "cn_vi": "định tử",
+            "pinyin": "dìngzǐ",
+            "word": "定子",
+            "id": 13451,
+            "phonetic": "dingzi",
+            "rank": 47067,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄌㄨㄣˋ",
+            "_id": "84abae4b2aa1da68fe047ce882e08d3a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "định luận; kết luận",
+                            "explain": "确定的论断",
+                            "examples": [
+                                {
+                                    "m": "việc này đã có kết luận.",
+                                    "p_vn": "viec nay da co ket luan",
+                                    "_id": "1ede9d85ec0e36cd36241ced17ab1085",
+                                    "id": 8883,
+                                    "type": "e_cnvi",
+                                    "e": "此事已有定论",
+                                    "p_cn": "ci shi yi you dinglun",
+                                    "p": "cǐshì yǐyǒu dìnglùn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 194
+            },
+            "snym": {
+                "syno": [
+                    "定性",
+                    "结论"
+                ]
+            },
+            "cn_vi": "định luận",
+            "pinyin": "dìnglùn",
+            "word": "定论",
+            "id": 13404,
+            "phonetic": "dinglun",
+            "rank": 28865,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄖㄢˊ",
+            "_id": "aaae5f26935cda3e2d67997079a0f6d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "tất nhiên; chắc chắn; nhất định; ắt hẳn",
+                            "explain": "必定",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 109
+            },
+            "snym": {
+                "syno": [
+                    "断然",
+                    "依旧",
+                    "安然"
+                ],
+                "anto": [
+                    "也许"
+                ]
+            },
+            "cn_vi": "định nhiên",
+            "pinyin": "dìngrán",
+            "word": "定然",
+            "id": 13414,
+            "phonetic": "dingran",
+            "rank": 39742,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄒㄧㄣ",
+            "_id": "69d4f2d69626dbdd5f6347f10b3a9ea5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thảnh thơi; an tâm; thư thái",
+                            "explain": "内心安定;安心",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 45
+            },
+            "snym": {
+                "syno": [
+                    "放心",
+                    "宁神",
+                    "宽心",
+                    "安心"
+                ]
+            },
+            "cn_vi": "định tâm",
+            "pinyin": "dìng xīn",
+            "word": "定心",
+            "id": 13429,
+            "phonetic": "dingxin",
+            "rank": 60734,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˋㄉㄧㄥˋ",
+            "_id": "abf24b3039a4a69d54580091d511f492",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "giám định; đánh giá",
+                            "explain": "对人的优缺点的鉴别和评定",
+                            "examples": [
+                                {
+                                    "m": "người giám định.",
+                                    "p_vn": "nguoi giam dinh",
+                                    "_id": "657e5d3e6cdb15b51ed1329859f2cb8d",
+                                    "id": 20507,
+                                    "type": "e_cnvi",
+                                    "e": "鉴定人。",
+                                    "p_cn": "jiandingren",
+                                    "p": "jiàndìngrén。"
+                                },
+                                {
+                                    "m": "sách giám định.",
+                                    "p_vn": "sach giam dinh",
+                                    "_id": "0c5a01fda7d3d07c21b3690a3ba46357",
+                                    "id": 20508,
+                                    "type": "e_cnvi",
+                                    "e": "鉴定书。",
+                                    "p_cn": "jianding shu",
+                                    "p": "jiàndìngshū。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phân định; phân biệt định đoạt",
+                            "explain": "辨别并确定事物的真伪、优劣等",
+                            "examples": [
+                                {
+                                    "m": "phân định những đồ cổ lâu năm được đào lên.",
+                                    "p_vn": "phan dinh nhung do co lau nam duoc dao len",
+                                    "_id": "348c30003d270430ab0fdd928711fc54",
+                                    "id": 20509,
+                                    "type": "e_cnvi",
+                                    "e": "鉴定出土文物的年代。",
+                                    "p_cn": "jianding chutu wenwu de niandai",
+                                    "p": "jiàndìng chūtǔwénwù de niándài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"坚定\" vừa là động từ vừa là tính từ, có thể đi kèm với tân ngữ.\ncòn \"坚决\" chỉ là tính từ, không thể đi kèm với tân ngữ.\nTính từ \"坚定\" bổ nghĩa cho lập trường, ý chí của con người...,\"坚决\" bổ nghĩa cho trạng thái, hành động của con người.",
+                    "title": "Phân biệt \"坚决\" và \"鉴定\"",
+                    "words": [
+                        "坚决",
+                        "鉴定"
+                    ]
+                },
+                {
+                    "mean_vi": "- Chủ thể hành động của \"鉴定\" là chuyên gia (ví dụ như giám định văn vật ) hoặc lãnh đạo (ví dụ như làm giám định cho người nào đó)\n- Chủ thể hành động của \"鉴别\" có thể bất cứ người nào.\n- \"鉴定\" có cách sử dụng của danh từ, có thể làm tân ngữ, \"鉴别\" không có cách sử dụng của danh từ, không thể làm tân ngữ.",
+                    "title": "Phân biệt \"鉴定\" và \"鉴别\"",
+                    "words": [
+                        "鉴定",
+                        "鉴别"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "审定",
+                    "判断",
+                    "订立",
+                    "判定",
+                    "判决",
+                    "果断",
+                    "鉴证",
+                    "顽固",
+                    "坚忍",
+                    "坚毅",
+                    "刚毅",
+                    "缔结",
+                    "矍铄"
+                ],
+                "anto": [
+                    "混淆",
+                    "敷衍"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jiàndìng",
+            "cn_vi": "giám định",
+            "popularity": {
+                "notebook": 124,
+                "search": 1240
+            },
+            "word": "鉴定",
+            "id": 28481,
+            "phonetic": "jianding",
+            "rank": 8273,
+            "kind": [
+                "v",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8b926f4f88ca44da8ded8c949fe7139b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sửa bản thảo; hiệu đính",
+                            "explain": "修改并確定稿子。",
+                            "examples": [
+                                {
+                                    "m": "Tư tưởng tình cảm của anh ấy có những thay đổi nhất định.",
+                                    "p_vn": "tu tuong tinh cam cua anh ay co nhung thay doi nhat dinh.",
+                                    "_id": "d0dea78a2758bae844ddb0eb396e4a7f",
+                                    "id": 44725,
+                                    "type": "e_cnvi",
+                                    "e": "他的思想感情起了一定程度的变化。",
+                                    "p_cn": "ta de sixiangganqing qi le yiding chengdu de bianhua。",
+                                    "p": "tā de sīxiǎnggǎnqīng qǐ le yídìng chéngdù de biànhuà。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bản thảo đã sửa chữa; bản thảo đã hiệu đính",
+                            "explain": "修改后確定下來的稿子。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "định trình",
+            "pinyin": "dìng chéng",
+            "word": "定程",
+            "id": 172090,
+            "phonetic": "dingcheng",
+            "rank": 115133,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄡˇㄉㄧㄥˋ",
+            "_id": "8a4330eb96f24721972a12f432eb862c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sáng lập",
+                            "explain": "to institute",
+                            "examples": [
+                                {
+                                    "m": "luật bàn tay trái",
+                                    "p_vn": "luat ban tay trai",
+                                    "_id": "0a13646478f33a21d26434f4b6f10a4a",
+                                    "id": 8909,
+                                    "type": "e_cnvi",
+                                    "e": "左手定则",
+                                    "p_cn": "zuoshou ding ze",
+                                    "p": "zuǒshǒu dìngzé"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "để thiết lập (quy tắc)",
+                            "explain": "to set down (rules)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "thủ định",
+            "pinyin": "shǒu dìng",
+            "word": "手定",
+            "id": 107737,
+            "phonetic": "shouding",
+            "rank": 122938,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄥˊㄉㄧㄥˋ",
+            "_id": "b0987703a2e54f5aaa4f0f1d0d94593b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trao đổi lời thề vào (một thời điểm hoặc địa điểm)",
+                            "explain": "to exchange vows at (a time or place)",
+                            "examples": [
+                                {
+                                    "m": "anh ấy dự đoán sự việc nhất định sẽ thành công.",
+                                    "p_vn": "anh ay du doan su viec nhat dinh se thanh cong",
+                                    "_id": "65dc6988de811e50e3aa63989b0ab6e5",
+                                    "id": 26328,
+                                    "type": "e_cnvi",
+                                    "e": "他料想事情定能成功。",
+                                    "p_cn": "ta liaoxiang shiqing ding neng chenggong",
+                                    "p": "tā liàoxiǎng shìqíng dìng néng chénggōng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trao đổi lời thề với (sb)",
+                            "explain": "to exchange vows with (sb)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "tình định",
+            "pinyin": "qíng dìng",
+            "word": "情定",
+            "id": 107692,
+            "phonetic": "qingding",
+            "rank": 98053,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄞˋㄉㄧㄥˋ",
+            "_id": "ce7244288a2e4ea0a48448d1049fdf23",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chờ đợi một quyết định",
+                            "explain": "to await a decision",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đang chờ xử lý",
+                            "explain": "to be pending",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 405
+            },
+            "snym": {
+                "syno": [
+                    "磨合"
+                ],
+                "anto": [
+                    "内定"
+                ]
+            },
+            "cn_vi": "đãi định",
+            "pinyin": "dàidìng",
+            "word": "待定",
+            "id": 102853,
+            "phonetic": "daiding",
+            "rank": 18268,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "一定"
+}

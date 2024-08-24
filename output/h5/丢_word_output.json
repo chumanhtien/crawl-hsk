@@ -1,0 +1,2429 @@
+{
+    "total": 53,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡ",
+            "_id": "bc059aa45c39d6f607b53662609bc2aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                109290,
+                                109291
+                            ],
+                            "struct": "丢 + thời gian/ số lần/ 掉/ 在…"
+                        },
+                        {
+                            "explain": "mất/ không thể mất",
+                            "examples": [
+                                77401,
+                                109292
+                            ],
+                            "struct": "丢 + 不/得 + 了"
+                        },
+                        {
+                            "explain": "vứt/ ném cái gì đó",
+                            "examples": [
+                                77404,
+                                77405
+                            ],
+                            "struct": "丢 + Tân ngữ（垃圾/ 果皮/ 纸屑/ 沙包/ 石头/ 手绢）"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                77416
+                            ],
+                            "struct": "Chủ ngữ (外语/ 技术/ 艺术/ 事情）+ 丢 + 了"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất; thất lạc",
+                            "explain": "遗失; 失去",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy mất tài liệu quan trọng.",
+                                    "p_vn": "anh ay mat tai lieu quan trong.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c06f8c4",
+                                    "id": 109284,
+                                    "type": "e_cnvi",
+                                    "e": "他丢了重要文件。",
+                                    "p_cn": "ta diule zhongyao wenjian.",
+                                    "p": "tā diūle zhòngyào wénjiàn."
+                                },
+                                {
+                                    "m": "Điện thoại của tôi mất rồi.",
+                                    "p_vn": "dien thoai cua toi mat roi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c0701f0",
+                                    "id": 109285,
+                                    "type": "e_cnvi",
+                                    "e": "我的手机丢了。",
+                                    "p_cn": "wo de shouji diule.",
+                                    "p": "wǒ de shǒujī diūle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ném; vứt; quăng",
+                            "explain": "扔",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy ném rác ra ngoài.",
+                                    "p_vn": "anh ay nem rac ra ngoai.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c0705bd",
+                                    "id": 109286,
+                                    "type": "e_cnvi",
+                                    "e": "他把垃圾丢出去。",
+                                    "p_cn": "ta ba la ji diu chuqu.",
+                                    "p": "tā bǎ lā jī diū chūqù."
+                                },
+                                {
+                                    "m": "Cô ấy giận dữ ném bút đi.",
+                                    "p_vn": "co ay gian du nem but di.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c070c15",
+                                    "id": 109287,
+                                    "type": "e_cnvi",
+                                    "e": "她生气地丢了笔。",
+                                    "p_cn": "ta shengqi de diule bi.",
+                                    "p": "tā shēngqì de diūle bǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bỏ; gác lại; không tiến hành nữa",
+                            "explain": "搁置; 放",
+                            "examples": [
+                                {
+                                    "m": "Chỉ có việc này là không bỏ đi được.",
+                                    "p_vn": "chi co viec nay la khong bo di duoc.",
+                                    "_id": "53e95118c022c236c09dec9be3154f51",
+                                    "id": 8923,
+                                    "type": "e_cnvi",
+                                    "e": "只有这件事丢不开。",
+                                    "p_cn": "zhiyou zhejian shi diu bukai.",
+                                    "p": "zhǐyǒu zhèjiàn shì dīu bùkāi."
+                                },
+                                {
+                                    "m": "Công việc tạm thời gác lại một bên.",
+                                    "p_vn": "cong viec tam thoi gac lai mot ben.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c07101d",
+                                    "id": 109288,
+                                    "type": "e_cnvi",
+                                    "e": "工作暂且丢一边。",
+                                    "p_cn": "gongzuo zanqie diu yibian.",
+                                    "p": "gōngzuò zànqiě diū yībiān."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bỏ quên",
+                            "explain": "遗落；由于不注意而失去",
+                            "examples": [
+                                {
+                                    "m": "Chìa khóa bị bỏ quên trong công viên.",
+                                    "p_vn": "chia khoa bi bo quen trong cong vien.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c0f3b32",
+                                    "id": 109352,
+                                    "type": "e_cnvi",
+                                    "e": "钥匙丢在公园里。",
+                                    "p_cn": "yaoshi diu zai gongyuan li.",
+                                    "p": "yàoshi diū zài gōngyuán lǐ."
+                                },
+                                {
+                                    "m": "Điện thoại bị bỏ quên trên taxi.",
+                                    "p_vn": "dien thoai bi bo quen tren taxi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c0f47fe",
+                                    "id": 109353,
+                                    "type": "e_cnvi",
+                                    "e": "手机丢在出租车上。",
+                                    "p_cn": "shouji diu zai chuzu che shang.",
+                                    "p": "shǒujī diū zài chūzū chē shàng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"丢\" và \"丢失\" đều có thể đi kèm với danh từ cụ thể làm tân ngữ.\nKhác:\n- \"失\" là ngữ tố, còn có thể kết hợp cùng với ngữ tố khác tạo thành một cụm cố định, ví dụ như \"失信于民,失而复得\"....\n\"丢\" và \"丢失\" không có cách sử dụng này.",
+                    "title": "Phân biệt \"丢\"， \"失\" và \"丢失\"",
+                    "words": [
+                        "丢",
+                        "失",
+                        "丢失"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "失",
+                    "舍"
+                ],
+                "anto": [
+                    "拾"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "diū",
+            "cn_vi": "đâu",
+            "popularity": {
+                "notebook": 627,
+                "search": 10032
+            },
+            "word": "丢",
+            "id": 13465,
+            "phonetic": "diu",
+            "rank": 998,
+            "lv_tocfl": 2,
+            "compound": "丢丑 ; 丢掉 ; 丢份 ; 丢魂失魄 ; 丢荒 ; 丢尽脸面 ; 丢车保帅 ; 丢盔卸甲 ; 丢脸 ; 丢眉丢眼 ; 丢眉弄色 ; 丢面子 ; 丢弃 ; 丢却 ; 丢人 ; 丢人现眼 ; 丢三落四 ; 丢失 ; 丢手 ; 丢心落肠 ; 丢心落意 ; 丢眼 ; 丢眼色 ; 丢置 ; 丢卒保车"
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄇㄟˊㄉㄧㄡㄧㄢˇ",
+            "_id": "ecf490330a7be2f8674e654a0ca07b08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "liếc mắt đưa tình",
+                            "explain": "用目光挑逗传情",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "đâu mi đâu nhãn",
+            "pinyin": "diū méi diū yǎn",
+            "word": "丢眉丢眼",
+            "id": 13475,
+            "phonetic": "diumeidiuyan",
+            "rank": 149720,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄏㄨㄤ",
+            "_id": "87b8e3c55cdaddde90e8b58d03169dfd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đất nghỉ; đất không canh tác liên tục",
+                            "explain": "土地不继续耕种，任它荒芜",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "đâu hoang",
+            "pinyin": "diū huāng",
+            "word": "丢荒",
+            "id": 13470,
+            "phonetic": "diuhuang",
+            "rank": 144986,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a235d4c6a1e64e50b888fb013173d62b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất bóng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đâu cầu",
+            "pinyin": "diū qiú",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "丢球",
+            "id": 174214,
+            "phonetic": "diuqiu",
+            "rank": 153723,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄌㄧㄢˇ",
+            "topic": "58",
+            "_id": "7a6b126d8de208b32685e7ee15ef2469",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "mất mặt; xấu mặt; bẽ mặt; mất thể diện; xấu hổ",
+                            "explain": "感觉丧失体面",
+                            "examples": [
+                                {
+                                    "m": "Vì cảm thấy xấu hổ, anh ấy cúi đầu và không nói gì",
+                                    "p_vn": "vi cam thay xau ho, anh ay cui dau va khong noi gi",
+                                    "_id": "c10c24a6ed43165db916499fa909f3bb",
+                                    "id": 83787,
+                                    "type": "e_cnvi",
+                                    "e": "因为感到丢脸，他低着头，一句不说。",
+                                    "p_cn": "yinwei gandao diulian, ta dizhe tou, yiju bu shuo",
+                                    "p": "yīnwèi gǎndào diūliǎn, tā dīzhe tóu, yījù bù shuō"
+                                },
+                                {
+                                    "m": "Tôi thấy xấu mặt vì đã viết những lời trẻ con như vậy.",
+                                    "p_vn": "toi thay xau mat vi da viet nhung loi tre con nhu vay.",
+                                    "_id": "2e1a030e19e944dd8df4b03b68e35ff8",
+                                    "id": 77393,
+                                    "type": "e_cnvi",
+                                    "e": "我为我写出幼稚的话感到丢脸。",
+                                    "p_cn": "wo wei wo xie chu youzhi dehua gandao diulian.",
+                                    "p": "wǒ wèi wǒ xiě chū yòuzhì dehuà gǎndào diūliǎn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "làm A mất mặt",
+                            "examples": [
+                                83790
+                            ],
+                            "struct": "让 + A + 丢脸"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm mất mặt; ê mặt",
+                            "explain": "丧失体面",
+                            "examples": [
+                                {
+                                    "m": "Mẹ luôn làm tôi mất mặt trước mặt người khác",
+                                    "p_vn": "me luon lam toi mat mat truoc mat nguoi khac",
+                                    "_id": "c10c24a6ed43165db916499fa90a7ec3",
+                                    "id": 83789,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈总会让我在别人面前丢脸。",
+                                    "p_cn": "mama zong hui rang wo zai bieren mianqian diulian",
+                                    "p": "māma zǒng huì ràng wǒ zài biéren miànqián diūliǎn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 138,
+                "search": 1347
+            },
+            "snym": {
+                "syno": [
+                    "丢丑",
+                    "出丑",
+                    "难看",
+                    "无颜",
+                    "丢人",
+                    "破相",
+                    "失格"
+                ],
+                "anto": [
+                    "争脸",
+                    "争光",
+                    "露脸"
+                ]
+            },
+            "cn_vi": "đâu kiểm",
+            "pinyin": "diūliǎn",
+            "word": "丢脸",
+            "id": 13474,
+            "phonetic": "diulian",
+            "rank": 7718,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄔㄡˇ",
+            "_id": "76f2a1b7fb986f6d1d316562d2cbc157",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất mặt; bẽ mặt; mất thể diện; nhọ mặt",
+                            "explain": "丢脸",
+                            "examples": [
+                                {
+                                    "m": "anh ấy không muốn bẽ mặt trước mọi người.",
+                                    "p_vn": "anh ay khong muon be mat truoc moi nguoi.",
+                                    "_id": "77974893f9f0b632646a9d9889836973",
+                                    "id": 8925,
+                                    "type": "e_cnvi",
+                                    "e": "他不愿在众人面前丢丑。",
+                                    "p_cn": "ta buyuan zai zhongren mianqian diuchou。",
+                                    "p": "tā bùyuàn zài zhòngrén miànqián dīuchǒu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 155
+            },
+            "snym": {
+                "syno": [
+                    "丢脸"
+                ],
+                "anto": [
+                    "争光"
+                ]
+            },
+            "cn_vi": "đâu sửu",
+            "pinyin": "diūchǒu",
+            "word": "丢丑",
+            "id": 13467,
+            "phonetic": "diuchou",
+            "rank": 32791,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "54",
+            "zhuyin": "ㄉㄧㄡㄕ",
+            "_id": "ca6b0711454eb358091b058f9c54abfd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A làm mất B",
+                            "examples": [
+                                141474,
+                                141475,
+                                141476
+                            ],
+                            "struct": "A + 把 + B + 丢失了"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất; thất lạc; đánh rớt",
+                            "explain": "遗失",
+                            "examples": [
+                                {
+                                    "m": "Tiểu Hoa đang tìm kiếm chiếc bút bị mất.",
+                                    "p_vn": "tieu hoa dang tim kiem chiec but bi mat.",
+                                    "_id": "329486f68b2b4177e0301e5c720918f1",
+                                    "id": 85320,
+                                    "type": "e_cnvi",
+                                    "e": "小华在寻找丢失的钢笔。",
+                                    "p_cn": "xiao hua zai xunzhao diushi de gangbi.",
+                                    "p": "xiǎo huá zài xúnzhǎo diūshī de gāngbǐ."
+                                },
+                                {
+                                    "m": "Cô ấy làm mất điện thoại ở nhà ga.",
+                                    "p_vn": "co ay lam mat dien thoai o nha ga.",
+                                    "_id": "9938873f438f99a1b005f10050c97986",
+                                    "id": 141471,
+                                    "type": "e_cnvi",
+                                    "e": "她在车站丢失了手机。",
+                                    "p_cn": "ta zai chezhan diushile shouji.",
+                                    "p": "tā zài chēzhàn diūshīle shǒujī."
+                                },
+                                {
+                                    "m": "丢失的行李已经找回。",
+                                    "p_vn": "丢失的行李已经找回。",
+                                    "_id": "9938873f438f99a1b005f10050c986a8",
+                                    "id": 141472,
+                                    "type": "e_cnvi",
+                                    "e": "丢失的行李已经找回。",
+                                    "p_cn": "diushi de xingli yijing zhao hui.",
+                                    "p": "diūshī de xínglǐ yǐjīng zhǎo huí."
+                                },
+                                {
+                                    "m": "Anh ấy vô tình làm mất chìa khóa.",
+                                    "p_vn": "anh ay vo tinh lam mat chia khoa.",
+                                    "_id": "9938873f438f99a1b005f10050c993ce",
+                                    "id": 141473,
+                                    "type": "e_cnvi",
+                                    "e": "他不小心丢失了钥匙。",
+                                    "p_cn": "ta bu xiaoxin diushile yaoshi.",
+                                    "p": "tā bù xiǎoxīn diūshīle yàoshi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều là động từ biểu thị mất đi những thứ vốn có.\n- Đều có thể mang tân ngữ.\nKhác:\n- \"迷失\" thường kết hợp với phương hướng, đường xá.\n\"丢失\" thường đi với người, vật phẩm ...\n- \"迷失\" dùng trong văn viết.\n\"丢失\" dùng cho cả văn viết và khẩu ngữ.",
+                    "title": "Phân biệt \"迷失\" và \"丢失\"",
+                    "words": [
+                        "迷失",
+                        "丢失"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- \"丢\" và \"丢失\" đều có thể đi kèm với danh từ cụ thể làm tân ngữ.\nKhác:\n- \"失\" là ngữ tố, còn có thể kết hợp cùng với ngữ tố khác tạo thành một cụm cố định, ví dụ như \"失信于民,失而复得\"....\n\"丢\" và \"丢失\" không có cách sử dụng này.",
+                    "title": "Phân biệt \"丢\"， \"失\" và \"丢失\"",
+                    "words": [
+                        "丢",
+                        "失",
+                        "丢失"
+                    ]
+                },
+                {
+                    "mean_vi": "Các đối tượng \"失去\" có thể là những thứ trừu tượng.\nĐối tượng của \"丢失\" và \"遗失\" là những sự vật cụ thể chứ không phải những sự vật trừu tượng.",
+                    "title": "Phân biệt \"失去\", \"丢失\" và \"遗失\"",
+                    "words": [
+                        "失去",
+                        "丢失",
+                        "遗失"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- \"遗失\" và \"丢失\" là từ đồng nghĩa.\nKhác:\n- \"遗失\" chủ yếu được dùng trong văn viết, còn \"丢失\" hoặc \"丢\" thường được dùng trong khẩu ngữ.",
+                    "title": "Phân biệt \"遗失\" và \"丢失\"",
+                    "words": [
+                        "遗失",
+                        "丢失"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "迷失",
+                    "损失",
+                    "失落",
+                    "走失",
+                    "遗失",
+                    "丧失",
+                    "去失",
+                    "失去"
+                ],
+                "anto": [
+                    "找出",
+                    "保存",
+                    "寻找"
+                ]
+            },
+            "cn_vi": "đâu thất",
+            "pinyin": "diūshī",
+            "popularity": {
+                "notebook": 94,
+                "search": 1499
+            },
+            "word": "丢失",
+            "id": 13483,
+            "phonetic": "diushi",
+            "rank": 7065,
+            "lv_tocfl": null,
+            "compound": "丢三落四"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄑㄩㄝˋ",
+            "_id": "da6aeeb412af115cfc2928b88e53f453",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vứt đi; vứt bỏ; quăng đi",
+                            "explain": "丢弃",
+                            "examples": [
+                                {
+                                    "m": "tâm sự đó mãi vứt bỏ không được.",
+                                    "p_vn": "tam su do mai vut bo khong duoc",
+                                    "_id": "a5523340a4014696a7f97298a8dca59e",
+                                    "id": 8933,
+                                    "type": "e_cnvi",
+                                    "e": "那件心事总丢却不下。",
+                                    "p_cn": "na jian xinshi zong diu que buxia",
+                                    "p": "nà jiàn xīnshì zǒng dīuquè bùxià。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mất; thất lạc",
+                            "explain": "遗失",
+                            "examples": [
+                                {
+                                    "m": "sơ ý làm mất cuốn sách, trong lòng khó chịu quá.",
+                                    "p_vn": "so y lam mat cuon sach trong long kho chiu qua",
+                                    "_id": "ba66ad85387b19c4d388c468189aa3d3",
+                                    "id": 8934,
+                                    "type": "e_cnvi",
+                                    "e": "书不慎丢却，心里好不懊恼。",
+                                    "p_cn": "shu bu shen diu que xinli haobu aonao",
+                                    "p": "shū bùshèn dīuquè，xīnlǐ hǎo bù àonǎo。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "đâu khước",
+            "pinyin": "diū què",
+            "word": "丢却",
+            "id": 13479,
+            "phonetic": "diuque",
+            "rank": 82599,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄡˇㄉㄧㄡ",
+            "_id": "9fed2b764dc34b21a24eeb921455c369",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để bị lạc",
+                            "explain": "to get lost",
+                            "examples": [
+                                {
+                                    "m": "Khi tôi đi bộ trong những con ngõ của Bắc Kinh, đi mãi đi mãi rồi tôi bị lạc",
+                                    "p_vn": "Khi toi di bo trong nhung con ngo cua Bac Kinh, di mai di mai roi toi bi lac",
+                                    "_id": "101563a902114071898a818b4c47cca1",
+                                    "id": 72250,
+                                    "type": "e_cnvi",
+                                    "e": "我在北京的胡同里走着走着就走丢了。",
+                                    "p_cn": "wo zai beijing de hutong li zou zhe zou zhe jiu zou diu le . ",
+                                    "p": "wǒ zài běijīng de hútòng lǐ zǒu zhe zǒu zhe jiù zǒu diū le 。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đi lang thang",
+                            "explain": "to wander off",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 219
+            },
+            "snym": null,
+            "cn_vi": "tẩu đâu",
+            "pinyin": "zǒu diū",
+            "word": "走丢",
+            "id": 99978,
+            "phonetic": "zoudiu",
+            "rank": 26905,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄎㄞ",
+            "_id": "577151343fca4036a19d4121537e2331",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để bỏ hoặc bỏ sang một bên",
+                            "explain": "to cast or put aside",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để quên một thời gian",
+                            "explain": "to forget for a while",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 32
+            },
+            "snym": {
+                "syno": [
+                    "丢弃",
+                    "抛开"
+                ]
+            },
+            "cn_vi": "đâu khai",
+            "pinyin": "diū kāi",
+            "word": "丢开",
+            "id": 94437,
+            "phonetic": "diukai",
+            "rank": 69622,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄖㄣˊ",
+            "_id": "d69b5f3a9f351ea41704d50a7d5a52fb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "mất mặt; xấu mặt; mất thể diện; bẽ mặt",
+                            "explain": "丢脸",
+                            "examples": [
+                                {
+                                    "m": "Anh ta hét to ở nơi công cộng, thật mất mặt.",
+                                    "p_vn": "anh ta het to o noi cong cong, that mat mat.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c93d5d7",
+                                    "id": 135354,
+                                    "type": "e_cnvi",
+                                    "e": "他在公共场合大声喊叫，真丢人。",
+                                    "p_cn": "ta zai gonggong changhe dasheng hanjiao, zhen diuren.",
+                                    "p": "tā zài gōnggòng chǎnghé dàshēng hǎnjiào, zhēn diūrén."
+                                },
+                                {
+                                    "m": "Bạn làm như vậy làm gia đình rất xấu hổ.",
+                                    "p_vn": "ban lam nhu vay lam gia dinh rat xau ho.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c93e451",
+                                    "id": 135355,
+                                    "type": "e_cnvi",
+                                    "e": "你这么做让家人很丢人。",
+                                    "p_cn": "ni zheme zuo rang jiaren hen diuren.",
+                                    "p": "nǐ zhème zuò ràng jiārén hěn diūrén."
+                                },
+                                {
+                                    "m": "Anh ấy trên sân khấu hát lạc cả tông, thật quá xấu hổ!",
+                                    "p_vn": "anh ay tren san khau hat lac ca tong, that qua xau ho!",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c940455",
+                                    "id": 135360,
+                                    "type": "e_cnvi",
+                                    "e": "他在台上唱歌跑调，太丢人啦！",
+                                    "p_cn": "ta zai tai shang changge paodiao, tai diuren la!",
+                                    "p": "tā zài tái shàng chànggē pǎodiào, tài diūrén la!"
+                                },
+                                {
+                                    "m": "Đánh nhau thua còn khóc, thật quá mất mặt!",
+                                    "p_vn": "danh nhau thua con khoc, that qua mat mat!",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c941294",
+                                    "id": 135361,
+                                    "type": "e_cnvi",
+                                    "e": "打架输了还哭鼻子，真够丢人的！",
+                                    "p_cn": "dajia shule hai ku bizi, zhen gou diuren de!",
+                                    "p": "dǎjià shūle hái kū bízi, zhēn gòu diūrén de!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 152,
+                "search": 1025
+            },
+            "snym": {
+                "syno": [
+                    "丢脸",
+                    "失礼",
+                    "抹黑",
+                    "光荣",
+                    "败笔",
+                    "洋相",
+                    "失格"
+                ],
+                "anto": [
+                    "光彩"
+                ]
+            },
+            "cn_vi": "đâu nhân",
+            "pinyin": "diūrén",
+            "lv_hsk_new": "6",
+            "word": "丢人",
+            "id": 13480,
+            "phonetic": "diuren",
+            "rank": 9659,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄓˋ",
+            "_id": "15eb407450728e9bbee8114be0ce1d58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bỏ; vứt bỏ",
+                            "explain": "抛弃在一边",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "đâu trí",
+            "pinyin": "diū zhì",
+            "word": "丢置",
+            "id": 13489,
+            "phonetic": "diuzhi",
+            "rank": 157100,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄏㄨㄣˊ",
+            "_id": "6fe96120439f41afabfd984e9b12561f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bị phân tâm",
+                            "explain": "to be distracted",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "đâu hồn",
+            "pinyin": "diū hún",
+            "word": "丢魂",
+            "id": 94438,
+            "phonetic": "diuhun",
+            "rank": 87941,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄒㄧㄚˋ",
+            "_id": "8ec2036374b945bcabba2c5edea7d5e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "từ bỏ",
+                            "explain": "to abandon; 搁置; 放",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 276
+            },
+            "snym": null,
+            "cn_vi": "đâu hạ",
+            "pinyin": "diū xià",
+            "word": "丢下",
+            "id": 94436,
+            "phonetic": "diuxia",
+            "rank": 23360,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄈㄣˋ",
+            "_id": "c89bf876343619612ca6420828ea2dc4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất mặt; xấu mặt; bẽ mặt; mất thể diện; quê; quê mặt; mắc cỡ; xấu hổ",
+                            "explain": "(丢份儿) 有失身份;丢人也说丢份子",
+                            "examples": [
+                                {
+                                    "m": "Vì không biết cách dùng dao nĩa, nên anh ấy không dám đến nhà hàng Tây ăn, chỉ sợ quê mặt",
+                                    "p_vn": "vi khong biet cach dung dao nia nen anh ay khong dam den nha hang tay an chi so que mat",
+                                    "_id": "014422c4ce97c06486dae0a07155200a",
+                                    "id": 8930,
+                                    "type": "e_cnvi",
+                                    "e": "他不会使刀叉，所以不敢去吃西餐，生怕丢份。",
+                                    "p_cn": "ta bu hui shi dao cha suoyi bu gan qu chi xican shengpa diu fen",
+                                    "p": "tā bùhùi shǐ dāochā，suǒyǐ bùgǎn qù chī xīcān，shēngpà dīufèn。"
+                                },
+                                {
+                                    "m": "mắc cỡ ghê!",
+                                    "p_vn": "mac co ghe",
+                                    "_id": "de417dbfcc2ef3e1987d9ec8bb5aeda1",
+                                    "id": 8931,
+                                    "type": "e_cnvi",
+                                    "e": "真丢份!",
+                                    "p_cn": "zhen diu fen",
+                                    "p": "zhēn diū fèn!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 44
+            },
+            "snym": null,
+            "cn_vi": "đâu phận",
+            "pinyin": "diū fèn",
+            "word": "丢份",
+            "id": 13469,
+            "phonetic": "diufen",
+            "rank": 60978,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄨㄥˋㄉㄧㄡ",
+            "_id": "252ef7bf27fc255b3ec166edfdd41253",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A đánh mất B",
+                            "examples": [
+                                87047,
+                                144788
+                            ],
+                            "struct": "A+ 把 + B + 弄丢"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm mất; đánh mất",
+                            "explain": "失去",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy làm mất món quà của tôi rồi.",
+                                    "p_vn": "anh ay lam mat mon qua cua toi roi.",
+                                    "_id": "fa269986752d77b45608e8d727abf36c",
+                                    "id": 54178,
+                                    "type": "e_cnvi",
+                                    "e": "他把我的礼物弄丢了。",
+                                    "p_cn": "ta ba wo de liwu nong diule.",
+                                    "p": "Tā bǎ wǒ de lǐwù nòng diūle."
+                                },
+                                {
+                                    "m": "Tôi làm mất điện thoại của mình.",
+                                    "p_vn": "toi lam mat dien thoai cua minh.",
+                                    "_id": "4db5a71385989eb3ed116a21c35cc000",
+                                    "id": 144781,
+                                    "type": "e_cnvi",
+                                    "e": "我弄丢了我的手机。",
+                                    "p_cn": "wo nong diule wo de shouji.",
+                                    "p": "wǒ nòng diūle wǒ de shǒujī."
+                                },
+                                {
+                                    "m": "Tôi làm mất chìa khóa nhà.",
+                                    "p_vn": "toi lam mat chia khoa nha.",
+                                    "_id": "4db5a71385989eb3ed116a21c35cc942",
+                                    "id": 144782,
+                                    "type": "e_cnvi",
+                                    "e": "我弄丢了房子的钥匙。",
+                                    "p_cn": "wo nong diule fangzi de yaoshi.",
+                                    "p": "wǒ nòng diūle fángzi de yàoshi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 139,
+                "search": 1592
+            },
+            "snym": {
+                "syno": [
+                    "失去",
+                    "丢失"
+                ]
+            },
+            "cn_vi": "lộng đâu",
+            "pinyin": "nòng diū",
+            "word": "弄丢",
+            "id": 83406,
+            "phonetic": "nongdiu",
+            "rank": 6732,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "64fef0dae0bd4fd8832b9f1c6f5df506",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chui",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đâu bài",
+            "pinyin": "diū pái",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "丢牌",
+            "id": 178429,
+            "phonetic": "diupai",
+            "rank": 142950,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄨㄢˋㄉㄧㄡ",
+            "_id": "b189fa1820c446a3bb839632f5b53321",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vứt nhầm chỗ (tàn thuốc, v.v.)",
+                            "explain": "to discard in the wrong place (cigarette butts etc)",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta đang tham quan các danh lam thắng cảnh, đừng giẫm đạp lên hoa cỏ hoặc vứt rác bừa bãi.",
+                                    "p_vn": "chung ta dang tham quan cac danh lam thang canh, dung giam dap len hoa co hoac vut rac bua bai.",
+                                    "_id": "2fff26d48deda166155f0dba4c355c92",
+                                    "id": 53630,
+                                    "type": "e_cnvi",
+                                    "e": "我们在游览景点, 不可攀折花木和乱丢垃圾。",
+                                    "p_cn": "women zai youlan jingdian, buke panzhe huamu he luan diu la ji.",
+                                    "p": "wǒmen zài yóulǎn jǐngdiǎn, bùkě pānzhé huāmù hé luàn diū lā jī."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "để lại những thứ của một người nằm xung quanh",
+                            "explain": "to leave one's things lying around",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 180
+            },
+            "snym": null,
+            "cn_vi": "loạn đâu",
+            "pinyin": "luàn diū",
+            "word": "乱丢",
+            "id": 101173,
+            "phonetic": "luandiu",
+            "rank": 30151,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄉㄧㄠˋ",
+            "_id": "ec71dd55e13902fbbc26a41527734c83",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất; thất lạc",
+                            "explain": "遗失",
+                            "examples": [
+                                {
+                                    "m": "không cẩn thận làm mất chìa khoá rồi.",
+                                    "p_vn": "khong can than lam mat chia khoa roi",
+                                    "_id": "ac4fe8e77ba65237c0858f915edd4bba",
+                                    "id": 8926,
+                                    "type": "e_cnvi",
+                                    "e": "不小心把钥匙丢掉了。",
+                                    "p_cn": "bu xiaoxin ba yaoshi diudiaole",
+                                    "p": "bù xiǎoxīn bǎ yàoshi diūdiàole."
+                                },
+                                {
+                                    "m": "thất nghiệp; mất việc",
+                                    "p_vn": "that nghiep; mat viec",
+                                    "_id": "76358a1b5c7df7c259e71b4f5e469a60",
+                                    "id": 8927,
+                                    "type": "e_cnvi",
+                                    "e": "丢掉饭碗(失业)。",
+                                    "p_cn": "diudiao fanwan (shiye)",
+                                    "p": "dīudiào fànwǎn ( shīyè )。"
+                                },
+                                {
+                                    "m": "tôi mất một cây viết.",
+                                    "p_vn": "toi mat mot cay viet",
+                                    "_id": "d67bcac6e61271a0a4ca11331971c38c",
+                                    "id": 8928,
+                                    "type": "e_cnvi",
+                                    "e": "我丢掉了一支笔。",
+                                    "p_cn": "wo diudiaole yi zhi bi",
+                                    "p": "wǒ dīudiào le yīzhī bǐ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vứt bỏ; quăng đi; vứt đi",
+                            "explain": "抛弃",
+                            "examples": [
+                                {
+                                    "m": "vứt bỏ ảo tưởng.",
+                                    "p_vn": "vut bo ao tuong",
+                                    "_id": "3a0e517ace910ca1bcd2a12e4b55e3b3",
+                                    "id": 8929,
+                                    "type": "e_cnvi",
+                                    "e": "丢掉幻想",
+                                    "p_cn": "diudiao huanxiang",
+                                    "p": "dīudiào huànxiǎng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"放弃\" thường là chủ thể động tác tự nguyện từ bỏ, trong đó tân ngữ là danh từ trừu tượng, khi \"丢掉\" thể hiện ý nghĩa \"抛弃\" là chủ động, tân ngữ là sự vật trừu tượng, khi thể hiện \"遗失\" là bị động, không tình nguyện, tân ngữ là danh từ cụ thể.",
+                    "title": "Phân biệt \"放弃\" và \"丢掉\"",
+                    "words": [
+                        "放弃",
+                        "丢掉"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "丢弃",
+                    "遗弃",
+                    "甩掉",
+                    "扔掉",
+                    "委弃",
+                    "抛弃",
+                    "白色"
+                ],
+                "anto": [
+                    "拾起",
+                    "保管",
+                    "保持",
+                    "捡起"
+                ]
+            },
+            "cn_vi": "đâu điệu",
+            "pinyin": "diūdiào",
+            "popularity": {
+                "notebook": 123,
+                "search": 1296
+            },
+            "word": "丢掉",
+            "id": 13468,
+            "phonetic": "diudiao",
+            "rank": 7975,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄑㄧˋ",
+            "_id": "c6ee619b45df9554dcc7ec1373974a49",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vứt bỏ; vứt đi; quăng đi; vất",
+                            "explain": "扔掉;抛弃",
+                            "examples": [
+                                {
+                                    "m": "mặc dù là đồ cũ, nhưng anh ấy không nỡ vứt đi.",
+                                    "p_vn": "mac du la do cu, nhung anh ay khong no vut di.",
+                                    "_id": "46925cce4b36dabebb4ea00b69a1b136",
+                                    "id": 8932,
+                                    "type": "e_cnvi",
+                                    "e": "虽是旧衣服，他也舍不得丢弃。",
+                                    "p_cn": "sui shi jiuyifu,ta ye shebude diuqi. ",
+                                    "p": "sūi shì jìuyīfu，tā yě shèbùdé dīuqì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 74,
+                "search": 866
+            },
+            "snym": {
+                "syno": [
+                    "放弃",
+                    "丢掉",
+                    "抛弃",
+                    "甩掉",
+                    "妄弃",
+                    "丢开"
+                ],
+                "anto": [
+                    "争取",
+                    "拾取",
+                    "保存",
+                    "珍藏",
+                    "存留",
+                    "安置",
+                    "拾掇",
+                    "获取"
+                ]
+            },
+            "cn_vi": "đâu khí",
+            "pinyin": "diūqì",
+            "word": "丢弃",
+            "id": 13478,
+            "phonetic": "diuqi",
+            "rank": 10939,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄕㄡˇ",
+            "_id": "dc1f52f51f8e0557eb42cb1290432524",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bỏ mặc; buông trôi; buông xuôi",
+                            "explain": "放开不管",
+                            "examples": [
+                                {
+                                    "m": "bỏ mặc không làm.",
+                                    "p_vn": "bo mac khong lam",
+                                    "_id": "4d63ecbbc8637edc18eacc867271ae01",
+                                    "id": 8938,
+                                    "type": "e_cnvi",
+                                    "e": "丢手不干",
+                                    "p_cn": "diu shou bu gan",
+                                    "p": "dīushǒu bùgān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "đâu thủ",
+            "pinyin": "diū shǒu",
+            "word": "丢手",
+            "id": 13484,
+            "phonetic": "diushou",
+            "rank": 86710,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄍㄨㄢ",
+            "_id": "a49e19eb6e2d46bf8eec117af6133a9a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(của một quan chức) mất việc",
+                            "explain": "(of an official) to lose one's job",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "đâu quan",
+            "pinyin": "diū guān",
+            "word": "丢官",
+            "id": 101073,
+            "phonetic": "diuguan",
+            "rank": 91695,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄧㄢˇ",
+            "_id": "c066f6f5e4febd1368f3959d079b2d0f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nháy mắt; đưa mắt ra hiệu; láy mắt",
+                            "explain": "用眼色向人示意",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "đâu nhãn",
+            "pinyin": "diū yǎn",
+            "word": "丢眼",
+            "id": 13487,
+            "phonetic": "diuyan",
+            "rank": 64815,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄇㄧㄥˋ",
+            "_id": "0ccab802ad1a4199a2980b85131e45cb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chết",
+                            "explain": "to die",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "đâu mệnh",
+            "pinyin": "diū mìng",
+            "word": "丢命",
+            "id": 101072,
+            "phonetic": "diuming",
+            "rank": 112877,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄇㄧㄢˋㄗ˙",
+            "_id": "a4001ab1b38010373d213898fea63a4e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "mất mặt; bẽ mặt; xấu mặt; mất thể diện",
+                            "explain": "丢脸",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 118
+            },
+            "snym": {
+                "syno": [
+                    "出洋相",
+                    "闹笑话",
+                    "活现世",
+                    "撑门面"
+                ]
+            },
+            "cn_vi": "đâu diện tử",
+            "pinyin": "diūmiànzi",
+            "word": "丢面子",
+            "id": 13477,
+            "phonetic": "diumianzi",
+            "rank": 38166,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2a4fbb6b1468408fa4b392c31b31b811",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất mặt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đâu phận nhi",
+            "pinyin": "diū fèn er",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "丢份儿",
+            "id": 182924,
+            "phonetic": "diufener",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄧㄢˇㄙㄜˋ",
+            "_id": "e65b67f8f31943305c40c163e21a6f08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nháy mắt; đưa mắt ra hiệu; đưa mắt; láy mắt; nháy nhau",
+                            "explain": "用眼光暗示;使眼色; 用眼光暗示",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": {
+                "syno": [
+                    "使眼色"
+                ]
+            },
+            "cn_vi": "đâu nhãn sắc",
+            "pinyin": "diū yǎnsè",
+            "word": "丢眼色",
+            "id": 13488,
+            "phonetic": "diuyanse",
+            "rank": 107577,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄈㄢˋㄨㄢˇ",
+            "_id": "e49b5fd163774ad98f0860240be03125",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất việc",
+                            "explain": "to lose one's job",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 59
+            },
+            "snym": null,
+            "cn_vi": "đâu phạn oản",
+            "pinyin": "diū fànwǎn",
+            "word": "丢饭碗",
+            "id": 116770,
+            "phonetic": "diufanwan",
+            "rank": 53856,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄣㄉㄧㄡㄖㄣˊ",
+            "_id": "e23e249fe763427ea981c692dc2d5570",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Thật mất mặt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 48
+            },
+            "snym": null,
+            "cn_vi": "chân đâu nhân",
+            "pinyin": "zhēn diūrén",
+            "word": "真丢人",
+            "id": 85109,
+            "phonetic": "zhendiuren",
+            "rank": 58744,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄉㄠˋㄐㄧㄚ",
+            "_id": "637717e641524b15b6f878fa8f9f24e1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất mặt hoàn toàn",
+                            "explain": "to lose (face) utterly",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "đâu đáo gia",
+            "pinyin": "diū dàojiā",
+            "word": "丢到家",
+            "id": 116769,
+            "phonetic": "diudaojia",
+            "rank": 119436,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄐㄧㄣˇㄌㄧㄢˇㄇㄧㄢˋ",
+            "_id": "dfdd999e2d8844ba3b8ab3bcb2850bde",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "lăng nhục; mang tai mang tiếng",
+                            "explain": "丧失尽尊严、体面或荣誉",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 27
+            },
+            "snym": {
+                "syno": [
+                    "颜面扫地"
+                ]
+            },
+            "cn_vi": "đâu tần kiểm diện",
+            "pinyin": "diū jǐn liǎnmiàn",
+            "word": "丢尽脸面",
+            "id": 13472,
+            "phonetic": "diujinlianmian",
+            "rank": 74297,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "topic": "20",
+            "zhuyin": "ㄙㄨㄢㄅㄨˋㄌㄧㄡㄉㄧㄡ",
+            "_id": "ffe834f5b26ee51575f04728c783e8f1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "chua lòm; chua lét",
+                            "explain": "(酸不溜丢的) 形容有酸味 (含厌恶意)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "toan bất lựu đâu",
+            "pinyin": "suān bu liū diū",
+            "word": "酸不溜丢",
+            "id": 49299,
+            "phonetic": "suanbuliudiu",
+            "rank": 85172,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄇㄟˊㄋㄨㄥˋㄙㄜˋ",
+            "_id": "4dc240cc52c83e9d0d6e1a3a6b8fb96b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "nháy mắt",
+                            "explain": "做眉眼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": {
+                "syno": [
+                    "挤眉弄眼"
+                ]
+            },
+            "cn_vi": "đâu mi lộng sắc",
+            "pinyin": "diū méi nòng sè",
+            "word": "丢眉弄色",
+            "id": 13476,
+            "phonetic": "diumeinongse",
+            "rank": 135214,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄙㄢㄌㄨㄛˋㄙˋ",
+            "_id": "0c2b99e916df2f3b9153294cc5fea30a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "vứt bừa bãi; vung vãi; hay quên; quên trước quên sau; vương vãi",
+                            "explain": "形容马虎或记忆力不好而好忘事",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 281,
+                "search": 2630
+            },
+            "snym": {
+                "syno": [
+                    "马马虎虎",
+                    "粗枝大叶",
+                    "丢三拉四",
+                    "潦草塞责",
+                    "虚应故事",
+                    "漫不经心",
+                    "掉以轻心",
+                    "丢三忘四",
+                    "差三错四"
+                ],
+                "anto": [
+                    "谨小慎微",
+                    "一丝不苟"
+                ]
+            },
+            "cn_vi": "đâu tam lạc tứ",
+            "pinyin": "diūsānlàsì",
+            "lv_hsk_new": "6",
+            "word": "丢三落四",
+            "id": 13482,
+            "phonetic": "diusanlasi",
+            "rank": 4439,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄎㄨㄟㄒㄧㄝˋㄐㄧㄚˇ",
+            "_id": "251c8ab7e673c2413510acdda72bfa78",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "bị đánh tơi bời; không còn manh giáp; tả tơi rơi rụng",
+                            "explain": "形容吃了败仗逃跑时的狠狈样子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 13
+            },
+            "snym": {
+                "syno": [
+                    "落荒而逃",
+                    "狼奔豕突",
+                    "一败涂地",
+                    "丢盔抛甲"
+                ],
+                "anto": [
+                    "旗开得胜",
+                    "横扫千军",
+                    "克敌制胜",
+                    "喟然长叹"
+                ]
+            },
+            "cn_vi": "đâu khôi tá giáp",
+            "pinyin": "diū kuī xiè jiǎ",
+            "word": "丢盔卸甲",
+            "id": 13473,
+            "phonetic": "diukuixiejia",
+            "rank": 94795,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄖㄣˊㄒㄧㄢˋㄧㄢˇ",
+            "_id": "3a738e978ef5bef3e915d5403db9e721",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "mất mặt; mất thể diện",
+                            "explain": "丢脸，出丑",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 346
+            },
+            "snym": null,
+            "cn_vi": "đâu nhân hiện nhãn",
+            "pinyin": "diūrén xiànyǎn",
+            "word": "丢人现眼",
+            "id": 13481,
+            "phonetic": "diurenxianyan",
+            "rank": 20197,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄌㄨㄣˊㄔㄜˇㄆㄠˋ",
+            "_id": "7f8f9a73c54448a59ceb47029c1e7520",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mất bánh xe, rách súng (thành ngữ); bối rối và bối rối trong hoảng loạn",
+                            "explain": "lose a wheel, tear at the gun (idiom); flustered and confused in a panic",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "đâu luân xả pháo",
+            "pinyin": "diū lún chě pào",
+            "word": "丢轮扯炮",
+            "id": 133621,
+            "phonetic": "diulunchepao",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄒㄧㄣㄌㄨㄛˋㄔㄤˊ",
+            "_id": "5f29d3c838fabec6524f0ee43c828819",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "an tâm; yên tâm; yên lòng",
+                            "explain": "（西南方言）：放心",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": {
+                "syno": [
+                    "丢心落意"
+                ]
+            },
+            "cn_vi": "đâu tâm lạc trường",
+            "pinyin": "diū xīn luò cháng",
+            "word": "丢心落肠",
+            "id": 13485,
+            "phonetic": "diuxinluochang",
+            "rank": 107652,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄈㄟˊㄉㄧㄡㄕㄡˋ",
+            "_id": "2bde23af9ff13712480a788208a82c2a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "chuyên giành lợi thế cho mình",
+                            "explain": "比喻专做占便宜的事",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": {
+                "syno": [
+                    "挑肥拣瘦",
+                    "挑三拣四"
+                ]
+            },
+            "cn_vi": "cật phì đâu sấu",
+            "pinyin": "chī féi diū shòu",
+            "word": "吃肥丢瘦",
+            "id": 7528,
+            "phonetic": "chifeidiushou",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄟㄅㄨˋㄌㄧㄡㄉㄧㄡ",
+            "_id": "96731faf11798f9b2af95137574ebf39",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "xám xịt; xám xì; xám xì xám xịt (có ý chán ghét)",
+                            "explain": "(灰不溜丢的) 形容灰色 (含厌恶意) 也说灰不溜秋",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": {
+                "syno": [
+                    "灰不喇唧"
+                ]
+            },
+            "cn_vi": "hôi bất lựu đâu",
+            "pinyin": "huī bu liū diū",
+            "word": "灰不溜丢",
+            "id": 25333,
+            "phonetic": "huibuliudiu",
+            "rank": 83649,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "38b6da1283e34590ac3d1fd697ccae52",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "chút đỉnh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nhất đâu điểm nhi",
+            "pinyin": "yī diū diǎn er",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "一丢点儿",
+            "id": 182932,
+            "phonetic": "yidiudianer",
+            "rank": 158107,
+            "kind": [
+                "part"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄨㄕㄚㄇㄠˋ",
+            "_id": "c5b3a8389cf240c9bec043a039914576",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "(văn học) để mất chiếc mũ đen của một người",
+                            "explain": "lit. to lose one's black hat",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bị sa thải khỏi một bài đăng chính thức",
+                            "explain": "to be sacked from an official post",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "đâu ô sa mạo",
+            "pinyin": "diū wūshāmào",
+            "word": "丢乌纱帽",
+            "id": 131269,
+            "phonetic": "diuwushamao",
+            "rank": 158107,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄉㄨˋㄉㄧㄡㄑㄧㄡˊ",
+            "_id": "545edde8b82a4c31b05c834351d04e62",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Thua thêm 1 bàn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tái độ đâu cầu",
+            "pinyin": "zàidù diū qiú",
+            "word": "再度丢球",
+            "id": 153793,
+            "phonetic": "zaidudiuqiu",
+            "rank": 130715,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄔㄜㄅㄠˇㄕㄨㄞˋ",
+            "_id": "670c275e7380beb4350c99364deb6727",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thí xe giữ tướng; hi sinh cái nhỏ bảo vệ cái lớn",
+                            "explain": "象棋比赛的战术比喻牺牲比较重要的东西保护最重要的",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 3
+            },
+            "snym": {
+                "syno": [
+                    "丢卒保帅",
+                    "丢卒保车"
+                ]
+            },
+            "cn_vi": "đâu xa bảo suất",
+            "pinyin": "diū chē bǎo shuài",
+            "word": "丢车保帅",
+            "id": 13466,
+            "phonetic": "diuchebaoshuai",
+            "rank": 133647,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄒㄧㄣㄌㄨㄛˋㄧˋ",
+            "_id": "f2c73620622cb99c4febd844c29d1848",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "yên tâm; yên lòng; an tâm",
+                            "explain": "丢心落肠",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": {
+                "syno": [
+                    "丢心落肠"
+                ]
+            },
+            "cn_vi": "đâu tâm lạc ý",
+            "pinyin": "diū xīn luò yì",
+            "word": "丢心落意",
+            "id": 13486,
+            "phonetic": "diuxinluoyi",
+            "rank": 124603,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄏㄨㄣˊㄕㄆㄛˋ",
+            "_id": "44e80c6bf6196419a83d2f1549f93ec3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "mất trí; quẫn trí",
+                            "explain": "形容心神不定",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": {
+                "syno": [
+                    "丧魂落魄",
+                    "慌慌张张",
+                    "失魂落魄",
+                    "丢魂丢魄",
+                    "魂不附体"
+                ]
+            },
+            "cn_vi": "đâu hồn thất phách",
+            "pinyin": "diū hún shī pò",
+            "word": "丢魂失魄",
+            "id": 13471,
+            "phonetic": "diuhunshipo",
+            "rank": 115409,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄩˋㄒㄧㄢㄉㄧㄡㄑㄧㄡˊ",
+            "_id": "56edacbc0d7d4bc98c9ee7ef5359cee3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bị dẫn trước",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "suất tiên đâu cầu",
+            "pinyin": "shuàixiān diū qiú",
+            "word": "率先丢球",
+            "id": 153792,
+            "phonetic": "shuaixiandiuqiu",
+            "rank": 93169,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄗㄨˊㄅㄠˇㄔㄜ",
+            "_id": "9e1ac7f9f34049ce2b911c7e6d8a1eb7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "thí tốt giữ xe",
+                            "explain": "象棋战术用语比喻丢掉次要的，保住主要的",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 35
+            },
+            "snym": {
+                "syno": [
+                    "丢车保帅",
+                    "弃车保帅",
+                    "为时过早"
+                ]
+            },
+            "cn_vi": "đâu tuất bảo xa",
+            "pinyin": "diūzúbǎojū",
+            "word": "丢卒保车",
+            "id": 13490,
+            "phonetic": "diuzubaoju",
+            "rank": 66993,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄡㄏㄨㄣˊㄌㄨㄛˋㄆㄛˋ",
+            "_id": "1fba6d1cf9c243ee93999cc574fdd6f8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "xem 失魂落魄",
+                            "explain": "see 失魂落魄 [shī hún luò pò]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "đâu hồn lạc phách",
+            "pinyin": "diū hún luòpò",
+            "word": "丢魂落魄",
+            "id": 131270,
+            "phonetic": "diuhunluopo",
+            "rank": 133091,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄉㄧㄡㄕㄊㄨㄥㄓㄕㄨ",
+            "_id": "36c483a4eada4aaa9beb726e858b5187",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giấy báo thất lạc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "đâu thất thông tri thư",
+            "pinyin": "Diūshī tōngzhī shū",
+            "word": "丢失通知书",
+            "id": 156767,
+            "phonetic": "Diushitongzhishu",
+            "rank": 103680,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "丢"
+}

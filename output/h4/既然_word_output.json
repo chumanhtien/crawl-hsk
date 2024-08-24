@@ -1,0 +1,3006 @@
+{
+    "total": 489,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄖㄢˊ",
+            "_id": "0602aae63dffc6579f443299746420d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "（kết hợp với 就、也、还, biểu thị việc đưa ra tiền đề trước rồi suy luận sau)",
+                            "examples": [
+                                19757,
+                                19756
+                            ],
+                            "struct": "既然……，就/也/还……"
+                        },
+                        {
+                            "explain": "Nếu đã..., sao còn....",
+                            "examples": [
+                                109483
+                            ],
+                            "struct": "既然……，为什么/还+……"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "đã; nếu đã; nếu như",
+                            "explain": "连词，用在上半句话里，下半句话里往往用副词''就、也、还''跟它呼应，表示先提出前提， 而后加以推论",
+                            "examples": [
+                                {
+                                    "m": "Nếu như này không được, thế cậu định làm như nào?",
+                                    "p_vn": "neu nhu nay khong duoc, the cau dinh lam nhu nao?",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3daf92b",
+                                    "id": 108275,
+                                    "type": "e_cnvi",
+                                    "e": "既然这样不行，那么你打算怎么办？",
+                                    "p_cn": "jiran zheyang buxing, name ni dasuan zenme ban?",
+                                    "p": "jìrán zhèyàng bùxíng, nàme nǐ dǎsuàn zěnme bàn?"
+                                },
+                                {
+                                    "m": "Nếu đây là ý kiến của anh ấy, tôi không phản đối.",
+                                    "p_vn": "neu day la y kien cua anh ay, toi khong phan doi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c13b8d2",
+                                    "id": 109478,
+                                    "type": "e_cnvi",
+                                    "e": "既然这是他的意见，我不反对。",
+                                    "p_cn": "jiran zhe shi ta de yijian, wo bu fandui.",
+                                    "p": "jìrán zhè shì tā de yìjiàn, wǒ bù fǎnduì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều biểu thị nghĩa đã, đã vậy.\nKhác:\n- \"既\" có thể kết hợp với 又,也 tạo thành kết cấu cố định (既....又, 既....也).\n\"既然\" không có cách dùng này.\n- \"既\" dùng trong văn viết.\n\"既然\" dùng trong cả văn nói và văn viết.",
+                    "title": "Phân biệt \"既\" và \"既然\"",
+                    "words": [
+                        "既",
+                        "既然"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "4",
+            "pinyin": "jìrán",
+            "cn_vi": "kí nhiên",
+            "popularity": {
+                "notebook": 877,
+                "search": 23828
+            },
+            "word": "既然",
+            "id": 27274,
+            "phonetic": "jiran",
+            "rank": 192,
+            "lv_tocfl": 4,
+            "compound": "既然如此"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄖㄢˊㄖㄨˊㄘˇ",
+            "_id": "2efb5da5a0a84ec6a19ffc6da497688a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "Nếu đã như vậy",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Nếu đã như vậy, cậu nói thế nào thì là thế đấy đi",
+                                    "p_vn": "Neu da nhu vay, cau noi the nao thi la the day di",
+                                    "_id": "d4555963702342f987a658be257e4b6d",
+                                    "id": 67611,
+                                    "type": "e_cnvi",
+                                    "e": "既然如此，你说什么就是什么",
+                                    "p_cn": "Jiran ruci, ni shuo shenme jiushi shenme",
+                                    "p": "Jìrán rúcǐ, nǐ shuō shénme jiùshì shénme"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 128,
+                "search": 776
+            },
+            "snym": null,
+            "cn_vi": "kí nhiên như thử",
+            "pinyin": "jìrán rúcǐ",
+            "word": "既然如此",
+            "id": 152401,
+            "phonetic": "jiranruci",
+            "rank": 11807,
+            "kind": [
+                "conj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv",
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋ",
+            "_id": "e56e723ae506b87ca6a922168d7bcc16",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "đã ... lại.../ vừa....vừa....",
+                            "examples": [
+                                91056,
+                                91161
+                            ],
+                            "struct": "Chủ ngữ + 既 + Tính từ 1 + 又 + Tính từ 2"
+                        },
+                        {
+                            "explain": "hành động xảy ra đồng thời; cả.....và.....",
+                            "examples": [
+                                91186,
+                                91187
+                            ],
+                            "struct": "Chủ ngữ + 既 + Động từ 1, 也/又/还 + Động từ 2."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "đã",
+                            "explain": "表示动作已经完成，可译为\"已经\"",
+                            "examples": [
+                                {
+                                    "m": "Đã quyết định rồi thì đi thôi.",
+                                    "p_vn": "da quyet dinh roi thi di thoi.",
+                                    "_id": "55db399305625a14707d64b918726648",
+                                    "id": 100046,
+                                    "type": "e_cnvi",
+                                    "e": "既已决定，就出发吧。",
+                                    "p_cn": "ji yi jueding, jiu chufa ba.",
+                                    "p": "jì yǐ juédìng, jiù chūfā ba."
+                                },
+                                {
+                                    "m": "Đã hoàn thành rồi thì không cần nói nhiều.",
+                                    "p_vn": "da hoan thanh roi thi khong can noi nhieu.",
+                                    "_id": "55db399305625a14707d64b918727466",
+                                    "id": 100047,
+                                    "type": "e_cnvi",
+                                    "e": "既已完成，无需多言。",
+                                    "p_cn": "ji yi wancheng, wuxu duo yan.",
+                                    "p": "jì yǐ wánchéng, wúxū duō yán."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đã; vừa",
+                            "explain": "表示两种情况都有",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy vừa thông minh vừa chăm chỉ học tập.",
+                                    "p_vn": "anh ay vua thong minh vua cham chi hoc tap.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571bd8579",
+                                    "id": 130404,
+                                    "type": "e_cnvi",
+                                    "e": "他既聪明又努力学习。",
+                                    "p_cn": "ta ji congming you nuli xuexi.",
+                                    "p": "tā jì cōngmíng yòu nǔlì xuéxí."
+                                },
+                                {
+                                    "m": "Cửa hàng này vừa rẻ vừa ngon.",
+                                    "p_vn": "cua hang nay vua re vua ngon.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571bdc6c4",
+                                    "id": 130409,
+                                    "type": "e_cnvi",
+                                    "e": "这家店既便宜又好吃。",
+                                    "p_cn": "zhe jia dian ji pianyi you hao chi.",
+                                    "p": "zhè jiā diàn jì piányi yòu hǎo chī."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "nếu/ đã....thì/nên...",
+                            "examples": [
+                                100057,
+                                100058
+                            ],
+                            "struct": "Chủ ngữ + 既....， 就/也/还/...+...."
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "đã; nếu đã; nếu như",
+                            "explain": "既然",
+                            "examples": [
+                                {
+                                    "m": "Nếu đã đến rồi thì đừng đi nữa.",
+                                    "p_vn": "neu da den roi thi dung di nua.",
+                                    "_id": "55db399305625a14707d64b918729f6c",
+                                    "id": 100052,
+                                    "type": "e_cnvi",
+                                    "e": "既然来了，就别走了。",
+                                    "p_cn": "jiran laile, jiu bie zoule.",
+                                    "p": "jìrán láile, jiù bié zǒule."
+                                },
+                                {
+                                    "m": "Nếu đã biết rồi thì tại sao không nói.",
+                                    "p_vn": "neu da biet roi thi tai sao khong noi.",
+                                    "_id": "55db399305625a14707d64b91872ac7e",
+                                    "id": 100053,
+                                    "type": "e_cnvi",
+                                    "e": "既然知道，为何不说。",
+                                    "p_cn": "jiran zhidao, weihe bu shuo.",
+                                    "p": "jìrán zhīdào, wèihé bù shuō."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều biểu thị nghĩa đã, đã vậy.\nKhác:\n- \"既\" có thể kết hợp với 又,也 tạo thành kết cấu cố định (既....又, 既....也).\n\"既然\" không có cách dùng này.\n- \"既\" dùng trong văn viết.\n\"既然\" dùng trong cả văn nói và văn viết.",
+                    "title": "Phân biệt \"既\" và \"既然\"",
+                    "words": [
+                        "既",
+                        "既然"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "4",
+            "pinyin": "jì",
+            "cn_vi": "kí.ký",
+            "popularity": {
+                "notebook": 422,
+                "search": 18258
+            },
+            "word": "既",
+            "id": 27269,
+            "phonetic": "ji",
+            "rank": 351,
+            "lv_tocfl": 3,
+            "compound": "既而 ; 既然 ; 既是 ; 既往不咎"
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄦˊ",
+            "_id": "93e22c40904e7ce604a5f0312d2c448c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "lát sau; một lát sau; sau này; về sau; rồi thì (phó từ chỉ thời gian, dùng ở đầu câu hoặc đầu nửa câu sau, biểu thị tình hình nói ở câu trên hoặc động tác mới xảy ra không lâu)",
+                            "explain": "时间副词，用在全句或下半句的头上，表示上文所说的情况或动 作发生之后不久",
+                            "examples": [
+                                {
+                                    "m": "một lát sau tạnh mưa, lại hăng hái leo núi.",
+                                    "p_vn": "mot lat sau tanh mua lai hang hai leo nui",
+                                    "_id": "d964ec1dcc782cbc9c71321b84c28b6c",
+                                    "id": 19755,
+                                    "type": "e_cnvi",
+                                    "e": "既而雨霁，欣然登山。",
+                                    "p_cn": "jier yu ji xinran dengshan",
+                                    "p": "jì ér yǔ jì，xīnrán dēngshān。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 91
+            },
+            "snym": {
+                "syno": [
+                    "俄而"
+                ]
+            },
+            "cn_vi": "kí nhi",
+            "pinyin": "jì'ér",
+            "word": "既而",
+            "id": 27272,
+            "phonetic": "jier",
+            "rank": 43533,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄉㄜ˙",
+            "_id": "0b643ee28892459ca9042b9289452cbd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "đã có được",
+                            "explain": "already obtained",
+                            "examples": [
+                                {
+                                    "m": "Đã có được quyền lợi.",
+                                    "p_vn": "da co duoc quyen loi.",
+                                    "_id": "4983c1874613b2bb6aa8ef4921fb8bf2",
+                                    "id": 19749,
+                                    "type": "e_cnvi",
+                                    "e": "既得权利。",
+                                    "p_cn": "jide quanli。",
+                                    "p": "jìdé quánlì。"
+                                },
+                                {
+                                    "m": "Tôi không quan tâm đến kết quả của trường hợp này.",
+                                    "p_vn": "Toi khong quan tam den ket qua cua truong hop nay.",
+                                    "_id": "ad192448c8ca4307b73a7f6f3b7e8e4b",
+                                    "id": 61909,
+                                    "type": "e_cnvi",
+                                    "e": "我对此案的结果没有任何既得利益",
+                                    "p_cn": "wo dui cian de jieguo meiyou renhe jideliyi",
+                                    "p": "wǒ dùi cǐàn de jiéguǒ méiyǒu rènhé jìdélìyì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giao cho",
+                            "explain": "vested in",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vesting",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 215
+            },
+            "snym": null,
+            "cn_vi": "kí đắc",
+            "pinyin": "jìdé",
+            "word": "既得",
+            "id": 88719,
+            "phonetic": "jide",
+            "rank": 27165,
+            "kind": [
+                "conj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄧˇ",
+            "_id": "e2a719f7807843ad87ed0c047be43247",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "đã sẵn sàng",
+                            "explain": "already",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 61
+            },
+            "snym": null,
+            "cn_vi": "kí dĩ",
+            "pinyin": "jì yǐ",
+            "word": "既已",
+            "id": 88718,
+            "phonetic": "jiyi",
+            "rank": 52989,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄕˋ",
+            "_id": "797d97bffc86663a3b6c2a11686309f1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "đã",
+                            "explain": "既然",
+                            "examples": [
+                                {
+                                    "m": "anh ấy đã không bằng lòng thì thôi vậy.",
+                                    "p_vn": "anh ay da khong bang long thi thoi vay",
+                                    "_id": "b675532643445974d3f470c990ac155c",
+                                    "id": 19758,
+                                    "type": "e_cnvi",
+                                    "e": "既是他不愿意，那就算了吧。",
+                                    "p_cn": "jishi ta bu yuanyi na jiusuanle ba",
+                                    "p": "jì shì tā bù yuànyì，nàjìusuànle ba。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 632
+            },
+            "snym": null,
+            "cn_vi": "kí thị",
+            "pinyin": "jìshì",
+            "word": "既是",
+            "id": 27275,
+            "phonetic": "jishi",
+            "rank": 13584,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "11, 31, 44",
+            "zhuyin": "ㄐㄧˋㄨㄤˇ",
+            "_id": "2984941b5ae310555df094d87e818fd2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chuyện xưa; chuyện đã qua; ký vãng",
+                            "explain": "已经过去的事情",
+                            "examples": [
+                                {
+                                    "m": "không trách tội xưa; không truy cứu chuyện đã qua.",
+                                    "p_vn": "khong trach toi xua; khong truy cuu chuyen da qua",
+                                    "_id": "3f0bec32327b062c455a103162cf46f3",
+                                    "id": 22066,
+                                    "type": "e_cnvi",
+                                    "e": "既往不咎(以往的过失不去责备)。",
+                                    "p_cn": "jiwangbujiu (yiwang de guoshi bu qu zebei)",
+                                    "p": "jìwǎngbùjìu ( yǐwǎng de guòshī bùqù zébèi )。"
+                                },
+                                {
+                                    "m": "Không trách lỗi xưa.",
+                                    "p_vn": "khong trach loi xua.",
+                                    "_id": "9695c5b3160b8ef23931ff509a546afb",
+                                    "id": 19750,
+                                    "type": "e_cnvi",
+                                    "e": "既往不咎。",
+                                    "p_cn": "jiwangbujiu。",
+                                    "p": "jìwǎngbùjìu。"
+                                },
+                                {
+                                    "m": "Cô vẫn thích dùng bát để múc cơm và rau như mọi khi.",
+                                    "p_vn": "co van thich dung bat de muc com va rau nhu moi khi.",
+                                    "_id": "cc500b7c533849b08f14bb070a565abd",
+                                    "id": 56352,
+                                    "type": "e_cnvi",
+                                    "e": "她还是一如既往的爱用碗盛饭盛菜。",
+                                    "p_cn": "ta haishi yirujiwang de ai yong wan cheng fan cheng cai.",
+                                    "p": "Tā háishi yīrújìwǎng de ài yòng wǎn chéng fàn chéng cài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trước đây; trước kia",
+                            "explain": "以前",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dĩ vãng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 252
+            },
+            "snym": {
+                "syno": [
+                    "以往",
+                    "往昔",
+                    "以前",
+                    "过去"
+                ],
+                "anto": [
+                    "此刻",
+                    "如今",
+                    "未来"
+                ]
+            },
+            "cn_vi": "kí vãng",
+            "pinyin": "jìwǎng",
+            "word": "既往",
+            "id": 27276,
+            "phonetic": "jiwang",
+            "rank": 24681,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄧㄡˇ",
+            "_id": "5356c09fd40c45299684c64fb3055ad3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hiện có",
+                            "explain": "existing",
+                            "examples": [
+                                {
+                                    "m": "Mẫu đế có nhiều màu sắc, kiểu dáng khác nhau, đường chỉ may tỉ mỉ, thiết kế tinh tế vừa mang nét duyên dáng truyền thống vừa mang phong cách hiện đại.",
+                                    "p_vn": "Mau de co nhieu mau sac, kieu dang khac nhau, duong chi may ti mi, thiet ke tinh te vua mang net duyen dang truyen thong vua mang phong cach hien dai.",
+                                    "_id": "8b28e551a4994c159e1039d33d2c87a5",
+                                    "id": 68614,
+                                    "type": "e_cnvi",
+                                    "e": "鞋垫图样,花色繁多,风格各异,针脚细密,设计精美,既有传统韵味,又具有现代风格。",
+                                    "p_cn": "Xiedian tuyang, huase fanduo, fengge ge yi, zhenjiao ximi, sheji jingmei, ji you chuantong yunwei, you juyou xiandai fengge.",
+                                    "p": "Xiédiàn túyàng, huāsè fánduō, fēnggé gè yì, zhēnjiǎo xìmì, shèjì jīngměi, jì yǒu chuántǒng yùnwèi, yòu jùyǒu xiàndài fēnggé."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 57,
+                "search": 863
+            },
+            "snym": null,
+            "cn_vi": "kí hữu",
+            "pinyin": "jì yǒu",
+            "word": "既有",
+            "id": 91798,
+            "phonetic": "jiyou",
+            "rank": 10964,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˊㄐㄧˋ",
+            "_id": "ae7f902f64a4a0af3a0f751255ff7ff2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "toàn phần (nhật thực, nguyệt thực)",
+                            "explain": "日全食或月全食过程中，月亮阴影与太阳圆面或地球阴影与月亮圆面第一次内切时二者之间的位置关系，也指发生这种位置关系的时刻食既发生在初亏之后参看〖食相〗",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "thực kí",
+            "pinyin": "shí jì",
+            "word": "食既",
+            "id": 47258,
+            "phonetic": "shiji",
+            "rank": 120773,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄉㄧㄥˋ",
+            "_id": "d3454e7dca73760dfe6179e9a8b30ec3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "trước; về trước, đã định",
+                            "explain": "方针、计划等）已经决定了的",
+                            "examples": [
+                                {
+                                    "m": "phương án đã định",
+                                    "p_vn": "phuong án dã dịnh",
+                                    "_id": "329486f68b2b4177e0301e5c72a94f8d",
+                                    "id": 86309,
+                                    "type": "e_cnvi",
+                                    "e": "既定方案",
+                                    "p_cn": "jiding fang'an",
+                                    "p": "jìdìng fāng'àn"
+                                },
+                                {
+                                    "m": "phương châm đã định",
+                                    "p_vn": "phuong cham dã dịnh",
+                                    "_id": "329486f68b2b4177e0301e5c72a95d45",
+                                    "id": 86310,
+                                    "type": "e_cnvi",
+                                    "e": "既定方针",
+                                    "p_cn": "jiding fangzhen",
+                                    "p": "jìdìng fāngzhēn"
+                                },
+                                {
+                                    "m": "mục tiêu đã định",
+                                    "p_vn": "mục tieu dã dịnh",
+                                    "_id": "329486f68b2b4177e0301e5c72a95e59",
+                                    "id": 86311,
+                                    "type": "e_cnvi",
+                                    "e": "既定目标",
+                                    "p_cn": "jiding mubiao",
+                                    "p": "jìdìng mùbiāo"
+                                },
+                                {
+                                    "m": "kế hoạch cho sẵn",
+                                    "p_vn": "ké hoạch cho sãn",
+                                    "_id": "329486f68b2b4177e0301e5c72a962f8",
+                                    "id": 86312,
+                                    "type": "e_cnvi",
+                                    "e": "既定计划",
+                                    "p_cn": "jiding jihua",
+                                    "p": "jìdìng jìhuà"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 34,
+                "search": 548
+            },
+            "snym": {
+                "syno": [
+                    "确定",
+                    "一定",
+                    "肯定",
+                    "已定"
+                ],
+                "anto": [
+                    "未定"
+                ]
+            },
+            "cn_vi": "kí định",
+            "pinyin": "jìdìng",
+            "word": "既定",
+            "id": 27271,
+            "phonetic": "jiding",
+            "rank": 14966,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄕˋㄍㄢˇ",
+            "_id": "356b1b51d08e4260a1d3ccb7fec7dedb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "déjà vu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 91
+            },
+            "snym": null,
+            "cn_vi": "kí thị cảm",
+            "pinyin": "jì shì gǎn",
+            "word": "既视感",
+            "id": 115018,
+            "phonetic": "jishigan",
+            "rank": 43615,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                "pro",
+                "conj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄢˊ",
+            "_id": "19c0be849a71d26d0c8e62b278024288",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "đúng; không sai",
+                            "explain": "对;不错",
+                            "examples": [
+                                {
+                                    "m": "Lời anh ấy nói, mọi người đều cho là đúng.",
+                                    "p_vn": "loi anh ay noi, moi nguoi deu cho la dung.",
+                                    "_id": "f2efc94449b26b3e2967bccbc938523a",
+                                    "id": 93424,
+                                    "type": "e_cnvi",
+                                    "e": "他说的话，大家都以为然。",
+                                    "p_cn": "ta shuo dehua, dajia dou yiwei ran.",
+                                    "p": "tā shuō dehuà, dàjiā dōu yǐwéi rán."
+                                },
+                                {
+                                    "m": "Tôi đưa ra đề nghị, anh ấy lại không cho là đúng.",
+                                    "p_vn": "toi dua ra de nghi, anh ay lai khong cho la dung.",
+                                    "_id": "55db399305625a14707d64b9187ba969",
+                                    "id": 100292,
+                                    "type": "e_cnvi",
+                                    "e": "我提出建议，他不以为然。",
+                                    "p_cn": "wo tichu jianyi, ta buyiweiran.",
+                                    "p": "wǒ tíchū jiànyì, tā bùyǐwéirán."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "như vậy; như thế; thế này; như thế kia",
+                            "explain": "如此;这样;那样",
+                            "examples": [
+                                {
+                                    "m": "Biết nó vậy, nhưng không hiểu sao nó lại như vậy.",
+                                    "p_vn": "biet no vay, nhung khong hieu sao no lai nhu vay.",
+                                    "_id": "bbec526db8a593686558a8daa6dd54c3",
+                                    "id": 33397,
+                                    "type": "e_cnvi",
+                                    "e": "知其然，不知其所以然。",
+                                    "p_cn": "zhiqiran，buzhiqisuoyiran.",
+                                    "p": "zhīqírán，bùzhīqísuǒyǐrán."
+                                },
+                                {
+                                    "m": "Chuyện này không hẳn là như thế.",
+                                    "p_vn": "chuyen nay khong han la nhu the.",
+                                    "_id": "55db399305625a14707d64b9187bb85c",
+                                    "id": 100294,
+                                    "type": "e_cnvi",
+                                    "e": "这件事情不尽然。",
+                                    "p_cn": "zhe jian shiqing bujinran.",
+                                    "p": "zhè jiàn shìqíng bùjìnrán."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "nhưng; song",
+                            "explain": "然而",
+                            "examples": [
+                                {
+                                    "m": "Việc này tuy nhỏ, nhưng cũng không thể bỏ qua.",
+                                    "p_vn": "viec nay tuy nho, nhung cung khong the bo qua.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9385c7d",
+                                    "id": 93425,
+                                    "type": "e_cnvi",
+                                    "e": "此事虽小，然亦不可忽视。",
+                                    "p_cn": "ci shi sui xiao, ran yi buke hushi.",
+                                    "p": "cǐ shì suī xiǎo, rán yì bùkě hūshì."
+                                },
+                                {
+                                    "m": "Điện thoại này tuy rẻ, nhưng cũng không thể mua.",
+                                    "p_vn": "dien thoai nay tuy re, nhung cung khong the mua.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9385f47",
+                                    "id": 93426,
+                                    "type": "e_cnvi",
+                                    "e": "这个手机虽便宜，然亦不能买。",
+                                    "p_cn": "zhege shouji sui pianyi, ran yi buneng mai.",
+                                    "p": "zhège shǒujī suī piányi, rán yì bùnéng mǎi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "bỗng nhiên",
+                            "explain": "副词或形容词后缀",
+                            "examples": [
+                                {
+                                    "m": "Bỗng nhiên, cô ấy xuất hiện.",
+                                    "p_vn": "bong nhien, co ay xuat hien.",
+                                    "_id": "07a55f095743b88120f5760fe1734e02",
+                                    "id": 33399,
+                                    "type": "e_cnvi",
+                                    "e": "忽然，她出现。",
+                                    "p_cn": "huran, ta chuxian.",
+                                    "p": "hūrán, tā chūxiàn."
+                                },
+                                {
+                                    "m": "Đột nhiên, trời bắt đầu mưa to.",
+                                    "p_vn": "dot nhien, troi bat dau mua to.",
+                                    "_id": "79f87c0d72b467dc5aa33ebcb50524f3",
+                                    "id": 33400,
+                                    "type": "e_cnvi",
+                                    "e": "突然，天空下起了大雨。",
+                                    "p_cn": "turan, tiankong xia qile dayu.",
+                                    "p": "tūrán, tiānkōng xià qǐle dàyǔ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 71,
+                "search": 8596
+            },
+            "snym": null,
+            "cn_vi": "nhiên",
+            "pinyin": "rán",
+            "word": "然",
+            "id": 43998,
+            "phonetic": "ran",
+            "rank": 1239,
+            "lv_tocfl": null,
+            "compound": "然而 ; 然后 ; 然诺 ; 然则"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e3a8f6eeb1a74516b6b63ad5aef55de6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "sớm biết thế này, chẳng có buổi đầu; sao đến nông nỗi này; nếu biết có kết quả như hôm nay, thì lúc đầu đừng làm như vậy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "kí hữu kim nhật",
+            "pinyin": "jì yǒu jīnrì",
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "word": "既有今日",
+            "id": 185642,
+            "phonetic": "jiyoujinri",
+            "rank": 107944,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄉㄜ˙ㄑㄧㄐㄧㄢ",
+            "_id": "a09ab358f60c4d968d5fbd3e069f8e6b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời kỳ vận chuyển (về tài chính)",
+                            "explain": "vesting period (in finance)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "kí đắc kì gian",
+            "pinyin": "jìdé qíjiān",
+            "word": "既得期间",
+            "id": 130355,
+            "phonetic": "jideqijian",
+            "rank": 109785,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄖㄢˊㄐㄩㄝˊㄖㄢˊ",
+            "_id": "ee1529c864a84bcfbac7aaa8c22206e0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "chắc chắn",
+                            "explain": "firmly",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cương quyết",
+                            "explain": "resolutely",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không e ngại",
+                            "explain": "without hesitation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 36,
+                "search": 283
+            },
+            "snym": {
+                "syno": [
+                    "当机立断",
+                    "坚决果断",
+                    "大刀阔斧",
+                    "干脆利落",
+                    "毫不犹豫"
+                ],
+                "anto": [
+                    "优柔寡断",
+                    "犹豫不决"
+                ]
+            },
+            "cn_vi": "nghị nhiên quyết nhiên",
+            "pinyin": "yìrán juérán",
+            "word": "毅然决然",
+            "id": 132510,
+            "phonetic": "yiranjueran",
+            "rank": 22988,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄉㄜ˙ㄌㄧˋㄧˋ",
+            "_id": "53b0aa2eaa8440f2a7d445223daa4071",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quyền lợi",
+                            "explain": "vested interest",
+                            "examples": [
+                                {
+                                    "m": "Tôi không quan tâm đến kết quả của trường hợp này.",
+                                    "p_vn": "Toi khong quan tam den ket qua cua truong hop nay.",
+                                    "_id": "ad192448c8ca4307b73a7f6f3b7e8e4b",
+                                    "id": 61909,
+                                    "type": "e_cnvi",
+                                    "e": "我对此案的结果没有任何既得利益",
+                                    "p_cn": "wo dui cian de jieguo meiyou renhe jideliyi",
+                                    "p": "wǒ dùi cǐàn de jiéguǒ méiyǒu rènhé jìdélìyì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 180
+            },
+            "snym": null,
+            "cn_vi": "kí đắc lợi ích",
+            "pinyin": "jìdé lìyì",
+            "word": "既得利益",
+            "id": 128517,
+            "phonetic": "jideliyi",
+            "rank": 30158,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄔㄥˊㄕˋㄕˊ",
+            "_id": "98fcb2a8610212ea56e01db4bd63f29d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "đã thành sự thật; việc đã rồi",
+                            "explain": "已完成的、并且推定是不可改变的事",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 57
+            },
+            "snym": {
+                "syno": [
+                    "木已成舟"
+                ]
+            },
+            "cn_vi": "kí thành sự thực",
+            "pinyin": "jìchéng shìshí",
+            "word": "既成事实",
+            "id": 27270,
+            "phonetic": "jichengshishi",
+            "rank": 54571,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗˋㄖㄢˊㄦˊㄖㄢˊ",
+            "_id": "0141626ce60f40cc0878aa88ff9e99ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "tự nhiên mà vậy",
+                            "explain": "不经外力作用而如此",
+                            "examples": [
+                                {
+                                    "m": "trong một thời gian dài chúng tôi làm việc với nhau, tự nhiên xây dựng nên tình hữu nghị sâu sắc.",
+                                    "p_vn": "trong mot thoi gian dai chung toi lam viec voi nhau tu nhien xay dung nen tinh huu nghi sau sac",
+                                    "_id": "bcec3d61765af571424b73aee42ce728",
+                                    "id": 52527,
+                                    "type": "e_cnvi",
+                                    "e": "我们长期在一起工作，自然而然地建立了深厚的友谊。",
+                                    "p_cn": "women changqi zai yiqi gongzuo ziranerran di jianlile shenhou de youyi",
+                                    "p": "wǒmen chángqī zài yīqǐ gōngzuò，zìránérrán dì jiànlì le shēnhòu de yǒuyí。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dưng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 93,
+                "search": 744
+            },
+            "snym": {
+                "syno": [
+                    "顺其自然",
+                    "大势所趋",
+                    "油然而生",
+                    "听之任之",
+                    "听其自然",
+                    "水到渠成",
+                    "顺应自然",
+                    "有感而发"
+                ],
+                "anto": [
+                    "事在人为",
+                    "矫柔造作",
+                    "人定胜天",
+                    "矫揉造作",
+                    "装腔作势"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "zìrán'érrán",
+            "cn_vi": "tự nhiên nhi nhiên",
+            "word": "自然而然",
+            "id": 66884,
+            "phonetic": "ziran'erran",
+            "rank": 12186,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄨㄤˇㄅㄨˋㄐㄧㄡˋ",
+            "_id": "6ae5fd966f24b7b734db2200944b6525",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "không trách lỗi xưa; không nhắc chuyện cũ",
+                            "explain": "对过去的错误不再责备也说不咎既往",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta nên tuân thủ nguyên tắc không trách móc quá khứ để tái hợp.",
+                                    "p_vn": "Chung ta nen tuan thu nguyen tac khong trach moc qua khu de tai hop.",
+                                    "_id": "8754bb69d4f640419ce056965372c3dc",
+                                    "id": 71365,
+                                    "type": "e_cnvi",
+                                    "e": "我们应当本着既往不咎的原则重新合伙。",
+                                    "p_cn": "women yingdang benzhe jiwangbujiu de yuanze chongxin hehuo",
+                                    "p": "wǒmen yīngdāng běnzhe jìwǎngbùjiù de yuánzé chóngxīn héhuǒ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hãy để chuyện cũ qua đi, đừng nhắc lại làm gì; hãy để dĩ vãng trôi về dĩ vãng",
+                            "explain": "对过去的错误不再责备",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 48,
+                "search": 240
+            },
+            "snym": {
+                "syno": [
+                    "既往不究",
+                    "不咎既往",
+                    "不追既往"
+                ],
+                "anto": [
+                    "赏罚分明",
+                    "信赏必罚",
+                    "杀一儆百"
+                ]
+            },
+            "cn_vi": "kí vãng bất cữu",
+            "pinyin": "jìwǎngbùjiù",
+            "word": "既往不咎",
+            "id": 27277,
+            "phonetic": "jiwangbujiu",
+            "rank": 25441,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄤˋㄖㄢˊ",
+            "_id": "4ef7e4877e0612d771a29b653a79213e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "thất vọng; tiu nghỉu; sớn sác; nhớn nhác",
+                            "explain": "怅怅",
+                            "examples": [
+                                {
+                                    "m": "tiu nghỉu quay về.",
+                                    "p_vn": "tiu nghiu quay ve",
+                                    "_id": "9a0ed434defbb2e7181c405b640f9299",
+                                    "id": 4323,
+                                    "type": "e_cnvi",
+                                    "e": "怅然而返。",
+                                    "p_cn": "changran er fan",
+                                    "p": "chàngrán ér fǎn。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thẩn thơ",
+                            "explain": "形容因不如意而感到不痛快",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 160
+            },
+            "snym": {
+                "syno": [
+                    "惋惜",
+                    "怅惘",
+                    "恻然",
+                    "痛惜",
+                    "惘然",
+                    "怜惜",
+                    "可惜",
+                    "超然"
+                ],
+                "anto": [
+                    "欣然"
+                ]
+            },
+            "cn_vi": "trướng nhiên",
+            "pinyin": "chàngrán",
+            "word": "怅然",
+            "id": 6617,
+            "phonetic": "changran",
+            "rank": 32167,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠˋㄖㄢˊ",
+            "_id": "89a6e3e449b4407c85f3359b5b175075",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "rõ ràng",
+                            "explain": "clearly",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hiển nhiên",
+                            "explain": "evidently",
+                            "examples": []
+                        },
+                        {
+                            "mean": "rõ rệt",
+                            "explain": "markedly",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "giảo nhiên",
+            "pinyin": "jiào rán",
+            "word": "较然",
+            "id": 105741,
+            "phonetic": "jiaoran",
+            "rank": 158107,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄥㄖㄢˊ",
+            "_id": "0b507b4f2455471f8924d421439711c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "với một cú sốc đột ngột, nổ, v.v.",
+                            "explain": "with a sudden shock, bang etc",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 205
+            },
+            "snym": {
+                "syno": [
+                    "砰然",
+                    "恍然",
+                    "忽然"
+                ]
+            },
+            "cn_vi": "phanh nhiên",
+            "pinyin": "pēng rán",
+            "word": "怦然",
+            "id": 102901,
+            "phonetic": "pengran",
+            "rank": 27896,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄚˋㄖㄢˊ",
+            "_id": "2c8009243557e47c64956149b4b8b71a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "ủ rũ; ủ ê; tiu nghỉu; cú rủ; rù; đờ; cú rũ",
+                            "explain": "形容懊丧的神情",
+                            "examples": [
+                                {
+                                    "m": "tiu nghỉu như nhà có tang; mặt ủ mày ê",
+                                    "p_vn": "tiu nghiu nhu nha co tang; mat u may e",
+                                    "_id": "f40a1993ad5afbbcb8c69f1a70df8b26",
+                                    "id": 6163,
+                                    "type": "e_cnvi",
+                                    "e": "嗒然若丧",
+                                    "p_cn": "daran ruo sang",
+                                    "p": "dārán ruò sàng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "tháp nhiên",
+            "pinyin": "dārán",
+            "word": "嗒然",
+            "id": 9795,
+            "phonetic": "daran",
+            "rank": 113027,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄟˋㄖㄢˊ",
+            "_id": "44a386f400238071fc6608d14dfef97e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hài lòng; vừa ý",
+                            "explain": "顺心的样子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "huệ nhiên",
+            "pinyin": "huì rán",
+            "word": "惠然",
+            "id": 25752,
+            "phonetic": "huiran",
+            "rank": 94334,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄢㄖㄢˊ",
+            "_id": "5a0f041947a2b031d022087c118840c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "hoàn toàn; triệt để; nhanh chóng; mau chóng (thay đổi)",
+                            "explain": "很快而彻底地 (改变)",
+                            "examples": [
+                                {
+                                    "m": "cải tiến hoàn toàn",
+                                    "p_vn": "cai tien hoan toan",
+                                    "_id": "6cfe16ec80ebd978075a2289c29148cc",
+                                    "id": 10489,
+                                    "type": "e_cnvi",
+                                    "e": "翻然改进",
+                                    "p_cn": "fanran gaijin",
+                                    "p": "fānrángǎijìn"
+                                },
+                                {
+                                    "m": "nhanh chóng tỉnh ngộ; hoàn toàn tỉnh ngộ",
+                                    "p_vn": "nhanh chong tinh ngo; hoan toan tinh ngo",
+                                    "_id": "20acf4576e3d4898b68ac92f625e15d4",
+                                    "id": 10490,
+                                    "type": "e_cnvi",
+                                    "e": "翻然悔悟",
+                                    "p_cn": "fanran huiwu",
+                                    "p": "fānránhǔiwù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": {
+                "syno": [
+                    "猛然",
+                    "豁然",
+                    "徒然",
+                    "及时"
+                ]
+            },
+            "cn_vi": "phiên nhiên",
+            "pinyin": "fānrán",
+            "word": "翻然",
+            "id": 15620,
+            "phonetic": "fanran",
+            "rank": 87356,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄣˊㄖㄢˊ",
+            "_id": "02ba9384fe9c3e4bdbfb53ccd66c60e0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "toàn vẹn; trọn vẹn; nguyên vẹn; hoàn chỉnh",
+                            "explain": "形容完整不可分割",
+                            "examples": [
+                                {
+                                    "m": "một khối",
+                                    "p_vn": "mot khoi",
+                                    "_id": "6f9397f0992806dc74a6a4f1c5ab5c96",
+                                    "id": 18820,
+                                    "type": "e_cnvi",
+                                    "e": "一体浑然",
+                                    "p_cn": "yiti hunran",
+                                    "p": "yītǐ húnrán"
+                                },
+                                {
+                                    "m": "toàn vẹn",
+                                    "p_vn": "toan ven",
+                                    "_id": "74a38bc06606855e9b633ab010f4eddc",
+                                    "id": 18821,
+                                    "type": "e_cnvi",
+                                    "e": "浑然天成",
+                                    "p_cn": "hunran tiancheng",
+                                    "p": "húnrántiānchéng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hoàn toàn",
+                            "explain": "完全地;全然",
+                            "examples": [
+                                {
+                                    "m": "hoàn toàn không có cảm giác",
+                                    "p_vn": "hoan toan khong co cam giac",
+                                    "_id": "a1ba26c2b3489069c9cbccc2f143da04",
+                                    "id": 18822,
+                                    "type": "e_cnvi",
+                                    "e": "浑然不觉",
+                                    "p_cn": "hunran bu jue",
+                                    "p": "húnránbùjué"
+                                },
+                                {
+                                    "m": "hoàn toàn không để ý.",
+                                    "p_vn": "hoan toan khong de y",
+                                    "_id": "fb3c40baf5e88bb342522a43ea1e0cc9",
+                                    "id": 18823,
+                                    "type": "e_cnvi",
+                                    "e": "浑然不理",
+                                    "p_cn": "hunran bu li",
+                                    "p": "húnrán bùlǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 19,
+                "search": 190
+            },
+            "snym": {
+                "syno": [
+                    "宛然",
+                    "漠然",
+                    "全然"
+                ]
+            },
+            "cn_vi": "hồn nhiên",
+            "pinyin": "húnrán",
+            "word": "浑然",
+            "id": 25865,
+            "phonetic": "hunran",
+            "rank": 29242,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄥㄖㄢˊ",
+            "_id": "0ee50934806add4a9701534369c3b9c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "ầm ầm; rầm rầm; ầm vang; rền vang; vang dội; nhặng",
+                            "explain": "形容大声",
+                            "examples": [
+                                {
+                                    "m": "cười rầm rầm",
+                                    "p_vn": "cuoi ram ram",
+                                    "_id": "2e423405935a947eeb7baff9ede0aed0",
+                                    "id": 17090,
+                                    "type": "e_cnvi",
+                                    "e": "轰然大笑",
+                                    "p_cn": "hongran da xiao",
+                                    "p": "hōngrán dàxiào"
+                                },
+                                {
+                                    "m": "làm ầm ầm",
+                                    "p_vn": "lam am am",
+                                    "_id": "993371485568711be26a92b950835b49",
+                                    "id": 17091,
+                                    "type": "e_cnvi",
+                                    "e": "轰然作响",
+                                    "p_cn": "hongran zuo xiang",
+                                    "p": "hōngrán zuòxiǎng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 84
+            },
+            "snym": {
+                "syno": [
+                    "隆然",
+                    "寂然",
+                    "砰然"
+                ]
+            },
+            "cn_vi": "oanh nhiên",
+            "pinyin": "hōngrán",
+            "word": "轰然",
+            "id": 23508,
+            "phonetic": "hongran",
+            "rank": 45379,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˋㄖㄢˊ",
+            "_id": "66da8c6ec2f06d642c6a0e1f8b8cb3e2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "thình lình; bất ngờ; bỗng nhiên; bỗng chốc; bỗng đâu; phút đâu",
+                            "explain": "形容令人惊讶或引人注目的事物突然出现",
+                            "examples": [
+                                {
+                                    "m": "tấm biểu ngữ to bỗng đâu hiện ra trước mắt.",
+                                    "p_vn": "tam bieu ngu to bong dau hien ra truoc mat",
+                                    "_id": "373c9ba7f23fa58adfedeb7806e9e828",
+                                    "id": 16884,
+                                    "type": "e_cnvi",
+                                    "e": "巨幅标语赫然在目。",
+                                    "p_cn": "ju fu biaoyu heran zai mu",
+                                    "p": "jùfú biāoyǔ hèránzàimù。"
+                                },
+                                {
+                                    "m": "một con hổ dữ bỗng nhiên xuất hiện trước mặt khán giả.",
+                                    "p_vn": "mot con ho du bong nhien xuat hien truoc mat khan gia",
+                                    "_id": "7a459418243e4bdc385c48173a4c8128",
+                                    "id": 16885,
+                                    "type": "e_cnvi",
+                                    "e": "一只猛虎赫然出现在观众面前。",
+                                    "p_cn": "yi zhi menghu heran chuxian zai guanzhong mianqian",
+                                    "p": "yīzhǐ měnghǔ hèrán chūxiàn zài guānzhòng miànqián。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thịnh nộ; nổi giận; nổi cơn thịnh nộ; đùng đùng",
+                            "explain": "形容大怒",
+                            "examples": [
+                                {
+                                    "m": "bỗng nổi cơn thịnh nộ",
+                                    "p_vn": "bong noi con thinh no",
+                                    "_id": "582c066666fa1fb54665c4ed1408cd15",
+                                    "id": 16886,
+                                    "type": "e_cnvi",
+                                    "e": "赫然而怒",
+                                    "p_cn": "heran er nu",
+                                    "p": "hèránérnù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 54,
+                "search": 506
+            },
+            "snym": {
+                "syno": [
+                    "明显",
+                    "显然"
+                ],
+                "anto": [
+                    "清楚"
+                ]
+            },
+            "cn_vi": "hách nhiên",
+            "pinyin": "hèrán",
+            "word": "赫然",
+            "id": 23245,
+            "phonetic": "heran",
+            "rank": 15822,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄧˋㄖㄢˊ",
+            "_id": "0dfeefef2e1f8111f1a0a385aac5b601",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "khác thường",
+                            "explain": "超然或特出的样子",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xa rời",
+                            "explain": "疏远的样子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "thích nhiên",
+            "pinyin": "tì rán",
+            "word": "倜然",
+            "id": 50495,
+            "phonetic": "tiran",
+            "rank": 102038,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "244c0d6e9ee9468599c9267ad6f0050e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hăng chí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "kích nhiên",
+            "pinyin": "jī rán",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "激然",
+            "id": 173448,
+            "phonetic": "jiran",
+            "rank": 147230,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄖㄢˊ",
+            "_id": "331ebdbb21d6bba553aea16135b823d1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "ngang nhiên; thẳng thắn; không kiêng nể gì; công nhiên",
+                            "explain": "公开地;毫无顾忌地",
+                            "examples": [
+                                {
+                                    "m": "ngang nhiên làm bừa; ngang nhiên làm bậy",
+                                    "p_vn": "ngang nhien lam bua; ngang nhien lam bay",
+                                    "_id": "a685537e821649863164b4959db87cd0",
+                                    "id": 14029,
+                                    "type": "e_cnvi",
+                                    "e": "公然作弊",
+                                    "p_cn": "gongran zuobi",
+                                    "p": "gōngrán zuòbì"
+                                },
+                                {
+                                    "m": "ngang nhiên xé bỏ hiệp nghị; ngang nhiên vi phạm thô bạo hiệp nghị.",
+                                    "p_vn": "ngang nhien xe bo hiep nghi; ngang nhien vi pham tho bao hiep nghi",
+                                    "_id": "7bafd7006c037a61174d887f2b1039fd",
+                                    "id": 14030,
+                                    "type": "e_cnvi",
+                                    "e": "公然撕毁协议。",
+                                    "p_cn": "gongran sihui xieyi",
+                                    "p": "gōngrán sīhǔi xiéyì。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lộ liễu",
+                            "explain": "用意十分显露, 毫不含蓄",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 58,
+                "search": 394
+            },
+            "snym": {
+                "syno": [
+                    "尽然",
+                    "竟然",
+                    "公开",
+                    "果然",
+                    "悍然",
+                    "居然"
+                ],
+                "anto": [
+                    "暗地",
+                    "暗里",
+                    "悄悄"
+                ]
+            },
+            "cn_vi": "công nhiên",
+            "pinyin": "gōngrán",
+            "lv_hsk_new": "6",
+            "word": "公然",
+            "id": 19684,
+            "phonetic": "gongran",
+            "rank": 18620,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                "adv"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄡˇㄖㄢˊ",
+            "_id": "05f09eb455a039c50e301a3179636538",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Tu sức cho danh từ, thường mang \"的\"",
+                            "examples": [
+                                74316,
+                                74317
+                            ],
+                            "struct": "偶然 + (的) + Danh từ"
+                        },
+                        {
+                            "explain": "Khi làm vị ngữ, phía trước 偶然 thường là phó từ trình độ hoặc cấu trúc 是... ...的。",
+                            "examples": [
+                                74318,
+                                74319,
+                                83219
+                            ],
+                            "struct": "... 是 + 偶然 + 的"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "ngẫu nhiên; tình cờ; bất ngờ, vô tình; thừa ưa; khéo; hú hoạ",
+                            "explain": "事理上不一定要发生而发生的;超出一般规律的",
+                            "examples": [
+                                {
+                                    "m": "sự cố ngẫu nhiên",
+                                    "p_vn": "su co ngau nhien",
+                                    "_id": "718ed347e7cae8658770a4982dd41a4b",
+                                    "id": 30195,
+                                    "type": "e_cnvi",
+                                    "e": "偶然的事故",
+                                    "p_cn": "ouran de shigu",
+                                    "p": "ǒurán de shìgù"
+                                },
+                                {
+                                    "m": "trong công viên, tình cờ gặp lại một người bạn cũ.",
+                                    "p_vn": "trong cong vien, tinh co gap lai mot nguoi ban cu.",
+                                    "_id": "fac906ecbe30835ecf7b28be10109f99",
+                                    "id": 30196,
+                                    "type": "e_cnvi",
+                                    "e": "在公园里偶然遇见一个老同学。",
+                                    "p_cn": "zai gongyuan li ouran yujian yige laotongxue。",
+                                    "p": "zài gōngyuán lǐ ǒurán yùjiàn yīgè lǎotóngxué。"
+                                },
+                                {
+                                    "m": "Ban đầu chỉ là vô tình gặp được anh ấy, mà bây giờ anh ấy đã trở thành chồng tôi.",
+                                    "p_vn": "ban dau chi la vo tinh gap duoc anh ay, ma bay gio anh ay da tro thanh chong toi.",
+                                    "_id": "48dea68597710122246358c68e25e576",
+                                    "id": 83217,
+                                    "type": "e_cnvi",
+                                    "e": "当初只是偶然遇到他，现在他成了我的老公。",
+                                    "p_cn": "dangchu zhishi ouran yu dao ta, xianzai ta chengle wo de laogong.",
+                                    "p": "dāngchū zhǐshì ǒurán yù dào tā, xiànzài tā chéngle wǒ de lǎogōng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "Nếu đi kèm với động từ đơn âm tiết bắt buộc phải có thành phần khác.",
+                            "examples": [
+                                74331,
+                                83222
+                            ],
+                            "struct": "偶然 + Động từ (song âm tiết)"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thỉnh thoảng, có khi",
+                            "explain": "不常，有时候",
+                            "examples": [
+                                {
+                                    "m": "Anh ta thỉnh thoảng tới một lần.",
+                                    "p_vn": "anh ta thỉnh thoảng tói mọt làn.",
+                                    "_id": "4fbd970a50ba6700b583eb33545bb7fb",
+                                    "id": 73727,
+                                    "e": "他偶然来一次。",
+                                    "p_cn": "ta ouran lai yici.",
+                                    "type": "e_cnvi",
+                                    "p": "tā ǒurán lái yīcì."
+                                },
+                                {
+                                    "m": "Vài ngày sau đó, tôi thỉnh thoảng gặp lại Fred.",
+                                    "p_vn": "vai ngay sau do, toi thỉnh thoảng gạp lai fred.",
+                                    "_id": "4fbd970a50ba6700b583eb33545badce",
+                                    "id": 73726,
+                                    "e": "几天过后，我偶然遇见Fred。",
+                                    "p_cn": "ji tian guohou, wo ouran yujian fred.",
+                                    "type": "e_cnvi",
+                                    "p": "jǐ tiān guòhòu, wǒ ǒurán yùjiàn fred."
+                                },
+                                {
+                                    "m": "Tôi tình cờ gặp một người bạn đang du học ở nước ngoài.",
+                                    "p_vn": "toi tinh co gap mot nguoi ban dang du hoc o nuoc ngoai.",
+                                    "_id": "4fbd970a50ba6700b583eb33545baadc",
+                                    "id": 73725,
+                                    "e": "我偶然遇见了一位出国留学的朋友。",
+                                    "p_cn": "wo ouran yujianle yi wei chuguo liuxue de pengyou.",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ ǒurán yùjiànle yī wèi chūguó liúxué de péngyǒu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều có thể là phó từ, đều có nghĩa là không thường xuyên, có lúc có thể dùng thay thế cho nhau, nhưng ý nghĩa có chút không giống.\nKhác:\n- \"偶然\" thiên về biểu thị có chút đột ngột, không nghĩ đến, trái ngược với \"必然\".\n\"偶尔\" thiên về nhấn mạnh số lần ít, trái ngược với 经常\n- \"偶然\" còn có thể biểu thị sự việc phát sinh ngoài ý muốn hoặc không thể xảy ra theo quy luật thông thường.\nCó thể làm định ngữ, vị ngữ, đằng trước có thể kết hợp với phó từ chỉ mức độ.\n\"偶尔\" còn có thể là từ thuộc tính, chỉ làm định ngữ, đằng trước không thể thêm phó từ chỉ mức độ, cũng không thể làm vị ngữ.\nCách dùng này không thường được sử dụng.",
+                    "title": "Phân biệt \"偶尔\" và \"偶然\"",
+                    "words": [
+                        "偶尔",
+                        "偶然"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "时常",
+                    "一贯",
+                    "经常",
+                    "必然"
+                ],
+                "syno": [
+                    "偶而",
+                    "或然",
+                    "不常",
+                    "巧合",
+                    "偶尔",
+                    "有时",
+                    "偶或",
+                    "遇然",
+                    "间或"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "ǒurán",
+            "cn_vi": "ngẫu nhiên",
+            "popularity": {
+                "notebook": 383,
+                "search": 6373
+            },
+            "word": "偶然",
+            "id": 39993,
+            "phonetic": "ouran",
+            "rank": 1819,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄜˋㄖㄢˊ",
+            "_id": "218acac0a5db157b91c2616c864ffe68",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "ngạc nhiên; kinh ngạc; lấy làm lạ; ngạc",
+                            "explain": "形容吃惊",
+                            "examples": [
+                                {
+                                    "m": "khi tin đưa đến, mọi người đều ngạc nhiên.",
+                                    "p_vn": "khi tin dua den moi nguoi deu ngac nhien",
+                                    "_id": "8553b07808d21ec36d81fd7bd4790c95",
+                                    "id": 10078,
+                                    "type": "e_cnvi",
+                                    "e": "消息传来，大家都为之愕然。",
+                                    "p_cn": "xiaoxi chuan lai dajia dou wei zhi eran",
+                                    "p": "xiāoxī chuán lái, dàjiā dōu wéi zhī èrán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 34,
+                "search": 334
+            },
+            "snym": {
+                "syno": [
+                    "惊愕",
+                    "诧异",
+                    "惊诧",
+                    "骇然",
+                    "惊鄂",
+                    "讶然"
+                ],
+                "anto": [
+                    "坦然"
+                ]
+            },
+            "cn_vi": "ngạc nhiên",
+            "pinyin": "èrán",
+            "word": "愕然",
+            "id": 15037,
+            "phonetic": "eran",
+            "rank": 20628,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄢˋㄖㄢˊ",
+            "_id": "3a95367bc2b851e0f01797f0eca3cda6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tiêu tan; hết; mất (nghi ngờ, hiểu lầm)",
+                            "explain": "形容嫌隙、疑虑、误会等完全消除",
+                            "examples": [
+                                {
+                                    "m": "băng tan sạch không; hết nghi ngờ",
+                                    "p_vn": "bang tan sach khong; het nghi ngo",
+                                    "_id": "31a22a260959b44919031255650b8687",
+                                    "id": 18181,
+                                    "type": "e_cnvi",
+                                    "e": "涣然冰释",
+                                    "p_cn": "huanran bingshi",
+                                    "p": "huànránbīngshì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hoán nhiên",
+            "pinyin": "huànrán",
+            "word": "涣然",
+            "id": 25044,
+            "phonetic": "huanran",
+            "rank": 111144,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄢˇㄖㄢˊ",
+            "_id": "7cd6323c893f4825b89619c814fe3782",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không bằng lòng",
+                            "explain": "discontented",
+                            "examples": [
+                                {
+                                    "m": "dáng vẻ không tự mãn.",
+                                    "p_vn": "dang ve khong tu man",
+                                    "_id": "c5b15d439e66de4e700bbb4db1613780",
+                                    "id": 22997,
+                                    "type": "e_cnvi",
+                                    "e": "欿然(不自满的样子)。",
+                                    "p_cn": "kan ran (bu ziman de yangzi)",
+                                    "p": "kǎn rán ( bù zìmǎn de yángzǐ )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không hài lòng",
+                            "explain": "dissatisfied",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thiếu hạnh phúc",
+                            "explain": "lacking happiness",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "khảm nhiên",
+            "pinyin": "kǎn rán",
+            "word": "欿然",
+            "id": 97696,
+            "phonetic": "kanran",
+            "rank": 109938,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˊㄖㄢˊ",
+            "_id": "820af7093b2bd469fc9c6ad5f72211e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "tuyệt nhiên; dứt khoát; hoàn toàn; rõ ràng; đầy đủ; trọn vẹn; toàn vẹn",
+                            "explain": "界限分明，象割断一样",
+                            "examples": [
+                                {
+                                    "m": "hoàn toàn không giống nhau; khác hẳn.",
+                                    "p_vn": "hoan toan khong giong nhau; khac han",
+                                    "_id": "d9a53759eac70b2d3280847d9190af2a",
+                                    "id": 21224,
+                                    "type": "e_cnvi",
+                                    "e": "截然不同。",
+                                    "p_cn": "jieran butong",
+                                    "p": "jiéránbùtóng。"
+                                },
+                                {
+                                    "m": "công tác phổ cập và công tác nâng cao dứt khoát không thể tách rời nhau.",
+                                    "p_vn": "cong tac pho cap va cong tac nang cao dut khoat khong the tach roi nhau",
+                                    "_id": "e771c6dac5d36d39dfc0fd4f631986be",
+                                    "id": 21225,
+                                    "type": "e_cnvi",
+                                    "e": "普及工作和提高工作是不能截然分开的。",
+                                    "p_cn": "puji gongzuo he tigao gongzuo shi buneng jieran fenkai de",
+                                    "p": "pǔjí gōngzuò hé tígāo gōngzuò shì bùnéng jiérán fēnkāi de。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 66,
+                "search": 778
+            },
+            "snym": null,
+            "cn_vi": "tiệt nhiên",
+            "pinyin": "jiérán",
+            "word": "截然",
+            "id": 29721,
+            "phonetic": "jieran",
+            "rank": 11780,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄠㄖㄢˊ",
+            "_id": "d750a2c686b228defeb89b41a4ea8ce2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "rất rõ ràng; rất rõ rệt",
+                            "explain": "很明显的样子",
+                            "examples": [
+                                {
+                                    "m": "lý lẽ rõ ràng; đạo trời rành rành.",
+                                    "p_vn": "ly le ro rang; dao troi ranh ranh",
+                                    "_id": "af83b9eccb295c39d872f91b062eea41",
+                                    "id": 49150,
+                                    "type": "e_cnvi",
+                                    "e": "天理昭然",
+                                    "p_cn": "tianli zhaoran",
+                                    "p": "tiānlǐ zhāorán"
+                                },
+                                {
+                                    "m": "rõ chân tướng; lộ rõ chân tướng",
+                                    "p_vn": "ro chan tuong; lo ro chan tuong",
+                                    "_id": "f19424e2de0d91ccc6abe80dc1320d39",
+                                    "id": 49151,
+                                    "type": "e_cnvi",
+                                    "e": "昭然若揭(指真相大明)",
+                                    "p_cn": "zhaoran ruo jie (zhi zhenxiang daming)",
+                                    "p": "zhāoránruòjiē ( zhǐ zhēnxiāng dàmíng )"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "chiêu nhiên",
+            "pinyin": "zhāorán",
+            "word": "昭然",
+            "id": 63588,
+            "phonetic": "zhaoran",
+            "rank": 62163,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄖㄢˊ",
+            "_id": "8f59a924a2cf47abbca131c3babd02cc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thoáng chốc; bỗng chốc; đột nhiên",
+                            "explain": "突然",
+                            "examples": [
+                                {
+                                    "m": "Bỗng chốc sụp đổ.",
+                                    "p_vn": "bong choc sup do.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7f1801c",
+                                    "id": 89972,
+                                    "type": "e_cnvi",
+                                    "e": "倏然崩溃。",
+                                    "p_cn": "shuran bengkui.",
+                                    "p": "shūrán bēngkuì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 78
+            },
+            "snym": {
+                "syno": [
+                    "倏忽",
+                    "忽然",
+                    "瞬间",
+                    "须臾",
+                    "横线",
+                    "恍然"
+                ]
+            },
+            "cn_vi": "thúc nhiên",
+            "pinyin": "shūrán",
+            "word": "倏然",
+            "id": 94794,
+            "phonetic": "shuran",
+            "rank": 47165,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄣˋㄖㄢˊ",
+            "_id": "fa05629074dc941a6ec0da10795d1408",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "giận dữ; đầy giận dữ",
+                            "explain": "形容气愤发怒的样子",
+                            "examples": [
+                                {
+                                    "m": "giận dữ bỏ đi",
+                                    "p_vn": "gian du bo di",
+                                    "_id": "06da3b1c5e8d4c8d3388376180f79121",
+                                    "id": 11696,
+                                    "type": "e_cnvi",
+                                    "e": "愤然离去",
+                                    "p_cn": "fenran li qu",
+                                    "p": "fènránlíqù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 74
+            },
+            "snym": {
+                "syno": [
+                    "大怒",
+                    "愤怼",
+                    "气愤",
+                    "愤慨"
+                ],
+                "anto": [
+                    "欣然"
+                ]
+            },
+            "cn_vi": "phẫn nhiên",
+            "pinyin": "fènrán",
+            "word": "愤然",
+            "id": 16867,
+            "phonetic": "fenran",
+            "rank": 48477,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄟˋㄖㄢˊ",
+            "_id": "b26e0b69880ad29c76af9e1e69555948",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "thất vọng; chán nản; chán chường; tiu nghỉu; buồn nản",
+                            "explain": "形容消极失望的样子",
+                            "examples": [
+                                {
+                                    "m": "thất vọng trở về",
+                                    "p_vn": "that vong tro ve",
+                                    "_id": "2c95f19b6a8bf59789d1f8c22224bceb",
+                                    "id": 11353,
+                                    "type": "e_cnvi",
+                                    "e": "废然而返",
+                                    "p_cn": "fei raner fan",
+                                    "p": "fèiránérfǎn"
+                                },
+                                {
+                                    "m": "than van chán nản",
+                                    "p_vn": "than van chan nan",
+                                    "_id": "6f6168c2d450a28dcdce457f39366a83",
+                                    "id": 11354,
+                                    "type": "e_cnvi",
+                                    "e": "废然而叹",
+                                    "p_cn": "fei raner tan",
+                                    "p": "fèi ránér tàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 44
+            },
+            "snym": null,
+            "cn_vi": "phế nhiên",
+            "pinyin": "fèirán",
+            "word": "废然",
+            "id": 16520,
+            "phonetic": "feiran",
+            "rank": 61410,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄩˋㄖㄢˊ",
+            "_id": "b1393777498d4624bb4a4a75145b7330",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "vội vàng",
+                            "explain": "hastily",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hấp tấp",
+                            "explain": "rashly",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đột ngột",
+                            "explain": "suddenly",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "suất nhiên",
+            "pinyin": "shuàirán",
+            "word": "率然",
+            "id": 108409,
+            "phonetic": "shuairan",
+            "rank": 99259,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄤˋㄖㄢˊ",
+            "_id": "e1d1473ef06dc3089967ce22e1066694",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bi thương; đau buồn; buồn phiền; âu sầu; buồn rầu",
+                            "explain": "悲伤的样子",
+                            "examples": [
+                                {
+                                    "m": "đau buồn rơi lệ.",
+                                    "p_vn": "dau buon roi le",
+                                    "_id": "9fea577b78a3d751e60a16517a3b16a6",
+                                    "id": 5610,
+                                    "type": "e_cnvi",
+                                    "e": "怆然泪下。",
+                                    "p_cn": "chuangran lei xia",
+                                    "p": "chuàngránlèixià。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 36
+            },
+            "snym": {
+                "syno": [
+                    "惆怅",
+                    "悲伤",
+                    "凄然",
+                    "忧伤"
+                ]
+            },
+            "cn_vi": "sảng nhiên",
+            "pinyin": "chuàngrán",
+            "word": "怆然",
+            "id": 8898,
+            "phonetic": "chuangran",
+            "rank": 66208,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄟˋㄖㄢˊ",
+            "_id": "8dbc39bc42f7bfa824db482c13039e94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chưa xảy ra; chưa thành sự thật",
+                            "explain": "还没有成为事实",
+                            "examples": [
+                                {
+                                    "m": "phòng hoạ khi chưa xảy ra.",
+                                    "p_vn": "phong hoa khi chua xay ra",
+                                    "_id": "fa70f62023d140db7c7b34169f29f989",
+                                    "id": 40670,
+                                    "type": "e_cnvi",
+                                    "e": "防患于未然",
+                                    "p_cn": "fang huan yu weiran",
+                                    "p": "fánghuànyúwèirán"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 110
+            },
+            "snym": {
+                "syno": [
+                    "无患"
+                ],
+                "anto": [
+                    "已然"
+                ]
+            },
+            "cn_vi": "vị nhiên",
+            "pinyin": "wèirán",
+            "word": "未然",
+            "id": 53168,
+            "phonetic": "weiran",
+            "rank": 39584,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "topic": "54",
+            "zhuyin": "ㄊㄨˊㄖㄢˊ",
+            "_id": "c8f3c45dcb99474986e3f49adec696f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "uổng phí; uổng công; khống; hão; tào lao",
+                            "explain": "白白地;不起作用",
+                            "examples": [
+                                {
+                                    "m": "hao tốn sức lực vô ích",
+                                    "p_vn": "hao ton suc luc vo ich",
+                                    "_id": "35c03825ab30310c33bcdbd8c11cfea7",
+                                    "id": 39550,
+                                    "type": "e_cnvi",
+                                    "e": "徒然耗费精力",
+                                    "p_cn": "turan haofei jingli",
+                                    "p": "túrán hàofèi jīnglì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chỉ; chỉ có; vẻn vẹn",
+                            "explain": "仅仅;只是",
+                            "examples": [
+                                {
+                                    "m": "nếu như làm như vậy, chỉ có lợi cho đối thủ.",
+                                    "p_vn": "neu nhu lam nhu vay chi co loi cho doi thu",
+                                    "_id": "0e0c5136f04a868064a192caf2002b3c",
+                                    "id": 39551,
+                                    "type": "e_cnvi",
+                                    "e": "如果那么办，徒然有利于对手。",
+                                    "p_cn": "ruguo name ban turan you liyu duishou",
+                                    "p": "rúguǒ nàme bàn, túrán yǒu lìyú duìshǒu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 232
+            },
+            "snym": {
+                "syno": [
+                    "枉然",
+                    "徒劳",
+                    "翻然",
+                    "乍然",
+                    "顿然",
+                    "蓦地",
+                    "遽然",
+                    "卒然",
+                    "猝然",
+                    "倏忽",
+                    "忽地"
+                ],
+                "anto": [
+                    "高效",
+                    "有效"
+                ]
+            },
+            "cn_vi": "đồ nhiên",
+            "pinyin": "túrán",
+            "word": "徒然",
+            "id": 51689,
+            "phonetic": "turan",
+            "rank": 25941,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "xiē",
+                "examples": "加一些天然酸奶和豆浆。",
+                "measure": "些"
+            },
+            "topic": "2, 26",
+            "zhuyin": "ㄊㄧㄢㄖㄢˊ",
+            "_id": "f6ed9f20dd2b1513a9eed2ccdba433d6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thiên nhiên; tự nhiên",
+                            "explain": "自然存在的;自然产生的 (区别于''人工''或''人造'')",
+                            "examples": [
+                                {
+                                    "m": "băng thiên nhiên",
+                                    "p_vn": "bang thien nhien",
+                                    "_id": "a6e2477faacbb547bc7342222d0aedab",
+                                    "id": 38446,
+                                    "type": "e_cnvi",
+                                    "e": "天然冰",
+                                    "p_cn": "tianran bing",
+                                    "p": "tiānrán bīng"
+                                },
+                                {
+                                    "m": "cảnh thiên nhiên",
+                                    "p_vn": "canh thien nhien",
+                                    "_id": "30cbb300adf24afce542babfc07b04f2",
+                                    "id": 38447,
+                                    "type": "e_cnvi",
+                                    "e": "天然景色",
+                                    "p_cn": "tianran jingse",
+                                    "p": "tiānrán jǐngsè"
+                                },
+                                {
+                                    "m": "của cải thiên nhiên",
+                                    "p_vn": "cua cai thien nhien",
+                                    "_id": "6a8031423e5e85b2b0cfdc3a956031e2",
+                                    "id": 38448,
+                                    "type": "e_cnvi",
+                                    "e": "天然财富",
+                                    "p_cn": "tianran caifu",
+                                    "p": "tiānrán cáifù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 162,
+                "search": 1340
+            },
+            "snym": {
+                "anto": [
+                    "人工",
+                    "人造"
+                ],
+                "syno": [
+                    "自然"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "tiānrán",
+            "cn_vi": "thiên nhiên",
+            "word": "天然",
+            "id": 50626,
+            "phonetic": "tianran",
+            "rank": 7752,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄣㄖㄢˊ",
+            "_id": "fc2c51d3b585e0a3b8c762230a98e7ba",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "vui vẻ; vui sướng",
+                            "explain": "愉快地",
+                            "examples": [
+                                {
+                                    "m": "vui vẻ đi",
+                                    "p_vn": "vui ve di",
+                                    "_id": "8b5bfde92608f84dcfda09562d19e7d3",
+                                    "id": 42730,
+                                    "type": "e_cnvi",
+                                    "e": "欣然前往。",
+                                    "p_cn": "xinran qianwang",
+                                    "p": "xīnránqiánwǎng。"
+                                },
+                                {
+                                    "m": "vui vẻ tiếp thu; nhận vui vẻ.",
+                                    "p_vn": "vui ve tiep thu; nhan vui ve",
+                                    "_id": "e47df142fcd90810e4e5572d8c8f1de6",
+                                    "id": 42731,
+                                    "type": "e_cnvi",
+                                    "e": "欣然接受。",
+                                    "p_cn": "xinran jieshou",
+                                    "p": "xīnránjiēshòu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 51,
+                "search": 745
+            },
+            "snym": {
+                "syno": [
+                    "欢然",
+                    "陶然",
+                    "怡然",
+                    "怡情",
+                    "纷然"
+                ],
+                "anto": [
+                    "恻然",
+                    "怅然",
+                    "戚然",
+                    "帐然",
+                    "愁然",
+                    "愀然",
+                    "愤然"
+                ]
+            },
+            "cn_vi": "hân nhiên",
+            "pinyin": "xīnrán",
+            "word": "欣然",
+            "id": 56411,
+            "phonetic": "xinran",
+            "rank": 12178,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄖㄢˊ",
+            "_id": "8753555ae60949639cf4a215f0e72192",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không quan tâm",
+                            "explain": "unconcerned",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không lo lắng",
+                            "explain": "without worries",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "thoát nhiên",
+            "pinyin": "tuō rán",
+            "word": "脱然",
+            "id": 99407,
+            "phonetic": "tuoran",
+            "rank": 145969,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄠˊㄖㄢˊ",
+            "_id": "dc083c51259edf180844f7a3ef95984f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "vui sướng; vui vẻ; ngây ngất",
+                            "explain": "形容舒畅快乐的样子",
+                            "examples": [
+                                {
+                                    "m": "vui sướng thoải mái.",
+                                    "p_vn": "vui suong thoai mai",
+                                    "_id": "12f9132b96a88320001bf1c948740a88",
+                                    "id": 37959,
+                                    "type": "e_cnvi",
+                                    "e": "陶然自得",
+                                    "p_cn": "taoran zide",
+                                    "p": "táoránzìdé"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 37
+            },
+            "snym": {
+                "syno": [
+                    "欣然",
+                    "欢然",
+                    "怡然"
+                ]
+            },
+            "cn_vi": "đào nhiên",
+            "pinyin": "táorán",
+            "word": "陶然",
+            "id": 50149,
+            "phonetic": "taoran",
+            "rank": 65552,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e19e440920184a18b4929f85c395b7ab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "láo nháo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hỗn nhiên",
+            "pinyin": "hùn rán",
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "word": "混然",
+            "id": 177015,
+            "phonetic": "hunran",
+            "rank": 116799,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "既然"
+}

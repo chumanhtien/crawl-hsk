@@ -1,0 +1,2330 @@
+{
+    "total": 952,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "bǐ, gè",
+                "examples": "一笔收入",
+                "measure": "笔, 个"
+            },
+            "topic": "14, 27",
+            "zhuyin": "ㄕㄡㄖㄨˋ",
+            "_id": "c7303db9d699105d41d38914396113f8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "có/ không có/ tăng/ giảm + thu nhập",
+                            "examples": [
+                                123613,
+                                123617
+                            ],
+                            "struct": "Động từ (有、没有、提高、增加、降低) + 收入"
+                        },
+                        {
+                            "explain": "tình hình thu nhập như thế nào",
+                            "examples": [
+                                78077,
+                                123626
+                            ],
+                            "struct": "收入 + Động từ/Tính từ (减少、增加、高、稳定)"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập",
+                            "explain": "收进来的钱",
+                            "examples": [
+                                {
+                                    "m": "Thu nhập cá nhân đã gia tăng.",
+                                    "p_vn": "thu nhap ca nhan da gia tang.",
+                                    "_id": "e9f0bea716701c347545ecafeed920b3",
+                                    "id": 36187,
+                                    "type": "e_cnvi",
+                                    "e": "个人的收入有所增加。",
+                                    "p_cn": "geren de shouru yousuozengjia.",
+                                    "p": "gèrén de shōurù yǒusuǒzēngjiā."
+                                },
+                                {
+                                    "m": "Thu nhập của anh ấy rất cao!",
+                                    "p_vn": "thu nhạp của anh áy rát cao!",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3ab8709",
+                                    "id": 90782,
+                                    "type": "e_cnvi",
+                                    "e": "他的收入很高！",
+                                    "p_cn": "ta de shouru hen gao!",
+                                    "p": "tā de shōurù hěn gāo!"
+                                },
+                                {
+                                    "m": "Thu nhập năm nay đã giảm.",
+                                    "p_vn": "thu nhap nam nay da giam.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4b42474",
+                                    "id": 123590,
+                                    "type": "e_cnvi",
+                                    "e": "今年的收入减少了。",
+                                    "p_cn": "jinnian de shouru jianshaole.",
+                                    "p": "jīnnián de shōurù jiǎnshǎole."
+                                },
+                                {
+                                    "m": "Nguồn thu nhập của cô ấy đa dạng.",
+                                    "p_vn": "nguon thu nhap cua co ay da dang.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4b4289f",
+                                    "id": 123591,
+                                    "type": "e_cnvi",
+                                    "e": "她的收入来源多样。",
+                                    "p_cn": "ta de shouru laiyuan duoyang.",
+                                    "p": "tā de shōurù láiyuán duōyàng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "kiếm được bao nhiêu tiền",
+                            "examples": [
+                                78093,
+                                123648
+                            ],
+                            "struct": "收入 + Số từ + 元/块 (+ 钱)"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kiếm được; thu về",
+                            "explain": "收进钱",
+                            "examples": [
+                                {
+                                    "m": "Nhà hàng này kiếm được 100.000 nhân dân tệ mỗi tháng.",
+                                    "p_vn": "nha hang nay kiem duoc 100.000 nhan dan te moi thang.",
+                                    "_id": "b2776ac4a861e06178aa5de73b9450c1",
+                                    "id": 78088,
+                                    "type": "e_cnvi",
+                                    "e": "这个餐馆每个月收入十万块。",
+                                    "p_cn": "zhege canguan mei ge yue shouru shi wan kuai.",
+                                    "p": "zhège cānguǎn měi gè yuè shōurù shí wàn kuài."
+                                },
+                                {
+                                    "m": "Chồng tôi tháng này kiếm được rất nhiều tiền.",
+                                    "p_vn": "chong toi thang nay kiem duoc rat nhieu tien.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4b5ec9b",
+                                    "id": 123645,
+                                    "type": "e_cnvi",
+                                    "e": "这个月我老公收入很多。",
+                                    "p_cn": "zhege yue wo laogong shouru henduo.",
+                                    "p": "zhège yuè wǒ lǎogōng shōurù hěnduō."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thu vào; đưa vào; đặt vào; cất vào",
+                            "explain": "收进来",
+                            "examples": [
+                                {
+                                    "m": "Tôi đặt những cuốn sách hay này vào tủ sách.",
+                                    "p_vn": "toi dat nhung cuon sach hay nay vao tu sach.",
+                                    "_id": "b2776ac4a861e06178aa5de73b945842",
+                                    "id": 78090,
+                                    "type": "e_cnvi",
+                                    "e": "我把这些好书收入书柜。",
+                                    "p_cn": "wo ba zhexie hao shu shouru shugui.",
+                                    "p": "wǒ bǎ zhèxiē hǎo shū shōurù shūguì."
+                                },
+                                {
+                                    "m": "Thư viện đưa vào sách mới.",
+                                    "p_vn": "thu vien dua vao sach moi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4b59259",
+                                    "id": 123634,
+                                    "type": "e_cnvi",
+                                    "e": "图书馆收入新书。",
+                                    "p_cn": "tushu guan shouru xinshu.",
+                                    "p": "túshū guǎn shōurù xīnshū."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 597,
+                "search": 6031
+            },
+            "snym": {
+                "syno": [
+                    "利润",
+                    "收益"
+                ],
+                "anto": [
+                    "开销",
+                    "收纳",
+                    "支出",
+                    "开支",
+                    "支付",
+                    "付出"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "shōurù",
+            "cn_vi": "thu nhập",
+            "word": "收入",
+            "id": 47689,
+            "phonetic": "shouru",
+            "rank": 1938,
+            "lv_tocfl": 4,
+            "compound": "纯收入 ; 非劳动收入 ; 副业收入 ; 国民收入 ; 股息收入 ; 净收入 ; 毛收入 ; 旅游收入 ; 年收入 ; 全年收入 ; 平均收入 ; 收入差距 ; 收入所得税 ; 外汇收入 ; 业主收入 ; 销售收入"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄡㄧˋㄕㄡㄖㄨˋ",
+            "_id": "420a9dad5ffe41eba6144ed4f3dd8bfb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập (Kế toán)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "thu ích thu nhập",
+            "pinyin": "shōuyì shōurù",
+            "word": "收益收入",
+            "id": 147806,
+            "phonetic": "shouyishouru",
+            "rank": 124199,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄡㄖㄨˋㄕㄨㄟˋ",
+            "_id": "41f145479e0b0b3d9ec875f05f699b1e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thuế thu nhập",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 48
+            },
+            "snym": null,
+            "cn_vi": "thu nhập thuế",
+            "pinyin": "shōurù shuì",
+            "word": "收入税",
+            "id": 71107,
+            "phonetic": "shourushui",
+            "rank": 59060,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄕㄡㄖㄨˋ",
+            "_id": "bd0a6c1f7e264416b4e04a36167e2bc5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập thấp",
+                            "explain": "low income",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "đê thu nhập",
+            "pinyin": "dī shōurù",
+            "word": "低收入",
+            "id": 113773,
+            "phonetic": "dishouru",
+            "rank": 74953,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩㄝˋㄕㄡㄖㄨˋ",
+            "_id": "b34b911c8a26bb4e9ffcdfa225408e2a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập hàng tháng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Thu nhập lí tưởng hàng tháng của bạn là bao nhiêu?",
+                                    "p_vn": "thu nhap li tuong hang thang cua ban la bao nhieu?",
+                                    "_id": "65048079a93a187d0a433459b11d0fba",
+                                    "id": 54090,
+                                    "type": "e_cnvi",
+                                    "e": "你理想的月收入是多少？",
+                                    "p_cn": "ni lixiang de yue shouru shi duoshao?",
+                                    "p": "Nǐ lǐxiǎng de yuè shōurù shì duōshao?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 31,
+                "search": 215
+            },
+            "snym": null,
+            "cn_vi": "nguyệt thu nhập",
+            "pinyin": "yuè shōurù",
+            "word": "月收入",
+            "id": 83317,
+            "phonetic": "yueshouru",
+            "rank": 27159,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄨㄥˇㄕㄡㄖㄨˋ",
+            "_id": "f28eee33595144298a8bd2620d55270c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tổng thu nhập",
+                            "explain": "gross income",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "tổng thu nhập",
+            "pinyin": "zǒng shōurù",
+            "word": "总收入",
+            "id": 121802,
+            "phonetic": "zongshouru",
+            "rank": 65693,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄥˋㄕㄡㄖㄨˋ",
+            "_id": "ed0e2235b29742b1c93387c77898df9a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập ròng, net income (ni)",
+                            "explain": "净收入（英文名： Net Income (NI) ） 一名人士或一家公司的盈利总额，即总收入扣除业务成本、税款及其他开支以后的个人或公司行号的所得或收入余额。",
+                            "examples": [
+                                {
+                                    "m": "Trong lãi ròng giao dịch kỹ thuật rút ra mười lăm phần trăm chi phí.",
+                                    "p_vn": "trong lai rong giao dich ky thuat rut ra muoi lam phan tram chi phi.",
+                                    "_id": "e2af08a9181c173fecee5c9179dccea5",
+                                    "id": 38253,
+                                    "type": "e_cnvi",
+                                    "e": "从技术交易净收入中提取百分之十五的费用。",
+                                    "p_cn": "cong jishu jiaoyi jing shouru zhong tiqu bai fen zhi shiwu de feiyong.",
+                                    "p": "cóng jìshù jiāoyì jìng shōurù zhōng tíqǔ bǎi fēn zhī shíwǔ de fèiyòng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "tịnh thu nhập",
+            "pinyin": "jìng shōurù",
+            "word": "净收入",
+            "id": 68789,
+            "phonetic": "jingshouru",
+            "rank": 66107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4648d7bbaaf74f4da13fe49930505a7f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập thuần",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thuần thu nhập",
+            "pinyin": "chún shōurù",
+            "popularity": {
+                "notebook": 0,
+                "search": 64
+            },
+            "word": "纯收入",
+            "id": 182273,
+            "phonetic": "chunshouru",
+            "rank": 51871,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄢˊㄕㄡㄖㄨˋ",
+            "_id": "b0eab5a1040e46fb9727139f337a9393",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập hàng năm",
+                            "explain": "annual income",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 73
+            },
+            "snym": null,
+            "cn_vi": "niên thu nhập",
+            "pinyin": "nián shōurù",
+            "word": "年收入",
+            "id": 121656,
+            "phonetic": "nianshouru",
+            "rank": 48559,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄠˊㄕㄡㄖㄨˋ",
+            "_id": "81d65d8d2a8c4306aa70c0ff4e9b9e29",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tổng thu nhập",
+                            "explain": "gross income",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lợi nhuận gộp",
+                            "explain": "gross profit",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thu nhập ròng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "mao thu nhập",
+            "pinyin": "máo shōurù",
+            "word": "毛收入",
+            "id": 118692,
+            "phonetic": "maoshouru",
+            "rank": 85796,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄟㄕㄨㄟˋㄕㄡㄕㄡㄖㄨˋ",
+            "_id": "b539e07e77a2eb375faae4a97a1370cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập phi thuế quan (không phải nộp thuế)",
+                            "explain": "非税收收入是指除税收以外，由各级政府及其所属部门、事业单位、代行政府职能的社会团体及其他组织依法提供特定的公共服务，取得并用于满足一定社会公共需要的财政资金。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "phi thuế thu thu nhập",
+            "pinyin": "fēi shuìshōu shōurù",
+            "word": "非税收收入",
+            "id": 82343,
+            "phonetic": "feishuishoushouru",
+            "rank": 158264,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄜˊㄨㄞˋㄕㄡㄖㄨˋ",
+            "_id": "c315115d3e9cb5a0d4b96882547ab2d7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập ngoại ngạch",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy quyết định cho thuê một phòng để có được thu nhập bổ sung.",
+                                    "p_vn": "Co ay quyet dinh cho thue mot phong de co duoc thu nhap bo sung.",
+                                    "_id": "7016dd5b489e4107bc0fe1e35eef9d76",
+                                    "id": 70074,
+                                    "type": "e_cnvi",
+                                    "e": "她为获得额外收入决定租出一个房间.",
+                                    "p_cn": "ta wei huode ewai shouru jueding zu chu yi ge fangjian",
+                                    "p": "tā wéi huòdé éwài shōurù juédìng zū chū yī gè fángjiān"
+                                },
+                                {
+                                    "m": "Tất nhiên, cha tôi thường cung cấp một số tiền lẻ, nhưng chú và cô chú dâu cũng luôn là nguồn thu nhập bổ sung.",
+                                    "p_vn": "Tat nhien, cha toi thuong cung cap mot so tien le, nhung chu va co chu dau cung luon la nguon thu nhap bo sung.",
+                                    "_id": "33167e5b7a234db9baf7fb039ff56e59",
+                                    "id": 71019,
+                                    "type": "e_cnvi",
+                                    "e": "当然，父亲会经常供给一些零钱，但是叔叔和婶婶也总是额外收入的源泉。",
+                                    "p_cn": "dangran fuqin hui jingchang gongji yixie lingqian danshi shushu he shenshen ye zongshi ewai shouru de yuanquan",
+                                    "p": "dāngrán fùqīn huì jīngcháng gōngjǐ yīxiē língqián dànshì shūshu hé shěnshen yě zǒngshì éwài shōurù de yuánquán"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "ngạch ngoại thu nhập",
+            "pinyin": "éwài shōurù",
+            "word": "额外收入",
+            "id": 82340,
+            "phonetic": "ewaishouru",
+            "rank": 74248,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄡㄖㄨˋㄓㄥˋㄘㄜˋ",
+            "_id": "0b794e8bdc5440d1890e72ceffbd8b47",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chính sách thu nhập",
+                            "explain": "income policy",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 36
+            },
+            "snym": null,
+            "cn_vi": "thu nhập chính sách",
+            "pinyin": "shōurù zhèngcè",
+            "word": "收入政策",
+            "id": 137196,
+            "phonetic": "shouruzhengce",
+            "rank": 66172,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f2a1235ae6684ea0828ec80d8baa947c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu lãi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "lợi nhuận thu nhập",
+            "pinyin": "lìrùn shōurù",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "利润收入",
+            "id": 178271,
+            "phonetic": "lirunshouru",
+            "rank": 154413,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄧㄥˊㄐㄩㄣㄕㄡㄖㄨˋ",
+            "_id": "f765404749e542cebc2aa248eed88f3c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập bình quân",
+                            "explain": "average income",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 49
+            },
+            "snym": null,
+            "cn_vi": "bình quân thu nhập",
+            "pinyin": "píngjūn shōurù",
+            "word": "平均收入",
+            "id": 136983,
+            "phonetic": "pingjunshouru",
+            "rank": 58269,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠㄏㄨㄛˋㄕㄡㄖㄨˋ",
+            "_id": "4de9ce7f5a76331edfcad2bcbddf558f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập từ bán hàng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "tiêu hoá thu nhập",
+            "pinyin": "xiāo huò shōurù",
+            "word": "销货收入",
+            "id": 82339,
+            "phonetic": "xiaohuoshouru",
+            "rank": 92845,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˊㄐㄧˋㄕㄡㄖㄨˋ",
+            "_id": "0c6c577d2f133b7db2084cbd7ea467ac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tiền lương thực tế (trừ yếu tố lạm phát)",
+                            "explain": "实际收入，英文为real income，是名义收入的购买力。它是与前期相比名义收入能够购买的商品和服务。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "thực tế thu nhập",
+            "pinyin": "shíjì shōurù",
+            "word": "实际收入",
+            "id": 70094,
+            "phonetic": "shijishouru",
+            "rank": 83529,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧˋㄒㄧ˙ㄕㄡㄖㄨˋ",
+            "_id": "4498b59a75240601c9053168311d2718",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập từ tiền lãi",
+                            "explain": "二、本科目可按业务类别进行明细核算。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "lợi tức thu nhập",
+            "pinyin": "lìxí shōurù",
+            "word": "利息收入",
+            "id": 82341,
+            "phonetic": "lixishouru",
+            "rank": 67920,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "dd092499ef0141e9bb0a37aaf2cc9212",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khấu trừ thu nhập",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thu nhập khấu trừ",
+            "pinyin": "shōurù kòuchú",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "收入扣除",
+            "id": 185562,
+            "phonetic": "shourukouchu",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄜ˙ㄗㄨㄕㄡㄖㄨˋ",
+            "_id": "a96647c36adf4e21ac01db3fc53a6089",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập cho thuê (đặc biệt là từ đất canh tác)",
+                            "explain": "rent income (esp. from arable land)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "địa tô thu nhập",
+            "pinyin": "dìzū shōurù",
+            "word": "地租收入",
+            "id": 129970,
+            "phonetic": "dizushouru",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨˋㄉㄧㄥˋㄕㄡㄖㄨˋ",
+            "_id": "0c7d5b0a630442adab9b0613d3fc170a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập cố định",
+                            "explain": "fixed income",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy có thu nhập cố định",
+                                    "p_vn": "anh ay co thu nhap co dinh",
+                                    "_id": "d2365cac1a3f4061a7540f60f0ad516b",
+                                    "id": 62495,
+                                    "type": "e_cnvi",
+                                    "e": "他是有固定收入",
+                                    "p_cn": "ta shi you gudingshouru",
+                                    "p": "tā shì yǒu gùdìngshōurù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "cố định thu nhập",
+            "pinyin": "gùdìng shōurù",
+            "word": "固定收入",
+            "id": 134193,
+            "phonetic": "gudingshouru",
+            "rank": 104266,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄍㄜˋㄖㄣˊㄕㄡㄖㄨˋ",
+            "_id": "5cb57d3ac04b42019da7bb71a0c1599a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Personal income\nThu nhập cá nhân",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "cá nhân thu nhập",
+            "pinyin": "Gèrén shōurù",
+            "word": "个人收入",
+            "id": 157403,
+            "phonetic": "Gerenshouru",
+            "rank": 91557,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄧㄠˋㄈㄤˊㄕㄡㄖㄨˋ",
+            "topic": "72",
+            "_id": "89fc638364f4de4adc526d1c773ada19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập của phòng vé",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Phim mới này có rất nhiều cảnh tiếu lâm nên lôi cuốn nhiều người xem, và đạt doanh thu kỷ lục",
+                                    "p_vn": "phim moi nay co rat nhieu canh tieu lam nen loi cuon nhieu nguoi xem, va dat doanh thu ky luc",
+                                    "_id": "80621d62337a0a1cb3463956c0389e02",
+                                    "id": 13396,
+                                    "type": "e_cnvi",
+                                    "e": "这部影片中有许多搞笑的镜头,吸引了不少观众,票房收入跃居第一。",
+                                    "p_cn": "zhe bu yingpian zhong you xuduo gaoxiao de jingtou, xi yin liao bu shao guanzhong, piaofang shouru yue ju di yi.",
+                                    "p": "zhè bù yǐngpiàn zhōng yǒu xǔduō gǎoxiào de jìngtóu, xī yǐn liǎo bù shǎo guānzhòng, piàofáng shōurù yuè jū dì yī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "phiếu phòng thu nhập",
+            "pinyin": "piàofáng shōurù",
+            "word": "票房收入",
+            "id": 73228,
+            "phonetic": "piaofangshouru",
+            "rank": 94525,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄟㄕㄨㄟˋㄕㄡㄖㄨˋ",
+            "_id": "2b1bb71bb4c17f9816c6f08571d09d8f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập miễn thuế",
+                            "explain": "非税收入是政府参与国民收入初次分配和再分配的一种形式。政府非税收入管理范围主要包括：政府性基金、彩票公益金、国有资源有偿使用收 入、国有资产有偿使用收入、国有资本经营收益、罚没收入、以政府名义接受的捐赠收入、主管部门集中收入、政府财政资金产生的利息收入等。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "phi thuế thu nhập",
+            "pinyin": "fēi shuì shōurù",
+            "word": "非税收入",
+            "id": 75293,
+            "phonetic": "feishuishouru",
+            "rank": 137371,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩㄥˋㄐㄧㄣㄕㄡㄖㄨˋ",
+            "_id": "7524d3d86be0fb87bd304faa47d2d76f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập từ tiền hoa hồng",
+                            "explain": "佣金收入是指委托者委托买卖成交后，按实际成交金额数的一定比例向承办委托的证券商交纳的费用。佣金也就是证券商代理委托买卖成交后的经营收入，或者说手续费收入。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "dong kim thu nhập",
+            "pinyin": "yōngjīn shōurù",
+            "word": "佣金收入",
+            "id": 68453,
+            "phonetic": "yongjinshouru",
+            "rank": 68793,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a3c95881da7f43209454dcebcab14e54",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tạp thu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tạp hạng thu nhập",
+            "pinyin": "záxiàng shōurù",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "杂项收入",
+            "id": 177681,
+            "phonetic": "zaxiangshouru",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠㄕㄡˋㄕㄡㄖㄨˋ",
+            "_id": "05b972a42f57d2750726a3458ba8fdbf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập từ bán hàng",
+                            "explain": "销售收入也称作营业收入。营业收入按比重和业务的主次及经常性情况，一般可分为主营业务收入和其他业务收入。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "tiêu thụ thu nhập",
+            "pinyin": "xiāoshòu shōurù",
+            "word": "销售收入",
+            "id": 75031,
+            "phonetic": "xiaoshoushouru",
+            "rank": 72171,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "21d662db606047ee99e6009fc0e2afe5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phụ thu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phụ gia thu nhập",
+            "pinyin": "fùjiā shōurù",
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "word": "附加收入",
+            "id": 174826,
+            "phonetic": "fujiashouru",
+            "rank": 128183,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄟㄔㄤˊㄕㄡㄖㄨˋ",
+            "_id": "7a24cefb44a8d171564e6565d4d0c0cc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập đặc biệt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "phi thường thu nhập",
+            "pinyin": "fēicháng shōurù",
+            "word": "非常收入",
+            "id": 75288,
+            "phonetic": "feichangshouru",
+            "rank": 89589,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄕㄡㄖㄨˋㄒㄧㄠˋㄧㄥ",
+            "_id": "dbc36962a03647ab8692f6c8886fc8f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Income effect\nHiệu ứng thu nhập",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "thu nhập hiệu ứng",
+            "pinyin": "Shōurù xiàoyìng",
+            "word": "收入效应",
+            "id": 157087,
+            "phonetic": "Shouruxiaoying",
+            "rank": 80767,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄞˊㄓㄥˋㄕㄡㄖㄨˋ",
+            "_id": "7388ac585bb241448e5bdd9e87f97e40",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập tài chính",
+                            "explain": "财政收入（Government revenue），是指政府为履行其职能、实施公共政策和提供公共物品与服务需要而筹集的一切资金的总和。财政收入表现为政府部门在一定时期内（一般为一个财政年度）所取得的货币收入。财政收入是衡量一国政府财力的重要指标，政府在社会经济活动中提供公共物品和服务的范围和数量，在很大程度上决定于财政收入的充裕状况。据报道，2010年前五个月中国财政收入35470亿元，比去年同期 增 加8 3 6 2亿 元 ， 增 长30 .8%。结合下半年预期，全年可能将实现8万亿，这意味着中国政府将成为全球第二富裕的政府。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 40
+            },
+            "snym": null,
+            "cn_vi": "tài chính thu nhập",
+            "pinyin": "cáizhèng shōurù",
+            "word": "财政收入",
+            "id": 85540,
+            "phonetic": "caizhengshouru",
+            "rank": 63552,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄛˊㄇㄧㄣˊㄕㄡㄖㄨˋ",
+            "_id": "08e2edac2bd331c7ed69bdcd4dc1cec5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập quốc dân",
+                            "explain": "一个国家国民经济各个生产部门在一个时期内新创造的价值的总和就是从一个时期内的社会总产品的价值中，减去生产上消耗掉的生产资料的价值后剩余的部分",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "quốc dân thu nhập",
+            "pinyin": "guómín shōurù",
+            "word": "国民收入",
+            "id": 21828,
+            "phonetic": "guominshouru",
+            "rank": 91967,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "193ff6d3b0da43aeb0c027f51c347c6d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nguồn thu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thu nhập lai nguyên",
+            "pinyin": "shōurù láiyuán",
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "word": "收入来源",
+            "id": 183130,
+            "phonetic": "shourulaiyuan",
+            "rank": 114957,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄥˊㄧㄝˋㄕㄡㄖㄨˋ",
+            "_id": "399f3b8b8527d5df6781c2becafd785e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Doanh thu",
+                            "explain": "营业收入=主营业务收入+其他业务收入",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 79
+            },
+            "snym": null,
+            "cn_vi": "doanh nghiệp thu nhập",
+            "pinyin": "yíngyè shōurù",
+            "word": "营业收入",
+            "id": 74058,
+            "phonetic": "yingyeshouru",
+            "rank": 46814,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄜˇㄓㄆㄟˋㄕㄡㄖㄨˋ",
+            "_id": "6d9e1f10e6cc47359923517b09af4c17",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập khả dụng",
+                            "explain": "disposable income",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 110
+            },
+            "snym": null,
+            "cn_vi": "khả chi phối thu nhập",
+            "pinyin": "kě zhīpèi shōurù",
+            "word": "可支配收入",
+            "id": 142746,
+            "phonetic": "kezhipeishouru",
+            "rank": 39711,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄉㄧㄕㄡㄖㄨˋㄕㄨㄟˇㄆㄧㄥˊ",
+            "_id": "cc851742dfcc4ac5b8f54f29e52eb7bd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Mức thu nhập thấp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "đê thu nhập thuỷ bình",
+            "pinyin": "Dī shōurù shuǐpíng",
+            "word": "低收入水平",
+            "id": 156679,
+            "phonetic": "Dishourushuiping",
+            "rank": 149091,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄡㄖㄨˋㄏㄨㄟˊㄅㄠˋㄌㄩˋ",
+            "_id": "416e115c7e5bed072a38f181bfe41c4e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hệ số thu nhập trên doanh thu; Return On Revenue (ROR)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "thu nhập hồi báo suất",
+            "pinyin": "shōurù huíbào lǜ",
+            "word": "收入回报率",
+            "id": 80662,
+            "phonetic": "shouruhuibaolu",
+            "rank": 104348,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄥˊㄧㄝˋㄨㄞˋㄕㄡㄖㄨˋ",
+            "_id": "3e55cec6734c1f3a15f1fee8193bae57",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập ngoài doanh nghiệp (buôn bán)",
+                            "explain": "营业外收入是指与企业日常营业活动没有直接关系的各项利得。是企业财务成果的组成部分。例如，没收包装物押金收入、收回调入职工欠款、罚款净收入等等。营业外收入在“利润”或“利润或亏损”账户核算。在企业的“利润表”中，营业外收入需单独列示。属于企业营业外收入的款项应及时入账，不准留作小家当或其他不符合制度规定的开支。企业营业外收入的核算在“营业外收入”账户下进行，也可在该账户下按各种不同的收入设置明细账户进行明细核算。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "doanh nghiệp ngoại thu nhập",
+            "pinyin": "yíngyè wài shōurù",
+            "word": "营业外收入",
+            "id": 82342,
+            "phonetic": "yingyewaishouru",
+            "rank": 115998,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄍㄨㄛˊㄋㄟˋㄕㄡㄖㄨˋㄕㄨˇ",
+            "_id": "57830bdcf50e4ecf833dca5700779a00",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tổng vụ thu thuế quốc gia Hoa Kỳ (Internal Revenue Service)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quốc nội thu nhập thự",
+            "pinyin": "Guónèi shōurù shǔ",
+            "word": "国内收入署",
+            "id": 158141,
+            "phonetic": "Guoneishourushu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄈㄨˋㄓㄞˋㄕㄡㄖㄨˋㄅㄧˇ",
+            "_id": "d10f208b2db14d429d42275398ae41a7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "DTI/ (Debt-to-Income Ratio) Hệ số nợ trên thu nhập",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "phụ trái thu nhập bí",
+            "pinyin": "Fùzhài shōurù bǐ",
+            "word": "负债收入比",
+            "id": 158087,
+            "phonetic": "Fuzhaishourubi",
+            "rank": 151764,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄟㄌㄠˊㄉㄨㄥˋㄕㄡㄖㄨˋ",
+            "_id": "2325c6e9150274a5c7a2a5e8e1aa6aac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập phi lao động",
+                            "explain": "非劳动收入是指劳动收入以外的通过其他途径获得的各种收入。主要包括财产性收入、经营性收入、转移性收入和其他收入等。其中，财产性收入是指各种投资收入，如投资所得股份分红、股息，购买国债所得债息，股票市场炒股所得，银行存款利息收入，以及凭借各种知识产权、土地房产权等所得收入，如技术发明成果、专利折合股份所得分红、商标商誉转让所得收入、稿费之外另付的版税、土地使用权转让所得、房租等等。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "phi lao động thu nhập",
+            "pinyin": "fēi láodòng shōurù",
+            "word": "非劳动收入",
+            "id": 82724,
+            "phonetic": "feilaodongshouru",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄡ",
+            "_id": "2b686fd68536102051127d27e301284f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "thu cái gì đó",
+                            "examples": [
+                                75075,
+                                101665
+                            ],
+                            "struct": "收 + O + （作业，房租）"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thu vào",
+                            "explain": "收拾",
+                            "examples": [
+                                {
+                                    "m": "quần áo thu dọn lại chưa?",
+                                    "p_vn": "quan ao thu don lai chua?",
+                                    "_id": "0dbca5b41da04a9b1f335b4c9255b649",
+                                    "id": 36128,
+                                    "type": "e_cnvi",
+                                    "e": "衣裳收进来了没有?",
+                                    "p_cn": "yishang shou jinlaile meiyou?",
+                                    "p": "yīshang shōu jìnláile méiyǒu?"
+                                },
+                                {
+                                    "m": "Nhanh chóng thu dọn đồ đạc của bạn vào.",
+                                    "p_vn": "nhanh chong thu don do dac cua ban vao.",
+                                    "_id": "55db399305625a14707d64b918bcbe77",
+                                    "id": 101770,
+                                    "type": "e_cnvi",
+                                    "e": "快把东西收进来。",
+                                    "p_cn": "kuai ba dongxi shou jinlai.",
+                                    "p": "kuài bǎ dōngxi shōu jìnlái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thu lấy",
+                            "explain": "收回",
+                            "examples": [
+                                {
+                                    "m": "Mẹ tịch thu điện thoại của tôi.",
+                                    "p_vn": "me tich thu dien thoai cua toi.",
+                                    "_id": "55db399305625a14707d64b918bbd176",
+                                    "id": 101735,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈没收我的手机。",
+                                    "p_cn": "mama moshou wo de shouji.",
+                                    "p": "māma mòshōu wǒ de shǒujī."
+                                },
+                                {
+                                    "m": "Nhà nước tiến hành thu thuế theo pháp luật.",
+                                    "p_vn": "nha nuoc tien hanh thu thue theo phap luat.",
+                                    "_id": "55db399305625a14707d64b918bccd78",
+                                    "id": 101774,
+                                    "type": "e_cnvi",
+                                    "e": "国家依法进行收税。",
+                                    "p_cn": "guojia yifa jinxing shou shui.",
+                                    "p": "guójiā yīfǎ jìnxíng shōu shuì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đạt được (lợi ích kinh tế)",
+                            "explain": "获得",
+                            "examples": [
+                                {
+                                    "m": "Thu nhập tăng thì cuộc sống sung túc hơn.",
+                                    "p_vn": "thu nhap tang thi cuoc song sung tuc hon.",
+                                    "_id": "55db399305625a14707d64b918bab7a9",
+                                    "id": 101711,
+                                    "type": "e_cnvi",
+                                    "e": "收入增日子更红火。",
+                                    "p_cn": "shouru zeng ri zi geng honghuo.",
+                                    "p": "shōurù zēng rì zi gēng hónghuo."
+                                },
+                                {
+                                    "m": "Lợi nhuận tăng mọi người đều vui vẻ.",
+                                    "p_vn": "loi nhuan tang moi nguoi deu vui ve.",
+                                    "_id": "55db399305625a14707d64b918bac150",
+                                    "id": 101713,
+                                    "type": "e_cnvi",
+                                    "e": "收益增大家都开心。",
+                                    "p_cn": "shouyi zeng dajia dou kaixin.",
+                                    "p": "shōuyì zēng dàjiā dōu kāixīn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thu hoạch; gặt hái",
+                            "explain": "收割",
+                            "examples": [
+                                {
+                                    "m": "Nông dân đang thu hoạch lúa mì.",
+                                    "p_vn": "nong dan dang thu hoach lua mi.",
+                                    "_id": "ac7be255046819fca340054063b1ff94",
+                                    "id": 75080,
+                                    "type": "e_cnvi",
+                                    "e": "农民正在收获麦子。",
+                                    "p_cn": "nongmin zhengzai shouhuo maizi.",
+                                    "p": "nóngmín zhèngzài shōuhuò màizi."
+                                },
+                                {
+                                    "m": "Thu hoạch thành quả tận hưởng thời gian tốt đẹp.",
+                                    "p_vn": "thu hoach thanh qua tan huong thoi gian tot dep.",
+                                    "_id": "55db399305625a14707d64b918ba3fd9",
+                                    "id": 101699,
+                                    "type": "e_cnvi",
+                                    "e": "收成果享受好时光。",
+                                    "p_cn": "shou chengguo xiangshou hao shiguang.",
+                                    "p": "shōu chéngguǒ xiǎngshòu hǎo shíguāng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tiếp nhận; dung nạp",
+                            "explain": "接; 容纳",
+                            "examples": [
+                                {
+                                    "m": "Hôm qua tôi đã nhận được một món quà nhỏ.",
+                                    "p_vn": "hom qua toi da nhan duoc mot mon qua nho.",
+                                    "_id": "55db399305625a14707d64b918bc9f38",
+                                    "id": 101766,
+                                    "type": "e_cnvi",
+                                    "e": "我昨天收个小礼物。",
+                                    "p_cn": "wo zuotian shou ge xiao liwu.",
+                                    "p": "wǒ zuótiān shōu gè xiǎo lǐwù."
+                                },
+                                {
+                                    "m": "Anh ấy tốt bụng nhận nuôi con mèo nhỏ.",
+                                    "p_vn": "anh ay tot bung nhan nuoi con meo nho.",
+                                    "_id": "55db399305625a14707d64b918bcb926",
+                                    "id": 101769,
+                                    "type": "e_cnvi",
+                                    "e": "他好心收留了小猫。",
+                                    "p_cn": "ta haoxin shouliule xiao mao.",
+                                    "p": "tā hǎoxīn shōuliúle xiǎo māo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kiềm chế; kiểm soát; dằn lòng (tình cảm; hành động)",
+                            "explain": "约束",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy phải học cách tự kiềm chế bản thân.",
+                                    "p_vn": "anh ay phai hoc cach tu kiem che ban than.",
+                                    "_id": "55db399305625a14707d64b918bc1fee",
+                                    "id": 101749,
+                                    "type": "e_cnvi",
+                                    "e": "他要学会自我收束。",
+                                    "p_cn": "ta yao xuehui ziwo shou shu.",
+                                    "p": "tā yào xuéhuì zìwǒ shōu shù."
+                                },
+                                {
+                                    "m": "Anh ấy cố gắng kiểm soát lời nói và hành động của mình.",
+                                    "p_vn": "anh ay co gang kiem soat loi noi va hanh dong cua minh.",
+                                    "_id": "55db399305625a14707d64b918bc3dc2",
+                                    "id": 101753,
+                                    "type": "e_cnvi",
+                                    "e": "他努力收控自己言行。",
+                                    "p_cn": "ta nuli shou kong ziji yanxing.",
+                                    "p": "tā nǔlì shōu kòng zìjǐ yánxíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kết thúc; đình chỉ (công tác)",
+                            "explain": "结束; 停止",
+                            "examples": [
+                                {
+                                    "m": "Hôm nay có thể kết thúc công việc sớm chút.",
+                                    "p_vn": "hom nay co the ket thuc cong viec som chut.",
+                                    "_id": "55db399305625a14707d64b918bc60d4",
+                                    "id": 101758,
+                                    "type": "e_cnvi",
+                                    "e": "今天可以早点收工。",
+                                    "p_cn": "jintian keyi zaodian shougong.",
+                                    "p": "jīntiān kěyǐ zǎodiǎn shōugōng."
+                                },
+                                {
+                                    "m": "Buổi huấn luyện hôm nay đã kết thúc tập luyện.",
+                                    "p_vn": "buoi huan luyen hom nay da ket thuc tap luyen.",
+                                    "_id": "55db399305625a14707d64b918bc8248",
+                                    "id": 101761,
+                                    "type": "e_cnvi",
+                                    "e": "今天的训练已收操。",
+                                    "p_cn": "jintian de xunlian yi shou cao.",
+                                    "p": "jīntiān de xùnliàn yǐ shōu cāo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 506,
+                "search": 13749
+            },
+            "snym": {
+                "anto": [
+                    "支",
+                    "发",
+                    "放",
+                    "送",
+                    "种",
+                    "付",
+                    "撒",
+                    "播",
+                    "缴",
+                    "交"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "shōu",
+            "cn_vi": "thu.thú.thâu",
+            "word": "收",
+            "id": 47650,
+            "phonetic": "shou",
+            "rank": 582,
+            "lv_hsk": 2,
+            "lv_tocfl": 2,
+            "compound": "收编 ; 收兵 ; 收藏 ; 收藏家 ; 收操 ; 收场 ; 收成 ; 收发 ; 收方 ; 收风 ; 收服 ; 收复 ; 收割 ; 收工 ; 收购 ; 收回 ; 收获 ; 收集 ; 收监 ; 收缴 ; 收据 ; 收看 ; 收口 ; 收揽 ; 收敛 ; 收殓 ; 收留 ; 收拢 ; 收录 ; 收罗 ; 收买 ; 收纳 ; 收盘 ; 收讫 ; 收清 ; 收秋 ; 收取 ; 收容 ; 收入 ; 收生 ; 收生婆 ; 收市 ; 收拾 ; 收束 ; 收缩 ; 收摊儿 ; 收条 ; 收听 ; 收尾 ; 收文 ; 收效 ; 收心 ; 收押 ; 收养 ; 收益 ; 收音 ; 收音机 ; 收支 ; 收执"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄉㄨㄟˋㄨㄞˋㄇㄠˋㄧˋㄕㄡㄖㄨˋ",
+            "_id": "2cefe8ee38734f67a840d3a52078555a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập từ mậu dịch đối ngoại",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "đối ngoại mậu dị thu nhập",
+            "pinyin": "Duìwài màoyì wài rù",
+            "word": "对外贸易收入",
+            "id": 156870,
+            "phonetic": "Duiwaimaoyiwairu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩˋㄑㄧㄕㄡㄖㄨˋㄆㄧㄠˋㄐㄩˋ",
+            "_id": "891ec70e6bfc499bacadc30e17bbb08a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lưu ý dự đoán doanh thu (RAN, tài chính)",
+                            "explain": "revenue anticipation note (RAN, financing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "dự kì thu nhập phiếu cứ",
+            "pinyin": "yùqí shōurù piàojù",
+            "word": "预期收入票据",
+            "id": 144892,
+            "phonetic": "yuqishourupiaoju",
+            "rank": 112107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨˋ",
+            "_id": "d12deb534b5ea7e065db4dd25b48e5b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                94872,
+                                94873
+                            ],
+                            "struct": "入 + Tân ngữ（水/内/门/冬）"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                94875,
+                                94876
+                            ],
+                            "struct": "Động từ （走/跑/放）+ 入"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vào; đi vào; đến",
+                            "explain": "近来或进去 (跟''出''相对)",
+                            "examples": [
+                                {
+                                    "m": "Từ nông đến sâu.",
+                                    "p_vn": "tu nong den sau.",
+                                    "_id": "1caf70f590681e5e5d25b2701a6f4213",
+                                    "id": 34968,
+                                    "type": "e_cnvi",
+                                    "e": "由浅入深。",
+                                    "p_cn": "youqianrushen.",
+                                    "p": "yóuqiǎnrùshēn."
+                                },
+                                {
+                                    "m": "bệnh từ miệng mà vào",
+                                    "p_vn": "bẹnh tù miẹng mà vào",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37bb159",
+                                    "id": 106210,
+                                    "type": "e_cnvi",
+                                    "e": "病从口入",
+                                    "p_cn": "bing cong kou ru",
+                                    "p": "bìng cóng kǒu rù"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tham gia; gia nhập",
+                            "explain": "参加到某种组织中，成为它的成员",
+                            "examples": [
+                                {
+                                    "m": "Tôi nhập học vào tháng sau.",
+                                    "p_vn": "toi nhap hoc vao thang sau.",
+                                    "_id": "491c99bfb9ab181f760d129149c9f1b2",
+                                    "id": 34057,
+                                    "type": "e_cnvi",
+                                    "e": "下个月我入学了。",
+                                    "p_cn": "xia ge yue wo ruxuele.",
+                                    "p": "xià ge yuè wǒ rùxuéle."
+                                },
+                                {
+                                    "m": "Anh ta đã đăng ký gia nhập đội.",
+                                    "p_vn": "anh ta da dang ky gia nhap doi.",
+                                    "_id": "f731b56a7d0b78893b6bd064bf70e16c",
+                                    "id": 34058,
+                                    "type": "e_cnvi",
+                                    "e": "他申请入团了。",
+                                    "p_cn": "ta shenqing ru tuanle.",
+                                    "p": "tā shēnqǐng rù tuánle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phù hợp; hợp",
+                            "explain": "合乎；合于",
+                            "examples": [
+                                {
+                                    "m": "Hợp tình hợp lí.",
+                                    "p_vn": "hop tinh hop li.",
+                                    "_id": "9b88e38a1218c15116caf10cf3c00c06",
+                                    "id": 34062,
+                                    "type": "e_cnvi",
+                                    "e": "入情入理。",
+                                    "p_cn": "ruqingruli.",
+                                    "p": "rùqíngrùlǐ."
+                                },
+                                {
+                                    "m": "Hợp tình hợp lý khiến người ta thuyết phục.",
+                                    "p_vn": "hop tinh hop ly khien nguoi ta thuyet phuc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38828d4",
+                                    "id": 106495,
+                                    "type": "e_cnvi",
+                                    "e": "入情入理令人信服。",
+                                    "p_cn": "ruqingruli ling ren xinfu.",
+                                    "p": "rùqíngrùlǐ lìng rén xìnfú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhập; đưa vào",
+                            "explain": "达到（某种程度或境地）",
+                            "examples": [
+                                {
+                                    "m": "Việc học của tôi dần dần đã vào đúng quỹ đạo.",
+                                    "p_vn": "viec hoc cua toi dan dan da vao dung quy dao.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37c0d52",
+                                    "id": 106226,
+                                    "type": "e_cnvi",
+                                    "e": "我的学习慢慢入了正轨。",
+                                    "p_cn": "wo de xuexi man man rule zhenggui.",
+                                    "p": "wǒ de xuéxí màn man rùle zhèngguǐ."
+                                },
+                                {
+                                    "m": "xuất thần nhập hóa",
+                                    "p_vn": "xuát thàn nhạp hóa",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37c13ce",
+                                    "id": 106227,
+                                    "type": "e_cnvi",
+                                    "e": "出神入化",
+                                    "p_cn": "chushenruhua",
+                                    "p": "chūshénrùhuà"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu nhập",
+                            "explain": "收入",
+                            "examples": [
+                                {
+                                    "m": "Thu nhập tháng này không đủ chi tiêu.",
+                                    "p_vn": "thu nhap thang nay khong du chi tieu.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3882d3b",
+                                    "id": 106496,
+                                    "type": "e_cnvi",
+                                    "e": "这个月入不敷出。",
+                                    "p_cn": "zhege yue rubufuchu.",
+                                    "p": "zhège yuè rùbùfūchū."
+                                },
+                                {
+                                    "m": "Thu nhập tháng trước có giảm bớt.",
+                                    "p_vn": "thu nhap thang truoc co giam bot.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3883cbb",
+                                    "id": 106497,
+                                    "type": "e_cnvi",
+                                    "e": "上月收入有所减少。",
+                                    "p_cn": "shang yue shouru you suo jianshao.",
+                                    "p": "shàng yuè shōurù yǒu suǒ jiǎnshǎo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhập thanh",
+                            "explain": "入声",
+                            "examples": [
+                                {
+                                    "m": "Bình, thượng, khứ, nhập (bốn thanh của tiếng Hán).",
+                                    "p_vn": "binh, thuong, khu, nhap (bon thanh cua tieng han).",
+                                    "_id": "0841fa550de756a968eb3c86b3c6b739",
+                                    "id": 31049,
+                                    "type": "e_cnvi",
+                                    "e": "平上去入。",
+                                    "p_cn": "ping shangqu ru.",
+                                    "p": "píng shàngqù rù."
+                                },
+                                {
+                                    "m": "Bài thơ này có chữ nhập thanh.",
+                                    "p_vn": "bai tho nay co chu nhap thanh.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38844fb",
+                                    "id": 106498,
+                                    "type": "e_cnvi",
+                                    "e": "这首诗有入声字。",
+                                    "p_cn": "zhe shou shi you ru sheng zi.",
+                                    "p": "zhè shǒu shī yǒu rù shēng zì."
+                                },
+                                {
+                                    "m": "Phát âm của nhập thanh khá đặc biệt.",
+                                    "p_vn": "phat am cua nhap thanh kha dac biet.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac38853e9",
+                                    "id": 106499,
+                                    "type": "e_cnvi",
+                                    "e": "入声发音较特别。",
+                                    "p_cn": "ru sheng fayin jiao tebie.",
+                                    "p": "rù shēng fāyīn jiào tèbié."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 177,
+                "search": 5834
+            },
+            "snym": {
+                "anto": [
+                    "出",
+                    "舍"
+                ],
+                "syno": [
+                    "进"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "rù",
+            "cn_vi": "nhập",
+            "word": "入",
+            "id": 44716,
+            "phonetic": "ru",
+            "rank": 2024,
+            "lv_tocfl": 4,
+            "compound": "入超 ; 入定 ; 入耳 ; 入犯 ; 入伏 ; 入港 ; 入彀 ; 入骨 ; 入国问禁 ; 入画 ; 入伙 ; 入境 ; 入境问俗 ; 入口 ; 入寇 ; 入款 ; 入殓 ; 入列 ; 入垄 ; 入梅 ; 入门 ; 入梦 ; 入迷 ; 入魔 ; 入木三分 ; 入侵 ; 入情入理 ; 入射点 ; 入射角 ; 入射线 ; 入神 ; 入声 ; 入时 ; 入世 ; 入手 ; 入睡 ; 入土 ; 入托 ; 入微 ; 入闱 ; 入味 ; 入伍 ; 入席 ; 入乡随乡 ; 入绪 ; 入选 ; 入学 ; 入眼 ; 入药 ; 入夜 ; 入狱 ; 入院 ; 入帐 ; 入主出奴 ; 入赘"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄕㄡㄖㄨˋㄒㄧㄠㄈㄟˋㄑㄩㄒㄧㄢˋ",
+            "_id": "3789ac82a3d8403db82372d0e7ccf961",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Income-consumption curve\nĐường tiêu dùng - thu nhập",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "thu nhập tiêu phí khúc tuyến",
+            "pinyin": "Shōurù--xiāofèi qūxiàn",
+            "word": "收入--消费曲线",
+            "id": 157086,
+            "phonetic": "Shouru--xiaofeiquxian",
+            "rank": 153509,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄨㄟˋㄏㄡˋㄧㄥˊㄩㄣˋㄕㄡㄖㄨˋ",
+            "_id": "c23968381d0495d54b40a453cdc5aac4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thu nhập sau thuế từ hoạt động kinh doanh",
+                            "explain": "什么是税后营运收入？",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "thuế hậu doanh vận thu nhập",
+            "pinyin": "shuì hòu yíngyùn shōurù",
+            "word": "税后营运收入",
+            "id": 80620,
+            "phonetic": "shuihouyingyunshouru",
+            "rank": 128455,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄕㄡㄖㄨˋㄈㄣㄆㄟˋㄌㄧˇㄌㄨㄣˋ",
+            "_id": "af75114a23d746deaece2d3d635385e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Theory of income distribution",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "thu nhập phân phối lí luận",
+            "pinyin": "Shōurù fēnpèi lǐlùn",
+            "word": "收入分配理论",
+            "id": 157466,
+            "phonetic": "Shourufenpeililun",
+            "rank": 117464,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄥㄕㄡㄕㄡㄧˋ",
+            "_id": "7a9465bc7479098ebcb37bbc1f799606",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lợi nhuận phải thu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "ứng thu thu ích",
+            "pinyin": "yīng shōu shōuyì",
+            "word": "应收收益",
+            "id": 70459,
+            "phonetic": "yingshoushouyi",
+            "rank": 110371,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨˋㄑㄧㄥˊㄖㄨˋㄌㄧˇ",
+            "_id": "a8f9340d274b87842748590ff1927df9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "có tình có lí; hợp tình hợp lý",
+                            "explain": "合乎情理",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 40
+            },
+            "snym": {
+                "syno": [
+                    "天公地道",
+                    "天经地义",
+                    "合情合理",
+                    "理所当然",
+                    "情理之中",
+                    "不近人情",
+                    "言之成理",
+                    "义正词严",
+                    "人之常情"
+                ],
+                "anto": [
+                    "不近人情",
+                    "强词夺理",
+                    "不可理喻"
+                ]
+            },
+            "cn_vi": "nhập tình nhập lí",
+            "pinyin": "rùqíngrùlǐ",
+            "word": "入情入理",
+            "id": 44744,
+            "phonetic": "ruqingruli",
+            "rank": 63403,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "收入"
+}

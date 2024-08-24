@@ -1,0 +1,2720 @@
+{
+    "total": 2810,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "adj",
+                "adv",
+                "n"
+            ],
+            "measure": null,
+            "topic": "32",
+            "zhuyin": "ㄉㄚˋㄍㄞˋ",
+            "_id": "bb3d3de04cb65807a94fd1d40adabf6d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "khoảng...",
+                            "examples": [
+                                77256,
+                                92767,
+                                92769
+                            ],
+                            "struct": "大概 + Số lượng/ Thời gian"
+                        },
+                        {
+                            "explain": "có lẽ/ chắc là...",
+                            "examples": [
+                                77260,
+                                92770
+                            ],
+                            "struct": "大概 + Câu"
+                        },
+                        {
+                            "explain": "chắc/ có lẽ làm gì",
+                            "examples": [
+                                92763,
+                                92768
+                            ],
+                            "struct": "大概 + Động từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có thể; có lẽ; khoảng; độ; tầm; chắc",
+                            "explain": "副词，表示有很大的可能性",
+                            "examples": [
+                                {
+                                    "m": "Việc này mất khoảng một giờ.",
+                                    "p_vn": "viec nay mat khoang mot gio.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91ebb58",
+                                    "id": 92758,
+                                    "type": "e_cnvi",
+                                    "e": "这大概需要一个小时。",
+                                    "p_cn": "zhe dagai xuyao yige xiaoshi.",
+                                    "p": "zhè dàgài xūyào yīgè xiǎoshí."
+                                },
+                                {
+                                    "m": "Có lẽ cô ấy sẽ không đồng ý với điều này.",
+                                    "p_vn": "co le co ay se khong dong y voi dieu nay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91eca58",
+                                    "id": 92759,
+                                    "type": "e_cnvi",
+                                    "e": "她大概不会同意这件事。",
+                                    "p_cn": "ta dagai bu hui tongyi zhe jian shi.",
+                                    "p": "tā dàgài bù huì tóngyì zhè jiàn shì."
+                                },
+                                {
+                                    "m": "Phim này chắc sẽ hay lắm đây.",
+                                    "p_vn": "phim nay chac se hay lam day.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91ed961",
+                                    "id": 92760,
+                                    "type": "e_cnvi",
+                                    "e": "这部电影大概会很精彩。",
+                                    "p_cn": "zhe bu dianying dagai hui hen jingcai.",
+                                    "p": "zhè bù diànyǐng dàgài huì hěn jīngcǎi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đại khái; nét chính; sơ lược; ý chính",
+                            "explain": "大致的内容或情况",
+                            "examples": [
+                                {
+                                    "m": "Cuốn sách này tớ đã xem đại khái rồi.",
+                                    "p_vn": "cuón sách này tó dã xem dại khái ròi.",
+                                    "_id": "ac7be255046819fca34005406308888d",
+                                    "id": 74181,
+                                    "e": "这本书我看了个大概。",
+                                    "p_cn": "zhe ben shu wo kanle ge dagai.",
+                                    "type": "e_cnvi",
+                                    "p": "zhè běn shū wǒ kànle gè dàgài."
+                                },
+                                {
+                                    "m": "Tôi chỉ tìm hiểu ý chính thôi.",
+                                    "p_vn": "toi chi tim hieu y chinh thoi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91f4397",
+                                    "id": 92771,
+                                    "type": "e_cnvi",
+                                    "e": "我只了解个大概。",
+                                    "p_cn": "wo zhi liaojie ge dagai.",
+                                    "p": "wǒ zhǐ liǎojiě gè dàgài."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "nội dung/ý nghĩa/cấu trúc/quy trình/đoạn văn/thời gian + đại khái",
+                            "examples": [
+                                77278,
+                                92773
+                            ],
+                            "struct": "大概 (+的) + Danh từ [trừu tượng] (内容／意思／结构／过程／经过／时间)"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sơ sơ; chung chung",
+                            "explain": "不十分精确或不十分详尽",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy phân tích tình hình một cách chung chung.",
+                                    "p_vn": "anh ay phan tich tinh hinh mot cach chung chung.",
+                                    "_id": "e43eb2def40e3ceabc0bfd93ed20b6e4",
+                                    "id": 6540,
+                                    "type": "e_cnvi",
+                                    "e": "他把情况做了个大概的分析。",
+                                    "p_cn": "ta ba qingkuang zuo le ge dagai de fenxi。",
+                                    "p": "tā bǎ qíngkuàng zuò le gè dàgài de fēnxī。"
+                                },
+                                {
+                                    "m": "Anh ấy đã cho tôi một mô tả sơ sơ.",
+                                    "p_vn": "anh ay da cho toi mot mo ta so so.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91f5051",
+                                    "id": 92772,
+                                    "type": "e_cnvi",
+                                    "e": "他给了我一个大概的描述。",
+                                    "p_cn": "ta geile wo yige dagai de miaoshu.",
+                                    "p": "tā gěile wǒ yīgè dàgài de miáoshù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"大概\" vừa là phó từ vừa là danh từ, \"大约\" chỉ có thể là phó từ.\n- \"大概\" có thể làm bổ ngữ của động từ, \"大约\" không thể.\n- \"大概\" còn có thể làm định ngữ, \"大约\" không thể.\n- Danh từ \"大概\" dùng để chỉ đại khái tình huống hoặc nội dung nào đó.",
+                    "title": "Phân biệt \"大概\" và \"大约\"",
+                    "words": [
+                        "大概",
+                        "大约"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "大约",
+                    "大致"
+                ]
+            },
+            "lv_hsk_new": "3, 4",
+            "pinyin": "dàgài",
+            "cn_vi": "đại khái",
+            "popularity": {
+                "notebook": 1091,
+                "search": 27319
+            },
+            "word": "大概",
+            "id": 10326,
+            "phonetic": "dagai",
+            "rank": 132,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "79da2ad750fb42cab1aca2baacdd5179",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phác",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đại khái địa",
+            "pinyin": "dàgài de",
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "word": "大概地",
+            "id": 174661,
+            "phonetic": "dagaide",
+            "rank": 92205,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄍㄞˋㄑㄧˊ",
+            "_id": "7d806fcd24d2be2a8c48bcfe400f0fae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đại khái; sơ sơ; sơ",
+                            "explain": "大概''其''有时也作齐",
+                            "examples": [
+                                {
+                                    "m": "quyển sách này tôi chưa xem kỹ, chỉ lật sơ qua.",
+                                    "p_vn": "quyen sach nay toi chua xem ky, chi lat so qua.",
+                                    "_id": "213a983d55ee34a13d3bd517833b1dec",
+                                    "id": 6544,
+                                    "type": "e_cnvi",
+                                    "e": "这本书我没细看，只大概其翻了翻。",
+                                    "p_cn": "zhe benshu wo mei xikan,zhi dagai qifan le fan. ",
+                                    "p": "zhè běnshū wǒ méi xìkàn，zhǐ dàgài qīfān le fān。"
+                                },
+                                {
+                                    "m": "anh ấy nói cả buổi, tôi chỉ nghe sơ qua.",
+                                    "p_vn": "anh ay noi ca buoi, toi chi nghe so qua.",
+                                    "_id": "a4eafb6288a6dece05e2512a37f65a55",
+                                    "id": 6545,
+                                    "type": "e_cnvi",
+                                    "e": "他说了半天，我只听了个大概其。",
+                                    "p_cn": "ta shuolebantian,wo zhi ting le ge dagai qi. ",
+                                    "p": "tā shuōlebàntiān，wǒ zhǐ tīng le gè dàgài qī。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 311
+            },
+            "snym": null,
+            "cn_vi": "đại khái kì",
+            "pinyin": "dàgài qí",
+            "word": "大概其",
+            "id": 10327,
+            "phonetic": "dagaiqi",
+            "rank": 21662,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v",
+                "adv",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋ",
+            "_id": "8e84db58db8ae066aa69486d9da125da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đại thể; tổng thể; toàn thể; chung; cốt",
+                            "explain": "大略",
+                            "examples": [
+                                {
+                                    "m": "Tình hình đại khái là như vậy.",
+                                    "p_vn": "tinh hinh dai khai la nhu vay.",
+                                    "_id": "55db399305625a14707d64b918b03a17",
+                                    "id": 101397,
+                                    "type": "e_cnvi",
+                                    "e": "大概情况就是这样。",
+                                    "p_cn": "dagai qingkuang jiushi zheyang.",
+                                    "p": "dàgài qíngkuàng jiùshì zhèyàng."
+                                },
+                                {
+                                    "m": "Đây chỉ là một con số chung.",
+                                    "p_vn": "day chi la mot con so chung.",
+                                    "_id": "55db399305625a14707d64b918b03c1f",
+                                    "id": 101398,
+                                    "type": "e_cnvi",
+                                    "e": "这只是个大概数。",
+                                    "p_cn": "zhe zhishi ge dagai shu.",
+                                    "p": "zhè zhǐshì gè dàgài shù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thần sắc; khí khái",
+                            "explain": "气度神情",
+                            "examples": [
+                                {
+                                    "m": "Khí phách của hắn khiến người ta ngưỡng mộ.",
+                                    "p_vn": "khi phach cua han khien nguoi ta nguong mo.",
+                                    "_id": "55db399305625a14707d64b918b08d27",
+                                    "id": 101406,
+                                    "type": "e_cnvi",
+                                    "e": "其概令人佩。",
+                                    "p_cn": "qi gai ling ren pei.",
+                                    "p": "qí gài lìng rén pèi."
+                                },
+                                {
+                                    "m": "Cô ấy toát ra sự tự tin.",
+                                    "p_vn": "co ay toat ra su tu tin.",
+                                    "_id": "55db399305625a14707d64b918b10186",
+                                    "id": 101419,
+                                    "type": "e_cnvi",
+                                    "e": "她概流露自信。",
+                                    "p_cn": "ta gai liulu zixin.",
+                                    "p": "tā gài liúlù zìxìn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cảnh tượng; cảnh",
+                            "explain": "景象;状况",
+                            "examples": [
+                                {
+                                    "m": "Cảnh ở nông thôn rất yên tĩnh.",
+                                    "p_vn": "canh o nong thon rat yen tinh.",
+                                    "_id": "55db399305625a14707d64b918b1221b",
+                                    "id": 101422,
+                                    "type": "e_cnvi",
+                                    "e": "乡村概状很宁静。",
+                                    "p_cn": "xiangcun gai zhuang hen ningjing.",
+                                    "p": "xiāngcūn gài zhuàng hěn níngjìng."
+                                },
+                                {
+                                    "m": "Cảnh tượng bên biển đẹp như tranh.",
+                                    "p_vn": "canh tuong ben bien dep nhu tranh.",
+                                    "_id": "55db399305625a14707d64b918b12bba",
+                                    "id": 101423,
+                                    "type": "e_cnvi",
+                                    "e": "海边概象美如画。",
+                                    "p_cn": "haibian gai xiang mei ru hua.",
+                                    "p": "hǎibiān gài xiàng měi rú huà."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "nhất loạt; đồng loạt; đều",
+                            "explain": "一律",
+                            "examples": [
+                                {
+                                    "m": "Hàng bán ra, không được đổi.",
+                                    "p_vn": "hang ban ra, khong duoc doi.",
+                                    "_id": "44cf29242a56eb896d130b773177217b",
+                                    "id": 12837,
+                                    "type": "e_cnvi",
+                                    "e": "货物出门，概不退换。",
+                                    "p_cn": "huowu chumen，gaibu tuihuan。",
+                                    "p": "huòwù chūmén，gàibù tùihuàn。"
+                                },
+                                {
+                                    "m": "Chi phí không thể hoàn lại.",
+                                    "p_vn": "chi phi khong the hoan lai.",
+                                    "_id": "55db399305625a14707d64b918afc08f",
+                                    "id": 101379,
+                                    "type": "e_cnvi",
+                                    "e": "费用概不退还。",
+                                    "p_cn": "feiyong gai bu tuihuan.",
+                                    "p": "fèiyòng gài bù tuìhuán."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tổng quát; khái quát",
+                            "explain": "概括，总括",
+                            "examples": [
+                                {
+                                    "m": "Khái quát tình hình một chút",
+                                    "p_vn": "khai quat tinh hinh mot chut",
+                                    "_id": "55db399305625a14707d64b918afdcc1",
+                                    "id": 101383,
+                                    "type": "e_cnvi",
+                                    "e": "概说一下情况。",
+                                    "p_cn": "gai shuo yixia qingkuang.",
+                                    "p": "gài shuō yīxià qíngkuàng."
+                                },
+                                {
+                                    "m": "Khái quát nội dung một chút.",
+                                    "p_vn": "khai quat noi dung mot chut.",
+                                    "_id": "55db399305625a14707d64b918b02d1c",
+                                    "id": 101394,
+                                    "type": "e_cnvi",
+                                    "e": "把内容概一下。",
+                                    "p_cn": "ba neirong gai yixia.",
+                                    "p": "bǎ nèiróng gài yīxià."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tổng thể; tổng quát",
+                            "explain": "概括",
+                            "examples": [
+                                {
+                                    "m": "Bản đồ này nhìn tổng quan cả thành phố.",
+                                    "p_vn": "ban do nay nhin tong quan ca thanh pho.",
+                                    "_id": "55db399305625a14707d64b918b1c611",
+                                    "id": 101442,
+                                    "type": "e_cnvi",
+                                    "e": "地图概览全城。",
+                                    "p_cn": "ditu gailan quan cheng.",
+                                    "p": "dìtú gàilǎn quán chéng."
+                                },
+                                {
+                                    "m": "Cuốn sách này tóm lược lịch sử.",
+                                    "p_vn": "cuon sach nay tom luoc lich su.",
+                                    "_id": "55db399305625a14707d64b918b1cbed",
+                                    "id": 101443,
+                                    "type": "e_cnvi",
+                                    "e": "这本书概述历史。",
+                                    "p_cn": "zhe ben shu gaishu lishi.",
+                                    "p": "zhè běn shū gàishù lìshǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 49,
+                "search": 3513
+            },
+            "snym": null,
+            "cn_vi": "khái.hị",
+            "pinyin": "gài",
+            "word": "概",
+            "id": 18208,
+            "phonetic": "gai",
+            "rank": 3410,
+            "lv_tocfl": 5,
+            "compound": "概观 ; 概况 ; 概括 ; 概览 ; 概率 ; 概略 ; 概论 ; 概貌 ; 概念 ; 概念化 ; 概莫能外 ; 概述 ; 概数 ; 概算 ; 概要"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄕㄨˋ",
+            "_id": "840f276428c9b5572476b731fe3e3c16",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tường thuật tóm lược; tường thuật tóm tắt; tóm tắt; tổng kết, khái quát; nói qua",
+                            "explain": "大略地叙述",
+                            "examples": [
+                                {
+                                    "m": "người tham dự tường thuật vắn tắt quá trình phát triển của sự việc",
+                                    "p_vn": "nguoi tham du tuong thuat van tat qua trinh phat trien cua su viec",
+                                    "_id": "bcb812124c0f2fb19455bed8d2b60392",
+                                    "id": 12858,
+                                    "type": "e_cnvi",
+                                    "e": "当事人概述了事态的发展过程。",
+                                    "p_cn": "dangshiren gai shu liao shitai de fa zhan guocheng",
+                                    "p": "dāngshìrén gài shù liǎo shìtài de fǎ zhǎn guòchéng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 44,
+                "search": 918
+            },
+            "snym": {
+                "syno": [
+                    "概括",
+                    "概况",
+                    "浅谈"
+                ],
+                "anto": [
+                    "详述",
+                    "描述"
+                ]
+            },
+            "cn_vi": "khái thuật",
+            "pinyin": "gàishù",
+            "word": "概述",
+            "id": 18222,
+            "phonetic": "gaishu",
+            "rank": 10500,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄌㄢˇ",
+            "_id": "c22dc67bc3d63bd5cf9b54275926aebc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "nhìn chung; tình hình chung",
+                            "explain": "概观 (多用于手册一类的书名)",
+                            "examples": [
+                                {
+                                    "m": "tình hình chung Thượng Hải.",
+                                    "p_vn": "tinh hinh chung thuong hai.",
+                                    "_id": "8ce8f58987b2437f9137c57b97138209",
+                                    "id": 12845,
+                                    "type": "e_cnvi",
+                                    "e": "《上海概览》",
+                                    "p_cn": "\"shanghai gailan\"",
+                                    "p": "“Shànghǎi gàilǎn”"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 117
+            },
+            "snym": null,
+            "cn_vi": "khái lãm",
+            "pinyin": "gàilǎn",
+            "word": "概览",
+            "id": 18213,
+            "phonetic": "gailan",
+            "rank": 38317,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄙㄨㄢˋ",
+            "_id": "f0d975e729f04dee7db7c79019bf1202",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dự toán; dự thảo ngân sách; tính phỏng; khái toán",
+                            "explain": "编制预算以前对收支指标所提出的大概数字，预算就是这个数字的基础上，经过进一步的详细计算而编制出来的",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 59
+            },
+            "snym": null,
+            "cn_vi": "khái toán",
+            "pinyin": "gàisuàn",
+            "word": "概算",
+            "id": 18224,
+            "phonetic": "gaisuan",
+            "rank": 53836,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄈㄢˋ",
+            "_id": "a4a035318d37894379290f0757ea8dd9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kiểu; mẫu; mô hình",
+                            "explain": "模型;模特儿",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "khái phạm",
+            "pinyin": "gài fàn",
+            "word": "概范",
+            "id": 18209,
+            "phonetic": "gaifan",
+            "rank": 130429,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄌㄩˋ",
+            "_id": "e7b1691900de63f70d9c2bb85bd5cb97",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xác suất; tỉ lệ",
+                            "explain": "某种事件在同一条件下可能发生也可能不发生，表示发生的可能性大小的量叫做概率例如在一般情况下，一个鸡蛋孵出的小鸡是雌性或雄性的概率都是1/2也叫几率，旧称或然率",
+                            "examples": [
+                                {
+                                    "m": "Xác suất đạt được thỏa thuận hòa bình là không.",
+                                    "p_vn": "xac suat dat duoc thoa thuan hoa binh la khong.",
+                                    "_id": "178950e6ce5b41c488602107401cc69d",
+                                    "id": 73374,
+                                    "type": "e_cnvi",
+                                    "e": "达成和平协定的概率是零。",
+                                    "p_cn": "dacheng heping xieding de gailǜ shi ling",
+                                    "p": "dáchéng hépíng xiédìng de gàilǜ shì líng"
+                                },
+                                {
+                                    "m": "Tỷ lệ thành công chỉ 10%.",
+                                    "p_vn": "ty le thanh cong chi 10%.",
+                                    "_id": "c0fb569df3556ccddfe64048669849ca",
+                                    "id": 88258,
+                                    "type": "e_cnvi",
+                                    "e": "成功的概率只有10%。",
+                                    "p_cn": "chenggong de gailǜ zhiyou 10%.",
+                                    "p": "chénggōng de gàilǜ zhǐyǒu 10%."
+                                },
+                                {
+                                    "m": "Tỷ lệ có mưa khoảng 50% đến 60%.",
+                                    "p_vn": "ty le co mua khoang 50% den 60%.",
+                                    "_id": "c0fb569df3556ccddfe64048669857eb",
+                                    "id": 88259,
+                                    "type": "e_cnvi",
+                                    "e": "下雨的概率为50%到60%。",
+                                    "p_cn": "xia yu de gailǜ wei 50%dao 60%.",
+                                    "p": "xià yǔ de gàilǜ wèi 50%dào 60%."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 140,
+                "search": 1154
+            },
+            "snym": {
+                "syno": [
+                    "几率",
+                    "频率"
+                ]
+            },
+            "cn_vi": "khái suất",
+            "pinyin": "gàilǜ",
+            "word": "概率",
+            "id": 18214,
+            "phonetic": "gailu",
+            "rank": 8776,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄒㄧㄥˊ",
+            "_id": "532944096dcb4b55a2e496367f053dcd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lược đồ (trong hình học đại số)",
+                            "explain": "scheme (in algebraic geometry)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "khái hình",
+            "pinyin": "gài xíng",
+            "word": "概形",
+            "id": 103735,
+            "phonetic": "gaixing",
+            "rank": 148885,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8f048c89953748aa93a031a7ea48639c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giận hờn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phẫn khái",
+            "pinyin": "fèn gài",
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "word": "愤概",
+            "id": 175506,
+            "phonetic": "fengai",
+            "rank": 111548,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄜˋ",
+            "_id": "b15ea0a1325dbc40efef12f5d5c24675",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "tóm tắt; tóm lược; sơ lược; đại thể; nét chính; đề cương",
+                            "explain": "大概情况",
+                            "examples": [
+                                {
+                                    "m": "đây chỉ là tóm tắt của toàn bộ câu chuyện, tình tiết tỉ mỉ có thể xem trong nguyên bản.",
+                                    "p_vn": "day chi la tom tat cua toan bo cau chuyen, tinh tiet ti mi co the xem trong nguyen ban.",
+                                    "_id": "eeafefea61d6ed408e79f119e8dc7712",
+                                    "id": 12846,
+                                    "type": "e_cnvi",
+                                    "e": "这只是整个故事的概略，详细情节可以看原书。",
+                                    "p_cn": "zhe zhishi zhengge gushi de gailue, xiangxi qingjie keyi kan yuan shu.",
+                                    "p": "zhè zhǐshì zhěnggè gùshì de gàilüè, xiángxì qīngjié kěyǐ kàn yuán shū."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "điểm chính; đại thể",
+                            "explain": "简单扼要;大致",
+                            "examples": [
+                                {
+                                    "m": "giới thiệu những điểm chính.",
+                                    "p_vn": "gioi thieu nhung diem chinh",
+                                    "_id": "078aafa43300de69bd9598f6efa4e91c",
+                                    "id": 12847,
+                                    "type": "e_cnvi",
+                                    "e": "概略介绍",
+                                    "p_cn": "gailue jieshao",
+                                    "p": "gàilüè jièshào"
+                                },
+                                {
+                                    "m": "nói những điểm chính",
+                                    "p_vn": "noi nhung diem chinh",
+                                    "_id": "e409a5d63ecf10cf650e916ac73cd431",
+                                    "id": 12848,
+                                    "type": "e_cnvi",
+                                    "e": "概略说明",
+                                    "p_cn": "gailue shuoming",
+                                    "p": "gàilüè shuōmíng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sảo lược",
+                            "explain": "粗粗地; 大略; 不精确",
+                            "examples": []
+                        },
+                        {
+                            "mean": "khái",
+                            "explain": "大致的情况或内容",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 145
+            },
+            "snym": {
+                "syno": [
+                    "粗略",
+                    "概况",
+                    "扼要",
+                    "大体",
+                    "大概",
+                    "简略",
+                    "梗概",
+                    "不详",
+                    "简单",
+                    "大要",
+                    "简断"
+                ],
+                "anto": [
+                    "详情",
+                    "详细"
+                ]
+            },
+            "cn_vi": "khái lược",
+            "pinyin": "gàilüè",
+            "word": "概略",
+            "id": 18215,
+            "phonetic": "gailue",
+            "rank": 34110,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄍㄞˋ",
+            "_id": "e55b44071347c53ddce1260a628ee4fa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "nhất loạt; hết thảy; đều; tất thảy; chung cả; tất cả; đủ cả; cả",
+                            "explain": "副词，表示适用于全体，没有例外",
+                            "examples": [
+                                {
+                                    "m": "Hết hạn đều huỷ đi.",
+                                    "p_vn": "het han deu huy di.",
+                                    "_id": "29ab178e4672fecb8a79920be74e3350",
+                                    "id": 44737,
+                                    "type": "e_cnvi",
+                                    "e": "过期一概作废。",
+                                    "p_cn": "guoqi yigai zuofei。",
+                                    "p": "guòqī yīgài zuòfèi。"
+                                },
+                                {
+                                    "m": "Sách tham khảo mới xuất bản, thư viện chúng tôi đều mua hết.",
+                                    "p_vn": "sach tham khao moi xuat ban, thu vien chung toi deu mua het.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7a4ed2c",
+                                    "id": 89873,
+                                    "type": "e_cnvi",
+                                    "e": "新出的教学参考书，我们图书馆一概购买。",
+                                    "p_cn": "xin chu de jiaoxue cankao shu, women tushu guan yigai goumai.",
+                                    "p": "xīn chū de jiàoxué cānkǎo shū, wǒmen túshū guǎn yīgài gòumǎi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Cả hai từ đều là phó từ chỉ phạm vi, biểu thị toàn bộ.\nKhông thể sử dụng trong câu chữ \"把\"\nKhác:\n- \"一律\" vừa là phó từ vừa là tính từ, có thể dùng làm trạng từ hoặc vị ngữ; còn \"一概\" là phó từ, chỉ có thể dùng làm trạng từ.\n- \"一律\" có thể chỉ người hoặc chỉ vật; \"一概\" chỉ có thể chỉ vật chứ không chỉ người.",
+                    "title": "Phân biệt \"一概\" và \"一律\"",
+                    "words": [
+                        "一概",
+                        "一律"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "统统",
+                    "齐备",
+                    "划一",
+                    "全部",
+                    "美满",
+                    "一律",
+                    "一致",
+                    "一切",
+                    "绝对",
+                    "万万",
+                    "十足",
+                    "全体",
+                    "完全",
+                    "同等"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yīgài",
+            "cn_vi": "nhất khái",
+            "popularity": {
+                "notebook": 66,
+                "search": 1041
+            },
+            "word": "一概",
+            "id": 59146,
+            "phonetic": "yigai",
+            "rank": 9526,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄇㄠˋ",
+            "_id": "fd62fe22bcbb491cc9e7cd685241d8da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình chung; tình hình khái quát; nét chung; nét chính; tổng quát",
+                            "explain": "大概的状况",
+                            "examples": [
+                                {
+                                    "m": "tình hình khái quát của những thành phố ven biển.",
+                                    "p_vn": "tinh hinh khai quat cua nhung thanh pho ven bien",
+                                    "_id": "d535ec823d02ebf39ce288f6f974f469",
+                                    "id": 12851,
+                                    "type": "e_cnvi",
+                                    "e": "沿海城市概貌",
+                                    "p_cn": "yanhai chengshi gaimao",
+                                    "p": "yánhǎi chéngshì gàimào"
+                                },
+                                {
+                                    "m": "tình hình khái quát về địa hình.",
+                                    "p_vn": "tinh hinh khai quat ve dia hinh",
+                                    "_id": "fa202d9beadb79398e3c0d604a3e9245",
+                                    "id": 12852,
+                                    "type": "e_cnvi",
+                                    "e": "地形概貌",
+                                    "p_cn": "dixing gaimao",
+                                    "p": "dìxíng gàimào"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 68
+            },
+            "snym": {
+                "syno": [
+                    "概况"
+                ]
+            },
+            "cn_vi": "khái mạo",
+            "pinyin": "gàimào",
+            "word": "概貌",
+            "id": 18217,
+            "phonetic": "gaimao",
+            "rank": 50455,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2739a84a19384ab18c00dbb79a9a3acc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khái thuyết",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khái thuyết",
+            "pinyin": "gài shuō",
+            "popularity": {
+                "notebook": 1,
+                "search": 91
+            },
+            "word": "概说",
+            "id": 184069,
+            "phonetic": "gaishuo",
+            "rank": 43522,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄥˇㄍㄞˋ",
+            "_id": "722c71af4d8228b24528bc293ce4f436",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đại khái; nội dung chính; những nét chính; cốt truyện",
+                            "explain": "大略的内容",
+                            "examples": [
+                                {
+                                    "m": "những nét chính của câu chuyện",
+                                    "p_vn": "nhung net chinh cua cau chuyen",
+                                    "_id": "e4c9def735e83d14c0b0ba19808f171c",
+                                    "id": 13862,
+                                    "type": "e_cnvi",
+                                    "e": "故事梗概",
+                                    "p_cn": "gushi genggai",
+                                    "p": "gùshìgěnggài"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 218
+            },
+            "snym": {
+                "syno": [
+                    "大意",
+                    "概况",
+                    "概略",
+                    "大体",
+                    "大致",
+                    "大概",
+                    "大约",
+                    "大抵",
+                    "约略",
+                    "大略",
+                    "大要"
+                ],
+                "anto": [
+                    "细节"
+                ]
+            },
+            "cn_vi": "ngạnh khái",
+            "pinyin": "gěnggài",
+            "word": "梗概",
+            "id": 19462,
+            "phonetic": "genggai",
+            "rank": 26917,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˊㄍㄞˋ",
+            "_id": "caa6ba374a0911284065c78e71782c93",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khí khái; phẩm hạnh",
+                            "explain": "操守和气概",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tiết khái",
+            "pinyin": "jié gài",
+            "word": "节概",
+            "id": 29511,
+            "phonetic": "jiegai",
+            "rank": 135034,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄧㄠˋ",
+            "_id": "70143b6519a9022fe48d933579bd5096",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "yếu lược; đại cương; cốt yếu; chủ yếu (thường dùng làm tên sách)",
+                            "explain": "重要内容的大概 (多用于书名)",
+                            "examples": [
+                                {
+                                    "m": "Đại cương lịch sử văn học Trung Quốc.",
+                                    "p_vn": "dai cuong lich su van hoc trung quoc.",
+                                    "_id": "fe58c09e83e1a0e95f4f19fbf419839e",
+                                    "id": 12859,
+                                    "type": "e_cnvi",
+                                    "e": "《中国文学史概要》",
+                                    "p_cn": "\"zhongguo wenxue shi gaiyao\"",
+                                    "p": "“Zhōngguó wénxué shǐ gàiyào”"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vắn tắt",
+                            "explain": "(言语、文章的内容) 简单; 不详细",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 251
+            },
+            "snym": {
+                "syno": [
+                    "摘要",
+                    "择要",
+                    "撮要",
+                    "纲要",
+                    "提要",
+                    "纲领",
+                    "大纲"
+                ],
+                "anto": [
+                    "详细",
+                    "细目",
+                    "详述"
+                ]
+            },
+            "cn_vi": "khái yếu",
+            "pinyin": "gàiyào",
+            "word": "概要",
+            "id": 18226,
+            "phonetic": "gaiyao",
+            "rank": 24750,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "36, 64, 71",
+            "zhuyin": "ㄑㄧˋㄍㄞˋ",
+            "_id": "103f5b5f830fc33d9df69484ceeeba30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khí khái; khí phách",
+                            "explain": "在对待严重问题上表现的态度、举动或气势 (专指正直、豪迈的); 刚强不屈的气概",
+                            "examples": [
+                                {
+                                    "m": "giai cấp vô sản có khí phách anh hùng chiến thắng tất cả mọi khó khăn.",
+                                    "p_vn": "giai cap vo san co khi phach anh hung chien thang tat ca moi kho khan",
+                                    "_id": "0e66d4cb17e82aba225b16f313a88b67",
+                                    "id": 31757,
+                                    "type": "e_cnvi",
+                                    "e": "无产阶级有战胜一切困难的英雄气概。",
+                                    "p_cn": "wuchan jieji you zhansheng yiqie kunnan de yingxiong qigai",
+                                    "p": "wúchǎnjiējí yǒu zhànshèng yīqiē kùnnán de yīngxióngqìgài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 65,
+                "search": 467
+            },
+            "snym": {
+                "syno": [
+                    "气势",
+                    "派头",
+                    "风致",
+                    "风格",
+                    "魄力",
+                    "气魄",
+                    "气派",
+                    "品格",
+                    "气迫",
+                    "意气",
+                    "力势"
+                ],
+                "anto": [
+                    "猥琐"
+                ]
+            },
+            "cn_vi": "khí khái",
+            "pinyin": "qìgài",
+            "lv_hsk_new": "6",
+            "word": "气概",
+            "id": 42058,
+            "phonetic": "qigai",
+            "rank": 16685,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄕㄨˋ",
+            "_id": "67786f983026b3411ab6e2262f8166a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "số xấp xỉ; số ước lượng",
+                            "explain": "大概的数目或者用几、多、来、左右、上下等来表示，如几年、三斤多米、十来天、一百步左右、四十岁上下;或者拿数词连用来表示，如三五个、一两天、七八十人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 353
+            },
+            "snym": {
+                "anto": [
+                    "确数"
+                ]
+            },
+            "cn_vi": "khái số",
+            "pinyin": "gàishù",
+            "word": "概数",
+            "id": 18223,
+            "phonetic": "gaishu",
+            "rank": 19959,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄍㄨㄢ",
+            "_id": "ea08de67fabaae67d83bba5e10161abe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhìn chung; nhìn bao quát; nhìn tổng quát; tình hình chung (thường dùng làm tên sách), tổng quan; khái quan",
+                            "explain": "概括的观察;概况 (多用于书名)",
+                            "examples": [
+                                {
+                                    "m": "tình hình chung của thị trường.",
+                                    "p_vn": "tinh hinh chung cua thi truong.",
+                                    "_id": "eaa6493d3eb9df1fb389704aa7031578",
+                                    "id": 12840,
+                                    "type": "e_cnvi",
+                                    "e": "市场概观",
+                                    "p_cn": "shichang gaiguān",
+                                    "p": "shìcháng gàiguān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 106
+            },
+            "snym": null,
+            "cn_vi": "khái quan",
+            "pinyin": "gàiguān",
+            "word": "概观",
+            "id": 18210,
+            "phonetic": "gaiguan",
+            "rank": 40408,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "zhuyin": "ㄍㄞˋㄋㄧㄢˋ",
+            "topic": "4, 11, 16",
+            "_id": "11bda970fc26220f0bc6a781f6bf834b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "\"概念\" vai trò trung tâm ngữ",
+                            "examples": [
+                                133338,
+                                133339,
+                                137727
+                            ],
+                            "struct": "Định ngữ + (的) + 概念"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khái niệm; ý niệm",
+                            "explain": "一种思维形式。能概括出某种事物的共同特点的词语",
+                            "examples": [
+                                {
+                                    "m": "Khái niệm của từ này là gì?",
+                                    "p_vn": "khai niem cua tu nay la gi?",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c2dce7c",
+                                    "id": 133335,
+                                    "type": "e_cnvi",
+                                    "e": "这个词的概念是什么？",
+                                    "p_cn": "zhege ci de gainian shi shenme?",
+                                    "p": "zhège cí de gàiniàn shì shénme?"
+                                },
+                                {
+                                    "m": "Anh ấy không hiểu khái niệm này.",
+                                    "p_vn": "anh ay khong hieu khai niem nay.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c2ddb3c",
+                                    "id": 133336,
+                                    "type": "e_cnvi",
+                                    "e": "他不懂这个概念。",
+                                    "p_cn": "ta bu dong zhege gainian.",
+                                    "p": "tā bù dǒng zhège gàiniàn."
+                                },
+                                {
+                                    "m": "Khái niệm này rất quan trọng.",
+                                    "p_vn": "khai niem nay rat quan trong.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c2de2b0",
+                                    "id": 133337,
+                                    "type": "e_cnvi",
+                                    "e": "这个概念很重要。",
+                                    "p_cn": "zhege gainian hen zhongyao.",
+                                    "p": "zhège gàiniàn hěn zhòngyào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 310,
+                "search": 2929
+            },
+            "snym": {
+                "anto": [
+                    "实体,实际"
+                ],
+                "syno": [
+                    "观念,理念,定义,范畴,想法"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "gàiniàn",
+            "cn_vi": "khái niệm",
+            "word": "概念",
+            "id": 18219,
+            "phonetic": "gainian",
+            "rank": 4050,
+            "lv_tocfl": 3,
+            "compound": "概念化 ; 概念验证 ; 基本概念 ; 具体概念 ; 概念股 ; 概念车 ; 人工概念 ; 上位概念"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "38",
+            "zhuyin": "ㄍㄞˋㄌㄨㄣˋ",
+            "_id": "b39199ea17a3c5d368b4b5d195aa927a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khái luận; đại cương; lời giới thiệu; lời mở đầu; lời tựa (thường dùng làm tên sách)",
+                            "explain": "概括的论述 (多用于书名)",
+                            "examples": [
+                                {
+                                    "m": "khái luận về địa chất học",
+                                    "p_vn": "khai luan ve dia chat hoc",
+                                    "_id": "98936af6bebebd650e0edf6fac347653",
+                                    "id": 12849,
+                                    "type": "e_cnvi",
+                                    "e": "《地质学概论》",
+                                    "p_cn": "dizhi xue gailun",
+                                    "p": "“dìzhí xué gàilùn”"
+                                },
+                                {
+                                    "m": "khái luận về văn học Trung Quốc",
+                                    "p_vn": "khai luan ve van hoc trung quoc",
+                                    "_id": "bd25efa7ac3c3fda792149103f16c7fe",
+                                    "id": 12850,
+                                    "type": "e_cnvi",
+                                    "e": "《中国文学概论》",
+                                    "p_cn": "\"zhongguo wenxue gailun\"",
+                                    "p": "“Zhōngguó wénxué gàilùn”"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 428
+            },
+            "snym": null,
+            "cn_vi": "khái luận",
+            "pinyin": "gàilùn",
+            "word": "概论",
+            "id": 18216,
+            "phonetic": "gailun",
+            "rank": 17598,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "adj"
+            ],
+            "measure": null,
+            "topic": "13",
+            "zhuyin": "ㄍㄞˋㄎㄨㄛˋ",
+            "_id": "71ecd76963e19fd061c4b5aafa6fcbb9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                81147,
+                                81148
+                            ],
+                            "struct": "概括 + Tân ngữ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khái quát; tổng quát; nhìn chung; tóm tắt",
+                            "explain": "把事物的共同特点归结在一起;总括; 归拢并使有条理 (多用于抽象事物)",
+                            "examples": [
+                                {
+                                    "m": "biện pháp của các tổ tuy không giống nhau nhưng nhìn chung không ngoài hai cách.",
+                                    "p_vn": "bien phap cua cac to tuy khong giong nhau nhung nhin chung khong ngoai hai cach.",
+                                    "_id": "c75b1d6b2d0678546febb7794437e886",
+                                    "id": 12843,
+                                    "type": "e_cnvi",
+                                    "e": "各小组的办法虽然都不一样，但概括起来不外两种。",
+                                    "p_cn": "ge xiaozu de banfa suiran dou bu yiyang, dan gaikuo qilai bu wai liang zhong.",
+                                    "p": "gè xiǎozǔ de bànfǎ suīrán dōu bù yīyàng, dàn gàikuò qǐlái bu wài liǎng zhǒng."
+                                },
+                                {
+                                    "m": "tóm tắt một số đặc điểm chung.",
+                                    "p_vn": "tom tat mot so dac diem chung.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3a3815c",
+                                    "id": 81145,
+                                    "type": "e_cnvi",
+                                    "e": "概括出一些共同特点。",
+                                    "p_cn": "gaikuo chu yixie gongtong tedian.",
+                                    "p": "gàikuò chū yīxiē gòngtóng tèdiǎn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                81149,
+                                81150
+                            ],
+                            "struct": "概括 + 地 + Động từ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                81151,
+                                81152
+                            ],
+                            "struct": "概括 + 的 + Động từ"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tóm tắt; tóm lược (chú trọng ý chính)",
+                            "explain": "简单扼要",
+                            "examples": [
+                                {
+                                    "m": "anh ấy đã nói tóm tắt một lượt câu chuyện của vở kịch này.",
+                                    "p_vn": "anh ay da noi tom tat mot luot cau chuyen cua vo kich nay.",
+                                    "_id": "3d9eaad958a74fec434705d6bc3f7b92",
+                                    "id": 12844,
+                                    "type": "e_cnvi",
+                                    "e": "他把剧本的故事向大家概括地说了一遍。",
+                                    "p_cn": "ta ba juben de gushi xiang dajia gaikuo de shuole yibian.",
+                                    "p": "tā bǎ jùběn de gùshì xiàng dàjiā gàikuò de shuōle yībiàn."
+                                },
+                                {
+                                    "m": "nói chuyện rất tóm lược.",
+                                    "p_vn": "noi chuyen rat tom luoc.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3a384ff",
+                                    "id": 81146,
+                                    "type": "e_cnvi",
+                                    "e": "谈得很概括。",
+                                    "p_cn": "tan de hen gaikuo.",
+                                    "p": "tán dé hěn gàikuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 265,
+                "search": 2517
+            },
+            "snym": {
+                "syno": [
+                    "综合",
+                    "总结",
+                    "概述",
+                    "轮廓",
+                    "详细",
+                    "归纳",
+                    "抽象"
+                ],
+                "anto": [
+                    "空洞",
+                    "具体",
+                    "笼统",
+                    "详尽"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "gàikuò",
+            "cn_vi": "khái quát",
+            "word": "概括",
+            "id": 18212,
+            "phonetic": "gaikuo",
+            "rank": 4573,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄊㄨˊ",
+            "_id": "efa7f1a2052249fc15839f0d8de85d3b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vẽ bóng; in bóng; tô bóng",
+                            "explain": "用来描绘特点或作为辨识用途的轮廓画",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "khái đồ",
+            "pinyin": "gài tú",
+            "word": "概图",
+            "id": 18225,
+            "phonetic": "gaitu",
+            "rank": 92480,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄒㄧㄥˊ",
+            "_id": "21ebbb767e844753b6758aaa7547fe2a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(toán học.) một chương trình",
+                            "explain": "(math.) a scheme",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "khái hình",
+            "pinyin": "gài xíng",
+            "word": "概型",
+            "id": 103734,
+            "phonetic": "gaixing",
+            "rank": 127407,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄠˊㄍㄞˋ",
+            "_id": "7dcaf640e2374f498c3006bc4d1da50f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giới thiệu về chủ nghĩa Mao (chủ đề)",
+                            "explain": "Introduction to Maoism (subject)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "viết tắt cho 毛澤東思想概論 | 毛泽东思想概论",
+                            "explain": "abbr. for 毛澤東思想概論|毛泽东思想概论 [Máo Zé dōng Si1 xiǎng Gài lùn]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "mao khái",
+            "pinyin": "máo gài",
+            "word": "毛概",
+            "id": 97751,
+            "phonetic": "maogai",
+            "rank": 80908,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄎㄨㄤˋ",
+            "_id": "61dc7b437065060d8a98916877526f9c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tình hình chung; tình hình tổng quát; tình hình đại khái; khái huống",
+                            "explain": "大概的情况",
+                            "examples": [
+                                {
+                                    "m": "tình hình chung của cuộc sống.",
+                                    "p_vn": "tinh hinh chung cua cuoc song",
+                                    "_id": "92ce0defdc6aa327f264710f4ec615dc",
+                                    "id": 12841,
+                                    "type": "e_cnvi",
+                                    "e": "生活概况",
+                                    "p_cn": "shenghuo gaikuang",
+                                    "p": "shēnghuó gàikuàng"
+                                },
+                                {
+                                    "m": "tình hình tổng quát về lịch sử Đôn Hoàng.",
+                                    "p_vn": "tinh hinh tong quat ve lich su don hoang",
+                                    "_id": "afce079e3911e08aeb34ce0186f09285",
+                                    "id": 12842,
+                                    "type": "e_cnvi",
+                                    "e": "敦煌历史概况",
+                                    "p_cn": "dunhuang lishi gaikuang",
+                                    "p": "dūnhuáng lìshǐ gàikuàng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 34,
+                "search": 879
+            },
+            "snym": {
+                "syno": [
+                    "概略",
+                    "大概",
+                    "皮相",
+                    "轮廓",
+                    "外貌",
+                    "梗概",
+                    "外表",
+                    "概貌",
+                    "概述"
+                ],
+                "anto": [
+                    "详情",
+                    "详细"
+                ]
+            },
+            "cn_vi": "khái huống",
+            "pinyin": "gàikuàng",
+            "word": "概况",
+            "id": 18211,
+            "phonetic": "gaikuang",
+            "rank": 10815,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄘㄜˋㄈㄚˇ",
+            "_id": "e4d0e094bc5c4c50bc7d4c9ec8592eee",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phương pháp thô và sẵn sàng",
+                            "explain": "rough-and-ready method",
+                            "examples": []
+                        },
+                        {
+                            "mean": "quy tắc ngón tay cái",
+                            "explain": "rule of thumb",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "khái trắc pháp",
+            "pinyin": "gài cè fǎ",
+            "word": "概测法",
+            "id": 112678,
+            "phonetic": "gaicefa",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0f6548b1f9b545d4a1f3e37bc19913b7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "phác",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khái lược địa",
+            "pinyin": "gàilüè de",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "概略地",
+            "id": 174662,
+            "phonetic": "gailuede",
+            "rank": 158107,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄋㄧㄢˋㄏㄨㄚˋ",
+            "_id": "a88a4c1b0a0661c8f13ee94f4f40e784",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khái niệm; khái niệm hoá",
+                            "explain": "指文艺创作中缺乏深刻的具体描写和典型形象的塑造，用抽象概念代替人物个性的不良倾向",
+                            "examples": [
+                                {
+                                    "m": "cần phải khắc phục khuynh hướng khái niệm hoá trong sáng tác văn nghệ.",
+                                    "p_vn": "can phai khac phuc khuynh huong khai niem hoa trong sang tac van nghe",
+                                    "_id": "016e198e7451ef49f269d3636a04e664",
+                                    "id": 12856,
+                                    "type": "e_cnvi",
+                                    "e": "要克服文艺创作中的概念化倾向。",
+                                    "p_cn": "yao kefu wenyi chuangzuo zhong de gainianhua qingxiang",
+                                    "p": "yào kèfú wényìchuàngzuò zhōng de gàiniànhuà qīngxiàng。"
+                                },
+                                {
+                                    "m": "tác phẩm công thức hoá và khái niệm hoá.",
+                                    "p_vn": "tac pham cong thuc hoa va khai niem hoa",
+                                    "_id": "b28f4dcd002acf4e38ccb9b96acb7556",
+                                    "id": 12857,
+                                    "type": "e_cnvi",
+                                    "e": "公式化，概念化的作品。",
+                                    "p_cn": "gongshihua gainianhua de zuopin",
+                                    "p": "gōngshìhuà，gàiniànhuà de zuòpǐn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "khái niệm hoá",
+            "pinyin": "gàiniànhuà",
+            "word": "概念化",
+            "id": 18220,
+            "phonetic": "gainianhua",
+            "rank": 65350,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄋㄧㄢˋㄌㄨㄣˋ",
+            "_id": "4f7241de07963e01d0ecaf7debde3ae9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khái niệm luận",
+                            "explain": "概念论介于唯名论与唯实论之间的一种理论，认为宇宙只存在于内心并没有外在或客观现实",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "khái niệm luận",
+            "pinyin": "gàiniàn lùn",
+            "word": "概念论",
+            "id": 18221,
+            "phonetic": "gainianlun",
+            "rank": 85984,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄎㄨㄛˋㄏㄨㄚˋ",
+            "_id": "ed0beab56efe4245b793767ded585dc0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sự khái quát",
+                            "explain": "generalization",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "khái quát hoá",
+            "pinyin": "gàikuò huà",
+            "word": "概括化",
+            "id": 118640,
+            "phonetic": "gaikuohua",
+            "rank": 95193,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄌㄩˋㄌㄨㄣˋ",
+            "_id": "fa08c8627f594cd9b0a40eef08aa2cd8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xác suất (toán học.)",
+                            "explain": "probability (math.)",
+                            "examples": [
+                                {
+                                    "m": "Tôi rất tin tưởng vào luật xác suất.",
+                                    "p_vn": "Toi rat tin tuong vao luat xac suat.",
+                                    "_id": "98ae9be67ffd46a3a7c64489805113f9",
+                                    "id": 61266,
+                                    "type": "e_cnvi",
+                                    "e": "我非常信奉概率论",
+                                    "p_cn": "wo feichang xinfeng gailvlun",
+                                    "p": "wǒ fēicháng xìnfèng gàilv̀lùn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "khái suất luận",
+            "pinyin": "gàilǜ lùn",
+            "word": "概率论",
+            "id": 122288,
+            "phonetic": "gailulun",
+            "rank": 74243,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄡㄏㄨㄢˋㄍㄞˋㄋㄧㄢˋ",
+            "_id": "5a15e2d1840b44639b284f4c87f80d0b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đánh tráo khái niệm",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Lu Han đang xem ở đây, anh ta không dám đánh lật lọng, đánh tráo khái niệm, đành phải kể lại toàn bộ câu chuyện một cách chi tiết.",
+                                    "p_vn": "lu han dang xem o day, anh ta khong dam danh lat long, danh trao khai niem, danh phai ke lai toan bo cau chuyen mot cach chi tiet.",
+                                    "_id": "36d9946bf7a5468d93851501fcfc2893",
+                                    "id": 68572,
+                                    "type": "e_cnvi",
+                                    "e": "陆寒在这里看着,他也不敢偷换概念的讲述,只好将事情原委仔仔细细的说了一遍。",
+                                    "p_cn": "lu han zai zheli kanzhe, ta ye bu gan tou huan gainian de jiangshu, zhihao jiang shiqing yuanwei zi zixi xi de shuole yibian.",
+                                    "p": "Lù hán zài zhèlǐ kànzhe, tā yě bù gǎn tōu huàn gàiniàn de jiǎngshù, zhǐhǎo jiāng shìqīng yuánwěi zǐ zǐxì xì de shuōle yībiàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 70
+            },
+            "snym": {
+                "syno": [
+                    "以假乱真",
+                    "偷梁换柱"
+                ]
+            },
+            "cn_vi": "thâu hoán khái niệm",
+            "pinyin": "tōu huàn gàiniàn",
+            "word": "偷换概念",
+            "id": 154311,
+            "phonetic": "touhuangainian",
+            "rank": 49565,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄍㄞˋㄦˊㄌㄨㄣˋ",
+            "_id": "31fe343d10b6f46b95bed76a305cdede",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "quơ đũa cả nắm; nhất loạt như nhau (thường dùng trong câu phủ định)",
+                            "explain": "用同一标准来对待或处理 (多用于否定)",
+                            "examples": [
+                                {
+                                    "m": "không thể quơ đũa cả nắm.",
+                                    "p_vn": "khong the quo dua ca nam",
+                                    "_id": "7f1e6a9aae95831a9ba6894f15cc68ce",
+                                    "id": 44738,
+                                    "type": "e_cnvi",
+                                    "e": "不能一概而论",
+                                    "p_cn": "buneng yigaierlun",
+                                    "p": "bùnéng yīgàiérlùn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 85,
+                "search": 716
+            },
+            "snym": {
+                "syno": [
+                    "相提并论",
+                    "同日而语",
+                    "等量齐观",
+                    "以偏概全",
+                    "混为一谈",
+                    "一褱而论",
+                    "一笔抹煞",
+                    "以点带面",
+                    "相提而论",
+                    "一概而言"
+                ],
+                "anto": [
+                    "天壤之别",
+                    "明辨是非",
+                    "因时制宜",
+                    "另当别论"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yīgài'érlùn",
+            "cn_vi": "nhất khái nhi luận",
+            "word": "一概而论",
+            "id": 59147,
+            "phonetic": "yigai'erlun",
+            "rank": 12527,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "13",
+            "zhuyin": "ㄧˇㄆㄧㄢㄍㄞˋㄑㄩㄢˊ",
+            "_id": "42bae309915b438998359c4f8d6bc1ce",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Suy nghĩ áp đặt 1 cách phiến diện",
+                            "explain": "1932年陈望道《修辞学发凡》：“免得被那些以偏概全或不切不实的零言碎语所迷惑。”",
+                            "examples": [
+                                {
+                                    "m": "Nhìn nhận vấn đề bằng suy nghĩ áp đặt thì chẳng khác gì người mù sờ voi, sẽ không hiểu được đúng kiến thức.",
+                                    "p_vn": "Nhin nhan van de bang suy nghi ap dat thi chang khac gi nguoi mu so voi, se khong hieu duoc dung kien thuc.",
+                                    "_id": "792e065793894150b3ad6df4411ccf31",
+                                    "id": 54851,
+                                    "type": "e_cnvi",
+                                    "e": "看问题时以偏概全,那就像盲人摸象一样,是得不到正确认识的。",
+                                    "p_cn": "Kan wenti shi yi pian gai quan, na jiu xiang mangrenmoxiang yiyang, shi de bu dao zhengque renshi de.",
+                                    "p": "Kàn wèntí shí yǐ piān gài quán, nà jiù xiàng mángrénmōxiàng yīyàng, shì dé bù dào zhèngquè rènshí de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 33,
+                "search": 157
+            },
+            "snym": {
+                "syno": [
+                    "一孔之见",
+                    "以管窥天",
+                    "一概而论",
+                    "一叶障目",
+                    "以点带面",
+                    "一隅之见"
+                ],
+                "anto": [
+                    "就事论事"
+                ]
+            },
+            "cn_vi": "dĩ thiên khái toàn",
+            "pinyin": "yǐ piān gài quán",
+            "word": "以偏概全",
+            "id": 84130,
+            "phonetic": "yipiangaiquan",
+            "rank": 32535,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢㄧㄢˋㄍㄞˋㄌㄩˋ",
+            "_id": "6c9455601e3e4a9f9c8fe8384e426b91",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xác suất trước (thống kê)",
+                            "explain": "prior probability (statistics)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "tiên nghiệm khái suất",
+            "pinyin": "xiān yàn gàilǜ",
+            "word": "先验概率",
+            "id": 138770,
+            "phonetic": "xianyangailu",
+            "rank": 153601,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄧㄠˊㄐㄧㄢˋㄍㄞˋㄌㄩˋ",
+            "_id": "318601e9bd694f32acf7fcf913613d01",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xác suất có điều kiện",
+                            "explain": "conditional probability",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "điều kiện khái suất",
+            "pinyin": "tiáojiàn gàilǜ",
+            "word": "条件概率",
+            "id": 140746,
+            "phonetic": "tiaojiangailu",
+            "rank": 137513,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄤˋㄨㄟˋㄍㄞˋㄋㄧㄢˋ",
+            "_id": "df67a23a61794f58a1db5f82b2fb6b02",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khái niệm siêu sắp xếp",
+                            "explain": "superordinate concept",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "thượng vị khái niệm",
+            "pinyin": "shàngwèi gàiniàn",
+            "word": "上位概念",
+            "id": 140281,
+            "phonetic": "shangweigainian",
+            "rank": 106119,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄇㄛˋㄋㄥˊㄨㄞˋ",
+            "_id": "be493e46b3c4ee9d076d11e2d009f4a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "không có ngoại lệ",
+                            "explain": "一概不能超出这个范围;一概不能例外",
+                            "examples": [
+                                {
+                                    "m": "đây là những đạo lý chung, xưa nay không có ngoại lệ.",
+                                    "p_vn": "day la nhung dao ly chung xua nay khong co ngoai le",
+                                    "_id": "0752f55f5fa6bcec78298fbb561a9c83",
+                                    "id": 12853,
+                                    "type": "e_cnvi",
+                                    "e": "这是共同的道理，古今中外概莫能外。",
+                                    "p_cn": "zhe shi gongtong de daoli gujin zhongwai gaimonengwai",
+                                    "p": "zhèshì gòngtóng de dàolǐ，gǔjīnzhōngwài gàimònéngwài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 40
+            },
+            "snym": {
+                "syno": [
+                    "毫无例外",
+                    "无一例外",
+                    "毫不例外"
+                ]
+            },
+            "cn_vi": "khái mạc năng ngoại",
+            "pinyin": "gàimònéngwài",
+            "word": "概莫能外",
+            "id": 18218,
+            "phonetic": "gaimonengwai",
+            "rank": 63866,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄍㄨㄥㄍㄞˋㄋㄧㄢˋ",
+            "_id": "67e4b968a1e64fccbd429e4eece65bf7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khái niệm nhân tạo",
+                            "explain": "artificial concept",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "nhân công khái niệm",
+            "pinyin": "réngōng gàiniàn",
+            "word": "人工概念",
+            "id": 138695,
+            "phonetic": "rengonggainian",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "51",
+            "zhuyin": "ㄋㄢˊㄗ˙ㄑㄧˋㄍㄞˋ",
+            "_id": "53c0133c6a134132927b11284cfd27b5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nam tính",
+                            "explain": "manliness; masculinity",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 52
+            },
+            "snym": null,
+            "cn_vi": "nam tử khí khái",
+            "pinyin": "nánzǐ qìgài",
+            "word": "男子气概",
+            "id": 130629,
+            "phonetic": "nanziqigai",
+            "rank": 56942,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄦˊㄧㄢˊㄓ",
+            "_id": "adc86632f18049aa9e73b97dcdc5e27e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "giống với 總而言之 | 总而言之",
+                            "explain": "same as 總而言之|总而言之 [zǒng ér yán zhī]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "khái nhi ngôn chi",
+            "pinyin": "gài ér yán zhī",
+            "word": "概而言之",
+            "id": 132477,
+            "phonetic": "gaieryanzhi",
+            "rank": 118723,
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄉㄚˋ",
+            "_id": "d80c976da38cb172a6fb685f6c29e2e0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "rất; quá; cực kỳ; sâu sắc",
+                            "explain": "强调数量很大或程度很深",
+                            "examples": [
+                                {
+                                    "m": "chi tiêu đã vượt quá dự tính.",
+                                    "p_vn": "chi tieu da vuot qua du tinh",
+                                    "_id": "7c7c4307d78df11a5698ab5632a7a7a3",
+                                    "id": 6510,
+                                    "type": "e_cnvi",
+                                    "e": "费用大大超过了预算。",
+                                    "p_cn": "feiyong dada chaoguole yusuan",
+                                    "p": "fèiyòng dàdà chāoguò le yùsuàn。"
+                                },
+                                {
+                                    "m": "trong phòng có thiết bị thông gió, nhiệt độ đã hạ.",
+                                    "p_vn": "trong phong co thiet bi thong gio nhiet do da ha",
+                                    "_id": "e72995764ae89cddeba4120dc71da1a1",
+                                    "id": 6511,
+                                    "type": "e_cnvi",
+                                    "e": "室内有了通风装置，温度大大降低了。",
+                                    "p_cn": "shinei youle tongfeng zhuangzhi wendu dada jiangdile",
+                                    "p": "shìnèi yǒu le tōngfēng zhuāngzhì，wēndù dàdàjiàngdī le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Cả hai đều là phó từ được trùng điệp từ đơn âm tiết.\n- Cả hai đều có thể thêm 地.\nKhác:\n- \"大大\" biểu thị trình độ cao hoặc số lượng lớn, thường tu sức cho động từ song âm tiết, cụm động từ.\n- \"远远\" sau khi được trùng điệp cơ bản nghĩa không thay đổi.\n- \"大大\" dùng trong văn viết.",
+                    "title": "Phân biệt \"大大\" và \"远远\"",
+                    "words": [
+                        "远远",
+                        "大大"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "2",
+            "pinyin": "dàdà",
+            "cn_vi": "đại đại",
+            "popularity": {
+                "notebook": 110,
+                "search": 1220
+            },
+            "word": "大大",
+            "id": 10266,
+            "phonetic": "dada",
+            "rank": 8394,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄒㄧㄥˊㄌㄧˇㄌㄨㄣˋ",
+            "_id": "af6724f45da844f58f60c50f93dc92a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lý thuyết lược đồ (toán học.)",
+                            "explain": "scheme theory (math.)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "khái hình lí luận",
+            "pinyin": "gài xíng lǐlùn",
+            "word": "概型理论",
+            "id": 134925,
+            "phonetic": "gaixinglilun",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄔㄢˇㄆㄧㄣˇㄍㄞˋㄋㄧㄢˋ",
+            "_id": "4670b2bd6c93421aa9cbadf78a9cda68",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Product concept\nconcept sản phẩm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "sản phẩm khái niệm",
+            "pinyin": "Chǎnpǐn gàiniàn",
+            "word": "产品概念",
+            "id": 158186,
+            "phonetic": "Chanpingainian",
+            "rank": 114340,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄦˊㄅㄨˋㄌㄨㄣˋ",
+            "_id": "ef4eab15c278448994347a80737cad3b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mờ về các chi tiết",
+                            "explain": "fuzzy about the details",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "khái nhi bất luận",
+            "pinyin": "gài ér bùlùn",
+            "word": "概而不论",
+            "id": 130459,
+            "phonetic": "gaierbulun",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄋㄧㄢˋㄉㄜ˙ㄊㄨˊ",
+            "_id": "7b7ecf3f5b184e2f9948b74b99edfe1c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sơ đồ tư duy",
+                            "explain": "mind map",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "khái niệm địa đồ",
+            "pinyin": "gàiniàn dìtú",
+            "word": "概念地图",
+            "id": 132476,
+            "phonetic": "gainianditu",
+            "rank": 94949,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄜˋㄖㄣˊㄍㄞˋㄎㄨㄤˋ",
+            "topic": "75",
+            "_id": "c9ef30c2d01c15423388effc355bcfb7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Khái quát tình hình cá nhân",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "cá nhân khái huống",
+            "pinyin": "gèrén gàikuàng",
+            "word": "个人概况",
+            "id": 78487,
+            "phonetic": "gerengaikuang",
+            "rank": 100007,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "大概"
+}

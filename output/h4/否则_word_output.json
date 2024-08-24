@@ -1,0 +1,2940 @@
+{
+    "total": 182,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄡˇㄗㄜˊ",
+            "_id": "a515f080ab346db7efcd2592cb5247ca",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "... nếu không...",
+                            "examples": [
+                                76843,
+                                107798
+                            ],
+                            "struct": "…，否则（+ 的话）…"
+                        },
+                        {
+                            "explain": "trừ khi ... nếu không thì",
+                            "examples": [
+                                107799,
+                                107800
+                            ],
+                            "struct": "除非…，否则（+ 的话）"
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "bằng không; nếu không; nếu không thì; kẻo",
+                            "explain": "连词，是''如果不这样''的意思",
+                            "examples": [
+                                {
+                                    "m": "Đừng chở quá tải kẻo thuyền sẽ chìm.",
+                                    "p_vn": "dung cho qua tai keo thuyen se chim.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b374683a",
+                                    "id": 90278,
+                                    "type": "e_cnvi",
+                                    "e": "别让船超载了，否则它会沉。",
+                                    "p_cn": "bie rang chuan chaozaile, fouze ta hui chen.",
+                                    "p": "bié ràng chuán chāozàile, fǒuzé tā huì chén."
+                                },
+                                {
+                                    "m": "Ra ngoài nhớ mang ô, kẻo bị mắc mưa.",
+                                    "p_vn": "ra ngoai nho mang o, keo bi mac mua.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3c968b4",
+                                    "id": 107796,
+                                    "type": "e_cnvi",
+                                    "e": "出门带伞，否则会被雨淋。",
+                                    "p_cn": "chumen dai san, fouze hui bei yu lin.",
+                                    "p": "chūmén dài sǎn, fǒuzé huì bèi yǔ lín."
+                                },
+                                {
+                                    "m": "Phải đi ngủ đúng giờ, kẻo tinh thần sẽ không tốt.",
+                                    "p_vn": "phai di ngu dung gio, keo tinh than se khong tot.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3c9758a",
+                                    "id": 107797,
+                                    "type": "e_cnvi",
+                                    "e": "按时睡觉，否则精神不好。",
+                                    "p_cn": "anshi shuijiao, fouze jingshen bu hao.",
+                                    "p": "ànshí shuìjiào, fǒuzé jīngshén bù hǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Cả hai từ đều là liên từ, đều mang nghĩa nếu không.\nPhía sau có thể thêm \"的话\" để nhấn mạnh kết quả của sự giả định.\nKhác:\n- \"不然\" phía trước có thể thêm \"再\".\n\"要\".\n\"否则\" phía sau thường thêm \"就\".\n- \"不然\" còn là tính từ (mang nghĩa không phải như vậy).\n\"否则\" không có cách dùng này.\n- \"不然\" thường dùng trong khẩu ngữ, \"否则\" thường dùng trong văn viết.",
+                    "title": "Phân biệt \"否则\" và \"不然\"",
+                    "words": [
+                        "否则",
+                        "不然"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "不然"
+                ],
+                "anto": [
+                    "如此",
+                    "这样",
+                    "或许"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "fǒuzé",
+            "cn_vi": "phủ tắc",
+            "popularity": {
+                "notebook": 817,
+                "search": 11041
+            },
+            "word": "否则",
+            "id": 17292,
+            "phonetic": "fouze",
+            "rank": 855,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄡˇ",
+            "_id": "32db044e5f50b7af3bf6109f859b7620",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "không đồng ý; không",
+                            "explain": "表示不同意，相当于口语的''不''",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi không tham gia hoạt động lần này.",
+                                    "p_vn": "chung toi khong tham gia hoat dong lan nay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714f70d7",
+                                    "id": 127586,
+                                    "type": "e_cnvi",
+                                    "e": "我们否参加这次活动。",
+                                    "p_cn": "women fou canjia zhe ci huodong.",
+                                    "p": "wǒmen fǒu cānjiā zhè cì huódòng."
+                                },
+                                {
+                                    "m": "Anh ta không đồng ý với kế hoạch này.",
+                                    "p_vn": "anh ta khong dong y voi ke hoach nay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714f7b8a",
+                                    "id": 127587,
+                                    "type": "e_cnvi",
+                                    "e": "他否同意这个计划。",
+                                    "p_cn": "ta fou tongyi zhege jihua.",
+                                    "p": "tā fǒu tóngyì zhège jìhuà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không (dùng sau câu hỏi để hỏi vặn lại)",
+                            "explain": "表示询问",
+                            "examples": [
+                                {
+                                    "m": "Ngày hôm nay tâm trạng của bạn tốt không?",
+                                    "p_vn": "ngay hom nay tam trang cua ban tot khong?",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714fb47a",
+                                    "id": 127594,
+                                    "type": "e_cnvi",
+                                    "e": "你今天心情好否？",
+                                    "p_cn": "ni jintian xinqing hao fou?",
+                                    "p": "nǐ jīntiān xīnqíng hǎo fǒu?"
+                                },
+                                {
+                                    "m": "Việc này có thể giải quyết không?",
+                                    "p_vn": "viec nay co the giai quyet khong?",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714fc1b0",
+                                    "id": 127595,
+                                    "type": "e_cnvi",
+                                    "e": "此事能否解决呢？",
+                                    "p_cn": "ci shi neng fou jiejue ne?",
+                                    "p": "cǐ shì néng fǒu jiějué ne?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hay không",
+                            "explain": "''是否、能否、可否''等表示''是不是、能不能、可不可''等意思",
+                            "examples": [
+                                {
+                                    "m": "Phương pháp này có có hiệu quả hay không?",
+                                    "p_vn": "phuong phap nay co co hieu qua hay khong?",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714fff00",
+                                    "id": 127602,
+                                    "type": "e_cnvi",
+                                    "e": "这种方法能否奏效？",
+                                    "p_cn": "zhe zhong fangfa neng fou zouxiao?",
+                                    "p": "zhè zhǒng fāngfǎ néng fǒu zòuxiào?"
+                                },
+                                {
+                                    "m": "Bạn có thể giúp tôi một tay hay không?",
+                                    "p_vn": "ban co the giup toi mot tay hay khong?",
+                                    "_id": "b3c6ec0c8f520232d683a7b571500b4c",
+                                    "id": 127603,
+                                    "type": "e_cnvi",
+                                    "e": "你可否帮我个忙？",
+                                    "p_cn": "ni kefou bang wo ge mang?",
+                                    "p": "nǐ kěfǒu bāng wǒ gè máng?"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phủ định; phủ; phủ nhận",
+                            "explain": "否定",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy dứt khoát phủ định kế hoạch này.",
+                                    "p_vn": "co ay dut khoat phu dinh ke hoach nay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714f3f61",
+                                    "id": 127581,
+                                    "type": "e_cnvi",
+                                    "e": "她断然否了这计划。",
+                                    "p_cn": "ta duanran foule zhe jihua.",
+                                    "p": "tā duànrán fǒule zhè jìhuà."
+                                },
+                                {
+                                    "m": "Ông chủ phủ định phương án này.",
+                                    "p_vn": "ong chu phu dinh phuong an nay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714f4c49",
+                                    "id": 127582,
+                                    "type": "e_cnvi",
+                                    "e": "老板否了这个方案。",
+                                    "p_cn": "laoban foule zhege fang'an.",
+                                    "p": "lǎobǎn fǒule zhège fāng'àn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 94,
+                "search": 4696
+            },
+            "snym": {
+                "syno": [
+                    "非"
+                ],
+                "anto": [
+                    "可",
+                    "是"
+                ]
+            },
+            "cn_vi": "phủ",
+            "pinyin": "fǒu",
+            "word": "否",
+            "id": 17285,
+            "phonetic": "fou",
+            "rank": 2553,
+            "lv_tocfl": null,
+            "compound": "否定 ; 否决 ; 否决权 ; 否认 ; 否则"
+        },
+        {
+            "kind": [
+                "v",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄡˇ",
+            "_id": "314fa01d31716eae1cf2cc78819f8291",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hỏng; xấu",
+                            "explain": "坏；恶",
+                            "examples": [
+                                {
+                                    "m": "Hành vi của anh ta rất xấu, khiến người ta ghét.",
+                                    "p_vn": "hanh vi cua anh ta rat xau, khien nguoi ta ghet.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714ea9e4",
+                                    "id": 127565,
+                                    "type": "e_cnvi",
+                                    "e": "他的行为很否，令人厌恶。",
+                                    "p_cn": "ta de xingwei hen pi, ling ren yanwu.",
+                                    "p": "tā de xíngwéi hěn pǐ, lìng rén yànwù."
+                                },
+                                {
+                                    "m": "Anh ta luôn làm việc xấu, không được lòng người.",
+                                    "p_vn": "anh ta luon lam viec xau, khong duoc long nguoi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714eb278",
+                                    "id": 127566,
+                                    "type": "e_cnvi",
+                                    "e": "他总是做否事，不得人心。",
+                                    "p_cn": "ta zong shi zuo pi shi, bude renxin.",
+                                    "p": "tā zǒng shì zuò pǐ shì, bùdé rénxīn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chê bai; hạ thấp",
+                            "explain": "贬损；贬低",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy luôn chê bai thành quả của người khác.",
+                                    "p_vn": "anh ay luon che bai thanh qua cua nguoi khac.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714f052e",
+                                    "id": 127573,
+                                    "type": "e_cnvi",
+                                    "e": "他总否别人的成果。",
+                                    "p_cn": "ta zong pi bieren de chengguo.",
+                                    "p": "tā zǒng pǐ biérén de chéngguǒ."
+                                },
+                                {
+                                    "m": "Ông chủ đừng luôn hạ thấp năng lực của nhân viên.",
+                                    "p_vn": "ong chu dung luon ha thap nang luc cua nhan vien.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714f0d4c",
+                                    "id": 127574,
+                                    "type": "e_cnvi",
+                                    "e": "老板别总否员工能。",
+                                    "p_cn": "laoban bie zong pi yuangong neng.",
+                                    "p": "lǎobǎn bié zǒng pǐ yuángōng néng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 94,
+                "search": 4696
+            },
+            "snym": {
+                "syno": [
+                    "非"
+                ],
+                "anto": [
+                    "可",
+                    "是"
+                ]
+            },
+            "cn_vi": "phủ",
+            "pinyin": "pǐ",
+            "word": "否",
+            "id": 17286,
+            "phonetic": "pi",
+            "rank": 2554,
+            "lv_tocfl": null,
+            "compound": "否极泰来"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄤㄈㄡˇ",
+            "_id": "fead887dde78ab0bddd45c5d57d5e70a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bình luận; chỉ trích; chê bai; khen chê",
+                            "explain": "褒贬;评论",
+                            "examples": [
+                                {
+                                    "m": "bình luận nhân vật",
+                                    "p_vn": "binh luan nhan vat",
+                                    "_id": "1c8512ec91084674a910bee12f5a3670",
+                                    "id": 48238,
+                                    "type": "e_cnvi",
+                                    "e": "臧否人物",
+                                    "p_cn": "zangpi renwu",
+                                    "p": "zāngpǐ rénwù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "tang bĩ",
+            "pinyin": "zāngpǐ",
+            "word": "臧否",
+            "id": 62833,
+            "phonetic": "zangpi",
+            "rank": 68812,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "98fc2e15021a4836b563016accedf7aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "truân bĩ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đồn phủ",
+            "pinyin": "tún fǒu",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "屯否",
+            "id": 184285,
+            "phonetic": "tunfou",
+            "rank": 158107,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "5f9c7241b9854c34b3b98f8785939b74",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có không",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hữu phủ",
+            "pinyin": "yǒu fǒu",
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "word": "有否",
+            "id": 184187,
+            "phonetic": "youfou",
+            "rank": 84370,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj",
+                "measure",
+                "n",
+                "part",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄜˊ",
+            "_id": "8f57e5bf57a55ecf307d966681d35aeb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy phạm; phép tắc; mẫu mực; gương",
+                            "explain": "规范",
+                            "examples": [
+                                {
+                                    "m": "Lấy mình làm gương.",
+                                    "p_vn": "lay minh lam guong.",
+                                    "_id": "88fbd1445d4b977212fb7a961dc0cb28",
+                                    "id": 48422,
+                                    "type": "e_cnvi",
+                                    "e": "以身作则。",
+                                    "p_cn": "yishenzuoze。",
+                                    "p": "yǐshēnzuòzé。"
+                                },
+                                {
+                                    "m": "Phải hiểu quy phạm đạo đức.",
+                                    "p_vn": "phai hieu quy pham dao duc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37b821a",
+                                    "id": 106204,
+                                    "type": "e_cnvi",
+                                    "e": "要懂道德规范则。",
+                                    "p_cn": "yao dong daode guifan ze.",
+                                    "p": "yào dǒng dàodé guīfàn zé."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quy tắc",
+                            "explain": "规则",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy luôn tuân theo quy tắc.",
+                                    "p_vn": "anh ay luon tuan theo quy tac.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac376a600",
+                                    "id": 106076,
+                                    "type": "e_cnvi",
+                                    "e": "他总是遵循规则。",
+                                    "p_cn": "ta zong shi zunxun guize.",
+                                    "p": "tā zǒng shì zūnxún guīzé."
+                                },
+                                {
+                                    "m": "Tuân thủ quy tắc rất quan trọng.",
+                                    "p_vn": "tuan thu quy tac rat quan trong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac376b4cc",
+                                    "id": 106077,
+                                    "type": "e_cnvi",
+                                    "e": "遵守规则很重要。",
+                                    "p_cn": "zunshou guize hen zhongyao.",
+                                    "p": "zūnshǒu guīzé hěn zhòngyào."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "các mục, mẩu, đoạn, hay câu chuyện cụ thể",
+                            "examples": [
+                                108203,
+                                108204
+                            ],
+                            "struct": "Số từ  + 则 + Danh từ"
+                        }
+                    ],
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "điều; đề (thi)",
+                            "explain": "用于事物细分的条目",
+                            "examples": [
+                                {
+                                    "m": "Quy tắc có ba điều phải nhớ.",
+                                    "p_vn": "quy tac co ba dieu phai nho.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37bd70b",
+                                    "id": 106218,
+                                    "type": "e_cnvi",
+                                    "e": "规则有三条则要记。",
+                                    "p_cn": "guize you santiao ze yao ji.",
+                                    "p": "guīzé yǒu sāntiáo zé yào jì."
+                                },
+                                {
+                                    "m": "Nguyên tắc tổng cộng sáu điều nên hiểu rõ.",
+                                    "p_vn": "nguyen tac tong cong sau dieu nen hieu ro.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37bd898",
+                                    "id": 106219,
+                                    "type": "e_cnvi",
+                                    "e": "原则共六则应明白。",
+                                    "p_cn": "yuanze gong liu ze ying mingbai.",
+                                    "p": "yuánzé gòng liù zé yīng míngbái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mục; mẩu (chuyện tin)",
+                            "explain": "用于内容完整的文字的条数",
+                            "examples": [
+                                {
+                                    "m": "Tạp chí đăng năm mục quảng cáo.",
+                                    "p_vn": "tap chi dang nam muc quang cao.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37bb29e",
+                                    "id": 106211,
+                                    "type": "e_cnvi",
+                                    "e": "杂志刊登了五则广告。",
+                                    "p_cn": "zazhi kandengle wu ze guanggao.",
+                                    "p": "zázhì kāndēngle wǔ zé guǎnggào."
+                                },
+                                {
+                                    "m": "Anh ấy viết một mẩu chuyện cười.",
+                                    "p_vn": "anh ay viet mot mau chuyen cuoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37bb4ae",
+                                    "id": 106212,
+                                    "type": "e_cnvi",
+                                    "e": "他写了一则笑话。",
+                                    "p_cn": "ta xiele yi ze xiaohua.",
+                                    "p": "tā xiěle yī zé xiàohuà."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "Nhượng bộ",
+                            "examples": [
+                                108210,
+                                108211
+                            ],
+                            "struct": "A + 则 + A, 只是/可是/但是/却 + ... ..."
+                        }
+                    ],
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "thì (biểu thị sự kế tiếp về thời gian)",
+                            "explain": "表示两事在时间上相承",
+                            "examples": [
+                                {
+                                    "m": "Mỗi quả đạn rơi xuống đất thì ánh lửa lại tóe lên.",
+                                    "p_vn": "moi qua dan roi xuong dat thi anh lua lai toe len.",
+                                    "_id": "0c1eab55ffb58734da3ff2834ce0a4f3",
+                                    "id": 48428,
+                                    "type": "e_cnvi",
+                                    "e": "每一巨弹堕地，则火光迸裂。",
+                                    "p_cn": "mei yi ju dan duo de, ze huoguang benglie.",
+                                    "p": "měi yī jù dàn duò de, zé huǒguāng bèngliè."
+                                },
+                                {
+                                    "m": "Khỏi bệnh thì trở lại làm việc.",
+                                    "p_vn": "khoi benh thi tro lai lam viec.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac376d454",
+                                    "id": 106081,
+                                    "type": "e_cnvi",
+                                    "e": "病愈则返回工作。",
+                                    "p_cn": "bing yu ze fanhui gongzuo.",
+                                    "p": "bìng yù zé fǎnhuí gōngzuò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thì (biểu thị mối liên hệ nhân quả)",
+                            "explain": "表示因果或情理上的联系",
+                            "examples": [
+                                {
+                                    "m": "Dục tốc tắc bất đạt.",
+                                    "p_vn": "duc toc tac bat dat.",
+                                    "_id": "6503244ce8cef7f0571bfc2f1730429f",
+                                    "id": 48429,
+                                    "type": "e_cnvi",
+                                    "e": "欲速则不达。",
+                                    "p_cn": "yusuzebuda。",
+                                    "p": "yùsùzébùdá。"
+                                },
+                                {
+                                    "m": "Núi cao thì leo mệt.",
+                                    "p_vn": "nui cao thi leo met.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac376efde",
+                                    "id": 106084,
+                                    "type": "e_cnvi",
+                                    "e": "山高则攀登累。",
+                                    "p_cn": "shangao ze pandeng lei.",
+                                    "p": "shāngāo zé pāndēng lèi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "còn (biểu thị sự so sánh)",
+                            "explain": "表示对此",
+                            "examples": [
+                                {
+                                    "m": "Bạn cao còn tôi thì thấp.",
+                                    "p_vn": "ban cao con toi thi thap.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37ce6f8",
+                                    "id": 106252,
+                                    "type": "e_cnvi",
+                                    "e": "你高则我个子矮。",
+                                    "p_cn": "ni gao ze wo gezi ai.",
+                                    "p": "nǐ gāo zé wǒ gèzi ǎi."
+                                },
+                                {
+                                    "m": "Cô ấy giàu có còn tôi thì nghèo.",
+                                    "p_vn": "co ay giau co con toi thi ngheo.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37cf8a6",
+                                    "id": 106254,
+                                    "type": "e_cnvi",
+                                    "e": "她富则我比较穷。",
+                                    "p_cn": "ta fu ze wo bijiao qiong.",
+                                    "p": "tā fù zé wǒ bǐjiào qióng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thì (biểu thị nhượng bộ)",
+                            "explain": "用在相同的两个词之间表示让步",
+                            "examples": [
+                                {
+                                    "m": "Tốt thì tốt nhưng có điều đắt quá",
+                                    "p_vn": "tot thi tot nhung co dieu dat qua",
+                                    "_id": "a0e65dc2a68672f24cc63427ee9c1f88",
+                                    "id": 48432,
+                                    "type": "e_cnvi",
+                                    "e": "好则好，只是太贵。",
+                                    "p_cn": "hao ze hao，zhishi taigui。",
+                                    "p": "hǎo zé hǎo，zhǐshì tàigùi。"
+                                },
+                                {
+                                    "m": "Lớn thì lớn nhưng không quá tiện.",
+                                    "p_vn": "lon thi lon nhung khong qua tien.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3771fa7",
+                                    "id": 106088,
+                                    "type": "e_cnvi",
+                                    "e": "大则大，不太方便。",
+                                    "p_cn": "da ze da, bu tai fangbian.",
+                                    "p": "dà zé dà, bù tài fāngbiàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "là (đưa ra nguyên nhân, lí do)",
+                            "explain": "用在''一、二 (再)、三''等后面，列举原因或理由",
+                            "examples": [
+                                {
+                                    "m": "Một là dựa vào bản lĩnh, hai là vận khí.",
+                                    "p_vn": "mot la dua vao ban linh, hai la van khi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3774b49",
+                                    "id": 106093,
+                                    "type": "e_cnvi",
+                                    "e": "一凭本事，二则运气。",
+                                    "p_cn": "yi ping benshi, er ze yunqi.",
+                                    "p": "yī píng běnshì, èr zé yùnqì."
+                                },
+                                {
+                                    "m": "Một là cần chăm chỉ, hai là phải dụng tâm.",
+                                    "p_vn": "mot la can cham chi, hai la phai dung tam.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37759bc",
+                                    "id": 106094,
+                                    "type": "e_cnvi",
+                                    "e": "一要勤奋，二则用心。",
+                                    "p_cn": "yi yao qinfen, er ze yongxin.",
+                                    "p": "yī yào qínfèn, èr zé yòngxīn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm theo; noi theo",
+                            "explain": "效法",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy làm theo cách làm của bạn.",
+                                    "p_vn": "anh ay làm theo cach lam cua ban.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac376c556",
+                                    "id": 106079,
+                                    "type": "e_cnvi",
+                                    "e": "他则友之做法。",
+                                    "p_cn": "ta ze youzhi zuofa.",
+                                    "p": "tā zé yǒuzhī zuòfǎ."
+                                },
+                                {
+                                    "m": "Noi theo hành vi tốt của người trước.",
+                                    "p_vn": "noi theo hanh vi tot cua nguoi truoc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37c8043",
+                                    "id": 106240,
+                                    "type": "e_cnvi",
+                                    "e": "则前人之良行。",
+                                    "p_cn": "ze qian ren zhi liangxing.",
+                                    "p": "zé qián rén zhī liángxíng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "là; chính là",
+                            "explain": "是;乃是",
+                            "examples": [
+                                {
+                                    "m": "Đây chính là tin tốt.",
+                                    "p_vn": "day chinh la tin tot.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37c1a7d",
+                                    "id": 106228,
+                                    "type": "e_cnvi",
+                                    "e": "这则好消息。",
+                                    "p_cn": "zhe ze hao xiaoxi.",
+                                    "p": "zhè zé hǎo xiāoxi."
+                                },
+                                {
+                                    "m": "Anh ấy là chân thành.",
+                                    "p_vn": "anh ay la chan thanh.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac37c39cd",
+                                    "id": 106232,
+                                    "type": "e_cnvi",
+                                    "e": "他则真心的。",
+                                    "p_cn": "ta ze zhenxin de.",
+                                    "p": "tā zé zhēnxīn de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 399,
+                "search": 15551
+            },
+            "snym": null,
+            "lv_hsk_new": "5, 7-9",
+            "pinyin": "zé",
+            "cn_vi": "tắc",
+            "word": "则",
+            "id": 62971,
+            "phonetic": "ze",
+            "rank": 469,
+            "lv_tocfl": 4,
+            "compound": "则声"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄡˇㄊㄞˋ",
+            "_id": "b1e4af22a5e6442e86e798d60e066864",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Mệnh vận bế tắc và hanh thông; sướng và khổ; may và rủi.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "bĩ thái",
+            "pinyin": "fǒu tài",
+            "word": "否泰",
+            "id": 149449,
+            "phonetic": "foutai",
+            "rank": 128632,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄜˇㄈㄡˇ",
+            "_id": "280877145df54393a74fe009bf592706",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Có thể hay không?",
+                            "explain": "is it possible or not?",
+                            "examples": [
+                                {
+                                    "m": "Nếu tôi không có bằng chứng xác thực, tôi có thể báo cáo với Ủy ban độc lập chống tham nhũng không",
+                                    "p_vn": "Neu toi khong co bang chung xac thuc, toi co the bao cao voi Uy ban doc lap chong tham nhung khong",
+                                    "_id": "41b0a6202da746dfb7fa5cca288550c9",
+                                    "id": 55890,
+                                    "type": "e_cnvi",
+                                    "e": "若我没有真凭实据,可否向廉政公署举报",
+                                    "p_cn": "Ruo wo meiyou zhenpingshiju, kefou xiang lianzheng gongshu jubao",
+                                    "p": "Ruò wǒ méiyǒu zhēnpíngshíjù, kěfǒu xiàng liánzhèng gōngshǔ jǔbào"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 428
+            },
+            "snym": {
+                "syno": [
+                    "能否",
+                    "是否"
+                ]
+            },
+            "cn_vi": "khả phủ",
+            "pinyin": "kěfǒu",
+            "word": "可否",
+            "id": 90483,
+            "phonetic": "kefou",
+            "rank": 17595,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "adj"
+            ],
+            "measure": null,
+            "topic": "13",
+            "zhuyin": "ㄈㄡˇㄉㄧㄥˋ",
+            "_id": "9afd4ca1336ee30464b4fd5e572e8948",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "phủ định; phủ nhận; chối bỏ; từ bỏ",
+                            "explain": "否认事物的存在或事物的真实性 (跟''肯定''相对)",
+                            "examples": [
+                                {
+                                    "m": "phủ nhận toàn bộ",
+                                    "p_vn": "phu nhan toan bo",
+                                    "_id": "f7fcb25fabe58d15ce9ea5773bfc7aa3",
+                                    "id": 12051,
+                                    "type": "e_cnvi",
+                                    "e": "全盘否定",
+                                    "p_cn": "quanpan fouding",
+                                    "p": "quánpánfǒudìng"
+                                },
+                                {
+                                    "m": "phủ định tất cả",
+                                    "p_vn": "phu dinh tat ca",
+                                    "_id": "f8134d59808a32632d932c352de89352",
+                                    "id": 12052,
+                                    "type": "e_cnvi",
+                                    "e": "否定一切",
+                                    "p_cn": "fouding yiqie",
+                                    "p": "fǒudìngyīqiē"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phản diện; phủ định; mặt trái",
+                            "explain": "表示否认的;反面的 (跟''肯定''相对)",
+                            "examples": [
+                                {
+                                    "m": "phán đoán phủ định",
+                                    "p_vn": "phan doan phu dinh",
+                                    "_id": "630e12d6507b49878b43fdcabe96910d",
+                                    "id": 12053,
+                                    "type": "e_cnvi",
+                                    "e": "否定判断",
+                                    "p_cn": "fouding panduan",
+                                    "p": "fǒudìng pànduàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Chủ thể hành động của \"否认\" là cá nhân hoặc tổ chức; chủ thể hành động của \"否决\" nhất định phải là hội nghị hoặc tổ chức, không thể là người ; \"否定\" không có giới hạn này, nghĩa trái ngược của nó là \"肯定\".",
+                    "title": "Phân biệt \"否定\"，\"否决\" và \"否认\"",
+                    "words": [
+                        "否定",
+                        "否决",
+                        "否认"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "否认"
+                ],
+                "anto": [
+                    "判定",
+                    "含糊",
+                    "肯定",
+                    "保证"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "fǒudìng",
+            "cn_vi": "phủ định",
+            "popularity": {
+                "notebook": 192,
+                "search": 2013
+            },
+            "word": "否定",
+            "id": 17287,
+            "phonetic": "fouding",
+            "rank": 5570,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄡˇㄖㄣˋ",
+            "_id": "0204a4f4429d96407b29e9da8a7dedcb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phủ nhận; không thừa nhận; bác bỏ; chối cãi",
+                            "explain": "不承认",
+                            "examples": [
+                                {
+                                    "m": "thề thốt phủ nhận",
+                                    "p_vn": "the thot phu nhan",
+                                    "_id": "1fbbe0617e7235660f8fa7497bc557fa",
+                                    "id": 12055,
+                                    "type": "e_cnvi",
+                                    "e": "矢口否认",
+                                    "p_cn": "shikou fouren",
+                                    "p": "shǐkǒufǒurèn"
+                                },
+                                {
+                                    "m": "không thừa nhận sự thật.",
+                                    "p_vn": "khong thua nhan su that",
+                                    "_id": "6add6c18104c8ab5c6a0741353fa4fd7",
+                                    "id": 12056,
+                                    "type": "e_cnvi",
+                                    "e": "否认事实",
+                                    "p_cn": "fouren shishi",
+                                    "p": "fǒurèn shìshí"
+                                },
+                                {
+                                    "m": "bác bỏ lời chỉ trích vô lý ấy.",
+                                    "p_vn": "bac bo loi chi trich vo ly ay",
+                                    "_id": "eca5b860636cd165bffe9d27f88b6eca",
+                                    "id": 12057,
+                                    "type": "e_cnvi",
+                                    "e": "否认这种无理指责。",
+                                    "p_cn": "fouren zhe zhong wuli zhize",
+                                    "p": "fǒurèn zhèzhǒng wúlǐ zhǐzé。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Chủ thể hành động của \"否认\" là cá nhân hoặc tổ chức; chủ thể hành động của \"否决\" nhất định phải là hội nghị hoặc tổ chức, không thể là người ; \"否定\" không có giới hạn này, nghĩa trái ngược của nó là \"肯定\".",
+                    "title": "Phân biệt \"否定\"，\"否决\" và \"否认\"",
+                    "words": [
+                        "否定",
+                        "否决",
+                        "否认"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "承认",
+                    "确认"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "fǒurèn",
+            "cn_vi": "phủ nhận",
+            "popularity": {
+                "notebook": 164,
+                "search": 991
+            },
+            "word": "否认",
+            "id": 17291,
+            "phonetic": "fouren",
+            "rank": 9895,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˋㄈㄡˇ",
+            "_id": "b459b8b53f6a0af2a4b67f6c00d3debb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                141782,
+                                141785
+                            ],
+                            "struct": "Chủ ngữ + 是否 + Động từ/Tính từ?"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                141783,
+                                36065
+                            ],
+                            "struct": "Chủ ngữ + 是否 + Động từ/Tính từ, ..."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "phải chăng; hay không; liệu rằng; liệu có",
+                            "explain": "是不是",
+                            "examples": [
+                                {
+                                    "m": "Bạn có bằng lòng kết hôn với anh ấy hay không?",
+                                    "p_vn": "ban co bang long ket hon voi anh ay hay khong?",
+                                    "_id": "9938873f438f99a1b005f10050d46788",
+                                    "id": 141774,
+                                    "type": "e_cnvi",
+                                    "e": "你是否愿意跟他结婚?",
+                                    "p_cn": "ni shifou yuanyi gen ta jiehun.",
+                                    "p": "nǐ shìfǒu yuànyì gēn tā jiéhūn."
+                                },
+                                {
+                                    "m": "Anh ấy có tham gia trận đấu này hay không?",
+                                    "p_vn": "anh ay co tham gia tran dau nay hay khong?",
+                                    "_id": "9938873f438f99a1b005f10050d4706a",
+                                    "id": 141775,
+                                    "type": "e_cnvi",
+                                    "e": "他是否参加这次比赛?",
+                                    "p_cn": "ta shifou canjia zhe ci bisai.",
+                                    "p": "tā shìfǒu cānjiā zhè cì bǐsài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 531,
+                "search": 9900
+            },
+            "snym": {
+                "anto": [
+                    "确实",
+                    "肯定"
+                ],
+                "syno": [
+                    "是不是",
+                    "与否",
+                    "能否",
+                    "可否"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "shìfǒu",
+            "cn_vi": "thị phủ",
+            "word": "是否",
+            "id": 47580,
+            "phonetic": "shifou",
+            "rank": 1016,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩˇㄈㄡˇ",
+            "_id": "7a2b1c1e029c4116a9e3195d34ae4a8c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "có hay không (ở cuối cụm từ)",
+                            "explain": "whether or not (at the end of a phrase)",
+                            "examples": [
+                                {
+                                    "m": "Một người chung tình hay không không thể nhìn từ bên ngoài.",
+                                    "p_vn": "mot nguoi chung tinh hay khong khong the nhin tu ben ngoai.",
+                                    "_id": "7350a0c9563543c285d414d20ec2ef4d",
+                                    "id": 63533,
+                                    "type": "e_cnvi",
+                                    "e": "一个人专情与否从外表看不出来",
+                                    "p_cn": "yige ren zhuan qing yu fou cong waibiao kan bu chulai",
+                                    "p": "Yīgè rén zhuān qīng yǔ fǒu cóng wàibiǎo kàn bù chūlái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 61,
+                "search": 811
+            },
+            "snym": {
+                "syno": [
+                    "是否"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yǔ fǒu",
+            "cn_vi": "dữ phủ",
+            "word": "与否",
+            "id": 89713,
+            "phonetic": "yufou",
+            "rank": 11441,
+            "kind": [
+                "part",
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄟˋㄈㄡˇ",
+            "_id": "7c4d739b49884866a5c7c7ba0f633905",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có thể hoặc không thể",
+                            "explain": "can or cannot",
+                            "examples": []
+                        },
+                        {
+                            "mean": "là nó có thể?",
+                            "explain": "is it possible?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "hội phủ",
+            "pinyin": "huì fǒu",
+            "word": "会否",
+            "id": 94698,
+            "phonetic": "huifou",
+            "rank": 88638,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄟˋㄗㄜˊ",
+            "_id": "26ea6224b57b47a3b2a35c9883574d08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tên một thiên trong sách Lễ Kí 禮 記; nói về phép tắc mà người đàn bà phải theo để cư xử phải đạo. Mượn chỉ phụ chức; phụ đạo.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "nội tắc",
+            "pinyin": "nèi zé",
+            "word": "内则",
+            "id": 148965,
+            "phonetic": "neize",
+            "rank": 75262,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄜˊㄙㄢˋ",
+            "_id": "bffc8bcc5b6845ef9ef47e5cc0d2c341",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Phân tán",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Chúng nằm rải rác ở nhiều nơi khác nhau",
+                                    "p_vn": "Chung nam rai rac o nhieu noi khac nhau",
+                                    "_id": "cbaf93716662495d806f3c0bedb754a5",
+                                    "id": 54752,
+                                    "type": "e_cnvi",
+                                    "e": "他们则散居在各地方",
+                                    "p_cn": "Tamen ze sanju zai ge difang",
+                                    "p": "Tāmen zé sǎnjū zài gè dìfāng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "tắc tán",
+            "pinyin": "zé sàn",
+            "word": "则散",
+            "id": 84030,
+            "phonetic": "zesan",
+            "rank": 69722,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄤㄗㄜˊ",
+            "_id": "fc405686c6464c1f580d954f34a2ad2f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy tắc; điều lệ",
+                            "explain": "章程规则",
+                            "examples": [
+                                {
+                                    "m": "trái với điều lệ.",
+                                    "p_vn": "trai voi dieu le",
+                                    "_id": "fc97dbe3ea3dda011d14298a6ea7005a",
+                                    "id": 48999,
+                                    "type": "e_cnvi",
+                                    "e": "违反章则",
+                                    "p_cn": "weifan zhang ze",
+                                    "p": "wéifǎn zhāngzé"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "chương tắc",
+            "pinyin": "zhāng zé",
+            "word": "章则",
+            "id": 63446,
+            "phonetic": "zhangze",
+            "rank": 85319,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "4, 16, 33, 41, 57",
+            "zhuyin": "ㄈㄚˇㄗㄜˊ",
+            "_id": "81ae6ec1d1a63294d7a02f8743384ea4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy luật; pháp tắc",
+                            "explain": "规律",
+                            "examples": [
+                                {
+                                    "m": "quy luật tự nhiên",
+                                    "p_vn": "quy luat tu nhien",
+                                    "_id": "bcd49f6d56925d4283dc9cfe75c98a40",
+                                    "id": 10422,
+                                    "type": "e_cnvi",
+                                    "e": "自然法则",
+                                    "p_cn": "ziran faze",
+                                    "p": "zìránfǎzé"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "pháp quy",
+                            "explain": "法规",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mẫu mực; kiểu mẫu; gương",
+                            "explain": "模范;榜样",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tắc",
+                            "explain": "行为的准则; 规矩",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"法则\" là sự tồn tại khách quan, không vì ý chí của con người mà bị lay động, \"法规\" là do con người quy định ra.",
+                    "title": "Phân biệt \"法则\" và \"法规\"",
+                    "words": [
+                        "法则",
+                        "法规"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "准则",
+                    "律例",
+                    "规律",
+                    "法例",
+                    "轨则",
+                    "原则",
+                    "规定",
+                    "准绳",
+                    "章程",
+                    "规则",
+                    "法规",
+                    "正派",
+                    "法令",
+                    "端正",
+                    "规矩",
+                    "法子",
+                    "定理"
+                ]
+            },
+            "cn_vi": "pháp tắc",
+            "pinyin": "fǎzé",
+            "popularity": {
+                "notebook": 76,
+                "search": 771
+            },
+            "word": "法则",
+            "id": 15536,
+            "phonetic": "faze",
+            "rank": 11861,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄗㄜˊ",
+            "_id": "97dc1acb3f93ff8e29f7183f6a9d9856",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "luật; quy định",
+                            "explain": "说明事物之间的必然联系，且已经被公认为正确的规定或法则",
+                            "examples": [
+                                {
+                                    "m": "luật bàn tay trái",
+                                    "p_vn": "luat ban tay trai",
+                                    "_id": "0a13646478f33a21d26434f4b6f10a4a",
+                                    "id": 8909,
+                                    "type": "e_cnvi",
+                                    "e": "左手定则",
+                                    "p_cn": "zuoshou ding ze",
+                                    "p": "zuǒshǒu dìngzé"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 16
+            },
+            "snym": {
+                "syno": [
+                    "定章"
+                ]
+            },
+            "cn_vi": "định tắc",
+            "pinyin": "dìng zé",
+            "word": "定则",
+            "id": 13447,
+            "phonetic": "dingze",
+            "rank": 89946,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "7b5bd84cb73c4dd485e0b51ec70cadc7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bĩ vận",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bạn đã vận chuyển bất kỳ loại hóa chất nào như vậy chưa?",
+                                    "p_vn": "Ban da van chuyen bat ky loai hoa chat nao nhu vay chua?",
+                                    "_id": "58bfffc8572f428a86e2b3d2430a1d4c",
+                                    "id": 60584,
+                                    "type": "e_cnvi",
+                                    "e": "你是否运送过这类化学品",
+                                    "p_cn": "ni shifou yunsong guo zhelei huaxuepin",
+                                    "p": "nǐ shìfǒu yùnsòng guò zhèlèi huàxuépǐn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phủ vận",
+            "pinyin": "fǒu yùn",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "否运",
+            "id": 174030,
+            "phonetic": "fouyun",
+            "rank": 146992,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "10",
+            "zhuyin": "ㄈㄡˇㄐㄩㄝˊ",
+            "_id": "a4078780143251a38f4910376a06a934",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bác bỏ; phủ quyết; bãi bỏ; gạt bỏ (nghị án)",
+                            "explain": "否定 (议案)",
+                            "examples": [
+                                {
+                                    "m": "đề án bị bác bỏ.",
+                                    "p_vn": "de an bi bac bo",
+                                    "_id": "e16242550c0aeb020d86ad67c69fe03f",
+                                    "id": 12054,
+                                    "type": "e_cnvi",
+                                    "e": "提案被否决了。",
+                                    "p_cn": "tian bei foujuele",
+                                    "p": "tíàn bèi fǒujué le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Chủ thể hành động của \"否认\" là cá nhân hoặc tổ chức; chủ thể hành động của \"否决\" nhất định phải là hội nghị hoặc tổ chức, không thể là người ; \"否定\" không có giới hạn này, nghĩa trái ngược của nó là \"肯定\".",
+                    "title": "Phân biệt \"否定\"，\"否决\" và \"否认\"",
+                    "words": [
+                        "否定",
+                        "否决",
+                        "否认"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "驳斥",
+                    "拒绝",
+                    "阻挠",
+                    "反对",
+                    "破坏",
+                    "抗议",
+                    "阻扰"
+                ],
+                "anto": [
+                    "判定",
+                    "同意",
+                    "批准",
+                    "通过"
+                ]
+            },
+            "cn_vi": "phủ quyết",
+            "pinyin": "fǒujué",
+            "popularity": {
+                "notebook": 48,
+                "search": 310
+            },
+            "lv_hsk_new": "6",
+            "word": "否决",
+            "id": 17289,
+            "phonetic": "foujue",
+            "rank": 21699,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄥˊㄈㄡˇ",
+            "_id": "efaa524bafa04499a6fb704cd23fddec",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "có thể hay không",
+                            "explain": "can it or can't it",
+                            "examples": []
+                        },
+                        {
+                            "mean": "là nó có thể?",
+                            "explain": "is it possible?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "có hay không",
+                            "explain": "whether or not",
+                            "examples": [
+                                {
+                                    "m": "Câu hỏi đặt ra là liệu Judge Creary có thể hiện sự thiên vị hay không",
+                                    "p_vn": "Cau hoi dat ra la lieu Judge Creary co the hien su thien vi hay khong",
+                                    "_id": "c3a4c764c00d40f28cc2b0b0a59ea510",
+                                    "id": 65227,
+                                    "type": "e_cnvi",
+                                    "e": "争论点在于科瑞法官的言辞能否",
+                                    "p_cn": "zhenglundian zaiyu kerui faguan de yanci nengfou",
+                                    "p": "zhēnglùndiǎn zàiyú kērùi fǎguān de yáncí néngfǒu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 69,
+                "search": 1026
+            },
+            "snym": {
+                "syno": [
+                    "可否",
+                    "是否",
+                    "才会"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "néng fǒu",
+            "cn_vi": "năng phủ",
+            "word": "能否",
+            "id": 105181,
+            "phonetic": "nengfou",
+            "rank": 9649,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e4896c8cdfd54dd381f01e94cf71f4d0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người đàn bà xấu xa, đáng khinh.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "bĩ phụ",
+            "pinyin": "fǒu fù",
+            "word": "否妇",
+            "id": 169013,
+            "phonetic": "foufu",
+            "rank": 154633,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄡˇㄍㄜˊ",
+            "_id": "c05597a2296f4efcae919a36ce2a39bc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Cách tuyệt không thông; bị ngăn cách. \n§ Cũng viết là bĩ cách 否鬲. \n◇Minh sử 明史: Cương kỉ phế thỉ; quân thần bĩ cách 綱紀廢弛; 君臣否隔 (Quang Tông kỉ tán 光宗紀贊).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "bĩ cách",
+            "pinyin": "fǒu gé",
+            "word": "否隔",
+            "id": 149448,
+            "phonetic": "fouge",
+            "rank": 153399,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄜˊㄉㄨˋ",
+            "_id": "7e655b50e75145fa8467b692acc31f46",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phép tắc.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 60
+            },
+            "snym": null,
+            "cn_vi": "tắc độ",
+            "pinyin": "zé dù",
+            "word": "则度",
+            "id": 149180,
+            "phonetic": "zedu",
+            "rank": 53455,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄗㄜˊ",
+            "_id": "c0e596399266e478da460c1b7e4cfc77",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "vả lại; thêm nữa; gia dĩ",
+                            "explain": "表示更进一层或另外列举原因、理由",
+                            "examples": [
+                                {
+                                    "m": "khởi công xây dựng công trình thuỷ lợi vừa có nước tưới ruộng, lại có thể phát điện.",
+                                    "p_vn": "khoi cong xay dung cong trinh thuy loi vua co nuoc tuoi ruong lai co the phat dien",
+                                    "_id": "613d9339e20939f9dd337b7ba63bbbf6",
+                                    "id": 48115,
+                                    "type": "e_cnvi",
+                                    "e": "兴修水利可灌溉农田，再则还能发电。",
+                                    "p_cn": "xingxiu shuili ke guangai nongtian zai ze hai neng fadian",
+                                    "p": "xīngxiū shuǐlì kě guàngài nóngtián, zài zé hái néng fādiàn."
+                                },
+                                {
+                                    "m": "thành tích học tập của anh ấy rất kém, nguyên nhân là không chịu nỗ lực, vả lại phương pháp học cũng không đúng.",
+                                    "p_vn": "thanh tich hoc tap cua anh ay rat kem nguyen nhan la khong chiu no luc va lai phuong phap hoc cung khong dung",
+                                    "_id": "3052813ffc0ff6bce11a252f204f7768",
+                                    "id": 48116,
+                                    "type": "e_cnvi",
+                                    "e": "他学习成绩差，原因是不刻苦，再则学习方法也不对头。",
+                                    "p_cn": "ta xuexi chengji cha yuanyin shi bu keku zai ze xuexi fangfa ye bu duitou",
+                                    "p": "tā xuéxíchéngjī chà，yuányīn shì bù kèkǔ，zàizé xuéxí fāngfǎ yě bùdùitóu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 62
+            },
+            "snym": null,
+            "cn_vi": "tái tắc",
+            "pinyin": "zài zé",
+            "word": "再则",
+            "id": 62740,
+            "phonetic": "zaize",
+            "rank": 52567,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˇㄗㄜˊ",
+            "_id": "63d9d7deecb1efe08c0e232954aa6681",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "qui tắc tóm tắt; quy tắc tóm tắt",
+                            "explain": "简要的规则",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "giản tắc",
+            "pinyin": "jiǎnzé",
+            "word": "简则",
+            "id": 28255,
+            "phonetic": "jianze",
+            "rank": 79748,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄜˊㄕㄥ",
+            "_id": "8e1b4aaf31f1c1f2e8ca50dd2206294a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lên tiếng; đằng hắng; dặng hắng",
+                            "explain": "做声",
+                            "examples": [
+                                {
+                                    "m": "không dám lên tiếng",
+                                    "p_vn": "khong dam len tieng",
+                                    "_id": "e7f403d2acf05b4ff3d23b5c9424b8df",
+                                    "id": 48436,
+                                    "type": "e_cnvi",
+                                    "e": "不敢则声",
+                                    "p_cn": "bu gan ze sheng",
+                                    "p": "bùgǎn zé shēng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 66
+            },
+            "snym": null,
+            "cn_vi": "tắc thanh",
+            "pinyin": "zé shēng",
+            "word": "则声",
+            "id": 62972,
+            "phonetic": "zesheng",
+            "rank": 51183,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙˋㄗㄜˊ",
+            "_id": "9deeb9f8b4781b9f9acb8d3b29cbd1c8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bốn phép tính (cộng, trừ, nhân, chia)",
+                            "explain": "加、减、乘、除四种运算的总称",
+                            "examples": [
+                                {
+                                    "m": "phép tính phân số.",
+                                    "p_vn": "phep tinh phan so",
+                                    "_id": "5ac9468a4bd94ba762b3164f27f1cf32",
+                                    "id": 37019,
+                                    "type": "e_cnvi",
+                                    "e": "分数四则。",
+                                    "p_cn": "fenshu size",
+                                    "p": "fēnshù sì zé。"
+                                },
+                                {
+                                    "m": "phép tính.",
+                                    "p_vn": "phep tinh",
+                                    "_id": "8b06dee859103a92f63218dddda3ec42",
+                                    "id": 37020,
+                                    "type": "e_cnvi",
+                                    "e": "四则题。",
+                                    "p_cn": "size ti",
+                                    "p": "sìzétí。"
+                                },
+                                {
+                                    "m": "phép tính số chẵn.",
+                                    "p_vn": "phep tinh so chan",
+                                    "_id": "d266ee0291c0c500c1a73d1910f35962",
+                                    "id": 37021,
+                                    "type": "e_cnvi",
+                                    "e": "整数四则。",
+                                    "p_cn": "zhengshu size",
+                                    "p": "zhěngshù sì zé。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 71
+            },
+            "snym": null,
+            "cn_vi": "tứ tắc",
+            "pinyin": "sìzé",
+            "word": "四则",
+            "id": 49008,
+            "phonetic": "size",
+            "rank": 49161,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧˋㄗㄜˊ",
+            "_id": "63de305009141813dc9c737fb732db60",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy tắc chi tiết; quy định chi tiết; thể lệ chi tiết",
+                            "explain": "有关规章、制度、措施、办法等的详细的规则",
+                            "examples": [
+                                {
+                                    "m": "quy định chi tiết về công tác.",
+                                    "p_vn": "quy dinh chi tiet ve cong tac",
+                                    "_id": "8b0bfdf748dd739b39d144e42f604467",
+                                    "id": 41499,
+                                    "type": "e_cnvi",
+                                    "e": "工作细则。",
+                                    "p_cn": "gongzuo xize",
+                                    "p": "gōngzuòxìzé。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 19,
+                "search": 268
+            },
+            "snym": {
+                "syno": [
+                    "细目"
+                ],
+                "anto": [
+                    "总纲",
+                    "大纲",
+                    "略则"
+                ]
+            },
+            "cn_vi": "tế tắc",
+            "pinyin": "xìzé",
+            "word": "细则",
+            "id": 54593,
+            "phonetic": "xize",
+            "rank": 23770,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄜˊㄍㄜˋ",
+            "_id": "40ceaf27896341e3898fa8c94deccfd6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biểu thức cuối câu cũ được sử dụng để nhấn mạnh",
+                            "explain": "(old sentence-final expression used for emphasis)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 123
+            },
+            "snym": null,
+            "cn_vi": "tắc cá",
+            "pinyin": "zé gè",
+            "word": "则个",
+            "id": 88048,
+            "phonetic": "zege",
+            "rank": 37236,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄗㄜˊ",
+            "_id": "579477857c234eba8af91c6b57da321f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "một mặt; một là",
+                            "explain": "一面",
+                            "examples": [
+                                {
+                                    "m": "Tuổi của cha mẹ già không thể không biết, một là thêm mừng, một  là thêm lo.",
+                                    "p_vn": "tuoi cua cha me gia khong the khong biet, mot la them mung, mot  la them lo.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc79b695a",
+                                    "id": 89868,
+                                    "type": "e_cnvi",
+                                    "e": "父母之年不可不知，一则以喜，一则以优。",
+                                    "p_cn": "fumu zhi nian buke buzhi, yi ze shi xi, yi ze shi you.",
+                                    "p": "fùmǔ zhī nián bùkě bùzhī, yī zé shì xǐ, yī zé shì yōu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 202
+            },
+            "snym": null,
+            "cn_vi": "nhất tắc",
+            "pinyin": "yī zé",
+            "word": "一则",
+            "id": 87839,
+            "phonetic": "yize",
+            "rank": 28199,
+            "kind": [
+                "conj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄗㄜˊ",
+            "_id": "8ce4a9c9336646a3bea2042f1c4796b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Vượt quá quy định; phạm vi; số mục. Không tuân theo pháp luật. Không chỉ; hơn; ngoài. Nếu không thì. \n§ Dùng như phủ tắc 否則.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "bất tắc",
+            "pinyin": "bù zé",
+            "word": "不则",
+            "id": 148406,
+            "phonetic": "buze",
+            "rank": 62756,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "6, 27, 43",
+            "zhuyin": "ㄈㄚˊㄗㄜˊ",
+            "_id": "e9bd937f06ea4014974ad0020db4c303",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cung cấp hình phạt",
+                            "explain": "penal provision; penalty",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 39
+            },
+            "snym": null,
+            "cn_vi": "phạt tắc",
+            "pinyin": "fá zé",
+            "word": "罚则",
+            "id": 89179,
+            "phonetic": "faze",
+            "rank": 64150,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄜˊㄌㄧˋ",
+            "_id": "dfe15ea0a272476891b5cfeb75e83974",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lệ luật nhất định.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "tắc lệ",
+            "pinyin": "zé lì",
+            "word": "则例",
+            "id": 148743,
+            "phonetic": "zeli",
+            "rank": 70722,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "topic": "10, 12, 33, 41, 47, 57",
+            "zhuyin": "ㄍㄨㄟㄗㄜˊ",
+            "_id": "d60a3003079b3714d55a391649efb366",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "tuân thủ quy tắc...",
+                            "examples": [
+                                138154,
+                                138155
+                            ],
+                            "struct": "遵守+ ... + 规则"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "luật; quy luật; nội quy; luật lệ",
+                            "explain": "规定出来供大家共同遵守的制度或章程",
+                            "examples": [
+                                {
+                                    "m": "Trận đấu bóng đá có luật rõ ràng.",
+                                    "p_vn": "tran dau bong da co luat ro rang.",
+                                    "_id": "9938873f438f99a1b005f1005031cde0",
+                                    "id": 138136,
+                                    "type": "e_cnvi",
+                                    "e": "足球比赛有明确的规则。",
+                                    "p_cn": "zuqiu bisai you mingque de guize.",
+                                    "p": "zúqiú bǐsài yǒu míngquè de guīzé."
+                                },
+                                {
+                                    "m": "Thư viện có nội quy mượn sách.",
+                                    "p_vn": "thu vien co noi quy muon sach.",
+                                    "_id": "9938873f438f99a1b005f1005031d127",
+                                    "id": 138137,
+                                    "type": "e_cnvi",
+                                    "e": "图书馆有借书的规则。",
+                                    "p_cn": "tushu guan you jie shu de guize.",
+                                    "p": "túshū guǎn yǒu jiè shū de guīzé."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quy luật; phép tắc",
+                            "explain": "规律; 法则",
+                            "examples": [
+                                {
+                                    "m": "Sự thay đổi mùa là quy luật của tự nhiên.",
+                                    "p_vn": "su thay doi mua la quy luat cua tu nhien.",
+                                    "_id": "9938873f438f99a1b005f1005031e454",
+                                    "id": 138139,
+                                    "type": "e_cnvi",
+                                    "e": "四季更替是大自然的规则。",
+                                    "p_cn": "siji gengti shi da ziran de guize.",
+                                    "p": "sìjì gēngtì shì dà zìrán de guīzé."
+                                },
+                                {
+                                    "m": "Sự phát triển của xã hội loài người cũng có quy luật",
+                                    "p_vn": "su phat trien cua xa hoi loai nguoi cung co quy luat",
+                                    "_id": "9938873f438f99a1b005f1005031f690",
+                                    "id": 138142,
+                                    "type": "e_cnvi",
+                                    "e": "人类社会的发展也有规则。",
+                                    "p_cn": "renlei shehui de fazhan yeyou guize.",
+                                    "p": "rénlèi shèhuì de fāzhǎn yěyǒu guīzé."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "phó từ tu sức",
+                            "examples": [
+                                138149,
+                                138153
+                            ],
+                            "struct": "Chủ ngữ + Động từ + 得 + Phó từ + 规则"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "ngăn nắp; gọn gàng; chỉnh tề; ngay ngắn; có quy tắc",
+                            "explain": "(在形状、结构或分布上) 合乎一定的方式;整齐",
+                            "examples": [
+                                {
+                                    "m": "Chữ viết tay của anh ấy rất ngay ngắn.",
+                                    "p_vn": "chu viet tay cua anh ay rat ngay ngan.",
+                                    "_id": "9938873f438f99a1b005f10050321459",
+                                    "id": 138145,
+                                    "type": "e_cnvi",
+                                    "e": "他的字写得很规则。",
+                                    "p_cn": "ta de zi xie de hen guize.",
+                                    "p": "tā de zì xiě dé hěn guīzé."
+                                },
+                                {
+                                    "m": "Giấy này được cắt rất đều đặn.",
+                                    "p_vn": "giay nay duoc cat rat deu dan.",
+                                    "_id": "9938873f438f99a1b005f10050322014",
+                                    "id": 138146,
+                                    "type": "e_cnvi",
+                                    "e": "这张纸裁得特别规则。",
+                                    "p_cn": "zhe zhang zhi cai de tebie guize.",
+                                    "p": "zhè zhāng zhǐ cái dé tèbié guīzé."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"规律\" là sự tồn tại khách quan, \"规则\" là do con người đặt ra.\nTính từ \"规则\" thể hiện sự ngăn nắp,trật tự ; ý nghĩa của tính từ \"规律\" là : sự vật được xuất hiện dựa theo thời gian nhất định hoặc sự việc được con người thực hiện dựa theo thời gian nhất định",
+                    "title": "Phân biệt \"规律\" và \"规则\"",
+                    "words": [
+                        "规律",
+                        "规则"
+                    ]
+                },
+                {
+                    "mean_vi": "\"规则\" vừa có cách sử dụng của danh từ, vừa có cách sử dụng của tính từ, \"规章\" chỉ là danh từ",
+                    "title": "Phân biệt \"规则\" và \"规章\"",
+                    "words": [
+                        "规则",
+                        "规章"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "准则",
+                    "法则",
+                    "法规",
+                    "轨则",
+                    "原则",
+                    "规定",
+                    "法例",
+                    "章程",
+                    "条例",
+                    "法令",
+                    "规矩"
+                ],
+                "anto": [
+                    "违例"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "guīzé",
+            "cn_vi": "quy tắc",
+            "popularity": {
+                "notebook": 523,
+                "search": 5381
+            },
+            "word": "规则",
+            "id": 21491,
+            "phonetic": "guize",
+            "rank": 2201,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄨㄥˇㄗㄜˊ",
+            "_id": "dee8b273147b2af3f5f5dd3c7ed6eb72",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy tắc chung; điều lệ chung; nguyên tắc chung",
+                            "explain": "规章条例的最前面的概括性的条文",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 166
+            },
+            "snym": {
+                "anto": [
+                    "大纲",
+                    "略则"
+                ]
+            },
+            "cn_vi": "tổng tắc",
+            "pinyin": "zǒngzé",
+            "word": "总则",
+            "id": 67151,
+            "phonetic": "zongze",
+            "rank": 31597,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙㄨㄟㄗㄜˊ",
+            "_id": "e55798390920f7f5eeea4885a9e6dafd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "tuy là; tuy rằng",
+                            "explain": "虽然",
+                            "examples": [
+                                {
+                                    "m": "tuy tốn nhiều công sức nhưng đã thu thập thêm được nhiều kiến thức.",
+                                    "p_vn": "tuy ton nhieu cong suc nhung da thu thap them duoc nhieu kien thuc",
+                                    "_id": "f177e0e361e421d7afb06470812961e6",
+                                    "id": 37268,
+                                    "type": "e_cnvi",
+                                    "e": "虽则多费了些工夫，但是长了不少知识。",
+                                    "p_cn": "suize duo feile xie gongfu danshi zhang liao bu shao zhishi",
+                                    "p": "suīzé duō fèile xiē gōngfū, dànshì zhǎng liǎo bù shǎo zhīshì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 49
+            },
+            "snym": null,
+            "cn_vi": "tuy tắc",
+            "pinyin": "suīzé",
+            "word": "虽则",
+            "id": 49347,
+            "phonetic": "suize",
+            "rank": 58309,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄥˋㄗㄜˊ",
+            "_id": "edf97322c49c41faa9ecf61e9d839dfe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thông thường (hình trong hình học)",
+                            "explain": "regular (figure in geometry)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "chính tắc",
+            "pinyin": "zhèngzé",
+            "word": "正则",
+            "id": 103774,
+            "phonetic": "zhengze",
+            "rank": 84455,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cd9f002b8d544d5e8594e59b128e7a07",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thiên tắc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thiên tắc",
+            "pinyin": "tiān zé",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "天则",
+            "id": 184219,
+            "phonetic": "tianze",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄢˇㄗㄜˊ",
+            "_id": "4bb0fdf9343daf6e63bb672b05e8b267",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phép tắc; nguyên tắc; luật lệ",
+                            "explain": "典章法则",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "điển tắc",
+            "pinyin": "diǎn zé",
+            "word": "典则",
+            "id": 12555,
+            "phonetic": "dianze",
+            "rank": 125308,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄨㄟˋㄗㄜˊ",
+            "_id": "729411b93b446082d4a13c47bcf1551b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "qui định thu thuế; qui tắc thu thuế; quy tắc thu thuế",
+                            "explain": "征税的规则和实施条例",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 46
+            },
+            "snym": null,
+            "cn_vi": "thuế tắc",
+            "pinyin": "shuìzé",
+            "word": "税则",
+            "id": 48633,
+            "phonetic": "shuize",
+            "rank": 60090,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥㄗㄜˊ",
+            "_id": "32c42d21fade353eceddbb278a74288a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quy tắc chung; phép tắc chung; điều lệ chung",
+                            "explain": "适合于一般情况的规章或法则",
+                            "examples": [
+                                {
+                                    "m": "quy tắc chung của luật dân sự",
+                                    "p_vn": "quy tac chung cua luat dan su",
+                                    "_id": "b4da6fcfcca5b8d56bbf3682c54b54b6",
+                                    "id": 39012,
+                                    "type": "e_cnvi",
+                                    "e": "民法通则",
+                                    "p_cn": "minfa tongze",
+                                    "p": "mínfǎtōngzé"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 58
+            },
+            "snym": {
+                "syno": [
+                    "公例"
+                ],
+                "anto": [
+                    "变则"
+                ]
+            },
+            "cn_vi": "thông tắc",
+            "pinyin": "tōngzé",
+            "word": "通则",
+            "id": 51232,
+            "phonetic": "tongze",
+            "rank": 54242,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄩ˙ㄗㄜˊ",
+            "_id": "403da2886f7343009eb2561df184adb8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Quy củ phép tắc.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "củ tắc",
+            "pinyin": "jǔ zé",
+            "word": "矩则",
+            "id": 149179,
+            "phonetic": "juze",
+            "rank": 90807,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄨˋㄗㄜˊ",
+            "_id": "5e0fb131d709f3caecccbc56ae512fdb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "điều khoản bổ sung; điều khoản kèm theo",
+                            "explain": "附在法规、条约、规则、章程等后面的补充性条文，一般是关于生效日期、修改程序等的规定",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 72
+            },
+            "snym": {
+                "anto": [
+                    "本则"
+                ]
+            },
+            "cn_vi": "phụ tắc",
+            "pinyin": "fùzé",
+            "word": "附则",
+            "id": 17835,
+            "phonetic": "fuze",
+            "rank": 48892,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˊㄗㄜˊ",
+            "_id": "08507b9089223fd13c6c098349e3320d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "kì thực; thực ra",
+                            "explain": "其实",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kỳ thực",
+                            "explain": "表示所说的是实际情况 (承上文而含转折)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 266
+            },
+            "snym": null,
+            "cn_vi": "thực tắc",
+            "pinyin": "shízé",
+            "word": "实则",
+            "id": 47222,
+            "phonetic": "shize",
+            "rank": 23911,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄡˇㄗㄜˊ",
+            "_id": "31d9cd5e5c3c9c5d8264f5832aaa1643",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quy tắc; quy tắc chung; điều lệ, nguyên tắc",
+                            "explain": "共同遵守的规则",
+                            "examples": [
+                                {
+                                    "m": "quy tắc chung của học sinh.",
+                                    "p_vn": "quy tac chung cua hoc sinh.",
+                                    "_id": "48f8d5938af14eb729d808c9711f7db9",
+                                    "id": 36267,
+                                    "type": "e_cnvi",
+                                    "e": "学生守则。",
+                                    "p_cn": "xuesheng shouze",
+                                    "p": "xuéshēngshǒuzé。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 18,
+                "search": 257
+            },
+            "snym": null,
+            "cn_vi": "thủ tắc",
+            "pinyin": "shǒuzé",
+            "word": "守则",
+            "id": 47831,
+            "phonetic": "shouze",
+            "rank": 24385,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˇㄗㄜˊ",
+            "_id": "3ab9af2695724c64b12938c663458c80",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Hạt Gerze ở quận Ngari, Tây Tạng, Tây Tạng: Sger rtse rdzong",
+                            "explain": "Gerze county in Ngari prefecture, Tibet, Tibetan: Sger rtse rdzong",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "cải tắc",
+            "pinyin": "gǎi zé",
+            "word": "改则",
+            "id": 91705,
+            "phonetic": "gaize",
+            "rank": 117959,
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0d63a459355a41f38af0f4fffbbee1bb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Khuôn phép mà người đàn bà con gái phải theo để ăn ở.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "nữ tắc",
+            "pinyin": "nǚ zé",
+            "word": "女则",
+            "id": 169264,
+            "phonetic": "nuze",
+            "rank": 124474,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄛˋㄗㄜˊ",
+            "_id": "785f884454c0346fd1a13510daef29dd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hoặc; hoặc là; hay là",
+                            "explain": "或者2. (大多叠用)",
+                            "examples": [
+                                {
+                                    "m": "Những ngày nắng, người già đi ra ngoại thành dạo chơi hoặc ra bờ sông câu cá.",
+                                    "p_vn": "nhung ngay nang, nguoi gia di ra ngoai thanh dao choi hoac ra bo song cau ca.",
+                                    "_id": "5bc217aa7bd8152c593a80612bf489ef",
+                                    "id": 19067,
+                                    "type": "e_cnvi",
+                                    "e": "天晴的日子, 老人家或则到城外散步, 或则到河边钓鱼。",
+                                    "p_cn": "tianqing de rizi, laorenjia huo ze dao chengwai sanbu, huo ze dao hebian diaoyu. ",
+                                    "p": "tiānqīng de rìzǐ, lǎorénjiā huò zé dào chéngwài sànbù, huò zé dào hébiān diàoyú。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 309
+            },
+            "snym": null,
+            "cn_vi": "hoặc tắc",
+            "pinyin": "huò zé",
+            "word": "或则",
+            "id": 26214,
+            "phonetic": "huoze",
+            "rank": 21768,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "否则"
+}

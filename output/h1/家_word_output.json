@@ -1,0 +1,2679 @@
+{
+    "total": 1091,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                " measure",
+                " suff",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "topic": "42, 48, 65",
+            "zhuyin": "ㄐㄧㄚ",
+            "_id": "ee678d57245790cc0191dd3801da69bb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Cả nhà, cả gia đình",
+                            "examples": [
+                                105287,
+                                105288
+                            ],
+                            "struct": "全家人"
+                        },
+                        {
+                            "explain": "một nhà; mọi người thân thuộc như gia đình",
+                            "examples": [
+                                75128,
+                                75129
+                            ],
+                            "struct": "一家人"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia đình; nhà",
+                            "explain": "家庭",
+                            "examples": [
+                                {
+                                    "m": "Nhà họ Trương và nhà họ Vương là họ hàng với nhau.",
+                                    "p_vn": "nha ho truong va nha ho vuong la ho hang voi nhau.",
+                                    "_id": "12f71321a0dfc312c298a63c2727fa19",
+                                    "id": 19909,
+                                    "type": "e_cnvi",
+                                    "e": "张家和王家是亲戚。",
+                                    "p_cn": "zhangjia he wangjia shi qinqi。",
+                                    "p": "zhāngjiā hé wángjiā shì qīnqī。"
+                                },
+                                {
+                                    "m": "Gia đình tôi rất hạnh phúc.",
+                                    "p_vn": "gia dinh toi rat hanh phuc.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c7485d3",
+                                    "id": 110971,
+                                    "type": "e_cnvi",
+                                    "e": "我家生活很幸福。",
+                                    "p_cn": "wojia shenghuo hen xingfu.",
+                                    "p": "wǒjiā shēnghuó hěn xìngfú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nơi ở; nhà; chỗ ở",
+                            "explain": "家庭的住所",
+                            "examples": [
+                                {
+                                    "m": "Đây chính là nhà của tôi.",
+                                    "p_vn": "day chinh la nha cua toi.",
+                                    "_id": "e47f175bb1fa4aaada0fdd5bf9e88d85",
+                                    "id": 19911,
+                                    "type": "e_cnvi",
+                                    "e": "这儿就是我的家。",
+                                    "p_cn": "zher jiushi wo de jia。",
+                                    "p": "zhèr jiùshì wǒ de jiā。"
+                                },
+                                {
+                                    "m": "Nhà tôi ở Thượng Hải.",
+                                    "p_vn": "nha toi o thuong hai.",
+                                    "_id": "3efed1ec0028dc79e883646f801ab9eb",
+                                    "id": 19912,
+                                    "type": "e_cnvi",
+                                    "e": "我的家在上海。",
+                                    "p_cn": "wo de jia zai shanghai。",
+                                    "p": "wǒ de jiā zài Shànghǎi。"
+                                },
+                                {
+                                    "m": "Nhà tớ ở Việt Nam.",
+                                    "p_vn": "nha to o viet nam.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c7510c7",
+                                    "id": 110988,
+                                    "type": "e_cnvi",
+                                    "e": "我的家在越南。",
+                                    "p_cn": "wo de jia zai yuenan.",
+                                    "p": "wǒ de jiā zài yuènán."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đơn vị; cơ quan",
+                            "explain": "借指部队或机关中某个成员工作的处所",
+                            "examples": [
+                                {
+                                    "m": "Tôi tìm đến doanh trại, đúng lúc tiểu đoàn trưởng không có ở đơn vị.",
+                                    "p_vn": "toi tim den doanh trai, dung luc tieu doan truong khong co o don vi.",
+                                    "_id": "624db9be23a10a95bc7e03b6d395fbfd",
+                                    "id": 19913,
+                                    "type": "e_cnvi",
+                                    "e": "我找到营部，刚好营长不在家。",
+                                    "p_cn": "wo zhaodao yingbu，ganghao yingchang bu zaijia。",
+                                    "p": "wǒ zhǎodào yíngbù，gānghǎo yíngcháng bù zàijiā。"
+                                },
+                                {
+                                    "m": "Đây là nơi làm việc của anh ấy.",
+                                    "p_vn": "day la noi lam viec cua anh ay.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34da721",
+                                    "id": 105137,
+                                    "type": "e_cnvi",
+                                    "e": "这是他的工作之家。",
+                                    "p_cn": "zhe shi ta de gongzuo zhi jia.",
+                                    "p": "zhè shì tā de gōngzuò zhī jiā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhà; dân; tay",
+                            "explain": "经营某种行业的人家或具有某种身份的人",
+                            "examples": [
+                                {
+                                    "m": "Nhà nông cần cù cày cấy.",
+                                    "p_vn": "nha nong can cu cay cay.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34dd11b",
+                                    "id": 105142,
+                                    "type": "e_cnvi",
+                                    "e": "农家勤劳耕种。",
+                                    "p_cn": "nongjia qinlao gengzhong.",
+                                    "p": "nóngjiā qínláo gēngzhòng."
+                                },
+                                {
+                                    "m": "Dân chài bắt cá để sống.",
+                                    "p_vn": "dan chai bat ca de song.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac34e025f",
+                                    "id": 105146,
+                                    "type": "e_cnvi",
+                                    "e": "渔家捕鱼为生。",
+                                    "p_cn": "yujia bu yu wei sheng.",
+                                    "p": "yújiā bǔ yú wéi shēng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chuyên gia; chuyên viên; nhà",
+                            "explain": "掌握某种专门学识或从事某种专门活动的人",
+                            "examples": [
+                                {
+                                    "m": "Chuyên gia toán học tư duy rất nhanh nhẹn.",
+                                    "p_vn": "chuyen gia toan hoc tu duy rat nhanh nhen.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3517dc3",
+                                    "id": 105251,
+                                    "type": "e_cnvi",
+                                    "e": "数学家思维很敏捷。",
+                                    "p_cn": "shuxue jia siwei hen minjie.",
+                                    "p": "shùxué jiā sīwéi hěn mǐnjié."
+                                },
+                                {
+                                    "m": "Cô ấy là một nhà sử học.",
+                                    "p_vn": "co ay la mot nha su hoc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3517fbd",
+                                    "id": 105252,
+                                    "type": "e_cnvi",
+                                    "e": "她是一位历史学家。",
+                                    "p_cn": "ta shi yi wei lishi xue jia.",
+                                    "p": "tā shì yī wèi lìshǐ xué jiā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhà; gia; phái",
+                            "explain": "学术流派",
+                            "examples": [
+                                {
+                                    "m": "Trăm nhà tranh tiếng.",
+                                    "p_vn": "tram nha tranh tieng.",
+                                    "_id": "f50bca6052e3c28da227fb6baa05ee7e",
+                                    "id": 19927,
+                                    "type": "e_cnvi",
+                                    "e": "百家争鸣。",
+                                    "p_cn": "baijiazhengming。",
+                                    "p": "bǎijiāzhēngmíng。"
+                                },
+                                {
+                                    "m": "Cô ấy nghiên cứu tư tưởng Đạo gia.",
+                                    "p_vn": "co ay nghien cuu tu tuong dao gia.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac351b374",
+                                    "id": 105257,
+                                    "type": "e_cnvi",
+                                    "e": "她研究道家思想。",
+                                    "p_cn": "ta yanjiu daojia sixiang.",
+                                    "p": "tā yánjiū dàojiā sīxiǎng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhà; gia (lời nói khiêm tốn, xưng hô với người trên bậc của mình)",
+                            "explain": "谦辞，用于对别人称自己的辈分高或年纪大的亲属",
+                            "examples": [
+                                {
+                                    "m": "Gia mẫu thích cắm hoa.",
+                                    "p_vn": "gia mau thich cam hoa.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3524377",
+                                    "id": 105277,
+                                    "type": "e_cnvi",
+                                    "e": "家母喜欢花艺。",
+                                    "p_cn": "jiamu xihuan huayi.",
+                                    "p": "jiāmǔ xǐhuān huāyì."
+                                },
+                                {
+                                    "m": "Gia phụ năm nay bảy mươi tuổi.",
+                                    "p_vn": "gia phu nam nay bay muoi tuoi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c74318e",
+                                    "id": 110961,
+                                    "type": "e_cnvi",
+                                    "e": "家父今年七十岁。",
+                                    "p_cn": "jiafu jinnian qishi sui.",
+                                    "p": "jiāfù jīnnián qīshí suì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "gia; nhà (chỉ gia súc nuôi trong nhà)",
+                            "explain": "饲养的 (跟''野''相对)",
+                            "examples": [
+                                {
+                                    "m": "Gà nhà đẻ trứng mỗi ngày.",
+                                    "p_vn": "ga nha de trung moi ngay.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3526712",
+                                    "id": 105284,
+                                    "type": "e_cnvi",
+                                    "e": "家鸡每天都下蛋。",
+                                    "p_cn": "jia ji meitian dou xiadan.",
+                                    "p": "jiā jī měitiān dōu xiàdàn."
+                                },
+                                {
+                                    "m": "Chó nhà rất nghe lời.",
+                                    "p_vn": "cho nha rat nghe loi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c74111f",
+                                    "id": 110954,
+                                    "type": "e_cnvi",
+                                    "e": "家狗很听话。",
+                                    "p_cn": "jia gou hen tinghua.",
+                                    "p": "jiā gǒu hěn tīnghuà."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nuôi quen; đã thuần phục (động vật)",
+                            "explain": "饲养后驯服",
+                            "examples": [
+                                {
+                                    "m": "Thỏ được nuôi quen rất đáng yêu.",
+                                    "p_vn": "tho duoc nuoi quen rat dang yeu.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c74c8ec",
+                                    "id": 110981,
+                                    "type": "e_cnvi",
+                                    "e": "家兔子十分可爱。",
+                                    "p_cn": "jia tuzi shifen ke'ai.",
+                                    "p": "jiā tùzi shífēn kě'ài."
+                                },
+                                {
+                                    "m": "Nhà anh ấy đã thuần phục được một con chó rất ngoan.",
+                                    "p_vn": "nha anh ay da thuan phuc duoc mot con cho rat ngoan.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c74d63a",
+                                    "id": 110982,
+                                    "type": "e_cnvi",
+                                    "e": "他家家的狗很乖。",
+                                    "p_cn": "ta jia jia de gou hen guai.",
+                                    "p": "tā jiā jiā de gǒu hěn guāi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "ngôi; hiệu; tiệm; quán; nhà (dùng chỉ nhà hoặc xí nghiệp)",
+                            "explain": "用来计算家庭或企业",
+                            "examples": [
+                                {
+                                    "m": "Hai quán cơm.",
+                                    "p_vn": "hai quan com.",
+                                    "_id": "c3f05e529124dd7d69a47c3baef34bf3",
+                                    "id": 19936,
+                                    "type": "e_cnvi",
+                                    "e": "两家饭馆。",
+                                    "p_cn": "liangjia fanguan。",
+                                    "p": "liǎngjiā fànguǎn。"
+                                },
+                                {
+                                    "m": "Ba hiệu buôn.",
+                                    "p_vn": "ba hieu buon.",
+                                    "_id": "3140e6fe5e919f46ecd77a36934f3220",
+                                    "id": 19937,
+                                    "type": "e_cnvi",
+                                    "e": "三家商店。",
+                                    "p_cn": "sanjia shangdian。",
+                                    "p": "sānjiā shāngdiàn。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "suff",
+                    "means": [
+                        {
+                            "mean": "bọn; đám; các (dùng sau một số danh từ, biểu thị thuộc loại người nào)",
+                            "explain": "用在某些名词后面，表示属于那一类人",
+                            "examples": [
+                                {
+                                    "m": "Bọn trẻ con.",
+                                    "p_vn": "bon tre con.",
+                                    "_id": "a7cac131d5805e32aecb1c154f2d1c93",
+                                    "id": 19939,
+                                    "type": "e_cnvi",
+                                    "e": "孩子家。",
+                                    "p_cn": "haizijia。",
+                                    "p": "háizijiā。"
+                                },
+                                {
+                                    "m": "Đám học sinh.",
+                                    "p_vn": "dam hoc sinh.",
+                                    "_id": "d7faceb89111dca306a3a07911a1fa35",
+                                    "id": 19941,
+                                    "type": "e_cnvi",
+                                    "e": "学生家。",
+                                    "p_cn": "xuesheng jia。",
+                                    "p": "xuéshēng jiā。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vợ (dùng sau tên hoặc thứ tự của người đàn ông chỉ vợ của người ta)",
+                            "explain": "用在男人的名字或排行后面，指他的妻",
+                            "examples": [
+                                {
+                                    "m": "Vợ Thu Sinh.",
+                                    "p_vn": "vo thu sinh.",
+                                    "_id": "3aeffbaae7432c52e8f85a0b5f259945",
+                                    "id": 19942,
+                                    "type": "e_cnvi",
+                                    "e": "秋生家。",
+                                    "p_cn": "qiushengjia。",
+                                    "p": "qīushēngjiā。"
+                                },
+                                {
+                                    "m": "Vợ anh cả.",
+                                    "p_vn": "vo anh ca.",
+                                    "_id": "ac7be255046819fca340054063b3e470",
+                                    "id": 75130,
+                                    "type": "e_cnvi",
+                                    "e": "大哥家。",
+                                    "p_cn": "dage jia",
+                                    "p": "dàgē jiā"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"家\" có ý nghĩa của \"家庭\", nhưng \"家\" còn là một ngữ tố, khả năng kết hợp từ rất tốt, những ý nghĩa và cách sử dụng của \"家\" đều là những ý nghĩa và cách sử dụng mà \"家庭\" không có.",
+                    "title": "Phân biệt \"家庭\" và \"家\"",
+                    "words": [
+                        "家庭",
+                        "家"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "野"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "jiā",
+            "cn_vi": "gia",
+            "popularity": {
+                "notebook": 1279,
+                "search": 77678
+            },
+            "word": "家",
+            "id": 27543,
+            "phonetic": "jia",
+            "rank": 3,
+            "lv_tocfl": 1,
+            "compound": "家蚕 ; 家产 ; 家长里短 ; 家常 ; 家丑 ; 家畜 ; 家慈 ; 家当 ; 家道 ; 家底 ; 家丁 ; 家法 ; 家访 ; 家鸽 ; 家馆 ; 家规 ; 家伙 ; 家鸡 ; 家给人足 ; 家计 ; 家家 ; 家家户户 ; 家教 ; 家境 ; 家居 ; 家具 ; 家眷 ; 家口 ; 家累 ; 家门 ; 家奴 ; 家谱 ; 家雀儿 ; 家禽 ; 家世 ; 家事 ; 家什 ; 家书 ; 家塾 ; 家鼠 ; 家属 ; 家私 ; 家庭 ; 家庭妇女 ; 家童 ; 家徒四壁 ; 家兔 ; 家蚊 ; 家务 ; 家乡 ; 家小 ; 家信 ; 家学 ; 家鸭 ; 家严 ; 家燕 ; 家业 ; 家蝇 ; 家用 ; 家喻户晓 ; 家园 ; 家长 ; 家长制 ; 家政 ; 家种 ; 家族"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄐㄧㄚ",
+            "_id": "4e2427b5dcd100c95c88524d0f360a80",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mọi nhà; từng nhà; mỗi nhà; nhà nào cũng",
+                            "explain": "(家家儿) 每家",
+                            "examples": [
+                                {
+                                    "m": "trong thôn, mọi nhà đều nuôi lợn nuôi gà.",
+                                    "p_vn": "trong thon moi nha deu nuoi lon nuoi ga",
+                                    "_id": "e5102715b89716c833a82a5c69dfa509",
+                                    "id": 19958,
+                                    "type": "e_cnvi",
+                                    "e": "村子里家家喂猪养鸡。",
+                                    "p_cn": "cunzi li jia jia wei zhu yang ji",
+                                    "p": "cūnzǐ lǐ jiājiā wèizhū yǎngjī。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 180
+            },
+            "snym": null,
+            "cn_vi": "gia gia",
+            "pinyin": "jiā jiā",
+            "word": "家家",
+            "id": 27576,
+            "phonetic": "jiajia",
+            "rank": 30122,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄛˋㄐㄧㄚㄐㄧㄚ",
+            "_id": "b5236abc557144dbba37bacac308e2a7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chơi đồ hàng",
+                            "explain": "“过家家”是孩子模仿成年人的一种游戏，一个人或几个人都可进行。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 231
+            },
+            "snym": null,
+            "cn_vi": "quá gia gia",
+            "pinyin": "guò jiā jiā",
+            "word": "过家家",
+            "id": 119967,
+            "phonetic": "guojiajia",
+            "rank": 26003,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e288600e02b140bfae8a893e5c8be650",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "từng nhà",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "gia gia nhi",
+            "pinyin": "jiā jiā er",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "家家儿",
+            "id": 174578,
+            "phonetic": "jiajiaer",
+            "rank": 158107,
+            "kind": [
+                "pro"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄐㄧㄚㄐㄧㄡˇ",
+            "_id": "19ab0a90f42940f282ca697702ef7502",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đến chơi nhà (Tw)",
+                            "explain": "to play house (Tw)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "gia gia tửu",
+            "pinyin": "jiā jiā jiǔ",
+            "word": "家家酒",
+            "id": 117879,
+            "phonetic": "jiajiajiu",
+            "rank": 75268,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄢ˙ㄐㄧㄚㄐㄧㄚㄐㄧㄡˇ",
+            "_id": "c5d13bf7025d4c8b8c7d8b88fb3db0e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "đến chơi nhà (Tw)",
+                            "explain": "to play house (Tw)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "ban gia gia tửu",
+            "pinyin": "bàn jiā jiā jiǔ",
+            "word": "扮家家酒",
+            "id": 134602,
+            "phonetic": "banjiajiajiu",
+            "rank": 82129,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄛˋㄐㄧㄚㄐㄧㄚㄦ˙",
+            "_id": "e2781465a66739aec1844e2f32c69409",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chơi nhà chòi (trò chơi trẻ con, bắt chước cuộc sống gia đình)",
+                            "explain": "儿童模仿家庭生活的游戏也叫\"过家景\"",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 70
+            },
+            "snym": null,
+            "cn_vi": "quá gia gia nhi",
+            "pinyin": "guò jiā jiā er",
+            "word": "过家家儿",
+            "id": 21986,
+            "phonetic": "guojiajiaer",
+            "rank": 49681,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄐㄩㄐㄧㄚㄓㄨㄤ",
+            "_id": "2cfeec1638fb4d329fe625a2f2cd1efe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tân trang nhà cửa/ decor nhà cửa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "gia cư gia trang",
+            "pinyin": "jiājū jiāzhuāng",
+            "word": "家居家装",
+            "id": 85742,
+            "phonetic": "jiajujiazhuang",
+            "rank": 79719,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄐㄧㄚㄏㄨˋㄏㄨˋ",
+            "_id": "407e4a6b93baede177fafac30f69439c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "từng nhà; mọi nhà",
+                            "explain": "每家",
+                            "examples": [
+                                {
+                                    "m": "mọi nhà đều quét dọn sạch sẽ.",
+                                    "p_vn": "moi nha deu quet don sach se",
+                                    "_id": "5008ea953b9abaffb243d20b1898afbd",
+                                    "id": 19959,
+                                    "type": "e_cnvi",
+                                    "e": "家家户户都打扫得很干净。",
+                                    "p_cn": "jiajiahuhu dou dasao de hen ganjing",
+                                    "p": "jiājiāhùhù dōu dǎsǎo dé hěn gānjìng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 314
+            },
+            "snym": {
+                "syno": [
+                    "每家每户",
+                    "大街小巷",
+                    "千家万户"
+                ]
+            },
+            "cn_vi": "gia gia hộ hộ",
+            "pinyin": "jiājiāhùhù",
+            "word": "家家户户",
+            "id": 27577,
+            "phonetic": "jiajiahuhu",
+            "rank": 21504,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄢˊㄐㄧㄚ",
+            "_id": "b39183131785687aab98d82cb4e91d60",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gia truyền",
+                            "explain": "家庭里世代相传",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 123
+            },
+            "snym": null,
+            "cn_vi": "truyền gia",
+            "pinyin": "chuán jiā",
+            "word": "传家",
+            "id": 8683,
+            "phonetic": "chuanjia",
+            "rank": 37298,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄠˇㄐㄧㄚ",
+            "_id": "d2c33ecbe7f44b12b771edeac025743b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Quận Qiaojia ở Zhaotong 昭通 , Vân Nam",
+                            "explain": "Qiaojia county in Zhaotong 昭通 [Zhāo tōng], Yunnan",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "xảo gia",
+            "pinyin": "qiǎo jiā",
+            "word": "巧家",
+            "id": 102661,
+            "phonetic": "qiaojia",
+            "rank": 147269,
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄕㄥ",
+            "_id": "f4865d4c089215971a30dede2761ac23",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh dự gia đình; thanh danh gia đình; danh tiếng gia đình; gia thanh",
+                            "explain": "家庭的名声",
+                            "examples": [
+                                {
+                                    "m": "Nhà chiêm tinh khẳng định có thể tiên đoán điềm báo.",
+                                    "p_vn": "Nha chiem tinh khang dinh co the tien doan diem bao.",
+                                    "_id": "05fef61534444803b8097057422bf0c2",
+                                    "id": 73551,
+                                    "type": "e_cnvi",
+                                    "e": "占星家声称能预知祸福.",
+                                    "p_cn": "zhanxingjia shengcheng neng yuzhi huofu",
+                                    "p": "zhānxīngjiā shēngchēng néng yùzhī huòfú"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "gia thanh",
+            "pinyin": "jiā shēng",
+            "word": "家声",
+            "id": 27601,
+            "phonetic": "jiasheng",
+            "rank": 129510,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "做个赢家很好。\nZuò gè yíngjiā hěn hǎo.\nThật tốt khi trở thành người chiến thắng.",
+                "measure": "个"
+            },
+            "topic": "15, 47",
+            "zhuyin": "ㄧㄥˊㄐㄧㄚ",
+            "_id": "ee3d79321c3c244978efe096f6cd4475",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bên thắng",
+                            "explain": "指赌博或比赛中获胜的一方",
+                            "examples": [
+                                {
+                                    "m": "Khi chứng khoán hàng hóa giảm giá, đồng đô la Mỹ sẽ trở thành kẻ chiến thắng bất khả chiến bại.",
+                                    "p_vn": "Khi chung khoan hang hoa giam gia, dong do la My se tro thanh ke chien thang bat kha chien bai.",
+                                    "_id": "4a1132dc11eb4db88e416cdbc32a331d",
+                                    "id": 55146,
+                                    "type": "e_cnvi",
+                                    "e": "随着商品证券跌价，美元将会成为胜之不武的赢家。",
+                                    "p_cn": "Suizhe shangpin zhengquan diejia, meiyuan jiang hui chengwei sheng zhi bu wu de yingjia.",
+                                    "p": "Suízhe shāngpǐn zhèngquàn diéjià, měiyuán jiāng huì chéngwéi shèng zhī bù wǔ de yíngjiā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 258
+            },
+            "snym": {
+                "anto": [
+                    "输家"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yíngjiā",
+            "cn_vi": "doanh gia",
+            "word": "赢家",
+            "id": 60658,
+            "phonetic": "yingjia",
+            "rank": 24342,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f3f6622792d14e1d87d389667bafbd9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bỏ nhà",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khí gia",
+            "pinyin": "qì jiā",
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "word": "弃家",
+            "id": 174371,
+            "phonetic": "qijia",
+            "rank": 99860,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄠˇㄐㄧㄚ",
+            "_id": "0b0c2052cf215b9021ad55b8e03f4001",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quê; quê nhà; quê hương",
+                            "explain": "指出生或长期居住过的地方",
+                            "examples": [
+                                {
+                                    "m": "Lâu lắm tôi chưa về quê rồi.",
+                                    "p_vn": "lau lam toi chua ve que roi.",
+                                    "_id": "641148288b13f4cf43a85133e810b456",
+                                    "id": 114089,
+                                    "type": "e_cnvi",
+                                    "e": "我好久没回老家了。",
+                                    "p_cn": "wo haojiu mei huilaojiale.",
+                                    "p": "wǒ hǎojiǔ méi huílǎojiāle."
+                                },
+                                {
+                                    "m": "Tết phải về quê một chuyến.",
+                                    "p_vn": "tet phai ve que mot chuyen.",
+                                    "_id": "641148288b13f4cf43a85133e810d5c6",
+                                    "id": 114092,
+                                    "type": "e_cnvi",
+                                    "e": "春节要回趟老家。",
+                                    "p_cn": "chunjie yao hui tang laojia.",
+                                    "p": "chūnjié yào huí tàng lǎojiā."
+                                },
+                                {
+                                    "m": "Ông nội luôn sống ở quê hương.",
+                                    "p_vn": "ong noi luon song o que huong.",
+                                    "_id": "641148288b13f4cf43a85133e810da27",
+                                    "id": 114093,
+                                    "type": "e_cnvi",
+                                    "e": "爷爷一直住在老家。",
+                                    "p_cn": "yeye yizhi zhu zai laojia.",
+                                    "p": "yéye yīzhí zhù zài lǎojiā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nguyên quán; quê quán; quê",
+                            "explain": "指原籍",
+                            "examples": [
+                                {
+                                    "m": "Nguyên quán của bạn ở đâu?",
+                                    "p_vn": "nguyen quan cua ban o dau?",
+                                    "_id": "641148288b13f4cf43a85133e810e567",
+                                    "id": 114095,
+                                    "type": "e_cnvi",
+                                    "e": "你老家在哪儿？",
+                                    "p_cn": "ni laojia zai na'er?",
+                                    "p": "nǐ lǎojiā zài nǎ'er?"
+                                },
+                                {
+                                    "m": "Thầy giáo hỏi tôi quê ở đâu.",
+                                    "p_vn": "thay giao hoi toi que o dau.",
+                                    "_id": "641148288b13f4cf43a85133e8110945",
+                                    "id": 114098,
+                                    "type": "e_cnvi",
+                                    "e": "老师问我老家在哪。",
+                                    "p_cn": "laoshi wen wo laojia zai na.",
+                                    "p": "lǎoshī wèn wǒ lǎojiā zài nǎ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhà cũ",
+                            "explain": "从前的家",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi đã tạm biệt nhà cũ.",
+                                    "p_vn": "chung toi da tam biet nha cu.",
+                                    "_id": "641148288b13f4cf43a85133e81113a0",
+                                    "id": 114100,
+                                    "type": "e_cnvi",
+                                    "e": "我们告别了从前的老家。",
+                                    "p_cn": "women gaobiele congqian de laojia.",
+                                    "p": "wǒmen gàobiéle cóngqián de lǎojiā."
+                                },
+                                {
+                                    "m": "Nhà cũ trước đây có một cây lớn.",
+                                    "p_vn": "nha cu truoc day co mot cay lon.",
+                                    "_id": "641148288b13f4cf43a85133e8111d68",
+                                    "id": 114101,
+                                    "type": "e_cnvi",
+                                    "e": "从前的老家有棵大树。",
+                                    "p_cn": "congqian de laojia you ke da shu.",
+                                    "p": "cóngqián de lǎojiā yǒu kē dà shù."
+                                },
+                                {
+                                    "m": "Tôi mơ thấy nhà cũ trước đây.",
+                                    "p_vn": "toi mo thay nha cu truoc day.",
+                                    "_id": "641148288b13f4cf43a85133e811258d",
+                                    "id": 114102,
+                                    "type": "e_cnvi",
+                                    "e": "我梦到了从前的老家。",
+                                    "p_cn": "wo meng daole congqian de laojia.",
+                                    "p": "wǒ mèng dàole cóngqián de lǎojiā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 272,
+                "search": 3158
+            },
+            "snym": {
+                "anto": [
+                    "他乡,",
+                    "外地"
+                ],
+                "syno": [
+                    "故乡,",
+                    "家乡,",
+                    "原籍"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "lǎojiā",
+            "cn_vi": "lão gia",
+            "word": "老家",
+            "id": 33823,
+            "phonetic": "laojia",
+            "rank": 3764,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "1, 14",
+            "zhuyin": "ㄔㄤˇㄐㄧㄚ",
+            "_id": "c5510b86f06d1f13ced6b0ea2e2671ab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xưởng; công xưởng; nhà máy",
+                            "explain": "工厂",
+                            "examples": [
+                                {
+                                    "m": "Công ty chúng tôi là nhà máy sản xuất hàng đầu về quà tặng và ruy băng thời trang.",
+                                    "p_vn": "Cong ty chung toi la nha may san xuat hang dau ve qua tang va ruy bang thoi trang.",
+                                    "_id": "efbff3b4368b46b5ba987336a8ab98ef",
+                                    "id": 56284,
+                                    "type": "e_cnvi",
+                                    "e": "我司是一家生产时尚礼品、织带的生产厂家。",
+                                    "p_cn": "Wo si shi yijia shengchan shishang lipin, zhidai de shengchan changjia.",
+                                    "p": "Wǒ sī shì yījiā shēngchǎn shíshàng lǐpǐn, zhīdài de shēngchǎn chǎngjiā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chủ nhà máy; chủ hãng",
+                            "explain": "办公厂的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"厂家\" là đơn vị sản xuất.\n- \"厂商\" vừa là đơn vị sản xuất vừa là đơn vị tiêu thụ sản phẩm.",
+                    "title": "Phân biệt \"厂家\" và \"厂商\"",
+                    "words": [
+                        "厂家",
+                        "厂商"
+                    ]
+                }
+            ],
+            "snym": null,
+            "cn_vi": "xưởng gia",
+            "pinyin": "chǎngjiā",
+            "popularity": {
+                "notebook": 53,
+                "search": 1061
+            },
+            "word": "厂家",
+            "id": 6581,
+            "phonetic": "changjia",
+            "rank": 9373,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c6d768dff0c1447bb235bdb97739f25a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia lễ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "gia lễ",
+            "pinyin": "jiā lǐ",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "家礼",
+            "id": 177764,
+            "phonetic": "jiali",
+            "rank": 148345,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄕˋ",
+            "_id": "ba6634e6369c9b69bf6f79b943f1fca3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia thế",
+                            "explain": "家庭的世系;门第",
+                            "examples": [
+                                {
+                                    "m": "nguồn gốc của gia học (nguồn gốc học vấn lưu truyền trong gia đình.)",
+                                    "p_vn": "nguon goc cua gia hoc (nguon goc hoc van luu truyen trong gia dinh)",
+                                    "_id": "d727a95394dd9e5eb7665a3c2d4cc2cf",
+                                    "id": 47415,
+                                    "type": "e_cnvi",
+                                    "e": "家学渊源(家世学问的传授有根源)。",
+                                    "p_cn": "jia xue yuanyuan (jiashi xuewen de chuanshou you genyuan)",
+                                    "p": "jiāxuéyuānyuán ( jiāshì xuéwèn de chuánshòu yǒu gēnyuán )。"
+                                },
+                                {
+                                    "m": "gia thế thanh bần",
+                                    "p_vn": "gia the thanh ban",
+                                    "_id": "dbaf268a8a796896f613459467130174",
+                                    "id": 16080,
+                                    "type": "e_cnvi",
+                                    "e": "家世寒素",
+                                    "p_cn": "jiashi hansu",
+                                    "p": "jiāshì hánsù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 96
+            },
+            "snym": {
+                "syno": [
+                    "门第"
+                ]
+            },
+            "cn_vi": "gia thế",
+            "pinyin": "jiāshì",
+            "word": "家世",
+            "id": 27604,
+            "phonetic": "jiashi",
+            "rank": 42419,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄤㄐㄧㄚ",
+            "_id": "bd82ad1dd4f44beeb59d8c8e14e0b4c3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhà chứa",
+                            "explain": "brothel",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "xướng gia",
+            "pinyin": "chāngjiā",
+            "word": "娼家",
+            "id": 107345,
+            "phonetic": "changjia",
+            "rank": 123675,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄇㄣˊ",
+            "_id": "e78c886976191bfee89fde879914ac7f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "cửa chính (của nhà ở); gia môn",
+                            "explain": "家庭住所的大门",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "书",
+                    "means": [
+                        {
+                            "mean": "gia tộc tôi",
+                            "explain": "称自己的家族",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "方",
+                    "means": [
+                        {
+                            "mean": "gia đình tôi; nhà tôi",
+                            "explain": "本家",
+                            "examples": [
+                                {
+                                    "m": "cậu ấy là anh em họ nhà tôi.",
+                                    "p_vn": "cau ay la anh em ho nha toi",
+                                    "_id": "4adb11febc7180776ca30354ac90331e",
+                                    "id": 19962,
+                                    "type": "e_cnvi",
+                                    "e": "他是我的家门堂兄弟。",
+                                    "p_cn": "ta shi wo de jiamen tang xiongdi",
+                                    "p": "tā shì wǒ de jiāmén tángxiōngdì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 170
+            },
+            "snym": {
+                "syno": [
+                    "门楣",
+                    "故里",
+                    "门第",
+                    "故乡"
+                ]
+            },
+            "cn_vi": "gia môn",
+            "pinyin": "jiāmén",
+            "word": "家门",
+            "id": 27588,
+            "phonetic": "jiamen",
+            "rank": 31088,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄕㄨˇ",
+            "_id": "e53c1444f0d76aae023b1dbaea1c1721",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia thuộc; người nhà; người trong gia đình; họ hàng",
+                            "explain": "家庭内户主本人以外的成员，也指职工本人以外的家庭成员",
+                            "examples": [
+                                {
+                                    "m": "Bữa tiệc tối mai, người nhà cũng có thể tham dự.",
+                                    "p_vn": "bua tiec toi mai, nguoi nha cung co the tham du.",
+                                    "_id": "a033264dcb4c48356ec91353007cf7f1",
+                                    "id": 29762,
+                                    "type": "e_cnvi",
+                                    "e": "明天的晚会，家属也能够参加。",
+                                    "p_cn": "mingtian de wanhui，jiashu ye nenggou canjia。",
+                                    "p": "míngtiān de wǎnhùi，jiāshǔ yě nénggòu cānjiā。"
+                                },
+                                {
+                                    "m": "Giám đốc từ chối yêu cầu của gia đình bệnh nhân.",
+                                    "p_vn": "giam doc tu choi yeu cau cua gia dinh benh nhan.",
+                                    "_id": "c0fb569df3556ccddfe6404866987662",
+                                    "id": 88262,
+                                    "type": "e_cnvi",
+                                    "e": "院长拒绝了病人家属的要求。",
+                                    "p_cn": "yuan zhang jujuele bingren jiashu de yaoqiu.",
+                                    "p": "yuàn zhǎng jùjuéle bìngrén jiāshǔ de yāoqiú."
+                                },
+                                {
+                                    "m": "Họ đã điện báo tin này cho gia đình cô.",
+                                    "p_vn": "ho da dien bao tin nay cho gia dinh co.",
+                                    "_id": "c0fb569df3556ccddfe640486698809e",
+                                    "id": 88263,
+                                    "type": "e_cnvi",
+                                    "e": "他们把这个消息电告她的家属。",
+                                    "p_cn": "tamen ba zhege xiaoxi diangao ta de jiashu.",
+                                    "p": "tāmen bǎ zhège xiāoxī diàngào tā de jiāshǔ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 155,
+                "search": 1139
+            },
+            "snym": {
+                "syno": [
+                    "宅眷",
+                    "家眷",
+                    "眷属",
+                    "家族",
+                    "家人"
+                ]
+            },
+            "lv_hsk_new": "3, 6",
+            "pinyin": "jiāshǔ",
+            "cn_vi": "gia thuộc",
+            "word": "家属",
+            "id": 27647,
+            "phonetic": "jiashu",
+            "rank": 8863,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e722ad6df869485695e3ab2ac02e3930",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nhà sung túc, dư ăn dư mặc.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "mua sắm dụng cụ gia đình.",
+                                    "p_vn": "mua sam dung cu gia dinh",
+                                    "_id": "86e905a87613d55fc8750d4c5b52a68d",
+                                    "id": 50701,
+                                    "type": "e_cnvi",
+                                    "e": "置备家具",
+                                    "p_cn": "zhibei jiaju",
+                                    "p": "zhìbèi jiājù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "bị gia",
+            "pinyin": "bèi jiā",
+            "word": "备家",
+            "id": 171114,
+            "phonetic": "beijia",
+            "rank": 151019,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨ˙ㄐㄧㄚ",
+            "_id": "e346133108884cab811ecbca4a55c03f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "họa sĩ",
+                            "explain": "artist; painter",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "đồ gia",
+            "pinyin": "tú jiā",
+            "word": "涂家",
+            "id": 92353,
+            "phonetic": "tujia",
+            "rank": 88253,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄔㄨㄢˊ",
+            "_id": "be903f48a4b080984296caf902deb681",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gia truyền; nòi",
+                            "explain": "由家庭世代相传",
+                            "examples": [
+                                {
+                                    "m": "mời mọi người truyền tay nhau đọc và góp ý bản thảo này.",
+                                    "p_vn": "moi moi nguoi truyen tay nhau doc va gop y ban thao nay",
+                                    "_id": "38144771288e30cf6dfb34504c2578a2",
+                                    "id": 5539,
+                                    "type": "e_cnvi",
+                                    "e": "这篇稿子请大家传阅并提意见。",
+                                    "p_cn": "zhe pian gaozi qing dajia chuanyue bing ti yijian",
+                                    "p": "zhèpiān gǎozǐ qǐng dàjiā chuányuè bìng tíyìjiàn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 48
+            },
+            "snym": {
+                "syno": [
+                    "祖传"
+                ]
+            },
+            "cn_vi": "gia truyền",
+            "pinyin": "jiā chuán",
+            "word": "家传",
+            "id": 27557,
+            "phonetic": "jiachuan",
+            "rank": 59057,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄕㄨˊ",
+            "_id": "c2e8513d9e315a6018ccf1a3e986d0ac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "dạy học tại nhà; dạy tại gia (mời thầy về nhà dạy)",
+                            "explain": "旧时把教师请到家里来专门教自己的子弟的私塾，有的兼收亲友子弟",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "gia thục",
+            "pinyin": "jiāshú",
+            "word": "家塾",
+            "id": 27608,
+            "phonetic": "jiashu",
+            "rank": 110089,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄊㄨㄥˊ",
+            "_id": "eec7d78f1d844812b9d142caafec30c2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người hầu",
+                            "explain": "servant",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "gia đồng",
+            "pinyin": "jiā tóng",
+            "word": "家僮",
+            "id": 102464,
+            "phonetic": "jiatong",
+            "rank": 153044,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "19",
+            "zhuyin": "ㄔˊㄐㄧㄚ",
+            "_id": "ec34a758b321469e5af83e5d5bc435a1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "công việc quản gia; lo việc nhà; lo chuyện gia đình; chăm lo việc nhà",
+                            "explain": "料理家务",
+                            "examples": [
+                                {
+                                    "m": "cần cù chăm lo chuyện gia đình.",
+                                    "p_vn": "can cu cham lo chuyen gia dinh",
+                                    "_id": "9d3c2d0bd6e4cd1770a0fe3ea924a206",
+                                    "id": 4883,
+                                    "type": "e_cnvi",
+                                    "e": "勤俭持家。",
+                                    "p_cn": "qinjian chijia",
+                                    "p": "qínjiǎnchíjiā。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 18,
+                "search": 329
+            },
+            "snym": {
+                "syno": [
+                    "顾家"
+                ],
+                "anto": [
+                    "懒散"
+                ]
+            },
+            "cn_vi": "trì gia",
+            "pinyin": "chíjiā",
+            "word": "持家",
+            "id": 7673,
+            "phonetic": "chijia",
+            "rank": 20875,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄉㄧㄢˋ",
+            "_id": "05886f4ff14910bf27c7ff6442ccbc79",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thiết bị điện gia dụng",
+                            "explain": "家用电器的简称。",
+                            "examples": [
+                                {
+                                    "m": "ngành sản xuất thiết bị điện gia dụng",
+                                    "p_vn": "nganh san xuat thiet bi dien gia dụng",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b32e07fb",
+                                    "id": 90111,
+                                    "type": "e_cnvi",
+                                    "e": "家电行业",
+                                    "p_cn": "jiadian hangye",
+                                    "p": "jiādiàn hángyè"
+                                },
+                                {
+                                    "m": "sản phẩm thiết bị điện gia dụng",
+                                    "p_vn": "sản phảm thiét bị diẹn gia dụng",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b32e0b1e",
+                                    "id": 90112,
+                                    "type": "e_cnvi",
+                                    "e": "家电产品",
+                                    "p_cn": "jiadian chanpin",
+                                    "p": "jiādiàn chǎnpǐn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 70,
+                "search": 744
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jiādiàn",
+            "cn_vi": "gia điện",
+            "word": "家电",
+            "id": 82790,
+            "phonetic": "jiadian",
+            "rank": 12185,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˋㄐㄧㄚ",
+            "_id": "cc751a3a84a44b83a506427af2f47705",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Sáu trường phái triết học tiền Hán, được phân tích bởi 司馬談 | 司马谈 (儒家, 道家, 陰陽 | 阴阳, 法家, 名家 và 墨家)",
+                            "explain": "Six schools of pre-Han philosophy, as analyzed by 司馬談|司马谈 [Si1 mǎ Tán] (儒家 [Ru2 jiā], 道家 [Dào jiā], 陰陽|阴阳 [yīn yáng], 法家 [Fǎ jiā], 名家 [Ming2 jiā], and 墨家 [Mò jiā])",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "lục gia",
+            "pinyin": "liù jiā",
+            "word": "六家",
+            "id": 94908,
+            "phonetic": "liujia",
+            "rank": 126812,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "71",
+            "zhuyin": "ㄈㄨˊㄐㄧㄚ",
+            "_id": "0adbc33456834a7d853efc4ce248b70c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đạo Phật",
+                            "explain": "Buddhism",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Phật tử",
+                            "explain": "Buddhist",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 75
+            },
+            "snym": null,
+            "cn_vi": "phật gia",
+            "pinyin": "fú jiā",
+            "word": "佛家",
+            "id": 89999,
+            "phonetic": "fujia",
+            "rank": 47997,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄧㄚ",
+            "_id": "377e3b65b2f4706a8c80136fcf17b172",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vịt nhà; vịt nuôi",
+                            "explain": "鸭的一种，羽毛白色或花褐色，肉和卵供食用",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "gia áp",
+            "pinyin": "jiā yā",
+            "word": "家鸭",
+            "id": 27631,
+            "phonetic": "jiaya",
+            "rank": 148100,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄠㄐㄧㄚ",
+            "_id": "86fa3c1501c5f8a41926d86740295002",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tịch biên; tịch thu tài sản",
+                            "explain": "查抄家产",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 113
+            },
+            "snym": null,
+            "cn_vi": "sao gia",
+            "pinyin": "chāojiā",
+            "word": "抄家",
+            "id": 6674,
+            "phonetic": "chaojia",
+            "rank": 38969,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄉㄤ",
+            "_id": "0fc3638a024f69dafe2f117d12fde59f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia sản; gia tài; của cải; đồ đạc trong nhà",
+                            "explain": "(家当儿) 家产",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 144
+            },
+            "snym": {
+                "syno": [
+                    "家产",
+                    "财产",
+                    "财富",
+                    "资产",
+                    "产业",
+                    "物业"
+                ]
+            },
+            "cn_vi": "gia đương",
+            "pinyin": "jiādàng",
+            "word": "家当",
+            "id": 27560,
+            "phonetic": "jiadang",
+            "rank": 34126,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄐㄧㄚ",
+            "_id": "4839bc3dbbb54d5997148b2eaf35155e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trở về Nha",
+                            "explain": "to return home",
+                            "examples": [
+                                {
+                                    "m": "trở về quê hương",
+                                    "p_vn": "tro ve que huong",
+                                    "_id": "d1eedc1ce3d3cbb74be31c053a468199",
+                                    "id": 18464,
+                                    "type": "e_cnvi",
+                                    "e": "回返家乡",
+                                    "p_cn": "huifan jiaxiang",
+                                    "p": "húifǎn jiāxiāng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 56
+            },
+            "snym": null,
+            "cn_vi": "phản gia",
+            "pinyin": "fǎn jiā",
+            "word": "返家",
+            "id": 100142,
+            "phonetic": "fanjia",
+            "rank": 54999,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "pro"
+            ],
+            "measure": {
+                "pinyin": "dui",
+                "examples": "不要对人家送的礼物挑三拣四，嫌东嫌西的。",
+                "measure": "对"
+            },
+            "zhuyin": "ㄖㄣˊㄐㄧㄚ",
+            "_id": "71913e4d592825d4ed9af342bb7ff726",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "nhà; hộ",
+                            "explain": "(人家儿) 住户",
+                            "examples": [
+                                {
+                                    "m": "thôn này có một trăm mười hộ.",
+                                    "p_vn": "thon nay co mot tram muoi ho.",
+                                    "_id": "a453ce89050aec14ff8f39cedb8806e3",
+                                    "id": 33607,
+                                    "type": "e_cnvi",
+                                    "e": "这个村子有百十户人家。",
+                                    "p_cn": "zhege cunzi you baishihu renjia. ",
+                                    "p": "zhègè cūnzǐ yǒu bǎishíhù rénjia。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "gia đình",
+                            "explain": "家庭",
+                            "examples": [
+                                {
+                                    "m": "gia đình cần kiệm.",
+                                    "p_vn": "gia dinh can kiem.",
+                                    "_id": "79bcc590eb5ad4643a0851d81b7ab3a2",
+                                    "id": 33608,
+                                    "type": "e_cnvi",
+                                    "e": "勤俭人家。",
+                                    "p_cn": "qinjian renjia. ",
+                                    "p": "qīnjiǎn rénjia。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhà chồng tương lai; gia đình chồng tương lai",
+                            "explain": "指女子未来的丈夫家",
+                            "examples": [
+                                {
+                                    "m": "cô ta đã có nơi có chốn rồi.",
+                                    "p_vn": "co ta da co noi co chon roi.",
+                                    "_id": "f82986af5093f794ae230ad54c96cdbb",
+                                    "id": 33609,
+                                    "type": "e_cnvi",
+                                    "e": "她已经有了人家儿了。",
+                                    "p_cn": "ta yijing you le renjia er le. ",
+                                    "p": "tā yǐjīng yǒu le rénjia ér le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"大家\" và \"别人\" đều có thể chỉ những người khác ngoài người nói và người nghe.\nKhác:\n- \"别人\" còn chỉ đến những người khác ngoài những người được chỉ định.\n\"人家\" không có cách dùng này.\n- \"人家\" có thể chỉ người nào đó hoặc một số người được đề cập trước đó, \"别人\" không có cách dùng này.\n- \"别人\" có thể chỉ đề cập đến những người cụ thể khác hoặc người ngoài, nhưng \"人家\" không có cách dùng này.\n- \"人家\" đôi khi đề cập đến chính người nói \"别人\" không có cách dùng này.",
+                    "title": "Phân biệt \"人家\" và \"别人\"",
+                    "words": [
+                        "人家",
+                        "别人"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "4, 6",
+            "pinyin": "rénjiā",
+            "cn_vi": "nhân gia",
+            "popularity": {
+                "notebook": 277,
+                "search": 4327
+            },
+            "word": "人家",
+            "id": 44198,
+            "phonetic": "renjia",
+            "rank": 2783,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄍㄨ",
+            "_id": "a4f95d2b60354642b28ac5ef4ab5b655",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(lịch sự) chị em gái của bố",
+                            "explain": "(polite) father's sisters",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "gia cô",
+            "pinyin": "jiā gū",
+            "word": "家姑",
+            "id": 91036,
+            "phonetic": "jiagu",
+            "rank": 117643,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄨㄟˋㄐㄧㄚ",
+            "_id": "084341171e6ca6d4673c0c56b39fb797",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người đối diện; nhà đối diện (đánh bài)",
+                            "explain": "四人玩牌时坐在自己对面的一方",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đối tượng (trong làm mai)",
+                            "explain": "指说亲时的对方",
+                            "examples": [
+                                {
+                                    "m": "ông chú đi hỏi vợ cho anh ấy, một người rất có năng lực, phẩm hạnh cũng rất tốt.",
+                                    "p_vn": "ong chu di hoi vo cho anh ay mot nguoi rat co nang luc pham hanh cung rat tot",
+                                    "_id": "c7e0034220c3fd655c638ef09bd151d8",
+                                    "id": 9730,
+                                    "type": "e_cnvi",
+                                    "e": "本家叔父给他提亲，对家能力强，人品也好。",
+                                    "p_cn": "benjia shufu gei ta tiqin dui jia nengli qiang ren pin ye hao",
+                                    "p": "běnjiā shūfù gěi tā tíqīn，dùijiā nénglì qiáng，rénpǐn yěhǎo。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 118
+            },
+            "snym": null,
+            "cn_vi": "đối gia",
+            "pinyin": "duì jiā",
+            "word": "对家",
+            "id": 14534,
+            "phonetic": "duijia",
+            "rank": 38235,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄅㄠˋ",
+            "_id": "33262cb8383b43029ec68da55728bb78",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "viết tắt cho 家庭 暴力",
+                            "explain": "abbr. for 家庭暴力 [jiā tíng bào lì]",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bạo lực gia đình",
+                            "explain": "domestic violence",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 52,
+                "search": 496
+            },
+            "snym": null,
+            "cn_vi": "gia bạo",
+            "pinyin": "jiā bào",
+            "word": "家暴",
+            "id": 96156,
+            "phonetic": "jiabao",
+            "rank": 16019,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄚㄐㄧㄚ",
+            "_id": "6885b89a61d94db1ba3bbc8d0da39d7f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mẹ chồng",
+                            "explain": "husband's mother",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 36
+            },
+            "snym": null,
+            "cn_vi": "a cô",
+            "pinyin": "ā jiā",
+            "word": "阿家",
+            "id": 87802,
+            "phonetic": "ajia",
+            "rank": 66870,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄜˊㄐㄧㄚ",
+            "_id": "831915e4e8324d5dba5be6c7014d22e0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người có quan điểm; lí thuyết hoặc nghiên cứu về triết học.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "triết gia",
+            "pinyin": "zhé jiā",
+            "word": "哲家",
+            "id": 149512,
+            "phonetic": "zhejia",
+            "rank": 91381,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄋㄧㄤ˙",
+            "_id": "03cd8b652275ff99233744c8c1c04963",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia nương; mẹ chồng",
+                            "explain": "丈夫的母亲",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "gia nương",
+            "pinyin": "jiā niáng",
+            "word": "家娘",
+            "id": 27591,
+            "phonetic": "jianiang",
+            "rank": 74742,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄓㄨㄤ",
+            "topic": "14",
+            "_id": "6c89d14139bb0b7cd4212c2c82e47895",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nội thất trang trí",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 300
+            },
+            "snym": null,
+            "cn_vi": "gia trang",
+            "pinyin": "jiāzhuāng",
+            "word": "家装",
+            "id": 70124,
+            "phonetic": "jiazhuang",
+            "rank": 22146,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄕㄨㄐㄧㄚ",
+            "_id": "1a24b4099c664f258bd7716584b3d8b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kẻ bại; người thua cuộc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 79
+            },
+            "snym": {
+                "anto": [
+                    "赢家"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "shūjiā",
+            "cn_vi": "thâu gia",
+            "word": "输家",
+            "id": 156441,
+            "phonetic": "shujia",
+            "rank": 46892,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢˋㄐㄧㄚ",
+            "_id": "4b14188a63ca77ece380c93cf91c8ec4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "tay sừng sỏ; tay lão luyện",
+                            "explain": "指惯于做某种事情的人;老手 (多含贬义)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "quán gia",
+            "pinyin": "guàn jiā",
+            "word": "惯家",
+            "id": 21159,
+            "phonetic": "guanjia",
+            "rank": 140189,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄩㄢˊㄐㄧㄚ",
+            "_id": "59a0c670b92e6fcfde0d25e4588d2890",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "toàn gia; cả nhà; cả gia đình; cả nhà cả ổ",
+                            "explain": "一家人",
+                            "examples": [
+                                {
+                                    "m": "cả nhà sum họp",
+                                    "p_vn": "ca nha sum hop",
+                                    "_id": "08a1b69b3e19ae72a284288e09fc292a",
+                                    "id": 39680,
+                                    "type": "e_cnvi",
+                                    "e": "全家团圆",
+                                    "p_cn": "quanjia tuanyuan",
+                                    "p": "quánjiā tuányuán"
+                                },
+                                {
+                                    "m": "cha tựa như muốn cả nhà kết thành một khối",
+                                    "p_vn": "cha tua nhu muon ca nha ket thanh mot khoi",
+                                    "_id": "152fdc0e8f76e4add8d4de1ac6ba1131",
+                                    "id": 1176,
+                                    "type": "e_cnvi",
+                                    "e": "父亲似乎是要全家抱成一团。",
+                                    "p_cn": "fuqin sihu shi yao quanjia baochengyituan。",
+                                    "p": "fùqīn sìhū shì yào quánjiā bàochéngyītuán。"
+                                },
+                                {
+                                    "m": "cả nhà vẻ vang.",
+                                    "p_vn": "ca nha ve vang.",
+                                    "_id": "170bde2e7df5b65e695d9682b9aabf8f",
+                                    "id": 33155,
+                                    "type": "e_cnvi",
+                                    "e": "全家光荣。",
+                                    "p_cn": "quanjia guangrong。",
+                                    "p": "quánjiā guāngróng。"
+                                },
+                                {
+                                    "m": "Mỗi dịp tết trung thu là cả gia đình chúng tôi lại quây quần bên nhau.",
+                                    "p_vn": "moi dip tet trung thu la ca gia dinh chung toi lai quay quan ben nhau.",
+                                    "_id": "1c4b6fb8b4aa2c15606e08e6178c7cb1",
+                                    "id": 69147,
+                                    "e": "每逢中秋，我们全家会欢聚在一起。",
+                                    "p_cn": "měi feng zhōngqiū, wǒmen quanjiā hui huānju zai yīqǐ.",
+                                    "type": "e_cnvi",
+                                    "p": "měi féng zhōngqiū, wǒmen quánjiā huì huānjù zài yīqǐ."
+                                },
+                                {
+                                    "m": "gia đình bình an.",
+                                    "p_vn": "gia dinh binh an",
+                                    "_id": "6a015f89932ef2e0b93f10cf4a88d5d5",
+                                    "id": 23070,
+                                    "type": "e_cnvi",
+                                    "e": "全家康泰。",
+                                    "p_cn": "quanjia kangtai",
+                                    "p": "quánjiā kāngtài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 152,
+                "search": 1870
+            },
+            "snym": {
+                "syno": [
+                    "阖家",
+                    "合家",
+                    "举家",
+                    "家庭"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "quánjiā",
+            "cn_vi": "toàn gia",
+            "word": "全家",
+            "id": 43763,
+            "phonetic": "quanjia",
+            "rank": 5906,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄩㄐㄧㄚ",
+            "_id": "96e40181b163de28d859166e4f40e8c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ở nhà",
+                            "explain": "住在家里",
+                            "examples": [
+                                {
+                                    "m": "sống qua ngày ở nhà.",
+                                    "p_vn": "song qua ngay o nha",
+                                    "_id": "42f97fcb0ff254ef73a9b79aff5a2807",
+                                    "id": 22175,
+                                    "type": "e_cnvi",
+                                    "e": "居家过日子。",
+                                    "p_cn": "jujia guorizi",
+                                    "p": "jūjiā guòrìzǐ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bình cư",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 400
+            },
+            "snym": null,
+            "cn_vi": "cư gia",
+            "pinyin": "jūjiā",
+            "word": "居家",
+            "id": 31009,
+            "phonetic": "jujia",
+            "rank": 18414,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄆㄟˊ",
+            "_id": "e5d1f88c6f324c90a63238d831313f7a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trồng trọt",
+                            "explain": "cultivated",
+                            "examples": [
+                                {
+                                    "m": "nhà nước đào tạo được một nhân tài thật không phải dễ!",
+                                    "p_vn": "nha nuoc dao tao duoc mot nhan tai that khong phai de",
+                                    "_id": "70916caca3b18182903d603c70fde37e",
+                                    "id": 9931,
+                                    "type": "e_cnvi",
+                                    "e": "国家培养一个人才是多么不容易呀!",
+                                    "p_cn": "guojia peiyang yige ren cai shi duome bu rongyi ya",
+                                    "p": "guójiā péiyǎng yīgè rén cái shì duōme bù róngyì ya!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhà trồng",
+                            "explain": "home grown",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "gia bồi",
+            "pinyin": "jiā péi",
+            "word": "家培",
+            "id": 96153,
+            "phonetic": "jiapei",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄤㄐㄧㄚ",
+            "_id": "2e4568b37956603b1b994507690b63ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "quản lý việc nhà; lo liệu việc nhà; quản gia",
+                            "explain": "主持家务",
+                            "examples": [
+                                {
+                                    "m": "không lo liệu việc nhà không biết gạo củi mắc rẻ.",
+                                    "p_vn": "khong lo lieu viec nha khong biet gao cui mac re",
+                                    "_id": "ee3e1e21aaa1032340b905ed54c495c3",
+                                    "id": 7192,
+                                    "type": "e_cnvi",
+                                    "e": "不当家不知柴米贵。",
+                                    "p_cn": "budang jia buzhi chaimi gui",
+                                    "p": "bù dāngjiā bùzhī cháimǐ gùi。"
+                                },
+                                {
+                                    "m": "cô ấy biết lo liệu việc nhà, việc lớn việc nhỏ đều xếp đặt đâu ra đấy.",
+                                    "p_vn": "co ay biet lo lieu viec nha, viec lon viec nho deu xep dat dau ra day.",
+                                    "_id": "beab67ec1e2d0f455a5aeb0703610938",
+                                    "id": 7193,
+                                    "type": "e_cnvi",
+                                    "e": "她是个会当家的好主妇，家里的事情处理得井井有条。",
+                                    "p_cn": "ta shi ge hui dangjiade haozhufu,jiali de shiqing chuli de jingjingyoutiao. ",
+                                    "p": "tā shì gè hùi dāngjiāde hǎozhǔfù，jiālǐ de shìqīng chùlǐ dé jǐngjǐngyǒutiáo。"
+                                },
+                                {
+                                    "m": "nhân dân làm chủ.",
+                                    "p_vn": "nhan dan lam chu",
+                                    "_id": "3c6428b55fba201df5f11db52ffc7ce8",
+                                    "id": 7194,
+                                    "type": "e_cnvi",
+                                    "e": "人民当家作主。",
+                                    "p_cn": "renmin dangjia zuo zhu",
+                                    "p": "rénmín dāngjiāzuòzhǔ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 63,
+                "search": 842
+            },
+            "snym": {
+                "syno": [
+                    "住持",
+                    "做主"
+                ]
+            },
+            "cn_vi": "đương gia",
+            "pinyin": "dāngjiā",
+            "word": "当家",
+            "id": 11255,
+            "phonetic": "dangjia",
+            "rank": 11150,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4197b20e92834e99aa58bff20f3c42a9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Con gái có chồng về thăm nhà cha mẹ — Về thăm nhà. Đoạn trường tân thanh có câu: » Rạng ra gửi đến xuân đường, thúc ông cũng vội giục chàng ninh gia «.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "ninh gia",
+            "pinyin": "níng jiā",
+            "word": "宁家",
+            "id": 171122,
+            "phonetic": "ningjia",
+            "rank": 145922,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "65",
+            "zhuyin": "ㄐㄧㄚㄆㄨˇ",
+            "_id": "7bd89fcea17a5e59610441c524d83a8b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gia phả; gia phổ",
+                            "explain": "封建家族记载本族世系和重要人物事迹的书",
+                            "examples": [
+                                {
+                                    "m": "Ghi chép tổ tiên gia phả; cây gia đình",
+                                    "p_vn": "Ghi chep to tien gia pha; cay gia dinh",
+                                    "_id": "38f026afab7643c29a1186971a18633a",
+                                    "id": 71681,
+                                    "type": "e_cnvi",
+                                    "e": "家谱祖先录；家族树",
+                                    "p_cn": "jiapu zuxian lu jiazushu",
+                                    "p": "jiāpǔ zǔxiān lù jiāzúshù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 147
+            },
+            "snym": {
+                "syno": [
+                    "族谱"
+                ]
+            },
+            "cn_vi": "gia phả",
+            "pinyin": "jiāpǔ",
+            "word": "家谱",
+            "id": 27595,
+            "phonetic": "jiapu",
+            "rank": 33839,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "家"
+}

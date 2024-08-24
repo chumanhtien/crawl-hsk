@@ -1,0 +1,2292 @@
+{
+    "total": 123,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇ",
+            "_id": "c89314ebc14a9da815240c3cb7f3c6d8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                74137,
+                                74136
+                            ],
+                            "struct": "Động từ + 你"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                74134,
+                                74135,
+                                90327
+                            ],
+                            "struct": "你 + Động từ + (很、这么) + Tính từ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                74313,
+                                74314,
+                                74315
+                            ],
+                            "struct": "你（+的）+ danh từ [người có mối quan hệ thân thích] (爸，妈，哥，姐）"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                90328
+                            ],
+                            "struct": "Câu văn, 你呢？"
+                        }
+                    ],
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "anh; chị; ông; bà; mày; bạn; em (chỉ một người ở ngôi số 2)",
+                            "explain": "代替听话人 (一个人)",
+                            "examples": [
+                                {
+                                    "m": "Bạn có bao nhiêu tiền?",
+                                    "p_vn": "ban co bao nhieu tien?",
+                                    "_id": "ac7be255046819fca340054063013dd8",
+                                    "id": 74133,
+                                    "e": "你有多少钱？",
+                                    "p_cn": "ni you duoshao qian?",
+                                    "type": "e_cnvi",
+                                    "p": "nǐ yǒu duōshao qián?"
+                                },
+                                {
+                                    "m": "Hình như tôi gặp cậu rồi.",
+                                    "p_vn": "hình nhu toi gạp cạu ròi.",
+                                    "_id": "ac7be255046819fca34005406319a1cd",
+                                    "id": 74311,
+                                    "e": "我好像见过你。",
+                                    "p_cn": "wo haoxiang jianguo ni.",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ hǎoxiàng jiànguò nǐ."
+                                },
+                                {
+                                    "m": "Bạn làm việc ở đâu?",
+                                    "p_vn": "bạn làm viẹc ỏ dau?",
+                                    "_id": "ac7be255046819fca34005406319a497",
+                                    "id": 74312,
+                                    "e": "你在哪儿工作?",
+                                    "p_cn": "ni zai nar gongzuo?",
+                                    "type": "e_cnvi",
+                                    "p": "nǐ zài nǎr gōngzuò?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "người ta; ta",
+                            "explain": "泛指任何人 (有时实际上指我)",
+                            "examples": [
+                                {
+                                    "m": "Anh đem đồ đạc này mau đưa cho người ta mang về đi.",
+                                    "p_vn": "anh dem do dac nay mau dua cho nguoi ta mang ve di.",
+                                    "_id": "f1c97b594be60d3c59db3995d2153a1e",
+                                    "id": 33612,
+                                    "type": "e_cnvi",
+                                    "e": "你把东西快给人家送回去吧。",
+                                    "p_cn": "ni ba dongxi kuai gei   renjia song huiqu ba.",
+                                    "p": "nǐ bǎ dōngxi kuài gěi   rénjia sòng huíqù ba."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                74139,
+                                74140
+                            ],
+                            "struct": "你(们)+ 公司、校、单位"
+                        }
+                    ],
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "các bạn; các anh; các chị; các bà; các ông; chúng mày (có thể dùng với số nhiều)",
+                            "explain": "（在对话中）指“你们”",
+                            "examples": [
+                                {
+                                    "m": "Trường bạn có bao nhiêu học sinh?",
+                                    "p_vn": "truong ban co bao nhieu hoc sinh?",
+                                    "_id": "ac7be255046819fca340054063016dfd",
+                                    "id": 74138,
+                                    "e": "你校有多少学生？",
+                                    "p_cn": "ni xiao you duoshao xuesheng?",
+                                    "type": "e_cnvi",
+                                    "p": "nǐ xiào yǒu duōshao xuéshēng?"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                74142,
+                                74143
+                            ],
+                            "struct": "我……，你……，你……他……"
+                        }
+                    ],
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "chỉ bất kỳ ai",
+                            "explain": "指任何人",
+                            "examples": [
+                                {
+                                    "m": "Bạn sẽ làm gì nếu gặp một người như vậy?",
+                                    "p_vn": "ban se lam gi neu gap mot nguoi nhu vay?",
+                                    "_id": "ac7be255046819fca340054063018907",
+                                    "id": 74141,
+                                    "e": "碰到这么一个人，你有什么办法？",
+                                    "p_cn": "peng dao zheme yige ren, ni you she me banfa?",
+                                    "type": "e_cnvi",
+                                    "p": "pèng dào zhème yīgè rén, nǐ yǒu shé me bànfǎ?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1423,
+                "search": 107610
+            },
+            "snym": {
+                "syno": [
+                    "您"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "nǐ",
+            "cn_vi": "nhĩ",
+            "word": "你",
+            "id": 39376,
+            "phonetic": "ni",
+            "rank": 2,
+            "lv_hsk": 1,
+            "lv_tocfl": 1,
+            "compound": "你们 ; 你死我活; 你争我夺; 你情我愿"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄒㄧㄥˊㄋㄧˇㄕㄤˋ",
+            "_id": "f9c78967e1b34ed4b731cd1616d92dd7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Mày giỏi mày làm đi",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bạn giỏi thì đi mà làm, không làm được thì đừng có nói",
+                                    "p_vn": "Ban gioi thi di ma lam, khong lam duoc thi dung co noi",
+                                    "_id": "4e0a07c39f2f46c1ad4ea2895da4114a",
+                                    "id": 63415,
+                                    "type": "e_cnvi",
+                                    "e": "你行你上,不行别比比",
+                                    "p_cn": "Ni xing ni shang, buxing bie bibi",
+                                    "p": "Nǐ xíng nǐ shàng, bùxíng bié bǐbǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 43,
+                "search": 290
+            },
+            "snym": null,
+            "cn_vi": "nhĩ hành nhĩ thượng",
+            "pinyin": "nǐ xíng nǐ shàng",
+            "word": "你行你上",
+            "id": 147327,
+            "phonetic": "nixingnishang",
+            "rank": 22671,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄠˊㄋㄧˇ",
+            "_id": "bcf1df7be1e540313d1367ab3de4f8e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "xem bạn; nhìn bạn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Xem bạn nước mắt hai hàng kìa, đã phải chịu đựng những ấm ức nào rồi?",
+                                    "p_vn": "Xem ban nuoc mat hai hang kia, da phai chiu dung nhung am uc nao roi?",
+                                    "_id": "82c56ee8824248d9133b59c4f35d289a",
+                                    "id": 54078,
+                                    "type": "e_cnvi",
+                                    "e": "瞧你眼泪双双对对的，受了什么委屈？",
+                                    "p_cn": "Qiao ni yanlei shuangshuang dui dui de, shoule shenme weiqu?",
+                                    "p": "Qiáo nǐ yǎnlèi shuāngshuāng duì duì de, shòule shénme wěiqu?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 341
+            },
+            "snym": null,
+            "cn_vi": "tiều nhĩ",
+            "pinyin": "qiáo nǐ",
+            "word": "瞧你",
+            "id": 83305,
+            "phonetic": "qiaoni",
+            "rank": 20388,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄇㄣ˙",
+            "_id": "f03e86944295a0dd9039df1884b4acdc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "hành động liên quan đến  các bạn/ các em/ mấy người/ mấy đứa/ các cậu/ mọi người/ anh chị",
+                            "examples": [
+                                90319,
+                                90320,
+                                123820
+                            ],
+                            "struct": "Động từ + 你们"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                123825,
+                                123826,
+                                123827
+                            ],
+                            "struct": "你们 + Danh từ"
+                        }
+                    ],
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "mấy người; các cậu; các bạn; các ông; các bà; anh chị; các anh; các chị",
+                            "explain": "代词，称不止一个人的对方或包括对方在内的若干人",
+                            "examples": [
+                                {
+                                    "m": "Các anh nghỉ một lát, để chúng tôi làm tiếp.",
+                                    "p_vn": "cac anh nghi mot lat, de chung toi lam tiep.",
+                                    "_id": "3e69c4d6152b3af80c5146260fbc4b4c",
+                                    "id": 29789,
+                                    "type": "e_cnvi",
+                                    "e": "你们歇一会儿，让我们接着干。",
+                                    "p_cn": "nimen xie yihuir, rang women jiezhe gan.",
+                                    "p": "nǐmen xiē yīhuǐr, ràng wǒmen jiēzhe gàn."
+                                },
+                                {
+                                    "m": "Gia đình các cậu có mấy người?",
+                                    "p_vn": "gia dinh cac cau co may nguoi?",
+                                    "_id": "ac7be255046819fca3400540631edf44",
+                                    "id": 74355,
+                                    "e": "你们家有几口人？",
+                                    "p_cn": "nimen jia you ji kou ren?",
+                                    "type": "e_cnvi",
+                                    "p": "nǐmen jiā yǒu jǐ kǒu rén?"
+                                },
+                                {
+                                    "m": "Mấy người lui xuống hết đi.",
+                                    "p_vn": "may nguoi lui xuong het di.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4bb2c78",
+                                    "id": 123810,
+                                    "type": "e_cnvi",
+                                    "e": "你们都退下吧！",
+                                    "p_cn": "nimen dou tui xia ba!",
+                                    "p": "nǐmen dōu tuì xià ba!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 440,
+                "search": 7946
+            },
+            "snym": {
+                "syno": [
+                    "他们",
+                    "我们"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "nǐmen",
+            "cn_vi": "nhĩ môn",
+            "word": "你们",
+            "id": 39377,
+            "phonetic": "nimen",
+            "rank": 1372,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄨㄛˇ",
+            "_id": "405d3f8d46324d7fa62f48ea95498323",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "tất cả chúng ta (trong xã hội)",
+                            "explain": "all of us (in society)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tất cả mọi người",
+                            "explain": "everyone",
+                            "examples": [
+                                {
+                                    "m": "Điều gì sẽ xảy ra nếu tôi nói với bạn rằng tôi phát ốm vì mất đi những người tôi quan tâm?",
+                                    "p_vn": "Dieu gi se xay ra neu toi noi voi ban rang toi phat om vi mat di nhung nguoi toi quan tam?",
+                                    "_id": "52b808c8d66a4a188d5e8f0fde303153",
+                                    "id": 63635,
+                                    "type": "e_cnvi",
+                                    "e": "如果我告诉你我厌倦了失去我所有的挚爱呢",
+                                    "p_cn": "ruguo wo gaosu ni wo yanjuan le shiqu wo suoyou de zhiai ni",
+                                    "p": "rúguǒ wǒ gàosù nǐ wǒ yànjuàn le shīqù wǒ suǒyǒu de zhìài ní"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chúng tôi (mọi người nói chung)",
+                            "explain": "we (people in general)",
+                            "examples": [
+                                {
+                                    "m": "Cả hai chúng tôi đều biết rằng tôi đúng.",
+                                    "p_vn": "ca hai chung toi deu biet rang toi dung.",
+                                    "_id": "858efc1c17fb4bbe96a47341934eec38",
+                                    "id": 63636,
+                                    "type": "e_cnvi",
+                                    "e": "你我都清楚我说得对",
+                                    "p_cn": "ni wo dou qingchu wo shuodedui",
+                                    "p": "nǐ wǒ dōu qīngchǔ wǒ shuōdédùi"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bạn và tôi",
+                            "explain": "you and I",
+                            "examples": [
+                                {
+                                    "m": "Bạn và tôi đều biết",
+                                    "p_vn": "ban va toi deu biet",
+                                    "_id": "c0af1b9a46384416aadce9da1e97b75f",
+                                    "id": 63641,
+                                    "type": "e_cnvi",
+                                    "e": "你我都明白",
+                                    "p_cn": "ni wo dou mingbai",
+                                    "p": "nǐ wǒ dōu míngbái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 450
+            },
+            "snym": null,
+            "cn_vi": "nhĩ ngã",
+            "pinyin": "nǐ wǒ",
+            "word": "你我",
+            "id": 87987,
+            "phonetic": "niwo",
+            "rank": 17055,
+            "kind": [
+                "pro"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄠˇ",
+            "_id": "e5e8174914e870d2c53ada82b9bb250c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Chào bạn !",
+                            "explain": "从我前几天有记忆起就一直在这个医院，我无法逃出去，也无法与外界接触。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 950
+            },
+            "snym": null,
+            "cn_vi": "nhĩ hảo",
+            "pinyin": "nǐ hǎo!",
+            "word": "你好！",
+            "id": 68452,
+            "phonetic": "nihao!",
+            "rank": 10230,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "liang",
+                "examples": "这辆迷你巴士能容纳25个人。",
+                "measure": "辆"
+            },
+            "zhuyin": "ㄇㄧˊㄋㄧˇ",
+            "_id": "dd9bf0ee991f496fb17c522452ca8940",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "mini (như trong váy mini hoặc Mini Cooper) (cho mượn)",
+                            "explain": "mini (as in mini-skirt or Mini Cooper) (loanword)",
+                            "examples": [
+                                {
+                                    "m": "Một lỗ đen nhỏ!",
+                                    "p_vn": "Mot lo den nho!",
+                                    "_id": "a3f8480f387d41089b145cfc71d13f16",
+                                    "id": 56762,
+                                    "type": "e_cnvi",
+                                    "e": "一个迷你黑洞",
+                                    "p_cn": "yige mini heidong",
+                                    "p": "yīgè mínǐ hēidòng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 39,
+                "search": 565
+            },
+            "snym": {
+                "syno": [
+                    "小巧",
+                    "袖珍",
+                    "精致",
+                    "迷人"
+                ],
+                "anto": [
+                    "巨大"
+                ]
+            },
+            "cn_vi": "mê nhĩ",
+            "pinyin": "mínǐ",
+            "word": "迷你",
+            "id": 89431,
+            "phonetic": "mini",
+            "rank": 14638,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄠˇ",
+            "_id": "164d55d3342bf0b6b7638a8b147b3a84",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "xin chào",
+                            "explain": "跟别人打招呼, 用来问候",
+                            "examples": [
+                                {
+                                    "m": "Tôi muốn nói với anh ấy câu \"Xin chào\".",
+                                    "p_vn": "toi muon noi voi anh ay cau \"xin chao\".",
+                                    "_id": "b2776ac4a861e06178aa5de73b00b6d6",
+                                    "id": 76514,
+                                    "type": "e_cnvi",
+                                    "e": "我想跟他说一句“你好”。",
+                                    "p_cn": "wo xiang gen ta shuo yiju “ni hao”.",
+                                    "p": "wǒ xiǎng gēn tā shuō yījù “nǐ hǎo”."
+                                },
+                                {
+                                    "m": "Xin chào, tôi là thực tập sinh mới.",
+                                    "p_vn": "xin chao, toi la thuc tap sinh moi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91ddbd6",
+                                    "id": 92730,
+                                    "type": "e_cnvi",
+                                    "e": "你好，我是新来的实习生。",
+                                    "p_cn": "ni hao, wo shi xin lai de shixi sheng.",
+                                    "p": "nǐ hǎo, wǒ shì xīn lái de shíxí shēng."
+                                },
+                                {
+                                    "m": "Chào bạn, rất vui khi được gặp bạn.",
+                                    "p_vn": "chao ban, rat vui khi duoc gap ban.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91de402",
+                                    "id": 92731,
+                                    "type": "e_cnvi",
+                                    "e": "你好，很高兴见到你。",
+                                    "p_cn": "ni hao, hen gaoxing jian dao ni.",
+                                    "p": "nǐ hǎo, hěn gāoxìng jiàn dào nǐ."
+                                },
+                                {
+                                    "m": "Xin chào, tôi là hàng xóm mới của bạn.",
+                                    "p_vn": "xin chao, toi la hang xom moi cua ban.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91de850",
+                                    "id": 92732,
+                                    "type": "e_cnvi",
+                                    "e": "你好，我是你的新邻居。",
+                                    "p_cn": "ni hao, wo shi ni de xin linju.",
+                                    "p": "nǐ hǎo, wǒ shì nǐ de xīn línjū."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 535,
+                "search": 25056
+            },
+            "snym": null,
+            "cn_vi": "nhĩ hảo",
+            "pinyin": "nǐ hǎo",
+            "word": "你好",
+            "id": 68450,
+            "phonetic": "nihao",
+            "rank": 166,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩˊㄋㄧˇ",
+            "_id": "53449869731d4e228cdf985f8670b97d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "Tùy bạn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bạn nên tập trung vào sự nghiệp của mình một cách cẩn thận",
+                                    "p_vn": "Ban nen tap trung vao su nghiep cua minh mot cach can than",
+                                    "_id": "9fdf983edddf4915b7ba23aba40af156",
+                                    "id": 55307,
+                                    "type": "e_cnvi",
+                                    "e": "你应将心思精心专注于你的事业上",
+                                    "p_cn": "Ni ying jiang xinsi jingxin zhuanzhu yu ni de shiye shang",
+                                    "p": "Nǐ yīng jiāng xīnsī jīngxīn zhuānzhù yú nǐ de shìyè shàng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 121
+            },
+            "snym": null,
+            "cn_vi": "ư nhĩ",
+            "pinyin": "yú nǐ",
+            "word": "于你",
+            "id": 84592,
+            "phonetic": "yuni",
+            "rank": 37600,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄉㄥˇ",
+            "_id": "2026fcc2fdcd493f80fcc72982fa690f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "xem thêm 你們 | 你们",
+                            "explain": "see also 你們|你们 [nǐ men]",
+                            "examples": [
+                                {
+                                    "m": "anh ấy vừa mới ra ngoài, anh hãy đợi một chút!",
+                                    "p_vn": "anh ay vua moi ra ngoai anh hay doi mot chut",
+                                    "_id": "326d9d5111a52fbcefb9a1e650ae46a2",
+                                    "id": 5256,
+                                    "type": "e_cnvi",
+                                    "e": "他刚出门，你等一会儿吧。",
+                                    "p_cn": "ta gang chumen ni deng yihuier ba",
+                                    "p": "tā gāng chūmén，nǐ děng yīhùiér ba。"
+                                },
+                                {
+                                    "m": "Cái đồ phế vật như mày dám đánh tao, mày đợi đấy.",
+                                    "p_vn": "Cai do phe vat nhu may dam danh tao, may doi day.",
+                                    "_id": "3864cc26bc2b480da15e768bb382c0e4",
+                                    "id": 54097,
+                                    "type": "e_cnvi",
+                                    "e": "你这个废物敢打，我你等着。",
+                                    "p_cn": "Ni zhege feiwu gan da, wo ni dengzhe.",
+                                    "p": "Nǐ zhège fèiwù gǎn dǎ, wǒ nǐ děngzhe."
+                                },
+                                {
+                                    "m": "Hãy đợi cho đến khi bạn nghe cách anh ta hạ gục Werner Heisenberg trước đám đông.",
+                                    "p_vn": "Hay doi cho den khi ban nghe cach anh ta ha guc Werner Heisenberg truoc dam dong.",
+                                    "_id": "5a2350687b1143c4b66b70a696a50d7b",
+                                    "id": 66421,
+                                    "type": "e_cnvi",
+                                    "e": "你等着听他跟大家胡扯沃纳·海森堡吧",
+                                    "p_cn": "ni deng zhao ting ta gen dajia huche wona * haisenbao ba",
+                                    "p": "nǐ děng zháo tīng tā gēn dàjiā húchě wònà · hǎisēnbǎo ba"
+                                },
+                                {
+                                    "m": "Garcia chờ một chút.",
+                                    "p_vn": "Garcia cho mot chut.",
+                                    "_id": "9a6507d0b10c4accb89557f37c867bd4",
+                                    "id": 59359,
+                                    "type": "e_cnvi",
+                                    "e": "加西亚你等等",
+                                    "p_cn": "jiaxiya ni dengdeng",
+                                    "p": "jiāxīyà nǐ děngděng"
+                                },
+                                {
+                                    "m": "cảm tạ trời đất, cuối cùng cũng đợi được cậu, tôi còn tưởng rằng bạn không đến nữa cơ.",
+                                    "p_vn": "cam ta troi dat, cuoi cung cung doi duoc cau, toi con tuong rang ban khong den nua co.",
+                                    "_id": "ebe6a6fa430642f99025065fa278a7f5",
+                                    "id": 55443,
+                                    "type": "e_cnvi",
+                                    "e": "谢天谢地，可把你等来了，我还以为你不来了呢",
+                                    "p_cn": "Xietianxiedi, ke ba ni deng laile, wo hai yiwei ni bu laile ne",
+                                    "p": "Xiètiānxièdì, kě bǎ nǐ děng láile, wǒ hái yǐwéi nǐ bù láile ne"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tất cả các bạn (cổ xưa)",
+                            "explain": "you all (archaic)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 169
+            },
+            "snym": null,
+            "cn_vi": "nhĩ đẳng",
+            "pinyin": "nǐ děng",
+            "word": "你等",
+            "id": 94739,
+            "phonetic": "nideng",
+            "rank": 31250,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cfe9896f7b6440a5b7744b2889df86cb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Bạn đi cẩn thận",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 106
+            },
+            "snym": null,
+            "cn_vi": "nhĩ mạn tẩu",
+            "pinyin": "nǐ màn zǒu",
+            "word": "你慢走",
+            "id": 160243,
+            "phonetic": "nimanzou",
+            "rank": 40279,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄠˇㄇㄚ˙",
+            "_id": "5c16c8e8f82d915024afce585949f567",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bạn khỏe không?",
+                            "explain": "《你好吗？》是由邓丽欣演唱的一首歌曲，被收入《Dating Stephy》专辑。",
+                            "examples": [
+                                {
+                                    "m": "Bạn nghĩ xem tôi có tốt với bạn không",
+                                    "p_vn": "Ban nghi xem toi co tot voi ban khong",
+                                    "_id": "38d362b47980492796756020a463d073",
+                                    "id": 55482,
+                                    "type": "e_cnvi",
+                                    "e": "你想想我对你好吗？",
+                                    "p_cn": "Ni xiang xiang wo dui ni hao ma?",
+                                    "p": "Nǐ xiǎng xiǎng wǒ duì nǐ hǎo ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 52,
+                "search": 1295
+            },
+            "snym": null,
+            "cn_vi": "nhĩ hảo mạ",
+            "pinyin": "nǐ hǎo ma?",
+            "word": "你好吗？",
+            "id": 68451,
+            "phonetic": "nihaoma?",
+            "rank": 7981,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖˋㄋㄧˇㄇㄚ",
+            "_id": "199d3ab287d049da81df18c3e6a28c65",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "xem 肏你 媽 | 肏你 妈",
+                            "explain": "see 肏你媽|肏你妈 [cào nǐ mā]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 59
+            },
+            "snym": null,
+            "cn_vi": "nhật nhĩ ma",
+            "pinyin": "rì nǐ mā",
+            "word": "日你妈",
+            "id": 111293,
+            "phonetic": "rinima",
+            "rank": 53750,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄞˋㄕㄤˋㄋㄧˇ",
+            "_id": "f303c81fcdf847cda59905c950b70ffc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Yêu phải bạn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Nếu anh chưa từng gặp em, nếu như anh chưa bao giờ yêu em, nếu như ban đầu em không tin vào điều đó thì có lẽ em sẽ không là anh bây giờ.",
+                                    "p_vn": "Neu anh chua tung gap em, neu nhu anh chua bao gio yeu em, neu nhu ban dau em khong tin vao dieu do thi co le em se khong la anh bay gio.",
+                                    "_id": "b6c62fe9ba7846f89536058e9803db8f",
+                                    "id": 68238,
+                                    "type": "e_cnvi",
+                                    "e": "如果我从没遇见你,如果我从没爱上你,如果我一开始没坚信,也许我就不会是现在的这个自己。",
+                                    "p_cn": "Ruguo wo cong mei yujian ni, ruguo wo cong mei ai shang ni, ruguo wo yi kaishi mei jianxin, yexu wo jiu bu hui shi xianzai de zhege ziji.",
+                                    "p": "Rúguǒ wǒ cóng méi yùjiàn nǐ, rúguǒ wǒ cóng méi ài shàng nǐ, rúguǒ wǒ yī kāishǐ méi jiānxìn, yěxǔ wǒ jiù bù huì shì xiànzài de zhège zìjǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 156
+            },
+            "snym": null,
+            "cn_vi": "ái thượng nhĩ",
+            "pinyin": "ài shàng nǐ",
+            "word": "爱上你",
+            "id": 153349,
+            "phonetic": "aishangni",
+            "rank": 32670,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "23",
+            "zhuyin": "ㄇㄧˊㄋㄧˇㄑㄩㄣˊ",
+            "_id": "e2f696951a5f42a9b6378b6565971616",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "váy ngắn",
+                            "explain": "miniskirt",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 145
+            },
+            "snym": null,
+            "cn_vi": "mê nhĩ quần",
+            "pinyin": "mínǐ qún",
+            "word": "迷你裙",
+            "id": 113336,
+            "phonetic": "miniqun",
+            "rank": 34032,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄛˇㄒㄧㄤˇㄋㄧˇ",
+            "_id": "4b6259e60e3ffb7aae3afc4762a12d52",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Anh nhớ em",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 728
+            },
+            "snym": null,
+            "cn_vi": "ngã tưởng nhĩ",
+            "pinyin": "wǒ xiǎng nǐ",
+            "word": "我想你",
+            "id": 80932,
+            "phonetic": "woxiangni",
+            "rank": 12384,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄉㄥˇㄓㄜ˙",
+            "_id": "228b3b7543c4cf64aeb5ba8ea0f33166",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Bạn đợi đấy; mày đợi đấy",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cái đồ phế vật như mày dám đánh tao, mày đợi đấy.",
+                                    "p_vn": "Cai do phe vat nhu may dam danh tao, may doi day.",
+                                    "_id": "3864cc26bc2b480da15e768bb382c0e4",
+                                    "id": 54097,
+                                    "type": "e_cnvi",
+                                    "e": "你这个废物敢打，我你等着。",
+                                    "p_cn": "Ni zhege feiwu gan da, wo ni dengzhe.",
+                                    "p": "Nǐ zhège fèiwù gǎn dǎ, wǒ nǐ děngzhe."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 175
+            },
+            "snym": null,
+            "cn_vi": "nhĩ đẳng trứ",
+            "pinyin": "nǐ děngzhe",
+            "word": "你等着",
+            "id": 83324,
+            "phonetic": "nidengzhe",
+            "rank": 30634,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄣˇㄇㄟˇ",
+            "_id": "5dab3142393eb769fdea42959835d58f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Em rất đẹp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 71
+            },
+            "snym": null,
+            "cn_vi": "nhĩ ngận mĩ",
+            "pinyin": "nǐ hěn měi",
+            "word": "你很美",
+            "id": 80942,
+            "phonetic": "nihenmei",
+            "rank": 49372,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄠˋㄋㄧˇㄇㄚ",
+            "_id": "6ae53bf0bd0b41e9a30df63e2a7cc7fc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "đụ mẹ bạn (thô tục)",
+                            "explain": "fuck your mother (vulgar)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 627
+            },
+            "snym": null,
+            "cn_vi": "_ nhĩ ma",
+            "pinyin": "cào nǐ mā",
+            "word": "肏你妈",
+            "id": 113101,
+            "phonetic": "caonima",
+            "rank": 13660,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄨㄣˊㄉㄠˋㄋㄧˇ",
+            "_id": "8ec19af5566f49c0b310d25c6fade2ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Đến lượt bạn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Những gì tôi nói vừa rồi là để dẫn dụ, bây giờ đến lượt bạn",
+                                    "p_vn": "nhung gi toi noi vua roi la de dan du, bay gio den luot ban",
+                                    "_id": "7cc5503b997e4d0eb5f09de00b748ab9",
+                                    "id": 55778,
+                                    "type": "e_cnvi",
+                                    "e": "刚才我的发言是抛砖引玉，现在该轮到你",
+                                    "p_cn": "gangcai wo de fa yan shi paozhuanyinyu, xianzai gai lun dao ni",
+                                    "p": "Gāngcái wǒ de fǎ yán shì pāozhuānyǐnyù, xiànzài gāi lún dào nǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 72
+            },
+            "snym": null,
+            "cn_vi": "luân đáo nhĩ",
+            "pinyin": "lún dào nǐ",
+            "word": "轮到你",
+            "id": 85110,
+            "phonetic": "lundaoni",
+            "rank": 49127,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄍㄜˋㄊㄡˊ",
+            "_id": "2860055f16894c5ba94ed940ba79a09a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "suff",
+                    "means": [
+                        {
+                            "mean": "(coll.) (hậu tố) my ass!",
+                            "explain": "(coll.) (suffix) my ass!",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vâng, đúng!",
+                            "explain": "yeah, right!",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 75
+            },
+            "snym": null,
+            "cn_vi": "nhĩ cá đầu",
+            "pinyin": "nǐ gètóu",
+            "word": "你个头",
+            "id": 111812,
+            "phonetic": "nigetou",
+            "rank": 48173,
+            "kind": [
+                "suff"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄣˇㄊㄧㄢˊ",
+            "_id": "f2938bcdfa46646ef3dac6a648bdfac7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Em; Anh rất ngọt ngào",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "nhĩ ngận điềm",
+            "pinyin": "nǐ hěn tián",
+            "word": "你很甜",
+            "id": 80948,
+            "phonetic": "nihentian",
+            "rank": 83395,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄛˇㄞˋㄋㄧˇ",
+            "_id": "1f7e9718b206c663547f5e0d9b6f75f9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Anh yêu em",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tôi không nghĩ rằng tôi xứng đáng với bạn, nhưng tôi yêu bạn.",
+                                    "p_vn": "Toi khong nghi rang toi xung dang voi ban, nhung toi yeu ban.",
+                                    "_id": "00e42048136448b7a52b54613ccf40ac",
+                                    "id": 54878,
+                                    "type": "e_cnvi",
+                                    "e": "我并不认为我配得上你，但是我爱你。",
+                                    "p_cn": "Wo bing bu renwei wo pei de shang ni, danshi wo ai ni.",
+                                    "p": "Wǒ bìng bù rènwéi wǒ pèi dé shàng nǐ, dànshì wǒ ài nǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 2079
+            },
+            "snym": null,
+            "cn_vi": "ngã ái nhĩ",
+            "pinyin": "wǒ ài nǐ",
+            "word": "我爱你",
+            "id": 80933,
+            "phonetic": "woaini",
+            "rank": 5414,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄢˋㄋㄧˇㄏㄣˇ",
+            "_id": "533674042d1c496dbe12344452db9065",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bạn là cái gì đó!",
+                            "explain": "you are something!",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bạn có tôi!",
+                            "explain": "you got me!",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bạn thắng!",
+                            "explain": "you win!",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 165
+            },
+            "snym": null,
+            "cn_vi": "toán nhĩ ngận",
+            "pinyin": "suàn nǐ hěn",
+            "word": "算你狠",
+            "id": 119383,
+            "phonetic": "suannihen",
+            "rank": 31665,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄠˇㄋㄧˇㄍㄜˋ",
+            "_id": "2ea477e3dff24438bc80694decd0e78b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "miêu tả sự kinh ngạc; không ngờ đối phương lại như thế, hay cho một tên",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "hay cho tên tiểu Vương, lừa tiền mà lại lừa tới tôi rồi",
+                                    "p_vn": "hay cho ten tieu vuong, lua tien ma lai lua toi toi roi",
+                                    "_id": "ee5963273c7e47d89d66379b478a2f4a",
+                                    "id": 55445,
+                                    "type": "e_cnvi",
+                                    "e": "好你个小强，骗钱竟然骗到我头上了。",
+                                    "p_cn": "hǎo nǐ ge xiǎoqiang, pian qian jingran pian dao wǒ tou shangle.",
+                                    "p": "Hǎo nǐ gè xiǎoqiáng, piàn qián jìngrán piàn dào wǒ tóu shàngle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 74
+            },
+            "snym": null,
+            "cn_vi": "hảo nhĩ cá",
+            "pinyin": "hǎo nǐ gè",
+            "word": "好你个",
+            "id": 84739,
+            "phonetic": "haonige",
+            "rank": 48358,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄠㄋㄧˇㄇㄚ",
+            "_id": "21e5c692fece4944b34a8fb7a0945571",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "xem 肏你 媽 | 肏你 妈",
+                            "explain": "see 肏你媽|肏你妈 [cào nǐ mā]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 928
+            },
+            "snym": null,
+            "cn_vi": "thao nhĩ ma",
+            "pinyin": "cāo nǐ mā",
+            "word": "操你妈",
+            "id": 112501,
+            "phonetic": "caonima",
+            "rank": 10410,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄒㄧㄡㄒㄧㄤˇ",
+            "_id": "e7b4af055026475eb2f4e792966a47bf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Đừng có mơ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 80
+            },
+            "snym": null,
+            "cn_vi": "nhĩ hưu tưởng",
+            "pinyin": "nǐ xiūxiǎng",
+            "word": "你休想",
+            "id": 152862,
+            "phonetic": "nixiuxiang",
+            "rank": 46408,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄩˋㄋㄧˇㄉㄜ˙",
+            "_id": "cae2dcd9f9904a9ab5a96106281ecd8e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Hòa hợp với bạn!",
+                            "explain": "Get along with you!",
+                            "examples": [
+                                {
+                                    "m": "Tôi có thể gặp bạn trong văn phòng của bạn một lát được không?",
+                                    "p_vn": "toi co the gap ban trong van phong cua ban mot lat duoc khong?",
+                                    "_id": "296f0991c4e44df9be8ffccefdb25a2d",
+                                    "id": 63758,
+                                    "type": "e_cnvi",
+                                    "e": "能去你的办公室一会吗",
+                                    "p_cn": "neng qu ni de bangongshi yi hui ma",
+                                    "p": "néng qù nǐ de bàngōngshì yī hùi ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 744
+            },
+            "snym": null,
+            "cn_vi": "khứ nhĩ đích",
+            "pinyin": "qù nǐ de",
+            "word": "去你的",
+            "id": 111015,
+            "phonetic": "qunide",
+            "rank": 12191,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄇㄣ˙ㄏㄠˇ",
+            "_id": "cd9ea3951ca56053aab015340daad03b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Chào các bạn !",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 48,
+                "search": 662
+            },
+            "snym": null,
+            "cn_vi": "nhĩ môn hảo",
+            "pinyin": "nǐmen hǎo!",
+            "word": "你们好！",
+            "id": 68448,
+            "phonetic": "nimenhao!",
+            "rank": 13165,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄣˇㄆㄧㄠˋㄌㄧㄤˋ",
+            "_id": "cb2567fb2c12be3941934f70256b2a80",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Em rất xinh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 217
+            },
+            "snym": null,
+            "cn_vi": "nhĩ ngận phiêu lượng",
+            "pinyin": "nǐ hěn piàoliang",
+            "word": "你很漂亮",
+            "id": 80941,
+            "phonetic": "nihenpiaoliang",
+            "rank": 27002,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄛˇㄕˋㄋㄧˇㄉㄜ˙",
+            "_id": "8b805bfb4e524dff6f3fc3970e6b25da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Em là của anh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "ngã thị nhĩ đích",
+            "pinyin": "wǒ shì nǐ de",
+            "word": "我是你的",
+            "id": 80957,
+            "phonetic": "woshinide",
+            "rank": 77491,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄛˇㄏㄠˇㄒㄧㄤˇㄋㄧˇ",
+            "_id": "faf528a4c28feb628012409b60757619",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Anh rất nhớ em",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 170
+            },
+            "snym": null,
+            "cn_vi": "ngã hảo tưởng nhĩ",
+            "pinyin": "wǒ hǎo xiǎng nǐ",
+            "word": "我好想你",
+            "id": 80934,
+            "phonetic": "wohaoxiangni",
+            "rank": 31069,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄇㄢˊㄋㄧˇㄕㄨㄛ",
+            "_id": "330aa24af2d344bfae67f31e21f402f1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "Nói thật với bạn; không giấu gì cậu; chẳng giấu gì anh",
+                            "explain": "坦白的跟对方说明",
+                            "examples": [
+                                {
+                                    "m": "Nói thật với bạn, bệnh tình hiện tại của bạn tôi là do người khác gây ra!",
+                                    "p_vn": "noi that voi ban, benh tinh hien tai cua ban toi la do nguoi khac gay ra!",
+                                    "_id": "2498e2a2f86542d8bbdfe82ae76fd817",
+                                    "id": 54776,
+                                    "type": "e_cnvi",
+                                    "e": "不瞒你说,我朋友现在的病是被人所害 !",
+                                    "p_cn": "bu man ni shuo, wo pengyou xianzai de bing shi bei ren suo hai!",
+                                    "p": "Bù mán nǐ shuō, wǒ péngyǒu xiànzài de bìng shì bèi rén suǒ hài!"
+                                },
+                                {
+                                    "m": "Không giấu gì cậu, ai tôi cũng vẫn chưa nói.",
+                                    "p_vn": "khong giau gi cạu, ai toi cung van chua noi.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3492712",
+                                    "id": 90136,
+                                    "type": "e_cnvi",
+                                    "e": "不瞒你说，我谁都没告诉。",
+                                    "p_cn": "bu man ni shuo, wo shei dou mei gaosu.",
+                                    "p": "bù mán nǐ shuō, wǒ shéi dōu méi gàosù."
+                                },
+                                {
+                                    "m": "Chẳng giấu gì anh, tôi hết tiền rồi.",
+                                    "p_vn": "chảng giáu gì anh, toi hét tièn ròi.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b349430d",
+                                    "id": 90137,
+                                    "type": "e_cnvi",
+                                    "e": "不瞒你说，我已经没钱了。",
+                                    "p_cn": "bu man ni shuo, wo yijing mei qianle.",
+                                    "p": "bù mán nǐ shuō, wǒ yǐjīng méi qiánle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 49,
+                "search": 522
+            },
+            "snym": null,
+            "cn_vi": "bất man nhĩ thuyết",
+            "pinyin": "bù mán nǐ shuō",
+            "word": "不瞒你说",
+            "id": 84054,
+            "phonetic": "bumannishuo",
+            "rank": 15483,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄓㄜˋㄗㄚˊㄓㄨㄥˇ",
+            "_id": "128c90e5577448b29d5507678430c9ff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Đồ tạp chủng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Dừng tay, đồ tạp chủng",
+                                    "p_vn": "Dung tay, do tap chung",
+                                    "_id": "54f253fa9000414392d78b164b9db695",
+                                    "id": 55818,
+                                    "type": "e_cnvi",
+                                    "e": "住手,你这杂种",
+                                    "p_cn": "Zhushou, ni zhe zazhong",
+                                    "p": "Zhùshǒu, nǐ zhè zázhǒng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "nhĩ nghiện tạp chủng",
+            "pinyin": "nǐ zhè zázhǒng",
+            "word": "你这杂种",
+            "id": 85160,
+            "phonetic": "nizhezazhong",
+            "rank": 69835,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9efaad1b4cc0410286191e14df5ad566",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bánh trung thu mini",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "mê nhĩ nguyệt bính",
+            "pinyin": "mínǐ yuèbǐng",
+            "word": "迷你月饼",
+            "id": 159900,
+            "phonetic": "miniyuebing",
+            "rank": 96582,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄋㄧˇㄙㄨㄛˇㄘˋ",
+            "_id": "926ce40d58cd4c35ac1f3c8e9d69f5a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(derog.) tất cả là nhờ bạn!",
+                            "explain": "(derog.) this is all thanks to you!",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tốt, cảm ơn rất nhiều!",
+                            "explain": "well, thanks a lot!",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 52
+            },
+            "snym": null,
+            "cn_vi": "bái nhĩ sở tứ",
+            "pinyin": "bài nǐ suǒ cì",
+            "word": "拜你所赐",
+            "id": 130261,
+            "phonetic": "bainisuoci",
+            "rank": 56919,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄢㄋㄧˇㄆㄧˋㄕˋ",
+            "_id": "3e09b6dada15420c9a567a915bb1e721",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Liên quan gì đến mày",
+                            "explain": "关你屁事：新街口组合演唱歌曲",
+                            "examples": [
+                                {
+                                    "m": "tôi ăn hay không, lúc nào ăn liên quan gì đến anh, anh là ai mà quản tôi, tôi quen anh à?",
+                                    "p_vn": "toi an hay khong, luc nao an lien quan gi den anh, anh la ai ma quan toi, toi quen anh a?",
+                                    "_id": "f9e107f15eab4733827985895d630a6b",
+                                    "id": 55677,
+                                    "type": "e_cnvi",
+                                    "e": "我吃不吃饭，什么时候吃饭关你屁事，你谁啊来管我，跟你很熟吗？",
+                                    "p_cn": "Wo chi bu chifan, shenme shihou chifan guan ni pi shi, ni shei a lai guan wo, gen ni hen shu ma?",
+                                    "p": "Wǒ chī bù chīfàn, shénme shíhòu chīfàn guān nǐ pì shì, nǐ shéi a lái guǎn wǒ, gēn nǐ hěn shú ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 63,
+                "search": 362
+            },
+            "snym": null,
+            "cn_vi": "quan nhĩ thí sự",
+            "pinyin": "guān nǐ pì shì",
+            "word": "关你屁事",
+            "id": 85005,
+            "phonetic": "guannipishi",
+            "rank": 19650,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄋㄧˇㄅㄨˋㄉㄨㄛㄇㄟˊㄋㄧˇㄅㄨˋㄕㄠˇ",
+            "_id": "2eb2f17c32d5a3355699af8e9ce2156e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "Có cô thì chợ cũng đông; cô đi lấy chồng thì chợ vẫn vui",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 124,
+                "search": 1315
+            },
+            "snym": null,
+            "cn_vi": "hữu nhĩ bất đa một nhĩ bất thiếu",
+            "pinyin": "yǒu nǐ bù duō, méi nǐ bù shǎo",
+            "word": "有你不多，没你不少",
+            "id": 79754,
+            "phonetic": "younibuduo,meinibushao",
+            "rank": 7883,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄛˇㄒㄧˇㄏㄨㄢ˙ㄋㄧˇ",
+            "_id": "50408f5d187f94b7a27a852da2b227ce",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Anh thích; yêu em",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 564
+            },
+            "snym": null,
+            "cn_vi": "ngã hỉ hoan nhĩ",
+            "pinyin": "wǒ xǐhuān nǐ",
+            "word": "我喜欢你",
+            "id": 80931,
+            "phonetic": "woxihuanni",
+            "rank": 14646,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "70d04a0fbf3043a0ba571b6e7b21a817",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "trộm vía; nhờ vía (mượn lời cát của bạn)",
+                            "explain": "示接受祝福，并客气回话；和对自己的未来生活抱有（侥幸心理）美好希望。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 34,
+                "search": 328
+            },
+            "snym": null,
+            "cn_vi": "tá nhĩ cát ngôn",
+            "pinyin": "jiè nǐ jí yán",
+            "word": "借你吉言",
+            "id": 159484,
+            "phonetic": "jienijiyan",
+            "rank": 20892,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧㄢˋㄧ˙ㄌㄜ˙ㄋㄧˇ",
+            "_id": "d885d979188b466588b64cd6f82298ce",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Hời cho bạn rồi",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Lần này hời cho cậu rồi, lần tới không tha cho cậu.",
+                                    "p_vn": "lan nay hoi cho cau roi, lan toi khong tha cho cau.",
+                                    "_id": "4e2a881f3cf045b28f5019fa52a0a43f",
+                                    "id": 55395,
+                                    "type": "e_cnvi",
+                                    "e": "这次便宜了你，下次决不饶你！",
+                                    "p_cn": "zhe ci pian yile ni, xia ci jue bu rao ni!",
+                                    "p": "Zhè cì pián yile nǐ, xià cì jué bù ráo nǐ!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 138
+            },
+            "snym": null,
+            "cn_vi": "tiện nghi liễu nhĩ",
+            "pinyin": "piányíle nǐ",
+            "word": "便宜了你",
+            "id": 84683,
+            "phonetic": "pianyileni",
+            "rank": 34999,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄙˇㄨㄛˇㄏㄨㄛˊ",
+            "_id": "a0458df3ee1b77c7c6c81c51643f3502",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "một sống một chết; một mất một còn",
+                            "explain": "形容斗争非常激烈",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 58,
+                "search": 1105
+            },
+            "snym": {
+                "syno": [
+                    "不共戴天",
+                    "誓不两立",
+                    "鱼死网破",
+                    "势不两立",
+                    "令人发指"
+                ],
+                "anto": [
+                    "同生共死",
+                    "生死与共",
+                    "唇齿相依",
+                    "辅车相依",
+                    "相依为命"
+                ]
+            },
+            "cn_vi": "nhĩ tử ngã hoạt",
+            "pinyin": "nǐsǐwǒhuó",
+            "word": "你死我活",
+            "id": 39378,
+            "phonetic": "nisiwohuo",
+            "rank": 9085,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄑㄧㄥˊㄨㄛˇㄩㄢˋ",
+            "_id": "a426d4f6f3524221baeb538336cd201c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "sự đồng thuận",
+                            "explain": "mutual consent",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cả hai đều sẵn sàng",
+                            "explain": "to both be willing",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 78
+            },
+            "snym": null,
+            "cn_vi": "nhĩ tình ngã nguyện",
+            "pinyin": "nǐ qíng wǒ yuàn",
+            "word": "你情我愿",
+            "id": 133782,
+            "phonetic": "niqingwoyuan",
+            "rank": 47271,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄣˇㄒㄧㄥˋㄍㄢˇ",
+            "_id": "ecc64dba10ca26c484333ca0b24810f1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Em thật gợi cảm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "nhĩ ngận tính cảm",
+            "pinyin": "nǐ hěn xìnggǎn!",
+            "word": "你很性感！",
+            "id": 80944,
+            "phonetic": "nihenxinggan!",
+            "rank": 122834,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄟˇㄘㄞˊㄒㄧㄣˋㄋㄧˇ",
+            "_id": "f78902494577430681ab1f7211b4ecba",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Quỷ mới tin bạn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bạn  bảo cô ấy có bạn trai rồi? Có quỷ mới tin.",
+                                    "p_vn": "ban  bao co ay co ban trai roi? co quy moi tin.",
+                                    "_id": "4ce6335d16de4a53badc663d38318410",
+                                    "id": 55480,
+                                    "type": "e_cnvi",
+                                    "e": "你说她有男朋友？鬼才信你。",
+                                    "p_cn": "ni shuo ta you nan pengyou? guicai xin ni",
+                                    "p": "Nǐ shuō tā yǒu nán péngyǒu? Guǐcái xìn nǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 75
+            },
+            "snym": null,
+            "cn_vi": "quỷ tài tín nhĩ",
+            "pinyin": "guǐcái xìn nǐ",
+            "word": "鬼才信你",
+            "id": 84779,
+            "phonetic": "guicaixinni",
+            "rank": 47958,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄕˋㄨㄛˇㄉㄜ˙",
+            "_id": "22fc456d5953fb4690f740d69bd83d69",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Anh là của em",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 123
+            },
+            "snym": null,
+            "cn_vi": "nhĩ thị ngã đích",
+            "pinyin": "nǐ shì wǒ de",
+            "word": "你是我的",
+            "id": 80958,
+            "phonetic": "nishiwode",
+            "rank": 37322,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄗㄨㄟˋㄏㄠˇㄌㄜ˙",
+            "_id": "39bee51579d6d3a537fb5bbc9736ffe2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Em là tuyệt vời nhất",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "nhĩ tối hảo liễu",
+            "pinyin": "nǐ zuì hǎole",
+            "word": "你最好了",
+            "id": 80935,
+            "phonetic": "nizuihaole",
+            "rank": 87053,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄣㄧㄡˇㄋㄧˇㄉㄜ˙",
+            "_id": "927006ba2b274dc5a1651e01da2d9bf5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biểu thị sự tán dương hoặc phê bình; tránh móc;.... của người nói",
+                            "explain": "《真有你的》，是2003年电视剧《聚宝盆》主题曲，演唱者张卫健、苏永康。",
+                            "examples": [
+                                {
+                                    "m": "một mình bạn bắt được hai tên trộm, hay cho bạn!",
+                                    "p_vn": "mot minh ban bat duoc hai ten trom, hay cho ban!",
+                                    "_id": "ce50a8911c574d25a5e1420c3d23e7b8",
+                                    "id": 55446,
+                                    "type": "e_cnvi",
+                                    "e": "你一个人抓住了两个小偷，真有你的！",
+                                    "p_cn": "Ni yige ren zhua zhule liang ge xiaotou, zhenyou ni de!",
+                                    "p": "Nǐ yīgè rén zhuā zhùle liǎng gè xiǎotōu, zhēnyǒu nǐ de!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 300
+            },
+            "snym": null,
+            "cn_vi": "chân hữu nhĩ đích",
+            "pinyin": "zhēnyǒu nǐ de",
+            "word": "真有你的",
+            "id": 84740,
+            "phonetic": "zhenyounide",
+            "rank": 22179,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "7a2bde7d919f4d75805e235bcfc1fd55",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đồng âm với cụm từ 与你无关 mang nghĩa: Không liên quan tới mày",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "vũ nhĩ vô qua",
+            "pinyin": "yǔ nǐ wú guā",
+            "word": "雨你无瓜",
+            "id": 159893,
+            "phonetic": "yuniwugua",
+            "rank": 138989,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d9bf1b0ff56a4905b4bfb5822b77ec41",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ngôn ngữ mạng; dùng để trả lời khi bị hỏi những câu hỏi bất lịch sự mà đáng ra không nên hỏi. Tương đương với \"Hỏi gì vô duyên vậy?\".",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 82
+            },
+            "snym": null,
+            "cn_vi": "nhĩ lễ mạo mạ",
+            "pinyin": "nǐ lǐmào ma?",
+            "word": "你礼貌吗？",
+            "id": 159008,
+            "phonetic": "nilimaoma?",
+            "rank": 46065,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "你"
+}

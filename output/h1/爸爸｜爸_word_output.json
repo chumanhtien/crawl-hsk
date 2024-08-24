@@ -1,0 +1,622 @@
+{
+    "total": 13,
+    "found": false,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, wèi, míng, qún",
+                "examples": "",
+                "measure": "个, 位, 名, 群"
+            },
+            "zhuyin": "ㄅㄚˋㄅㄚˋ",
+            "topic": "65",
+            "_id": "c0bd93befda0a452e890a04edb953aed",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "bố của ai",
+                            "examples": [
+                                74576,
+                                74577
+                            ],
+                            "struct": "Ai đó  (+ 的) + 爸爸"
+                        },
+                        {
+                            "explain": "sinh nhật/ công việc/ sở thích/ lời nói/ thư của bố",
+                            "examples": [
+                                74578,
+                                74579
+                            ],
+                            "struct": "爸爸 + 的 + Danh từ (生日、工作、爱好、话、信）"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bố; ba; cha; thầy",
+                            "explain": "子女对父亲的称呼。称呼父亲; 有子女的男子",
+                            "examples": [
+                                {
+                                    "m": "Bố đi làm hàng ngày.",
+                                    "p_vn": "bo di lam hang ngay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95ae812",
+                                    "id": 94039,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸每天都去上班。",
+                                    "p_cn": "baba meitian dou qu shangban.",
+                                    "p": "bàba měitiān dōu qù shàngbān."
+                                },
+                                {
+                                    "m": "Con muốn dành cho bố một điều bất ngờ.",
+                                    "p_vn": "con muon danh cho bo mot dieu bat ngo.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95afe85",
+                                    "id": 94040,
+                                    "type": "e_cnvi",
+                                    "e": "我要给爸爸一个惊喜。",
+                                    "p_cn": "wo yao gei baba yige jingxi.",
+                                    "p": "wǒ yào gěi bàba yīgè jīngxǐ."
+                                },
+                                {
+                                    "m": "Nụ cười của bố thật ấm áp.",
+                                    "p_vn": "nu cuoi cua bo that am ap.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95b1dab",
+                                    "id": 94041,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸的笑容很温暖。",
+                                    "p_cn": "baba de xiaorong hen wennuan.",
+                                    "p": "bàba de xiàoróng hěn wēnnuǎn."
+                                },
+                                {
+                                    "m": "Bố làm việc vất vả.",
+                                    "p_vn": "bo lam viec vat va.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95b2978",
+                                    "id": 94042,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸辛苦工作。",
+                                    "p_cn": "baba xinku gongzuo.",
+                                    "p": "bàba xīnkǔ gōngzuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"父亲\" và \"爸爸\" đồng nghĩa với nhau, \"父亲\" thường là danh xưng không dùng khi trực tiếp xưng hô hoặc khi xưng hô trực tiếp với người thứ ba về bố, \"爸爸\" vừa có thể xưng hô trực tiếp, vừa có thể xưng hô không trực tiếp.",
+                    "title": "Phân biệt \"父亲\" và \"爸爸\"",
+                    "words": [
+                        "父亲",
+                        "爸爸"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "父亲",
+                    "老爸",
+                    "父母",
+                    "爸比"
+                ],
+                "anto": [
+                    "妈妈",
+                    "母亲"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "bàba",
+            "cn_vi": "bả bả",
+            "popularity": {
+                "notebook": 1123,
+                "search": 19875
+            },
+            "word": "爸爸",
+            "id": 72555,
+            "phonetic": "baba",
+            "rank": 286,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "65",
+            "zhuyin": "ㄅㄚˋ",
+            "_id": "8086a58fd0b6dab79527461c94ed4943",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bố; ba; cha; tía; phụ thân",
+                            "explain": "父亲，可以做当面的称呼",
+                            "examples": [
+                                {
+                                    "m": "Công việc của bố rất cực khổ.",
+                                    "p_vn": "cong viẹc của bó rát cục khỏ.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7fd9f18",
+                                    "id": 90003,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸的工作很辛苦。",
+                                    "p_cn": "baba de gongzuo hen xinku.",
+                                    "p": "bàba de gōngzuò hěn xīnkǔ."
+                                },
+                                {
+                                    "m": "Cuối tuần bố dẫn tôi đi công viên.",
+                                    "p_vn": "cuoi tuan bo dan toi di cong vien.",
+                                    "_id": "641148288b13f4cf43a85133e81a8edc",
+                                    "id": 114310,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸周末带我去公园。",
+                                    "p_cn": "baba zhoumo dai wo qu gongyuan.",
+                                    "p": "bàba zhōumò dài wǒ qù gōngyuán."
+                                },
+                                {
+                                    "m": "Bố luôn kiên nhẫn với tôi.",
+                                    "p_vn": "bo luon kien nhan voi toi.",
+                                    "_id": "641148288b13f4cf43a85133e81abfb9",
+                                    "id": 114320,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸总是对我很耐心。",
+                                    "p_cn": "baba zong shi dui wo hen naixin.",
+                                    "p": "bàba zǒng shì duì wǒ hěn nàixīn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 169,
+                "search": 6507
+            },
+            "snym": {
+                "syno": [
+                    "父亲,",
+                    "爸爸"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "bà",
+            "cn_vi": "ba.bả",
+            "word": "爸",
+            "id": 801,
+            "phonetic": "ba",
+            "rank": 1778,
+            "lv_hsk": 1,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨˋㄅㄚˋ",
+            "_id": "853d775c084f42d0a96f350cf117e997",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thanh công cụ (trong phần mềm máy tính) (từ khóa)",
+                            "explain": "toolbar (in computer software) (loanword)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "thỏ ba",
+            "pinyin": "tù bà",
+            "word": "兔爸",
+            "id": 88011,
+            "phonetic": "tuba",
+            "rank": 104318,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄚㄅㄚˋ",
+            "_id": "5d56f946a9be26f1c74f30c847116f3f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ba; cha; bố",
+                            "explain": "爸爸",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 38
+            },
+            "snym": {
+                "syno": [
+                    "父亲"
+                ]
+            },
+            "cn_vi": "a ba",
+            "pinyin": "ā bà",
+            "word": "阿爸",
+            "id": 7,
+            "phonetic": "aba",
+            "rank": 64960,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄞˇㄅㄚˋ",
+            "_id": "aad3e1863ca0434da76463f50672fc5f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ở nhà đi bố",
+                            "explain": "stay-at-home dad",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 126
+            },
+            "snym": null,
+            "cn_vi": "nãi ba",
+            "pinyin": "nǎi bà",
+            "word": "奶爸",
+            "id": 90914,
+            "phonetic": "naiba",
+            "rank": 36851,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄚˋㄅㄧˇ",
+            "_id": "02dbb6193bde455f9f266c199d4fc392",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(loan báo) bố ơi",
+                            "explain": "(loanword) daddy",
+                            "examples": [
+                                {
+                                    "m": "Con sẽ không bao giờ lớn lên và lấy bố đâu!",
+                                    "p_vn": "Con se khong bao gio lon len va lay bo dau!",
+                                    "_id": "5fab6f09fcf040e3ae6ee3ad4596f5af",
+                                    "id": 56676,
+                                    "type": "e_cnvi",
+                                    "e": "我再也长不大嫁给爸比了",
+                                    "p_cn": "wo zaiye changbuda jiagei babi le",
+                                    "p": "wǒ zàiyě chángbùdà jiàgěi bàbǐ le"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 93
+            },
+            "snym": {
+                "syno": [
+                    "爸爸",
+                    "父亲"
+                ]
+            },
+            "cn_vi": "ba bí",
+            "pinyin": "bà bǐ",
+            "word": "爸比",
+            "id": 88984,
+            "phonetic": "babi",
+            "rank": 43053,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "65",
+            "zhuyin": "ㄌㄠˇㄅㄚˋ",
+            "_id": "4e6f43589c744f80b61c0e2c2f67e00e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ông bố",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bố tôi ngoài 40 tuổi, chiều cao trung bình và có một vài nếp nhăn nhẹ trên khuôn mặt.",
+                                    "p_vn": "Bo toi ngoai 40 tuoi, chieu cao trung binh va co mot vai nep nhan nhe tren khuon mat.",
+                                    "_id": "5ce56290e37d4801bd3f130eb5249d6d",
+                                    "id": 55346,
+                                    "type": "e_cnvi",
+                                    "e": "我的老爸40多岁，中等个儿，脸上有几条浅浅的皱纹",
+                                    "p_cn": "Wo de lao ba 40 duo sui, zhongdeng ge'er, lian shang you ji tiao qian qian de zhouwen",
+                                    "p": "Wǒ de lǎo bà 40 duō suì, zhōngděng gè'er, liǎn shàng yǒu jǐ tiáo qiǎn qiǎn de zhòuwén"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 184
+            },
+            "snym": {
+                "syno": [
+                    "父亲",
+                    "爸爸"
+                ]
+            },
+            "cn_vi": "lão ba",
+            "pinyin": "lǎo bà",
+            "word": "老爸",
+            "id": 84631,
+            "phonetic": "laoba",
+            "rank": 29798,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄣㄅㄚˋ",
+            "_id": "b8b3963cecf4435894628baf62644351",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cha đẻ",
+                            "explain": "biological father",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cha của một người",
+                            "explain": "one's own father",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "thân ba",
+            "pinyin": "qīn bà",
+            "word": "亲爸",
+            "id": 89889,
+            "phonetic": "qinba",
+            "rank": 73813,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄢˋㄅㄚˋ",
+            "_id": "edf95353b5864f66be86c3184b1620d9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cha nuôi; bố nuôi; nghĩa phụ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 79
+            },
+            "snym": null,
+            "cn_vi": "can ba",
+            "pinyin": "gàn bà",
+            "word": "干爸",
+            "id": 152628,
+            "phonetic": "ganba",
+            "rank": 46915,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄚˋㄇㄚ",
+            "_id": "cb92d52d31a7470d86acb0adb9589a2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ba và mẹ",
+                            "explain": "dad and mom",
+                            "examples": [
+                                {
+                                    "m": "Một nhà ba người nghi nhiếm covid 19, bố mẹ đã ốm nằm liệt giường.",
+                                    "p_vn": "Mot nha ba nguoi nghi nhiem covid 19, bo me da om nam liet giuong.",
+                                    "_id": "3f4a6bf1d1ff45d2b346c8c1e73a7267",
+                                    "id": 63557,
+                                    "type": "e_cnvi",
+                                    "e": "一家三口疑似新冠肺炎，爸妈已卧病不起.",
+                                    "p_cn": "Yijia sankou yisi xinguan feiyan, ba ma yi wobing bu qi.",
+                                    "p": "Yījiā sānkǒu yísì xīnguān fèiyán, bà mā yǐ wòbìng bù qǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 393
+            },
+            "snym": null,
+            "cn_vi": "ba ma",
+            "pinyin": "bà mā",
+            "word": "爸妈",
+            "id": 88983,
+            "phonetic": "bama",
+            "rank": 18643,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄠˇㄅㄚˋ",
+            "_id": "a4d0ddebf0bc41c781ccaa03df9ee74e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một người cha (cha của một đứa trẻ)",
+                            "explain": "a dad (father of a young child)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "bảo ba",
+            "pinyin": "bǎo bà",
+            "word": "宝爸",
+            "id": 91022,
+            "phonetic": "baoba",
+            "rank": 132826,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄚㄅㄚˋㄈㄨˋ",
+            "_id": "2a30b276b76f488997d028d5fdcbce45",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Abba (cha từ tiếng Aram)",
+                            "explain": "Abba (Aramaic word father)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bởi máy lẻ. Đức Chúa Trời là Cha trong Phúc âm Cơ đốc",
+                            "explain": "by ext. God the Father in Christian gospel",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "a ba phụ",
+            "pinyin": "ā bà fù",
+            "word": "阿爸父",
+            "id": 110873,
+            "phonetic": "abafu",
+            "rank": 155354,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄛˇㄐㄧㄚㄧㄡˇㄅㄚˋㄅㄚˋㄇㄚㄇㄚㄏㄜˊㄨㄛˇ",
+            "_id": "c8936dfec2709bec364838e46e406906",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Nhà tôi có ba; mà và tôi.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "ngã gia hữu ba ba ma ma hoà ngã",
+            "pinyin": "wǒjiā yǒu bàba, māmā hé wǒ",
+            "word": "我家有爸爸，妈妈和我",
+            "id": 78363,
+            "phonetic": "wojiayoubaba,mamahewo",
+            "rank": 120313,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "爸爸｜爸"
+}

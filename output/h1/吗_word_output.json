@@ -1,0 +1,1674 @@
+{
+    "total": 38,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "part"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄚ˙",
+            "_id": "30f91f510422fa83ee2a18b45a6fa97c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "không; ư; à (dùng ở cuối câu để hỏi)",
+                            "explain": "用在句末表示疑问",
+                            "examples": [
+                                {
+                                    "m": "Ngày mai cô ấy đến không ?",
+                                    "p_vn": "ngay mai co ay den khong ?",
+                                    "_id": "89909221fce6a5f5eb731d3605502cdf",
+                                    "id": 28000,
+                                    "type": "e_cnvi",
+                                    "e": "明天她来吗?",
+                                    "p_cn": "mingtian ta lai ma?",
+                                    "p": "míngtiān tā lái ma?"
+                                },
+                                {
+                                    "m": "Anh tìm tôi có việc ư?",
+                                    "p_vn": "anh tim toi co viec u?",
+                                    "_id": "fb6643fbd0284c0b5c1c2e4e8025f066",
+                                    "id": 28001,
+                                    "type": "e_cnvi",
+                                    "e": "你找我有事吗?",
+                                    "p_cn": "ni zhao wo youshi ma?",
+                                    "p": "nǐ zhǎo wǒ yǒushì ma?"
+                                },
+                                {
+                                    "m": "Bạn là học sinh à?",
+                                    "p_vn": "ban la hoc sinh a?",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8a9fa7",
+                                    "id": 135112,
+                                    "type": "e_cnvi",
+                                    "e": "你是学生吗？",
+                                    "p_cn": "ni shi xuesheng ma?",
+                                    "p": "nǐ shì xuéshēng ma?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ấy à; ấy ư (dùng ở cuối câu, ngắt nghỉ để nhấn mạnh)",
+                            "explain": "用在句中停顿处， 点出话题",
+                            "examples": [
+                                {
+                                    "m": "Việc này ấy ư, thực ra cũng không trách cô ấy được.",
+                                    "p_vn": "viec nay ay u, thuc ra cung khong trach co ay duoc.",
+                                    "_id": "76b6b35b1afe37de9b2d1a5b23df5562",
+                                    "id": 28002,
+                                    "type": "e_cnvi",
+                                    "e": "这件事吗，其实也不能怪她。",
+                                    "p_cn": "zhejian shi ma，qishi ye buneng guai ta。",
+                                    "p": "zhèjiàn shì ma，qíshí yě bùnéng guài tā。"
+                                },
+                                {
+                                    "m": "Than ấy à, tiết kiệm được chút nào hay chút nấy.",
+                                    "p_vn": "than ay a, tiet kiem duoc chut nao hay chut nay.",
+                                    "_id": "c5b4222ddc888ef5ea6a10bbbf0eda8c",
+                                    "id": 28003,
+                                    "type": "e_cnvi",
+                                    "e": "煤吗，能省点就省点。",
+                                    "p_cn": "mei ma，nengsheng dian jiu shengdian。",
+                                    "p": "méi ma，néngshěng diǎn jìu shěngdiǎn。"
+                                },
+                                {
+                                    "m": "Tiền nong à, không thành vấn đề.",
+                                    "p_vn": "tien nong a, khong thanh van de.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8b352e",
+                                    "id": 135130,
+                                    "type": "e_cnvi",
+                                    "e": "金钱吗，不是问题。",
+                                    "p_cn": "jinqian ma， bushi wenti.",
+                                    "p": "jīnqián ma， bùshì wèntí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ư; à (biểu thị phản vấn)",
+                            "explain": "用在句子末尾，表示反诘",
+                            "examples": [
+                                {
+                                    "m": "Bạn không phải người Trung Quốc à？",
+                                    "p_vn": "ban khong phai nguoi trung quoc a？",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3a71996",
+                                    "id": 90759,
+                                    "type": "e_cnvi",
+                                    "e": "你不是中国人吗?",
+                                    "p_cn": "ni bushi zhongguo ren ma?",
+                                    "p": "Nǐ bùshì zhōngguó rén ma?"
+                                },
+                                {
+                                    "m": "Bạn không phải quen anh ấy à?",
+                                    "p_vn": "ban khong phai quen anh ay a?",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8af45e",
+                                    "id": 135121,
+                                    "type": "e_cnvi",
+                                    "e": "你不是认识他吗？",
+                                    "p_cn": "ni bushi renshi ta ma?",
+                                    "p": "nǐ bùshì rènshi tā ma?"
+                                },
+                                {
+                                    "m": "Em như thế này, anh có thể không đau lòng ư?",
+                                    "p_vn": "em nhu the nay, anh co the khong dau long u?",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8b0600",
+                                    "id": 135123,
+                                    "type": "e_cnvi",
+                                    "e": "你这样，我能不伤心吗？",
+                                    "p_cn": "ni zheyang, wo neng bu shangxin ma?",
+                                    "p": "nǐ zhèyàng, wǒ néng bù shāngxīn ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1036,
+                "search": 25453
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "ma",
+            "cn_vi": "mạ.ma",
+            "word": "吗",
+            "id": 36900,
+            "phonetic": "ma",
+            "rank": 160,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄚ˙",
+            "_id": "68f64d832d67ac01bf1357db5d2dd446",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "cái gì",
+                            "explain": "什么",
+                            "examples": [
+                                {
+                                    "m": "Cửa hàng này có rất nhiều đồ, muốn gì có nấy.",
+                                    "p_vn": "cua hang nay co rat nhieu do, muon gi co nay.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8b690f",
+                                    "id": 135135,
+                                    "type": "e_cnvi",
+                                    "e": "这个商店东西真多，要吗有吗。",
+                                    "p_cn": "zhege shangdian dongxi zhen duo, yao ma you ma.",
+                                    "p": "zhège shāngdiàn dōngxi zhēn duō, yào má yǒu má."
+                                },
+                                {
+                                    "m": "Bạn rốt cuộc đang làm gì vậy?",
+                                    "p_vn": "ban rot cuoc dang lam gi vay?",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8b692e",
+                                    "id": 135136,
+                                    "type": "e_cnvi",
+                                    "e": "你到底在干吗？",
+                                    "p_cn": "ni daodi zai ganma?",
+                                    "p": "nǐ dàodǐ zài gànmá?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1036,
+                "search": 25453
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "má",
+            "cn_vi": "mạ.ma",
+            "word": "吗",
+            "id": 36901,
+            "phonetic": "ma",
+            "rank": 161,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄚ˙",
+            "_id": "2c6642d0e0348254e913b3bf36a889f3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Moóc-phin",
+                            "explain": "药名，有机化合物， 分子式C17H19O3N.H2O，白色结晶性粉末， 味苦，有毒，是由鸦片制成的用作镇痛剂，连续使用容易成瘾 (英morphine)",
+                            "examples": [
+                                {
+                                    "m": "Sử dụng moóc-phin cần có sự hướng dẫn của bác sĩ.",
+                                    "p_vn": "su dung mooc-phin can co su huong dan cua bac si.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8a9546",
+                                    "id": 135109,
+                                    "type": "e_cnvi",
+                                    "e": "使用吗啡需要医生的指导。",
+                                    "p_cn": "shiyong mafei xuyao yisheng de zhidao.",
+                                    "p": "shǐyòng mǎfēi xūyào yīshēng de zhǐdǎo."
+                                },
+                                {
+                                    "m": "Sử dụng quá liều morphine có thể dẫn đến nghiện.",
+                                    "p_vn": "su dung qua lieu morphine co the dan den nghien.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8a956c",
+                                    "id": 135110,
+                                    "type": "e_cnvi",
+                                    "e": "过量服用吗啡可能导致成瘾。",
+                                    "p_cn": "guoliang fuyong mafei keneng daozhi cheng yin.",
+                                    "p": "guòliàng fúyòng mǎfēi kěnéng dǎozhì chéng yǐn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1036,
+                "search": 25453
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "mǎ",
+            "cn_vi": "mạ.ma",
+            "word": "吗",
+            "id": 36902,
+            "phonetic": "ma",
+            "rank": 162,
+            "lv_tocfl": 1,
+            "compound": "吗啡"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "762ee98573414ee3b7d153029ca8aeec",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "phải chăng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thị mạ",
+            "pinyin": "shì ma?",
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "word": "是吗?",
+            "id": 176713,
+            "phonetic": "shima?",
+            "rank": 117085,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄚ˙ㄋㄚˇ",
+            "_id": "aef462f036e644af84819997356d1689",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "manna (thức ăn của người Israel)",
+                            "explain": "manna (Israelite food)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "mạ na",
+            "pinyin": "ma nǎ",
+            "word": "吗哪",
+            "id": 88171,
+            "phonetic": "mana",
+            "rank": 87374,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˋㄇㄚ˙",
+            "_id": "dca638babd404223abb92923f00144c7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thấy không?",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Quý hiếm như những viên ngọc lục bảo đỏ đã bị đánh cắp khỏi nhà Hammond?",
+                                    "p_vn": "Quy hiem nhu nhung vien ngoc luc bao do da bi danh cap khoi nha Hammond?",
+                                    "_id": "f894bb8d4ba74ab985a8b9a5f3e20666",
+                                    "id": 60002,
+                                    "type": "e_cnvi",
+                                    "e": "哈蒙德家被盗红宝石的那种罕见吗",
+                                    "p_cn": "hamengde jia beidao hongbaoshi de nazhong hanjian ma",
+                                    "p": "hāméngdé jiā bèidào hóngbǎoshí de nàzhǒng hǎnjiàn ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "kiến mạ",
+            "pinyin": "jiàn ma",
+            "word": "见吗",
+            "id": 152579,
+            "phonetic": "jianma",
+            "rank": 90776,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f130b264f49e42ab8885bb2e0da94123",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phải chăng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đối mạ",
+            "pinyin": "duì ma?",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "对吗?",
+            "id": 176714,
+            "phonetic": "duima?",
+            "rank": 123874,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄨㄥˇㄇㄚ˙",
+            "_id": "28607fee4f7b84968dd4cad5670551ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Hiểu không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 130
+            },
+            "snym": null,
+            "cn_vi": "đổng mạ",
+            "pinyin": "dǒng ma?",
+            "word": "懂吗？",
+            "id": 70691,
+            "phonetic": "dongma?",
+            "rank": 36175,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄚ˙ㄌㄢˊ",
+            "_id": "6a543bc45c4e4fcab4b75732ebbba3c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "morpholine (hóa học) (từ mượn)",
+                            "explain": "morpholine (chemistry) (loanword)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "mạ lâm",
+            "pinyin": "ma lín",
+            "word": "吗啉",
+            "id": 90542,
+            "phonetic": "malin",
+            "rank": 110864,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "",
+                "examples": "",
+                "measure": ""
+            },
+            "zhuyin": "ㄍㄢˋㄇㄚ˙",
+            "_id": "fb00bf3a157a3818bf3eb7626105604e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                140597,
+                                140598
+                            ],
+                            "struct": "在/想/会/能/去 + 干吗"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm gì; làm cái gì; làm sao",
+                            "explain": "干什么；做什么",
+                            "examples": [
+                                {
+                                    "m": "Bạn đang làm gì ở đây?",
+                                    "p_vn": "ban dang lam gi o day?",
+                                    "_id": "9938873f438f99a1b005f10050a132d1",
+                                    "id": 140591,
+                                    "type": "e_cnvi",
+                                    "e": "你干吗在这里？",
+                                    "p_cn": "ni ganma zai zheli?",
+                                    "p": "nǐ gànma zài zhèlǐ?"
+                                },
+                                {
+                                    "m": "Họ đang làm cái gì?",
+                                    "p_vn": "ho dang lam cai gi?",
+                                    "_id": "9938873f438f99a1b005f10050a13e81",
+                                    "id": 140592,
+                                    "type": "e_cnvi",
+                                    "e": "他们正在干吗？",
+                                    "p_cn": "tamen zhengzai ganma?",
+                                    "p": "tāmen zhèngzài gànma?"
+                                },
+                                {
+                                    "m": "Rốt cuộc bạn muốn làm gì?",
+                                    "p_vn": "rot cuoc ban muon lam gi?",
+                                    "_id": "9938873f438f99a1b005f10050a145d3",
+                                    "id": 140594,
+                                    "type": "e_cnvi",
+                                    "e": "你到底想干吗？",
+                                    "p_cn": "ni daodi xiang ganma?",
+                                    "p": "nǐ dàodǐ xiǎng gànma?"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                140601,
+                                140602
+                            ],
+                            "struct": "干吗 +（不+）Động từ（打/告诉/理/跟着/去）+ (Tân ngữ)"
+                        }
+                    ],
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "tại sao; vì sao",
+                            "explain": "为什么",
+                            "examples": [
+                                {
+                                    "m": "Tại sao bạn dậy sớm như vậy?",
+                                    "p_vn": "tai sao ban day som nhu vay?",
+                                    "_id": "9938873f438f99a1b005f10050a12694",
+                                    "id": 140588,
+                                    "type": "e_cnvi",
+                                    "e": "你干吗这么早起床？",
+                                    "p_cn": "ni ganma zheme zao qichuang?",
+                                    "p": "nǐ gànma zhème zǎo qǐchuáng?"
+                                },
+                                {
+                                    "m": "Tại sao anh ta không đến tham gia tiệc?",
+                                    "p_vn": "tai sao anh ta khong den tham gia tiec?",
+                                    "_id": "9938873f438f99a1b005f10050a12ba3",
+                                    "id": 140589,
+                                    "type": "e_cnvi",
+                                    "e": "他干吗不来参加派对？",
+                                    "p_cn": "ta ganma bu lai canjia paidui?",
+                                    "p": "tā gànma bù lái cānjiā pàiduì?"
+                                },
+                                {
+                                    "m": "Tại sao chúng ta phải làm như vậy?",
+                                    "p_vn": "tai sao chung ta phai lam nhu vay?",
+                                    "_id": "9938873f438f99a1b005f10050a12f80",
+                                    "id": 140590,
+                                    "type": "e_cnvi",
+                                    "e": "我们干吗要这么做？",
+                                    "p_cn": "women ganma yao zheme zuo?",
+                                    "p": "wǒmen gànma yào zhème zuò?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 105,
+                "search": 1700
+            },
+            "snym": null,
+            "lv_hsk_new": "3",
+            "pinyin": "gànma",
+            "cn_vi": "can mạ",
+            "word": "干吗",
+            "id": 18300,
+            "phonetic": "ganma",
+            "rank": 6376,
+            "kind": [
+                "v",
+                "pro"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄡˋㄇㄚ˙",
+            "_id": "4cd7ba61f9cad3e03bb66f2c769d480b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "có đủ không",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tiền đây, có đủ không?",
+                                    "p_vn": "Tien day, co du khong?",
+                                    "_id": "f6826aa2a5a039238c928479073c14eb",
+                                    "id": 54372,
+                                    "type": "e_cnvi",
+                                    "e": "给你钱，够吗？",
+                                    "p_cn": "Gei ni qian, gou ma?",
+                                    "p": "Gěi nǐ qián, gòu ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "hú mạ",
+            "pinyin": "gòu ma?",
+            "word": "够吗？",
+            "id": 83614,
+            "phonetic": "gouma?",
+            "rank": 87901,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˋㄇㄚ˙",
+            "_id": "c9bb5474bc2955bc0ea4c8070831d5a2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Phải không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 309
+            },
+            "snym": null,
+            "cn_vi": "thị mạ",
+            "pinyin": "shì ma?",
+            "word": "是吗？",
+            "id": 71373,
+            "phonetic": "shima?",
+            "rank": 21755,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "29",
+            "zhuyin": "ㄇㄚ˙ㄈㄟ",
+            "_id": "6910504a57e530ac532409c7be76aeb3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Moóc-phin; a phiến trắng; thuốc phiện",
+                            "explain": "药名，有机化合物， 分子式C1 7 H1 9 O3 N.H2 O，白色结晶性粉末， 味苦，有毒，是由鸦片制成的用作镇痛剂，连续使用容易成瘾 (英morphine)",
+                            "examples": [
+                                {
+                                    "m": "Đó là một liều mổi-đơn-vị dược phẩm.",
+                                    "p_vn": "do la mot lieu mỏi-don-vị duoc pham.",
+                                    "_id": "40bb5a5686f2400aa33cb8cafe82ba55",
+                                    "id": 71317,
+                                    "type": "e_cnvi",
+                                    "e": "那吗啡是注射进去的.",
+                                    "p_cn": "na mafei shi zhushe jinqu de",
+                                    "p": "nà mǎfēi shì zhùshè jìnqù de"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 19,
+                "search": 194
+            },
+            "snym": null,
+            "cn_vi": "mạ phê",
+            "pinyin": "mǎfēi",
+            "word": "吗啡",
+            "id": 36903,
+            "phonetic": "mafei",
+            "rank": 28896,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "518d0f2a7e28401d863314e2873da902",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "phải không",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đối mạ",
+            "pinyin": "duì ma",
+            "popularity": {
+                "notebook": 4,
+                "search": 316
+            },
+            "word": "对吗",
+            "id": 180828,
+            "phonetic": "duima",
+            "rank": 21414,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˋㄇㄚ˙",
+            "_id": "21462adc6338b954f7682d58cace08c0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Vậy à; phải không",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Máy tampon lại bị hỏng.",
+                                    "p_vn": "May tampon lai bi hong.",
+                                    "_id": "36f89b5863204bc79d392d9696bc71e7",
+                                    "id": 62995,
+                                    "type": "e_cnvi",
+                                    "e": "卫生棉条机又坏了是吗",
+                                    "p_cn": "weishengmian tiaoji youhuaile shi ma",
+                                    "p": "wèishēngmián tiáojī yòuhuàile shì ma"
+                                },
+                                {
+                                    "m": "Chà, bạn là một kẻ đạo đức giả chết tiệt",
+                                    "p_vn": "Cha, ban la mot ke dao duc gia chet tiet",
+                                    "_id": "4679eb496eaf4cc580e0d7a955912021",
+                                    "id": 61082,
+                                    "type": "e_cnvi",
+                                    "e": "是吗你是一个该死的伪善者",
+                                    "p_cn": "shi ma ni shi yige gaisi de weishanzhe",
+                                    "p": "shì ma nǐ shì yīgè gāisǐ de wěishànzhě"
+                                },
+                                {
+                                    "m": "Bạn cũng có bằng tiến sĩ âm nhạc học tại Juilliard?",
+                                    "p_vn": "ban cung co bang tien si am nhac hoc tai juilliard?",
+                                    "_id": "75cdb27b7fcd4b46bee2e31a7f2f7610",
+                                    "id": 61021,
+                                    "type": "e_cnvi",
+                                    "e": "你还在朱利亚音乐学院获得了音乐学博士学位是吗",
+                                    "p_cn": "ni huan zai zhuliya yinlexueyuan huode le yinlexue boshixuewei shi ma?",
+                                    "p": "nǐ huán zài zhūlìyà yīnlèxuéyuàn huòdé le yīnlèxué bóshìxuéwèi shì ma?"
+                                },
+                                {
+                                    "m": "Còn phải nói à, tôi đã buộc nó vào tường 20 lần.",
+                                    "p_vn": "con phai noi a, toi da buoc no vao tuong 20 lan.",
+                                    "_id": "7b1d98cbdc354c92b18bdb8147053d43",
+                                    "id": 56310,
+                                    "type": "e_cnvi",
+                                    "e": "可不是吗,我在床柱上系了二十次都行",
+                                    "p_cn": "ke bu shi ma, wo zai chuangzhu shang xile ershi ci dou xing",
+                                    "p": "Kě bú shì ma, wǒ zài chuángzhù shàng xìle èrshí cì dōu xíng"
+                                },
+                                {
+                                    "m": "Bạn muốn thấy sự lạm dụng quyền lực?",
+                                    "p_vn": "Ban muon thay su lam dung quyen luc?",
+                                    "_id": "7ba8e8f9b3f444f3b336f7983af68abd",
+                                    "id": 62765,
+                                    "type": "e_cnvi",
+                                    "e": "你想知道什么是滥用权力是吗",
+                                    "p_cn": "ni xiang zhidao shiyao shi lanyongquanli shi ma",
+                                    "p": "nǐ xiǎng zhīdào shíyāo shì lànyòngquánlì shì ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 39,
+                "search": 1152
+            },
+            "snym": null,
+            "cn_vi": "thị mạ",
+            "pinyin": "shì ma",
+            "word": "是吗",
+            "id": 78341,
+            "phonetic": "shima",
+            "rank": 8791,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄨㄟˋㄇㄚ˙",
+            "_id": "e8fbaa3327bf1da7809e3cd340b0db77",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Đúng không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 194
+            },
+            "snym": null,
+            "cn_vi": "đối mạ",
+            "pinyin": "duì ma?",
+            "word": "对吗？",
+            "id": 70160,
+            "phonetic": "duima?",
+            "rank": 28837,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄉㄠˋㄇㄚ˙",
+            "_id": "ef042cb39600866bc6ec2012adb4161d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Biết không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 226
+            },
+            "snym": null,
+            "cn_vi": "tri đạo mạ",
+            "pinyin": "zhīdào ma?",
+            "word": "知道吗？",
+            "id": 73104,
+            "phonetic": "zhidaoma?",
+            "rank": 26398,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄠˇㄇㄚ˙",
+            "_id": "5c16c8e8f82d915024afce585949f567",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bạn khỏe không?",
+                            "explain": "《你好吗？》是由邓丽欣演唱的一首歌曲，被收入《Dating Stephy》专辑。",
+                            "examples": [
+                                {
+                                    "m": "Bạn nghĩ xem tôi có tốt với bạn không",
+                                    "p_vn": "Ban nghi xem toi co tot voi ban khong",
+                                    "_id": "38d362b47980492796756020a463d073",
+                                    "id": 55482,
+                                    "type": "e_cnvi",
+                                    "e": "你想想我对你好吗？",
+                                    "p_cn": "Ni xiang xiang wo dui ni hao ma?",
+                                    "p": "Nǐ xiǎng xiǎng wǒ duì nǐ hǎo ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 52,
+                "search": 1295
+            },
+            "snym": null,
+            "cn_vi": "nhĩ hảo mạ",
+            "pinyin": "nǐ hǎo ma?",
+            "word": "你好吗？",
+            "id": 68451,
+            "phonetic": "nihaoma?",
+            "rank": 7981,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄠˇㄏㄜㄇㄚ˙",
+            "_id": "721de52892fc28c478f4bbfc50dcc6c9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Uống ngon không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 52
+            },
+            "snym": null,
+            "cn_vi": "hảo hát mạ",
+            "pinyin": "hǎo hē ma?",
+            "word": "好喝吗？",
+            "id": 69971,
+            "phonetic": "haohema?",
+            "rank": 56933,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄠˇㄔㄇㄚ˙",
+            "_id": "ddab48e388eb195e9abc6b2490b5fea7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Ngon không?",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cam có ngon không?",
+                                    "p_vn": "cam co ngon khong?",
+                                    "_id": "80f0564238338420e4b96d55413cf227",
+                                    "id": 69191,
+                                    "e": "橙子好吃吗？",
+                                    "p_cn": "chengzi hao chi ma?",
+                                    "type": "e_cnvi",
+                                    "p": "chéngzi hǎo chī ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 127
+            },
+            "snym": null,
+            "cn_vi": "hảo cật mạ",
+            "pinyin": "hǎo chī ma?",
+            "word": "好吃吗？",
+            "id": 69970,
+            "phonetic": "haochima?",
+            "rank": 36552,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄧㄥㄉㄨㄥˇㄇㄚ˙",
+            "_id": "14cf15df1075546691cb3b183ca013d5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Nghe hiểu không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 88
+            },
+            "snym": null,
+            "cn_vi": "thính đổng mạ",
+            "pinyin": "tīng dǒng ma?",
+            "word": "听懂吗？",
+            "id": 69453,
+            "phonetic": "tingdongma?",
+            "rank": 44376,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄧㄢˋㄇㄚ˙ㄦ˙",
+            "_id": "4307056ef7049239c0f89447831e4744",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "rau sống (ăn kèm với mì)",
+                            "explain": "吃面条时用来拌面的蔬菜",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "diện mạ nhi",
+            "pinyin": "miàn ma er",
+            "word": "面吗儿",
+            "id": 37986,
+            "phonetic": "mianmaer",
+            "rank": 82997,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄕˋㄇㄚ˙",
+            "_id": "f170791ca7064d4a809656032b75b435",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không phải vậy sao?",
+                            "explain": "isn't that so?",
+                            "examples": [
+                                {
+                                    "m": "Còn phải nói à, tôi đã buộc nó vào tường 20 lần.",
+                                    "p_vn": "con phai noi a, toi da buoc no vao tuong 20 lan.",
+                                    "_id": "7b1d98cbdc354c92b18bdb8147053d43",
+                                    "id": 56310,
+                                    "type": "e_cnvi",
+                                    "e": "可不是吗,我在床柱上系了二十次都行",
+                                    "p_cn": "ke bu shi ma, wo zai chuangzhu shang xile ershi ci dou xing",
+                                    "p": "Kě bú shì ma, wǒ zài chuángzhù shàng xìle èrshí cì dōu xíng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 247
+            },
+            "snym": null,
+            "cn_vi": "bất thị mạ",
+            "pinyin": "bùshì ma",
+            "word": "不是吗",
+            "id": 111700,
+            "phonetic": "bushima",
+            "rank": 24965,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "bf1dc12c0cfd423a98a0b60313e1a20b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "độ dài vải đã hoàn thành",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "phôi bố mạ trưởng",
+            "pinyin": "pēi bù ma zhǎng",
+            "word": "胚布吗长",
+            "id": 168179,
+            "phonetic": "peibumazhang",
+            "rank": 145654,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˊㄕㄨˋㄌㄜ˙ㄇㄚ˙",
+            "_id": "ac3b8f52582c416cacb41ec4a5098f07",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Hoàn thành chưa; đã xong chưa; kết thúc chưa",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Chương trình hôm nay kết thúc chưa?",
+                                    "p_vn": "Chuong trinh hom nay ket thuc chua?",
+                                    "_id": "e374bc144b6f44a6ace90b8e3259cbd9",
+                                    "id": 68240,
+                                    "type": "e_cnvi",
+                                    "e": "今天节目结束了吗?",
+                                    "p_cn": "Jintian jiemu jieshule ma?",
+                                    "p": "Jīntiān jiémù jiéshùle ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 140
+            },
+            "snym": null,
+            "cn_vi": "kết thú liễu mạ",
+            "pinyin": "jiéshùle ma",
+            "word": "结束了吗",
+            "id": 153351,
+            "phonetic": "jieshulema",
+            "rank": 34781,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d9bf1b0ff56a4905b4bfb5822b77ec41",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ngôn ngữ mạng; dùng để trả lời khi bị hỏi những câu hỏi bất lịch sự mà đáng ra không nên hỏi. Tương đương với \"Hỏi gì vô duyên vậy?\".",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 82
+            },
+            "snym": null,
+            "cn_vi": "nhĩ lễ mạo mạ",
+            "pinyin": "nǐ lǐmào ma?",
+            "word": "你礼貌吗？",
+            "id": 159008,
+            "phonetic": "nilimaoma?",
+            "rank": 46065,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f6abcda7a7184d0ca84be8d43778445b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "nhỉ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khả bất thị mạ",
+            "pinyin": "kě bùshì ma?",
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "word": "可不是吗?",
+            "id": 176869,
+            "phonetic": "kebushima?",
+            "rank": 94240,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄢˇㄧˋㄌㄜ˙ㄇㄚ˙",
+            "_id": "75d2531a5e0243b6976ae73884fdf93b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Vừa lòng bạn chưa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 154
+            },
+            "snym": null,
+            "cn_vi": "mãn ý liễu mạ",
+            "pinyin": "mǎnyìle ma",
+            "word": "满意了吗",
+            "id": 152565,
+            "phonetic": "manyilema",
+            "rank": 32953,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄜˇㄅㄨˋㄕˋㄇㄚ˙",
+            "_id": "60d7566d29e54b69ac576bd17570309a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chứ còn gì nữa; còn phải nói à",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Còn phải nói à, tôi đã buộc nó vào tường 20 lần.",
+                                    "p_vn": "con phai noi a, toi da buoc no vao tuong 20 lan.",
+                                    "_id": "7b1d98cbdc354c92b18bdb8147053d43",
+                                    "id": 56310,
+                                    "type": "e_cnvi",
+                                    "e": "可不是吗,我在床柱上系了二十次都行",
+                                    "p_cn": "ke bu shi ma, wo zai chuangzhu shang xile ershi ci dou xing",
+                                    "p": "Kě bú shì ma, wǒ zài chuángzhù shàng xìle èrshí cì dōu xíng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 40,
+                "search": 417
+            },
+            "snym": null,
+            "cn_vi": "khả bất thị mạ",
+            "pinyin": "kě bùshì ma",
+            "word": "可不是吗",
+            "id": 85666,
+            "phonetic": "kebushima",
+            "rank": 17910,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄟˊㄨㄛˇㄏㄠˇㄇㄚ˙",
+            "_id": "d062d61a3c2a173a0ad18ae60b49f69c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Bên anh được không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 48
+            },
+            "snym": null,
+            "cn_vi": "bồi ngã hảo mạ",
+            "pinyin": "péi wǒ hǎo ma?",
+            "word": "陪我好吗？",
+            "id": 80954,
+            "phonetic": "peiwohaoma?",
+            "rank": 58746,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓˊㄒㄧㄥˊㄑㄩㄝˋㄖㄣˋㄇㄚ˙",
+            "_id": "1b3c1ecaea72490380e5c5ecc9dbb06a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Xác nhận tiến hành thao tác?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "chấp hành xác nhận mạ",
+            "pinyin": "Zhíxíng, quèrèn ma?",
+            "word": "执行，确认吗？",
+            "id": 155476,
+            "phonetic": "Zhixing,querenma?",
+            "rank": 134196,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄒㄧㄤˇㄊㄧㄠˋㄨˇㄇㄚ˙",
+            "_id": "db70c2c23d9b101ddcfa525f01f33c0f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Em muốn khiêu vũ không?",
+                            "explain": "《你想跳舞吗?》是香港乐队草蜢的音乐作品，收录在《限时专送》专辑中。宝丽金唱片于1990年在中国香港发行。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "nhĩ tưởng khiêu vũ mạ",
+            "pinyin": "nǐ xiǎng tiàowǔ ma?",
+            "word": "你想跳舞吗？",
+            "id": 80953,
+            "phonetic": "nixiangtiaowuma?",
+            "rank": 108883,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄣˊㄐㄧㄚㄌㄧˇㄖㄣˊㄉㄡㄏㄠˇㄇㄚ˙",
+            "_id": "8bb34221b35ef79f9adf6af95a5e7153",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Gia đình ông mạnh khỏe cả chứ?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 66
+            },
+            "snym": null,
+            "cn_vi": "nâm gia lí nhân đô hảo mạ",
+            "pinyin": "nín jiālǐ rén dōu hǎo ma?",
+            "word": "您家里人都好吗?",
+            "id": 78376,
+            "phonetic": "ninjialirendouhaoma?",
+            "rank": 50908,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄋㄞˇㄋㄞˇㄕㄣㄊㄧˇㄏㄠˇㄇㄚ˙",
+            "_id": "1cb5f0070caa93f69f07ed5e3ff81dd0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Bà nội anh khỏe không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "nhĩ nãi nãi thân thể hảo mạ",
+            "pinyin": "nǐ nǎinai shēntǐ hǎo ma?",
+            "word": "你奶奶身体好吗?",
+            "id": 78366,
+            "phonetic": "ninainaishentihaoma?",
+            "rank": 62419,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄜˋㄐㄧˇㄊㄧㄢㄋㄧㄣˊㄧㄡˇㄎㄨㄥㄇㄚ˙",
+            "_id": "7179f87d3f87196d19835029f4abc1b8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Mấy hôm nay ông (bà) có rảnh không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 48
+            },
+            "snym": null,
+            "cn_vi": "nghiện kỉ thiên nâm hữu không mạ",
+            "pinyin": "zhè jǐ tiān nín yǒu kòng ma?",
+            "word": "这几天您有空吗?",
+            "id": 78378,
+            "phonetic": "zhejitianninyoukongma?",
+            "rank": 58901,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄈㄨˋㄑㄧㄣㄎㄢˋㄓㄨㄥㄨㄣˊㄕㄨㄇㄚ˙",
+            "_id": "2a2e88f211e0bf3f2faf79f1b8de2d14",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bố của bạn xem sách tiếng trung phải không",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "nhĩ phụ thân khán trung văn thư mạ",
+            "pinyin": "nǐ fùqīn kàn zhòng wén shū ma?",
+            "word": "你父亲看中文书吗？",
+            "id": 83791,
+            "phonetic": "nifuqinkanzhongwenshuma?",
+            "rank": 152356,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄕˋㄑㄧㄥㄌㄧㄡˇㄉㄜ˙ㄋㄩˇㄦ˙ㄇㄚ˙",
+            "_id": "5432f615b8a02c4e533d3bba45c6b161",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Con là con gái của Thanh Liễu phải không",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "nhĩ thị thanh liễu đích nữ nhi mạ",
+            "pinyin": "nǐ shì qīngliǔ de nǚ'ér ma",
+            "word": "你是青柳的女儿吗",
+            "id": 78335,
+            "phonetic": "nishiqingliudenu'erma",
+            "rank": 111271,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄛˇㄇㄣ˙ㄓㄥˋㄗㄞˋㄊㄢˊㄌㄨㄣˋㄉㄨㄥㄐㄧˋㄉㄨˋㄐㄧㄚˇㄨㄛˇㄎㄜˇㄧˇㄑㄩˋㄨㄢˊㄇㄚ˙",
+            "_id": "f725386ce8b89417bdb99273785ff7c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "chúng tôi đang nói về kì nghỉ đông; có đi chơi không?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "ngã môn chính tại đàm luận đông quý độ giả ngã khả dĩ khứ ngoạn mạ",
+            "pinyin": "wǒmen zhèngzài tánlùn dōngjì dùjià, wǒ kěyǐ qù wán ma?",
+            "word": "我们正在谈论冬季度假，我可以去玩吗？",
+            "id": 83778,
+            "phonetic": "womenzhengzaitanlundongjidujia,wokeyiquwanma?",
+            "rank": 80007,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "吗"
+}

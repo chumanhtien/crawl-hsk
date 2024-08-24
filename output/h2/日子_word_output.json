@@ -1,0 +1,2572 @@
+{
+    "total": 3650,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "topic": "31, 44",
+            "zhuyin": "ㄖˋㄗ˙",
+            "_id": "60cbabf861fa32b3a39043e90969dff6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "\"日子\" vai trò trung tâm ngữ",
+                            "examples": [
+                                128156,
+                                128157,
+                                128158
+                            ],
+                            "struct": "Định ngữ + 的 + 日子"
+                        },
+                        {
+                            "explain": "cuộc sống/ ngày tháng như thế nào",
+                            "examples": [
+                                128164,
+                                128165
+                            ],
+                            "struct": "日子 + Phó từ + Tính từ"
+                        },
+                        {
+                            "explain": "ngày tháng/ thời gian/ cuộc sống trải qua/ trôi qua như thế nào",
+                            "examples": [
+                                128161,
+                                128162,
+                                128163
+                            ],
+                            "struct": "日子 + 过得 + Phó từ + Tính từ"
+                        },
+                        {
+                            "explain": "hành động liên quan đến 日子",
+                            "examples": [
+                                128168,
+                                128169
+                            ],
+                            "struct": "Động từ + 日子"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày; thời kì",
+                            "explain": "日期",
+                            "examples": [
+                                {
+                                    "m": "Mong mãi mới có ngày hôm nay.",
+                                    "p_vn": "mong mai moi co ngay hom nay.",
+                                    "_id": "525df84761be2de550069f074038feb1",
+                                    "id": 33851,
+                                    "type": "e_cnvi",
+                                    "e": "这个日子好容易盼到了。",
+                                    "p_cn": "zhege rizi haorongyi pandao le.",
+                                    "p": "zhègè rìzi hǎoróngyì pàndào le."
+                                },
+                                {
+                                    "m": "Thời kỳ khó khăn đang đến.",
+                                    "p_vn": "thoi ky kho khan dang den.",
+                                    "_id": "329486f68b2b4177e0301e5c726135d8",
+                                    "id": 85718,
+                                    "type": "e_cnvi",
+                                    "e": "苦尽甘来的日子就要到了。",
+                                    "p_cn": "kujinganlai de rizi jiu yao daole.",
+                                    "p": "kǔjìngānlái de rìzi jiù yào dàole."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thời gian",
+                            "explain": "时间 (指天数)",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã đi được một thời gian rồi.",
+                                    "p_vn": "anh ay da di duoc mot thoi gian roi.",
+                                    "_id": "b7c99c88b5de274add9497d6f5ae59e9",
+                                    "id": 33852,
+                                    "type": "e_cnvi",
+                                    "e": "他走了有些日子了。",
+                                    "p_cn": "ta zou le youxie rizi le.",
+                                    "p": "tā zǒu le yǒuxiē rìzi le."
+                                },
+                                {
+                                    "m": "Anh ấy xuất ngoại được một thời gian rồi.",
+                                    "p_vn": "anh ay xuat ngoai duoc mot thoi gian roi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571662d72",
+                                    "id": 128140,
+                                    "type": "e_cnvi",
+                                    "e": "他出国有一些日子了。",
+                                    "p_cn": "ta chuguo you yixie rizile.",
+                                    "p": "tā chūguó yǒu yīxiē rìzile."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cuộc sống; sinh kế; ngày tháng",
+                            "explain": "指生活或生计",
+                            "examples": [
+                                {
+                                    "m": "Cuộc sống ngày càng tốt đẹp.",
+                                    "p_vn": "cuoc song ngay cang tot dep.",
+                                    "_id": "2411bdbbeda04c4118ae6c036e16bb29",
+                                    "id": 33853,
+                                    "type": "e_cnvi",
+                                    "e": "日子越过越美。",
+                                    "p_cn": "rizi yueguo yuemei.",
+                                    "p": "rìzi yuèguò yuèměi."
+                                },
+                                {
+                                    "m": "Bà nội Vương sống cuộc sống một mình.",
+                                    "p_vn": "ba noi vuong song cuoc song mot minh.",
+                                    "_id": "329486f68b2b4177e0301e5c726108fc",
+                                    "id": 85717,
+                                    "type": "e_cnvi",
+                                    "e": "王奶奶一个人过日子。",
+                                    "p_cn": "wang nainai yige ren guorizi.",
+                                    "p": "wáng nǎinai yīgè rén guòrìzi."
+                                },
+                                {
+                                    "m": "Cuộc sống ngày càng bận rộn hơn.",
+                                    "p_vn": "cuoc song ngay cang ban ron hon.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571661d41",
+                                    "id": 128136,
+                                    "type": "e_cnvi",
+                                    "e": "日子越来越忙碌了。",
+                                    "p_cn": "rizi yue lai yue manglule.",
+                                    "p": "rìzi yuè lái yuè mánglùle."
+                                },
+                                {
+                                    "m": "Cuộc sống trôi qua rất bình yên.",
+                                    "p_vn": "cuoc song troi qua rat binh yen.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57166275d",
+                                    "id": 128137,
+                                    "type": "e_cnvi",
+                                    "e": "日子过得很平静。",
+                                    "p_cn": "riziguo de hen pingjing.",
+                                    "p": "rìziguò dé hěn píngjìng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"日子\" có nghĩa là \"thời gian\", nhưng \"生活\" không có nghĩa như vậy.\n- \"生活\" còn là một động từ và \"日子\" không có cách dùng của động từ.",
+                    "title": "Phân biệt \"日子\" và \"生活\"",
+                    "words": [
+                        "日子",
+                        "生活"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "岁月",
+                    "年华"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "rìzi",
+            "cn_vi": "nhật tử",
+            "popularity": {
+                "notebook": 321,
+                "search": 5271
+            },
+            "word": "日子",
+            "id": 44452,
+            "phonetic": "rizi",
+            "rank": 2257,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "14a2b36731d944f2a5608d4754f168a2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "coi ngày",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khán nhật tử",
+            "pinyin": "kàn rìzi",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "看日子",
+            "id": 172659,
+            "phonetic": "kanrizi",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "ge",
+                "examples": "今天是个好日子。",
+                "measure": "个"
+            },
+            "zhuyin": "ㄏㄠˇㄖˋㄗ˙",
+            "_id": "7fed1c13dbc776193bd0bf42d2d022b8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày lành; ngày tốt lành; ngày lành tháng tốt",
+                            "explain": "吉利的日子",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngày cưới; ngày vui; ngày kết hôn",
+                            "explain": "办喜事的日子",
+                            "examples": [
+                                {
+                                    "m": "các bạn đã định ngày nào cưới?",
+                                    "p_vn": "cac ban da dinh ngay nao cuoi",
+                                    "_id": "feb6c515855f0c66b56aaade88b71bd9",
+                                    "id": 16413,
+                                    "type": "e_cnvi",
+                                    "e": "你们的好日子定在哪一天?",
+                                    "p_cn": "nimen de hao rizi ding zai na yitian",
+                                    "p": "nǐmen de hǎo rìzi dìng zài nǎ yītiān?"
+                                },
+                                {
+                                    "m": "anh chị ấy đã định ngày cưới.",
+                                    "p_vn": "anh chi ay da dinh ngay cuoi",
+                                    "_id": "a971601da646fce657fc3c3eb6b8ea53",
+                                    "id": 16414,
+                                    "type": "e_cnvi",
+                                    "e": "他俩订了好日子。",
+                                    "p_cn": "ta lia dingle hao rizi",
+                                    "p": "tāliǎ dìng le hǎorìzǐ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cuộc sống tốt đẹp; cuộc sống sung sướng; cuộc sống hạnh phúc",
+                            "explain": "美好的生活",
+                            "examples": [
+                                {
+                                    "m": "mấy năm nay anh ấy mới sống cuộc sống sung sướng.",
+                                    "p_vn": "may nam nay anh ay moi song cuoc song sung suong",
+                                    "_id": "995e76282df48663fe18454033c8b642",
+                                    "id": 16415,
+                                    "type": "e_cnvi",
+                                    "e": "这几年他才过上好日子。",
+                                    "p_cn": "zhe ji nian ta caiguo shang hao rizi",
+                                    "p": "zhè jīnián tā cái guò shàng hǎorìzǐ。"
+                                },
+                                {
+                                    "m": "sau giải phóng chúng ta được sống cuộc sống tốt đẹp.",
+                                    "p_vn": "sau giai phong chung ta duoc song cuoc song tot dep",
+                                    "_id": "01bee776b181f2a959e528aa4f011af2",
+                                    "id": 16416,
+                                    "type": "e_cnvi",
+                                    "e": "解放后，我们过上了好日子。",
+                                    "p_cn": "jiefang hou womenguo shangle hao rizi",
+                                    "p": "jiěfànghòu，wǒmen guòshàng le hǎorìzǐ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 25,
+                "search": 142
+            },
+            "snym": {
+                "anto": [
+                    "苦日子"
+                ]
+            },
+            "cn_vi": "hảo nhật tử",
+            "pinyin": "hǎo rìzi",
+            "word": "好日子",
+            "id": 22737,
+            "phonetic": "haorizi",
+            "rank": 34508,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "2, 30, 35, 77",
+            "zhuyin": "ㄍㄨㄛˋㄖˋㄗ˙",
+            "_id": "94f696511374c3d6f26c2b31d7450f9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sống; sinh hoạt",
+                            "explain": "生活;过活",
+                            "examples": [
+                                {
+                                    "m": "hai vợ chồng trẻ sống rất hoà thuận.",
+                                    "p_vn": "hai vo chong tre song rat hoa thuan",
+                                    "_id": "0892f254968d46422b75213de1cbb5fd",
+                                    "id": 15832,
+                                    "type": "e_cnvi",
+                                    "e": "小两口儿和和气气地过日子。",
+                                    "p_cn": "xiao liangkou er he heqi qi de guorizi",
+                                    "p": "xiǎo liǎngkǒu er hé héqì qì de guòrìzi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 39,
+                "search": 589
+            },
+            "snym": null,
+            "cn_vi": "quá nhật tử",
+            "pinyin": "guòrìzi",
+            "word": "过日子",
+            "id": 22027,
+            "phonetic": "guorizi",
+            "rank": 14245,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠˇㄖˋㄗ˙",
+            "_id": "3e6aafa7e0a4b0b5d63106a6e9f57d9f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cuộc sống gia đình tạm ổn; cuộc sống tạm bợ",
+                            "explain": "指人口不多、经济上还过得去的家庭生活 (多用于年轻夫妇)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 158
+            },
+            "snym": null,
+            "cn_vi": "tiểu nhật tử",
+            "pinyin": "xiǎo rìzi",
+            "word": "小日子",
+            "id": 55849,
+            "phonetic": "xiaorizi",
+            "rank": 32438,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˇㄖˋㄗ˙",
+            "_id": "014eeb51bac5c24361a3e46afcaa532e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "mấy hôm; đã mấy hôm; lâu ngày",
+                            "explain": "指有好些天",
+                            "examples": [
+                                {
+                                    "m": "đã mấy hôm rồi chúng ta không gặp nhau!",
+                                    "p_vn": "da may hom roi chung ta khong gap nhau",
+                                    "_id": "4f2293c0ebd0ecf0e451536cb1e8f9e2",
+                                    "id": 46789,
+                                    "type": "e_cnvi",
+                                    "e": "咱们有日子没见面了!",
+                                    "p_cn": "zanmen you rizi mei jianmianle",
+                                    "p": "zánmen yǒu rìzi méi jiànmiànle!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngày giờ xác định",
+                            "explain": "有确定的日期",
+                            "examples": [
+                                {
+                                    "m": "việc kết hôn của các bạn đã xác định ngày giờ chưa?",
+                                    "p_vn": "viec ket hon cua cac ban da xac dinh ngay gio chua",
+                                    "_id": "e0de655920e013351383e3313885717e",
+                                    "id": 46790,
+                                    "type": "e_cnvi",
+                                    "e": "你们结婚有日子了没有?",
+                                    "p_cn": "nimen jiehun you rizile meiyou",
+                                    "p": "nǐmen jiéhūn yǒu rìzile méiyǒu?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "hữu nhật tử",
+            "pinyin": "yǒu rìzi",
+            "word": "有日子",
+            "id": 61273,
+            "phonetic": "yourizi",
+            "rank": 100966,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄨˇㄖˋㄗ˙",
+            "_id": "59ebe6e0987343c3b793a6bc4798cbba",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời gian khó khăn",
+                            "explain": "hard times",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 19
+            },
+            "snym": {
+                "anto": [
+                    "好日子"
+                ]
+            },
+            "cn_vi": "khổ nhật tử",
+            "pinyin": "kǔ rìzi",
+            "word": "苦日子",
+            "id": 111484,
+            "phonetic": "kurizi",
+            "rank": 83825,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄣˋㄖˋㄗ˙",
+            "_id": "dd6802baab3f4109ecdec87b9d5ac3ab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "không lý tưởng; không như ý; lần hồi; sống lay lắt; sống qua ngày",
+                            "explain": "无理想，无抱负，糊里糊涂地生活",
+                            "examples": [
+                                {
+                                    "m": "Anh ta cứ sống lay lắt qua ngày, chả có hoài bão gì cả.",
+                                    "p_vn": "anh ta cú sóng lay lát qua ngày, chả có hoài bão gì cả.",
+                                    "_id": "329486f68b2b4177e0301e5c72719841",
+                                    "id": 85826,
+                                    "type": "e_cnvi",
+                                    "e": "他天天混日子，没什么大志向。",
+                                    "p_cn": "ta tiantian hun rizi, meishenme da zhixiang.",
+                                    "p": "tā tiāntiān hùn rìzi, méishénme dà zhìxiàng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 33,
+                "search": 459
+            },
+            "snym": null,
+            "cn_vi": "hỗn nhật tử",
+            "pinyin": "hùn rìzi",
+            "word": "混日子",
+            "id": 25917,
+            "phonetic": "hunrizi",
+            "rank": 16855,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄜˊㄖˋㄗ˙",
+            "_id": "b05e7a8d14f845c8b5f584814c640071",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chọn một ngày tốt lành",
+                            "explain": "to pick an auspicious day",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "trạch nhật tử",
+            "pinyin": "zé rìzi",
+            "word": "择日子",
+            "id": 114866,
+            "phonetic": "zerizi",
+            "rank": 141543,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖˋㄖˋ",
+            "_id": "80b8fefc1eaf4a17b68459bce41e1169",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Hằng ngày",
+                            "explain": "every day",
+                            "examples": [
+                                {
+                                    "m": "Cha mẹ của anh ấy rất có thể đã giữ cho anh ấy một lịch trình hàng ngày nghiêm ngặt.",
+                                    "p_vn": "Cha me cua anh ay rat co the da giu cho anh ay mot lich trinh hang ngay nghiem ngat.",
+                                    "_id": "3aecfc9b9f094aa2acfe43792fd19c32",
+                                    "id": 64064,
+                                    "type": "e_cnvi",
+                                    "e": "他父母很可能给他严格执行每日日程",
+                                    "p_cn": "ta fumu hen keneng gei ta yangezhixing meiri richeng",
+                                    "p": "tā fùmǔ hěn kěnéng gěi tā yángézhíxíng měirì rìchéng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngày ngày",
+                            "explain": "每天",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 88
+            },
+            "snym": null,
+            "cn_vi": "nhật nhật",
+            "pinyin": "rì rì",
+            "word": "日日",
+            "id": 88722,
+            "phonetic": "riri",
+            "rank": 44279,
+            "kind": [
+                "adv",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "84b361257da74e42ae625c5ad33adf42",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lần hồi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đả phát nhật tử",
+            "pinyin": "dǎfā rìzi",
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "word": "打发日子",
+            "id": 174751,
+            "phonetic": "dafarizi",
+            "rank": 127536,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4f0a947703894002a4f79c30779ec336",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hạt quỳ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hướng nhật quỳ tử",
+            "pinyin": "xiàngrìkuí zi",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "向日葵子",
+            "id": 182741,
+            "phonetic": "xiangrikuizi",
+            "rank": 125677,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9a41921b102e4bf6a8a1d61ef845419c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày nọ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tiền ta nhật tử",
+            "pinyin": "qián xiē rìzi",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "前些日子",
+            "id": 173679,
+            "phonetic": "qianxierizi",
+            "rank": 124802,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖˋㄉㄧㄢˋㄉㄧㄢˋㄗ˙",
+            "_id": "991af4c5bfd94896b79dc70722a3d748",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "NEC (Công ty điện tử Nippon)",
+                            "explain": "NEC (Nippon Electronic Company)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "nhật điện điện tử",
+            "pinyin": "rì diàn diànzǐ",
+            "word": "日电电子",
+            "id": 134768,
+            "phonetic": "ridiandianzi",
+            "rank": 122743,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖˋㄅㄣˇㄍㄨㄟˇㄗ˙",
+            "_id": "ae77ba87fc64425aae65f23fdb3108da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ma quỷ Nhật Bản (thuật ngữ lạm dụng phổ biến ở Trung Quốc thời chiến và trong các văn bản tiếp theo)",
+                            "explain": "Japanese devil (common term of abuse in wartime China and in subsequent writing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "nhật bổn quỷ tử",
+            "pinyin": "rìběn guǐzi",
+            "word": "日本鬼子",
+            "id": 130360,
+            "phonetic": "ribenguizi",
+            "rank": 76731,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖˋㄧㄠˋㄖˋ",
+            "_id": "c6e713505fbc43a19446b37907bf7d9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "time",
+                    "means": [
+                        {
+                            "mean": "Chủ nhật (được sử dụng trong thiên văn học Trung Quốc cổ đại)",
+                            "explain": "Sunday (used in ancient Chinese astronomy)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": {
+                "syno": [
+                    "星期日"
+                ]
+            },
+            "cn_vi": "nhật diệu nhật",
+            "pinyin": "rì yào rì",
+            "word": "日曜日",
+            "id": 112542,
+            "phonetic": "riyaori",
+            "rank": 99956,
+            "kind": [
+                "time"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "measure"
+            ],
+            "measure": null,
+            "topic": "31, 44",
+            "zhuyin": "ㄖˋ",
+            "_id": "ce8eb9c388924919e31c0be95f75fc19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mặt trời; thái dương",
+                            "explain": "太阳",
+                            "examples": [
+                                {
+                                    "m": "Mặt trời mọc và chiếu sáng toàn bộ trái đất.",
+                                    "p_vn": "mat troi moc va chieu sang toan bo trai dat.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3f00ed7",
+                                    "id": 91814,
+                                    "type": "e_cnvi",
+                                    "e": "日头升起来了，照亮了整个大地。",
+                                    "p_cn": "ri tou sheng qi lai le, zhao liang le zheng ge da di.",
+                                    "p": "rì tóu shēng qǐ lái le, zhào liàng le zhěng gè dà dì."
+                                },
+                                {
+                                    "m": "Buổi sáng, mặt trời từ phía đông từ từ ló rạng.",
+                                    "p_vn": "buoi sang, mat troi tù phia dong tù tù ló rạng.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3f0241f",
+                                    "id": 91817,
+                                    "type": "e_cnvi",
+                                    "e": "早上，日从东方缓缓升起。",
+                                    "p_cn": "zao shang, ri cong dong fang huan huan sheng qi.",
+                                    "p": "zǎo shàng, rì cóng dōng fāng huǎn huǎn shēng qǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Nhật Bản; Nhật",
+                            "explain": "指日本",
+                            "examples": [
+                                {
+                                    "m": "Nhật Bản có nhiều cảnh đẹp.",
+                                    "p_vn": "nhat ban co nhieu canh dep.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3f03451",
+                                    "id": 91820,
+                                    "type": "e_cnvi",
+                                    "e": "日本有许多美丽的景点。",
+                                    "p_cn": "riben you xuduo meili de jingdian.",
+                                    "p": "rìběn yǒu xǔduō měilì de jǐngdiǎn."
+                                },
+                                {
+                                    "m": "Anh ấy rất quan tâm đến văn hóa Nhật Bản.",
+                                    "p_vn": "anh ay rat quan tam den van hoa nhat ban.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3f06e4b",
+                                    "id": 91825,
+                                    "type": "e_cnvi",
+                                    "e": "他对日本的文化很感兴趣。",
+                                    "p_cn": "ta dui ri ben de wen hua hen gan xing qu.",
+                                    "p": "tā duì rì běn de wén huà hěn gǎn xìng qù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngày, ban ngày",
+                            "explain": "白天，从天亮到天黑的一段时间",
+                            "examples": [
+                                {
+                                    "m": "Tuần này tôi làm ca ngày,   buổi tối ở nhà.",
+                                    "p_vn": "tuan nay toi lam ca ngay,   buoi toi o nha.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3cd01e5",
+                                    "id": 91318,
+                                    "type": "e_cnvi",
+                                    "e": "我这个星期上日班，晚上在家。",
+                                    "p_cn": "wo zhe ge xing qi shang ri ban, wan shang zai jia.",
+                                    "p": "wǒ zhè gè xīng qī shàng rì bān, wǎn shàng zài jiā."
+                                },
+                                {
+                                    "m": "Chúng tôi đi xem phim buổi sáng.",
+                                    "p_vn": "chúng toi di xem phim buỏi sáng.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9149fb4",
+                                    "id": 92600,
+                                    "type": "e_cnvi",
+                                    "e": "我们去看了日场电影。",
+                                    "p_cn": "women qu kanle ri chang dianying.",
+                                    "p": "wǒmen qù kànle rì chǎng diànyǐng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "một ngày, ngày",
+                            "explain": "一天24个小时的这段时间",
+                            "examples": [
+                                {
+                                    "m": "Đây là ngày 30 tháng 4.",
+                                    "p_vn": "day la ngay 30 thang 4.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3cd335d",
+                                    "id": 91323,
+                                    "type": "e_cnvi",
+                                    "e": "这是四月三十日。",
+                                    "p_cn": "zhe shi si yue sanshi ri.",
+                                    "p": "zhè shì sì yuè sānshí rì."
+                                },
+                                {
+                                    "m": "Anh cảm thấy thời gian trôi qua quá chậm, dường như đã một năm rồi.",
+                                    "p_vn": "anh cam thay thoi gian troi qua qua cham, duong nhu da mot nam roi.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3cd41a9",
+                                    "id": 91325,
+                                    "type": "e_cnvi",
+                                    "e": "他觉得时间过得太慢了，简直是度日如年。",
+                                    "p_cn": "ta juede shijian guo de tai man le, jianzhi shi duri runian.",
+                                    "p": "Tā juéde shíjiān guò de tài màn le, jiǎnzhí shì dùrì rúnián."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mỗi ngày; ngày lại ngày",
+                            "explain": "每天;一天天",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy kiên trì tập thể dục ngày này qua ngày khác.",
+                                    "p_vn": "anh ay kien trì tap the duc ngay nay qua ngay khac.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3ef4b93",
+                                    "id": 91787,
+                                    "type": "e_cnvi",
+                                    "e": "他日复一日地坚持锻炼。",
+                                    "p_cn": "ta ri fu yi ri de jianchi duanlian.",
+                                    "p": "tā rì fù yī rì de jiānchí duànliàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngày (chỉ một ngày đặc biệt)",
+                            "explain": "特指某一天",
+                            "examples": [
+                                {
+                                    "m": "Ngày sinh nhật của bố tôi rất vui.",
+                                    "p_vn": "ngày sinh nhạt của bó toi rát vui.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9146fe6",
+                                    "id": 92594,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸生日那天很高兴。",
+                                    "p_cn": "baba shengri neitian hen gaoxing.",
+                                    "p": "bàba shēngrì nèitiān hěn gāoxìng."
+                                },
+                                {
+                                    "m": "Sinh nhật của anh ấy vào tháng sáu.",
+                                    "p_vn": "sinh nhạt của anh áy vào tháng sáu.",
+                                    "_id": "f2efc94449b26b3e2967bccbc914790d",
+                                    "id": 92595,
+                                    "type": "e_cnvi",
+                                    "e": "他的生日在六月。",
+                                    "p_cn": "ta de shengri zai liu yue.",
+                                    "p": "tā de shēngrì zài liù yuè."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "dùng để tính ngày",
+                            "explain": "用于计算天数",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã không về nhà ba ngày rồi.",
+                                    "p_vn": "anh ay da khong ve nha ba ngay roi.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab1c1db0",
+                                    "id": 88974,
+                                    "type": "e_cnvi",
+                                    "e": "他三日子没回家。",
+                                    "p_cn": "ta san rizi mei hui jia.",
+                                    "p": "tā sān rìzi méi huí jiā."
+                                },
+                                {
+                                    "m": "Chúng tôi đồng ý gặp nhau trong mười ngày nữa.",
+                                    "p_vn": "chung toi dong y gap nhau trong muoi ngay nua.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3f0d51c",
+                                    "id": 91844,
+                                    "type": "e_cnvi",
+                                    "e": "我们约定十日之后见面。",
+                                    "p_cn": "women yueding shi ri zhihou jianmian.",
+                                    "p": "wǒmen yuēdìng shí rì zhīhòu jiànmiàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Chỉ khi ngày được biểu thị bằng \"号\" và \"日\" thì chúng mới có thể thay thế cho nhau và các cách sử dụng khác không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"号\" và \"日\"",
+                    "words": [
+                        "号",
+                        "日"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "夜",
+                    "月"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "rì",
+            "cn_vi": "nhật.nhựt",
+            "popularity": {
+                "notebook": 735,
+                "search": 14724
+            },
+            "word": "日",
+            "id": 44396,
+            "phonetic": "ri",
+            "rank": 517,
+            "lv_hsk": 1,
+            "lv_tocfl": 1,
+            "compound": "日班 ; 日斑 ; 日报 ; 日本国 ; 日薄西山 ; 日不暇给 ; 日常 ; 日场 ; 日程 ; 日戳 ; 日珥 ; 日工 ; 日光 ; 日光灯 ; 日光浴 ; 日晷 ; 日后 ; 日环食 ; 日积月累 ; 日记 ; 日记帐 ; 日间 ; 日见 ; 日渐 ; 日久天长 ; 日就月将 ; 日来 ; 日历 ; 日冕 ; 日暮途穷 ; 日内 ; 日期 ; 日前 ; 日趋 ; 日上三竿 ; 日射病 ; 日射角 ; 日食 ; 日头 ; 日夕 ; 日新月异 ; 日夜 ; 日以继夜 ; 日益 ; 日用 ; 日用品 ; 日圆 ; 日月 ; 日月如梭 ; 日晕 ; 日照 ; 日志 ; 日中 ; 日子"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖˋㄈㄨˋㄧㄖˋ",
+            "_id": "d52158decc0942ea9ee7c90e13a14b83",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idoms",
+                    "means": [
+                        {
+                            "mean": "ngày này qua ngày khác",
+                            "explain": "day after day",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 111,
+                "search": 536
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "rì fù yī rì",
+            "cn_vi": "nhật phục nhất nhật",
+            "word": "日复一日",
+            "id": 128518,
+            "phonetic": "rifuyiri",
+            "rank": 15205,
+            "kind": [
+                "idoms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "topic": "73, 68",
+            "zhuyin": "ㄖˋㄧˋ",
+            "_id": "285d46bd2c003b64bac7d697c0bfddbd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                80855,
+                                123493,
+                                123494
+                            ],
+                            "struct": "日益 + Tính từ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                123490,
+                                123491,
+                                123492
+                            ],
+                            "struct": "日益 + Động từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "ngày càng; càng ngày càng; mỗi ngày một",
+                            "explain": "一天比一天",
+                            "examples": [
+                                {
+                                    "m": "Cuộc sống ngày càng được cải thiện.",
+                                    "p_vn": "cuoc song ngay cang duoc cai thien.",
+                                    "_id": "7cd996d4316469ed556c2402212fea34",
+                                    "id": 33843,
+                                    "type": "e_cnvi",
+                                    "e": "生活日益改善。",
+                                    "p_cn": "shenghuo riyi gaishan.",
+                                    "p": "shēnghuó rìyì gǎishàn."
+                                },
+                                {
+                                    "m": "Kỹ năng của anh ấy đang ngày càng được cải thiện.",
+                                    "p_vn": "ky nang cua anh ay dang ngay cang duoc cai thien.",
+                                    "_id": "5f1adf3e4794a18d885701d1a38a95c5",
+                                    "id": 80851,
+                                    "type": "e_cnvi",
+                                    "e": "他的技能日益提高。",
+                                    "p_cn": "ta de jineng riyi tigao.",
+                                    "p": "tā de jìnéng rìyì tígāo."
+                                },
+                                {
+                                    "m": "Dân số của thành phố càng ngày càng tăng.",
+                                    "p_vn": "dan so cua thanh pho cang ngay cang tang.",
+                                    "_id": "5f1adf3e4794a18d885701d1a38aa551",
+                                    "id": 80852,
+                                    "type": "e_cnvi",
+                                    "e": "城市的人口日益增加。",
+                                    "p_cn": "chengshi de renkou riyi zengjia.",
+                                    "p": "chéngshì de rénkǒu rìyì zēngjiā."
+                                },
+                                {
+                                    "m": "Bệnh tình của bà ngày càng tốt lên.",
+                                    "p_vn": "benh tinh cua ba ngay cang tot len.",
+                                    "_id": "9938873f438f99a1b005f10050affe73",
+                                    "id": 140875,
+                                    "type": "e_cnvi",
+                                    "e": "奶奶的病情日益好转。",
+                                    "p_cn": "nainai de bingqing riyi haozhuan.",
+                                    "p": "nǎinai de bìngqíng rìyì hǎozhuǎn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 274,
+                "search": 3106
+            },
+            "snym": {
+                "anto": [
+                    "突然,骤然"
+                ],
+                "syno": [
+                    "日渐",
+                    "逐渐",
+                    "逐步",
+                    "渐渐",
+                    "日趋"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "rìyì",
+            "cn_vi": "nhật ích",
+            "word": "日益",
+            "id": 44442,
+            "phonetic": "riyi",
+            "rank": 3824,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "eeec5ee2349c42c9868d917b8b598d22",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tiền lời mỗi ngày; lãi hàng ngày",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "nhật lợi",
+            "pinyin": "rì lì",
+            "word": "日利",
+            "id": 168853,
+            "phonetic": "rili",
+            "rank": 154517,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖˋㄅㄣˇ",
+            "topic": "21",
+            "_id": "56981fdba9da9520bcda2bb5f7710489",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n, nlocal",
+                    "means": [
+                        {
+                            "mean": "Nhật Bản; Nhật",
+                            "explain": "国名，亚洲东部的岛国。",
+                            "examples": [
+                                {
+                                    "m": "Bạn là người Nhật phải không?",
+                                    "p_vn": "ban la nguoi nhat phai khong?",
+                                    "_id": "06e19200dcc848d0921f7cd55f4a7178",
+                                    "id": 55769,
+                                    "type": "e_cnvi",
+                                    "e": "你是日本人吗？",
+                                    "p_cn": "ni shi riben ren ma?",
+                                    "p": "Nǐ shì rìběn rén ma?"
+                                },
+                                {
+                                    "m": "Nhật Bản có hoa anh đào.",
+                                    "p_vn": "nhat ban co hoa anh dao.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3fbdeae",
+                                    "id": 109018,
+                                    "type": "e_cnvi",
+                                    "e": "日本有樱花。",
+                                    "p_cn": "riben you yinghua.",
+                                    "p": "rìběn yǒu yīnghuā."
+                                },
+                                {
+                                    "m": "Tôi muốn đi Nhật Bản.",
+                                    "p_vn": "toi muon di nhat ban.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3fbe6cf",
+                                    "id": 109019,
+                                    "type": "e_cnvi",
+                                    "e": "我想去日本。",
+                                    "p_cn": "wo xiang qu riben.",
+                                    "p": "wǒ xiǎng qù rìběn."
+                                },
+                                {
+                                    "m": "Nhật Bản ở châu Á.",
+                                    "p_vn": "nhat ban o chau a.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3fbe80a",
+                                    "id": 109020,
+                                    "type": "e_cnvi",
+                                    "e": "日本在亚洲。",
+                                    "p_cn": "riben zai yazhou.",
+                                    "p": "rìběn zài yàzhōu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 512,
+                "search": 5531
+            },
+            "snym": null,
+            "cn_vi": "nhật bổn",
+            "pinyin": "rìběn",
+            "word": "日本",
+            "id": 71328,
+            "phonetic": "riben",
+            "rank": 2135,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, duàn",
+                "examples": "",
+                "measure": "个、段"
+            },
+            "topic": "31, 34, 44, 65",
+            "zhuyin": "ㄖˋㄑㄧ",
+            "_id": "1d5c6cf19619c3513bd50beef007691a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "ngày gì",
+                            "examples": [
+                                119220,
+                                119221,
+                                119222
+                            ],
+                            "struct": "Định ngữ + (的) + 日期"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày; thời kì; ngày tháng",
+                            "explain": "发生某一事情的确定的日子或时期",
+                            "examples": [
+                                {
+                                    "m": "Hãy nhớ ngày quan trọng này.",
+                                    "p_vn": "hay nho ngay quan trong nay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4020f12",
+                                    "id": 119217,
+                                    "type": "e_cnvi",
+                                    "e": "记住这个重要日期。",
+                                    "p_cn": "ji zhu zhege zhongyao riqi.",
+                                    "p": "jì zhù zhège zhòngyào rìqī."
+                                },
+                                {
+                                    "m": "Ngày khai trường sắp đến gần.",
+                                    "p_vn": "ngay khai truong sap den gan.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4020ffe",
+                                    "id": 119218,
+                                    "type": "e_cnvi",
+                                    "e": "开学日期即将到来。",
+                                    "p_cn": "kaixue riqi jijiang daolai.",
+                                    "p": "kāixué rìqī jíjiāng dàolái."
+                                },
+                                {
+                                    "m": "Ngày họp đã tạm thời được thay đổi.",
+                                    "p_vn": "ngay hop da tam thoi duoc thay doi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4021798",
+                                    "id": 119219,
+                                    "type": "e_cnvi",
+                                    "e": "会议日期临时更改。",
+                                    "p_cn": "huiyi riqi linshi genggai.",
+                                    "p": "huìyì rìqī línshí gēnggǎi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 201,
+                "search": 3502
+            },
+            "snym": {
+                "syno": [
+                    "日历"
+                ]
+            },
+            "lv_hsk_new": "1, 5",
+            "pinyin": "rìqī",
+            "cn_vi": "nhật kì",
+            "word": "日期",
+            "id": 44429,
+            "phonetic": "riqi",
+            "rank": 3417,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖˋㄋㄟˋ",
+            "_id": "d78512087a73d0e2def24526ee516f78",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "nay mai; ít hôm nữa; vài bữa sau",
+                            "explain": "最近几天里",
+                            "examples": [
+                                {
+                                    "m": "đại hội sẽ tiến hành trong mấy ngày gần đây.",
+                                    "p_vn": "dai hoi se tien hanh trong may ngay gan day",
+                                    "_id": "88869a048194c4ee1e9ffafb1eadbe1d",
+                                    "id": 33835,
+                                    "type": "e_cnvi",
+                                    "e": "大会将于日内举行。",
+                                    "p_cn": "dahui jiang yu rinei juxing",
+                                    "p": "dàhùi jiāng yú rì nèi jǔxíng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 48
+            },
+            "snym": null,
+            "cn_vi": "nhật nội",
+            "pinyin": "rìnèi",
+            "word": "日内",
+            "id": 44428,
+            "phonetic": "rinei",
+            "rank": 58695,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄖˋㄐㄧㄢ",
+            "_id": "fad11a84a31fcac5160de4acc2e0ce42",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "ban ngày",
+                            "explain": "白天",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 34
+            },
+            "snym": {
+                "syno": [
+                    "白日",
+                    "白天",
+                    "白昼"
+                ]
+            },
+            "cn_vi": "nhật gian",
+            "pinyin": "rì jiān",
+            "word": "日间",
+            "id": 44419,
+            "phonetic": "rijian",
+            "rank": 68199,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨˊㄖˋ",
+            "_id": "bb07815e05fbfa7b4021ecf71c578646",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "từng ngày; hằng ngày; mỗi ngày",
+                            "explain": "一天一天地",
+                            "examples": [
+                                {
+                                    "m": "tỉ lệ phế phẩm mỗi ngày một giảm.",
+                                    "p_vn": "ti le phe pham moi ngay mot giam",
+                                    "_id": "f5b065a954c1bfa1c1264a2b4fcaad73",
+                                    "id": 51231,
+                                    "type": "e_cnvi",
+                                    "e": "废品率逐日下降。",
+                                    "p_cn": "feipin lu zhuri xiajiang",
+                                    "p": "fèipǐn lǜ zhúrì xiàjiàng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 74
+            },
+            "snym": {
+                "syno": [
+                    "每日",
+                    "累日"
+                ]
+            },
+            "cn_vi": "trục nhật",
+            "pinyin": "zhúrì",
+            "word": "逐日",
+            "id": 65576,
+            "phonetic": "zhuri",
+            "rank": 48389,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˇㄖˋ",
+            "_id": "e04c846315e5432d8ec5900df3ed20e9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Một vài ngày; mấy ngày; mấy hôm",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Ra cửa vợ con níu khó rời\nChinh tây ngày lại hỡi chàng ơi",
+                                    "p_vn": "ra cua vo con niu kho roi\nchinh tay ngay lai hoi chang oi",
+                                    "_id": "61c19d3a476e4ffea638b1b4e880abac",
+                                    "id": 55492,
+                                    "type": "e_cnvi",
+                                    "e": "出门妻子强牵衣，问我西行几日归？",
+                                    "p_cn": "chūmen qīzi qiang qiān yī, wen wǒ xīxing jǐ ri guī?",
+                                    "p": "Chūmén qīzi qiáng qiān yī, wèn wǒ xīxíng jǐ rì guī?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 60
+            },
+            "snym": null,
+            "cn_vi": "kỉ nhật",
+            "pinyin": "jǐ rì",
+            "word": "几日",
+            "id": 84793,
+            "phonetic": "jiri",
+            "rank": 53337,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ff51ba7677e64969a6b7bd487f2a54cc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "buổi chợ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hư nhật",
+            "pinyin": "xū rì",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "墟日",
+            "id": 177428,
+            "phonetic": "xuri",
+            "rank": 153977,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "time",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄢˋㄖˋ",
+            "_id": "aa87f731ca47e69ca2466cc6de3f154d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "nửa ngày",
+                            "explain": "一天之半",
+                            "examples": []
+                        },
+                        {
+                            "mean": "khá lâu; cả buổi",
+                            "explain": "相当长的一段时间，颇久",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 79
+            },
+            "snym": {
+                "syno": [
+                    "全天",
+                    "半天",
+                    "半晌"
+                ]
+            },
+            "cn_vi": "bán nhật",
+            "pinyin": "bànrì",
+            "word": "半日",
+            "id": 1530,
+            "phonetic": "banri",
+            "rank": 46684,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄐㄧㄣˋㄖˋ",
+            "_id": "ae43a373b58d05d9ce51770e689c63f1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "mấy ngày qua; gần đây; dạo này; mới đây",
+                            "explain": "最近过去的几天;近来",
+                            "examples": [
+                                {
+                                    "m": "Ông Nguyễn Thành Phong, Chủ tịch Ủy ban Nhân dân Thành phố Hồ Chí Minh, gần đây đã ban hành một tuyên bố về việc tiếp tục thực hiện các biện pháp ngăn cách xã hội trên toàn Thành phố Hồ Chí Minh để kiên trì phòng chống và kiểm soát dịch bệnh.",
+                                    "p_vn": "ong nguyen thanh phong, chu tich uy ban nhan dan thanh pho ho chi minh, gan day da ban hanh mot tuyen bo ve viec tiep tuc thuc hien cac bien phap ngan cach xa hoi tren toan thanh pho ho chi minh de kien tri phong chong va kiem soat dich benh.",
+                                    "_id": "e714a365dbc04aa4949b3fa74ba55c58",
+                                    "id": 63542,
+                                    "type": "e_cnvi",
+                                    "e": "胡志明市人委会主席阮成峰近日签发关于胡志明市全市继续实施社交距离措施以坚持防控疫情。",
+                                    "p_cn": "huzhiming shi ren wěi hui zhǔxi ruǎnchengfēng jinri qiānfā guānyu huzhiming shi quanshi jixu shishī shejiāo juli cuoshī yǐ jiānchi fang kong yiqing.",
+                                    "p": "Húzhìmíng shì rén wěi huì zhǔxí ruǎnchéngfēng jìnrì qiānfā guānyú húzhìmíng shì quánshì jìxù shíshī shèjiāo jùlí cuòshī yǐ jiānchí fáng kòng yìqíng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 48,
+                "search": 489
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jìnrì",
+            "cn_vi": "cận nhật",
+            "word": "近日",
+            "id": 30292,
+            "phonetic": "jinri",
+            "rank": 16172,
+            "kind": [
+                "time",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Jié",
+                "examples": "下一个节假日正好是周日。\nXià yīgè jiéjiàrì zhènghǎo shì zhōu rì.\nNgày lễ tiếp theo sẽ là Chủ nhật.",
+                "measure": "节"
+            },
+            "topic": "16, 19, 71",
+            "zhuyin": "ㄐㄧㄚˇㄖˋ",
+            "_id": "e26bae4e7ece6437920a046c21bf21f7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày nghỉ",
+                            "explain": "放假或休假的日子",
+                            "examples": [
+                                {
+                                    "m": "Ngày mai là ngày nghỉ, bạn có thể ngủ nướng rồi.",
+                                    "p_vn": "Ngay mai la ngay nghi, ban co the ngu nuong roi.",
+                                    "_id": "00c137ddb232448fa88fd159bb423ed6",
+                                    "id": 54834,
+                                    "type": "e_cnvi",
+                                    "e": "明天是假日，你可以睡懒觉了。",
+                                    "p_cn": "Mingtian shi jiari, ni keyi shuilanjiaole.",
+                                    "p": "Míngtiān shì jiàrì, nǐ kěyǐ shuìlǎnjiàole."
+                                },
+                                {
+                                    "m": "Năm 2007, chính phủ Việt Nam quy định ngày lễ Vua là ngày lễ, nhân dân cả nước được nghỉ lễ 1 ngày",
+                                    "p_vn": "Nam 2007, chinh phu Viet Nam quy dinh ngay le Vua la ngay le, nhan dan ca nuoc duoc nghi le 1 ngay",
+                                    "_id": "7915a4d1e2a8466d81e122fc4ef01bc8",
+                                    "id": 55792,
+                                    "type": "e_cnvi",
+                                    "e": "07年越南政府更是把雄王节法定为假日，全国人民休假一天",
+                                    "p_cn": "07 Nian yuenan zhengfu geng shi ba xiong wang jie fading wei jiari, quanguo renmin xiujia yitian",
+                                    "p": "07 Nián yuènán zhèngfǔ gèng shì bǎ xióng wáng jié fǎdìng wèi jiàrì, quánguó rénmín xiūjià yītiān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 86,
+                "search": 1329
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jiàrì",
+            "cn_vi": "giá nhật",
+            "word": "假日",
+            "id": 27806,
+            "phonetic": "jiari",
+            "rank": 7803,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄥˊㄖˋ",
+            "_id": "c9ec0eb3370b4a1f9b68059a8f3ad607",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Gaspard Monge (1746-1818), nhà toán học người Pháp",
+                            "explain": "Gaspard Monge (1746-1818), French mathematician",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "mông nhật",
+            "pinyin": "méng rì",
+            "word": "蒙日",
+            "id": 99602,
+            "phonetic": "mengri",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖˋㄕˊ",
+            "_id": "3ab4b9d398588f0c0ae0386e17e3ed0c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhật thực",
+                            "explain": "月球运行到地球和太阳的中间时，太阳的光被月球挡住，不能射到地球上来，这种现象叫日食太阳全部被月球挡住时叫日全食，部分被挡住时叫日偏食，中央部分被挡住时叫日环食日食都发生在农 历初一",
+                            "examples": [
+                                {
+                                    "m": "Vật lý địa cầu nhật thực.",
+                                    "p_vn": "vat ly dia cau nhat thuc.",
+                                    "_id": "79994c32157caf70a16a40d2022e2c73",
+                                    "id": 33839,
+                                    "type": "e_cnvi",
+                                    "e": "日食地球物理。",
+                                    "p_cn": "rishi diqiuwuli. ",
+                                    "p": "rìshí dìqīuwùlǐ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 200
+            },
+            "snym": null,
+            "cn_vi": "nhật thực",
+            "pinyin": "rì shí",
+            "word": "日食",
+            "id": 44435,
+            "phonetic": "rishi",
+            "rank": 28357,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄢˊㄖˋ",
+            "_id": "462232e78066421eb6b73ea94709120e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hàn Quốc và Nhật Bản",
+                            "explain": "Korea and Japan",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "hàn nhật",
+            "pinyin": "hán rì",
+            "word": "韩日",
+            "id": 94111,
+            "phonetic": "hanri",
+            "rank": 87215,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Méi",
+                "examples": "50日元。\n50 Rì yuán\nĐó là 50 yên.",
+                "measure": "枚"
+            },
+            "zhuyin": "ㄖˋㄩㄢˊ",
+            "_id": "a70638acfaa8d509b24608ae0958b165",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Yên nhật",
+                            "explain": "日元（日语：円，日语罗马音：en，英语：Yen），其纸币称为日本银行券，是日本的法定货币，日元也经常在美元和欧元之后被当作储备货币。",
+                            "examples": [
+                                {
+                                    "m": "Đô la Mỹ có thể đổi sang yên Nhật.",
+                                    "p_vn": "Do la My co the doi sang yen Nhat.",
+                                    "_id": "da3e6c5364984d649235d94c3713a7b7",
+                                    "id": 72356,
+                                    "type": "e_cnvi",
+                                    "e": "可兑换成日元的美金",
+                                    "p_cn": "ke duihuan chengri yuan de Meijin",
+                                    "p": "kě duìhuàn chéngrì yuán de Měijīn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 161,
+                "search": 515
+            },
+            "snym": null,
+            "cn_vi": "nhật nguyên",
+            "pinyin": "rì yuán",
+            "word": "日元",
+            "id": 71320,
+            "phonetic": "riyuan",
+            "rank": 15637,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "07ffb16e3c73494192eb4721f08f0c32",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nắng gắt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "viêm nhật",
+            "pinyin": "yán rì",
+            "popularity": {
+                "notebook": 0,
+                "search": 24
+            },
+            "word": "炎日",
+            "id": 172962,
+            "phonetic": "yanri",
+            "rank": 77690,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄡˋㄖˋ",
+            "_id": "32eca80b503aa1ace79e6236f2083dab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "từ nay trở đi; sau này",
+                            "explain": "日后，今后",
+                            "examples": [
+                                {
+                                    "m": "Bởi vì công việc của cô ấy luôn là trụ cột cuộc sống của cô ấy, nên sau khi nghỉ hưu, cô ấy sống khá khó khăn.",
+                                    "p_vn": "Boi vi cong viec cua co ay luon la tru cot cuoc song cua co ay, nen sau khi nghi huu, co ay song kha kho khan.",
+                                    "_id": "09c08dd2e9924355a196cac3a403bf97",
+                                    "id": 70417,
+                                    "type": "e_cnvi",
+                                    "e": "因为她的工作一向是她生命的支柱，所以退休后日子很不好过.",
+                                    "p_cn": "yinwei ta de gongzuo yixiang shi ta shengming de zhizhu suoyi tuixiu hou rizi hen bu haoguo",
+                                    "p": "yīnwèi tā de gōngzuò yīxiàng shì tā shēngmìng de zhīzhù suǒyǐ tuìxiū hòu rìzi hěn bù hǎoguò"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 64
+            },
+            "snym": null,
+            "cn_vi": "hậu nhật",
+            "pinyin": "hòu rì",
+            "word": "后日",
+            "id": 23875,
+            "phonetic": "houri",
+            "rank": 51583,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄢˊㄖˋ",
+            "_id": "83e9b989f14fba10658851ef68bc92b4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "mấy ngày liền; liên tiếp mấy ngày",
+                            "explain": "接连几天",
+                            "examples": [
+                                {
+                                    "m": "mấy ngày trời đi đường.",
+                                    "p_vn": "may ngay troi di duong",
+                                    "_id": "70524cc13a82e0d753cdeb84aac00e0d",
+                                    "id": 25744,
+                                    "type": "e_cnvi",
+                                    "e": "连日赶路。",
+                                    "p_cn": "lianri ganlu",
+                                    "p": "liánrì gǎnlù。"
+                                },
+                                {
+                                    "m": "mưa mấy ngày liên tục, nước sông dâng lên cuồn cuộn.",
+                                    "p_vn": "mua may ngay lien tuc nuoc song dang len cuon cuon",
+                                    "_id": "9b2cb0861c8e2d63410689d85754d097",
+                                    "id": 25745,
+                                    "type": "e_cnvi",
+                                    "e": "连日大雨，河水暴涨。",
+                                    "p_cn": "lianri dayu heshui baozhang",
+                                    "p": "liánrì dàyǔ，héshǔi bàozhǎng。"
+                                },
+                                {
+                                    "m": "phân xưởng này mấy ngày liền vượt sản lượng.",
+                                    "p_vn": "phan xuong nay may ngay lien vuot san luong",
+                                    "_id": "227fb3ea87261b2785ddb02d0fc594dd",
+                                    "id": 25746,
+                                    "type": "e_cnvi",
+                                    "e": "这个车间连日超产。",
+                                    "p_cn": "zhege chejian lianri chaochan",
+                                    "p": "zhègè chējiān liánrì chāochǎn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 63
+            },
+            "snym": null,
+            "cn_vi": "liên nhật",
+            "pinyin": "liánrì",
+            "word": "连日",
+            "id": 34733,
+            "phonetic": "lianri",
+            "rank": 51944,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖˋㄌㄧㄡˊ",
+            "_id": "835b5bc38ba943d998ec776fd6b818ff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sự lan rộng của các sản phẩm văn hóa Nhật Bản (anime, nhạc pop, v.v.) sang các nước khác",
+                            "explain": "the spread of Japanese cultural products (anime, pop music etc) to other countries",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "nhật lưu",
+            "pinyin": "rì liú",
+            "word": "日流",
+            "id": 91806,
+            "phonetic": "riliu",
+            "rank": 128494,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "37bfe71607c24e439bacb576e63fc706",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Mặt trời lặn.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "nhật nhập",
+            "pinyin": "rì rù",
+            "word": "日入",
+            "id": 168810,
+            "phonetic": "riru",
+            "rank": 107774,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄖˋ",
+            "_id": "52d8377211a548fdbf57a853d38ed187",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Mặt trời mới mọc. \n◇Thường Kiến 常建: Thanh thần nhập cổ tự; Sơ nhật chiếu cao lâm 清晨入古寺; 初日照高林 (Đề phá san tự hậu thiền viện 題破山寺後禪院).",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "trời vừa tảng sáng",
+                                    "p_vn": "troi vua tang sang",
+                                    "_id": "7b0507866e0cefebd6479ed04ec37994",
+                                    "id": 39131,
+                                    "type": "e_cnvi",
+                                    "e": "初日曈曈",
+                                    "p_cn": "chu ri tong tong",
+                                    "p": "chūrìtóng tóng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "sơ nhật",
+            "pinyin": "chūrì",
+            "word": "初日",
+            "id": 149142,
+            "phonetic": "churi",
+            "rank": 68329,
+            "kind": [
+                "adv",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖˋㄕㄥˋ",
+            "_id": "9db243ffa161420a8f7da907efee0f5b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hưng thịnh hơn theo ngày",
+                            "explain": "more flourishing by the day",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "nhật thịnh",
+            "pinyin": "rì shèng",
+            "word": "日盛",
+            "id": 103426,
+            "phonetic": "risheng",
+            "rank": 100377,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄖˋ",
+            "_id": "1915c7a549b47c9e54d99de5717d23cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mồng tám tháng chạp; (người dân Trung Quốc ăn cháo mồng tám tháng Chạp)",
+                            "explain": "古时岁终祭祀的百神的日子，一般指腊八",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "lạp nhật",
+            "pinyin": "là rì",
+            "word": "腊日",
+            "id": 33353,
+            "phonetic": "lari",
+            "rank": 95325,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄢˊㄖˋ",
+            "_id": "2845ba543b9ef49633d30e8965e22d4f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hôm kia; hôm trước",
+                            "explain": "前天",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bữa trước; bữa nọ",
+                            "explain": "昨天的前一天",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 47
+            },
+            "snym": null,
+            "cn_vi": "tiền nhật",
+            "pinyin": "qiánrì",
+            "word": "前日",
+            "id": 42399,
+            "phonetic": "qianri",
+            "rank": 59580,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄚˊㄖˋ",
+            "_id": "7a5fb5980be049358988d95f5ca04a52",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Quận Darlag hoặc Dari (tiếng Tây Tạng: dar lag rdzong) ở quận tự trị Tây Tạng Golog 果洛 州, Thanh Hải",
+                            "explain": "Darlag or Dari county (Tibetan: dar lag rdzong) in Golog Tibetan autonomous prefecture 果洛州 [Guǒ luò zhōu], Qinghai",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "đạt nhật",
+            "pinyin": "dá rì",
+            "word": "达日",
+            "id": 89421,
+            "phonetic": "dari",
+            "rank": 127571,
+            "kind": [
+                "nlocal",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄨㄛˋㄖˋ",
+            "_id": "9541ca517cc92c2f8959edfb7401857e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mồng một; ngày mồng một (âm lịch)",
+                            "explain": "农历每月初一",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "sóc nhật",
+            "pinyin": "shuòrì",
+            "word": "朔日",
+            "id": 48748,
+            "phonetic": "shuori",
+            "rank": 63088,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "72",
+            "zhuyin": "ㄖˋㄔㄤˇ",
+            "_id": "3c6b9b1d382270e5aa8e80320fcf9c58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "buổi diễn ban ngày; buổi diễn ngày (nhạc, kịch hay chiếu phim.)",
+                            "explain": "戏剧、电影等在白天的演出",
+                            "examples": []
+                        },
+                        {
+                            "mean": "buổi diễn sáng",
+                            "explain": "戏剧、电影等在上午演出的场次",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "nhật trường",
+            "pinyin": "rì chǎng",
+            "word": "日场",
+            "id": 44404,
+            "phonetic": "richang",
+            "rank": 99541,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "7de0d5ac46294c61a640e666c3f19ff8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phơi nắng (sun-dried)",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mấy chùm ớt treo trên tường bị gió thổi khô quắt lại.",
+                                    "p_vn": "may chum ot treo tren tuong bi gio thoi kho quat lai.",
+                                    "_id": "0b514b6f03a230ae89becdc2cfc8058c",
+                                    "id": 12906,
+                                    "type": "e_cnvi",
+                                    "e": "墙上挂着一串串辣椒，风吹日晒，都已经干瘪了。",
+                                    "p_cn": "qiang shang guazhe yi chuan chuan lajiao, feng chui ri shai, dou yijing ganbiele.",
+                                    "p": "qiáng shàng guàzhe yī chuàn chuàn làjiāo, fēng chuī rì shài, dōu yǐjīng gānbiěle."
+                                },
+                                {
+                                    "m": "nắng đến nỗi đầu váng mắt hoa.",
+                                    "p_vn": "nang den noi dau vang mat hoa",
+                                    "_id": "a9b2257c319cd3d35443beb0f511111c",
+                                    "id": 34398,
+                                    "type": "e_cnvi",
+                                    "e": "烈日晒得人头昏眼花。",
+                                    "p_cn": "lieri shai de ren tou hun yanhua",
+                                    "p": "lièrì shài dé rén tóuhūnyǎnhuā。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 71
+            },
+            "snym": null,
+            "cn_vi": "nhật sái",
+            "pinyin": "rì shài",
+            "word": "日晒",
+            "id": 159895,
+            "phonetic": "rishai",
+            "rank": 49296,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢˇㄖˋ",
+            "_id": "358225289fdf443c9d397e857a1f868b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chống Nhật Bản",
+                            "explain": "anti-Japan",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "phản nhật",
+            "pinyin": "fǎnrì",
+            "word": "反日",
+            "id": 90432,
+            "phonetic": "fanri",
+            "rank": 144013,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄖˋ",
+            "_id": "394c36d909368295d5904dc01707fc73",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày công; công nhật",
+                            "explain": "一个劳动者工作一天为一个工日",
+                            "examples": [
+                                {
+                                    "m": "Mua nến Ngày thợ mỏ của bạn tại đây!",
+                                    "p_vn": "mua nen ngay tho mo cua ban tai day!",
+                                    "_id": "4cc120eaa4604b029b188c29959a17a5",
+                                    "id": 64051,
+                                    "type": "e_cnvi",
+                                    "e": "请在此处购买矿工日蜡烛",
+                                    "p_cn": "qing zai cichu goumai kuanggong ri lazhu",
+                                    "p": "qǐng zài cǐchù gòumǎi kuànggōng rì làzhú"
+                                },
+                                {
+                                    "m": "nguyên vật liệu đã đủ cả, chỉ có điều chưa định được ngày khởi công",
+                                    "p_vn": "nguyen vat lieu da du ca, chi co dieu chua dinh duoc ngay khoi cong",
+                                    "_id": "c45f5b50c1cb3cff8bd0fff48960a273",
+                                    "id": 2617,
+                                    "type": "e_cnvi",
+                                    "e": "原材料已经不差什么了，只是开工日期还没确定。",
+                                    "p_cn": "yuancailiao yijing bu cha shenmeliao, zhishi kaigong riqi hai mei queding.",
+                                    "p": "yuáncáiliào yǐjīng bù chā shénmeliǎo, zhǐshì kāigōng rìqī hái méi quèdìng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "công nhật",
+            "pinyin": "gōng rì",
+            "word": "工日",
+            "id": 19527,
+            "phonetic": "gongri",
+            "rank": 67564,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖˋㄊㄡˊ",
+            "_id": "3dda6bdf89ab15e32cca6c18dc98348b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mặt trời; thái dương",
+                            "explain": "太阳",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thời kỳ",
+                            "explain": "指历史上以经济、政治、文化等状况为依据而划分的某个时期",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 114
+            },
+            "snym": null,
+            "cn_vi": "nhật đầu",
+            "pinyin": "rìtou",
+            "word": "日头",
+            "id": 44436,
+            "phonetic": "ritou",
+            "rank": 38889,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "日子"
+}

@@ -1,0 +1,3311 @@
+{
+    "total": 912,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v",
+                "adj",
+                "measure",
+                "n",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊ",
+            "_id": "b88ea818e7e5206ece963188f9fb079d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "nhắm/ ngậm/ đóng/ hợp/ chặt....lại",
+                            "examples": [
+                                101645,
+                                101646,
+                                101647
+                            ],
+                            "struct": "合 + 上/ 起/ 紧"
+                        },
+                        {
+                            "explain": "có thể/ không thể đóng/ kết hợp lại với nhau",
+                            "examples": [
+                                101652,
+                                101653,
+                                101654
+                            ],
+                            "struct": "合+得/不+上/拢/起来"
+                        },
+                        {
+                            "explain": "hợp/ kết hợp/ cùng nhau",
+                            "examples": [
+                                101672,
+                                101673
+                            ],
+                            "struct": "合 + 在 一起"
+                        },
+                        {
+                            "explain": "hợp/ phù hợp với khẩu vị/ ý nguyện/ quy định",
+                            "examples": [
+                                101678,
+                                101679,
+                                101680
+                            ],
+                            "struct": "合 + tân ngữ (胃口/ 心意/ 规定）"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đóng; khép; nhắm; ngậm; gập...",
+                            "explain": "闭;合拢",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy cười không khép được miệng.",
+                                    "p_vn": "anh ay cuoi khong khep duoc mieng.",
+                                    "_id": "55db399305625a14707d64b918b79a07",
+                                    "id": 101610,
+                                    "type": "e_cnvi",
+                                    "e": "他笑得合不上嘴。",
+                                    "p_cn": "ta xiao de he bu shang zui.",
+                                    "p": "tā xiào de hé bù shàng zuǐ."
+                                },
+                                {
+                                    "m": "Chợp mắt nghỉ ngơi một chút đi.",
+                                    "p_vn": "chop mat nghi ngoi mot chut di.",
+                                    "_id": "55db399305625a14707d64b918b7a013",
+                                    "id": 101611,
+                                    "type": "e_cnvi",
+                                    "e": "合上眼休息一下吧。",
+                                    "p_cn": "he shang yan xiuxi yixia ba.",
+                                    "p": "hé shàng yǎn xiūxi yīxià ba."
+                                },
+                                {
+                                    "m": "Anh ấy gập sách lại rồi rời đi.",
+                                    "p_vn": "anh ay gap sach lai roi roi di.",
+                                    "_id": "55db399305625a14707d64b918b7ab94",
+                                    "id": 101612,
+                                    "type": "e_cnvi",
+                                    "e": "他合上书离开了。",
+                                    "p_cn": "ta he shangshu likaile.",
+                                    "p": "tā hé shàngshū líkāile."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hợp lại; đồng; cùng; chung",
+                            "explain": "结合到一起;凑到一起;共同 (跟''分''相对)",
+                            "examples": [
+                                {
+                                    "m": "Mọi người cùng nhau cố gắng hoàn thành nhiệm vụ.",
+                                    "p_vn": "moi nguoi cung nhau co gang hoan thanh nhiem vu.",
+                                    "_id": "55db399305625a14707d64b918b7b169",
+                                    "id": 101615,
+                                    "type": "e_cnvi",
+                                    "e": "大家合力完成任务。",
+                                    "p_cn": "dajia heli wancheng renwu.",
+                                    "p": "dàjiā hélì wánchéng rènwù."
+                                },
+                                {
+                                    "m": "Chúng ta cùng đồng lòng thì có thể thành công.",
+                                    "p_vn": "chung ta cung dong long thi co the thanh cong.",
+                                    "_id": "55db399305625a14707d64b918b7bc25",
+                                    "id": 101616,
+                                    "type": "e_cnvi",
+                                    "e": "我们合心就能成功。",
+                                    "p_cn": "women he xin jiu neng chenggong.",
+                                    "p": "wǒmen hé xīn jiù néng chénggōng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hợp; phù hợp",
+                            "explain": "符合",
+                            "examples": [
+                                {
+                                    "m": "Kế hoạch không phù hợp với tình hình thực tế.",
+                                    "p_vn": "ke hoach khong phu hop voi tinh hinh thuc te.",
+                                    "_id": "55db399305625a14707d64b918b7d4de",
+                                    "id": 101620,
+                                    "type": "e_cnvi",
+                                    "e": "计划不合实际情况。",
+                                    "p_cn": "ji hua buhe shiji qingkuang.",
+                                    "p": "jì huá bùhé shíjì qíngkuàng."
+                                },
+                                {
+                                    "m": "Món này không hợp với khẩu vị của tôi.",
+                                    "p_vn": "mon nay khong hop voi khau vi cua toi.",
+                                    "_id": "55db399305625a14707d64b918b7dcfb",
+                                    "id": 101621,
+                                    "type": "e_cnvi",
+                                    "e": "这道菜不合我胃口。",
+                                    "p_cn": "zhe dao cai buhe wo weikou.",
+                                    "p": "zhè dào cài bùhé wǒ wèikǒu."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tổng cộng; gồm có; bằng; tốn",
+                            "explain": "折合;共计",
+                            "examples": [
+                                {
+                                    "m": "Tổng cộng hơn ba trăm đồng.",
+                                    "p_vn": "tong cong hon ba tram dong.",
+                                    "_id": "55db399305625a14707d64b918b7e17d",
+                                    "id": 101622,
+                                    "type": "e_cnvi",
+                                    "e": "总共合三百多块。",
+                                    "p_cn": "zonggong he sanbai duo kuai.",
+                                    "p": "zǒnggòng hé sānbǎi duō kuài."
+                                },
+                                {
+                                    "m": "Chiếc váy đó có giá 90 đồng.",
+                                    "p_vn": "chiec vay do co gia 90 dong.",
+                                    "_id": "55db399305625a14707d64b918b7ed38",
+                                    "id": 101623,
+                                    "type": "e_cnvi",
+                                    "e": "那件裙子合九十块。",
+                                    "p_cn": "na jian qunzi he jiushi kuai.",
+                                    "p": "nà jiàn qúnzi hé jiǔshí kuài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nên; phải; cần phải",
+                            "explain": "应当;应该",
+                            "examples": [
+                                {
+                                    "m": "Anh nên đến sớm hơn.",
+                                    "p_vn": "anh nen den som hon.",
+                                    "_id": "55db399305625a14707d64b918b805a7",
+                                    "id": 101625,
+                                    "type": "e_cnvi",
+                                    "e": "你合早点来的。",
+                                    "p_cn": "ni he zaodian lai de.",
+                                    "p": "nǐ hé zǎodiǎn lái de."
+                                },
+                                {
+                                    "m": "Chúng ta nên đoàn kết lại với nhau.",
+                                    "p_vn": "chung ta nen doan ket lai voi nhau.",
+                                    "_id": "55db399305625a14707d64b918b80cbd",
+                                    "id": 101626,
+                                    "type": "e_cnvi",
+                                    "e": "我们合团结起来。",
+                                    "p_cn": "women he tuanjie qilai.",
+                                    "p": "wǒmen hé tuánjié qǐlái."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "cả; toàn bộ; cả; tất cả",
+                            "explain": "全; 整个",
+                            "examples": [
+                                {
+                                    "m": "Cả nhà đoàn tụ vui vẻ.",
+                                    "p_vn": "ca nha doan tu vui ve.",
+                                    "_id": "55db399305625a14707d64b918b9ebb0",
+                                    "id": 101688,
+                                    "type": "e_cnvi",
+                                    "e": "合家欢乐庆团圆。",
+                                    "p_cn": "hejiahuan le qing tuanyuan.",
+                                    "p": "héjiāhuān lè qìng tuányuán."
+                                },
+                                {
+                                    "m": "Cả làng giàu to rồi.",
+                                    "p_vn": "ca lang giau to roi.",
+                                    "_id": "55db399305625a14707d64b918b9ee2f",
+                                    "id": 101689,
+                                    "type": "e_cnvi",
+                                    "e": "合村发财了。",
+                                    "p_cn": "he cun facaile.",
+                                    "p": "hé cūn fācáile."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "hiệp; hợp (lượng từ, dùng trong tiểu thuyết cũ)",
+                            "explain": "量词，旧小说中指交战的回合",
+                            "examples": [
+                                {
+                                    "m": "Hai người họ đã đấu hơn mười hiệp.",
+                                    "p_vn": "hai nguoi ho da dau hon muoi hiep.",
+                                    "_id": "55db399305625a14707d64b918ba12bd",
+                                    "id": 101692,
+                                    "type": "e_cnvi",
+                                    "e": "他俩已斗了十几合。",
+                                    "p_cn": "ta lia yi doule shi ji he.",
+                                    "p": "tā liǎ yǐ dòule shí jǐ hé."
+                                },
+                                {
+                                    "m": "Chiến đấu hàng chục hiệp không phân thắng bại.",
+                                    "p_vn": "chien dau hang chuc hiep khong phan thang bai.",
+                                    "_id": "55db399305625a14707d64b918ba1f1f",
+                                    "id": 101693,
+                                    "type": "e_cnvi",
+                                    "e": "大战数十合不分胜负。",
+                                    "p_cn": "da zhan shu shi he bu fen sheng fu..",
+                                    "p": "dà zhàn shù shí hé bù fēn shèng fù.."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hợp (Chiêm tinh)",
+                            "explain": "在太阳系中，当行星运行到与太阳、地球成一直线，叫做合",
+                            "examples": [
+                                {
+                                    "m": "Hôm nay xuất hiện sự hợp của sao Thủy.",
+                                    "p_vn": "hom nay xuat hien su hop cua sao thuy.",
+                                    "_id": "55db399305625a14707d64b918ba3c40",
+                                    "id": 101697,
+                                    "type": "e_cnvi",
+                                    "e": "今日出现了水星合。",
+                                    "p_cn": "jinri chuxianle shuixing he.",
+                                    "p": "jīnrì chūxiànle shuǐxīng hé."
+                                },
+                                {
+                                    "m": "Hiện tượng hợp của sao Hỏa rất hiếm thấy.",
+                                    "p_vn": "hien tuong hop cua sao hoa rat hiem thay.",
+                                    "_id": "55db399305625a14707d64b918ba3def",
+                                    "id": 101698,
+                                    "type": "e_cnvi",
+                                    "e": "火星合现象很罕见。",
+                                    "p_cn": "huo xing he xian xiang hen han jian.",
+                                    "p": "huǒ xīng hé xiàn xiàng hěn hǎn jiàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Hợp",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Anh ta họ Hợp.",
+                                    "p_vn": "anh ta ho hop.",
+                                    "_id": "55db399305625a14707d64b918ba7293",
+                                    "id": 101705,
+                                    "type": "e_cnvi",
+                                    "e": "他姓合。",
+                                    "p_cn": "ta xing he.",
+                                    "p": "Tā xìng hé."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "cùng nhau",
+                            "explain": "共同；一起",
+                            "examples": [
+                                {
+                                    "m": "Mọi người cùng theo đuổi ước mơ.",
+                                    "p_vn": "moi nguoi cung theo duoi uoc mo.",
+                                    "_id": "55db399305625a14707d64b918bacefb",
+                                    "id": 101714,
+                                    "type": "e_cnvi",
+                                    "e": "大家合追求梦想。",
+                                    "p_cn": "dajia he zhuiqiu mengxiang.",
+                                    "p": "dàjiā hé zhuīqiú mèngxiǎng."
+                                },
+                                {
+                                    "m": "Họ sẽ cùng vượt qua khó khăn.",
+                                    "p_vn": "ho se cung vuot qua kho khan.",
+                                    "_id": "55db399305625a14707d64b918badede",
+                                    "id": 101715,
+                                    "type": "e_cnvi",
+                                    "e": "他们合将困难克。",
+                                    "p_cn": "tamen he jiang kunnan ke.",
+                                    "p": "tāmen hé jiāng kùnnán kè."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 193,
+                "search": 8560
+            },
+            "snym": {
+                "syno": [
+                    "关",
+                    "折",
+                    "闭",
+                    "聚"
+                ],
+                "anto": [
+                    "分",
+                    "开",
+                    "张",
+                    "拆",
+                    "离"
+                ]
+            },
+            "lv_hsk_new": "3",
+            "pinyin": "hé",
+            "cn_vi": "hợp.hiệp.cáp.hạp",
+            "word": "合",
+            "id": 22889,
+            "phonetic": "he",
+            "rank": 1248,
+            "lv_hsk": 4,
+            "lv_tocfl": 3,
+            "compound": "合抱 ; 合璧 ; 合并 ; 合不来 ; 合不着 ; 合唱 ; 合成 ; 合成词 ; 合成洗涤剂 ; 合成洗衣粉 ; 合成纤维 ; 合成橡胶 ; 合得来 ; 合得着 ; 合度 ; 合法 ; 合该 ; 合格 ; 合共 ; 合股 ; 合乎 ; 合欢 ; 合伙 ; 合击 ; 合计 ; 合剂 ; 合家 ; 合家欢 ; 合脚 ; 合金 ; 合卺 ; 合口 ; 合口呼 ; 合饹 ; 合理 ; 合理化 ; 合力 ; 合流 ; 合龙 ; 合拢 ; 合谋 ; 合拍 ; 合情合理 ; 合群 ; 合扇 ; 合身 ; 合十 ; 合时 ; 合式 ; 合适 ; 合数 ; 合算 ; 合体 ; 合同 ; 合同工 ; 合围 ; 合心 ; 合眼 ; 合演 ; 合叶 ; 合宜 ; 合议庭 ; 合意 ; 合营 ; 合影 ; 合用 ; 合约 ; 合葬 ; 合照 ; 合辙 ; 合资 ; 合子 ; 合奏 ; 合作 ; 合作化 ; 合作社"
+        },
+        {
+            "kind": [
+                "n",
+                "measure"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊ",
+            "_id": "d4a32761b7af598e8db2ce5bd55613cb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cái đấu (đong lương thực làm bằng gỗ hoặc tre)",
+                            "explain": "量粮食的器具，容量是1合，方形或圆筒形，多用木头或竹筒制成",
+                            "examples": [
+                                {
+                                    "m": "Có một cái thùng gỗ cũ đó.",
+                                    "p_vn": "co mot cai thung go cu do.",
+                                    "_id": "55db399305625a14707d64b918bb0d69",
+                                    "id": 101719,
+                                    "type": "e_cnvi",
+                                    "e": "那有个旧木合。",
+                                    "p_cn": "na you gejiu mu ge.",
+                                    "p": "nà yǒu gèjiù mù gě."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "đấu (đơn vị dung lượng bằng 1/10 của thăng)",
+                            "explain": "容量单位10勺等于1合，10合等于1升",
+                            "examples": [
+                                {
+                                    "m": "Đây có 5 đấu gạo.",
+                                    "p_vn": "day co 5 dau gao.",
+                                    "_id": "55db399305625a14707d64b918bb38f8",
+                                    "id": 101725,
+                                    "type": "e_cnvi",
+                                    "e": "这有五合米。",
+                                    "p_cn": "zhe you wu ge mi.",
+                                    "p": "zhè yǒu wǔ gě mǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 193,
+                "search": 8560
+            },
+            "snym": {
+                "syno": [
+                    "关",
+                    "折",
+                    "闭",
+                    "聚"
+                ],
+                "anto": [
+                    "分",
+                    "开",
+                    "张",
+                    "拆",
+                    "离"
+                ]
+            },
+            "lv_hsk_new": "3",
+            "pinyin": "gě",
+            "cn_vi": "hợp.hiệp.cáp.hạp",
+            "word": "合",
+            "id": 22890,
+            "phonetic": "ge",
+            "rank": 1249,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄑㄧㄥˊㄏㄜˊㄌㄧˇ",
+            "topic": "38",
+            "_id": "c40d6d06fa4ea4fcedbff9dc5349165c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "hợp tình hợp lý",
+                            "explain": "合乎情理",
+                            "examples": [
+                                {
+                                    "m": "Yêu cầu của cô ấy hợp tình hợp lý.",
+                                    "p_vn": "yeu cau cua co ay hop tinh hop ly.",
+                                    "_id": "d9c0c356c89d461988fc1af05b85f57c",
+                                    "id": 72820,
+                                    "type": "e_cnvi",
+                                    "e": "她的要求完全合情合理。",
+                                    "p_cn": "ta de yaoqiu wanquan heqingheli",
+                                    "p": "tā de yāoqiú wánquán héqínghélǐ"
+                                },
+                                {
+                                    "m": "Anh ta giải thích hợp tình hợp lý",
+                                    "p_vn": "anh ta giai thich hop tinh hop ly",
+                                    "_id": "8f569b75caf94237a6231827626385b7",
+                                    "id": 72821,
+                                    "type": "e_cnvi",
+                                    "e": "他解释得听起来合情合理。",
+                                    "p_cn": "ta jieshi de tingqilai heqingheli",
+                                    "p": "tā jiěshì dé tīngqilai héqīnghélǐ"
+                                },
+                                {
+                                    "m": "Giá này là hợp lý vì chất lượng rất tốt.",
+                                    "p_vn": "gia nay la hop ly vi chat luong rat tot.",
+                                    "_id": "e041a4978c1942b08e4c681ba538d102",
+                                    "id": 72822,
+                                    "type": "e_cnvi",
+                                    "e": "这价格是合情合理的，因为质量极好。",
+                                    "p_cn": "zhe jiage shi heqingheli de yinwei zhiliang jihao",
+                                    "p": "zhè jiàgé shì héqínghélǐ de yīnwèi zhìliàng jíhǎo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 127,
+                "search": 1022
+            },
+            "snym": {
+                "syno": [
+                    "理所当然",
+                    "情理之中",
+                    "入情入理",
+                    "循规蹈矩",
+                    "言之成理",
+                    "正正当当",
+                    "情有可原",
+                    "通情达理",
+                    "荒诞不经",
+                    "安分守纪",
+                    "惬心贵当",
+                    "通力合作"
+                ],
+                "anto": [
+                    "不合情理",
+                    "荒谬绝伦",
+                    "牵强附会",
+                    "不近道理",
+                    "不近人情",
+                    "岂有此理",
+                    "没法没天",
+                    "咄咄怪事",
+                    "不可理喻",
+                    "无法无天",
+                    "不情之请"
+                ]
+            },
+            "cn_vi": "hợp tình hợp lí",
+            "pinyin": "héqínghélǐ",
+            "lv_hsk_new": "4",
+            "word": "合情合理",
+            "id": 22941,
+            "phonetic": "heqingheli",
+            "rank": 9683,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "1, 37",
+            "zhuyin": "ㄈㄨˋㄏㄜˊ",
+            "_id": "33647ff292de5da695d0ca5f33821221",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "kết hợp các yếu tố khác nhau để tạo ra một dạng hợp nhất",
+                            "examples": [
+                                144002,
+                                144003
+                            ],
+                            "struct": "复合+ Danh từ (词/地板/材料/饲料/维生素)"
+                        },
+                        {
+                            "explain": "hai người từng chia tay sau đó quay lại; tái hợp",
+                            "examples": [
+                                144004,
+                                144005
+                            ],
+                            "struct": "A和B/夫妇/他们 + 复合"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hợp lại; ghép lại; ghép; kết hợp",
+                            "explain": "合在一起；结合起来",
+                            "examples": [
+                                {
+                                    "m": "Hai màu sắc hợp lại với nhau.",
+                                    "p_vn": "hai mau sac hop lai voi nhau.",
+                                    "_id": "4db5a71385989eb3ed116a21c33981a2",
+                                    "id": 143992,
+                                    "type": "e_cnvi",
+                                    "e": "两种颜色复合在一起。",
+                                    "p_cn": "liang zhong yanse fuhe zai yiqi.",
+                                    "p": "liǎng zhǒng yánsè fùhé zài yīqǐ."
+                                },
+                                {
+                                    "m": "Các vật liệu khác nhau hợp lại tạo thành hợp kim mới.",
+                                    "p_vn": "cac vat lieu khac nhau hop lai tao thanh hop kim moi.",
+                                    "_id": "4db5a71385989eb3ed116a21c3398df0",
+                                    "id": 143993,
+                                    "type": "e_cnvi",
+                                    "e": "不同材料复合形成新合金。",
+                                    "p_cn": "butong cailiao fuhe xingcheng xin hejin.",
+                                    "p": "bùtóng cáiliào fùhé xíngchéng xīn héjīn."
+                                },
+                                {
+                                    "m": "Các thành phần hóa học hợp lại tạo thành hợp chất mới.",
+                                    "p_vn": "cac thanh phan hoa hoc hop lai tao thanh hop chat moi.",
+                                    "_id": "4db5a71385989eb3ed116a21c33994a9",
+                                    "id": 143994,
+                                    "type": "e_cnvi",
+                                    "e": "化学成分复合生成新化合物。",
+                                    "p_cn": "huaxue chengfen fuhe shengcheng xin huahewu.",
+                                    "p": "huàxué chéngfèn fùhé shēngchéng xīn huàhéwù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quay lại ; tái hợp",
+                            "explain": "比喻分开以后又在一起了",
+                            "examples": [
+                                {
+                                    "m": "Sau khi chia tay, họ lại quay lại.",
+                                    "p_vn": "sau khi chia tay, ho lai quay lai.",
+                                    "_id": "4db5a71385989eb3ed116a21c339c160",
+                                    "id": 143998,
+                                    "type": "e_cnvi",
+                                    "e": "分开后，他们又复合了。",
+                                    "p_cn": "fenkai hou, tamen you fuhele.",
+                                    "p": "fēnkāi hòu, tāmen yòu fùhéle."
+                                },
+                                {
+                                    "m": "Sau khi tái hợp, họ càng trân trọng nhau hơn.",
+                                    "p_vn": "sau khi tai hop, ho cang tran trong nhau hon.",
+                                    "_id": "4db5a71385989eb3ed116a21c339cd67",
+                                    "id": 143999,
+                                    "type": "e_cnvi",
+                                    "e": "复合后的他们更珍惜彼此。",
+                                    "p_cn": "fuhe hou de tamen geng zhenxi bici.",
+                                    "p": "fùhé hòu de tāmen gèng zhēnxī bǐcǐ."
+                                },
+                                {
+                                    "m": "Sau khi tái hợp, tình cảm của họ sâu hơn.",
+                                    "p_vn": "sau khi tai hop, tinh cam cua ho sau hon.",
+                                    "_id": "4db5a71385989eb3ed116a21c339cdb1",
+                                    "id": 144000,
+                                    "type": "e_cnvi",
+                                    "e": "他们复合后感情更深了。",
+                                    "p_cn": "tamen fuhe hou ganqing gengshenle.",
+                                    "p": "tāmen fùhé hòu gǎnqíng gèngshēnle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 80,
+                "search": 1575
+            },
+            "snym": {
+                "syno": [
+                    "和好",
+                    "组合",
+                    "合好",
+                    "混合"
+                ],
+                "anto": [
+                    "斩断",
+                    "崩裂"
+                ]
+            },
+            "cn_vi": "phức hợp",
+            "pinyin": "fùhé",
+            "word": "复合",
+            "id": 17862,
+            "phonetic": "fuhe",
+            "rank": 6790,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄢˊㄏㄜˊ",
+            "_id": "d759e15ba122eda8369328f14a6d2ad7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đoàn kết; kết hợp; liên hiệp",
+                            "explain": "联系使不分散;结合",
+                            "examples": [
+                                {
+                                    "m": "Những người vô sản trên toàn thế giới, hãy đoàn kết lại!",
+                                    "p_vn": "nhung nguoi vo san tren toan the gioi, hay doan ket lai!",
+                                    "_id": "e5faacb9673d6f220026a7c36f8aec45",
+                                    "id": 25808,
+                                    "type": "e_cnvi",
+                                    "e": "全世界无产者，联合起来!",
+                                    "p_cn": "quan shijie wuchanzhe, lianhe qilai!",
+                                    "p": "quán shìjiè wúchǎnzhě, liánhé qǐlái!"
+                                },
+                                {
+                                    "m": "Các nước nên đoàn kết chống dịch bệnh.",
+                                    "p_vn": "cac nuoc nen doan ket chong dich benh.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c0d7a9c",
+                                    "id": 132548,
+                                    "type": "e_cnvi",
+                                    "e": "各国应当联合抗击疫情。",
+                                    "p_cn": "geguo yingdang lianhe kangji yiqing.",
+                                    "p": "gèguó yīngdāng liánhé kàngjí yìqíng."
+                                },
+                                {
+                                    "m": "Trường học và cộng đồng đã liên kết tổ chức triển lãm.",
+                                    "p_vn": "truong hoc va cong dong da lien ket to chuc trien lam.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c0d7f46",
+                                    "id": 132549,
+                                    "type": "e_cnvi",
+                                    "e": "学校和社区联合办了展览。",
+                                    "p_cn": "xuexiao he shequ lianhe banle zhanlan.",
+                                    "p": "xuéxiào hé shèqū liánhé bànle zhǎnlǎn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kết hợp lại",
+                            "explain": "结合在一起的;共同",
+                            "examples": [
+                                {
+                                    "m": "Hai công ty kết hợp lại ra mắt sản phẩm mới.",
+                                    "p_vn": "hai cong ty ket hop lai ra mat san pham moi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c0d8841",
+                                    "id": 132550,
+                                    "type": "e_cnvi",
+                                    "e": "两家公司联合发布新产品。",
+                                    "p_cn": "liang jia gongsi lianhe fabu xin chanpin.",
+                                    "p": "liǎng jiā gōngsī liánhé fābù xīn chǎnpǐn."
+                                },
+                                {
+                                    "m": "Chúng tôi kết hợp lại phát triển công nghệ mới.",
+                                    "p_vn": "chung toi ket hop lai phat trien cong nghe moi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c0d88a0",
+                                    "id": 132551,
+                                    "type": "e_cnvi",
+                                    "e": "我们联合开发新技术。",
+                                    "p_cn": "women lianhe kaifa xin jishu.",
+                                    "p": "wǒmen liánhé kāifā xīn jìshù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kết; nối (hai xương gắn lại với nhau)",
+                            "explain": "两块以上的骨头长在一起或固定在一起，叫做联合，如耻骨联合、下颌骨联合等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 192,
+                "search": 2004
+            },
+            "snym": {
+                "syno": [
+                    "结合",
+                    "拉拢",
+                    "联络",
+                    "联结",
+                    "纠合",
+                    "相聚",
+                    "连结",
+                    "笼络",
+                    "团结",
+                    "共同",
+                    "协同",
+                    "合伙",
+                    "撮合",
+                    "连合",
+                    "统一",
+                    "联接",
+                    "连接",
+                    "整合",
+                    "联名",
+                    "与共",
+                    "联邦"
+                ],
+                "anto": [
+                    "对峙",
+                    "分散",
+                    "分裂",
+                    "孤立",
+                    "单独",
+                    "排斥",
+                    "分开"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "liánhé",
+            "cn_vi": "liên hợp",
+            "word": "联合",
+            "id": 34793,
+            "phonetic": "lianhe",
+            "rank": 5599,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "7",
+            "zhuyin": "ㄏㄜˊㄗㄨㄛˋ",
+            "_id": "bdc82c4b1015b9874ae55b8680a1439e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A hợp tác với B",
+                            "examples": [
+                                89687
+                            ],
+                            "struct": "A + 与/和/跟 + B + 合作"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hợp tác",
+                            "explain": "互相配合做某事或共同完成某项任务",
+                            "examples": [
+                                {
+                                    "m": "Phân công hợp tác",
+                                    "p_vn": "phan cong hop tac",
+                                    "_id": "38ff5898f4bc546c7bef198c71f96f19",
+                                    "id": 16683,
+                                    "type": "e_cnvi",
+                                    "e": "分工合作",
+                                    "p_cn": "fengonghezuo",
+                                    "p": "fēngōnghézuò"
+                                },
+                                {
+                                    "m": "Hợp tác kỹ thuật",
+                                    "p_vn": "hop tac ky thuat",
+                                    "_id": "ca227da0acfb34afa8aa29c44c279dc2",
+                                    "id": 16684,
+                                    "type": "e_cnvi",
+                                    "e": "技术合作",
+                                    "p_cn": "jishu hezuo",
+                                    "p": "jìshù hézuò"
+                                },
+                                {
+                                    "m": "Ông ám chỉ sẵn sàng hợp tác.",
+                                    "p_vn": "ong am chi san sang hop tac.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab6dcf03",
+                                    "id": 89688,
+                                    "type": "e_cnvi",
+                                    "e": "他暗示愿意合作。",
+                                    "p_cn": "ta anshi yuanyi hezuo.",
+                                    "p": "tā ànshì yuànyì hézuò."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Chủ thể hành vi của \"合作\" thường là hai người hoặc hai đơn vị, người tham gia không bị phân biệt chủ thứ ; chủ thể hành vi của \"协作\" không bị giới hạn này, thường có ý nghĩa nhiều người hoặc nhiều đơn vị cùng nhau hợp tác làm việc gì đó.",
+                    "title": "Phân biệt \"合作\" và \"协作\"",
+                    "words": [
+                        "合作",
+                        "协作"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "同盟",
+                    "互助",
+                    "团结",
+                    "协作",
+                    "合营",
+                    "配合",
+                    "与共",
+                    "搭配"
+                ],
+                "anto": [
+                    "竞争",
+                    "分工",
+                    "单干",
+                    "对峙"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "hézuò",
+            "cn_vi": "hợp tác",
+            "popularity": {
+                "notebook": 389,
+                "search": 3344
+            },
+            "word": "合作",
+            "id": 22981,
+            "phonetic": "hezuo",
+            "rank": 3569,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄅㄧㄢ",
+            "_id": "03c8b54cb39aad58f51247fd917910e8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kết hợp và tổ chức lại",
+                            "explain": "合并整编 (部队、单位等)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hợp biên",
+            "pinyin": "hé biān",
+            "word": "合编",
+            "id": 22894,
+            "phonetic": "hebian",
+            "rank": 111265,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄥˋㄏㄜˊ",
+            "_id": "0ee6d19a00c258427564ba0e51a15916",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khâu; may (vết mổ); hàn khẩu",
+                            "explain": "外科手术上指用特制的针和线把伤口缝上",
+                            "examples": [
+                                {
+                                    "m": "Đóng khiếm khuyết vách ngăn.",
+                                    "p_vn": "dong khiem khuyet vach ngan.",
+                                    "_id": "79a209c1c492433a985511f040506bf6",
+                                    "id": 64726,
+                                    "type": "e_cnvi",
+                                    "e": "缝合心室中膈缺损",
+                                    "p_cn": "fenghe xinshi zhongge quesun",
+                                    "p": "fénghé xīnshì zhōnggé quēsǔn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 26,
+                "search": 353
+            },
+            "snym": {
+                "syno": [
+                    "撕扯"
+                ],
+                "anto": [
+                    "撕裂",
+                    "刺破"
+                ]
+            },
+            "cn_vi": "phùng hợp",
+            "pinyin": "fénghé",
+            "word": "缝合",
+            "id": 17192,
+            "phonetic": "fenghe",
+            "rank": 19926,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄌㄨㄥˇ",
+            "_id": "14f8c78986f1837f847d1403e6aa78e1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sát lại; khép lại; gặp; tụm; chụm",
+                            "explain": "合到一起;闭合",
+                            "examples": [
+                                {
+                                    "m": "xếp sách sát lại với nhau.",
+                                    "p_vn": "xep sach sat lai voi nhau",
+                                    "_id": "66a7157e34cb1a4e7d701a7f3879229b",
+                                    "id": 16650,
+                                    "type": "e_cnvi",
+                                    "e": "合拢书本",
+                                    "p_cn": "helong shuben",
+                                    "p": "hélǒng shūběn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "díu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 219
+            },
+            "snym": {
+                "syno": [
+                    "紧闭",
+                    "拉拢",
+                    "并拢",
+                    "闭合",
+                    "合上",
+                    "禁闭",
+                    "收拢"
+                ],
+                "anto": [
+                    "绽开",
+                    "张开",
+                    "分开",
+                    "聚散",
+                    "分隔",
+                    "摆开",
+                    "袒开"
+                ]
+            },
+            "cn_vi": "hợp long",
+            "pinyin": "hélǒng",
+            "word": "合拢",
+            "id": 22938,
+            "phonetic": "helong",
+            "rank": 26857,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄧㄢˇ",
+            "_id": "2b6c6f5e52a2a968bbd8f84d283f878e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cùng biểu diễn; cùng diễn; hợp diễn; diễn chung",
+                            "explain": "共同表演;同台演出",
+                            "examples": [
+                                {
+                                    "m": "họ đã từng diễn chung vở \"Huynh muội khai hoang\".",
+                                    "p_vn": "ho da tung dien chung vo huynh muoi khai hoang",
+                                    "_id": "226186760533b0408110c762682040f7",
+                                    "id": 16671,
+                                    "type": "e_cnvi",
+                                    "e": "他们两个人曾合演过《兄妹开荒》。",
+                                    "p_cn": "tamen liang geren ceng heyanguo xiongmei kaihuang",
+                                    "p": "tāmen liǎng gèrén céng héyǎnguò “xiōngmèi kāihuāng”."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "hợp diễn",
+            "pinyin": "héyǎn",
+            "word": "合演",
+            "id": 22957,
+            "phonetic": "heyan",
+            "rank": 152425,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄏㄜˊ",
+            "_id": "63b499412f294358a8b31e49202078f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "của một tâm trí",
+                            "explain": "of one mind",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đồng ý ngầm",
+                            "explain": "to agree implicitly",
+                            "examples": []
+                        },
+                        {
+                            "mean": "quan điểm trùng hợp mà không có một từ nào được trao đổi",
+                            "explain": "views coincide without a word exchanged",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "minh hợp",
+            "pinyin": "míng hé",
+            "word": "冥合",
+            "id": 94992,
+            "phonetic": "minghe",
+            "rank": 104964,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄘㄢㄏㄜˊ",
+            "_id": "6c2be9998e19a552fe3a99e603032ce4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đúc kết; tham khảo tổng hợp",
+                            "explain": "参考并综合",
+                            "examples": [
+                                {
+                                    "m": "tham khảo tổng hợp các yêu cầu",
+                                    "p_vn": "tham khao tong hop cac yeu cau",
+                                    "_id": "46fc68dbcd8c21341e6307ebd7f57a90",
+                                    "id": 3461,
+                                    "type": "e_cnvi",
+                                    "e": "参合其要",
+                                    "p_cn": "canhe qi yao",
+                                    "p": "cānhé qíyào"
+                                },
+                                {
+                                    "m": "quyển sách này viết đúc kết từ những tài liệu có liên quan",
+                                    "p_vn": "quyen sach nay viet duc ket tu nhung tai lieu co lien quan",
+                                    "_id": "73d5827314651648a1a10e1da490f5be",
+                                    "id": 3462,
+                                    "type": "e_cnvi",
+                                    "e": "本书参合了有关资料写成。",
+                                    "p_cn": "ben shu canhele youguan ziliao xiecheng",
+                                    "p": "běnshū cānhé le yǒuguān zīliào xiěchéng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 65
+            },
+            "snym": null,
+            "cn_vi": "tham hợp",
+            "pinyin": "cānhé",
+            "word": "参合",
+            "id": 5445,
+            "phonetic": "canhe",
+            "rank": 51511,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄟ˙ㄏㄜˊ",
+            "_id": "713210db4e9dd7280ea69e2e9cb4ce82",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "liền lại; dính liền; tổ hợp",
+                            "explain": "连缀;组合",
+                            "examples": [
+                                {
+                                    "m": "tác giả đem một vài câu chuyện thêm vào một số tình tiết viết thành bài văn.",
+                                    "p_vn": "tac gia dem mot vai cau chuyen them vao mot so tinh tiet viet thanh bai van",
+                                    "_id": "c29362fd741fafdd0a46d1ccf9036350",
+                                    "id": 51971,
+                                    "type": "e_cnvi",
+                                    "e": "作者把几件事稍加铺张，缀合成篇。",
+                                    "p_cn": "zuozhe ba ji jian shi shao jia puzhang zhui hecheng pian",
+                                    "p": "zuòzhě bǎ jījiànshì shāojiā pūzhāng，zhùi héchéng piān。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "xuyết hợp",
+            "pinyin": "zhuì hé",
+            "word": "缀合",
+            "id": 66319,
+            "phonetic": "zhuihe",
+            "rank": 85886,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e44cfee8ebfe47ca8827552dc046dda4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tan hợp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tán hợp",
+            "pinyin": "sàn hé",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "散合",
+            "id": 181063,
+            "phonetic": "sanhe",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧㄥˋㄏㄜˊ",
+            "_id": "1ff9999ebc23c3b5d572d20fb600bd0d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kết hợp; phối hợp; gộp",
+                            "explain": "使两种物质用物理上的或化学上的方法联结成一体",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hoà hợp; hợp nhất",
+                            "explain": "合而为一;联合;连在一起",
+                            "examples": [
+                                {
+                                    "m": "hợp nhất hai công ty",
+                                    "p_vn": "hop nhat hai cong ty",
+                                    "_id": "c08ffe74f35b73109258b1331911d6f7",
+                                    "id": 2255,
+                                    "type": "e_cnvi",
+                                    "e": "两家公司并合。",
+                                    "p_cn": "liang jia gongsi bing he",
+                                    "p": "liǎngjiā gōngsī bìnghé。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 76
+            },
+            "snym": null,
+            "cn_vi": "tịnh hợp",
+            "pinyin": "bìng hé",
+            "word": "并合",
+            "id": 4065,
+            "phonetic": "binghe",
+            "rank": 47817,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄚˇㄏㄜˊ",
+            "_id": "2f01559e4e2b4ee79e43dc2b0a50c1b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ra-háp (mẹ của Bô-ô)",
+                            "explain": "Rahab (mother of Boaz)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "lạt hợp",
+            "pinyin": "lǎ hé",
+            "word": "喇合",
+            "id": 88226,
+            "phonetic": "lahe",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄏㄜˊ",
+            "_id": "184e5c54a5663437563aef291abc98ea",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tập hợp; tụ tập; thu thập",
+                            "explain": "许多分散的人或物聚在一起",
+                            "examples": [
+                                {
+                                    "m": "dân quân đã tập hợp ở đầu làng rồi.",
+                                    "p_vn": "dan quan da tap hop o dau lang roi.",
+                                    "_id": "731337ed6dc1e4dfe4d789199f7f849d",
+                                    "id": 19545,
+                                    "type": "e_cnvi",
+                                    "e": "民兵已经在村前集合了。",
+                                    "p_cn": "minbing yijing zai cunqian jihe le。",
+                                    "p": "mínbīng yǐjīng zài cūnqián jíhé le。"
+                                },
+                                {
+                                    "m": "Đề nghị mọi người tập hợp thành một đội!",
+                                    "p_vn": "de nghi moi nguoi tap hop thanh mot doi!",
+                                    "_id": "5f1adf3e4794a18d885701d1a3883272",
+                                    "id": 80793,
+                                    "type": "e_cnvi",
+                                    "e": "请大家整队集合！",
+                                    "p_cn": "qing dajia zhengdui jihe!",
+                                    "p": "qǐng dàjiā zhěngduì jíhé!"
+                                },
+                                {
+                                    "m": "8 giờ tập hợp, đề nghị mọi người hãy đến đúng giờ.",
+                                    "p_vn": "8 gio tap hop, de nghi moi nguoi hay den dung gio.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3883958",
+                                    "id": 80794,
+                                    "type": "e_cnvi",
+                                    "e": "八点集合，请大家准时。",
+                                    "p_cn": "ba dian jihe, qing dajia zhunshi.",
+                                    "p": "bā diǎn jíhé, qǐng dàjiā zhǔnshí."
+                                },
+                                {
+                                    "m": "Ngày mai chúng ta sẽ tập hợp ở cổng công viên.",
+                                    "p_vn": "ngay mai chung ta se tap hop o cong cong vien.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3883a22",
+                                    "id": 80795,
+                                    "type": "e_cnvi",
+                                    "e": "我们明天在公园门口集合。",
+                                    "p_cn": "women mingtian zai gongyuan menkou jihe.",
+                                    "p": "wǒmen míngtiān zài gōngyuán ménkǒu jíhé."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tập hợp (số, dãy số)",
+                            "explain": "（数学）一些具有共同属性的事物的总体",
+                            "examples": [
+                                {
+                                    "m": "Trong tập hợp dãy số tự nhiên mọi số nếu không là số lẻ thì sẽ là số chẵn.",
+                                    "p_vn": "trong tap hop day so tu nhien moi so neu khong la so le thi se la so chan.",
+                                    "_id": "5f1adf3e4794a18d885701d1a38842c0",
+                                    "id": 80796,
+                                    "type": "e_cnvi",
+                                    "e": "在自然数的集合里，每个数字不是奇数就是偶数。",
+                                    "p_cn": "zai ziran shu de jihe li, mei ge shuzi bu shi jishu jiushi oushu.",
+                                    "p": "zài zìrán shù de jíhé lǐ, měi gè shùzi bú shì jīshù jiùshì ǒushù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- Tân ngữ của \"集合\" chỉ có thể là người.\n(không thể sử dụng với đối tượng trừu tượng)\n- Tân ngữ của \"集中\" có thể là người, cũng có thể là sự vật khác.\n(có thể sử dụng với đối tượng trừu tượng)",
+                    "title": "Phân biệt \"集合\" và \"集中\"",
+                    "words": [
+                        "集合",
+                        "集中"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "齐集",
+                    "凑集",
+                    "鸠合",
+                    "聚积",
+                    "聚会",
+                    "聚拢",
+                    "调集",
+                    "聚集",
+                    "鸠集",
+                    "召集",
+                    "汇合",
+                    "荟萃",
+                    "集中",
+                    "纠合",
+                    "会合",
+                    "纠集",
+                    "聚合",
+                    "集结",
+                    "会集",
+                    "结合",
+                    "蚁合",
+                    "群集",
+                    "聚众",
+                    "集聚"
+                ],
+                "anto": [
+                    "拼凑",
+                    "分散",
+                    "解散",
+                    "遣散",
+                    "分类"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "jíhé",
+            "cn_vi": "tập hợp",
+            "popularity": {
+                "notebook": 568,
+                "search": 6737
+            },
+            "word": "集合",
+            "id": 26975,
+            "phonetic": "jihe",
+            "rank": 1702,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "38",
+            "zhuyin": "ㄏㄜˊㄓㄜ˙",
+            "_id": "33c39856643175eb232d2ac678c7fa55",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đồng tác giả",
+                            "explain": "共同编写或制订",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "hợp trước",
+            "pinyin": "hézhù",
+            "word": "合著",
+            "id": 22974,
+            "phonetic": "hezhu",
+            "rank": 95680,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧˇㄏㄜˊ",
+            "_id": "45c15aa1fe504978b059c3238279b9d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "một (gần) phù hợp",
+                            "explain": "a (close) fit",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để phù hợp (dữ liệu với một mô hình)",
+                            "explain": "to fit (data to a model)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 59
+            },
+            "snym": null,
+            "cn_vi": "nghĩ hợp",
+            "pinyin": "nǐ hé",
+            "word": "拟合",
+            "id": 88631,
+            "phonetic": "nihe",
+            "rank": 53834,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄡˇㄏㄜˊ",
+            "_id": "94ee220698688efda1d51a066ef4ea03",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mài nhẵn; mài láng",
+                            "explain": "磨合",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "tẩu hợp",
+            "pinyin": "zǒu hé",
+            "word": "走合",
+            "id": 67233,
+            "phonetic": "zouhe",
+            "rank": 147376,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄐㄧˊ",
+            "_id": "95384d658823451abe1ce21a4d732304",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thu thập",
+                            "explain": "collection",
+                            "examples": []
+                        },
+                        {
+                            "mean": "biên soạn",
+                            "explain": "compilation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 238
+            },
+            "snym": {
+                "syno": [
+                    "书册"
+                ]
+            },
+            "cn_vi": "hợp tập",
+            "pinyin": "héjí",
+            "word": "合集",
+            "id": 88155,
+            "phonetic": "heji",
+            "rank": 25548,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄕㄤˋ",
+            "_id": "b1fc3888abc1b130e13803f6e8e8d59b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Tắt, đóng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "nói hùa theo cấp trên",
+                                    "p_vn": "noi hua theo cap tren",
+                                    "_id": "1af7e65ee57aa799fcf4a117a62c36e2",
+                                    "id": 46076,
+                                    "type": "e_cnvi",
+                                    "e": "迎合上司",
+                                    "p_cn": "yinghe shangsi",
+                                    "p": "yínghé shàngsī"
+                                },
+                                {
+                                    "m": "phù hợp yêu cầu của cấp trên.",
+                                    "p_vn": "phu hop yeu cau cua cap tren",
+                                    "_id": "e9d4806074f5a557b237e41924f59d9e",
+                                    "id": 44469,
+                                    "type": "e_cnvi",
+                                    "e": "符合上级的要求。",
+                                    "p_cn": "fuhe shangji de yaoqiu",
+                                    "p": "fúhé shàngjí de yàoqíu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 122,
+                "search": 1166
+            },
+            "snym": {
+                "syno": [
+                    "合拢",
+                    "关闭",
+                    "关上"
+                ],
+                "anto": [
+                    "打开",
+                    "张开",
+                    "掰开"
+                ]
+            },
+            "cn_vi": "hợp thượng",
+            "pinyin": "hé shàng",
+            "word": "合上",
+            "id": 69387,
+            "phonetic": "heshang",
+            "rank": 8693,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄕㄣ",
+            "_id": "d8eb7e2fa7e9e13dd03c9b63819d0324",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "vừa người; vừa vặn (quần áo)",
+                            "explain": "(合身儿) (衣服) 适合身材",
+                            "examples": [
+                                {
+                                    "m": "bộ đồ này may rất vừa vặn.",
+                                    "p_vn": "bo do nay may rat vua van.",
+                                    "_id": "d6690cc32d533b7fb182d1ae577e76b1",
+                                    "id": 16655,
+                                    "type": "e_cnvi",
+                                    "e": "这套衣服做得比较合身。",
+                                    "p_cn": "zhetao yifu zuo de bijiao heshen. ",
+                                    "p": "zhètào yīfu zuò dé bǐjiào héshēn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 54,
+                "search": 524
+            },
+            "snym": {
+                "syno": [
+                    "称身"
+                ],
+                "anto": [
+                    "别扭"
+                ]
+            },
+            "cn_vi": "hợp thân",
+            "pinyin": "héshēn",
+            "lv_hsk_new": "6",
+            "word": "合身",
+            "id": 22944,
+            "phonetic": "heshen",
+            "rank": 15444,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄧㄝˋ",
+            "_id": "a0fdf7ed3681fbe5b3c1a8c71e29a851",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bản lề",
+                            "explain": "由两片金属构成的铁链，大多装在门、窗、箱、柜上面也作合页有的地区叫合扇",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 68
+            },
+            "snym": null,
+            "cn_vi": "hợp hiệp",
+            "pinyin": "hé yè",
+            "word": "合叶",
+            "id": 22958,
+            "phonetic": "heye",
+            "rank": 50479,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄕㄡˇ",
+            "_id": "ca5011b760094bb6802c0381507b816f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "thuận tiện (để sử dụng)",
+                            "explain": "convenient (to use)",
+                            "examples": [
+                                {
+                                    "m": "không đúng thủ tục",
+                                    "p_vn": "khong dung thu tuc",
+                                    "_id": "4670f34951e41557ee7fad3c77b292ad",
+                                    "id": 2766,
+                                    "type": "e_cnvi",
+                                    "e": "不合手续",
+                                    "p_cn": "buhe shouxu",
+                                    "p": "bùhé shǒuxù"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hài hòa",
+                            "explain": "harmonious",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đặt lòng bàn tay vào nhau (trong lời cầu nguyện hoặc lời chào)",
+                            "explain": "to put one's palms together (in prayer or greeting)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "làm việc với một mục đích chung",
+                            "explain": "to work with a common purpose",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "hợp thủ",
+            "pinyin": "hé shǒu",
+            "word": "合手",
+            "id": 95487,
+            "phonetic": "heshou",
+            "rank": 63195,
+            "kind": [
+                "v",
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c4e5d927512440fb8311d5d1a702c4bc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cáp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nhất hợp",
+            "pinyin": "yī hé",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "一合",
+            "id": 173084,
+            "phonetic": "yihe",
+            "rank": 120623,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f22d36df16ba4192b72998986be041e8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Ngang nhau, vừa với nhau.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "xứng hợp",
+            "pinyin": "chēng hé",
+            "word": "称合",
+            "id": 168996,
+            "phonetic": "chenghe",
+            "rank": 137213,
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄥˇㄏㄜˊ",
+            "_id": "ce130a501ecc4f7dad5260f48fa14267",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Hội nhập; hoà nhập; hợp nhất; kết hợp cái gì đó để nó hoàn toàn trở thành một bộ phận của một cái khác; tích hợp",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Sau khi tích hợp các nguồn lực bảo trì, các lợi thế tổng thể được phát huy.",
+                                    "p_vn": "Sau khi tich hop cac nguon luc bao tri, cac loi the tong the duoc phat huy.",
+                                    "_id": "bdc0ec7c7feb4aa280cd2663a668ec51",
+                                    "id": 56114,
+                                    "type": "e_cnvi",
+                                    "e": "检修资源整合后,整体优势得到发挥.",
+                                    "p_cn": "Jianxiu ziyuan zhenghe hou, zhengti youshi dedao fahui.",
+                                    "p": "Jiǎnxiū zīyuán zhěnghé hòu, zhěngtǐ yōushì dédào fāhuī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 63,
+                "search": 1349
+            },
+            "snym": {
+                "syno": [
+                    "组合",
+                    "联合",
+                    "重组",
+                    "运作",
+                    "优化"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "zhěnghé",
+            "cn_vi": "chỉnh hợp",
+            "word": "整合",
+            "id": 85467,
+            "phonetic": "zhenghe",
+            "rank": 7707,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄌㄧˋ",
+            "_id": "ccfb6209a058431644c9976a6af68fc4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "hợp lực; hiệp lực; hợp sức; góp sức; chung sức; đồng sức",
+                            "explain": "一起出力",
+                            "examples": [
+                                {
+                                    "m": "đồng tâm hiệp lực; cùng nhau ra sức.",
+                                    "p_vn": "dong tam hiep luc; cung nhau ra suc",
+                                    "_id": "de656bfc21ead9fc5988f0bf009ae6e2",
+                                    "id": 16648,
+                                    "type": "e_cnvi",
+                                    "e": "同心合力",
+                                    "p_cn": "tongxin heli",
+                                    "p": "tóngxīnhélì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hợp lực; lực tổng hợp",
+                            "explain": "一个力对某物体的作用和另外几个力同时对该物体的作用的效果相同，这一个力就是那几个力的合力",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chung góp",
+                            "explain": "共同努力",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 124
+            },
+            "snym": {
+                "syno": [
+                    "协力",
+                    "脚力"
+                ],
+                "anto": [
+                    "独力"
+                ]
+            },
+            "cn_vi": "hiệp lực",
+            "pinyin": "hélì",
+            "word": "合力",
+            "id": 22935,
+            "phonetic": "heli",
+            "rank": 37204,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧˋㄏㄜˊ",
+            "_id": "e3cfa2bb037dc4cefc5638ab528834e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phù hợp; khớp; khế hợp",
+                            "explain": "符合",
+                            "examples": [
+                                {
+                                    "m": "người diễn viên vào vai Khuất Nguyên, từ cử chỉ đến trang phục đều rất khớp với thân phận Khuất Nguyên.",
+                                    "p_vn": "nguoi dien vien vao vai khuat nguyen, tu cu chi den trang phuc deu rat khop voi than phan khuat nguyen.",
+                                    "_id": "dfda952dd59c272e591244461902f658",
+                                    "id": 31816,
+                                    "type": "e_cnvi",
+                                    "e": "扮演屈原的那个演员，无论是表情还是服装都很契合屈原的身份。",
+                                    "p_cn": "banyan quyuan di nage yanyuan, wulun shi biaoqing haishi fuzhuang dou hen qihe quyuan de shenfen.",
+                                    "p": "bànyǎn qūyuán dì nàge yǎnyuán, wúlùn shì biǎoqīng háishi fúzhuāng dōu hěn qìhé qūyuán de shēnfèn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 84,
+                "search": 773
+            },
+            "snym": {
+                "syno": [
+                    "吻合",
+                    "适合",
+                    "符合",
+                    "切合",
+                    "相符"
+                ]
+            },
+            "cn_vi": "khế hợp",
+            "pinyin": "qìhé",
+            "word": "契合",
+            "id": 42159,
+            "phonetic": "qihe",
+            "rank": 11839,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄗㄤˋ",
+            "_id": "dfc5d5496237ad0d5326b6ac3a29d4cc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hợp táng; chôn chung",
+                            "explain": "人死后同藏一个墓穴，特指夫妻死后同葬在一个墓穴里",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 40
+            },
+            "snym": null,
+            "cn_vi": "hợp táng",
+            "pinyin": "hézàng",
+            "word": "合葬",
+            "id": 22969,
+            "phonetic": "hezang",
+            "rank": 63820,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d05c53e8e4ad47ad831ab34f81a44cab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bén duyên",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hợp duyên",
+            "pinyin": "hé yuán",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "合缘",
+            "id": 179361,
+            "phonetic": "heyuan",
+            "rank": 148166,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄕˋ",
+            "_id": "ffaa179869bfaaed998dde22016f9a0a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hợp thức; hợp cách",
+                            "explain": "合乎一定的规格、程式",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hợp; thích hợp; vừa",
+                            "explain": "同'合适'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 177
+            },
+            "snym": null,
+            "cn_vi": "hợp thức",
+            "pinyin": "héshì",
+            "word": "合式",
+            "id": 22947,
+            "phonetic": "heshi",
+            "rank": 30399,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄚˋㄏㄜˊ",
+            "_id": "25b2a79dab37487c1b44614463fa5ee5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hoá hợp; tổng hợp; kết hợp; phối hợp (phản ứng)",
+                            "explain": "两种或两种以上的物质经过化学反应而生成另一种物质，如氢与氧化合成水",
+                            "examples": [
+                                {
+                                    "m": "hợp chất thơm",
+                                    "p_vn": "hop chat thom",
+                                    "_id": "210b0c85838293f08ed3bf11f20e23b5",
+                                    "id": 52916,
+                                    "type": "e_cnvi",
+                                    "e": "芳香族化合物。",
+                                    "p_cn": "fangxiangzuhuahewu。",
+                                    "p": "fāngxiāngzúhuàhéwù。"
+                                },
+                                {
+                                    "m": "hợp chất hữu cơ.",
+                                    "p_vn": "hop chat huu co",
+                                    "_id": "8bb17f5ce92057187cb3b323004eea3f",
+                                    "id": 17817,
+                                    "type": "e_cnvi",
+                                    "e": "有机化合物。",
+                                    "p_cn": "youji huahewu",
+                                    "p": "yǒujī huàhéwù。"
+                                },
+                                {
+                                    "m": "hợp chất lưỡng tính.",
+                                    "p_vn": "hop chat luong tinh",
+                                    "_id": "e76f20637cc0220d7dde6903249bc1d1",
+                                    "id": 26082,
+                                    "type": "e_cnvi",
+                                    "e": "两性化合物。",
+                                    "p_cn": "liangxing huahewu",
+                                    "p": "liǎngxìng huàhéwù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 51
+            },
+            "snym": {
+                "syno": [
+                    "合成"
+                ],
+                "anto": [
+                    "分解",
+                    "电离"
+                ]
+            },
+            "cn_vi": "hoá hợp",
+            "pinyin": "huàhé",
+            "word": "化合",
+            "id": 24612,
+            "phonetic": "huahe",
+            "rank": 57239,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄏㄨㄛˇ",
+            "_id": "597559f8f71ee28a4e7e640dd6da1888",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kết phường; kết hội; chung vốn; hùn vốn",
+                            "explain": "(合伙儿) 合成一伙 (做某事)",
+                            "examples": [
+                                {
+                                    "m": "hùn vốn kinh doanh",
+                                    "p_vn": "hun von kinh doanh",
+                                    "_id": "2031fc342b6ded8d698afe643b748563",
+                                    "id": 16632,
+                                    "type": "e_cnvi",
+                                    "e": "合伙经营",
+                                    "p_cn": "hehuo jingying",
+                                    "p": "héhuǒ jīngyíng"
+                                },
+                                {
+                                    "m": "kết bè kết đảng làm chuyện xấu",
+                                    "p_vn": "ket be ket dang lam chuyen xau",
+                                    "_id": "a4535a771f4224c49183c429aa3833de",
+                                    "id": 16633,
+                                    "type": "e_cnvi",
+                                    "e": "合伙干坏事",
+                                    "p_cn": "hehuo gan huaishi",
+                                    "p": "héhuǒ gānhuàishì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chung đụng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 101,
+                "search": 796
+            },
+            "snym": {
+                "syno": [
+                    "搭伙",
+                    "联合",
+                    "结伙",
+                    "共同",
+                    "合资",
+                    "协同",
+                    "合股"
+                ],
+                "anto": [
+                    "拆伙",
+                    "单独",
+                    "单干",
+                    "散伙"
+                ]
+            },
+            "cn_vi": "hợp hoả",
+            "pinyin": "héhuǒ",
+            "lv_hsk_new": "6",
+            "word": "合伙",
+            "id": 22918,
+            "phonetic": "hehuo",
+            "rank": 11596,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "7, 14, 28, 41, 62, 67, 70",
+            "zhuyin": "ㄏㄜˊㄩㄝ",
+            "_id": "5be72eb44465157abe9d1e7ec333775a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hợp đồng; giao kèo",
+                            "explain": "合同 (多指条文比较简单的)",
+                            "examples": [
+                                {
+                                    "m": "Thấy hợp đồng đã nhanh chóng đàm phán thành công, đối phương đã vội vàng đưa ra những yêu cầu mới.",
+                                    "p_vn": "Thay hop dong da nhanh chong dam phan thanh cong, doi phuong da voi vang dua ra nhung yeu cau moi.",
+                                    "_id": "3e2eebcd7578886c1341748d5a0eb537",
+                                    "id": 53874,
+                                    "type": "e_cnvi",
+                                    "e": "眼看合约都快谈成了，对方却节外生枝地提出新要求。",
+                                    "p_cn": "Thay hop dong da nhanh chong dam phan thanh cong, doi phuong da voi vang dua ra nhung yeu cau moi.",
+                                    "p": "Yǎnkàn héyuē dōu kuài tán chéngle, duìfāng què jiéwàishēngzhī de tíchū xīn yāoqiú."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 118,
+                "search": 853
+            },
+            "snym": {
+                "syno": [
+                    "协约"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "héyuē",
+            "cn_vi": "hợp ước",
+            "word": "合约",
+            "id": 22968,
+            "phonetic": "heyue",
+            "rank": 11061,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "measure"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˋㄏㄜˊ",
+            "_id": "0db2a4cf20c25a876c6144241f9adc96",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "cát (1/10 thưng)",
+                            "explain": "市制容量单位，一市合等于一市升的十分之一",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "thị hợp",
+            "pinyin": "shì hé",
+            "word": "市合",
+            "id": 47419,
+            "phonetic": "shihe",
+            "rank": 126673,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄐㄧㄣˇ",
+            "_id": "1f3cac19ec48b4892025b049d67a3816",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ hợp cẩn; lễ thành hôn",
+                            "explain": "成婚 (卺是瓢，把一个匏瓜，剖成两个瓢，新郎新娘各拿一个饮酒，是旧时成婚时的一种仪式)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "☆Tương tự: hợp cẩn 合卺.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "hợp cẩn",
+            "pinyin": "héjǐn",
+            "word": "合卺",
+            "id": 22929,
+            "phonetic": "hejin",
+            "rank": 87863,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄐㄧˋ",
+            "_id": "33b2e1b2c8be2cd11f9c6b7a0b5276af",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lo toan; dự kiến; trù tính",
+                            "explain": "盘算",
+                            "examples": [
+                                {
+                                    "m": "Trong lòng anh ấy lúc nào cũng lo toan cho việc này.",
+                                    "p_vn": "trong long anh ay luc nao cung lo toan cho viec nay.",
+                                    "_id": "5c5412cf7bd9c4380a2966ea922efc8d",
+                                    "id": 16636,
+                                    "type": "e_cnvi",
+                                    "e": "他心里老合计这件事。",
+                                    "p_cn": "ta xinli lao heji zhejian shi。",
+                                    "p": "tā xīnlǐ lǎo héji zhèjiàn shì。"
+                                },
+                                {
+                                    "m": "Số người tham quan dự tính 1000 người.",
+                                    "p_vn": "so nguoi tham quan du tinh 1000 nguoi.",
+                                    "_id": "c0fb569df3556ccddfe6404866c5c0bc",
+                                    "id": 88334,
+                                    "type": "e_cnvi",
+                                    "e": "参观者合计一千人。",
+                                    "p_cn": "canguan zhe heji yiqian ren.",
+                                    "p": "cānguān zhě héjì yīqiān rén."
+                                },
+                                {
+                                    "m": "Mỗi người dự tính 20 tệ cho bữa ăn này.",
+                                    "p_vn": "moi nguoi du tinh 20 te cho bua an nay.",
+                                    "_id": "c0fb569df3556ccddfe6404866c5c969",
+                                    "id": 88335,
+                                    "type": "e_cnvi",
+                                    "e": "这餐饭合计每人20元。",
+                                    "p_cn": "zhe can fan heji mei ren 20 yuan.",
+                                    "p": "zhè cān fàn héjì měi rén 20 yuán."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bàn bạc; thương lượng; thảo luận",
+                            "explain": "商量",
+                            "examples": [
+                                {
+                                    "m": "Mọi người bàn bạc việc này nên làm như thế nào.",
+                                    "p_vn": "moi nguoi ban bac viec nay nen lam nhu the nao.",
+                                    "_id": "01622858a38f0407e5f2420154bc13fe",
+                                    "id": 16637,
+                                    "type": "e_cnvi",
+                                    "e": "大家合合计计这事该怎么办。",
+                                    "p_cn": "dajia he he ji ji zhe shi gai zenme ban.",
+                                    "p": "dàjiā hé hé ji ji zhè shì gāi zěnme bàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 85,
+                "search": 1966
+            },
+            "snym": {
+                "syno": [
+                    "以为",
+                    "共计",
+                    "总计",
+                    "算计",
+                    "累计"
+                ],
+                "anto": [
+                    "小计"
+                ]
+            },
+            "cn_vi": "hợp kế",
+            "pinyin": "héji",
+            "word": "合计",
+            "id": 22921,
+            "phonetic": "heji",
+            "rank": 5698,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄛˊㄏㄜˊ",
+            "_id": "1d054ac51b5cfdeaf8baf924da45f73b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "\"磨合\" vai trò định ngữ",
+                            "examples": [
+                                140396,
+                                140397
+                            ],
+                            "struct": "磨合 + 的 + Danh từ"
+                        },
+                        {
+                            "explain": "trợ từ kết cấu \"地\"",
+                            "examples": [
+                                140399,
+                                140400
+                            ],
+                            "struct": "不停/ 有分寸 + 地 + 磨合"
+                        },
+                        {
+                            "explain": "bổ ngữ trạng thái",
+                            "examples": [
+                                140403,
+                                140406
+                            ],
+                            "struct": "磨合 + 得 + Phó từ + Tính từ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thích nghi; hòa hợp; thấu hiểu; gắn kết; dung hòa",
+                            "explain": "比喻经过一段时间的共同经历与生活，逐渐相互适应",
+                            "examples": [
+                                {
+                                    "m": "Nhân viên mới vẫn đang thích nghi.",
+                                    "p_vn": "nhan vien moi van dang thich nghi.",
+                                    "_id": "9938873f438f99a1b005f100509a828a",
+                                    "id": 140388,
+                                    "type": "e_cnvi",
+                                    "e": "新员工还在磨合阶段。",
+                                    "p_cn": "xin yuangong hai zai mohe jieduan.",
+                                    "p": "xīn yuángōng hái zài móhé jiēduàn."
+                                },
+                                {
+                                    "m": "Họ đã trải qua một giai đoạn dung hòa.",
+                                    "p_vn": "ho da trai qua mot giai doan dung hoa.",
+                                    "_id": "9938873f438f99a1b005f100509a98b1",
+                                    "id": 140390,
+                                    "type": "e_cnvi",
+                                    "e": "他们经历了一段磨合期。",
+                                    "p_cn": "tamen jinglile yiduan mohe qi.",
+                                    "p": "tāmen jīnglìle yīduàn móhé qī."
+                                },
+                                {
+                                    "m": "Vợ chồng cần không ngừng dung hòa sau kết hôn",
+                                    "p_vn": "vo chong can khong ngung dung hoa sau ket hon",
+                                    "_id": "9938873f438f99a1b005f100509aad4c",
+                                    "id": 140393,
+                                    "type": "e_cnvi",
+                                    "e": "夫妻在婚后要不断磨合。",
+                                    "p_cn": "fuqi zai hun hou yao buduan mohe.",
+                                    "p": "fūqī zài hūn hòu yào bùduàn móhé."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tự mài dũa; ăn khớp; hòa nhịp",
+                            "explain": "新的机器使用一段时间以后，各部分接触的地方变得更加紧密，运转更加稳定的过程",
+                            "examples": [
+                                {
+                                    "m": "Thời gian ăn khớp của hai chiếc xe là rất quan trọng.",
+                                    "p_vn": "thoi gian an khop cua hai chiec xe la rat quan trong.",
+                                    "_id": "9938873f438f99a1b005f100509a7d0c",
+                                    "id": 140386,
+                                    "type": "e_cnvi",
+                                    "e": "两辆车的磨合期很重要。",
+                                    "p_cn": "liang liang che de mohe qi hen zhongyao.",
+                                    "p": "liǎng liàng chē de móhé qī hěn zhòngyào."
+                                },
+                                {
+                                    "m": "Quá trình tự mài dũa của xe mới rất quan trọng.",
+                                    "p_vn": "qua trinh tu mai dua cua xe moi rat quan trong.",
+                                    "_id": "9938873f438f99a1b005f100509aa4e4",
+                                    "id": 140391,
+                                    "type": "e_cnvi",
+                                    "e": "新车的磨合过程很重要。",
+                                    "p_cn": "xinche de mohe guocheng hen zhongyao.",
+                                    "p": "xīnchē de móhé guòchéng hěn zhòngyào."
+                                },
+                                {
+                                    "m": "Máy chạy êm hơn sau khi tự mài dũa.",
+                                    "p_vn": "may chay em hon sau khi tu mai dua.",
+                                    "_id": "9938873f438f99a1b005f100509ab711",
+                                    "id": 140395,
+                                    "type": "e_cnvi",
+                                    "e": "发动机磨合后更加顺畅。",
+                                    "p_cn": "fadongji mohe hou gengjia shunchang.",
+                                    "p": "fādòngjī móhé hòu gèngjiā shùnchàng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 135,
+                "search": 1943
+            },
+            "snym": {
+                "syno": [
+                    "跑合",
+                    "适应",
+                    "待定"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "móhé",
+            "cn_vi": "ma hợp",
+            "word": "磨合",
+            "id": 82939,
+            "phonetic": "mohe",
+            "rank": 5751,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄓㄜ˙",
+            "_id": "f0c87dfa33af5486ec787a04658a8ad9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không ngờ như thế; thì ra như vậy",
+                            "explain": "表示没想到如此;原来是这样",
+                            "examples": [
+                                {
+                                    "m": "bước chân anh ta nhún nhảy theo nhịp đòn gánh.",
+                                    "p_vn": "buoc chan anh ta nhun nhay theo nhip don ganh",
+                                    "_id": "16e4536eab0fb902991807da517d0b95",
+                                    "id": 4181,
+                                    "type": "e_cnvi",
+                                    "e": "他的脚步正合着那扁担颤悠的节拍。",
+                                    "p_cn": "ta de jiaobu zheng hezhu na biandan chan you de jiepai",
+                                    "p": "tā de jiǎobù zhèng hézhù nà biǎndan chàn you de jiépāi."
+                                },
+                                {
+                                    "m": "quây quần lại ngủ một chút đi, đừng đi qua đi lại nữa.",
+                                    "p_vn": "quay quan lai ngu mot chut di, dung di qua di lai nua.",
+                                    "_id": "7accaacb1cfe1d94287697b70e60dad5",
+                                    "id": 49327,
+                                    "type": "e_cnvi",
+                                    "e": "凑合着睡一会儿，别来回折腾了。",
+                                    "p_cn": "couhezhu shui yīhuǐ'er, bie laihui zhētengle.",
+                                    "p": "còuhézhù shuì yīhuǐ'er, bié láihuí zhētengle."
+                                },
+                                {
+                                    "m": "Bộ quần áo công nhân này còn có thể mặc tạm trong một thời gian nữa.",
+                                    "p_vn": "bo quan ao cong nhan nay con co the mac tam trong mot thoi gian nua.",
+                                    "_id": "9305d8ff412868d4d9c371d29352151a",
+                                    "id": 5880,
+                                    "type": "e_cnvi",
+                                    "e": "这件工作服还能凑合着穿些日子。",
+                                    "p_cn": "zhe jian gongzuofu hai neng couhezhu chuan xie rizi.",
+                                    "p": "zhè jiàn gōngzuòfú hái néng còuhézhù chuān xiē rìzi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 28,
+                "search": 226
+            },
+            "snym": null,
+            "cn_vi": "hợp trứ",
+            "pinyin": "hézhù",
+            "word": "合着",
+            "id": 22975,
+            "phonetic": "hezhu",
+            "rank": 26390,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧˋㄏㄜˊ",
+            "_id": "eabbe983f7f94e34bd0f97db46fe8faa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trái phiếu (trong tòa nhà)",
+                            "explain": "bond (in building)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "xế hợp",
+            "pinyin": "qì hé",
+            "word": "砌合",
+            "id": 89049,
+            "phonetic": "qihe",
+            "rank": 91744,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄕˊ",
+            "_id": "fdfb4ca6311d294822a0b08cfc753e2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hợp thời; hợp; đúng mốt; hợp thời trang",
+                            "explain": "合乎时尚;合乎时宜",
+                            "examples": [
+                                {
+                                    "m": "ăn mặc hợp thời",
+                                    "p_vn": "an mac hop thoi",
+                                    "_id": "0b59f6d338ded42d90a347227b6ed003",
+                                    "id": 16657,
+                                    "type": "e_cnvi",
+                                    "e": "穿戴合时",
+                                    "p_cn": "chuandai he shi",
+                                    "p": "chuāndài héshí"
+                                },
+                                {
+                                    "m": "nói không hợp tý nào.",
+                                    "p_vn": "noi khong hop ty nao",
+                                    "_id": "592a389c48dabc195ecbbdb21c845808",
+                                    "id": 16658,
+                                    "type": "e_cnvi",
+                                    "e": "这话说得不大合时。",
+                                    "p_cn": "zhe huashuo de bu da he shi",
+                                    "p": "zhèhuà shuō dé bùdàhéshí。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 54
+            },
+            "snym": {
+                "syno": [
+                    "当令",
+                    "适时",
+                    "应时"
+                ],
+                "anto": [
+                    "失时",
+                    "过时"
+                ]
+            },
+            "cn_vi": "hợp thì",
+            "pinyin": "hé shí",
+            "word": "合时",
+            "id": 22946,
+            "phonetic": "heshi",
+            "rank": 55936,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄅㄧㄥˋ",
+            "lv_tocfl": "5",
+            "_id": "3d66453629b27f7832105d71c136cb40",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A hợp lại thành/ sáp nhập thành B",
+                            "examples": [
+                                88333
+                            ],
+                            "struct": "A + 合并 + 成 + B"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hợp lại; hợp nhất; thống nhất; hợp lại làm một; sát nhập; sáp nhập",
+                            "explain": "结合到一起",
+                            "examples": [
+                                {
+                                    "m": "Sát nhập cơ quan.",
+                                    "p_vn": "sat nhap co quan.",
+                                    "_id": "9f3a84482f7730ccd589c7d01ce6c7ac",
+                                    "id": 16604,
+                                    "type": "e_cnvi",
+                                    "e": "合并机构。",
+                                    "p_cn": "hebing jigou",
+                                    "p": "hébìng jīgōu"
+                                },
+                                {
+                                    "m": "Ba đề nghị ấy hợp lại làm một mà thảo luận.",
+                                    "p_vn": "ba de nghi ay hop lai lam mot ma thao luan.",
+                                    "_id": "23aca45ec13e301bd931a56dc672a6c9",
+                                    "id": 16605,
+                                    "type": "e_cnvi",
+                                    "e": "这三个提议合并讨论。",
+                                    "p_cn": "zhe sange tiyi hebing taolun。",
+                                    "p": "zhè sāngè tíyì hébìng tǎolùn。"
+                                },
+                                {
+                                    "m": "Bộ phận của anh ấy sẽ hợp nhất với bộ phận của tôi.",
+                                    "p_vn": "bo phan cua anh ay se hop nhat voi bo phan cua toi.",
+                                    "_id": "c0fb569df3556ccddfe6404866c5ae52",
+                                    "id": 88332,
+                                    "type": "e_cnvi",
+                                    "e": "他的部门将和我的合并。",
+                                    "p_cn": "ta de bumen jiang he wo de hebing.",
+                                    "p": "tā de bùmén jiàng hé wǒ de hébìng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kèm theo; kéo theo; cùng phát sinh",
+                            "explain": "指正在患某种病的同时又发生 (另一种疾病)",
+                            "examples": [
+                                {
+                                    "m": "Lên sởi kéo theo viêm phổi.",
+                                    "p_vn": "len soi keo theo viem phoi.",
+                                    "_id": "7ce2f7b8187a1f59400964604be1cff9",
+                                    "id": 16606,
+                                    "type": "e_cnvi",
+                                    "e": "麻疹合并肺炎。",
+                                    "p_cn": "mazhen hebing feiyan",
+                                    "p": "mázhěn hébìng fèiyán"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 163,
+                "search": 1972
+            },
+            "snym": {
+                "syno": [
+                    "兼并",
+                    "统一",
+                    "归并",
+                    "容和",
+                    "截断"
+                ],
+                "anto": [
+                    "分头",
+                    "分割",
+                    "划分",
+                    "分裂",
+                    "分散",
+                    "分开",
+                    "分立",
+                    "裂开"
+                ]
+            },
+            "lv_hsk_new": "5, 6",
+            "pinyin": "hébìng",
+            "cn_vi": "hợp tịnh",
+            "word": "合并",
+            "id": 22895,
+            "phonetic": "hebing",
+            "rank": 5679,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, fèn",
+                "examples": "",
+                "measure": "个, 份"
+            },
+            "zhuyin": "ㄏㄜˊㄊㄨㄥˊ",
+            "topic": "41",
+            "_id": "f725fa9c0e65afc24f8b7b42c21c43a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "hành động liên quan đến hợp đồng",
+                            "examples": [
+                                82341,
+                                82343
+                            ],
+                            "struct": "Động từ + 合同"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hợp đồng; giao kèo",
+                            "explain": "两方面或几方面在办理某事时，为了确定各自的权利和义务而订立的共同遵守的条文",
+                            "examples": [
+                                {
+                                    "m": "Hợp đồng sẽ hết hạn vào ngày mai.",
+                                    "p_vn": "hop dong se het han vao ngay mai.",
+                                    "_id": "71a8f4da663cb843c22cd96cf43de798",
+                                    "id": 120782,
+                                    "type": "e_cnvi",
+                                    "e": "合同明天到期。",
+                                    "p_cn": "hetong mingtian dao qi.",
+                                    "p": "hétong míngtiān dào qī."
+                                },
+                                {
+                                    "m": "Chúng tôi cần sửa đổi hợp đồng.",
+                                    "p_vn": "chung toi can sua doi hop dong.",
+                                    "_id": "71a8f4da663cb843c22cd96cf43dfefe",
+                                    "id": 120785,
+                                    "type": "e_cnvi",
+                                    "e": "我们需要修改合同。",
+                                    "p_cn": "women xuyao xiugai hetong.",
+                                    "p": "wǒmen xūyào xiūgǎi hétong."
+                                },
+                                {
+                                    "m": "Anh ấy từ chối ký hợp đồng.",
+                                    "p_vn": "anh ay tu choi ky hop dong.",
+                                    "_id": "71a8f4da663cb843c22cd96cf43e0a21",
+                                    "id": 120786,
+                                    "type": "e_cnvi",
+                                    "e": "他拒绝签合同。",
+                                    "p_cn": "ta jujue qian hetong.",
+                                    "p": "tā jùjué qiān hétong."
+                                },
+                                {
+                                    "m": "Tôi đã ký hợp đồng.",
+                                    "p_vn": "toi da ky hop dong.",
+                                    "_id": "71a8f4da663cb843c22cd96cf43e128d",
+                                    "id": 120787,
+                                    "type": "e_cnvi",
+                                    "e": "我签了合同。",
+                                    "p_cn": "wo qianle hetong.",
+                                    "p": "wǒ qiānle hétong."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 346,
+                "search": 3293
+            },
+            "snym": {
+                "syno": [
+                    "协定",
+                    "契约",
+                    "协议",
+                    "左券",
+                    "条约",
+                    "公约"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "hétong",
+            "cn_vi": "hợp đồng",
+            "word": "合同",
+            "id": 22952,
+            "phonetic": "hetong",
+            "rank": 3622,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ba84adc8470a4afbbc849c0d599daad2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tụ hợp lại như những viên ngói xếp lên nhau, chỉ sự tụ họp không bền vững.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "ngoã hợp",
+            "pinyin": "wǎ hé",
+            "word": "瓦合",
+            "id": 168992,
+            "phonetic": "wahe",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "53",
+            "zhuyin": "ㄍㄨㄤㄏㄜˊ",
+            "_id": "0064c0ee641742249e5107a4bcd6314b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quang hợp",
+                            "explain": "photosynthesis",
+                            "examples": [
+                                {
+                                    "m": "tác dụng quang hợp",
+                                    "p_vn": "tac dung quang hop",
+                                    "_id": "fbfb78fea6322e71eeb2bc60588e5431",
+                                    "id": 53293,
+                                    "type": "e_cnvi",
+                                    "e": "光合作用",
+                                    "p_cn": "guanghe zuoyong",
+                                    "p": "guānghézuòyòng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 60
+            },
+            "snym": null,
+            "cn_vi": "quang hợp",
+            "pinyin": "guānghé",
+            "word": "光合",
+            "id": 101436,
+            "phonetic": "guanghe",
+            "rank": 53244,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄢㄏㄜˊ",
+            "_id": "059145c612f44ab1909e08349fb5a89e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dán",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 132
+            },
+            "snym": {
+                "syno": [
+                    "黏合"
+                ]
+            },
+            "cn_vi": "niêm hợp",
+            "pinyin": "nián hé",
+            "word": "粘合",
+            "id": 153548,
+            "phonetic": "nianhe",
+            "rank": 35925,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄝˋㄏㄜˊ",
+            "_id": "120a05d0f43a6025078c7097433cefde",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phù hợp",
+                            "explain": "十分符合",
+                            "examples": [
+                                {
+                                    "m": "phù hợp với thực tế.",
+                                    "p_vn": "phu hop voi thuc te",
+                                    "_id": "a670a1fb90e55a6b37fd9b1604313612",
+                                    "id": 32340,
+                                    "type": "e_cnvi",
+                                    "e": "切合实际。",
+                                    "p_cn": "qiehe shiji",
+                                    "p": "qiēhéshíjì。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thiết hợp",
+                            "explain": "切当符合",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sát",
+                            "explain": "(数量、形状、情节等) 相合",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 109
+            },
+            "snym": {
+                "syno": [
+                    "吻合",
+                    "适合",
+                    "符合",
+                    "相符",
+                    "契合",
+                    "气和"
+                ]
+            },
+            "cn_vi": "thiết hợp",
+            "pinyin": "qièhé",
+            "word": "切合",
+            "id": 42820,
+            "phonetic": "qiehe",
+            "rank": 39716,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄧㄝㄏㄜˊ",
+            "_id": "195d4617a7e619035814e34170cc94ca",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ghép lại",
+                            "explain": "使凑合在一起",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bịa đặt; đặt điều",
+                            "explain": "凭空虚造;捏造 (多见于早期白话)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 44
+            },
+            "snym": null,
+            "cn_vi": "niết hợp",
+            "pinyin": "niēhé",
+            "word": "捏合",
+            "id": 39593,
+            "phonetic": "niehe",
+            "rank": 61151,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "合"
+}

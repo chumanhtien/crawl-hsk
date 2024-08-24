@@ -1,0 +1,3278 @@
+{
+    "total": 1013,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v",
+                "measure"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨ",
+            "_id": "7d4c8cf3eeb350486260d4e0126cab0d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "bổ ngữ xu hướng",
+                            "examples": [
+                                95631,
+                                95632,
+                                95633
+                            ],
+                            "struct": "出 + 去/来"
+                        },
+                        {
+                            "explain": "bổ ngữ khả năng",
+                            "examples": [
+                                95634,
+                                95635
+                            ],
+                            "struct": "出 + 得/不 + 去/来"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                95636,
+                                95637,
+                                95638
+                            ],
+                            "struct": "出 + Tân ngữ（钱/力/主意/题目）"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                95639,
+                                95640
+                            ],
+                            "struct": "出 + Tân ngữ（错/问题/意外/事故）"
+                        },
+                        {
+                            "explain": "bổ ngữ xu hướng",
+                            "examples": [
+                                95735,
+                                95736
+                            ],
+                            "struct": "Động từ（走/跑/拿/找/搬）+ 出（+ 去/来）"
+                        },
+                        {
+                            "explain": "bổ ngữ khả năng",
+                            "examples": [
+                                95737,
+                                95738
+                            ],
+                            "struct": "Động từ（走/跑/拿/找/搬）+ 得/不 + 出 + 去/来"
+                        },
+                        {
+                            "explain": "bổ ngữ kết quả",
+                            "examples": [
+                                95739,
+                                96659
+                            ],
+                            "struct": "Động từ（看/听/认/分/猜/辨别）+ 出（ + 来）"
+                        },
+                        {
+                            "explain": "bổ ngữ khả năng",
+                            "examples": [
+                                95741,
+                                95742
+                            ],
+                            "struct": "Động từ（走/跑/拿/找/搬）+ 得/不 + 出 + 去/来"
+                        },
+                        {
+                            "explain": "bổ ngữ kết quả",
+                            "examples": [
+                                95743,
+                                95744
+                            ],
+                            "struct": "Động từ（得/提/指/想/作/做）+ 出 + Tân ngữ"
+                        },
+                        {
+                            "explain": "bổ ngữ khả năng",
+                            "examples": [
+                                95745,
+                                95746
+                            ],
+                            "struct": "Động từ（提/指/想/做）+ 得/不 + 出 + Tân ngữ"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ra; xuất",
+                            "explain": "从里面到外面",
+                            "examples": [
+                                {
+                                    "m": "Ở nhà thì dựa vào bố mẹ, ra ngoài thì dựa vào bạn bè.",
+                                    "p_vn": "o nha thi dua vao bo me, ra ngoai thi dua vao ban be.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95c816b",
+                                    "id": 94077,
+                                    "type": "e_cnvi",
+                                    "e": "在家靠父母，出门靠朋友。",
+                                    "p_cn": "zaijia kao fumu, chumen kao pengyou.",
+                                    "p": "zàijiā kào fùmǔ, chūmén kào péngyǒu."
+                                },
+                                {
+                                    "m": "Cuối cùng anh ấy cũng xuất viện rồi.",
+                                    "p_vn": "cuoi cung anh ay cung xuat vien roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95c8b42",
+                                    "id": 94078,
+                                    "type": "e_cnvi",
+                                    "e": "他终于出院了。",
+                                    "p_cn": "ta zhongyu chuyuanle.",
+                                    "p": "tā zhōngyú chūyuànle."
+                                },
+                                {
+                                    "m": "Bạn đi ra ngoài đi!",
+                                    "p_vn": "ban di ra ngoai di!",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c696463",
+                                    "id": 110738,
+                                    "type": "e_cnvi",
+                                    "e": "你出去吧！",
+                                    "p_cn": "ni chuqu ba!",
+                                    "p": "nǐ chūqù ba!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đến",
+                            "explain": "来到",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy vừa ra sân khẩu, mọi người liền bắt đầu hoan hô.",
+                                    "p_vn": "anh ay vua ra san khau, moi nguoi lien bat dau hoan ho.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95cc369",
+                                    "id": 94084,
+                                    "type": "e_cnvi",
+                                    "e": "他一出场，大家就欢呼起来了。",
+                                    "p_cn": "ta yi chuchang, dajia jiu huanhu qilaile.",
+                                    "p": "tā yī chūchǎng, dàjiā jiù huānhū qǐláile."
+                                },
+                                {
+                                    "m": "Cuộc họp lần này có rất nhiều người đến tham gia.",
+                                    "p_vn": "cuoc hop lan nay co rat nhieu nguoi den tham gia.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6999fe",
+                                    "id": 110743,
+                                    "type": "e_cnvi",
+                                    "e": "这次会议有很多人来出席。",
+                                    "p_cn": "zhe ci huiyi you henduo ren lai chuxi.",
+                                    "p": "zhè cì huìyì yǒu hěnduō rén lái chūxí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vượt ra ngoài; vượt quá; quá độ; hơn; vượt; trội hơn",
+                            "explain": "超出，高出",
+                            "examples": [
+                                {
+                                    "m": "Bóng ra ngoài đường biên rồi.",
+                                    "p_vn": "bong ra ngoai duong bien roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95cba29",
+                                    "id": 94083,
+                                    "type": "e_cnvi",
+                                    "e": "球出界了。",
+                                    "p_cn": "qiu chujiele.",
+                                    "p": "qiú chūjièle."
+                                },
+                                {
+                                    "m": "Anh ấy học tập xuất sắc hơn người.",
+                                    "p_vn": "anh ay hoc tap xuat sac hon nguoi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c69df80",
+                                    "id": 110746,
+                                    "type": "e_cnvi",
+                                    "e": "他学习出人头地。",
+                                    "p_cn": "ta xuexi churentoudi.",
+                                    "p": "tā xuéxí chūréntóudì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đưa ra",
+                            "explain": "往外拿",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đưa ra một ý tưởng hay.",
+                                    "p_vn": "anh ay dua ra mot y tuong hay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95cc946",
+                                    "id": 94085,
+                                    "type": "e_cnvi",
+                                    "e": "他出了一个好主意。",
+                                    "p_cn": "ta chule yige hao zhuyi.",
+                                    "p": "tā chūle yīgè hǎo zhǔyì."
+                                },
+                                {
+                                    "m": "Mọi người có người ra tiền, có người ra sức.",
+                                    "p_vn": "moi nguoi co nguoi ra tien, co nguoi ra suc.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95cc981",
+                                    "id": 94086,
+                                    "type": "e_cnvi",
+                                    "e": "大家有的出钱，有的出力。",
+                                    "p_cn": "dajia you de chu qian, you de chuli.",
+                                    "p": "dàjiā yǒu de chū qián, yǒu de chūlì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nảy sinh",
+                            "explain": "发生",
+                            "examples": [
+                                {
+                                    "m": "Trang web này xảy ra lỗi rồi.",
+                                    "p_vn": "trang web nay xay ra loi roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95cf0ad",
+                                    "id": 94089,
+                                    "type": "e_cnvi",
+                                    "e": "这个网页出错了。",
+                                    "p_cn": "zhege wangye chucuole.",
+                                    "p": "zhège wǎngyè chūcuòle."
+                                },
+                                {
+                                    "m": "Máy tính của tôi hình như có vấn đề rồi.",
+                                    "p_vn": "may tinh cua toi hinh nhu co van de roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95cf38a",
+                                    "id": 94090,
+                                    "type": "e_cnvi",
+                                    "e": "我的电脑好像出问题了。",
+                                    "p_cn": "wo de diannao haoxiang chu wentile.",
+                                    "p": "wǒ de diànnǎo hǎoxiàng chū wèntíle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sản xuất ra; sản sinh ra; nảy; đổ; tiết; phát ra",
+                            "explain": "发出;发泄;发散",
+                            "examples": [
+                                {
+                                    "m": "Vào mùa xuân, cây cối bắt đầu đâm chồi.",
+                                    "p_vn": "vao mua xuan, cay coi bat dau dam choi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6a03e9",
+                                    "id": 110750,
+                                    "type": "e_cnvi",
+                                    "e": "春天植物开始出芽儿。",
+                                    "p_cn": "chuntian zhiwu kaishi chuyar.",
+                                    "p": "chūntiān zhíwù kāishǐ chūyár."
+                                },
+                                {
+                                    "m": "Tôi đã ra rất nhiều mồ hôi.",
+                                    "p_vn": "toi da ra rat nhieu mo hoi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6a1151",
+                                    "id": 110751,
+                                    "type": "e_cnvi",
+                                    "e": "我出了很多汗。",
+                                    "p_cn": "wo chule henduo han.",
+                                    "p": "wǒ chūle hěnduō hàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lộ ra; xuất hiện; trình diện; ra mắt; lòi; xuất; lộ; nổi",
+                            "explain": "显露;出现",
+                            "examples": [
+                                {
+                                    "m": "Xin bạn đứng ra giải quyết vấn đề này.",
+                                    "p_vn": "xin ban dung ra giai quyet van de nay.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6a3a32",
+                                    "id": 110755,
+                                    "type": "e_cnvi",
+                                    "e": "请你出面解决这个问题。",
+                                    "p_cn": "qing ni chumian jiejue zhege wenti.",
+                                    "p": "qǐng nǐ chūmiàn jiějué zhège wèntí."
+                                },
+                                {
+                                    "m": "Cô ấy giận rồi, cần tìm ai đó để trút giận.",
+                                    "p_vn": "co ay gian roi, can tim ai do de trut gian.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6a474c",
+                                    "id": 110756,
+                                    "type": "e_cnvi",
+                                    "e": "她生气了，需要找个人出气。",
+                                    "p_cn": "ta shengqile, xuyao zhao geren chuqi.",
+                                    "p": "tā shēngqìle, xūyào zhǎo gèrén chūqì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dôi ra; dôi; nở; dư",
+                            "explain": "显得量多",
+                            "examples": [
+                                {
+                                    "m": "Gạo xay bằng máy, cơm nấu nở nhiều.",
+                                    "p_vn": "gao xay bang may, com nau no nhieu.",
+                                    "_id": "3609a27bc7517104f57fbc1397ad0355",
+                                    "id": 5181,
+                                    "type": "e_cnvi",
+                                    "e": "机米做饭出饭。",
+                                    "p_cn": "ji mi zuofan chu fan。",
+                                    "p": "jī mǐ zuòfàn chū fàn。"
+                                },
+                                {
+                                    "m": "Lồng màn thầu này dư ra một số.",
+                                    "p_vn": "long man thau nay du ra mot so.",
+                                    "_id": "322a765bfcd2464a78cff9e80beb03c8",
+                                    "id": 5182,
+                                    "type": "e_cnvi",
+                                    "e": "这面蒸馒头出数儿。",
+                                    "p_cn": "zhemian zheng mantou chushur。",
+                                    "p": "zhèmiàn zhēng mántóu chūshùr。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chi ra",
+                            "explain": "支出",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã học được cách chi tiêu hợp lý.",
+                                    "p_vn": "anh ay da hoc duoc cach chi tieu hop ly.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6a5733",
+                                    "id": 110757,
+                                    "type": "e_cnvi",
+                                    "e": "他学会了量入为出的方法。",
+                                    "p_cn": "ta xuehuile liangruweichu de fangfa.",
+                                    "p": "tā xuéhuìle liàngrùwéichū de fāngfǎ."
+                                },
+                                {
+                                    "m": "Chi tiêu tháng này vượt quá ngân sách.",
+                                    "p_vn": "chi tieu thang nay vuot qua ngan sach.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6a59ec",
+                                    "id": 110758,
+                                    "type": "e_cnvi",
+                                    "e": "这个月的支出超过了预算。",
+                                    "p_cn": "zhege yue de zhichu chaoguole yusuan.",
+                                    "p": "zhège yuè de zhīchū chāoguòle yùsuàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xuất bản; ban bố; công bố",
+                            "explain": "出版;张贴出",
+                            "examples": [
+                                {
+                                    "m": "Quyển từ điển này do nhà xuất bản nào xuất bản.",
+                                    "p_vn": "quyen tu dien nay do nha xuat ban nao xuat ban.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95d3616",
+                                    "id": 94101,
+                                    "type": "e_cnvi",
+                                    "e": "这本字典是哪家出版社出的?",
+                                    "p_cn": "zhe ben zidian shi na jia chuban she chu de?",
+                                    "p": "zhè běn zìdiǎn shì nǎ jiā chūbǎn shè chū de?"
+                                },
+                                {
+                                    "m": "Họ đang chuẩn bị xuất bản sách.",
+                                    "p_vn": "ho dang chuan bi xuat ban sach.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6a74e8",
+                                    "id": 110761,
+                                    "type": "e_cnvi",
+                                    "e": "他们在准备出书。",
+                                    "p_cn": "tamen zai zhunbei chu shu.",
+                                    "p": "tāmen zài zhǔnbèi chū shū."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lấy chồng; xuất giá",
+                            "explain": "出嫁",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy ngày mai phải xuất giá rồi.",
+                                    "p_vn": "co ay ngay mai phai xuat gia roi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6aa039",
+                                    "id": 110767,
+                                    "type": "e_cnvi",
+                                    "e": "她明天就要出门子了。",
+                                    "p_cn": "ta mingtian jiu yao chumen zile.",
+                                    "p": "tā míngtiān jiù yào chūmén zile."
+                                },
+                                {
+                                    "m": "Ngày chị gái lấy chồng, cả nhà đều rất vui.",
+                                    "p_vn": "ngay chi gai lay chong, ca nha deu rat vui.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6aa05f",
+                                    "id": 110768,
+                                    "type": "e_cnvi",
+                                    "e": "姐姐出嫁的那天，全家人都很开心。",
+                                    "p_cn": "jiejie chujia de neitian, quanjia ren dou hen kaixin.",
+                                    "p": "jiějiě chūjià de nèitiān, quánjiā rén dōu hěn kāixīn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sản xuất",
+                            "explain": "出产；产生",
+                            "examples": [
+                                {
+                                    "m": "Vân Nam, Tứ Xuyên sản xuất gỗ Nam Mộc.",
+                                    "p_vn": "van nam, tu xuyen san xuat go nam moc.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95dae36",
+                                    "id": 94107,
+                                    "type": "e_cnvi",
+                                    "e": "云南、四川出楠木。",
+                                    "p_cn": "yunnan, sichuan chu nanmu.",
+                                    "p": "yúnnán, sìchuān chū nánmù."
+                                },
+                                {
+                                    "m": "Đông bắc sản xuất gạo.",
+                                    "p_vn": "dong bac san xuat gao.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95d0355",
+                                    "id": 94091,
+                                    "type": "e_cnvi",
+                                    "e": "东北出大米。",
+                                    "p_cn": "dongbei chu dami.",
+                                    "p": "dōngběi chū dàmǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sinh nở; đẻ; sinh sản; sinh",
+                            "explain": "出生;生育",
+                            "examples": [
+                                {
+                                    "m": "Tớ sinh năm 2002.",
+                                    "p_vn": "to sinh nam 2002.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6ab8b6",
+                                    "id": 110770,
+                                    "type": "e_cnvi",
+                                    "e": "我出生于2002年。",
+                                    "p_cn": "wo chusheng yu 2002 nian.",
+                                    "p": "wǒ chūshēng yú 2002 nián."
+                                },
+                                {
+                                    "m": "Con gà này vừa mới chào đời.",
+                                    "p_vn": "con ga nay vua moi chao doi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6abe8e",
+                                    "id": 110771,
+                                    "type": "e_cnvi",
+                                    "e": "这只小鸡刚刚出胎。",
+                                    "p_cn": "zhe zhi xiao ji ganggang chu tai.",
+                                    "p": "zhè zhǐ xiǎo jī gānggāng chū tāi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "li dị; từ bỏ; bỏ rơi; ruồng bỏ",
+                            "explain": "遗弃;体弃",
+                            "examples": [
+                                {
+                                    "m": "người đàn bà bị ruồng rẫy",
+                                    "p_vn": "nguoi dan ba bi ruong ray",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a1cc3a",
+                                    "id": 95564,
+                                    "type": "e_cnvi",
+                                    "e": "出妇 (被丈夫休弃的妇女)",
+                                    "p_cn": "chu fu (bei zhangfu xiu qi de funǚ).",
+                                    "p": "chū fù (bèi zhàngfū xiū qì de fùnǚ)."
+                                },
+                                {
+                                    "m": "người vợ đã li dị",
+                                    "p_vn": "nguoi vo da li di",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a1d41b",
+                                    "id": 95565,
+                                    "type": "e_cnvi",
+                                    "e": "出弃 (休弃妻子)",
+                                    "p_cn": "chu qi (xiu qi qizi).",
+                                    "p": "chū qì (xiū qì qīzi)."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giết; hành quyết; xử trảm",
+                            "explain": "杀;出决",
+                            "examples": [
+                                {
+                                    "m": "Người này sẽ bị hành quyết.",
+                                    "p_vn": "nguoi nay se bi hanh quyet.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6b0653",
+                                    "id": 110778,
+                                    "type": "e_cnvi",
+                                    "e": "这个人要被出人。",
+                                    "p_cn": "zhege ren yao bei chu ren.",
+                                    "p": "zhège rén yào bèi chū rén."
+                                },
+                                {
+                                    "m": "Họ sẽ hành quyết phạm nhân vào ngày mai.",
+                                    "p_vn": "ho se hanh quyet pham nhan vao ngay mai.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6b0e73",
+                                    "id": 110779,
+                                    "type": "e_cnvi",
+                                    "e": "他们将在明天出公事。",
+                                    "p_cn": "tamen jiang zai mingtian chu gongshi.",
+                                    "p": "tāmen jiàng zài míngtiān chū gōngshì."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "hồi; chương; tuồng (một đoạn dài trong chuyện truyền kỳ); vở (kịch, tuồng); tấn",
+                            "explain": "一本传奇中的一个大段落叫一出戏曲的一个独立剧目也叫一出",
+                            "examples": [
+                                {
+                                    "m": "Ba vở tuồng.",
+                                    "p_vn": "ba vo tuong.",
+                                    "_id": "5ea3b2e7a290cc5e2050a6429428e156",
+                                    "id": 5198,
+                                    "type": "e_cnvi",
+                                    "e": "三出戏。",
+                                    "p_cn": "sanchu xi。",
+                                    "p": "sānchū xì。"
+                                },
+                                {
+                                    "m": "Trong dịp Tết, đã có nhiều vở kịch mới được trình diễn.",
+                                    "p_vn": "trong dip tet, da co nhieu vo kich moi duoc trinh dien.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a37d7b",
+                                    "id": 95598,
+                                    "type": "e_cnvi",
+                                    "e": "春节期间，上演了好几出新戏。",
+                                    "p_cn": "chunjie qijian, shangyanle haoji chu xin xi.",
+                                    "p": "chūnjié qíjiān, shàngyǎnle hǎojǐ chū xīn xì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 411,
+                "search": 20131
+            },
+            "snym": {
+                "anto": [
+                    "入",
+                    "没",
+                    "纳",
+                    "落",
+                    "进"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "chū",
+            "cn_vi": "xuất",
+            "word": "出",
+            "id": 8182,
+            "phonetic": "chu",
+            "rank": 276,
+            "lv_tocfl": 2,
+            "compound": "出版 ; 出版社 ; 出版物 ; 出版者 ; 出榜 ; 出奔 ; 出殡 ; 出兵 ; 出操 ; 出岔子 ; 出差 ; 出产 ; 出厂 ; 出场 ; 出超 ; 出车 ; 出乘 ; 出丑 ; 出处 ; 出错 ; 出倒 ; 出典 ; 出点子 ; 出店 ; 出顶 ; 出动 ; 出尔反尔 ; 出发 ; 出发点 ; 出饭 ; 出访 ; 出份子 ; 出风头 ; 出伏 ; 出港 ; 出阁 ; 出格 ; 出工 ; 出恭 ; 出官 ; 出轨 ; 出国 ; 出海 ; 出汗 ; 出航 ; 出号 ; 出乎意料 ; 出活 ; 出击 ; 出继 ; 出家 ; 出家人 ; 出价 ; 出嫁 ; 出尖 ; 出借 ; 出界 ; 出境 ; 出局 ; 出科 ; 出口 ; 出口成章 ; 出来 ; 出来拔萃 ; 出类拔萃 ; 出力 ; 出列 ; 出猎 ; 出溜 ; 出笼 ; 出漏子 ; 出路 ; 出乱子 ; 出落 ; 出马 ; 出卖 ; 出毛病 ; 出门 ; 出门子 ; 出面 ; 出苗 ; 出名 ; 出没 ; 出谋划策 ; 出纳 ; 出盘 ; 出品 ; 出奇 ; 出其不意 ; 出奇制胜 ; 出气 ; 出气筒 ; 出勤 ; 出去 ; 出圈儿 ; 出缺 ; 出让 ; 出人命 ; 出人头地 ; 出人意料 ; 出任 ; 出入 ; 出赛 ; 出塞 ; 出丧 ; 出色 ; 出山 ; 出身 ; 出神 ; 出神入化 ; 出声 ; 出生 ; 出生率 ; 出生入死 ; 出师 ; 出使 ; 出世 ; 出世作 ; 出仕 ; 出事 ; 出示 ; 出手 ; 出首 ; 出售 ; 出水 ; 出水芙蓉 ; 出数儿 ; 出台 ; 出逃 ; 出题 ; 出挑 ; 出粜 ; 出庭 ; 出头 ; 出头露面 ; 出头鸟 ; 出土 ; 出土文物 ; 出脱 ; 出外 ; 出亡 ; 出息 ; 出席 ; 出险 ; 出现 ; 出线 ; 出项 ; 出新 ; 出行 ; 出血 ; 出巡 ; 出牙 ; 出芽 ; 出芽生殖 ; 出言 ; 出言不逊 ; 出演 ; 出洋 ; 出洋相 ; 出迎 ; 出游 ; 出狱 ; 出院 ; 出月 ; 出战 ; 出帐 ; 出蜇 ; 出诊 ; 出阵 ; 出征 ; 出证 ; 出众 ; 出资 ; 出走 ; 出租汽车"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2265587bfd0f48599330ed1871ca458c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khoản tiền chưa xuất",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "xuất khoản vị xuất",
+            "pinyin": "chū kuǎn wèi chū",
+            "word": "出款未出",
+            "id": 159020,
+            "phonetic": "chukuanweichu",
+            "rank": 117827,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄐㄧㄣˋㄔㄨㄔㄨ",
+            "_id": "e1c22bf1aeb2439abe4aa72b6ee45ecc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Đi ra đi vào",
+                            "explain": "进进出出：汉语词汇",
+                            "examples": [
+                                {
+                                    "m": "Anh ta bận lên bận xuống, đi ra đi vào.",
+                                    "p_vn": "Anh ta ban len ban xuong, di ra di vao.",
+                                    "_id": "db304e930b3748129d781f45d336785e",
+                                    "id": 56067,
+                                    "type": "e_cnvi",
+                                    "e": "他一个人忙里忙外,进进出出。",
+                                    "p_cn": "Ta yige ren mang li mang wai, jin jinchu chu.",
+                                    "p": "Tā yīgè rén máng lǐ máng wài, jìn jìnchū chū."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thì thọt",
+                            "explain": "往来出入",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 58
+            },
+            "snym": {
+                "syno": [
+                    "连绵不断",
+                    "出出进进"
+                ]
+            },
+            "cn_vi": "tiến tiến xuất xuất",
+            "pinyin": "jìn jìnchū chū",
+            "word": "进进出出",
+            "id": 85420,
+            "phonetic": "jinjinchuchu",
+            "rank": 53965,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄈㄚ",
+            "_id": "c68ac433e380101a240324b3c686f1c3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "từ A xuất phát đến B",
+                            "examples": [
+                                128372,
+                                128373
+                            ],
+                            "struct": "从+ A+ 出发 (+ 去+ B)"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                128374,
+                                128375,
+                                128376
+                            ],
+                            "struct": "立即/分头/匆匆/再次+出发"
+                        },
+                        {
+                            "explain": "làm cái gì từ ...",
+                            "examples": [
+                                128379,
+                                128380,
+                                128381
+                            ],
+                            "struct": "从+ Danh từ (实际/利益/大局/…的角度) + 出发"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuất phát; ra đi; rời",
+                            "explain": "离开原来所在的地方到别的地方去",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi sẽ xuất phát vào sáng mai.",
+                                    "p_vn": "chung toi se xuat phat vao sang mai.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5716da747",
+                                    "id": 128346,
+                                    "type": "e_cnvi",
+                                    "e": "我们明天早上出发。",
+                                    "p_cn": "women mingtian zaoshang chufa.",
+                                    "p": "wǒmen míngtiān zǎoshang chūfā."
+                                },
+                                {
+                                    "m": "Cô ấy đã xuất phát đến sân bay.",
+                                    "p_vn": "co ay da xuat phat den san bay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5716daf21",
+                                    "id": 128347,
+                                    "type": "e_cnvi",
+                                    "e": "她已经出发去机场。",
+                                    "p_cn": "ta yijing chufa qu jichang.",
+                                    "p": "tā yǐjīng chūfā qù jīchǎng."
+                                },
+                                {
+                                    "m": "Chúng tôi xuất phát từ Bắc Kinh.",
+                                    "p_vn": "chung toi xuat phat tu bac kinh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5716db526",
+                                    "id": 128348,
+                                    "type": "e_cnvi",
+                                    "e": "我们从北京出发。",
+                                    "p_cn": "women cong beijing chufa.",
+                                    "p": "wǒmen cóng běijīng chūfā."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xuất phát; bắt nguồn",
+                            "explain": "考虑或处理问题时以某一方面为起点",
+                            "examples": [
+                                {
+                                    "m": "Công việc của chúng ta phải xuất phát thực tế.",
+                                    "p_vn": "cong viec cua chung ta phai xuat phat thuc te.",
+                                    "_id": "5f1adf3e4794a18d885701d1a3ae93bb",
+                                    "id": 81204,
+                                    "type": "e_cnvi",
+                                    "e": "我们的工作要从实际出发。",
+                                    "p_cn": "women de gongzuo yao cong shiji chufa.",
+                                    "p": "wǒmen de gōngzuò yào cóng shíjì chūfā."
+                                },
+                                {
+                                    "m": "Nghiên cứu bắt đầu từ nhu cầu thị trường.",
+                                    "p_vn": "nghien cuu bat dau tu nhu cau thi truong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5716dd9b0",
+                                    "id": 128351,
+                                    "type": "e_cnvi",
+                                    "e": "研究从市场需求出发。",
+                                    "p_cn": "yanjiu cong shichang xuqiu chufa.",
+                                    "p": "yánjiū cóng shìchǎng xūqiú chūfā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"出发\" và \"动身\" đều diễn tả hành động rời khỏi địa điểm ban đầu đến một địa điểm khác.\nKhác:\n- \"动身\" thường dùng nhiều cho người, \"出发\" có thể dùng cho người cũng có thể dùng cho xe,thuyền, ngựa...; \"出发\" ngoài có ý nghĩa là \"动身\" ra còn thể hiện ý nghĩa là xem xét điểm bắt đầu của vấn đề.",
+                    "title": "Phân biệt \"出发\" và \"动身\"",
+                    "words": [
+                        "出发",
+                        "动身"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "到达"
+                ],
+                "syno": [
+                    "动身",
+                    "启程",
+                    "起程"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "chūfā",
+            "cn_vi": "xuất phát",
+            "popularity": {
+                "notebook": 561,
+                "search": 5824
+            },
+            "word": "出发",
+            "id": 8210,
+            "phonetic": "chufa",
+            "rank": 2031,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄒㄧㄣ",
+            "_id": "35a02e692eacc6977ba01d068d944a01",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bước phát triển mới; bước tiến mới",
+                            "explain": "文学艺术上指旧有的事物得到新发展",
+                            "examples": [
+                                {
+                                    "m": "Thấy hợp đồng đã nhanh chóng đàm phán thành công, đối phương đã vội vàng đưa ra những yêu cầu mới.",
+                                    "p_vn": "Thay hop dong da nhanh chong dam phan thanh cong, doi phuong da voi vang dua ra nhung yeu cau moi.",
+                                    "_id": "3e2eebcd7578886c1341748d5a0eb537",
+                                    "id": 53874,
+                                    "type": "e_cnvi",
+                                    "e": "眼看合约都快谈成了，对方却节外生枝地提出新要求。",
+                                    "p_cn": "Thay hop dong da nhanh chong dam phan thanh cong, doi phuong da voi vang dua ra nhung yeu cau moi.",
+                                    "p": "Yǎnkàn héyuē dōu kuài tán chéngle, duìfāng què jiéwàishēngzhī de tíchū xīn yāoqiú."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 105
+            },
+            "snym": {
+                "anto": [
+                    "守旧"
+                ]
+            },
+            "cn_vi": "xuất tân",
+            "pinyin": "chū xīn",
+            "word": "出新",
+            "id": 8332,
+            "phonetic": "chuxin",
+            "rank": 40557,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄡㄔㄨ",
+            "_id": "463b6eb5b26e44a69480dbcb911b4f19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để giải nen",
+                            "explain": "to extract",
+                            "examples": [
+                                {
+                                    "m": "Cảm ơn các vị lãnh đạo dù bận trăm công ngàn việc vẫn  giành thời gian quý báu tới kiểm tra quá trình đào tạo của chúng tôi. Trong những ngày ngắn ngủi này, chúng tôi cảm nhận được sự quan tâm và hỗ trợ của các lãnh đạo dành cho chúng tôi.",
+                                    "p_vn": "Cam on cac vi lanh dao du ban tram cong ngan viec van  gianh thoi gian quy bau toi kiem tra qua trinh dao tao cua chung toi. Trong nhung ngay ngan ngui nay, chung toi cam nhan duoc su quan tam va ho tro cua cac lanh dao danh cho chung toi.",
+                                    "_id": "b95f83d3a44e4b3ea96b1ebd3afb4bd4",
+                                    "id": 63447,
+                                    "type": "e_cnvi",
+                                    "e": "感谢领导们在百忙之中抽出宝贵的时间来检查我们的培训，在这短短的几天里，我们感受到了领导们对我们的关心和支持。",
+                                    "p_cn": "Ganxie lingdaomen zai bai mang zhi zhong chouchu baogui de shijian lai jiancha women de peixun, zai zhe duan duan de ji tian li, women ganshou daole lingdaomen dui women de guanxin he zhichi.",
+                                    "p": "Gǎnxiè lǐngdǎomen zài bǎi máng zhī zhōng chōuchū bǎoguì de shíjiān lái jiǎnchá wǒmen de péixùn, zài zhè duǎn duǎn de jǐ tiān lǐ, wǒmen gǎnshòu dàole lǐngdǎomen duì wǒmen de guānxīn hé zhīchí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lấy cái gì đó",
+                            "explain": "to take out",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 43,
+                "search": 901
+            },
+            "snym": null,
+            "cn_vi": "trừu xuất",
+            "pinyin": "chōuchū",
+            "word": "抽出",
+            "id": 103083,
+            "phonetic": "chouchu",
+            "rank": 10634,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄍㄨㄟˋ",
+            "_id": "5c79b31e5b44b15ca0bd49632724daef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "comeout (giới tính)",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Sau khi xem chương trình này, họ đã tìm thấy dũng khí để là chính mình.",
+                                    "p_vn": "Sau khi xem chuong trinh nay, ho da tim thay dung khi de la chinh minh.",
+                                    "_id": "5731461ba2ea44e36a858e5e29e2cd40",
+                                    "id": 54409,
+                                    "type": "e_cnvi",
+                                    "e": "看了这部剧后，她们找到勇气去出柜。",
+                                    "p_cn": "Kanle zhe bu ju hou, tamen zhaodao yongqi qu chu gui.",
+                                    "p": "Kànle zhè bù jù hòu, tāmen zhǎodào yǒngqì qù chū guì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 275
+            },
+            "snym": null,
+            "cn_vi": "xuất quỹ",
+            "pinyin": "chū guì",
+            "word": "出柜",
+            "id": 83654,
+            "phonetic": "chugui",
+            "rank": 23397,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "13",
+            "zhuyin": "ㄓˇㄔㄨ",
+            "_id": "5b071a9e27d61967aff784c5462613a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Chỉ ra",
+                            "explain": "提出论点看法。如：他指出，我们一定要为如期完成全书的编写任务而竭尽全力。",
+                            "examples": [
+                                {
+                                    "m": "Chỉ ra sự phân biệt giới tính của anh ấy.",
+                                    "p_vn": "chi ra su phan biet gioi tinh cua anh ay.",
+                                    "_id": "0d1c34224d2f4bff9da728cb43cf6f49",
+                                    "id": 67140,
+                                    "type": "e_cnvi",
+                                    "e": "指出他性别歧视",
+                                    "p_cn": "zhichu ta xingbieqishi",
+                                    "p": "zhǐchū tā xìngbiéqíshì"
+                                },
+                                {
+                                    "m": "chỉ ra khuyết điểm; chỉ ra sai lầm.",
+                                    "p_vn": "chi ra khuyet diem; chi ra sai lam.",
+                                    "_id": "2fbd7c06f1ffe034d3b2c827924a8e04",
+                                    "id": 7082,
+                                    "type": "e_cnvi",
+                                    "e": "弹射利病(指出缺点错误)。",
+                                    "p_cn": "tanshe li bing (zhichu quedian cuowu).",
+                                    "p": "tánshè lì bìng (zhǐchū quēdiǎn cuòwù)."
+                                },
+                                {
+                                    "m": "không thể chỉ ngay ra được.",
+                                    "p_vn": "khong the chi ngay ra duoc.",
+                                    "_id": "61bba477a5235c50efff9d6ae4341cc1",
+                                    "id": 27221,
+                                    "type": "e_cnvi",
+                                    "e": "不能偻指(不能立刻指出来)",
+                                    "p_cn": "buneng lǚ zhi (buneng like zhichu lai)",
+                                    "p": "bùnéng lǚ zhǐ (bùnéng lìkè zhǐchū lái)"
+                                },
+                                {
+                                    "m": "chỉ ra phương hướng đúng đắn.",
+                                    "p_vn": "chi ra phuong huong dung dan",
+                                    "_id": "b64a9671ce8639816c2eb75f5d91b334",
+                                    "id": 50375,
+                                    "type": "e_cnvi",
+                                    "e": "指出正确方向。",
+                                    "p_cn": "zhichu zhengque fangxiang",
+                                    "p": "zhǐchū zhèngquèfāngxiàng。"
+                                },
+                                {
+                                    "m": "Một trang web của Hàn Quốc đã chỉ ra rằng mỹ nữ A, tên thật là Lí Nghệ Chi  là một hot girl ảnh mạng rất nổi tiếng hồi tháng 7 năm ngoái.",
+                                    "p_vn": "mot trang web cua han quoc da chi ra rang my nu a, ten that la li nghe chi  la mot hot girl anh mang rat noi tieng hoi thang 7 nam ngoai.",
+                                    "_id": "d75280572cd3431b95268d6c90ebc846",
+                                    "id": 68725,
+                                    "type": "e_cnvi",
+                                    "e": "韩国网站指出A女本名叫李艺芝,是一名高人气网络美女,网友不只查出她身家资料,还找到去年七月她赴水上乐园戏水的影片。",
+                                    "p_cn": "hanguo wangzhan zhichu a nǚ benming jiao liyizhi, shi yi ming gao renqi wangluo meinǚ, wangyou buzhi cha chu ta shenjia ziliao, hai zhaodao qunian qi yue ta fu shuishang leyuan xi shui de yingpian.",
+                                    "p": "Hánguó wǎngzhàn zhǐchū A nǚ běnmíng jiào lǐyìzhī, shì yī míng gāo rénqì wǎngluò měinǚ, wǎngyǒu bùzhǐ chá chū tā shēnjiā zīliào, hái zhǎodào qùnián qī yuè tā fù shuǐshàng lèyuán xì shuǐ de yǐngpiàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vạch",
+                            "explain": "使隐蔽的事物显露",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 146,
+                "search": 1109
+            },
+            "snym": {
+                "syno": [
+                    "提出",
+                    "点明"
+                ]
+            },
+            "lv_hsk_new": "3",
+            "pinyin": "zhǐchū",
+            "cn_vi": "chỉ xuất",
+            "word": "指出",
+            "id": 70917,
+            "phonetic": "zhichu",
+            "rank": 9053,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sv",
+                "adj",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄇㄧㄥˊ",
+            "_id": "73bcf8255d738be8faa777400d313198",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "nổi danh; nổi tiếng; có tiếng tăm; được nhiều người biết đến; rạng danh; nức tiếng",
+                            "explain": "有名声;名字为大家所熟知",
+                            "examples": [
+                                {
+                                    "m": "anh ấy là người sản xuất tiên tiến nổi tiếng trong nhà máy chúng tôi.",
+                                    "p_vn": "anh ay la nguoi san xuat tien tien noi tieng trong nha may chung toi",
+                                    "_id": "5891d5e3b33596bb12955281d7d58ed8",
+                                    "id": 5259,
+                                    "type": "e_cnvi",
+                                    "e": "他是我们厂里出名的先进生产者。",
+                                    "p_cn": "ta shi women chang li chuming de xianjin shengchan zhe",
+                                    "p": "tā shì wǒmen chǎnglǐ chūmíng de xiānjìn shēngchǎnzhě。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đứng ra; đại diện; lấy danh nghĩa",
+                            "explain": "(出名儿) 出面",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đứng tên",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"出名\" và \"有名\" đều có thể dùng để hình dung người, cũng có thể là sự vật khác.\n- Hai từ này có thể làm vị ngữ và định ngữ, khi làm định ngữ phải đi kèm với \"的\".\n- Vì đều là kết cấu động tân, còn có thể tách ra để sử dụng, ở giữa có thể thêm thành phần khác vào.",
+                    "title": "Phân biệt \"出名\" và \"有名\"",
+                    "words": [
+                        "出名",
+                        "有名"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "闻名",
+                    "着名",
+                    "知名",
+                    "著名",
+                    "驰名",
+                    "有名",
+                    "成名"
+                ],
+                "anto": [
+                    "埋没"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "chūmíng",
+            "cn_vi": "xuất danh",
+            "popularity": {
+                "notebook": 100,
+                "search": 1261
+            },
+            "word": "出名",
+            "id": 8266,
+            "phonetic": "chuming",
+            "rank": 8152,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄔㄨ",
+            "_id": "752aa4a4a349f04cfae21a3924b77e0e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ra vào",
+                            "explain": "进来和出去",
+                            "examples": [
+                                {
+                                    "m": "bảy tám nhà ở đây đều ra vào ở cửa này.",
+                                    "p_vn": "bay tam nha o day deu ra vao o cua nay",
+                                    "_id": "1d36ecad82ea3e3c4983f19fad20a0b4",
+                                    "id": 21601,
+                                    "type": "e_cnvi",
+                                    "e": "住在这里的七八家都由这个门进出。",
+                                    "p_cn": "zhu zai zheli de qiba jia dou you zhege men jinchu",
+                                    "p": "zhù zài zhèlǐ de qībā jiā dōu yóu zhège mén jìnchū."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thu chi; số thu và số chi",
+                            "explain": "收入和支出",
+                            "examples": [
+                                {
+                                    "m": "cửa hàng này mỗi ngày thu chi đến vài nghìn đồng.",
+                                    "p_vn": "cua hang nay moi ngay thu chi den vai nghin dong.",
+                                    "_id": "15b5c2c00f59bc09e7783eff0de1364b",
+                                    "id": 21602,
+                                    "type": "e_cnvi",
+                                    "e": "这个商店每天有好几千元的进出。",
+                                    "p_cn": "zhege shangdian meitian you haojiqianyuan de jinchu。",
+                                    "p": "zhègè shāngdiàn měitiān yǒu hǎojīqiānyuán de jìnchū。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 261
+            },
+            "snym": {
+                "syno": [
+                    "相差",
+                    "收支",
+                    "出入"
+                ],
+                "anto": [
+                    "出入"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "jìnchū",
+            "cn_vi": "tiến xuất",
+            "word": "进出",
+            "id": 30309,
+            "phonetic": "jinchu",
+            "rank": 24159,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄑㄧ",
+            "_id": "75470bb674644e89b0c7341c736aa029",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Bỏ vợ. Người vợ bị chồng bỏ.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "xuất thê",
+            "pinyin": "chū qī",
+            "word": "出妻",
+            "id": 149094,
+            "phonetic": "chuqi",
+            "rank": 110447,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄧㄥˊ",
+            "_id": "75f6478888f7f487f50d9df6e57d36b3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuất nghinh; đi đón; đi nghinh tiếp; đi đón tiếp",
+                            "explain": "出去迎接",
+                            "examples": [
+                                {
+                                    "m": "Toàn bộ cư dân thành phố đổ ra đón đội bóng trở về sau chiến thắng.",
+                                    "p_vn": "Toan bo cu dan thanh pho do ra don doi bong tro ve sau chien thang.",
+                                    "_id": "65a83d9a60a742ac940a59326ba3a89e",
+                                    "id": 70148,
+                                    "type": "e_cnvi",
+                                    "e": "全市居民倾城而出迎接凯旋球队.",
+                                    "p_cn": "quanshi jumin qingcheng er chu yingjie kaixuan qiudui",
+                                    "p": "quánshì jūmín qīngchéng ér chū yíngjiē kǎixuán qiúduì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "xuất nghênh",
+            "pinyin": "chū yíng",
+            "word": "出迎",
+            "id": 8345,
+            "phonetic": "chuying",
+            "rank": 114413,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄨㄛˋㄔㄨ",
+            "_id": "78cf036d0276b43daaa698336a2110e6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Đưa ra",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Đưa ra giải thích",
+                                    "p_vn": "Dua ra giai thich",
+                                    "_id": "226e3d71c46db21337da53ca306212bb",
+                                    "id": 54354,
+                                    "type": "e_cnvi",
+                                    "e": "做出解释",
+                                    "p_cn": "Zuo chu jieshi",
+                                    "p": "Zuò chū jiěshì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 46,
+                "search": 726
+            },
+            "snym": null,
+            "cn_vi": "tố xuất",
+            "pinyin": "zuò chū",
+            "word": "做出",
+            "id": 83594,
+            "phonetic": "zuochu",
+            "rank": 12409,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄠˋㄔㄨ",
+            "_id": "7ea2c41f82f34c7fb72073f1eaaed17d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nói",
+                            "explain": "to speak; to tell",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lên tiếng",
+                            "explain": "to voice",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 84
+            },
+            "snym": null,
+            "cn_vi": "đạo xuất",
+            "pinyin": "dào chū",
+            "word": "道出",
+            "id": 100242,
+            "phonetic": "daochu",
+            "rank": 45399,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄔㄨ",
+            "_id": "7b78f0feaa174b7f984f3a9c8161ae5e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đã đặt hết (tức là đã được đặt hết)",
+                            "explain": "booked out (i.e. already fully booked)",
+                            "examples": [
+                                {
+                                    "m": "Tôi nghĩ chúng ta nên lập ra một kế hoạch hành động để đối phó với tình huống này.",
+                                    "p_vn": "Toi nghi chung ta nen lap ra mot ke hoach hanh dong de doi pho voi tinh huong nay.",
+                                    "_id": "e9ac4094f21e42458ac0507d8a2ab2dc",
+                                    "id": 71665,
+                                    "type": "e_cnvi",
+                                    "e": "我想我们应该制订出一项行动计划，用来对付这种情况。",
+                                    "p_cn": "wo xiang women yinggai zhiding chu yi xiang xingdongjihua yonglai duifu zhezhong qingkuang",
+                                    "p": "wǒ xiǎng wǒmen yīnggāi zhìdìng chū yī xiàng xíngdòngjìhuà yònglái duìfu zhèzhǒng qíngkuàng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phác thảo",
+                            "explain": "to draw up",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đặt ra (một quy tắc, một kế hoạch hành động)",
+                            "explain": "to lay down (a rule, a plan of action)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 44
+            },
+            "snym": null,
+            "cn_vi": "đính xuất",
+            "pinyin": "dìng chū",
+            "word": "订出",
+            "id": 105499,
+            "phonetic": "dingchu",
+            "rank": 61266,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄓㄜ",
+            "_id": "9f89d41695886987004f1d72b25e8bc4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thức dậy sau ngủ đông; kết thúc việc ngủ đông (động vật)",
+                            "explain": "动物结束冬眠，出来活动",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "xuất triết",
+            "pinyin": "chū zhé",
+            "word": "出蜇",
+            "id": 8352,
+            "phonetic": "chuzhe",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄌㄨㄥˊ",
+            "_id": "06c651b2c532ddc171bb9f51a0f005a9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lấy ra khỏi lồng hấp (bánh bao, màn thầu)",
+                            "explain": "馒头、包子等蒸熟后从笼屉取出",
+                            "examples": [
+                                {
+                                    "m": "chim bồ câu vừa xổ lồng, bay vút lên cao.",
+                                    "p_vn": "chim bo cau vua xo long bay vut len cao",
+                                    "_id": "24f5102dec7ed578a45ca57c13745a28",
+                                    "id": 5027,
+                                    "type": "e_cnvi",
+                                    "e": "鸽子出笼，冲腾入云。",
+                                    "p_cn": "ge zi chulong chong teng ru yun",
+                                    "p": "gēzǐ chūlóng，chōngténgrù yún。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sổ lồng; sổng chuồng; ồ ạt tuôn ra (ví với hàng hoá đầu cơ gặp thời bán ra hoặc tiền tung ra lúc lạm phát...)",
+                            "explain": "比喻囤积居奇的货物大量出售，通货膨胀时钞票大量发行，或者坏人别有用心地抛出反动作品等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 45
+            },
+            "snym": {
+                "anto": [
+                    "回笼"
+                ]
+            },
+            "cn_vi": "xuất lung",
+            "pinyin": "chūlóng",
+            "word": "出笼",
+            "id": 8253,
+            "phonetic": "chulong",
+            "rank": 60560,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄔㄨ",
+            "_id": "08f102c451a742fb86494ba384667895",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhô ra",
+                            "explain": "to protrude",
+                            "examples": []
+                        },
+                        {
+                            "mean": "dính ra",
+                            "explain": "to stick out",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lõ",
+                            "explain": "高于周围",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lòi; gồ",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đột",
+                            "explain": "突然发生; 突然兴起",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chìa; thò",
+                            "explain": "向外延伸",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 118
+            },
+            "snym": {
+                "anto": [
+                    "凹陷",
+                    "凹入"
+                ]
+            },
+            "cn_vi": "đột xuất",
+            "pinyin": "tú chū",
+            "word": "凸出",
+            "id": 90158,
+            "phonetic": "tuchu",
+            "rank": 38194,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄙㄤˋ",
+            "_id": "41bd0cfb2fc2ffe3934a737ea5597610",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đưa ma; đưa tang; chôn cất",
+                            "explain": "出殡",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": {
+                "syno": [
+                    "出殡"
+                ]
+            },
+            "cn_vi": "xuất tang",
+            "pinyin": "chūsāng",
+            "word": "出丧",
+            "id": 8289,
+            "phonetic": "chusang",
+            "rank": 92978,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": {
+                "pinyin": "fang",
+                "examples": "你准备从哪个地方出境？",
+                "measure": "方"
+            },
+            "zhuyin": "ㄔㄨㄐㄧㄥˋ",
+            "_id": "50c87a71534cbe84cd4c143dc44fa212",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuất cảnh; ra nước ngoài; xuất ngoại",
+                            "explain": "离开国境",
+                            "examples": [
+                                {
+                                    "m": "làm thủ tục xuất cảnh.",
+                                    "p_vn": "lam thu tuc xuat canh",
+                                    "_id": "fbe4be0bd799638b3666d06ca4e176ff",
+                                    "id": 5233,
+                                    "type": "e_cnvi",
+                                    "e": "办理出境手续。",
+                                    "p_cn": "banli chujing shouxu",
+                                    "p": "bànlǐ chūjìng shǒuxù。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ra khỏi; rời khỏi; bỏ đi (địa phận, khu vực)",
+                            "explain": "离开某个地区",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"国\" trong \"出国\" dùng để chỉ tổ quốc, \"境\" trong \"出境\" dùng để chỉ vùng lãnh thổ của một quốc gia nào đó.\nTrong những dịp trang trọng chỉ có thể nói \"出国\".",
+                    "title": "Phân biệt \"出境\" và \"出国\"",
+                    "words": [
+                        "出境",
+                        "出国"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "入境",
+                    "离境",
+                    "出国"
+                ],
+                "anto": [
+                    "入境"
+                ]
+            },
+            "cn_vi": "xuất cảnh",
+            "pinyin": "chūjìng",
+            "popularity": {
+                "notebook": 65,
+                "search": 786
+            },
+            "word": "出境",
+            "id": 8241,
+            "phonetic": "chujing",
+            "rank": 11704,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄉㄧㄢˇ",
+            "_id": "81bdcb629803c59e7173c0d83273cf09",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "xuất xứ (điển cố)",
+                            "explain": "典故的来源;出处",
+                            "examples": [
+                                {
+                                    "m": "thành ngữ 'ôm cây đợi thỏ' có xuất xứ từ sách 'năm cái dại' của Hàn Phi Tử.",
+                                    "p_vn": "thanh ngu 'om cay doi tho' co xuat xu tu sach 'nam cai dai' cua han phi tu",
+                                    "_id": "eebbb301a94e8b8d13ee71115954dde8",
+                                    "id": 5213,
+                                    "type": "e_cnvi",
+                                    "e": "'守株待兔'这个成语的出典见《韩非子·五蠹》。",
+                                    "p_cn": "shouzhudaituzhege chengyu de chudian jian hanfeiziwu du",
+                                    "p": "'shǒuzhūdàitù'zhège chéngyǔ de chūdiǎn jiàn “hánfēizi·wǔ dù”."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": {
+                "anto": [
+                    "赎取"
+                ]
+            },
+            "cn_vi": "xuất điển",
+            "pinyin": "chūdiǎn",
+            "word": "出典",
+            "id": 8204,
+            "phonetic": "chudian",
+            "rank": 114452,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄐㄧ",
+            "_id": "096ef4f49bcec88e003d40de2cfe06c8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuất kích; ra quân; ra trận",
+                            "explain": "部队出动，向敌人进攻",
+                            "examples": [
+                                {
+                                    "m": "tiểu đội trưởng dẫn đầu các chiến sĩ xuất binh.",
+                                    "p_vn": "tieu doi truong dan dau cac chien si xuat binh.",
+                                    "_id": "040545c84f4ae0d6d8e8ccd36772c0b3",
+                                    "id": 27563,
+                                    "type": "e_cnvi",
+                                    "e": "班长率本班战士出击。",
+                                    "p_cn": "bānzhǎng shuai běn bān zhanshi chūji.",
+                                    "p": "bānzhǎng shuài běn bān zhànshì chūjí."
+                                },
+                                {
+                                    "m": "đội du kích tấn công tứ phía, gây rối cho địch quân.",
+                                    "p_vn": "doi du kich tan cong tu phia, gay roi cho dich quan.",
+                                    "_id": "0c927fb2cb48d38d2c316a77865303d6",
+                                    "id": 24386,
+                                    "type": "e_cnvi",
+                                    "e": "游击队四处出击，困扰敌军。",
+                                    "p_cn": "youji dui sichu chuji kunrao di jun",
+                                    "p": "yóujídùi sìchù chūjí，kùnrǎo díjūn。"
+                                },
+                                {
+                                    "m": "chia binh mã ra làm ba ngã, mai phục ở hai ngã, một ngã xuất kích.",
+                                    "p_vn": "chia binh ma ra lam ba nga, mai phuc o hai nga, mot nga xuat kich.",
+                                    "_id": "6d5eaba3361c69295531e88a62afdfd0",
+                                    "id": 28013,
+                                    "type": "e_cnvi",
+                                    "e": "把人马分做三路，两路埋伏，一路出击。",
+                                    "p_cn": "ba renma fen zuo san lu liang lu maifu yilu chuji",
+                                    "p": "bǎ rénmǎ fēn zuò sānlù，liǎnglù máifú，yīlù chūjí。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 304
+            },
+            "snym": {
+                "syno": [
+                    "进攻",
+                    "防守",
+                    "攻击",
+                    "冲击",
+                    "迎击"
+                ],
+                "anto": [
+                    "入侵",
+                    "迎击",
+                    "反击"
+                ]
+            },
+            "cn_vi": "xuất kích",
+            "pinyin": "chūjí",
+            "word": "出击",
+            "id": 8232,
+            "phonetic": "chuji",
+            "rank": 22002,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0ad58192a608410a92201307bef76cf1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Theo nhau mà ra, hết lớp này tới lớp khác.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "tằng xuất",
+            "pinyin": "céng chū",
+            "word": "层出",
+            "id": 170706,
+            "phonetic": "cengchu",
+            "rank": 87889,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄩㄝˊㄔㄨ",
+            "_id": "17a79939afa44785abd44bd7a49a2922",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đào ra",
+                            "explain": "to dig out",
+                            "examples": []
+                        },
+                        {
+                            "mean": "khai thác",
+                            "explain": "to exhume",
+                            "examples": []
+                        },
+                        {
+                            "mean": "khai quật",
+                            "explain": "to unearth",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "quật xuất",
+            "pinyin": "jué chū",
+            "word": "掘出",
+            "id": 96997,
+            "phonetic": "juechu",
+            "rank": 82215,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄅㄢˇ",
+            "_id": "521dc95aaf33e874801a0f28531e5437",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuất bản",
+                            "explain": "把书刊、图画等编印出来",
+                            "examples": [
+                                {
+                                    "m": "nhà xuất bản.",
+                                    "p_vn": "nha xuat ban",
+                                    "_id": "96c932b424c908c6e5138886da2c590f",
+                                    "id": 5205,
+                                    "type": "e_cnvi",
+                                    "e": "出版社。",
+                                    "p_cn": "chuban she",
+                                    "p": "chūbǎnshè。"
+                                },
+                                {
+                                    "m": "xuất bản phẩm.",
+                                    "p_vn": "xuat ban pham",
+                                    "_id": "dab01d5f4a12f81d6a6b08ffabb6b5ac",
+                                    "id": 5206,
+                                    "type": "e_cnvi",
+                                    "e": "出版物。",
+                                    "p_cn": "chuban wu",
+                                    "p": "chūbǎnwù。"
+                                },
+                                {
+                                    "m": "bộ sách đó đã được xuất bản.",
+                                    "p_vn": "bo sach do da duoc xuat ban",
+                                    "_id": "6818c49cde95d6783c0c8173d8db5913",
+                                    "id": 5207,
+                                    "type": "e_cnvi",
+                                    "e": "那部书已经出版了。",
+                                    "p_cn": "na bu shu yijing chubanle",
+                                    "p": "nàbùshū yǐjīng chūbǎn le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 162,
+                "search": 1199
+            },
+            "snym": null,
+            "lv_hsk_new": "5",
+            "pinyin": "chūbǎn",
+            "cn_vi": "xuất bản",
+            "word": "出版",
+            "id": 8183,
+            "phonetic": "chuban",
+            "rank": 8510,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄞˋㄔㄨ",
+            "_id": "5076deef32ae44449bbd5ec82e6d1a9b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Bước ra",
+                            "explain": "to step out",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thực hiện một bước (đầu tiên)",
+                            "explain": "to take a (first) step",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 40,
+                "search": 636
+            },
+            "snym": {
+                "syno": [
+                    "迈步"
+                ]
+            },
+            "cn_vi": "mại xuất",
+            "pinyin": "mài chū",
+            "word": "迈出",
+            "id": 100130,
+            "phonetic": "maichu",
+            "rank": 13518,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄩㄝˋ",
+            "_id": "9409063b62a06466ee5aa9a4020b5c80",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sang tháng; qua tháng",
+                            "explain": "过了本月",
+                            "examples": [
+                                {
+                                    "m": "tháng này không có thời gian, sang tháng thì mới có thể viết xong bản thảo được.",
+                                    "p_vn": "thang nay khong co thoi gian sang thang thi moi co the viet xong ban thao duoc",
+                                    "_id": "ea1a5d2efe6dd45f4cb89937c9800318",
+                                    "id": 5309,
+                                    "type": "e_cnvi",
+                                    "e": "这个月没时间，出月才能把稿子写完。",
+                                    "p_cn": "zhege yue mei shijian chu yue caineng ba gaozi xie wan",
+                                    "p": "zhègè yuè méi shíjiān，chūyuè cáinéng bǎ gǎozǐ xiě wán。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "xuất nguyệt",
+            "pinyin": "chū yuè",
+            "word": "出月",
+            "id": 8349,
+            "phonetic": "chuyue",
+            "rank": 79673,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄊㄧㄥˊ",
+            "topic": "41",
+            "_id": "921b089da424df571508e9293eabc024",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ra toà (nguyên cáo, bị cáo, người bào chữa, người thay mặt, luật sư...)",
+                            "explain": "诉讼案件的关系人 (如原告人、被告人、辩护人、代理人、律师等) 到法庭上接受审讯或讯问",
+                            "examples": [
+                                {
+                                    "m": "Bạn đã làm chứng tại phiên tòa xét xử Edward Alan Fornum?",
+                                    "p_vn": "Ban da lam chung tai phien toa xet xu Edward Alan Fornum?",
+                                    "_id": "3c33074905b2407cb07329917dc2b80b",
+                                    "id": 63747,
+                                    "type": "e_cnvi",
+                                    "e": "你曾在爱德华·阿兰·佛努姆审判中出庭作证",
+                                    "p_cn": "ni ceng zai aidehua * alan * fonumu shenpan zhong chutingzuozheng",
+                                    "p": "nǐ céng zài àidéhuá · ālán · fónǔmǔ shěnpàn zhōng chūtíngzuòzhèng"
+                                },
+                                {
+                                    "m": "Bạn đã bỏ lỡ ngày ra tòa đầu tiên của mình về điều này.",
+                                    "p_vn": "Ban da bo lo ngay ra toa dau tien cua minh ve dieu nay.",
+                                    "_id": "44e6c153b4f94b72838a3920bba0be16",
+                                    "id": 58164,
+                                    "type": "e_cnvi",
+                                    "e": "你错过了首次出庭日期",
+                                    "p_cn": "ni cuoguo le shouci chuting riqi",
+                                    "p": "nǐ cuòguò le shǒucì chūtíng rìqī"
+                                },
+                                {
+                                    "m": "ra toà chờ thẩm vấn",
+                                    "p_vn": "ra toa cho tham van",
+                                    "_id": "87f1e2b5924226e387fd84ef88d6b652",
+                                    "id": 17386,
+                                    "type": "e_cnvi",
+                                    "e": "出庭候审",
+                                    "p_cn": "chuting houshen",
+                                    "p": "chūtíng hòushěn"
+                                },
+                                {
+                                    "m": "Daniel sắp hầu tòa vì tội giết người",
+                                    "p_vn": "Daniel sap hau toa vi toi giet nguoi",
+                                    "_id": "cd690ab000d241348074f55afd144512",
+                                    "id": 58706,
+                                    "type": "e_cnvi",
+                                    "e": "丹尼尔马上就要出庭受审",
+                                    "p_cn": "dannier mashang jiuyao chuting shoushen",
+                                    "p": "dānníěr mǎshàng jìuyào chūtíng shòushěn"
+                                },
+                                {
+                                    "m": "Bạn sẽ không bao giờ thử việc.",
+                                    "p_vn": "Ban se khong bao gio thu viec.",
+                                    "_id": "e1eec4632c024c0a9a06c97b4671284e",
+                                    "id": 58703,
+                                    "type": "e_cnvi",
+                                    "e": "你不会出庭受审",
+                                    "p_cn": "ni buhui chuting shoushen",
+                                    "p": "nǐ bùhùi chūtíng shòushěn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 83
+            },
+            "snym": null,
+            "cn_vi": "xuất đình",
+            "pinyin": "chūtíng",
+            "word": "出庭",
+            "id": 8317,
+            "phonetic": "chuting",
+            "rank": 45692,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄛㄔㄨ",
+            "_id": "99ea1218588242c99deff55cb20310ff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phân bổ (quỹ)",
+                            "explain": "to allocate (funds)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để quay số",
+                            "explain": "to dial",
+                            "examples": []
+                        },
+                        {
+                            "mean": "keo ra",
+                            "explain": "to pull out",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 115
+            },
+            "snym": {
+                "anto": [
+                    "放入"
+                ]
+            },
+            "cn_vi": "bát xuất",
+            "pinyin": "bō chū",
+            "word": "拨出",
+            "id": 91535,
+            "phonetic": "bochu",
+            "rank": 38735,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄐㄧㄝˋ",
+            "topic": "6",
+            "_id": "d731ec4f25c3638a52da0b9c25fef30d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ra ngoài; ra ngoài đường biên",
+                            "explain": "超出界外",
+                            "examples": [
+                                {
+                                    "m": "bóng ra ngoài đường biên",
+                                    "p_vn": "bong ra ngoai duong bien",
+                                    "_id": "e983b6d1ead91fbf795da5f482f6517d",
+                                    "id": 5232,
+                                    "type": "e_cnvi",
+                                    "e": "球出界",
+                                    "p_cn": "qiu chujie",
+                                    "p": "qíu chūjiè"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 69
+            },
+            "snym": null,
+            "cn_vi": "xuất giới",
+            "pinyin": "chūjiè",
+            "word": "出界",
+            "id": 8239,
+            "phonetic": "chujie",
+            "rank": 49983,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄨㄔㄨ",
+            "topic": "35, 60",
+            "_id": "a10ad5acdf162f156413e634c5e00cd1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chuyển vận (từ trong ra ngoài); ngoại xuất",
+                            "explain": "从内部送到外部",
+                            "examples": [
+                                {
+                                    "m": "máu chuyển vận từ trong tim ra, qua các huyết quản phân bố tới các bộ phận trong toàn thân.",
+                                    "p_vn": "mau chuyen van tu trong tim ra, qua cac huyet quan phan bo toi cac bo phan trong toan than.",
+                                    "_id": "117386ca245ab546a998baff99db248e",
+                                    "id": 36480,
+                                    "type": "e_cnvi",
+                                    "e": "血液从心脏输出，经血管分布到全身组织。",
+                                    "p_cn": "xueguan cong xinzang shuchu，jing xueguan fenbu dao quanshen zuzhi。",
+                                    "p": "xuèguǎn cóng xīnzāng shūchū，jīng xuèguǎn fēnbù dào quánshēn zǔzhī。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xuất cảng; xuất khẩu",
+                            "explain": "商品或资本从某一国销售或投放到国外",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phát ra (năng lượng, tín hiệu)",
+                            "explain": "科学技术上指能量、信号等从某种机构或装置发出",
+                            "examples": []
+                        },
+                        {
+                            "mean": "du xuất",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 123,
+                "search": 2209
+            },
+            "snym": {
+                "syno": [
+                    "发出"
+                ],
+                "anto": [
+                    "输入",
+                    "输液",
+                    "注入"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "shūchū",
+            "cn_vi": "thâu xuất",
+            "word": "输出",
+            "id": 48108,
+            "phonetic": "shuchu",
+            "rank": 5159,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄠˋㄔㄨ",
+            "_id": "a2845ace326644a38849450847f3aa19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuất hiện bất ngờ",
+                            "explain": "to appear unexpectedly",
+                            "examples": [
+                                {
+                                    "m": "Tôi chưa bao giờ thấy nhãn cầu bật nhanh như vậy.",
+                                    "p_vn": "Toi chua bao gio thay nhan cau bat nhanh nhu vay.",
+                                    "_id": "da09ff464d7a4b9bafe81324c5c0eba3",
+                                    "id": 64701,
+                                    "type": "e_cnvi",
+                                    "e": "真不知道原来眼珠会这么快就爆出来",
+                                    "p_cn": "zhenbuzhidao yuanlai yanzhu hui zheyao kuai jiu bao chulai",
+                                    "p": "zhēnbùzhīdào yuánlái yǎnzhū hùi zhèyāo kuài jìu bào chūlái"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phá vỡ (câu chuyện truyền thông)",
+                            "explain": "to break (media story)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bật ra",
+                            "explain": "to burst out",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 164
+            },
+            "snym": null,
+            "cn_vi": "bạo xuất",
+            "pinyin": "bào chū",
+            "word": "爆出",
+            "id": 98331,
+            "phonetic": "baochu",
+            "rank": 31832,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "lei",
+                "examples": "人类生出来不是为了永久生存。",
+                "measure": "类"
+            },
+            "zhuyin": "ㄕㄥㄔㄨ",
+            "_id": "b1741aa828094c85bebb2caf0bb4e7e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để tạo ra",
+                            "explain": "to generate",
+                            "examples": [
+                                {
+                                    "m": "Chương trình xác thực giao thức, nó tự động tạo ra tất cả các trạng thái có thể đạt được từ trạng thái ban đầu đã cho và kiểm tra tính hợp lệ của các điều kiện do người dùng xác định trong mỗi trạng thái.",
+                                    "p_vn": "Chuong trinh xac thuc giao thuc, no tu dong tao ra tat ca cac trang thai co the dat duoc tu trang thai ban dau da cho va kiem tra tinh hop le cua cac dieu kien do nguoi dung xac dinh trong moi trang thai.",
+                                    "_id": "ca1e36264d9c4f50865e908941b747da",
+                                    "id": 72512,
+                                    "type": "e_cnvi",
+                                    "e": "验证协议的程序，它从一个给定的初始状态机械地产生出一切可以到达的状态，并且审查每一状态下用户定义的条件的有效性。",
+                                    "p_cn": "yanzheng xieyi de chengxu ta cong yi ge geiding de chushi zhuangtai jixie dichan shengchu yiqie keyi daoda de zhuangtai bingqie shencha meiyi zhuangtai xia yonghudingyi de tiaojian de youxiaoxing",
+                                    "p": "yànzhèng xiéyì de chéngxù tā cóng yī gè gěidìng de chūshǐ zhuàngtài jīxiè dìchǎn shēngchū yīqiè kěyǐ dàodá de zhuàngtài bìngqiě shěnchá měiyī zhuàngtài xià yònghùdìngyì de tiáojiàn de yǒuxiàoxìng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sinh hạ",
+                            "explain": "to give birth",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để phát triển (râu, v.v.)",
+                            "explain": "to grow (whiskers etc)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để sản xuất",
+                            "explain": "to produce",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 155
+            },
+            "snym": null,
+            "cn_vi": "sinh xuất",
+            "pinyin": "shēngchū",
+            "word": "生出",
+            "id": 108448,
+            "phonetic": "shengchu",
+            "rank": 32783,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄩˋㄔㄨ",
+            "_id": "c69dc28d6e1b4e22a1d463d67efd4a25",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lọc ra",
+                            "explain": "to filter out",
+                            "examples": [
+                                {
+                                    "m": "Thu hẹp phạm vi và lọc ra các mục đã chọn để cải thiện tốc độ tải trong giao diện",
+                                    "p_vn": "Thu hep pham vi va loc ra cac muc da chon de cai thien toc do tai trong giao dien",
+                                    "_id": "e502a554f7314b05bf6d3d91f0f09aab",
+                                    "id": 68530,
+                                    "type": "e_cnvi",
+                                    "e": "缩小范围并过滤出选定的项，以提高界面中的加载速度",
+                                    "p_cn": "Suoxiao fanwei bing guolu chu xuan ding de xiang, yi tigao jiemian zhong de jiazai sudu",
+                                    "p": "Suōxiǎo fànwéi bìng guòlǜ chū xuǎn dìng de xiàng, yǐ tígāo jièmiàn zhōng de jiāzài sùdù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "lự xuất",
+            "pinyin": "lǜ chū",
+            "word": "滤出",
+            "id": 104158,
+            "phonetic": "luchu",
+            "rank": 78423,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄐㄧㄥˇ",
+            "_id": "cb9dfef30f4e4381b38df140569e8256",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cử cảnh sát đến hiện trường vụ án, tai nạn, v.v.",
+                            "explain": "to dispatch police to the scene of crime, accident etc",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 87
+            },
+            "snym": null,
+            "cn_vi": "xuất cảnh",
+            "pinyin": "chūjǐng",
+            "word": "出警",
+            "id": 101613,
+            "phonetic": "chujing",
+            "rank": 44589,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄢˋㄔㄨ",
+            "_id": "c5c5f674b83c4f36975f76d0e68d2578",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để làm ra",
+                            "explain": "to make out",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhìn",
+                            "explain": "to see",
+                            "examples": [
+                                {
+                                    "m": "Dễ dàng nhận thấy tiềm năng.",
+                                    "p_vn": "De dang nhan thay tiem nang.",
+                                    "_id": "da178bfbdad14f34a5db1159d188893c",
+                                    "id": 64696,
+                                    "type": "e_cnvi",
+                                    "e": "可以看出你很有潜力",
+                                    "p_cn": "keyi kanchu ni hen you qianli",
+                                    "p": "kěyǐ kànchū nǐ hěn yǒu qiánlì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 201
+            },
+            "snym": {
+                "anto": [
+                    "无视"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "kàn chū",
+            "cn_vi": "khán xuất",
+            "word": "看出",
+            "id": 98710,
+            "phonetic": "kanchu",
+            "rank": 28224,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄓㄠ",
+            "_id": "dc49014215e64a9199fb61ee0754a3e2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ra đòn (trong võ thuật hay nghĩa bóng)",
+                            "explain": "to make a move (in martial arts or figuratively)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "xuất chiêu",
+            "pinyin": "chū zhāo",
+            "word": "出招",
+            "id": 101611,
+            "phonetic": "chuzhao",
+            "rank": 65437,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄒㄩㄝˋ",
+            "_id": "ec7e14062b4915b647c3b0de23f80127",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuất huyết; chảy máu; ra máu; trích máu",
+                            "explain": "血管壁破裂，血液流出",
+                            "examples": [
+                                {
+                                    "m": "Chảy máu dưới da ở cả hai đầu gối.",
+                                    "p_vn": "Chay mau duoi da o ca hai dau goi.",
+                                    "_id": "324e84aaf6cb4845a6db1d0b511161e6",
+                                    "id": 58698,
+                                    "type": "e_cnvi",
+                                    "e": "双膝皮下出血",
+                                    "p_cn": "shuangxi pixia chuxie",
+                                    "p": "shuāngxī píxià chūxiě"
+                                },
+                                {
+                                    "m": "Bị chảy máu ở góc phần tư phía trên bên phải.",
+                                    "p_vn": "Bi chay mau o goc phan tu phia tren ben phai.",
+                                    "_id": "3c7766a45cb94e679d988fe50f2db3f5",
+                                    "id": 58711,
+                                    "type": "e_cnvi",
+                                    "e": "右上腹腔有内出血",
+                                    "p_cn": "you shang fuqiang you neichuxie",
+                                    "p": "yòu shàng fùqiāng yǒu nèichūxiě"
+                                },
+                                {
+                                    "m": "Frankie đang chảy máu từ một trong những đường khâu của cô ấy.",
+                                    "p_vn": "Frankie dang chay mau tu mot trong nhung duong khau cua co ay.",
+                                    "_id": "7ffafadd6af7448a8e3088435a887814",
+                                    "id": 65567,
+                                    "type": "e_cnvi",
+                                    "e": "弗兰克的一处缝线正在出血",
+                                    "p_cn": "fulanke de yichu fengxian zhengzai chuxie",
+                                    "p": "fúlánkè de yīchù féngxiàn zhèngzài chūxiě"
+                                },
+                                {
+                                    "m": "Xuất huyết dưới da đến cơ ức đòn chũm bên phải.",
+                                    "p_vn": "Xuat huyet duoi da den co uc don chum ben phai.",
+                                    "_id": "c354556d7b714e8fa998d5e6335486e4",
+                                    "id": 64106,
+                                    "type": "e_cnvi",
+                                    "e": "右手掌肌肉有皮下出血现象",
+                                    "p_cn": "youshouzhang jirou you pixia chuxie xianxiang",
+                                    "p": "yòushǒuzhǎng jīròu yǒu píxià chūxiě xiànxiàng"
+                                },
+                                {
+                                    "m": "Anh ấy đang xuất huyết vào thân não",
+                                    "p_vn": "Anh ay dang xuat huyet vao than nao",
+                                    "_id": "cd7325a985b94cd8a5ce274b730d0c07",
+                                    "id": 57987,
+                                    "type": "e_cnvi",
+                                    "e": "他脑干开始出血",
+                                    "p_cn": "ta naogan kaishi chuxie",
+                                    "p": "tā nǎogān kāishǐ chūxiě"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 260
+            },
+            "snym": null,
+            "cn_vi": "xuất huyết",
+            "pinyin": "chūxiě",
+            "word": "出血",
+            "id": 8334,
+            "phonetic": "chuxie",
+            "rank": 24181,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄊㄨㄛ",
+            "_id": "974a2dfecddf62c6879a0dfd6b5c3e7b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bán ra; tung hàng",
+                            "explain": "货物卖出",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xinh ra; đẹp ra",
+                            "explain": "出落",
+                            "examples": [
+                                {
+                                    "m": "đứa bé này càng đẹp ra.",
+                                    "p_vn": "dua be nay cang dep ra",
+                                    "_id": "c2536d8f830296144e00c9b0000402cb",
+                                    "id": 5293,
+                                    "type": "e_cnvi",
+                                    "e": "这孩子的模样出脱得更好看了。",
+                                    "p_cn": "zhe haizi de muyang chu tuo de geng haokanle",
+                                    "p": "zhè háizi de múyàng chū tuō dé gèng hǎokànle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xoá; thoát (tội danh)",
+                            "explain": "开脱 (罪名)",
+                            "examples": [
+                                {
+                                    "m": "trong xã hội cũ, chỉ cần có tiền thì tội có tày trời đến mấy cũng có thể được xoá sạch.",
+                                    "p_vn": "trong xa hoi cu chi can co tien thi toi co tay troi den may cung co the duoc xoa sach",
+                                    "_id": "e0bbcc31d4dd5edb3f06adc4752be364",
+                                    "id": 5294,
+                                    "type": "e_cnvi",
+                                    "e": "在旧社会只要有钱，天大的罪名也能出脱。",
+                                    "p_cn": "zai jiu shehui zhiyao you qian tian da de zuiming ye neng chu tuo",
+                                    "p": "zài jìushèhùi zhǐyào yǒuqián，tiāndà de zùimíng yě néng chūtuō。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "xuất thoát",
+            "pinyin": "chū tuō",
+            "word": "出脱",
+            "id": 8323,
+            "phonetic": "chutuo",
+            "rank": 122450,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄎㄜ",
+            "_id": "cc0b971929cd7ef55798a8a47be8b175",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hết khoá; xong khoá; xuất khoá (kết thúc khoá học đào tạo)",
+                            "explain": "旧时指在科班学戏期满",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "xuất khoa",
+            "pinyin": "chū kē",
+            "word": "出科",
+            "id": 8243,
+            "phonetic": "chuke",
+            "rank": 123378,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄐㄩˊ",
+            "topic": "6",
+            "_id": "c9d3f58c482175e457d58066c017d8dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bị nốc-ao; bị loại",
+                            "explain": "指被淘汰出比赛",
+                            "examples": [
+                                {
+                                    "m": "Trong vòng đầu diễn ra chiều nay, đội đỏ có hai tuyển thủ bị loại và ba tuyển thủ vào vòng sau.",
+                                    "p_vn": "trong vong dau dien ra chieu nay doi do co hai tuyen thu bi loai va ba tuyen thu vao vong sau",
+                                    "_id": "b29dcfd70dcfa8d123e2b5c27c7069a3",
+                                    "id": 5234,
+                                    "type": "e_cnvi",
+                                    "e": "今天下午进行的初赛中红队有两名选手出局，有三名选手进入复赛。",
+                                    "p_cn": "jintian xiawu jinxing de chusai zhong hong dui you liang ming xuanshou chuju yousan ming xuanshou jinru fusai",
+                                    "p": "jīntiānxiàwǔ jìnxíng de chūsài zhōng hóngdùi yǒu liǎngmíng xuǎnshǒu chūjú，yǒu sānmíng xuǎnshǒu jìnrù fùsài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 356
+            },
+            "snym": {
+                "anto": [
+                    "晋级",
+                    "选送",
+                    "入围",
+                    "胜出"
+                ]
+            },
+            "cn_vi": "xuất cục",
+            "pinyin": "chūjú",
+            "word": "出局",
+            "id": 8242,
+            "phonetic": "chuju",
+            "rank": 19850,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄑㄧㄡˇ",
+            "_id": "c9e0bfabc62643e3b85c4bd58d881d60",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Thất thố",
+                            "explain": "出糗，词语，一般是指“失态”的意思。可以用在口语交际和书面语中，意思是失态，难堪。",
+                            "examples": [
+                                {
+                                    "m": "Suýt nữa thì thất thố rồi",
+                                    "p_vn": "suyt nua thi that tho roi",
+                                    "_id": "411948b337fe487a8316bba9ece3de99",
+                                    "id": 56217,
+                                    "type": "e_cnvi",
+                                    "e": "差点就出糗了",
+                                    "p_cn": "chadian jiu chu qiule",
+                                    "p": "Chàdiǎn jiù chū qiǔle"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 19,
+                "search": 218
+            },
+            "snym": null,
+            "cn_vi": "xuất khứu",
+            "pinyin": "chū qiǔ",
+            "word": "出糗",
+            "id": 85572,
+            "phonetic": "chuqiu",
+            "rank": 26933,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄖㄨˋ",
+            "_id": "cf1cac51c126c1d0dfcd5264a3374183",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ra vào",
+                            "explain": "出去和进来",
+                            "examples": [
+                                {
+                                    "m": "ra vào tiện tay đóng cửa.",
+                                    "p_vn": "ra vao tien tay dong cua",
+                                    "_id": "8b972814a590d1b7ad4ae172723c2e54",
+                                    "id": 5270,
+                                    "type": "e_cnvi",
+                                    "e": "出入随手关门。",
+                                    "p_cn": "churu suishou guanmen",
+                                    "p": "chūrù súishǒuguānmén。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không khớp; chênh lệch; không nhất quán (số lượng, câu chữ)",
+                            "explain": "(数目、语句) 不一致;不相符",
+                            "examples": [
+                                {
+                                    "m": "tiền mặt khớp với con số trong sổ sách.",
+                                    "p_vn": "tien mat khop voi con so trong so sach",
+                                    "_id": "16eb9ad85d00f73b9cbfd50d50c11477",
+                                    "id": 5271,
+                                    "type": "e_cnvi",
+                                    "e": "现款跟帐上的数目没有出入。",
+                                    "p_cn": "xiankuan gen zhang shang de shumu meiyou churu",
+                                    "p": "xiànkuǎn gēn zhàng shàng de shùmù méiyǒu chūrù。"
+                                },
+                                {
+                                    "m": "những gì mà hai anh nói không khớp với nhau.",
+                                    "p_vn": "nhung gi ma hai anh noi khong khop voi nhau",
+                                    "_id": "91eb72415cd454b3fb1969e6ef9f8f2a",
+                                    "id": 5272,
+                                    "type": "e_cnvi",
+                                    "e": "你俩说的有出入。",
+                                    "p_cn": "ni lia shuo de you churu",
+                                    "p": "nǐ liǎ shuō de yǒu chūrù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 36,
+                "search": 856
+            },
+            "snym": {
+                "syno": [
+                    "进出",
+                    "相差",
+                    "收支"
+                ],
+                "anto": [
+                    "吻合",
+                    "进出"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "chūrù",
+            "cn_vi": "xuất nhập",
+            "word": "出入",
+            "id": 8286,
+            "phonetic": "churu",
+            "rank": 11031,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄔㄨ",
+            "_id": "e8f230472f314070a84846cb60e9da08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để xác định",
+                            "explain": "to determine",
+                            "examples": [
+                                {
+                                    "m": "phân định những đồ cổ lâu năm được đào lên.",
+                                    "p_vn": "phan dinh nhung do co lau nam duoc dao len",
+                                    "_id": "348c30003d270430ab0fdd928711fc54",
+                                    "id": 20509,
+                                    "type": "e_cnvi",
+                                    "e": "鉴定出土文物的年代。",
+                                    "p_cn": "jianding chutu wenwu de niandai",
+                                    "p": "jiàndìng chūtǔwénwù de niándài。"
+                                },
+                                {
+                                    "m": "đối với các phương án tiến hành lựa chọn phương án, xác định phương án nào tối ưu nhất.",
+                                    "p_vn": "doi voi cac phuong an tien hanh lua chon phuong an xac dinh phuong an nao toi uu nhat",
+                                    "_id": "ed990346a6375cdc6c6756dc1c0bb3b0",
+                                    "id": 46430,
+                                    "type": "e_cnvi",
+                                    "e": "对各种方案进行优选，确定出最佳方案。",
+                                    "p_cn": "dui ge zhong fangan jinxing youxuan queding chu zui jia fangan",
+                                    "p": "dùi gèzhǒng fāngàn jìnxíng yōuxuǎn，quèdìng chū zùijiā fāngàn。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "để sửa chữa",
+                            "explain": "to fix upon",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để đặt (mục tiêu, giá, v.v.)",
+                            "explain": "to set (a target, a price etc)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "định xuất",
+            "pinyin": "dìng chū",
+            "word": "定出",
+            "id": 102419,
+            "phonetic": "dingchu",
+            "rank": 79837,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄢˋㄔㄨ",
+            "_id": "8eae126fd36242d0a96617368b163ee1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tràn ra ngoài",
+                            "explain": "to spill out",
+                            "examples": [
+                                {
+                                    "m": "Hoàng hôn; sau khi ánh nắng cuối cùng của mặt trời lặn, không khí trong bầu trời phát tán ra ánh sáng tạm thời.",
+                                    "p_vn": "Hoang hon; sau khi anh nang cuoi cung cua mat troi lan, khong khi trong bau troi phat tan ra anh sang tam thoi.",
+                                    "_id": "ac1b597cb3d541d1b7c70a23639e2377",
+                                    "id": 71974,
+                                    "type": "e_cnvi",
+                                    "e": "晚霞；余晖日落后，天空中的大气所发散出的短暂光辉",
+                                    "p_cn": "wanxia yuhui ri luohou tiankong zhongdi daqi suo fasan chu de duanzan guanghui",
+                                    "p": "wǎnxiá yúhuī rì luòhòu tiānkōng zhòngdì dàqì suǒ fāsàn chū de duǎnzàn guānghuī"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "tán xuất",
+            "pinyin": "sàn chū",
+            "word": "散出",
+            "id": 97128,
+            "phonetic": "sanchu",
+            "rank": 74704,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄚˊㄔㄨ",
+            "_id": "bbd585d6c97c46778972d1644f2b4c4c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trượt ra ngoài",
+                            "explain": "to slip out",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chuồi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "hoạt xuất",
+            "pinyin": "huá chū",
+            "word": "滑出",
+            "id": 98173,
+            "phonetic": "huachu",
+            "rank": 91653,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˋㄔㄨ",
+            "_id": "c0a7adbad1c9484fa9ca1890893e2258",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gửi đi, cử đi, phái đi",
+                            "explain": "由总部派出的事务所。",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đồn công an",
+                            "explain": "公安派出所。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 351
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "pàichū",
+            "cn_vi": "phái xuất",
+            "word": "派出",
+            "id": 97980,
+            "phonetic": "paichu",
+            "rank": 20018,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄑㄩㄝ",
+            "_id": "d4f804c8d3bd642c07fdda74243436b4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khuyết chức; chức vụ còn bỏ trống (do người giữ chức đó từ chức hay bị chết)",
+                            "explain": "因原任人员 (多指职位较高的) 离职或死亡而职位空出来",
+                            "examples": [
+                                {
+                                    "m": "uỷ viên bị khuyết, lần lượt bổ sung dần.",
+                                    "p_vn": "uy vien bi khuyet lan luot bo sung dan",
+                                    "_id": "b5f08c763339e37a3c1b3cbec1b5d35e",
+                                    "id": 8243,
+                                    "type": "e_cnvi",
+                                    "e": "委员出缺，由候补委员递补。",
+                                    "p_cn": "weiyuan chuque you houbu weiyuan dibu",
+                                    "p": "wěiyuán chūquē，yóu hòubǔwěiyuán dìbǔ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "xuất khuyết",
+            "pinyin": "chūquē",
+            "word": "出缺",
+            "id": 8280,
+            "phonetic": "chuque",
+            "rank": 74062,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄔㄨ",
+            "topic": "35, 60",
+            "_id": "d76e06ec6e5aa760c435737abd4f9c44",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "ra khỏi; rút khỏi",
+                            "explain": "离开会场或其他场所，不再参加;脱离团体或组织",
+                            "examples": [
+                                {
+                                    "m": "ra khỏi hội trường",
+                                    "p_vn": "ra khoi hoi truong",
+                                    "_id": "5e7b2f927a41628ca371cd609ade6417",
+                                    "id": 39817,
+                                    "type": "e_cnvi",
+                                    "e": "退出会场",
+                                    "p_cn": "tuichu huichang",
+                                    "p": "tùichū hùicháng"
+                                },
+                                {
+                                    "m": "rút khỏi cuộc chiến đấu",
+                                    "p_vn": "rut khoi cuoc chien dau",
+                                    "_id": "4a8c29ded59f99385b3e7751f379678f",
+                                    "id": 39818,
+                                    "type": "e_cnvi",
+                                    "e": "退出战斗",
+                                    "p_cn": "tuichu zhandou",
+                                    "p": "tùichū zhàndǒu"
+                                },
+                                {
+                                    "m": "ra khỏi tổ chức",
+                                    "p_vn": "ra khoi to chuc",
+                                    "_id": "97a48626e1648ed1afe05e34cb3d692e",
+                                    "id": 39819,
+                                    "type": "e_cnvi",
+                                    "e": "退出组织",
+                                    "p_cn": "tuichu zuzhi",
+                                    "p": "tùichū zǔzhī"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "đăng xuất (log out)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 176,
+                "search": 1540
+            },
+            "snym": {
+                "syno": [
+                    "脱离"
+                ],
+                "anto": [
+                    "投入",
+                    "进入",
+                    "加入",
+                    "参加",
+                    "参见",
+                    "潜行",
+                    "加载",
+                    "闯入"
+                ]
+            },
+            "lv_hsk_new": "3",
+            "pinyin": "tuìchū",
+            "cn_vi": "thối xuất",
+            "word": "退出",
+            "id": 51949,
+            "phonetic": "tuichu",
+            "rank": 6892,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄌㄨㄛˋ",
+            "_id": "d681198a5b41b2ac3f8c6a346935cb7f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trổ mã; xinh ra; xinh đẹp ra (thường chỉ sự thay đổi dung mạo của con gái)",
+                            "explain": "青年人 (多指女性) 的体态、容貌 (向美好的方面) 变化",
+                            "examples": [
+                                {
+                                    "m": "nửa năm trời không gặp, trông con bé xinh hẳn lên.",
+                                    "p_vn": "nua nam troi khong gap trong con be xinh han len",
+                                    "_id": "84f33057199df4fd6622e42458c387f0",
+                                    "id": 5251,
+                                    "type": "e_cnvi",
+                                    "e": "半年没见，小妞儿出落得更漂亮了。",
+                                    "p_cn": "bannian mei jian xiaoniu er chu luo de geng piaoliangle",
+                                    "p": "bànnián méi jiàn，xiǎonīuér chū luòdé gèng piāoliàng le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 79
+            },
+            "snym": {
+                "syno": [
+                    "出挑",
+                    "显现",
+                    "变成"
+                ]
+            },
+            "cn_vi": "xuất lạc",
+            "pinyin": "chū luo",
+            "word": "出落",
+            "id": 8257,
+            "phonetic": "chuluo",
+            "rank": 46837,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "出"
+}

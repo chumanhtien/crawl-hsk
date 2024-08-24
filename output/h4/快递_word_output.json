@@ -1,0 +1,3039 @@
+{
+    "total": 305,
+    "found": true,
+    "result": [
+        {
+            "measure": {
+                "pinyin": "gè",
+                "measure": "个"
+            },
+            "zhuyin": "ㄎㄨㄞˋㄉㄧˋ",
+            "_id": "c64adfa3285ce93445d0dbd4058d39e2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hàng chuyển phát nhanh; hàng online",
+                            "explain": "快速递送的货",
+                            "examples": [
+                                {
+                                    "m": "Tôi nhận được một món hàng chuyển phát nhanh.",
+                                    "p_vn": "toi nhan duoc mot mon hang chuyen phat nhanh.",
+                                    "_id": "641148288b13f4cf43a85133e87493f8",
+                                    "id": 116101,
+                                    "type": "e_cnvi",
+                                    "e": "我收到一个快递。",
+                                    "p_cn": "wo shou dao yige kuaidi.",
+                                    "p": "wǒ shōu dào yīgè kuàidì."
+                                },
+                                {
+                                    "m": "Kiện hàng chuyển phát nhanh này rất quan trọng.",
+                                    "p_vn": "kien hang chuyen phat nhanh nay rat quan trong.",
+                                    "_id": "641148288b13f4cf43a85133e874a217",
+                                    "id": 116103,
+                                    "type": "e_cnvi",
+                                    "e": "这个快递很重要。",
+                                    "p_cn": "zhege kuaidi hen zhongyao.",
+                                    "p": "zhège kuàidì hěn zhòngyào."
+                                },
+                                {
+                                    "m": "Hàng chuyển phát nhanh này là của bạn đó.",
+                                    "p_vn": "hang chuyen phat nhanh nay la cua ban do.",
+                                    "_id": "641148288b13f4cf43a85133e874cbea",
+                                    "id": 116108,
+                                    "type": "e_cnvi",
+                                    "e": "这快递是你的。",
+                                    "p_cn": "zhe kuaidi shi ni de.",
+                                    "p": "zhè kuàidì shì nǐ de."
+                                },
+                                {
+                                    "m": "Hàng chuyển phát nhanh đang ở trên bàn.",
+                                    "p_vn": "hang chuyen phat nhanh dang o tren ban.",
+                                    "_id": "641148288b13f4cf43a85133e874d4c5",
+                                    "id": 116109,
+                                    "type": "e_cnvi",
+                                    "e": "快递放在桌上。",
+                                    "p_cn": "kuaidi fang zai zhuo shang.",
+                                    "p": "kuàidì fàng zài zhuō shàng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "A chuyển phát nhanh cho B",
+                            "examples": [
+                                116117,
+                                116131,
+                                116132
+                            ],
+                            "struct": "A + 快递 + 给 + B"
+                        },
+                        {
+                            "explain": "A đã chuyển phát nhanh/ đã giao cái gì",
+                            "examples": [
+                                116120,
+                                116135
+                            ],
+                            "struct": "A + 快递 + 了 + ..."
+                        },
+                        {
+                            "explain": "câu chữ \"把\"",
+                            "examples": [
+                                116123,
+                                116126,
+                                116127
+                            ],
+                            "struct": "A + 把 + B + 快递..."
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chuyển phát nhanh; giao hàng; giao đồ",
+                            "explain": "由专门邮递员负责的快速递送服务",
+                            "examples": [
+                                {
+                                    "m": "Tôi phải chuyển phát nhanh một tập văn kiện.",
+                                    "p_vn": "toi phai chuyen phat nhanh mot tap van kien.",
+                                    "_id": "641148288b13f4cf43a85133e874a272",
+                                    "id": 116104,
+                                    "type": "e_cnvi",
+                                    "e": "我要快递一份文件。",
+                                    "p_cn": "wo yao kuaidi yi fen wenjian.",
+                                    "p": "wǒ yào kuàidì yī fèn wénjiàn."
+                                },
+                                {
+                                    "m": "Anh ấy đã giao đồ.",
+                                    "p_vn": "anh ay da giao do.",
+                                    "_id": "641148288b13f4cf43a85133e874b0ac",
+                                    "id": 116105,
+                                    "type": "e_cnvi",
+                                    "e": "他把东西快递过去。",
+                                    "p_cn": "ta ba dongxi kuaidi guoqu.",
+                                    "p": "tā bǎ dōngxi kuàidì guòqù."
+                                },
+                                {
+                                    "m": "Chị gái tôi đã giao một cuốn sách.",
+                                    "p_vn": "chi gai toi da giao mot cuon sach.",
+                                    "_id": "641148288b13f4cf43a85133e874fc0d",
+                                    "id": 116114,
+                                    "type": "e_cnvi",
+                                    "e": "姐姐快递了一本书。",
+                                    "p_cn": "jiejie kuaidile yi ben shu.",
+                                    "p": "jiějie kuàidìle yī běn shū."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 366,
+                "search": 4563
+            },
+            "snym": {
+                "syno": [
+                    "邮递",
+                    "速递",
+                    "邮寄",
+                    "邮政"
+                ]
+            },
+            "lv_hsk_new": "4",
+            "pinyin": "kuàidì",
+            "cn_vi": "khoái đệ",
+            "word": "快递",
+            "id": 75787,
+            "phonetic": "kuaidi",
+            "rank": 2656,
+            "kind": [
+                "n",
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "51a07cff2ce94b31a2951d61d736a44c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xe tốc hành",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khoái đệ xa",
+            "pinyin": "kuàidì chē",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "快递车",
+            "id": 185471,
+            "phonetic": "kuaidiche",
+            "rank": 125744,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄨㄞˋㄉㄧˋㄩㄢˊ",
+            "_id": "402ad12e64cb4077b4851f1dc8b3d4e3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bưu tá",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Không có ngày nghỉ, người chuyển phát nhanh làm việc theo ca, và việc giao hàng diễn ra bình thường.",
+                                    "p_vn": "Khong co ngay nghi, nguoi chuyen phat nhanh lam viec theo ca, va viec giao hang dien ra binh thuong.",
+                                    "_id": "72388acbea4540f2b6be47ab35781b80",
+                                    "id": 56008,
+                                    "type": "e_cnvi",
+                                    "e": "不放假,快递员轮休制,正常派送。",
+                                    "p_cn": "Bu fangjia, kuaidi yuan lunxiu zhi, zhengchang paisong.",
+                                    "p": "Bù fàngjià, kuàidì yuán lúnxiū zhì, zhèngcháng pàisòng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 85,
+                "search": 900
+            },
+            "snym": null,
+            "cn_vi": "khoái đệ viên",
+            "pinyin": "kuàidì yuán",
+            "word": "快递员",
+            "id": 85360,
+            "phonetic": "kuaidiyuan",
+            "rank": 10640,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄨㄣㄏㄠˊㄎㄨㄞˋㄉㄧˋ",
+            "_id": "9f5ea6a03039415b9801fb18b6a10bbb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "DHL",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "đôn hào khoái đệ",
+            "pinyin": "dūn háo kuàidì",
+            "word": "敦豪快递",
+            "id": 134696,
+            "phonetic": "dunhaokuaidi",
+            "rank": 143232,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "090003c1fe26478799abdfd3e1b3147c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chuyển phát nhanh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 51
+            },
+            "snym": null,
+            "cn_vi": "khoái đệ đáo phó",
+            "pinyin": "kuàidì dào fù",
+            "word": "快递到付",
+            "id": 167355,
+            "phonetic": "kuaididaofu",
+            "rank": 57548,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧㄢˊㄅㄤㄎㄨㄞˋㄉㄧˋ",
+            "_id": "116ad7b2731d445abf5b4430147dec83",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "FedEx",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "A fumatore ở Brindisi FedEx me salami",
+                                    "p_vn": "A fumatore o Brindisi FedEx me salami",
+                                    "_id": "5bd8a1850d31469c9c260ee5ae15d0e7",
+                                    "id": 62909,
+                                    "type": "e_cnvi",
+                                    "e": "联邦快递寄来的意大利烤肠",
+                                    "p_cn": "lianbangkuaidi jilai de yidali kaochang",
+                                    "p": "liánbāngkuàidì jìlái de yìdàlì kǎocháng"
+                                },
+                                {
+                                    "m": "Trước khi Fedex thực hiện với nhiều tập lệnh hơn.",
+                                    "p_vn": "Truoc khi Fedex thuc hien voi nhieu tap lenh hon.",
+                                    "_id": "6339cc0a49c14edf87194fdc8995c091",
+                                    "id": 62910,
+                                    "type": "e_cnvi",
+                                    "e": "免得让联邦快递送来更多剧本吧",
+                                    "p_cn": "miande rang lianbangkuaidi songlai geng duo juben ba",
+                                    "p": "miǎndé ràng liánbāngkuàidì sònglái gèng duō jùběn ba"
+                                },
+                                {
+                                    "m": "Nó nằm trong hộp FedEx trên đường trở về nơi xuất phát.",
+                                    "p_vn": "No nam trong hop FedEx tren duong tro ve noi xuat phat.",
+                                    "_id": "31924f37c69943e7bb98cfdba78e5834",
+                                    "id": 62911,
+                                    "type": "e_cnvi",
+                                    "e": "在联邦快递的盒子里回它原来的地方去了",
+                                    "p_cn": "zai lianbangkuaidi de hezi li hui ta yuanlai de difang qu le",
+                                    "p": "zài liánbāngkuàidì de hézǐ lǐ húi tā yuánlái de dìfāng qù le"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 97
+            },
+            "snym": null,
+            "cn_vi": "liên bang khoái đệ",
+            "pinyin": "liánbāng kuàidì",
+            "word": "联邦快递",
+            "id": 139841,
+            "phonetic": "lianbangkuaidi",
+            "rank": 42249,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄜˋㄎㄨㄞˋㄓㄨㄢㄉㄧˋ",
+            "_id": "247bc8ac30b74a1781f239c2fa5a477f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chuyển phát nhanh",
+                            "explain": "express mail",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 175
+            },
+            "snym": null,
+            "cn_vi": "đặc khoái chuyên đệ",
+            "pinyin": "tèkuài zhuāndì",
+            "word": "特快专递",
+            "id": 137638,
+            "phonetic": "tekuaizhuandi",
+            "rank": 30609,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "dab70396326f459d8f10bf347d761177",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dịch vụ vận tải (thư tín hoặc hàng hoá)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 57
+            },
+            "snym": null,
+            "cn_vi": "khoái đệ phục vụ",
+            "pinyin": "kuàidì fúwù",
+            "word": "快递服务",
+            "id": 166419,
+            "phonetic": "kuaidifuwu",
+            "rank": 54756,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋ",
+            "_id": "6f3955385ee1750c88041bb4b82e9bc3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "câu chữ 把",
+                            "examples": [
+                                98758,
+                                98759
+                            ],
+                            "struct": "把 + Tân ngữ（水/书/手机/作业/杯子）+ 递给 + Ai đó"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                98766,
+                                98767,
+                                98768
+                            ],
+                            "struct": "把 + Tân ngữ（水/书/手机...）+ 递给 + Ai đó"
+                        },
+                        {
+                            "explain": "bổ ngữ khả năng",
+                            "examples": [
+                                98771,
+                                98772
+                            ],
+                            "struct": "递 + 一下/上去/上来/进来..."
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "truyền đạt; chuyển; chuyển giao; đưa; đệ trình",
+                            "explain": "传达;传递",
+                            "examples": [
+                                {
+                                    "m": "Đưa cho tôi",
+                                    "p_vn": "dua cho toi",
+                                    "_id": "0ccbeb5b0fd9be32d00cde9348ea1886",
+                                    "id": 8236,
+                                    "type": "e_cnvi",
+                                    "e": "投递给我。",
+                                    "p_cn": "toudi gei wo。",
+                                    "p": "tóudì gěi wǒ。"
+                                },
+                                {
+                                    "m": "Đưa mắt ra hiệu cho cô ấy.",
+                                    "p_vn": "dua mat ra hieu cho co ay.",
+                                    "_id": "e170b8599d0dc41d6af4f2ba1bbc82d7",
+                                    "id": 8238,
+                                    "type": "e_cnvi",
+                                    "e": "给她递了个眼色。",
+                                    "p_cn": "gei ta di le ge yanse",
+                                    "p": "gěi tā dì le gè yǎnsè"
+                                },
+                                {
+                                    "m": "Cô ấy cười và đưa cho tôi một tách trà.",
+                                    "p_vn": "co ay cuoi va dua cho toi mot tach tra.",
+                                    "_id": "55db399305625a14707d64b9182f7526",
+                                    "id": 98733,
+                                    "type": "e_cnvi",
+                                    "e": "她笑着递给我一杯茶。",
+                                    "p_cn": "ta xiaozhe di gei wo yibei cha.",
+                                    "p": "tā xiàozhe dì gěi wǒ yībēi chá."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lần lượt; theo thứ tự",
+                            "explain": "顺次",
+                            "examples": [
+                                {
+                                    "m": "tăng dần",
+                                    "p_vn": "tang dan",
+                                    "_id": "2df684abee5ae22877d0e1fa852fb125",
+                                    "id": 8239,
+                                    "type": "e_cnvi",
+                                    "e": "递增",
+                                    "p_cn": "dizeng",
+                                    "p": "dìzēng"
+                                },
+                                {
+                                    "m": "giảm dần",
+                                    "p_vn": "giam dan",
+                                    "_id": "a56074cb1127e3c90e015f5cd16faaff",
+                                    "id": 8240,
+                                    "type": "e_cnvi",
+                                    "e": "递减",
+                                    "p_cn": "dijian",
+                                    "p": "dìjiǎn"
+                                },
+                                {
+                                    "m": "lên dần",
+                                    "p_vn": "len dan",
+                                    "_id": "4d9fa6f09ccc40816f1b24bb3d4b015c",
+                                    "id": 8241,
+                                    "type": "e_cnvi",
+                                    "e": "递升",
+                                    "p_cn": "disheng",
+                                    "p": "dìshēng"
+                                },
+                                {
+                                    "m": "xuống dần",
+                                    "p_vn": "xuong dan",
+                                    "_id": "6666b2d8952873573c0cb52c3afc79ca",
+                                    "id": 8242,
+                                    "type": "e_cnvi",
+                                    "e": "递降",
+                                    "p_cn": "dijiang",
+                                    "p": "dìjiàng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 317,
+                "search": 5048
+            },
+            "snym": null,
+            "lv_hsk_new": "5",
+            "pinyin": "dì",
+            "cn_vi": "đệ.đái",
+            "word": "递",
+            "id": 12410,
+            "phonetic": "di",
+            "rank": 2377,
+            "lv_tocfl": 4,
+            "compound": "递补 ; 递归 ; 递加 ; 递减 ; 递降 ; 递交 ; 递解 ; 递进 ; 递嬗 ; 递升 ; 递送 ; 递条子 ; 递眼色 ; 递增"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄨㄣㄏㄠˊㄎㄨㄞˋㄉㄧˋㄍㄨㄥㄙ",
+            "_id": "15a1e273c9d343189e4a6924b64c44ec",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "DHL",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "đôn hào khoái đệ công ti",
+            "pinyin": "dūn háo kuàidì gōngsī",
+            "word": "敦豪快递公司",
+            "id": 145117,
+            "phonetic": "dunhaokuaidigongsi",
+            "rank": 156962,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                " adv",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄨㄞˋ",
+            "_id": "c42cd41b36f77e0e9588ab693d25ccf5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nhanh",
+                            "explain": "速度高；用时短 (跟“慢”相对)",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy chạy rất nhanh.",
+                                    "p_vn": "anh áy chạy rát nhanh.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9450234",
+                                    "id": 93624,
+                                    "type": "e_cnvi",
+                                    "e": "他跑得很快。",
+                                    "p_cn": "ta pao de hen kuai.",
+                                    "p": "tā pǎo de hěn kuài."
+                                },
+                                {
+                                    "m": "Cô ấy học rất nhanh.",
+                                    "p_vn": "co ay hoc rat nhanh.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42ad5d3",
+                                    "id": 120339,
+                                    "type": "e_cnvi",
+                                    "e": "她学得很快。",
+                                    "p_cn": "ta xue de hen kuai.",
+                                    "p": "tā xué de hěn kuài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhanh (tốc độ)",
+                            "explain": "反应迅速；敏捷",
+                            "examples": [
+                                {
+                                    "m": "Phản ứng của anh ấy rất nhanh.",
+                                    "p_vn": "phan ung cua anh ay rat nhanh.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42b041d",
+                                    "id": 120344,
+                                    "type": "e_cnvi",
+                                    "e": "他的反应速度很快。",
+                                    "p_cn": "ta de fanying sudu hen kuai.",
+                                    "p": "tā de fǎnyìng sùdù hěn kuài."
+                                },
+                                {
+                                    "m": "Tốc độ của chiếc xe này rất nhanh.",
+                                    "p_vn": "toc do cua chiec xe nay rat nhanh.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3c9eb25",
+                                    "id": 107816,
+                                    "type": "e_cnvi",
+                                    "e": "这辆车的速度很快。",
+                                    "p_cn": "zhe liang che de sudu hen kuai.",
+                                    "p": "zhè liàng chē de sùdù hěn kuài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhạy bén; lanh lợi",
+                            "explain": "灵敏",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy có đầu óc nhạy bén.",
+                                    "p_vn": "co ay co dau oc nhay ben.",
+                                    "_id": "55db399305625a14707d64b918796cb2",
+                                    "id": 100234,
+                                    "type": "e_cnvi",
+                                    "e": "她脑子很快。",
+                                    "p_cn": "ta naozi hen kuai.",
+                                    "p": "tā nǎozi hěn kuài."
+                                },
+                                {
+                                    "m": "Cô ấy rất lanh lợi.",
+                                    "p_vn": "co ay rat lanh loi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42b8263",
+                                    "id": 120357,
+                                    "type": "e_cnvi",
+                                    "e": "她的反应很快。",
+                                    "p_cn": "ta de fanying hen kuai.",
+                                    "p": "tā de fǎnyìng hěn kuài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sắc; bén",
+                            "explain": "锋利",
+                            "examples": [
+                                {
+                                    "m": "Con dao này rất sắc.",
+                                    "p_vn": "con dao nay rat sac.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42b2e42",
+                                    "id": 120351,
+                                    "type": "e_cnvi",
+                                    "e": "这把刀很快。",
+                                    "p_cn": "zhe ba dao hen kuai.",
+                                    "p": "zhè bǎ dāo hěn kuài."
+                                },
+                                {
+                                    "m": "Kiếm của anh ấy rất sắc.",
+                                    "p_vn": "kiem cua anh ay rat sac.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42b3e00",
+                                    "id": 120352,
+                                    "type": "e_cnvi",
+                                    "e": "他的剑很快。",
+                                    "p_cn": "ta de jian hen kuai.",
+                                    "p": "tā de jiàn hěn kuài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thẳng thắn",
+                            "explain": "爽快; 痛快",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy là một người thẳng thắn.",
+                                    "p_vn": "anh ay la mot nguoi thang than.",
+                                    "_id": "55db399305625a14707d64b9187b5db3",
+                                    "id": 100282,
+                                    "type": "e_cnvi",
+                                    "e": "他是个快人。",
+                                    "p_cn": "ta shige kuai ren.",
+                                    "p": "tā shìge kuài rén."
+                                },
+                                {
+                                    "m": "Anh ấy nói chuyện rất thẳng thắn.",
+                                    "p_vn": "anh ay noi chuyen rat thang than.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42b8f12",
+                                    "id": 120358,
+                                    "type": "e_cnvi",
+                                    "e": "他说话很快。",
+                                    "p_cn": "ta shuohua hen kuai.",
+                                    "p": "tā shuōhuà hěn kuài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vui vẻ; vui mừng; vui sướng; thoải mái",
+                            "explain": "愉快; 高兴",
+                            "examples": [
+                                {
+                                    "m": "Chúc bạn sinh nhật vui vẻ.",
+                                    "p_vn": "chúc bạn sinh nhạt vui vẻ.",
+                                    "_id": "5f1adf3e4794a18d885701d1a31e3202",
+                                    "id": 79478,
+                                    "type": "e_cnvi",
+                                    "e": "祝你生日快乐！",
+                                    "p_cn": "zhu ni shengri kuaile!",
+                                    "p": "zhù nǐ shēngrì kuàilè!"
+                                },
+                                {
+                                    "m": "Trẻ em chơi rất vui vẻ.",
+                                    "p_vn": "tre em choi rat vui ve.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42b9806",
+                                    "id": 120359,
+                                    "type": "e_cnvi",
+                                    "e": "孩子们玩得很快。",
+                                    "p_cn": "haizimen wan de hen kuai.",
+                                    "p": "háizimen wán dé hěn kuài."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "sắp; gần",
+                            "explain": "快要",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy sắp tốt nghiệp.",
+                                    "p_vn": "co ay sap tot nghiep.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42ba859",
+                                    "id": 120361,
+                                    "type": "e_cnvi",
+                                    "e": "她快要毕业了。",
+                                    "p_cn": "ta kuaiyao biyele.",
+                                    "p": "tā kuàiyào bìyèle."
+                                },
+                                {
+                                    "m": "Chúng ta sắp ăn cơm rồi.",
+                                    "p_vn": "chung ta sap an com roi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42bb4b7",
+                                    "id": 120362,
+                                    "type": "e_cnvi",
+                                    "e": "我们快要吃饭了。",
+                                    "p_cn": "women kuaiyao chifanle.",
+                                    "p": "wǒmen kuàiyào chīfànle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhanh; nhanh chóng; mau chóng",
+                            "explain": "赶快; 从速",
+                            "examples": [
+                                {
+                                    "m": "Nhanh chóng gửi tài liệu đến văn phòng.",
+                                    "p_vn": "nhanh chong gui tai lieu den van phong.",
+                                    "_id": "55db399305625a14707d64b91878a5dc",
+                                    "id": 100213,
+                                    "type": "e_cnvi",
+                                    "e": "快送资料到办公室。",
+                                    "p_cn": "kuai song ziliao dao bangongshi.",
+                                    "p": "kuài sòng zīliào dào bàngōngshì."
+                                },
+                                {
+                                    "m": "Nhanh lên, chúng ta muộn rồi.",
+                                    "p_vn": "nhanh len, chung ta muon roi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf42b240c",
+                                    "id": 120348,
+                                    "type": "e_cnvi",
+                                    "e": "快点，我们迟到了。",
+                                    "p_cn": "kuai dian, women chidaole.",
+                                    "p": "kuài diǎn, wǒmen chídàole."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sai nha (chỉ người chuyên đi bắt tội phạm)",
+                            "explain": "警察",
+                            "examples": [
+                                {
+                                    "m": "Sai nha đang truy đuổi tội phạm chạy trốn.",
+                                    "p_vn": "sai nha dang truy duoi toi pham chay tron.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c3c79f9",
+                                    "id": 133572,
+                                    "type": "e_cnvi",
+                                    "e": "快正在追捕逃犯。",
+                                    "p_cn": "kuai zhengzai zhuibu taofan.",
+                                    "p": "kuài zhèngzài zhuībǔ táofàn."
+                                },
+                                {
+                                    "m": "Sai nha đó xử lý vụ án rất nhanh chóng.",
+                                    "p_vn": "sai nha do xu ly vu an rat nhanh chong.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c3c810d",
+                                    "id": 133573,
+                                    "type": "e_cnvi",
+                                    "e": "那快办案非常迅速。",
+                                    "p_cn": "na kuai ban an feichang xunsu.",
+                                    "p": "nà kuài bàn àn fēicháng xùnsù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"快速\" là tính từ đơn nghĩa không vị ngữ, trong văn viết dùng làm trạng ngữ, \"快\" có ý nghĩa của \"快速\"， nhưng là tính từ đa nghĩa, thu9owngf dùng trong văn nói.\n\"快\" có những ý nghĩa khác mà \"快速\" không có",
+                    "title": "Phân biệt \"快速\" và \"快\"",
+                    "words": [
+                        "快速",
+                        "快"
+                    ]
+                },
+                {
+                    "mean_vi": "- \"迅速\" chỉ có nghĩa là chỉ tốc độ nhanh, \"快\" ngoài nghĩa chỉ tốc độ nhanh ra thì còn có những nghĩa khác.\n- \"快\" còn là một ngữ tố, có khả năng tổ hợp từ, \"迅速\" không có khả năng tổ hợp từ.",
+                    "title": "Phân biệt \"迅速\" và \"快\"",
+                    "words": [
+                        "迅速",
+                        "快"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "速",
+                    "疾",
+                    "急"
+                ],
+                "anto": [
+                    "慢",
+                    "钝"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "kuài",
+            "cn_vi": "khoái",
+            "popularity": {
+                "notebook": 890,
+                "search": 23504
+            },
+            "word": "快",
+            "id": 32851,
+            "phonetic": "kuai",
+            "rank": 199,
+            "lv_hsk": 1,
+            "lv_tocfl": 1,
+            "compound": "快板儿 ; 快报 ; 快步流星 ; 快餐 ; 快车 ; 快当 ; 快刀斩乱麻 ; 快感 ; 快活 ; 快件 ; 快捷 ; 快乐 ; 快马加鞭 ; 快慢 ; 快慢针 ; 快人快语 ; 快事 ; 快手 ; 快书 ; 快速 ; 快艇 ; 快慰 ; 快信 ; 快性 ; 快婿 ; 快讯 ; 快要 ; 快意 ; 快鱼 ; 快嘴"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄐㄧㄢˇ",
+            "_id": "ec84fec758fc0d89c65ede5fc5a6acfc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giảm dần; đệ giảm",
+                            "explain": "一次比一次减少",
+                            "examples": [
+                                {
+                                    "m": "năng suất lao động nâng cao dần, theo đó giá thành sản phẩm giảm dần.",
+                                    "p_vn": "nang suat lao dong nang cao dan theo do gia thanh san pham giam dan",
+                                    "_id": "1ed66b0cee7cd34a1684e0dfbc8be915",
+                                    "id": 8244,
+                                    "type": "e_cnvi",
+                                    "e": "劳动生产率逐步提高，产品的成本也随着递减。",
+                                    "p_cn": "laodong shengchanlu zhubu tigao chanpin de chengben ye suizhe dijian",
+                                    "p": "láodòng shēngchǎnlǜ zhúbù tígāo, chǎnpǐn de chéngběn yě suízhe dìjiǎn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 32,
+                "search": 211
+            },
+            "snym": {
+                "anto": [
+                    "递增",
+                    "递加",
+                    "增盈",
+                    "翻番"
+                ]
+            },
+            "cn_vi": "đệ giảm",
+            "pinyin": "dìjiǎn",
+            "word": "递减",
+            "id": 12414,
+            "phonetic": "dijian",
+            "rank": 27402,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄐㄧㄠ",
+            "_id": "e9e7b97e0f3ae40d2a9e5c843912bfdb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "trình; đưa tận tay; trao tay; đệ trình; đệ giao",
+                            "explain": "当面送交",
+                            "examples": [
+                                {
+                                    "m": "trao tận tay",
+                                    "p_vn": "trao tan tay",
+                                    "_id": "131ab537047e79ec8507c7d543b73e50",
+                                    "id": 8246,
+                                    "type": "e_cnvi",
+                                    "e": "递交本人",
+                                    "p_cn": "dijiāo běnren",
+                                    "p": "dìjiāo běnrén"
+                                },
+                                {
+                                    "m": "đệ trình quốc thư; trình quốc thư",
+                                    "p_vn": "de trinh quoc thu; trinh quoc thu",
+                                    "_id": "ac8c6c583c156dcb367c7bdcb53f5e00",
+                                    "id": 8247,
+                                    "type": "e_cnvi",
+                                    "e": "递交国书",
+                                    "p_cn": "dijiāoguoshū",
+                                    "p": "dìjiāoguóshū"
+                                },
+                                {
+                                    "m": "Cô ấy đã đệ đơn từ chức tới lãnh đạo.",
+                                    "p_vn": "co ay da de don tu chuc toi lanh dao.",
+                                    "_id": "4631b2e43fa985657c5379086c4e19cc",
+                                    "id": 68375,
+                                    "e": "她向领导递交了自己的辞呈",
+                                    "p_cn": "tā xiang lǐngdǎo dijiāole zijǐ de cicheng",
+                                    "type": "e_cnvi",
+                                    "p": "tā xiàng lǐngdǎo dìjiāole zìjǐ de cíchéng"
+                                },
+                                {
+                                    "m": "Giúp tớ giao tài liệu này cho lãnh đạo nha",
+                                    "p_vn": "giup to giao tai lieu nay cho lanh dao nha",
+                                    "_id": "4631b2e43fa985657c5379086c4e1ed5",
+                                    "id": 68376,
+                                    "e": "帮我把这份文件递交给领导",
+                                    "p_cn": "bāng wǒ bǎ zhe fen wenjian dijiāo gěi lǐngdǎo",
+                                    "type": "e_cnvi",
+                                    "p": "bāng wǒ bǎ zhè fèn wénjiàn dìjiāo gěi lǐngdǎo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 42,
+                "search": 467
+            },
+            "snym": {
+                "syno": [
+                    "呈交"
+                ],
+                "anto": [
+                    "接受"
+                ]
+            },
+            "cn_vi": "đệ giao",
+            "pinyin": "dìjiāo",
+            "word": "递交",
+            "id": 12416,
+            "phonetic": "dijiao",
+            "rank": 16675,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "19, 75, 76",
+            "zhuyin": "ㄓㄨㄢㄉㄧˋ",
+            "_id": "263774de08544ce58e5e7fe495e44e4e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chuyển phát nhanh",
+                            "explain": "courier",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giao hàng đặc biệt",
+                            "explain": "special delivery",
+                            "examples": [
+                                {
+                                    "m": "Đoán xem hôm nay ai nhận được giao hàng đặc biệt khác.",
+                                    "p_vn": "Doan xem hom nay ai nhan duoc giao hang dac biet khac.",
+                                    "_id": "7bc6a67d4dae4a599ad76125d3507af0",
+                                    "id": 64903,
+                                    "type": "e_cnvi",
+                                    "e": "猜猜看谁又收到了特别专递",
+                                    "p_cn": "caicaikan shui you shoudao le tebie zhuandi",
+                                    "p": "cāicāikàn shúi yòu shōudào le tèbié zhuāndì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 191
+            },
+            "snym": null,
+            "cn_vi": "chuyên đệ",
+            "pinyin": "zhuāndì",
+            "word": "专递",
+            "id": 101049,
+            "phonetic": "zhuandi",
+            "rank": 29159,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄐㄧㄣˋ",
+            "_id": "8274c330ade92033a80c9961ccfffcbf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tiến dần lên; lần lượt tiến lên",
+                            "explain": "程度依次加深逐步前进",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 18,
+                "search": 690
+            },
+            "snym": {
+                "syno": [
+                    "跟进"
+                ]
+            },
+            "cn_vi": "đệ tiến",
+            "pinyin": "dì jìn",
+            "word": "递进",
+            "id": 12418,
+            "phonetic": "dijin",
+            "rank": 12838,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄉㄧˋ",
+            "_id": "46e654bbac913608224d5e51390fc4f5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chuyển; gửi (bưu kiện)",
+                            "explain": "邮局递送邮件",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 22
+            },
+            "snym": {
+                "syno": [
+                    "递送"
+                ]
+            },
+            "cn_vi": "kí đệ",
+            "pinyin": "jìdì",
+            "word": "寄递",
+            "id": 27338,
+            "phonetic": "jidi",
+            "rank": 80291,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄐㄧㄤˋ",
+            "_id": "54f39f4d8842a976ac8c4e2fdb22e178",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuống dần; hạ dần; giảm dần",
+                            "explain": "一次比一次降低",
+                            "examples": [
+                                {
+                                    "m": "cải tiến công nghệ, khiến cho tiêu hao nguyên liệu hàng tháng giảm dần.",
+                                    "p_vn": "cai tien cong nghe khien cho tieu hao nguyen lieu hang thang giam dan",
+                                    "_id": "96f3b8c7517264b2287e4fe708017cd1",
+                                    "id": 8245,
+                                    "type": "e_cnvi",
+                                    "e": "改进工艺，使原材料消耗逐月递降。",
+                                    "p_cn": "gaijin gongyi shi yuancailiao xiaohao zhu yue dijiang",
+                                    "p": "gǎijìn gōngyì，shǐ yuáncáiliào xiāohào zhúyuè dìjiàng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "đệ giáng",
+            "pinyin": "dìjiàng",
+            "word": "递降",
+            "id": 12415,
+            "phonetic": "dijiang",
+            "rank": 107166,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "19, 75, 76",
+            "zhuyin": "ㄙㄨˋㄉㄧˋ",
+            "_id": "79c75a92641c4280a9f295c457bef1a4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chuyển phát nhanh",
+                            "explain": "courier",
+                            "examples": [
+                                {
+                                    "m": "Bạn có phải là người chuyển phát nhanh Homer Simpson không?",
+                                    "p_vn": "Ban co phai la nguoi chuyen phat nhanh Homer Simpson khong?",
+                                    "_id": "e7ca5c51a31d4555bbabc04d5bf53c67",
+                                    "id": 56768,
+                                    "type": "e_cnvi",
+                                    "e": "你是临时速递员侯默·辛普森吗",
+                                    "p_cn": "ni shi linshi sudi yuanhoumo * xinpusen ma",
+                                    "p": "nǐ shì línshí sùdì yuánhóumò · xīnpǔsēn ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 173
+            },
+            "snym": {
+                "syno": [
+                    "快递"
+                ]
+            },
+            "cn_vi": "tốc đệ",
+            "pinyin": "sùdì",
+            "word": "速递",
+            "id": 89438,
+            "phonetic": "sudi",
+            "rank": 30818,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄐㄧㄝˇ",
+            "_id": "47d4a0e76cd0dd06341a7e49daae3a0a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giải chuyền; thay phiên nhau áp giải; áp giải (thời xưa khi giải tội phạm đi xa, các phủ huyện trên đường đi phải thay nhau áp giải tội phạm)",
+                            "explain": "旧时指把犯人解往外地，由沿途官府派人递相押送",
+                            "examples": [
+                                {
+                                    "m": "áp giải tội phạm về quê.",
+                                    "p_vn": "ap giai toi pham ve que",
+                                    "_id": "fb99c8bb37109ecc67c8e6ef5c36c70e",
+                                    "id": 8248,
+                                    "type": "e_cnvi",
+                                    "e": "递解还乡",
+                                    "p_cn": "dijie huan xiang",
+                                    "p": "dìjiě huánxiāng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "đệ giải",
+            "pinyin": "dìjiě",
+            "word": "递解",
+            "id": 12417,
+            "phonetic": "dijie",
+            "rank": 104066,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄍㄨㄟ",
+            "_id": "aebceba5b190fd215ddb6bc74a7cdf5e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đệ quy",
+                            "explain": "按照某一包含有限步数的法则或公式对一个或多个前面的元素进行运算，以确定一系列元素 (如数或函数) 的方法",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 45
+            },
+            "snym": null,
+            "cn_vi": "đệ quy",
+            "pinyin": "dìguī",
+            "word": "递归",
+            "id": 12412,
+            "phonetic": "digui",
+            "rank": 60832,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄡˊㄉㄧˋ",
+            "_id": "0cbd6f68b70268219b03b47105dd14e0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đưa; gửi; phát (công văn, thư tín...)",
+                            "explain": "送 (公文、信件等);递送",
+                            "examples": [
+                                {
+                                    "m": "bưu tá",
+                                    "p_vn": "buu ta",
+                                    "_id": "f400b8adff52908191e6b95696626a65",
+                                    "id": 39372,
+                                    "type": "e_cnvi",
+                                    "e": "投递员",
+                                    "p_cn": "toudiyuan",
+                                    "p": "tóudìyuán"
+                                },
+                                {
+                                    "m": "địa chỉ trong thư không rõ ràng, không thể phát được.",
+                                    "p_vn": "dia chi trong thu khong ro rang khong the phat duoc",
+                                    "_id": "9011fb30e103868d4f20adc0786e64a3",
+                                    "id": 39373,
+                                    "type": "e_cnvi",
+                                    "e": "信上地址不明，无法投递。",
+                                    "p_cn": "xin shang dizhi buming wufa toudi",
+                                    "p": "xìnshàng dìzhǐ bùmíng，wúfǎ tóudì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 39,
+                "search": 525
+            },
+            "snym": {
+                "syno": [
+                    "送达"
+                ]
+            },
+            "cn_vi": "đầu đệ",
+            "pinyin": "tóudì",
+            "word": "投递",
+            "id": 51551,
+            "phonetic": "toudi",
+            "rank": 15432,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "fbd063da2fbc48d7a91c74ed6fb0146d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đệ truyền",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đệ truyền",
+            "pinyin": "dì chuán",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "递传",
+            "id": 175224,
+            "phonetic": "dichuan",
+            "rank": 153832,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "1479e543fff04b508f4485f936c742c0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Gửi thư. Đem thư từ đi.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "đệ tín",
+            "pinyin": "dì xìn",
+            "word": "递信",
+            "id": 170670,
+            "phonetic": "dixin",
+            "rank": 138891,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄊㄨㄟ",
+            "_id": "7173c27c101449c780e5c25645f4fc30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sự tái xuất",
+                            "explain": "recurrence",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đệ quy",
+                            "explain": "recursion",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đệ quy (tính toán)",
+                            "explain": "recursive (calculation)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "đệ thôi",
+            "pinyin": "dì tuī",
+            "word": "递推",
+            "id": 93827,
+            "phonetic": "ditui",
+            "rank": 116951,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄓˋ",
+            "_id": "97279c0a932c4ce781d483370bc88822",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dẫn truyền thần kinh",
+                            "explain": "neurotransmitter",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "đệ chất",
+            "pinyin": "dì zhì",
+            "word": "递质",
+            "id": 93828,
+            "phonetic": "dizhi",
+            "rank": 91088,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄉㄧˋ",
+            "_id": "aa4ebb9fe45aa7f981a6aa7fd4128cf0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đệ trình; trình; đưa ra để xem xét; nộp; đệ",
+                            "explain": "恭敬地递上",
+                            "examples": [
+                                {
+                                    "m": "trình quốc thư.",
+                                    "p_vn": "trinh quoc thu",
+                                    "_id": "b2bd6a168f575e80e18fc1d233341821",
+                                    "id": 4693,
+                                    "type": "e_cnvi",
+                                    "e": "呈递国书。",
+                                    "p_cn": "chengdi guo shu",
+                                    "p": "chéngdì guóshū。"
+                                },
+                                {
+                                    "m": "trình công văn.",
+                                    "p_vn": "trinh cong van",
+                                    "_id": "11d071f0df0dc313b458caf4e4a48d68",
+                                    "id": 4694,
+                                    "type": "e_cnvi",
+                                    "e": "呈递公文。",
+                                    "p_cn": "chengdi gongwen",
+                                    "p": "chéngdì gōngwén。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 74
+            },
+            "snym": {
+                "syno": [
+                    "呈交",
+                    "呈上"
+                ]
+            },
+            "cn_vi": "trình đệ",
+            "pinyin": "chéngdì",
+            "word": "呈递",
+            "id": 7308,
+            "phonetic": "chengdi",
+            "rank": 48212,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄥˋㄉㄧˋ",
+            "_id": "017b4f96e2ad6fa719a4b6bb9f001ef1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thay đổi; đổi thay",
+                            "explain": "更迭",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "canh đệ",
+            "pinyin": "gèng dì",
+            "word": "更递",
+            "id": 19389,
+            "phonetic": "gengdi",
+            "rank": 144083,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "48c582ce83ff475ababc1fc1c11ae5ab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "xa xôi không biết tin tức nhau; dằng dặc",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": {
+                "syno": [
+                    "迢迢",
+                    "遥遥",
+                    "辽远",
+                    "遥远"
+                ]
+            },
+            "cn_vi": "điều đệ",
+            "pinyin": "tiáo dì",
+            "word": "迢递",
+            "id": 170182,
+            "phonetic": "tiaodi",
+            "rank": 147779,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄨㄞˋㄎㄨㄞˋㄌㄜˋㄌㄜˋ",
+            "_id": "16538fe342864f229604b12518f83f93",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sung sướng",
+                            "explain": "happy",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 228
+            },
+            "snym": {
+                "syno": [
+                    "高高兴兴",
+                    "乐乐呵呵"
+                ],
+                "anto": [
+                    "凄凄惨惨",
+                    "凄凄惶惶"
+                ]
+            },
+            "cn_vi": "khoái khoái lạc lạc",
+            "pinyin": "kuài kuàilè lè",
+            "word": "快快乐乐",
+            "id": 134539,
+            "phonetic": "kuaikuailele",
+            "rank": 26198,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2c0f5cdda02a45b98a0296abcebb9f83",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đắp đổi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đệ đạn",
+            "pinyin": "dì chán",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "递澶",
+            "id": 173223,
+            "phonetic": "dichan",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄙㄨㄥˋ",
+            "_id": "3b56d8f362f8cb04f12d4149be81535e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đưa; chuyển; đệ (công văn, thư từ)",
+                            "explain": "送 (公文、信件等);投递",
+                            "examples": [
+                                {
+                                    "m": "chuyển bưu kiện",
+                                    "p_vn": "chuyen buu kien",
+                                    "_id": "f95adf8f82565edec5db9187a445fd25",
+                                    "id": 8249,
+                                    "type": "e_cnvi",
+                                    "e": "递送邮件",
+                                    "p_cn": "disong youjian",
+                                    "p": "dìsòng yóujiàn"
+                                },
+                                {
+                                    "m": "đưa tình báo",
+                                    "p_vn": "dua tinh bao",
+                                    "_id": "6c1fd74485b5d7801a2b97d6e2318fca",
+                                    "id": 8250,
+                                    "type": "e_cnvi",
+                                    "e": "递送情报",
+                                    "p_cn": "disong qingbao",
+                                    "p": "dìsòng qíngbào"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 113
+            },
+            "snym": {
+                "syno": [
+                    "寄递",
+                    "发送",
+                    "送信"
+                ],
+                "anto": [
+                    "接收"
+                ]
+            },
+            "cn_vi": "đệ tống",
+            "pinyin": "dìsòng",
+            "word": "递送",
+            "id": 12421,
+            "phonetic": "disong",
+            "rank": 39082,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄗㄥ",
+            "_id": "be1792978e0a88e018171fea23026b17",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tăng dần; tăng; đệ tăng",
+                            "explain": "一次比一次增加",
+                            "examples": [
+                                {
+                                    "m": "thu nhập tăng hàng năm.",
+                                    "p_vn": "thu nhap tang hang nam",
+                                    "_id": "6ed9fc4b67c1a9c62e77cca9d42e600f",
+                                    "id": 8251,
+                                    "type": "e_cnvi",
+                                    "e": "收入逐年递增",
+                                    "p_cn": "shouru zhunian dizeng",
+                                    "p": "shōurù zhúnián dìzēng"
+                                },
+                                {
+                                    "m": "sản xuất và tiêu thụ đều mạnh, thuế và lãi ngày càng tăng.",
+                                    "p_vn": "san xuat va tieu thu deu manh thue va lai ngay cang tang",
+                                    "_id": "011d9d7b51285e75ded4d8a7aca9113a",
+                                    "id": 8252,
+                                    "type": "e_cnvi",
+                                    "e": "产销两旺，税利递增。",
+                                    "p_cn": "chanxiao liang wang shuili dizeng",
+                                    "p": "chǎnxiāoliǎngwàng，shùilì dìzēng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 112,
+                "search": 929
+            },
+            "snym": {
+                "syno": [
+                    "递加"
+                ],
+                "anto": [
+                    "递减"
+                ]
+            },
+            "cn_vi": "đệ tăng",
+            "pinyin": "dìzēng",
+            "lv_hsk_new": "6",
+            "word": "递增",
+            "id": 12424,
+            "phonetic": "dizeng",
+            "rank": 10402,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄏㄨㄟˊ",
+            "_id": "de21d42f99e64d14a035c0d2b8ee9fb6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xem 遞歸 | 递归",
+                            "explain": "see 遞歸|递归 [dì guī]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "đệ hồi",
+            "pinyin": "dì huí",
+            "word": "递回",
+            "id": 93826,
+            "phonetic": "dihui",
+            "rank": 121459,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡˊㄉㄧˋ",
+            "_id": "f04354471b0f7dbf1e7f60c2c87e1762",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gửi (qua bưu điện)",
+                            "explain": "由邮局递送 (包裹、信件等)",
+                            "examples": [
+                                {
+                                    "m": "Bạn nhỏ giúp chú đưa thư gửi thư đến từng nhà.",
+                                    "p_vn": "ban nho giup chu dua thu gui thu den tung nha.",
+                                    "_id": "7abce89701a045f5ba2bfed8e3452a24",
+                                    "id": 54669,
+                                    "type": "e_cnvi",
+                                    "e": "小朋友帮邮递员叔叔挨家挨户地送信。",
+                                    "p_cn": "xiaopengyou bang youdiyuan shushu aijia aihu de songxin.",
+                                    "p": "Xiǎopéngyǒu bāng yóudìyuán shūshu āijiā āihù de sòngxìn."
+                                },
+                                {
+                                    "m": "Tôi nhận được bưu kiện do một nhân viên bưu kiện mang tới.",
+                                    "p_vn": "toi nhan duoc buu kien do mot nhan vien buu kien mang toi.",
+                                    "_id": "feb64f1970b95a4b564d778e810019d1",
+                                    "id": 69007,
+                                    "e": "邮递员给我送来了一个邮包。",
+                                    "p_cn": "youdiyuan gěi wǒ song laile yīge youbāo.",
+                                    "type": "e_cnvi",
+                                    "p": "yóudìyuán gěi wǒ sòng láile yīgè yóubāo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 86
+            },
+            "snym": {
+                "syno": [
+                    "快递"
+                ]
+            },
+            "cn_vi": "bưu đệ",
+            "pinyin": "yóudì",
+            "word": "邮递",
+            "id": 61019,
+            "phonetic": "youdi",
+            "rank": 44771,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄢˊㄉㄧˋ",
+            "_id": "0b93ab4317114bfe90d9dd4ca47a302e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chuyền; chuyển; đưa theo dây chuyền, truyền tải; truyền đạt; cung cấp; truyền đệ",
+                            "explain": "一个接一个送过去",
+                            "examples": [
+                                {
+                                    "m": "Dưới dạng các phiến đá hoặc một bụi cây cháy.",
+                                    "p_vn": "Duoi dang cac phien da hoac mot bui cay chay.",
+                                    "_id": "4a150fa699fa4bbbb6c1eafa96742b4c",
+                                    "id": 65175,
+                                    "type": "e_cnvi",
+                                    "e": "石块和燃烧的灌木来传递的",
+                                    "p_cn": "shikuai he ranshao de guanmu lai chuandi de",
+                                    "p": "shíkuài hé ránshāo de guànmù lái chuándì de"
+                                },
+                                {
+                                    "m": "Ngày Thần Tài sắp tới, gửi một chút lời chúc phúc tới bạn, chúc bạn khỏe mạnh, tinh thần vui tươi, sự nghiệp thăng tiến, tài lộc và may mắn. Chúc bạn sẽ có Ngày Thần Tài vui vẻ.",
+                                    "p_vn": "ngay than tai sap toi, gui mot chut loi chuc phuc toi ban, chuc ban khoe manh, tinh than vui tuoi, su nghiep thang tien, tai loc va may man. chuc ban se co ngay than tai vui ve.",
+                                    "_id": "7781ed7d3068430996c69391a57bd41e",
+                                    "id": 68629,
+                                    "type": "e_cnvi",
+                                    "e": "财神节将来，祝福传递你，愿你：人好身好精神好好，事好业好心情好好，财好福好运气好好，情好缘好事事都好。提前祝你财神日快乐",
+                                    "p_cn": "caishen jie jianglai, zhufu chuandi ni, yuan ni: ren hao shen hao jingshen haohao, shi hao ye hao xinqing haohao, cai hao fu hao yunqi haohao, qing hao yuan haoshi shi dou hao. tiqian zhu ni caishen ri kuaile",
+                                    "p": "Cáishén jié jiānglái, zhùfú chuándì nǐ, yuàn nǐ: Rén hǎo shēn hǎo jīngshén hǎohǎo, shì hǎo yè hǎo xīnqīng hǎohǎo, cái hào fú hǎo yùnqì hǎohǎo, qīng hǎo yuán hǎoshì shì dōu hǎo. Tíqián zhù nǐ cáishén rì kuàilè"
+                                },
+                                {
+                                    "m": "Một phóng viên, vai trái truyền giá trị, vai phải ghi lại lịch sử.",
+                                    "p_vn": "mot phong vien, vai trai truyen gia tri, vai phai ghi lai lich su.",
+                                    "_id": "8d6c8ebf737edde331e2fe7677c1c5d2",
+                                    "id": 69363,
+                                    "e": "一个记者，左肩传递价值，右肩记载历史。",
+                                    "p_cn": "yige jizhe, zuojian chuandi jiazhi, you jian jizai lishi.",
+                                    "type": "e_cnvi",
+                                    "p": "yīgè jìzhě, zuǒjiān chuándì jiàzhí, yòu jiān jìzǎi lìshǐ."
+                                },
+                                {
+                                    "m": "Thiết bị truyền động là thiết bị truyền chuyển động và công suất của nguồn điện đến thiết bị truyền động.",
+                                    "p_vn": "Thiet bi truyen dong la thiet bi truyen chuyen dong va cong suat cua nguon dien den thiet bi truyen dong.",
+                                    "_id": "9599e14acd8049898c962c75193bdef5",
+                                    "id": 54622,
+                                    "type": "e_cnvi",
+                                    "e": "传动装置是指把动力源的运动和动力传递给执行机构的装置",
+                                    "p_cn": "Chuandong zhuangzhi shi zhi ba dongli yuan de yundong he dongli chuandi gei zhixing jigou de zhuangzhi",
+                                    "p": "Chuándòng zhuāngzhì shì zhǐ bǎ dònglì yuán de yùndòng hé dònglì chuándì gěi zhíxíng jīgòu de zhuāngzhì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 215,
+                "search": 2467
+            },
+            "snym": {
+                "syno": [
+                    "相传",
+                    "传达",
+                    "通报",
+                    "转达",
+                    "发送",
+                    "转递",
+                    "传送",
+                    "传输",
+                    "传导"
+                ],
+                "anto": [
+                    "断送"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "chuándì",
+            "cn_vi": "truyền đệ",
+            "word": "传递",
+            "id": 8672,
+            "phonetic": "chuandi",
+            "rank": 4656,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0d2c79c21bd34cbd97bc559d15d12e3b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Theo thứ tự mà thay đổi cho nhau.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "đệ đại",
+            "pinyin": "dì dài",
+            "word": "递代",
+            "id": 170586,
+            "phonetic": "didai",
+            "rank": 130796,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄢˇㄉㄧˋ",
+            "_id": "96f23c66b0c876cd96a11a63ba821cd3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chuyển; chuyển đệ",
+                            "explain": "中转传递;转送递交",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 131
+            },
+            "snym": {
+                "syno": [
+                    "传递",
+                    "传输",
+                    "转接"
+                ]
+            },
+            "cn_vi": "chuyển đệ",
+            "pinyin": "zhuǎn dì",
+            "word": "转递",
+            "id": 66006,
+            "phonetic": "zhuandi",
+            "rank": 35990,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄉㄧˋㄍㄟˇ",
+            "_id": "bc2852133d594272b5616af5d3d91e17",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đưa cho",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Đưa cho tôi",
+                                    "p_vn": "dua cho toi",
+                                    "_id": "0ccbeb5b0fd9be32d00cde9348ea1886",
+                                    "id": 8236,
+                                    "type": "e_cnvi",
+                                    "e": "投递给我。",
+                                    "p_cn": "toudi gei wo。",
+                                    "p": "tóudì gěi wǒ。"
+                                },
+                                {
+                                    "m": "Thiết bị truyền động là thiết bị truyền chuyển động và công suất của nguồn điện đến thiết bị truyền động.",
+                                    "p_vn": "Thiet bi truyen dong la thiet bi truyen chuyen dong va cong suat cua nguon dien den thiet bi truyen dong.",
+                                    "_id": "9599e14acd8049898c962c75193bdef5",
+                                    "id": 54622,
+                                    "type": "e_cnvi",
+                                    "e": "传动装置是指把动力源的运动和动力传递给执行机构的装置",
+                                    "p_cn": "Chuandong zhuangzhi shi zhi ba dongli yuan de yundong he dongli chuandi gei zhixing jigou de zhuangzhi",
+                                    "p": "Chuándòng zhuāngzhì shì zhǐ bǎ dònglì yuán de yùndòng hé dònglì chuándì gěi zhíxíng jīgòu de zhuāngzhì"
+                                },
+                                {
+                                    "m": "Khi định mệnh đưa cho bạn một quả chanh chua, hãy tìm cách biến nó thành một ly nước chanh ngọt.",
+                                    "p_vn": "Khi dinh menh dua cho ban mot qua chanh chua, hay tim cach bien no thanh mot ly nuoc chanh ngot.",
+                                    "_id": "aada61de3168f0ba372b6235c6fe54a3",
+                                    "id": 53818,
+                                    "type": "e_cnvi",
+                                    "e": "当命运递给你一个酸柠檬时，设法把它制造成甜的柠檬汁。",
+                                    "p_cn": "Khi dinh menh dua cho ban mot qua chanh chua, hay tim cach bien no thanh mot ly nuoc chanh ngot.",
+                                    "p": "Dāng mìngyùn dì gěi nǐ yīgè suān níngméng shí, shèfǎ bǎ tā zhìzào chéng tián de níngméng zhī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 57,
+                "search": 559
+            },
+            "snym": null,
+            "lv_hsk_new": "5",
+            "pinyin": "dì gěi",
+            "cn_vi": "đệ cấp",
+            "word": "递给",
+            "id": 156388,
+            "phonetic": "digei",
+            "rank": 14756,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄐㄧㄚ",
+            "_id": "7ba9feb38d86db1478b4b062da8023f5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tăng dần",
+                            "explain": "递增",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 40
+            },
+            "snym": {
+                "syno": [
+                    "递增"
+                ],
+                "anto": [
+                    "递减"
+                ]
+            },
+            "cn_vi": "đệ gia",
+            "pinyin": "dì jiā",
+            "word": "递加",
+            "id": 12413,
+            "phonetic": "dijia",
+            "rank": 63577,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄅㄨˇ",
+            "_id": "aabc4bb78d587104e1e4cfb998ca6523",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lần lượt bổ sung; bổ sung dần (theo thứ tự)",
+                            "explain": "顺次补充",
+                            "examples": [
+                                {
+                                    "m": "uỷ viên bị khuyết, lần lượt bổ sung dần.",
+                                    "p_vn": "uy vien bi khuyet lan luot bo sung dan",
+                                    "_id": "b5f08c763339e37a3c1b3cbec1b5d35e",
+                                    "id": 8243,
+                                    "type": "e_cnvi",
+                                    "e": "委员出缺，由候补委员递补。",
+                                    "p_cn": "weiyuan chuque you houbu weiyuan dibu",
+                                    "p": "wěiyuán chūquē，yóu hòubǔwěiyuán dìbǔ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 62
+            },
+            "snym": null,
+            "cn_vi": "đệ bổ",
+            "pinyin": "dìbǔ",
+            "word": "递补",
+            "id": 12411,
+            "phonetic": "dibu",
+            "rank": 52637,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄕㄢˋ",
+            "_id": "66638eab054ad91d08842b11f6ea6978",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lần lượt thay đổi; lần lượt thay thế",
+                            "explain": "依次更替，逐步演变",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "đệ thiện",
+            "pinyin": "dì shàn",
+            "word": "递嬗",
+            "id": 12419,
+            "phonetic": "dishan",
+            "rank": 108551,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄕㄥ",
+            "_id": "726d2ff5a4dceed09a88235800b81719",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tăng dần; lên dần",
+                            "explain": "一次比一次升高",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "đệ thăng",
+            "pinyin": "dìshēng",
+            "word": "递升",
+            "id": 12420,
+            "phonetic": "disheng",
+            "rank": 80270,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄨㄞˋㄖㄣˊㄎㄨㄞˋㄩˇ",
+            "_id": "a94250ebdb99f07d168e0c7264a9098f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "người chân thật nói lời thẳng thắn; người vui vẻ nói lời sảng khoái; chất phác thẳng thắn; trung thực; thẳng thắn; thật thà",
+                            "explain": "爽快的人说爽快的话，指人性格直爽",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 93
+            },
+            "snym": {
+                "syno": [
+                    "心直口快",
+                    "快嘴快舌"
+                ],
+                "anto": [
+                    "支吾其辞",
+                    "拖泥带水",
+                    "拐弯抹角",
+                    "一语双关",
+                    "欲言又止"
+                ]
+            },
+            "cn_vi": "khoái nhân khoái ngữ",
+            "pinyin": "kuàirénkuàiyǔ",
+            "word": "快人快语",
+            "id": 32867,
+            "phonetic": "kuairenkuaiyu",
+            "rank": 43128,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ea5edeee33b14462a8d2c5a6b3b89a1c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "nhanh chân lẹ tay",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khoái thủ khoái cước",
+            "pinyin": "kuàishǒu kuài jiǎo",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "快手快脚",
+            "id": 174093,
+            "phonetic": "kuaishoukuaijiao",
+            "rank": 124018,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥˋㄊㄨㄥˋㄎㄨㄞˋㄎㄨㄞˋ",
+            "_id": "d00bf9bc52a54867a5e0faf00aee0ec2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "bắn từ hông",
+                            "explain": "firing from the hip",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngay lập tức",
+                            "explain": "immediately",
+                            "examples": []
+                        },
+                        {
+                            "mean": "với độ cao",
+                            "explain": "with alacrity",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không chút do dự",
+                            "explain": "without a moment's hesitation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 274
+            },
+            "snym": {
+                "syno": [
+                    "尽情尽兴",
+                    "舒舒服服",
+                    "干干脆脆"
+                ],
+                "anto": [
+                    "滞滞泥泥"
+                ]
+            },
+            "cn_vi": "thống thống khoái khoái",
+            "pinyin": "tòng tòngkuài kuài",
+            "word": "痛痛快快",
+            "id": 141460,
+            "phonetic": "tongtongkuaikuai",
+            "rank": 23447,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "6d015b8d8f374f47b23e259b67b85d46",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vánh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khoái khoái đương đương",
+            "pinyin": "kuài kuài dang dāng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "快快当当",
+            "id": 180842,
+            "phonetic": "kuaikuaidangdang",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄤˇㄕㄨㄤˇㄎㄨㄞˋㄎㄨㄞˋ",
+            "_id": "0356f59089c2438d81ad58fd18213a86",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Theo thứ tự ngắn",
+                            "explain": "in short order",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thẳng thắn",
+                            "explain": "straightforward",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": {
+                "syno": [
+                    "直截了当"
+                ]
+            },
+            "cn_vi": "sảng sảng khoái khoái",
+            "pinyin": "shuǎng shuǎngkuài kuài",
+            "word": "爽爽快快",
+            "id": 141803,
+            "phonetic": "shuangshuangkuaikuai",
+            "rank": 102440,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "topic": "58",
+            "zhuyin": "ㄩˊㄎㄨㄞˋ",
+            "_id": "a99e7de6ce4ac72726e42332891dba26",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "\"愉快\" vai trò định ngữ",
+                            "examples": [
+                                102259,
+                                102261
+                            ],
+                            "struct": "愉快 + 的 + 周末，聚会，笑容"
+                        },
+                        {
+                            "explain": "A làm B thấy vui/ vui vẻ như thế nào",
+                            "examples": [
+                                102262,
+                                102263
+                            ],
+                            "struct": "A + 让 + B + 感到，感觉 + Phó từ + 愉快"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "vui sướng; vui mừng; hớn hở; vui thích; vui vẻ",
+                            "explain": "快意;舒畅; 高兴",
+                            "examples": [
+                                {
+                                    "m": "Cuộc sống trải qua rất vui vẻ.",
+                                    "p_vn": "cuoc song trai qua rat vui ve.",
+                                    "_id": "77d2407784bbbbd02c2df470a6c275f8",
+                                    "id": 47035,
+                                    "type": "e_cnvi",
+                                    "e": "生活过得很愉快。",
+                                    "p_cn": "shenghuo guode hen yukuai。",
+                                    "p": "shēnghuó guòde hěn yúkuài。"
+                                },
+                                {
+                                    "m": "Chuyến đi rất vui vẻ.",
+                                    "p_vn": "chuyen di rat vui ve.",
+                                    "_id": "55db399305625a14707d64b918d3919b",
+                                    "id": 102264,
+                                    "type": "e_cnvi",
+                                    "e": "这次旅行非常愉快。",
+                                    "p_cn": "zhe ci lǚxing feichang yukuai.",
+                                    "p": "zhè cì lǚxíng fēicháng yúkuài."
+                                },
+                                {
+                                    "m": "Buổi tụ họp hôm nay rất vui vẻ.",
+                                    "p_vn": "buoi tu hop hom nay rat vui ve.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c3909be",
+                                    "id": 133498,
+                                    "type": "e_cnvi",
+                                    "e": "今天的聚会非常愉快。",
+                                    "p_cn": "jintian de juhui feichang yukuai.",
+                                    "p": "jīntiān de jùhuì fēicháng yúkuài."
+                                },
+                                {
+                                    "m": "Kỳ nghỉ này trôi qua thật vui vẻ.",
+                                    "p_vn": "ky nghi nay troi qua that vui ve.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c391312",
+                                    "id": 133499,
+                                    "type": "e_cnvi",
+                                    "e": "这个假期过得非常愉快。",
+                                    "p_cn": "zhege jiaqi guo de feichang yukuai.",
+                                    "p": "zhège jiàqī guò de fēicháng yúkuài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"高兴\" là là động từ và tính từ \"愉快\" chỉ là một tính từ; \"高兴\" có thể được sử dụng trùng lặp và \"愉快\" không có dạng trùng lặp.",
+                    "title": "Phân biệt \"高兴\" và \"愉快\"",
+                    "words": [
+                        "高兴",
+                        "愉快"
+                    ]
+                },
+                {
+                    "mean_vi": "\"愉快\" vừa có thể sử dụng trong câu trần thuật vừa có thể dụng trong câu cầu khiến ; \"开心\" không thể sử dụng trong câu cầu khiến.\n\"开心\" còn có ý nghĩa trêu đùa người khác, làm cho bản thân vui vẻ, \"愉快\" không có ý nghĩa này.",
+                    "title": "Phân biệt \"开心\" và \"愉快\"",
+                    "words": [
+                        "开心",
+                        "愉快"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "喜悦",
+                    "欢愉",
+                    "怡悦",
+                    "欢喜",
+                    "愿意",
+                    "快活",
+                    "欣忭",
+                    "欢乐",
+                    "欢娱",
+                    "快乐",
+                    "忻悦",
+                    "兴奋",
+                    "欢欣",
+                    "高兴",
+                    "乐意",
+                    "得意",
+                    "雀跃",
+                    "夷愉",
+                    "欢快",
+                    "欢跃",
+                    "快意",
+                    "欢畅",
+                    "欣喜",
+                    "痛快",
+                    "欢腾",
+                    "开心",
+                    "诚悦",
+                    "原意",
+                    "惊喜",
+                    "欣愉"
+                ],
+                "anto": [
+                    "凄沧",
+                    "悲痛",
+                    "痛苦",
+                    "悲忧",
+                    "懊恼",
+                    "烦恼",
+                    "悲哀",
+                    "苦恼",
+                    "郁悒",
+                    "悲伤",
+                    "感伤",
+                    "哀痛",
+                    "苦闷",
+                    "凄惨",
+                    "忧郁",
+                    "烦闷",
+                    "伤心",
+                    "不快",
+                    "哀伤",
+                    "忧伤",
+                    "凄厉"
+                ]
+            },
+            "lv_hsk_new": "4, 6, 7-9",
+            "pinyin": "yúkuài",
+            "cn_vi": "du khoái",
+            "popularity": {
+                "notebook": 804,
+                "search": 11376
+            },
+            "word": "愉快",
+            "id": 61579,
+            "phonetic": "yukuai",
+            "rank": 811,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "",
+                "measure": ""
+            },
+            "zhuyin": "ㄎㄨㄞˋㄌㄜ˙",
+            "lv_tocfl": 1,
+            "_id": "0c676ef3453445178b02e4755184db1f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "tính từ lặp lại",
+                            "examples": [
+                                137722,
+                                137723
+                            ],
+                            "struct": "快快乐乐"
+                        },
+                        {
+                            "explain": "\"快乐\" vai trò định ngữ",
+                            "examples": [
+                                105525,
+                                137724
+                            ],
+                            "struct": "快乐 + 的 + Danh từ (孩子/ 时光/ 时刻/ 笑容)"
+                        },
+                        {
+                            "explain": "A cảm thấy vui vẻ như thế nào",
+                            "examples": [
+                                105531,
+                                105534
+                            ],
+                            "struct": "A + 感觉、觉得、感到 + Phó từ + 快乐"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "vui vẻ; sung sướng; hạnh phúc",
+                            "explain": "感到幸福的",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi hôm nay rất vui",
+                                    "p_vn": "chung toi hom nay rat vui",
+                                    "_id": "4c6f90d8ef2444c3a71399fb1d69dfa6",
+                                    "id": 55129,
+                                    "type": "e_cnvi",
+                                    "e": "我们今天好快乐",
+                                    "p_cn": "women jintian hao kuaile",
+                                    "p": "wǒmen jīntiān hǎo kuàile"
+                                },
+                                {
+                                    "m": "Chúc cậu sinh nhật vui vẻ!",
+                                    "p_vn": "chúc cạu sinh nhạt vui vẻ!",
+                                    "_id": "7e65ea6a82a181037fde0c8268ac5148",
+                                    "id": 89791,
+                                    "type": "e_cnvi",
+                                    "e": "祝你生日快乐!",
+                                    "p_cn": "zhu ni shengri kuaile!",
+                                    "p": "zhù nǐ shēngrì kuàile!"
+                                },
+                                {
+                                    "m": "Thế nào là một hành tinh vui vẻ?",
+                                    "p_vn": "the nao la mot hanh tinh vui ve?",
+                                    "_id": "a5336cc612d96caefbcf7e0ac35b8d30",
+                                    "id": 105527,
+                                    "type": "e_cnvi",
+                                    "e": "什么是快乐星球？",
+                                    "p_cn": "shenme shi kuaile xingqiu?",
+                                    "p": "shénme shì kuàile xīngqiú?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"快乐\" và \"快活\" là từ đồng nghĩa, \"快了\" được dùng trong cả văn nói và văn viết, \"快活\" dùng nhiều trong văn nói, \"lễ tết, sinh nhật\" dùng \"快乐\" để chúc phúc, \"快活\" khônh có cách sử dụng này",
+                    "title": "Phân biệt \"快乐\" và \"快活\"",
+                    "words": [
+                        "快乐",
+                        "快活"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "喜悦",
+                    "欢愉",
+                    "怡悦",
+                    "欢喜",
+                    "愿意",
+                    "快活",
+                    "愉快",
+                    "欢乐",
+                    "欢快",
+                    "康乐",
+                    "兴奋",
+                    "欢欣",
+                    "高兴",
+                    "乐意",
+                    "得意",
+                    "夷愉",
+                    "安乐",
+                    "愉逸",
+                    "欢跃",
+                    "欢畅",
+                    "痛快",
+                    "欢腾",
+                    "开心",
+                    "快意",
+                    "幸福",
+                    "欢悦",
+                    "发福",
+                    "愉乐",
+                    "原意",
+                    "兴福",
+                    "惊喜"
+                ],
+                "anto": [
+                    "恼恨",
+                    "悲痛",
+                    "痛苦",
+                    "悲戚",
+                    "悲凉",
+                    "难过",
+                    "悲哀",
+                    "苦恼",
+                    "悲伤",
+                    "忧郁",
+                    "哀痛",
+                    "凄惨",
+                    "郁闷",
+                    "发愁",
+                    "烦闷",
+                    "忧愁",
+                    "伤心",
+                    "哀伤",
+                    "忧伤",
+                    "哀怨",
+                    "忧天",
+                    "愤懑",
+                    "悲楚",
+                    "落寞",
+                    "阻丧",
+                    "痛惜"
+                ]
+            },
+            "cn_vi": "khoái lạc",
+            "pinyin": "kuàile",
+            "popularity": {
+                "notebook": 691,
+                "search": 12720
+            },
+            "lv_hsk_new": "2",
+            "word": "快乐",
+            "id": 84410,
+            "phonetic": "kuaile",
+            "rank": 661,
+            "lv_hsk": 2,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄨㄤˇㄎㄨㄞˋ",
+            "_id": "ba19425ab1778ab6b622a316b049f7f2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "\"爽快\" vai trò định ngữ",
+                            "examples": [
+                                132052,
+                                132054
+                            ],
+                            "struct": "爽快 + 的 + Danh từ"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sảng khoái; dễ chịu; nhẹ nhõm",
+                            "explain": "因为环境、天气等原因，身体心理感觉轻松、舒服",
+                            "examples": [
+                                {
+                                    "m": "Gió lạnh thổi qua, vô cùng dễ chịu.",
+                                    "p_vn": "gio lanh thoi qua, vo cung de chiu.",
+                                    "_id": "c10c24a6ed43165db916499fa9e8698c",
+                                    "id": 85133,
+                                    "type": "e_cnvi",
+                                    "e": "凉风吹来, 爽快极了。",
+                                    "p_cn": "liang feng chui lai, shuangkuai jile.",
+                                    "p": "liáng fēng chuī lái, shuǎngkuài jíle."
+                                },
+                                {
+                                    "m": "Cảm thấy rất sảng khoái khi leo lên núi.",
+                                    "p_vn": "cam thay rat sang khoai khi leo len nui.",
+                                    "_id": "c10c24a6ed43165db916499fa9e86bd3",
+                                    "id": 85134,
+                                    "type": "e_cnvi",
+                                    "e": "爬到山上感到心里很爽快。",
+                                    "p_cn": "pa dao shanshang gandao xinli hen shuangkuai.",
+                                    "p": "pá dào shānshàng gǎndào xīnlǐ hěn shuǎngkuài."
+                                },
+                                {
+                                    "m": "Tắm rửa xong dễ chịu hơn rất nhiều.",
+                                    "p_vn": "tam rua xong de chiu hon rat nhieu.",
+                                    "_id": "c10c24a6ed43165db916499fa9e876f9",
+                                    "id": 85135,
+                                    "type": "e_cnvi",
+                                    "e": "洗完澡身上爽快多了。",
+                                    "p_cn": "xi wan zao shenshang shuangkuai duole.",
+                                    "p": "xǐ wán zǎo shēnshang shuǎngkuài duōle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thẳng thắn; nhanh gọn",
+                            "explain": "形容人说话、做事情的时候能很快做决定，一点儿也不犹豫或者变来变去",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy nói và làm mọi việc một cách nhanh gọn.",
+                                    "p_vn": "anh ay noi va lam moi viec mot cach nhanh gon.",
+                                    "_id": "c10c24a6ed43165db916499fa9e87732",
+                                    "id": 85136,
+                                    "type": "e_cnvi",
+                                    "e": "他说话做事都很爽快。",
+                                    "p_cn": "ta shuohua zuoshi dou hen shuangkuai.",
+                                    "p": "tā shuōhuà zuòshì dōu hěn shuǎngkuài."
+                                },
+                                {
+                                    "m": "Tính cách sảng khoái vui vẻ.",
+                                    "p_vn": "tinh cach sang khoai vui ve.",
+                                    "_id": "c10c24a6ed43165db916499fa9e87d2f",
+                                    "id": 85137,
+                                    "type": "e_cnvi",
+                                    "e": "爽快开朗的性格。",
+                                    "p_cn": "shuangkuai kailang de xingge.",
+                                    "p": "shuǎngkuài kāilǎng de xìnggé."
+                                },
+                                {
+                                    "m": "Tôi thẳng thắn thừa nhận rằng tôi đã phạm sai lầm.",
+                                    "p_vn": "toi thang than thua nhan rang toi da pham sai lam.",
+                                    "_id": "c10c24a6ed43165db916499fa9e87e09",
+                                    "id": 85138,
+                                    "type": "e_cnvi",
+                                    "e": "我爽快地承认我犯了错误。",
+                                    "p_cn": "wo shuangkuai de chengren wo fanle cuowu.",
+                                    "p": "wǒ shuǎngkuài de chéngrèn wǒ fànle cuòwù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"爽快\" và \"痛快\" có cùng một ý nghĩa.\nKhác:\n- \"爽快\" có nghĩa là thẳng thắn, \"痛快\" cũng có nghĩa là làm việc dứt khoát.\n- \"痛快\" có nghĩa là cảm thấy thoải mái và vui vẻ, \"爽快\" không có nghĩa như vậy.\n- \"痛快\" có nghĩa là vui vẻ, nhưng \"爽快\" không có nghĩa như vậy.",
+                    "title": "Phân biệt \"爽快\" và \"痛快\"",
+                    "words": [
+                        "爽快",
+                        "痛快"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "犹豫,拖拉,迟疑,不爽,磨叽"
+                ],
+                "syno": [
+                    "坦率,爽直,直爽,干脆,利落"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "shuǎngkuài",
+            "cn_vi": "sảng khoái",
+            "popularity": {
+                "notebook": 189,
+                "search": 2971
+            },
+            "word": "爽快",
+            "id": 48424,
+            "phonetic": "shuangkuai",
+            "rank": 4002,
+            "lv_tocfl": 5,
+            "compound": null
+        }
+    ],
+    "query": "快递"
+}

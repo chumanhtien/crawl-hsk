@@ -1,0 +1,3404 @@
+{
+    "total": 682,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "zhuyin": "ㄙㄨㄛˇㄗㄞˋ",
+            "_id": "1af754ec58f85e05e011c502bf616a11",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Nơi/chỗ tồn tại/điểm gì đấy",
+                            "examples": [
+                                127227,
+                                127228,
+                                127229
+                            ],
+                            "struct": "原因/问题/兴趣/关键 + 之/的 + 所在"
+                        },
+                        {
+                            "explain": "Nơi/chỗ (đang ở; đang hoạt động)",
+                            "examples": [
+                                127235,
+                                127236,
+                                127237
+                            ],
+                            "struct": "所在（+的）+ Danh từ"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nơi; chỗ; địa điểm; vị trí",
+                            "explain": "处所；地方",
+                            "examples": [
+                                {
+                                    "m": "Đây là chỗ của anh ấy.",
+                                    "p_vn": "day la cho cua anh ay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571422cd2",
+                                    "id": 127202,
+                                    "type": "e_cnvi",
+                                    "e": "这是他的所在。",
+                                    "p_cn": "zhe shi ta de suozai.",
+                                    "p": "zhè shì tā de suǒzài."
+                                },
+                                {
+                                    "m": "Đó không phải là chỗ của tôi.",
+                                    "p_vn": "do khong phai la cho cua toi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714231c1",
+                                    "id": 127203,
+                                    "type": "e_cnvi",
+                                    "e": "那不是我的所在。",
+                                    "p_cn": "na bushi wo de suozai.",
+                                    "p": "nà bùshì wǒ de suǒzài."
+                                },
+                                {
+                                    "m": "Tôi tìm thấy vị trí của bạn rồi.",
+                                    "p_vn": "toi tim thay vi tri cua ban roi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5714240d7",
+                                    "id": 127204,
+                                    "type": "e_cnvi",
+                                    "e": "我找到你的所在了。",
+                                    "p_cn": "wo zhaodao ni de suozaile.",
+                                    "p": "wǒ zhǎodào nǐ de suǒzàile."
+                                },
+                                {
+                                    "m": "Bạn nhớ vị trí của tôi nhé.",
+                                    "p_vn": "ban nho vi tri cua toi nhe.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571424ee2",
+                                    "id": 127205,
+                                    "type": "e_cnvi",
+                                    "e": "你记住我的所在吧。",
+                                    "p_cn": "ni ji zhu wo de suozai ba.",
+                                    "p": "nǐ jì zhù wǒ de suǒzài ba."
+                                },
+                                {
+                                    "m": "Đây chính là địa điểm.",
+                                    "p_vn": "day chinh la dia diem.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571425ea2",
+                                    "id": 127206,
+                                    "type": "e_cnvi",
+                                    "e": "此处即是所在。",
+                                    "p_cn": "ci chu ji shi suozai.",
+                                    "p": "cǐ chù jí shì suǒzài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chỗ tồn tại; ở chỗ đó; điểm; điểm tồn tại; nơi đang ở; chỗ ở",
+                            "explain": "存在的地方",
+                            "examples": [
+                                {
+                                    "m": "Nơi ở của địch đã bị lộ.",
+                                    "p_vn": "noi o cua dich da bi lo.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57142dbfb",
+                                    "id": 127221,
+                                    "type": "e_cnvi",
+                                    "e": "敌人所在已经暴露了。",
+                                    "p_cn": "diren suozai yijing baolule.",
+                                    "p": "dírén suǒzài yǐjīng bàolùle."
+                                },
+                                {
+                                    "m": "Nơi tồn tại di tích cần xác nhận lại.",
+                                    "p_vn": "noi ton tai di tich can xac nhan lai.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57142dc4f",
+                                    "id": 127222,
+                                    "type": "e_cnvi",
+                                    "e": "遗址所在有待确认。",
+                                    "p_cn": "yizhi suozai youdai queren.",
+                                    "p": "yízhǐ suǒzài yǒudài quèrèn."
+                                },
+                                {
+                                    "m": "Tôi biết nơi có động lực thúc đẩy anh ấy.",
+                                    "p_vn": "toi biet noi co dong luc thuc day anh ay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57142e315",
+                                    "id": 127223,
+                                    "type": "e_cnvi",
+                                    "e": "我知道他的动力之所在。",
+                                    "p_cn": "wo zhidao ta de dongli zhi suozai.",
+                                    "p": "wǒ zhīdào tā de dònglì zhī suǒzài."
+                                },
+                                {
+                                    "m": "Anh ấy không tìm được chỗ có vấn đề.",
+                                    "p_vn": "anh ay khong tim duoc cho co van de.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57142e5c3",
+                                    "id": 127224,
+                                    "type": "e_cnvi",
+                                    "e": "他找不到问题所在。",
+                                    "p_cn": "ta zhao bu dao wenti suozai.",
+                                    "p": "tā zhǎo bù dào wèntí suǒzài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 103,
+                "search": 1769
+            },
+            "snym": {
+                "syno": [
+                    "住址",
+                    "地址",
+                    "地方",
+                    "地点",
+                    "方位",
+                    "坐标"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "suǒzài",
+            "cn_vi": "sở tại",
+            "word": "所在",
+            "id": 49515,
+            "phonetic": "suozai",
+            "rank": 6181,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "1, 77",
+            "zhuyin": "ㄙㄨㄛˇㄗㄞˋㄉㄜ˙",
+            "_id": "cfa039243bf6465685c18ec7deb5fe97",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vị trí",
+                            "explain": "location",
+                            "examples": [
+                                {
+                                    "m": "Bạn cần cho tôi biết vị trí của bạn.",
+                                    "p_vn": "Ban can cho toi biet vi tri cua ban.",
+                                    "_id": "2625b10ebb3247a1bbec109fd1236378",
+                                    "id": 66115,
+                                    "type": "e_cnvi",
+                                    "e": "请告诉我你的所在地",
+                                    "p_cn": "qing gaosu wo ni de suozaidi",
+                                    "p": "qǐng gàosù wǒ nǐ de suǒzàidì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Địa điểm",
+                            "explain": "site",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 287
+            },
+            "snym": null,
+            "cn_vi": "sở tại địa",
+            "pinyin": "suǒzàidì",
+            "word": "所在地",
+            "id": 114788,
+            "phonetic": "suozaidi",
+            "rank": 22802,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄙㄨㄛˇㄅㄨˋㄘˊ",
+            "_id": "08409ffecc294041ab4d360c136a586c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "không ngần ngại",
+                            "explain": "not to hesitate to",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không từ chối (thành ngữ)",
+                            "explain": "not to refuse to (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 94
+            },
+            "snym": {
+                "syno": [
+                    "万死不辞",
+                    "义不容辞",
+                    "责无旁贷",
+                    "在所不惜",
+                    "责无旁货"
+                ]
+            },
+            "cn_vi": "tại sở bất từ",
+            "pinyin": "zài suǒ bùcí",
+            "word": "在所不辞",
+            "id": 129959,
+            "phonetic": "zaisuobuci",
+            "rank": 42943,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˋㄓㄙㄨㄛˇㄗㄞˋ",
+            "_id": "b3eea46bbd2049ec9d99d045280f04ff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "công lý phải được tìm thấy ở khắp mọi nơi (thành ngữ)",
+                            "explain": "justice is to be found everywhere (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "nghĩa chi sở tại",
+            "pinyin": "yì zhī suǒzài",
+            "word": "义之所在",
+            "id": 131294,
+            "phonetic": "yizhisuozai",
+            "rank": 119283,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄙㄨㄛˇㄅㄨˋㄒㄧ",
+            "_id": "7398bd12957f4e7aab3c320fc056c1c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "đừng ngại; không tiếc",
+                            "explain": "决不吝惜（多用在付出大的代价）",
+                            "examples": [
+                                {
+                                    "m": "Vì lợi ích của đất nước, dù khó khăn gian khổ cũng không quản ngại khó khăn.",
+                                    "p_vn": "vi loi ich cua dat nuoc, du kho khan gian kho cung khong quan ngai kho khan.",
+                                    "_id": "8f3e88c00fc0497c993e8fb107ec0083",
+                                    "id": 67486,
+                                    "type": "e_cnvi",
+                                    "e": "为了国家的利益,即使肝脑涂地我也在所不惜",
+                                    "p_cn": "weile guojia de liyi, jishi gannaotude wo ye zai suo buxi",
+                                    "p": "Wèile guójiā de lìyì, jíshǐ gānnǎotúde wǒ yě zài suǒ bùxī"
+                                },
+                                {
+                                    "m": "Chỉ cần có thể thành công, bất cứ giá nào cũng không tiếc.",
+                                    "p_vn": "chi can co the thanh cong, bat cu gia nao cung khong tiec.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab5e55b1",
+                                    "id": 89544,
+                                    "type": "e_cnvi",
+                                    "e": "只要能成功,任何代价在所不惜。",
+                                    "p_cn": "zhiyao neng chenggong, renhe daijia zai suo buxi.",
+                                    "p": "zhǐyào néng chénggōng, rènhé dàijià zài suǒ bùxī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 148
+            },
+            "snym": {
+                "syno": [
+                    "在所不辞"
+                ],
+                "anto": [
+                    "敝扫自珍",
+                    "敝帚自珍"
+                ]
+            },
+            "cn_vi": "tại sở bất tích",
+            "pinyin": "zài suǒ bùxī",
+            "word": "在所不惜",
+            "id": 152204,
+            "phonetic": "zaisuobuxi",
+            "rank": 33721,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄙㄨㄛˇㄅㄨˋㄐㄧˋ",
+            "_id": "96f148604dc742ea9cc3c05591a969f2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "không phân biệt",
+                            "explain": "irrespective of",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không có bất kỳ mối quan tâm nào về",
+                            "explain": "to have no concerns whatsoever about",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "tại sở bất kế",
+            "pinyin": "zài suǒ bùjì",
+            "word": "在所不计",
+            "id": 129958,
+            "phonetic": "zaisuobuji",
+            "rank": 142484,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨˊㄙㄨㄛˇㄅㄨˋㄗㄞˋ",
+            "_id": "b04236b1d36071bb2a1d73402fbdfc22",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "đâu đâu cũng có; không chỗ nào là không tồn tại",
+                            "explain": "到处都存在;到处都有",
+                            "examples": [
+                                {
+                                    "m": "sự đấu tranh của mâu thuẫn chỗ nào cũng có.",
+                                    "p_vn": "su dau tranh cua mau thuan cho nao cung co",
+                                    "_id": "3e54c838a14f0cb48d6fd02b1dad4762",
+                                    "id": 41058,
+                                    "type": "e_cnvi",
+                                    "e": "矛盾的斗争无所不在。",
+                                    "p_cn": "maodun de douzheng wusuobuzai",
+                                    "p": "máodùn de dǒuzhēng wúsuǒbùzài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 149
+            },
+            "snym": null,
+            "cn_vi": "vô sở bất tại",
+            "pinyin": "wúsuǒbùzài",
+            "word": "无所不在",
+            "id": 53788,
+            "phonetic": "wusuobuzai",
+            "rank": 33542,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄙㄨㄛˇㄋㄢˊㄇㄧㄢˇ",
+            "_id": "af9e96c108b34960b91a7e76ab9fd6b4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "không thể tránh khỏi (thành ngữ)",
+                            "explain": "to be unavoidable (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 145
+            },
+            "snym": {
+                "syno": [
+                    "在所无免",
+                    "在劫难逃",
+                    "不可避免"
+                ]
+            },
+            "cn_vi": "tại sở nan miễn",
+            "pinyin": "zài suǒ nánmiǎn",
+            "word": "在所难免",
+            "id": 136774,
+            "phonetic": "zaisuonanmian",
+            "rank": 34056,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄗㄞˋ",
+            "_id": "a824caeeaaef156bbcbcc63e759978ab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "khắp nơi; nơi nơi",
+                            "explain": "处处",
+                            "examples": [
+                                {
+                                    "m": "khắp mọi nơi",
+                                    "p_vn": "khap moi noi",
+                                    "_id": "9c34983dff27a0a5fec990b4f7a156b1",
+                                    "id": 48169,
+                                    "type": "e_cnvi",
+                                    "e": "在在皆是",
+                                    "p_cn": "zai zai jie shi",
+                                    "p": "zài zài jiē shì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 130
+            },
+            "snym": {
+                "syno": [
+                    "处处",
+                    "随地",
+                    "到处",
+                    "四处",
+                    "随处"
+                ]
+            },
+            "cn_vi": "tại tại",
+            "pinyin": "zài zài",
+            "word": "在在",
+            "id": 62770,
+            "phonetic": "zaizai",
+            "rank": 36169,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "measure",
+                "part"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇ",
+            "_id": "25265f2300b546cc39428aba9aed12bf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chỗ; chốn; nơi",
+                            "explain": "处所",
+                            "examples": [
+                                {
+                                    "m": "Nơi này rất náo nhiệt.",
+                                    "p_vn": "noi nay rat nao nhiet.",
+                                    "_id": "55db399305625a14707d64b918523125",
+                                    "id": 99560,
+                                    "type": "e_cnvi",
+                                    "e": "这个场所十分的热闹。",
+                                    "p_cn": "zhege changsuo shifen de renao.",
+                                    "p": "zhège chǎngsuǒ shífēn de rènào."
+                                },
+                                {
+                                    "m": "Anh ấy tìm thấy chỗ ở mới.",
+                                    "p_vn": "anh ay tim thay cho o moi.",
+                                    "_id": "55db399305625a14707d64b91852357c",
+                                    "id": 99561,
+                                    "type": "e_cnvi",
+                                    "e": "这个场所十分热闹。",
+                                    "p_cn": "zhege changsuo shifen renao.",
+                                    "p": "zhège chǎngsuǒ shífēn rènào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đồn; sở (tên đất)",
+                            "explain": "明代驻兵的地点，大的叫千户所，小的叫百户所现在只用于地名",
+                            "examples": [
+                                {
+                                    "m": "Hải Dương Sở (tỉnh Sơn Đông, Trung Quốc).",
+                                    "p_vn": "hai duong so (tinh son dong, trung quoc).",
+                                    "_id": "57ea083c35be5444cddb4f6f10408a35",
+                                    "id": 37387,
+                                    "type": "e_cnvi",
+                                    "e": "海阳所(在山东)。",
+                                    "p_cn": "haiyang suo ( zai shandong ).",
+                                    "p": "hǎiyáng suǒ ( zài shāndōng )."
+                                },
+                                {
+                                    "m": "Tiền Sở (tỉnh Triết Giang, Trung Quốc).",
+                                    "p_vn": "tien so (tinh triet giang, trung quoc).",
+                                    "_id": "c3f6e8e7630e62b8207352accdafcae3",
+                                    "id": 37388,
+                                    "type": "e_cnvi",
+                                    "e": "前所(在浙江)。",
+                                    "p_cn": "qian suo ( zai zhejiang ).",
+                                    "p": "qián suǒ ( zài zhèjiāng )."
+                                },
+                                {
+                                    "m": "Hậu Sở (ở Sơn Tây, Trung Quốc).",
+                                    "p_vn": "hau so (o son tay, trung quoc).",
+                                    "_id": "66fe02f17c4318f8df15f87f0df9e2c3",
+                                    "id": 37389,
+                                    "type": "e_cnvi",
+                                    "e": "后所(在山西)。",
+                                    "p_cn": "hou suo ( zai shanxi ).",
+                                    "p": "hòu suǒ ( zài shānxī )."
+                                },
+                                {
+                                    "m": "Sa Hậu Sở (tỉnh Liêu Ninh, Trung Quốc).",
+                                    "p_vn": "sa hau so (tinh lieu ninh, trung quoc).",
+                                    "_id": "a02b579dc82ac1006736557a3a748605",
+                                    "id": 37390,
+                                    "type": "e_cnvi",
+                                    "e": "沙后所(在辽宁)。",
+                                    "p_cn": "shahou suo ( zai liaoning ).",
+                                    "p": "shāhòu suǒ ( zài liáoníng )."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "viện; phòng; nhà",
+                            "explain": "用做机关或其他办事地方的名称",
+                            "examples": [
+                                {
+                                    "m": "Đây là viện nghiên cứu.",
+                                    "p_vn": "day la vien nghien cuu.",
+                                    "_id": "55db399305625a14707d64b918523fb2",
+                                    "id": 99562,
+                                    "type": "e_cnvi",
+                                    "e": "这是研究所。",
+                                    "p_cn": "zhe shi yanjiu suo.",
+                                    "p": "zhè shì yánjiū suǒ."
+                                },
+                                {
+                                    "m": "Anh ấy đến phòng khám bệnh.",
+                                    "p_vn": "anh ay den phong kham benh.",
+                                    "_id": "55db399305625a14707d64b918524803",
+                                    "id": 99563,
+                                    "type": "e_cnvi",
+                                    "e": "他去诊疗所。",
+                                    "p_cn": "ta qu zhenliao suo.",
+                                    "p": "tā qù zhěnliáo suǒ."
+                                },
+                                {
+                                    "m": "Tôi muốn đến nhà khách.",
+                                    "p_vn": "toi muon den nha khach.",
+                                    "_id": "55db399305625a14707d64b91852490c",
+                                    "id": 99564,
+                                    "type": "e_cnvi",
+                                    "e": "我想去招待所。",
+                                    "p_cn": "wo xiang qu zhaodaisuo.",
+                                    "p": "wǒ xiǎng qù zhāodàisuǒ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                91381
+                            ],
+                            "struct": "这/ Số + 所 + Danh từ ( 房子/ 学校/ 医院）"
+                        }
+                    ],
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "ngôi; gian; nhà",
+                            "explain": "用于房屋",
+                            "examples": [
+                                {
+                                    "m": "Ngôi nhà này quá cũ rồi.",
+                                    "p_vn": "ngoi nha nay qua cu roi.",
+                                    "_id": "55db399305625a14707d64b918525453",
+                                    "id": 99565,
+                                    "type": "e_cnvi",
+                                    "e": "这所房子太旧了。",
+                                    "p_cn": "zhe suo fangzi tai jiule.",
+                                    "p": "zhè suǒ fángzi tài jiùle."
+                                },
+                                {
+                                    "m": "Ngôi trường đó rất nổi tiếng.",
+                                    "p_vn": "ngoi truong do rat noi tieng.",
+                                    "_id": "55db399305625a14707d64b918525eed",
+                                    "id": 99566,
+                                    "type": "e_cnvi",
+                                    "e": "那所学校很有名。",
+                                    "p_cn": "na suo xuexiao hen youming.",
+                                    "p": "nà suǒ xuéxiào hěn yǒumíng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "bị (dùng với ''为' 'hoặc ''被' 'biểu thị bị động)",
+                            "explain": "跟''为''或''被''合用，表示被动",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy bị người khác cười nhạo.",
+                                    "p_vn": "anh ay bi nguoi khac cuoi nhao.",
+                                    "_id": "55db399305625a14707d64b918526778",
+                                    "id": 99568,
+                                    "type": "e_cnvi",
+                                    "e": "他为人所笑。",
+                                    "p_cn": "ta weiren suo xiao.",
+                                    "p": "tā wéirén suǒ xiào."
+                                },
+                                {
+                                    "m": "Anh ấy bị sếp sa thải.",
+                                    "p_vn": "anh ay bi sep sa thai.",
+                                    "_id": "55db399305625a14707d64b91852693a",
+                                    "id": 99569,
+                                    "type": "e_cnvi",
+                                    "e": "他所老板辞退。",
+                                    "p_cn": "tasuo laoban citui.",
+                                    "p": "tāsuǒ lǎobǎn cítuì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà (dùng trước động từ)",
+                            "explain": "用在做定语的主谓结构的动词前面，表示中心词是受事者",
+                            "examples": [
+                                {
+                                    "m": "Người mà tôi biết.",
+                                    "p_vn": "nguoi ma toi biet.",
+                                    "_id": "869091dad42807f6f2083e481b06474c",
+                                    "id": 37401,
+                                    "type": "e_cnvi",
+                                    "e": "我所认识的人。",
+                                    "p_cn": "wo suo renshi de ren.",
+                                    "p": "wǒ suǒ rènshi de rén."
+                                },
+                                {
+                                    "m": "Ý kiến mà mọi người đưa ra.",
+                                    "p_vn": "y kien ma moi nguoi dua ra.",
+                                    "_id": "3c493d5bd595071f97cdac221e7b441e",
+                                    "id": 37402,
+                                    "type": "e_cnvi",
+                                    "e": "大家所提的意见。",
+                                    "p_cn": "dajia suoti de yijian.",
+                                    "p": "dàjiā suǒtí de yìjiàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà (dùng ở giữa danh từ, đại từ và động từ của '是...的' để nhấn mạnh quan hệ của người thực hiện sự việc và động tác)",
+                            "explain": "用在''是...的''中间的名词、代词和动词之间，强调施事者和动作的关系",
+                            "examples": [
+                                {
+                                    "m": "Tình hình của cả nước là điều mà các đồng chí quan tâm.",
+                                    "p_vn": "tinh hinh cua ca nuoc la dieu ma cac dong chi quan tam.",
+                                    "_id": "e4d992f1a1c6bce6b4e98295aa916b8f",
+                                    "id": 37403,
+                                    "type": "e_cnvi",
+                                    "e": "全国的形势，是同志们所关心的。",
+                                    "p_cn": "quanguo de xingshi，shi tongzhi men suo guanxin de.",
+                                    "p": "quánguó de xíngshì，shì tóngzhì men suǒ guānxīn de."
+                                },
+                                {
+                                    "m": "Đây là công việc mà tôi làm.",
+                                    "p_vn": "day la cong viec ma toi lam.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3d17992",
+                                    "id": 91377,
+                                    "type": "e_cnvi",
+                                    "e": "这是我所做的工作。",
+                                    "p_cn": "zhe shi wo suo zuo de gongzuo.",
+                                    "p": "zhè shì wǒ suǒ zuò de gōngzuò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mà (dùng trước động từ, cùng động từ cấu thành kết cấu thể từ)",
+                            "explain": "用在动词前面，跟动词构成体词结构",
+                            "examples": [
+                                {
+                                    "m": "Điều mà chưa được nghe thấy.",
+                                    "p_vn": "dieu ma chua duoc nghe thay.",
+                                    "_id": "a1d7adc4bc6990eabbcba3605e71edb6",
+                                    "id": 37405,
+                                    "type": "e_cnvi",
+                                    "e": "闻所未闻。",
+                                    "p_cn": "wensuoweiwen.",
+                                    "p": "wénsuǒwèiwén."
+                                },
+                                {
+                                    "m": "Tôi đã làm hết sức mà có thể.",
+                                    "p_vn": "toi da lam het suc ma co the.",
+                                    "_id": "55db399305625a14707d64b918527324",
+                                    "id": 99570,
+                                    "type": "e_cnvi",
+                                    "e": "我已各尽所能。",
+                                    "p_cn": "wo yi ge jin suo neng.",
+                                    "p": "wǒ yǐ gè jìn suǒ néng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "được",
+                            "explain": "所 （ + 动词用作“有”或“无”的宾语）",
+                            "examples": [
+                                {
+                                    "m": "Được chuẩn bị.",
+                                    "p_vn": "duoc chuan bi.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3d17c50",
+                                    "id": 91378,
+                                    "type": "e_cnvi",
+                                    "e": "有所准备。",
+                                    "p_cn": "you suo zhunbei.",
+                                    "p": "yǒu suǒ zhǔnbèi."
+                                },
+                                {
+                                    "m": "Không được chuẩn bị.",
+                                    "p_vn": "khong duoc chuan bi.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3d17cf0",
+                                    "id": 91379,
+                                    "type": "e_cnvi",
+                                    "e": "无所准备。",
+                                    "p_cn": "wu suo zhunbei.",
+                                    "p": "wú suǒ zhǔnbèi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 356,
+                "search": 17392
+            },
+            "snym": null,
+            "lv_hsk_new": "3, 5, 6, 7-9",
+            "pinyin": "suǒ",
+            "cn_vi": "sở",
+            "word": "所",
+            "id": 49502,
+            "phonetic": "suo",
+            "rank": 379,
+            "lv_tocfl": 3,
+            "compound": "所部 ; 所得税 ; 所罗门群岛 ; 所属 ; 所谓 ; 所向披靡 ; 所向无敌 ; 所以 ; 所以然 ; 所有 ; 所有权 ; 所有制 ; 所在"
+        },
+        {
+            "kind": [
+                "v",
+                "adv",
+                "prep"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋ",
+            "_id": "d16bda68036fd3a58564fb7334f90a58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ở (biểu thị người hoặc vị trí của sự vật)",
+                            "explain": "表示人或事物的位置",
+                            "examples": [
+                                {
+                                    "m": "Tối nay tôi không ở nhà máy.",
+                                    "p_vn": "toi nay toi khong o nha may.",
+                                    "_id": "5999158f85ff19c94d984bfc284ac2e4",
+                                    "id": 48120,
+                                    "type": "e_cnvi",
+                                    "e": "我今天晚上不在厂里。",
+                                    "p_cn": "wo jintian wanshang bu zai changli。",
+                                    "p": "wǒ jīntiān wǎnshàng bù zài chǎnglǐ。"
+                                },
+                                {
+                                    "m": "Cây bút của anh ở trên bàn.",
+                                    "p_vn": "cay but cua anh o tren ban.",
+                                    "_id": "efa6030e3fab23960bb0ed78d4e0dd47",
+                                    "id": 48121,
+                                    "type": "e_cnvi",
+                                    "e": "你的钢笔在桌子上呢。",
+                                    "p_cn": "ni de gangbi zai zhuozi shang ne.",
+                                    "p": "nǐ de gāngbǐ zài zhuōzi shàng ne."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tại; tại chức; đang giữ",
+                            "explain": "留在；处在",
+                            "examples": [
+                                {
+                                    "m": "tại chức.",
+                                    "p_vn": "tai chuc.",
+                                    "_id": "de3a16fecbf29dadc311c28abf8dad9b",
+                                    "id": 48122,
+                                    "type": "e_cnvi",
+                                    "e": "在职。",
+                                    "p_cn": "zaizhi",
+                                    "p": "zàizhí"
+                                },
+                                {
+                                    "m": "tại vị.",
+                                    "p_vn": "tai vi.",
+                                    "_id": "6481fae02ce593f4f77b19872e4e66dd",
+                                    "id": 48123,
+                                    "type": "e_cnvi",
+                                    "e": "在位。",
+                                    "p_cn": "zaiwei",
+                                    "p": "zàiwèi"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tham gia; thuộc",
+                            "explain": "参加 (某团体);属于 (某团体)",
+                            "examples": [
+                                {
+                                    "m": "trong Đảng",
+                                    "p_vn": "trong dang",
+                                    "_id": "88d5d5053b53dff782d371bc3986e097",
+                                    "id": 48124,
+                                    "type": "e_cnvi",
+                                    "e": "在党",
+                                    "p_cn": "zai dang",
+                                    "p": "zài dǎng"
+                                },
+                                {
+                                    "m": "trong tổ chức; thuộc tổ chức",
+                                    "p_vn": "trong to chuc; thuoc to chuc",
+                                    "_id": "0ceaf78c56ad0d6f781b974495503189",
+                                    "id": 48125,
+                                    "type": "e_cnvi",
+                                    "e": "在组织。",
+                                    "p_cn": "zai zuzhi",
+                                    "p": "zài zǔzhī"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "do; quyết định bởi",
+                            "explain": "在于;决定于",
+                            "examples": [
+                                {
+                                    "m": "việc do nơi người làm.",
+                                    "p_vn": "viec do noi nguoi lam.",
+                                    "_id": "c4ef6dfdeab99941b302254957c4f559",
+                                    "id": 48126,
+                                    "type": "e_cnvi",
+                                    "e": "事在人为。",
+                                    "p_cn": "shizairenwei",
+                                    "p": "shìzàirénwèi"
+                                },
+                                {
+                                    "m": "học tập tốt, chủ yếu là do nỗ lực bản thân.",
+                                    "p_vn": "hoc tap tot, chu yeu la do no luc ban than.",
+                                    "_id": "3099c5de2194508c225005ab29fea4f7",
+                                    "id": 48127,
+                                    "type": "e_cnvi",
+                                    "e": "学习好，主要在自己努力。",
+                                    "p_cn": "xuexi hao，zhuyao zai ziji nuli。",
+                                    "p": "xuéxí hǎo，zhǔyào zài zìjǐ nǔlì。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hề (dùng với ''所'' biểu thị nhấn mạnh, ở phần sau thường dùng''不'')",
+                            "explain": "''在''和''所''连用，表示强调，下面多连''不''",
+                            "examples": [
+                                {
+                                    "m": "quyết không từ chối.",
+                                    "p_vn": "quyet khong tu choi.",
+                                    "_id": "a004f78315684b2292f8f7dba2e7e12d",
+                                    "id": 48128,
+                                    "type": "e_cnvi",
+                                    "e": "在所不辞。",
+                                    "p_cn": "zaisuobuci",
+                                    "p": "zàisuǒbùcí"
+                                },
+                                {
+                                    "m": "không hề tiếc",
+                                    "p_vn": "khong he tiec",
+                                    "_id": "ea2c31feff16b272d68a7a923734f3d6",
+                                    "id": 48129,
+                                    "type": "e_cnvi",
+                                    "e": "在所不惜。",
+                                    "p_cn": "zaisuobuxi",
+                                    "p": "zàisuǒbùxī"
+                                },
+                                {
+                                    "m": "không hề tính toán.",
+                                    "p_vn": "khong he tinh toan.",
+                                    "_id": "c247f25ce98a844163827d9351add18e",
+                                    "id": 48130,
+                                    "type": "e_cnvi",
+                                    "e": "在所不计。",
+                                    "p_cn": "zaisuobuji",
+                                    "p": "zàisuǒbùjì"
+                                },
+                                {
+                                    "m": "khó tránh khỏi.",
+                                    "p_vn": "kho tranh khoi.",
+                                    "_id": "3cad29d1ccb0bec098f281b5e31a2676",
+                                    "id": 48131,
+                                    "type": "e_cnvi",
+                                    "e": "在所难免。",
+                                    "p_cn": "zaisuonanmian",
+                                    "p": "zàisuǒnánmiǎn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tồn tại; sinh tồn; sống。",
+                            "explain": "存在;生存。",
+                            "examples": [
+                                {
+                                    "m": "Tinh thần sống mãi.",
+                                    "p_vn": "tinh than song mai.",
+                                    "_id": "21f32e53a2e2378a0514e027d5b905b3",
+                                    "id": 48117,
+                                    "type": "e_cnvi",
+                                    "e": "精神永在。",
+                                    "p_cn": "jingshen yong zai",
+                                    "p": "jīngshén yǒng zài"
+                                },
+                                {
+                                    "m": "Giữ lại rừng xanh, không sợ không củi đốt.",
+                                    "p_vn": "giu lai rung xanh, khong so khong cui dot.",
+                                    "_id": "ac7be255046819fca340054063256e7b",
+                                    "id": 74384,
+                                    "e": "留得青山在，不怕沒柴燒。",
+                                    "p_cn": "liu de qingshan zai, bupa mei chai shao.",
+                                    "type": "e_cnvi",
+                                    "p": "liú dé qīngshān zài, bùpà méi chái shāo."
+                                },
+                                {
+                                    "m": "Cha mẹ đều còn sống.",
+                                    "p_vn": "cha me deu con song.",
+                                    "_id": "1d4c80e36839456ccbb2858998b92617",
+                                    "id": 48119,
+                                    "type": "e_cnvi",
+                                    "e": "父母都在。",
+                                    "p_cn": "fumu dou zai.",
+                                    "p": "fùmǔ dōu zài."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "đang (làm gì đó)",
+                            "explain": "正在",
+                            "examples": [
+                                {
+                                    "m": "Chị đang làm bài.",
+                                    "p_vn": "chi dang lam bai.",
+                                    "_id": "09d1071c1332d4bd7d985c946d3111bc",
+                                    "id": 48136,
+                                    "type": "e_cnvi",
+                                    "e": "姐姐在做功课。",
+                                    "p_cn": "jiejie zai zuo gongke。",
+                                    "p": "jiějie zài zuò gōngkè。"
+                                },
+                                {
+                                    "m": "Bố đang nấu cơm, hiện tại không thể nghe điện thoại.",
+                                    "p_vn": "bó dang náu com, hiẹn tại khong thẻ nghe diẹn thoại.",
+                                    "_id": "ac7be255046819fca340054063254c68",
+                                    "id": 74379,
+                                    "e": "爸爸在做饭，现在不能接电话。",
+                                    "p_cn": "baba zai zuo fan, xianzai buneng jie dianhua.",
+                                    "type": "e_cnvi",
+                                    "p": "bàba zài zuò fàn, xiànzài bùnéng jiē diànhuà."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "prep",
+                    "means": [
+                        {
+                            "mean": "đang, ở, vào (ở đâu, thời gian nào, điều kiện nào)",
+                            "explain": "表示时间、地方、范围、条件等",
+                            "examples": [
+                                {
+                                    "m": "Với sự giúp đỡ của anh ấy, tôi đã hoàn thành nhiệm vụ đúng thời hạn.",
+                                    "p_vn": "voi su giup do cua anh ay, toi da hoan thanh nhiem vu dung thoi han.",
+                                    "_id": "ac7be255046819fca340054063255aeb",
+                                    "id": 74381,
+                                    "e": "在他的帮助下，我按时完成了任务。",
+                                    "p_cn": "zai ta de bangzhu xia, wo anshi wanchengle renwu.",
+                                    "type": "e_cnvi",
+                                    "p": "zài tā de bāngzhù xià, wǒ ànshí wánchéngle rènwù."
+                                },
+                                {
+                                    "m": "Đảng phát triển mạnh mẽ dưới sự lãnh đạo của ông.",
+                                    "p_vn": "dang phat trien manh me duoi su lanh dao cua ong.",
+                                    "_id": "ac7be255046819fca34005406325664b",
+                                    "id": 74382,
+                                    "e": "这个党在他的领导下兴旺起来。",
+                                    "p_cn": "zhege dang zai ta de lingdao xia xingwang qilai.",
+                                    "type": "e_cnvi",
+                                    "p": "zhège dǎng zài tā de lǐngdǎo xià xīngwàng qǐlái."
+                                },
+                                {
+                                    "m": "Chúng tôi học tiếng Trung ở trường.",
+                                    "p_vn": "chung toi hoc tieng trung o truong.",
+                                    "_id": "ac7be255046819fca340054063256aa6",
+                                    "id": 74383,
+                                    "e": "我们在学校学习汉语。",
+                                    "p_cn": "women zai xuexiao xuexi hanyu.",
+                                    "type": "e_cnvi",
+                                    "p": "wǒmen zài xuéxiào xuéxí hànyǔ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1242,
+                "search": 52607
+            },
+            "snym": {
+                "syno": [
+                    "正在"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "zài",
+            "cn_vi": "tại",
+            "word": "在",
+            "id": 62742,
+            "phonetic": "zai",
+            "rank": 23,
+            "lv_tocfl": 1,
+            "compound": "在案 ; 在编 ; 在册 ; 在场 ; 在行 ; 在乎 ; 在即 ; 在家 ; 在教 ; 在劫难逃 ; 在理 ; 在谱 ; 在世 ; 在逃 ; 在天之灵 ; 在望 ; 在位 ; 在握 ; 在下 ; 在先 ; 在心 ; 在押 ; 在野 ; 在业 ; 在意 ; 在于 ; 在在 ; 在职 ; 在座"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄐㄧㄢˋㄙㄨㄛˇㄨㄣˊ",
+            "_id": "3beb560ef489422d9cc44b9e1d585ab8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "những gì người ta nghe và thấy (thành ngữ)",
+                            "explain": "what one hears and sees (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 351
+            },
+            "snym": {
+                "syno": [
+                    "耳闻目睹"
+                ],
+                "anto": [
+                    "道听途说"
+                ]
+            },
+            "cn_vi": "sở kiến sở văn",
+            "pinyin": "suǒ jiàn suǒ wén",
+            "word": "所见所闻",
+            "id": 137113,
+            "phonetic": "suojiansuowen",
+            "rank": 20024,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄗㄨㄛˋㄙㄨㄛˇㄨㄟˋ",
+            "_id": "dcafa1ba5cdd4fe0801b95fe4959982e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "hạnh kiểm và hành động của một người",
+                            "explain": "one's conduct and deeds",
+                            "examples": [
+                                {
+                                    "m": "Để thấy được tính cách thực sự của một người, chỉ cần quan sát những gì anh ta làm khi nghĩ rằng không ai nhìn thấy.",
+                                    "p_vn": "De thay duoc tinh cach thuc su cua mot nguoi, chi can quan sat nhung gi anh ta lam khi nghi rang khong ai nhin thay.",
+                                    "_id": "01cc9204567cc4f5975c829194f6bd5b",
+                                    "id": 53449,
+                                    "type": "e_cnvi",
+                                    "e": "要测量一个人真实的个性，只须观察他认为无人发现时的所作所为。",
+                                    "p_cn": "De thay duoc tinh cach thuc su cua mot nguoi, chi can quan sat nhung gi anh ta lam khi nghi rang khong ai nhin thay.",
+                                    "p": "Yào cèliáng yīgè rén zhēnshí de gèxìng, zhǐ xū guānchá tā rènwéi wú rén fà xiàn shí de suǒzuò suǒ wéi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 42,
+                "search": 495
+            },
+            "snym": {
+                "syno": [
+                    "一举一动"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "suǒzuò suǒ wéi",
+            "cn_vi": "sở tá sở vi",
+            "word": "所作所为",
+            "id": 134586,
+            "phonetic": "suozuosuowei",
+            "rank": 16037,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˊㄕˊㄗㄞˋㄗㄞˋ",
+            "_id": "c43287c000e94c43a5e4d81e1bfc375b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Thật thà chất phác",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Người nông dân thật thà chất phác",
+                                    "p_vn": "Nguoi nong dan that tha chat phac",
+                                    "_id": "f57debb23f3746d4b0905a71f5a0120c",
+                                    "id": 54998,
+                                    "type": "e_cnvi",
+                                    "e": "实实在在的农民",
+                                    "p_cn": "Shi shizai zai de nongmin",
+                                    "p": "Shí shízài zài de nóngmín"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 37,
+                "search": 427
+            },
+            "snym": {
+                "syno": [
+                    "实打实",
+                    "认认真真",
+                    "一老一实"
+                ],
+                "anto": [
+                    "虚无缥缈"
+                ]
+            },
+            "cn_vi": "thực thực tại tại",
+            "pinyin": "shí shízài zài",
+            "word": "实实在在",
+            "id": 84279,
+            "phonetic": "shishizaizai",
+            "rank": 17637,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄠˇㄕㄣˊㄗㄞˋㄗㄞˋ",
+            "_id": "c1a44e6678754bbb89f3064a76a6cd7d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Tiếng Đài Loan, POJ [Lāu-sîn-tsāi-tsāi]",
+                            "explain": "(Taiwanese, POJ pr. [lāu-sîn-tsāi-tsāi])",
+                            "examples": []
+                        },
+                        {
+                            "mean": "điềm tĩnh",
+                            "explain": "calm",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không bị xáo trộn",
+                            "explain": "unperturbed",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "lão thần tại tại",
+            "pinyin": "lǎoshén zài zài",
+            "word": "老神在在",
+            "id": 137995,
+            "phonetic": "laoshenzaizai",
+            "rank": 74208,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f9f3d1a8e5b043ba8470e372fc854196",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khốn nhưng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Anh cần gì phải khổ sở vì những việc vặt ấy?",
+                                    "p_vn": "anh can gi phai kho so vi nhung viec vat ay?",
+                                    "_id": "c239c9f1db7b0f041bbec5b274684398",
+                                    "id": 16705,
+                                    "type": "e_cnvi",
+                                    "e": "你何苦在这些小事上伤脑筋?",
+                                    "p_cn": "ni heku zai zhexie xiaoshi shang shang naojin?",
+                                    "p": "nǐ hékǔ zài zhèxiē xiǎoshì shàng shāng nǎojīn?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khổ tại",
+            "pinyin": "kǔ zài",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "苦在",
+            "id": 176085,
+            "phonetic": "kuzai",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄆㄨˇ",
+            "_id": "08947e4a2f68c2ebcdf11467b40554f4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hợp lý; đúng nguyên tắc (lời nói)",
+                            "explain": "(在谱儿) (说话) 符合实际或公认的准则",
+                            "examples": [
+                                {
+                                    "m": "anh xem tôi nói có đúng không?",
+                                    "p_vn": "anh xem toi noi co dung khong",
+                                    "_id": "f87d40f37b27c17c8aa6a28b53130467",
+                                    "id": 48151,
+                                    "type": "e_cnvi",
+                                    "e": "你看我说的在谱不在谱?",
+                                    "p_cn": "ni kan wo shuo de zai pu buzai pu",
+                                    "p": "nǐ kàn wǒ shuō de zài pǔ bùzài pǔ?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "tại phả",
+            "pinyin": "zài pǔ",
+            "word": "在谱",
+            "id": 62753,
+            "phonetic": "zaipu",
+            "rank": 148470,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sv",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄧˋ",
+            "_id": "508101bc9648efb53530e57a2e2541ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sv",
+                    "means": [
+                        {
+                            "mean": "lưu ý; lưu tâm; để ý, để tâm (thường dùng với hình thức phủ định)",
+                            "explain": "放在心上;留心 (多用于否定式); 留心; 放在心上",
+                            "examples": [
+                                {
+                                    "m": "những việc vặt này, anh ấy không để ý đến đâu.",
+                                    "p_vn": "nhung viec vat nay, anh ay khong de y den dau.",
+                                    "_id": "f859250adb0f4a1436dd07d870516b83",
+                                    "id": 48166,
+                                    "type": "e_cnvi",
+                                    "e": "这些小事，他是不大在意的。",
+                                    "p_cn": "zhexiē xiǎoshi，tā shi buda zaiyi de。",
+                                    "p": "zhèxiē xiǎoshì，tā shì bùdà zàiyì de。"
+                                },
+                                {
+                                    "m": "Anh ấy thận trọng và quá quan tâm đến các chi tiết.",
+                                    "p_vn": "anh ay than trong va qua quan tam den cac chi tiet.",
+                                    "_id": "aee13672ea471817b581457d9bb3b59b",
+                                    "id": 73881,
+                                    "e": "他谨小慎微，过于在意细节。",
+                                    "p_cn": "tā jǐnxiǎoshenwēi, guoyu zaiyi xijie.",
+                                    "type": "e_cnvi",
+                                    "p": "tā jǐnxiǎoshènwēi, guòyú zàiyì xìjié."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 286,
+                "search": 3450
+            },
+            "snym": {
+                "syno": [
+                    "留心",
+                    "介意",
+                    "介怀",
+                    "在心",
+                    "留意",
+                    "顾意",
+                    "着意"
+                ],
+                "anto": [
+                    "忽略"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "zàiyì",
+            "cn_vi": "tại ý",
+            "word": "在意",
+            "id": 62768,
+            "phonetic": "zaiyi",
+            "rank": 3465,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄏㄨㄚˊ",
+            "_id": "72b1f0f34f024371a5c05352543e6493",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trong chuyến thăm của một người đến Trung Quốc",
+                            "explain": "during one's visit to China",
+                            "examples": [
+                                {
+                                    "m": "Hoa Âm (phía bắc núi Hoa Sơn)",
+                                    "p_vn": "hoa am (phia bac nui hoa son)",
+                                    "_id": "0b7d4ce0f60f3bb96bbad43a38938d27",
+                                    "id": 45680,
+                                    "type": "e_cnvi",
+                                    "e": "华阴(在华山之北)。",
+                                    "p_cn": "huayin ( zai huashan zhibei )。",
+                                    "p": "huáyīn ( zài huáshān zhīběi )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bên trong Trung Quốc",
+                            "explain": "within China",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 55
+            },
+            "snym": null,
+            "cn_vi": "tại hoa",
+            "pinyin": "zài huá",
+            "word": "在华",
+            "id": 95747,
+            "phonetic": "zaihua",
+            "rank": 55314,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4f99dfa5e74c4d0cb0f06760b60f61a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Còn đang ở trong thời gian được phép nghỉ, chưa phải đi làm việc.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tại giả",
+            "pinyin": "zài jiǎ",
+            "word": "在假",
+            "id": 170691,
+            "phonetic": "zaijia",
+            "rank": 120152,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "adv"
+            ],
+            "measure": {
+                "pinyin": "ti",
+                "examples": "集会以经济成长为核心话题在外国开展。",
+                "measure": "题"
+            },
+            "zhuyin": "ㄗㄞˋㄨㄞˋ",
+            "_id": "8d427bc5d2414a42845dd38fa820e324",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "tại ngoại",
+                            "explain": "在外面常用为不在家中或住在外头的意思",
+                            "examples": [
+                                {
+                                    "m": "anh ấy ra bên ngoài, toàn bộ gia đình giao lại cho cô vợ.",
+                                    "p_vn": "anh ay ra ben ngoai toan bo gia dinh giao lai cho co vo",
+                                    "_id": "10a36859c59c8947a894b2f8c28c4c7b",
+                                    "id": 26335,
+                                    "type": "e_cnvi",
+                                    "e": "他出门在外， 把家全撂给妻子了。",
+                                    "p_cn": "ta chumen zaiwai ba jia quan liao gei qizile",
+                                    "p": "tā chūménzàiwài，bǎ jiāquán liào gěi qīzǐ le。"
+                                },
+                                {
+                                    "m": "một mình ở xa; sống lẻ loi bên ngoài.",
+                                    "p_vn": "mot minh o xa; song le loi ben ngoai",
+                                    "_id": "175d98da4352b9978143eb6e0bb1cbd3",
+                                    "id": 50337,
+                                    "type": "e_cnvi",
+                                    "e": "只身在外",
+                                    "p_cn": "zhishen zaiwai",
+                                    "p": "zhǐshēn zàiwài"
+                                },
+                                {
+                                    "m": "Nếu như chụp ảnh tự sướng, hẹn hò và du lịch là cách để nam nữ thanh niên thể hiện tình cảm của họ, thì rất nhiều loại đồ dùng của các cặp vợ chồng là chất xúc tác và trung gian của cuộc sống gia đình.",
+                                    "p_vn": "Neu nhu chup anh tu suong, hen ho va du lich la cach de nam nu thanh nien the hien tinh cam cua ho, thi rat nhieu loai do dung cua cac cap vo chong la chat xuc tac va trung gian cua cuoc song gia dinh.",
+                                    "_id": "30b0bcae5c65dad36fde9348cffba108",
+                                    "id": 53593,
+                                    "type": "e_cnvi",
+                                    "e": "如果说自拍、约会、旅行是年轻男女们在外秀恩爱的方式,那么许许多多形形色*的情侣用品则是他们家居生活的催化剂和调和剂。",
+                                    "p_cn": "Neu nhu chup anh tu suong, hen ho va du lich la cach de nam nu thanh nien the hien tinh cam cua ho, thi rat nhieu loai do dung cua cac cap vo chong la chat xuc tac va trung gian cua cuoc song gia dinh.",
+                                    "p": "Rúguǒ shuō zìpāi, yuēhuì, lǚxíng shì niánqīng nánnǚmen zàiwài xiù ēn'ài de fāngshì, nàme xǔ xǔduō duō xíng xíng sè*de qínglǚ yòngpǐn zé shì tāmen jiājū shēnghuó de cuīhuàjì hé tiáohé jì."
+                                },
+                                {
+                                    "m": "cậu ấy từ nhỏ đã nhận được sự quan tâm săn sóc của mọi người, ra ngoài sinh sống thì thường nhớ đến những người thân ở quê nhà.",
+                                    "p_vn": "cau ay tu nho da nhan duoc su quan tam san soc cua moi nguoi ra ngoai sinh song thi thuong nho den nhung nguoi than o que nha",
+                                    "_id": "47ab9a810e7bac614852472d14e619a3",
+                                    "id": 25945,
+                                    "type": "e_cnvi",
+                                    "e": "他从小恋群，出门在外， 时常怀念家乡的亲友。",
+                                    "p_cn": "ta congxiao lian qun chumen zaiwai shichang huainian jiaxiang de qinyou",
+                                    "p": "tā cóngxiǎo liànqún，chūménzàiwài，shícháng huáiniàn jiāxiāng de qīnyǒu。"
+                                },
+                                {
+                                    "m": "mười mấy năm sống một mình ở ngoài.",
+                                    "p_vn": "muoi may nam song mot minh o ngoai",
+                                    "_id": "55a8aa1cf5fa1ed4460b7d35012a87d0",
+                                    "id": 9339,
+                                    "type": "e_cnvi",
+                                    "e": "十几年独身在外。",
+                                    "p_cn": "shi ji nian dushen zaiwai",
+                                    "p": "shíjīnián dúshēn zàiwài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 173
+            },
+            "snym": null,
+            "cn_vi": "tại ngoại",
+            "pinyin": "zàiwài",
+            "word": "在外",
+            "id": 62757,
+            "phonetic": "zaiwai",
+            "rank": 30776,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄨㄟˋ",
+            "_id": "266a3d8a6884065fcef89fed332ab1e0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đang trị vì; giữ ngôi vua; trị vì",
+                            "explain": "居于君主的地位;做君主",
+                            "examples": [
+                                {
+                                    "m": "Vua Bảo Đại là vị vua thứ 13 và cuối cùng của triều Nguyễn, triều đại cuối cùng trong lịch sử Việt Nam, trị vì từ năm 1926 đến năm 1945",
+                                    "p_vn": "Vua Bao Dai la vi vua thu 13 va cuoi cung cua trieu Nguyen, trieu dai cuoi cung trong lich su Viet Nam, tri vi tu nam 1926 den nam 1945",
+                                    "_id": "e5f8839420e84f97b6aca0104babdd1d",
+                                    "id": 68455,
+                                    "type": "e_cnvi",
+                                    "e": "保大，是越南历史上最后一个王朝阮朝第13任、也是末代君主，1926年至1945年在位",
+                                    "p_cn": "Bao da, shi yuenan lishi shang zuihou yige wangchao ruanchao di 13 ren, yeshi modai junzhu,1926 nian zhi 1945 nian zai wei",
+                                    "p": "Bǎo dà, shì yuènán lìshǐ shàng zuìhòu yīgè wángcháo ruǎncháo dì 13 rèn, yěshì mòdài jūnzhǔ,1926 nián zhì 1945 nián zài wèi"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tại vị",
+                            "explain": "居于官位现多指居于某个领导岗位",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 57
+            },
+            "snym": null,
+            "cn_vi": "tại vị",
+            "pinyin": "zài wèi",
+            "word": "在位",
+            "id": 62759,
+            "phonetic": "zaiwei",
+            "rank": 54672,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄔㄠˊ",
+            "_id": "29d74d4ea4424b5ca575ceb942b1d9d0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đang ngồi (hiện đang phục vụ, ví dụ: thành viên hội đồng quản trị)",
+                            "explain": "sitting (currently serving, e.g. board members)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tại triều",
+                            "explain": "在朝廷当官、担任职务",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": {
+                "anto": [
+                    "在野"
+                ]
+            },
+            "cn_vi": "tại triều",
+            "pinyin": "zài cháo",
+            "word": "在朝",
+            "id": 102143,
+            "phonetic": "zaichao",
+            "rank": 111158,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄧㄚ",
+            "_id": "9292d550f964247f3aa46d211f55a7ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đang bị giam giữ (phạm nhân)",
+                            "explain": "(犯人) 在拘留监禁中",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": {
+                "anto": [
+                    "在逃",
+                    "释放"
+                ]
+            },
+            "cn_vi": "tại áp",
+            "pinyin": "zàiyā",
+            "word": "在押",
+            "id": 62765,
+            "phonetic": "zaiya",
+            "rank": 117475,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄐㄧㄚ",
+            "_id": "6b74d532636c86ea0235a91f67c73bd3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "có nhà; ở nhà",
+                            "explain": "在家里;在工作或住宿的地方;没有出门",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tại gia (chỉ người không đi tu)",
+                            "explain": "对僧、尼、道士等''出家''而言，一般人都算在家",
+                            "examples": [
+                                {
+                                    "m": "người thế tục; người không đi tu.",
+                                    "p_vn": "nguoi the tuc; nguoi khong di tu.",
+                                    "_id": "1157cde85d5fa7a90e51f929727df071",
+                                    "id": 48149,
+                                    "type": "e_cnvi",
+                                    "e": "在家人",
+                                    "p_cn": "zai jiaren",
+                                    "p": "zài jiārén"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 40,
+                "search": 905
+            },
+            "snym": {
+                "anto": [
+                    "外出"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "zàijiā",
+            "cn_vi": "tại gia",
+            "word": "在家",
+            "id": 62749,
+            "phonetic": "zaijia",
+            "rank": 10600,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄞˊㄗㄞˋ",
+            "_id": "0b3404bfb41b40889252bcca877de948",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Vẫn còn",
+                            "explain": "还在：音乐",
+                            "examples": [
+                                {
+                                    "m": "Thầy giáo vẫn còn ở trong văn phòng",
+                                    "p_vn": "thay giao van con o trong van phong",
+                                    "_id": "5cd58cabe22042978949209f0133b262",
+                                    "id": 55905,
+                                    "type": "e_cnvi",
+                                    "e": "老师还在办公室呢。",
+                                    "p_cn": "laoshi hai zai bangongshi ne.",
+                                    "p": "Lǎoshī hái zài bàngōngshì ne."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "còn đương",
+                            "explain": "副词, 表示动作在进行或状态在持续中",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 411
+            },
+            "snym": null,
+            "cn_vi": "hoàn tại",
+            "pinyin": "hái zài",
+            "word": "还在",
+            "id": 85249,
+            "phonetic": "haizai",
+            "rank": 18098,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄍㄤˇ",
+            "_id": "823b0c31f268466e802520431aca356c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Đi làm; có mặt tại nơi làm việc",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Giáo dục an toàn thường xuyên phải được cung cấp cho nhân viên tại chỗ của các loại công việc đặc biệt",
+                                    "p_vn": "giao duc an toan thuong xuyen phai duoc cung cap cho nhan vien tai cho cua cac loai cong viec dac biet",
+                                    "_id": "d0e9fb659e9347a49c4e38b3eec91be1",
+                                    "id": 67478,
+                                    "type": "e_cnvi",
+                                    "e": "对特殊工种的在岗人员，必须定期进行安全教育",
+                                    "p_cn": "dui teshu gongzhong de zaigang renyuan, bixu dingqi jinxing anquan jiaoyu",
+                                    "p": "Duì tèshū gōngzhǒng de zàigǎng rényuán, bìxū dìngqī jìnxíng ānquán jiàoyù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 88
+            },
+            "snym": null,
+            "cn_vi": "tại cương",
+            "pinyin": "zàigǎng",
+            "word": "在岗",
+            "id": 152196,
+            "phonetic": "zaigang",
+            "rank": 44277,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄐㄧㄡˋ",
+            "_id": "d15841ece1174dadb0e8521a19566b5a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Cư tang; để tang. \n◇Phan Nhạc 潘岳: Cô tự tại cứu; liêu thuộc hàm tụy 孤嗣在疚; 寮屬含悴 (Dương kinh châu lụy 楊荊州誄).",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tại cứu",
+            "pinyin": "zài jiù",
+            "word": "在疚",
+            "id": 149590,
+            "phonetic": "zaijiu",
+            "rank": 131527,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢˊㄗㄞˋ",
+            "_id": "d21eca99a58d4196b299497d76a85446",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lúc rảnh rỗi",
+                            "explain": "at leisure",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 113
+            },
+            "snym": {
+                "syno": [
+                    "居闲",
+                    "闲静",
+                    "安闲",
+                    "闲暇"
+                ]
+            },
+            "cn_vi": "nhàn tại",
+            "pinyin": "xián zài",
+            "word": "闲在",
+            "id": 106111,
+            "phonetic": "xianzai",
+            "rank": 38980,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄕˋ",
+            "_id": "e3fc963915b91e1b79e1780252b7c54e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "còn sống; sống; tồn tại",
+                            "explain": "活在世上;生存;存在",
+                            "examples": [
+                                {
+                                    "m": "những người già năm đó còn sống cũng không nhiều.",
+                                    "p_vn": "nhung nguoi gia nam do con song cung khong nhieu",
+                                    "_id": "a51ba6188de372a0e6c6117813ae2d91",
+                                    "id": 48152,
+                                    "type": "e_cnvi",
+                                    "e": "当年的老人在世的不多了。",
+                                    "p_cn": "dangnian de laoren zaishi de bu duole",
+                                    "p": "dāngnián de lǎorén zàishì de bù duō le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 142
+            },
+            "snym": {
+                "syno": [
+                    "活着",
+                    "面世"
+                ],
+                "anto": [
+                    "谢世",
+                    "去世",
+                    "故去"
+                ]
+            },
+            "cn_vi": "tại thế",
+            "pinyin": "zàishì",
+            "word": "在世",
+            "id": 62754,
+            "phonetic": "zaishi",
+            "rank": 34453,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "49f129486c0145418354d8d3fe5faae5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thắng sở",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thắng sở",
+            "pinyin": "shèng suǒ",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "胜所",
+            "id": 176603,
+            "phonetic": "shengsuo",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩˋㄙㄨㄛˇ",
+            "_id": "4db85feb8148839e2528adc1d5df94cb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nơi ở; chỗ ở",
+                            "explain": "寓居的地方",
+                            "examples": [
+                                {
+                                    "m": "Tôi có thể cung cấp một nơi ngủ trong căn hộ của tôi cho bạn.",
+                                    "p_vn": "Toi co the cung cap mot noi ngu trong can ho cua toi cho ban.",
+                                    "_id": "efc8e14ef6b84f62879509aae016e2d1",
+                                    "id": 70901,
+                                    "type": "e_cnvi",
+                                    "e": "我可以在我的寓所里为你提供一个床位。",
+                                    "p_cn": "wo keyi zai wo de yusuo li wei ni tigong yi ge chuangwei",
+                                    "p": "wǒ kěyǐ zài wǒ de yùsuǒ lǐ wéi nǐ tígōng yī gè chuángwèi"
+                                },
+                                {
+                                    "m": "thường được cung cấp bởi nhà thờ cho giáo sĩ là nơi ở chính thức của họ; khu vực quản lý của giám mục giáo phận.",
+                                    "p_vn": "thuong duoc cung cap boi nha tho cho giao si la noi o chinh thuc cua ho; khu vuc quan ly cua giam muc giao phan.",
+                                    "_id": "f667ef1d970b447bb1296592b8000654",
+                                    "id": 70902,
+                                    "type": "e_cnvi",
+                                    "e": "牧师住宅管辖区通常由教会提供给牧师的正式寓所；教区长的管辖区",
+                                    "p_cn": "mushi zhuzhai guanxia qu tongchang you jiaohui tigong gei mushi de zhengshi yusuo jiao quzhang de guan xiaqu",
+                                    "p": "mùshī zhùzhái guǎnxiá qū tōngcháng yóu jiāohuì tígōng gěi mùshī de zhèngshì yùsuǒ jiāo qūzhǎng de guǎn xiáqū"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 62
+            },
+            "snym": null,
+            "cn_vi": "ngụ sở",
+            "pinyin": "yùsuǒ",
+            "word": "寓所",
+            "id": 61906,
+            "phonetic": "yusuo",
+            "rank": 52438,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄒㄧㄥˋ",
+            "_id": "7299e0107c4542119c38b716d46d89a1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "may mắn thay (văn bản chính thức)",
+                            "explain": "fortunately (formal writing)",
+                            "examples": [
+                                {
+                                    "m": "May mắn thay cho chúng tôi điều này có nghĩa là chúng tôi có một ý tưởng tốt về những gì anh ấy trông như thế nào.",
+                                    "p_vn": "May man thay cho chung toi dieu nay co nghia la chung toi co mot y tuong tot ve nhung gi anh ay trong nhu the nao.",
+                                    "_id": "529837f7cb22465d89c18c44887ac820",
+                                    "id": 58399,
+                                    "type": "e_cnvi",
+                                    "e": "所幸我们也能知道他的大概相貌",
+                                    "p_cn": "suoxing women ye neng zhidao ta de dagai xiangmao",
+                                    "p": "suǒxìng wǒmen yě néng zhīdào tā de dàgài xiāngmào"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 146
+            },
+            "snym": {
+                "syno": [
+                    "利落",
+                    "干脆",
+                    "爽性"
+                ]
+            },
+            "cn_vi": "sở hạnh",
+            "pinyin": "suǒxìng",
+            "word": "所幸",
+            "id": 103000,
+            "phonetic": "suoxing",
+            "rank": 33947,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè, jiān, chù",
+                "examples": "一个厕所，一间厕所，一间厕所",
+                "measure": "个, 间, 处"
+            },
+            "zhuyin": "ㄘㄜˋㄙㄨㄛˇ",
+            "_id": "74b0a2f9eedc57e4a1e0e870efba0995",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                78183,
+                                78184
+                            ],
+                            "struct": "Định ngữ  (男、女、公共、临时）+ 厕所"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                78185,
+                                78186
+                            ],
+                            "struct": "Động từ (上、去、打扫）+ 厕所"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cầu tiêu; nhà xí; nhà vệ sinh; toa-lét; nhà cầu; chuồng chồ; xia; chuồng tiêu; toi-let; chuồng xí",
+                            "explain": "专供人大小便的地方",
+                            "examples": [
+                                {
+                                    "m": "đi cầu; đi vệ sinh",
+                                    "p_vn": "di cau; di ve sinh",
+                                    "_id": "585f2c4bef000ce18b6bbe5b55c04f9a",
+                                    "id": 3866,
+                                    "type": "e_cnvi",
+                                    "e": "上厕所",
+                                    "p_cn": "shang cesuo",
+                                    "p": "shàng cèsuǒ"
+                                },
+                                {
+                                    "m": "Tôi phải xếp hàng chờ đi vệ sinh.",
+                                    "p_vn": "toi phai xep hang cho di ve sinh.",
+                                    "_id": "b2776ac4a861e06178aa5de73b98322e",
+                                    "id": 78182,
+                                    "type": "e_cnvi",
+                                    "e": "我只得排队等着上厕所。",
+                                    "p_cn": "wo zhide paidui dengzhe shang cesuo.",
+                                    "p": "wǒ zhǐdé páiduì děngzhe shàng cèsuǒ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 706,
+                "search": 9073
+            },
+            "snym": {
+                "syno": [
+                    "茅厕",
+                    "便所",
+                    "卫浴",
+                    "茅棚",
+                    "圊蕵",
+                    "卫生",
+                    "茅坑"
+                ]
+            },
+            "lv_hsk_new": "5, 6, 7-9",
+            "pinyin": "cèsuǒ",
+            "cn_vi": "xí sở",
+            "word": "厕所",
+            "id": 5865,
+            "phonetic": "cesuo",
+            "rank": 1150,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄙㄨㄛˇ",
+            "_id": "06e07505cce021e694669e7b736f736b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "công sở",
+                            "explain": "旧时区、乡、村政府办公的地方; 旧时同业或同乡组织办公的地方",
+                            "examples": [
+                                {
+                                    "m": "khu công sở",
+                                    "p_vn": "khu cong so",
+                                    "_id": "54d84158f5aaeb89b0b7bebd76203fbc",
+                                    "id": 14037,
+                                    "type": "e_cnvi",
+                                    "e": "区公所",
+                                    "p_cn": "qu gongsuo",
+                                    "p": "qūgōngsuǒ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 99
+            },
+            "snym": null,
+            "cn_vi": "công sở",
+            "pinyin": "gōngsuǒ",
+            "word": "公所",
+            "id": 19708,
+            "phonetic": "gongsuo",
+            "rank": 41818,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄨㄣˊ",
+            "_id": "5a226e8c41d84e378a974b97cb003feb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đã nghe",
+                            "explain": "heard",
+                            "examples": [
+                                {
+                                    "m": "có nghe qua loa.",
+                                    "p_vn": "co nghe qua loa.",
+                                    "_id": "990c9b600749640d2afcff7db4cff7ee",
+                                    "id": 27665,
+                                    "type": "e_cnvi",
+                                    "e": "略有所闻。",
+                                    "p_cn": "lüe you suo wen.",
+                                    "p": "lüè yǒu suǒ wén."
+                                },
+                                {
+                                    "m": "giống như điều đã nghe",
+                                    "p_vn": "giong nhu dieu da nghe",
+                                    "_id": "bcdc952a855429eaa35858033127c758",
+                                    "id": 44851,
+                                    "type": "e_cnvi",
+                                    "e": "一如所闻",
+                                    "p_cn": "yi ru suo wen",
+                                    "p": "yīrú suǒ wén"
+                                },
+                                {
+                                    "m": "sau đó còn nghe nói nữa",
+                                    "p_vn": "sau do con nghe noi nua",
+                                    "_id": "f5dbeafbb798648156747169de775ced",
+                                    "id": 43440,
+                                    "type": "e_cnvi",
+                                    "e": "续有所闻",
+                                    "p_cn": "xu yousuo wen",
+                                    "p": "xù yǒusuǒ wén"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "những gì người ta nghe thấy",
+                            "explain": "what one hears",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "sở văn",
+            "pinyin": "suǒ wén",
+            "word": "所闻",
+            "id": 96758,
+            "phonetic": "suowen",
+            "rank": 57596,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄒㄧㄤˇ",
+            "_id": "c64cfd8c50b646469f79b46196b74ddf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "suy nghĩ của một người",
+                            "explain": "one's thoughts",
+                            "examples": [
+                                {
+                                    "m": "Nhiều đối tác như bạn nghĩ.",
+                                    "p_vn": "Nhieu doi tac nhu ban nghi.",
+                                    "_id": "9b700f9f0cf54b54822a7e3d9d13cede",
+                                    "id": 58410,
+                                    "type": "e_cnvi",
+                                    "e": "当成你所想的那种拍档",
+                                    "p_cn": "dangcheng ni suo xiang de nazhong paidang",
+                                    "p": "dāngchéng nǐ suǒ xiǎng de nàzhǒng pāidǎng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "những gì một người xem xét",
+                            "explain": "what one considers",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 102
+            },
+            "snym": null,
+            "cn_vi": "sở tưởng",
+            "pinyin": "suǒ xiǎng",
+            "word": "所想",
+            "id": 107730,
+            "phonetic": "suoxiang",
+            "rank": 41225,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "hang",
+                "examples": "你不知道, 我的兒子, 對於世界如何運行所知甚少?",
+                "measure": "行"
+            },
+            "zhuyin": "ㄙㄨㄛˇㄓ",
+            "_id": "45dbb9679d9948a3b2f4edc25b4c4bdd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đã biết",
+                            "explain": "known",
+                            "examples": [
+                                {
+                                    "m": "Tôi chưa bao giờ biết cô ấy sẽ gắn bó với bất cứ thứ gì.",
+                                    "p_vn": "toi chua bao gio biet co ay se gan bo voi bat cu thu gi.",
+                                    "_id": "2066547d932b428a90eab8cd1b70fe35",
+                                    "id": 64512,
+                                    "type": "e_cnvi",
+                                    "e": "就我所知她做什么事都三分钟热度",
+                                    "p_cn": "jiu wo suozhi ta zuo shiyao shi dou sanfenzhong redu",
+                                    "p": "jìu wǒ suǒzhī tā zuò shíyāo shì dōu sānfēnzhōng rèdù"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "những gì một người biết",
+                            "explain": "what one knows",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 235
+            },
+            "snym": null,
+            "cn_vi": "sở tri",
+            "pinyin": "suǒ zhī",
+            "word": "所知",
+            "id": 96756,
+            "phonetic": "suozhi",
+            "rank": 25758,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄐㄧㄢˋ",
+            "_id": "e85d09d2bbd44fdeba59e03fa760cd36",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đã xem",
+                            "explain": "seen",
+                            "examples": [
+                                {
+                                    "m": "Bạn là một trong số ít những người tôi đã thấy",
+                                    "p_vn": "Ban la mot trong so it nhung nguoi toi da thay",
+                                    "_id": "21fea044a551416e9bb4610f7ee8cc8a",
+                                    "id": 65053,
+                                    "type": "e_cnvi",
+                                    "e": "你是我所见过的为数不多的",
+                                    "p_cn": "ni shi wo suo jian guo de weishubuduo de",
+                                    "p": "nǐ shì wǒ suǒ jiàn guò de wèishùbùduō de"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "những gì một người nhìn thấy",
+                            "explain": "what one sees",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sở kiến",
+                            "explain": "见闻; 知识",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 164
+            },
+            "snym": null,
+            "cn_vi": "sở kiến",
+            "pinyin": "suǒ jiàn",
+            "word": "所见",
+            "id": 103004,
+            "phonetic": "suojian",
+            "rank": 31848,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄒㄩ",
+            "_id": "51d998f01b7a48949d56e09baec65553",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cần thiết cho",
+                            "explain": "necessary (for)",
+                            "examples": [
+                                {
+                                    "m": "Chỉ một số cửa hàng tùy chỉnh mới có thiết bị cần thiết",
+                                    "p_vn": "Chi mot so cua hang tuy chinh moi co thiet bi can thiet",
+                                    "_id": "92d9362496ff4b61822f58404a720135",
+                                    "id": 63960,
+                                    "type": "e_cnvi",
+                                    "e": "只有几家定制店有安装所需的",
+                                    "p_cn": "zhiyou jijia dingzhi dianyou anzhuang suo xu de",
+                                    "p": "zhǐyǒu jījiā dìngzhì diànyǒu ānzhuāng suǒ xū de"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "yêu cầu",
+                            "explain": "required",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 44,
+                "search": 546
+            },
+            "snym": null,
+            "cn_vi": "sở nhu",
+            "pinyin": "suǒ xū",
+            "word": "所需",
+            "id": 91395,
+            "phonetic": "suoxu",
+            "rank": 15016,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄐㄩ",
+            "_id": "ed04999ffd584e248c0fdf89ed7b2d72",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trú ngụ",
+                            "explain": "dwelling",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nơi ở",
+                            "explain": "dwelling place",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nơi cư trú",
+                            "explain": "residence",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "sở cư",
+            "pinyin": "suǒ jū",
+            "word": "所居",
+            "id": 91393,
+            "phonetic": "suoju",
+            "rank": 87548,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄛˇㄨㄟˋ",
+            "_id": "d9d970ebcbc0415b839f715f1aab0448",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "doings",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Để thấy được tính cách thực sự của một người, chỉ cần quan sát những gì anh ta làm khi nghĩ rằng không ai nhìn thấy.",
+                                    "p_vn": "De thay duoc tinh cach thuc su cua mot nguoi, chi can quan sat nhung gi anh ta lam khi nghi rang khong ai nhin thay.",
+                                    "_id": "01cc9204567cc4f5975c829194f6bd5b",
+                                    "id": 53449,
+                                    "type": "e_cnvi",
+                                    "e": "要测量一个人真实的个性，只须观察他认为无人发现时的所作所为。",
+                                    "p_cn": "De thay duoc tinh cach thuc su cua mot nguoi, chi can quan sat nhung gi anh ta lam khi nghi rang khong ai nhin thay.",
+                                    "p": "Yào cèliáng yīgè rén zhēnshí de gèxìng, zhǐ xū guānchá tā rènwéi wú rén fà xiàn shí de suǒzuò suǒ wéi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "những gì một người làm",
+                            "explain": "what one does",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 432
+            },
+            "snym": null,
+            "cn_vi": "sở vi",
+            "pinyin": "suǒ wéi",
+            "word": "所为",
+            "id": 96753,
+            "phonetic": "suowei",
+            "rank": 17502,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n",
+                "adj"
+            ],
+            "measure": {
+                "pinyin": "bǎ",
+                "examples": "他把所有他借来的钱还了。",
+                "measure": "把"
+            },
+            "zhuyin": "ㄙㄨㄛˇㄧㄡˇ",
+            "_id": "c8450aa0f1d42e6945420c7660aa30f5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "sở hữu",
+                            "explain": "领有",
+                            "examples": [
+                                {
+                                    "m": "quyền sở hữu.",
+                                    "p_vn": "quyen so huu",
+                                    "_id": "6948dda0541eeea3477489d5ea6f67ce",
+                                    "id": 37415,
+                                    "type": "e_cnvi",
+                                    "e": "所有权。",
+                                    "p_cn": "suoyouquan",
+                                    "p": "suǒyǒuquán。"
+                                },
+                                {
+                                    "m": "chế độ sở hữu",
+                                    "p_vn": "che do so huu",
+                                    "_id": "851fa11d98d9a6840cdff22cb28a1374",
+                                    "id": 37416,
+                                    "type": "e_cnvi",
+                                    "e": "所有制",
+                                    "p_cn": "suoyouzhi",
+                                    "p": "suǒyǒuzhì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vật sở hữu",
+                            "explain": "领有的东西",
+                            "examples": [
+                                {
+                                    "m": "đem hết mọi thứ mà nó có.",
+                                    "p_vn": "dem het moi thu ma no co",
+                                    "_id": "a037c8d24f90876567adf47297aebb43",
+                                    "id": 37417,
+                                    "type": "e_cnvi",
+                                    "e": "尽其所有。",
+                                    "p_cn": "jin qi suoyou",
+                                    "p": "jǐnqísuǒyǒu。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tất cả; hết thảy; toàn bộ",
+                            "explain": "一切;全部",
+                            "examples": [
+                                {
+                                    "m": "cống hiến tất cả sức lực cho tổ quốc.",
+                                    "p_vn": "cong hien tat ca suc luc cho to quoc",
+                                    "_id": "57360a6407b907e209154bcc65cfc00b",
+                                    "id": 37418,
+                                    "type": "e_cnvi",
+                                    "e": "把所有的力量都贡献给祖国。",
+                                    "p_cn": "ba suoyou de liliang dou gongxian gei zuguo",
+                                    "p": "bǎ suǒyǒu de lìliàng dōu gòngxiàn gěi zǔguó."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tuốt luốt",
+                            "explain": "副词, 表示全部",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hẳn",
+                            "explain": "各个部分的总和; 整个",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tuốt",
+                            "explain": "全部",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Cấu trúc:\n- 所有(的) + Danh từ\n- 一切 + Danh từ\nPhạm vi:\n- \"所有\" chỉ tất cả người hoặc vật trong một phạm vi nhất định, nhấn mạnh số lượng.\n- \"一切\" chỉ tất cả các loại bao hàm trong một phạm vi mang ý nghĩa nhấn mạnh toàn bộ.\nTừ loại:\n- \"所有\" có thể làm định ngữ.\n- \"一切\"có thể làm định ngữ, tân ngữ và chủ ngữ.",
+                    "title": "Phân biệt \"所有“ và\"一切 \"",
+                    "words": [
+                        "所有",
+                        "一切"
+                    ]
+                },
+                {
+                    "mean_vi": "\"全部\" là một danh từ, có thể làm định ngữ và tân ngữ, và \"所有\" là một động từ và một tính từ, có thể làm vị ngữ và trạng từ.",
+                    "title": "Phân biệt \"全部\" và \"所有\"",
+                    "words": [
+                        "全部",
+                        "所有"
+                    ]
+                },
+                {
+                    "mean_vi": "- \"所有\" là tính từ, \"一切\" là tính từ và đại từ.\n- Phía trước của \"所有\" biểu thị một phạm vi giới hạn, khi dùng làm định ngữ tu sức cho danh từ thì có thể mang \"的\" hoặc không mang \"的\".\n\"一切\" có thể trực tiếp bổ nghĩa cho danh từ mà không cần \"的\".\n- \"一切\" được sử dụng để phân loại sự vật, không thể tu sức cũng không thể phân loại cho sự vật.\n\"所有\" không có giới hạn như vậy.\n- \"所有\" còn là một động từ và \"一切\" không có chức năng của động từ.",
+                    "title": "Phân biệt \"所有\" và \"一切\"",
+                    "words": [
+                        "所有",
+                        "一切"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "悉数",
+                    "全面",
+                    "全盘",
+                    "通盘",
+                    "扫数",
+                    "一齐",
+                    "整个",
+                    "一起",
+                    "一切",
+                    "全部",
+                    "一共",
+                    "全体",
+                    "完全",
+                    "全数",
+                    "总共",
+                    "统统"
+                ],
+                "anto": [
+                    "有些"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "suǒyǒu",
+            "cn_vi": "sở hữu",
+            "popularity": {
+                "notebook": 666,
+                "search": 10736
+            },
+            "word": "所有",
+            "id": 49512,
+            "phonetic": "suoyou",
+            "rank": 902,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄒㄧㄣ",
+            "_id": "b5fdb2ece2680fd18e54b38889385fef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để ý; lưu ý",
+                            "explain": "留心;放在心上",
+                            "examples": [
+                                {
+                                    "m": "anh nói gì, anh ấy cũng không để ý.",
+                                    "p_vn": "anh noi gi anh ay cung khong de y",
+                                    "_id": "1e91a7155b101772390189f7d72e5e60",
+                                    "id": 48160,
+                                    "type": "e_cnvi",
+                                    "e": "你说什么，他都不在心。",
+                                    "p_cn": "ni shuo shenme ta dou buzai xin",
+                                    "p": "nǐ shuō shénme, tā dōu bùzài xīn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 110
+            },
+            "snym": {
+                "syno": [
+                    "在意"
+                ]
+            },
+            "cn_vi": "tại tâm",
+            "pinyin": "zàixīn",
+            "word": "在心",
+            "id": 62763,
+            "phonetic": "zaixin",
+            "rank": 39669,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                "adv"
+            ],
+            "measure": null,
+            "topic": "13",
+            "zhuyin": "ㄕˊㄗㄞˋ",
+            "_id": "d94990810ffd6487829e254fff9e6eed",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "方",
+                    "means": [
+                        {
+                            "mean": "chắc chắn; cẩn thận; kỹ; khéo; tốt (công tác, công việc)",
+                            "explain": "(工作、活儿) 扎实;地道;不马虎",
+                            "examples": [
+                                {
+                                    "m": "công việc làm rất cẩn thận.",
+                                    "p_vn": "cong viec lam rat can than.",
+                                    "_id": "4ae1ac3b30676cfc4d05012d03faed4d",
+                                    "id": 35649,
+                                    "type": "e_cnvi",
+                                    "e": "工作做得很实在。",
+                                    "p_cn": "gongzuo zuo de hen shizai",
+                                    "p": "gōngzuò zuò dé hěn shízài。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thực tại; quả tình",
+                            "explain": "的确",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kỳ thực",
+                            "explain": "表示所说的是实际情况 (承上文而含转折)",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Thật thà, thành thật",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "quả thực; đích thực; thật",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"老实\" là tính từ, có thể làm định ngữ hoặc vị ngữ trong câu.\n- \"实在\" vừa là tính từ, vừa là trạng từ.\nCó thể dùng làm trạng ngữ hoặc vị ngữ, nhưng không thể dùng làm định ngữ.",
+                    "title": "Phân biệt \"老实\" và \"实在\"",
+                    "words": [
+                        "老实",
+                        "实在"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Đều là phó từ, mang nghĩa quả thực, thực ra.\nKhác:\n- \"其实\" là phó từ, \"实在\" vừa là phó từ vừa là hình dung từ.\n- Phó từ \"实在\" có nghĩa của \"其实\", nhưng trong câu thì thường dùng \"其实\" nhiều hơn.\n- \"实在\" thường đặt ở trước hình dung từ làm trạng ngữ, \"其实\" vừa có thể đặt ở trước hình dung từ làm trạng ngữ, vừa có thể đặt ở đầu vế câu thứ hai biểu thị chuyển ngoặt.",
+                    "title": "Phân biệt \"其实\" và \"实在\"",
+                    "words": [
+                        "其实",
+                        "实在"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Phó từ \"确实\" và \"实在\" đều có thể làm trạng từ\nKhác:\n- Tính từ \"确实\" chủ yếu được sử dụng để chỉ sự vật, \"实在\" chủ yếu được sử dụng để chỉ người.",
+                    "title": "Phân biệt \"确实\" và \"实在\"",
+                    "words": [
+                        "确实",
+                        "实在"
+                    ]
+                },
+                {
+                    "mean_vi": "- \"实在\" là tính từ và phó từ, \"真的\" là cụm từ.\n- \"实在\" có thể bổ nghĩa bằng phó từ chỉ mức độ, có thể nói \"很实在\", \"真的\" không thể bổ nghĩa bằng phó từ chỉ mức độ.",
+                    "title": "Phân biệt \"实在\" và \"真的\"",
+                    "words": [
+                        "实在",
+                        "真的"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "确凿",
+                    "真实",
+                    "其实",
+                    "简直",
+                    "切实",
+                    "确切",
+                    "着实",
+                    "具体",
+                    "的确",
+                    "确实",
+                    "委实"
+                ],
+                "anto": [
+                    "空洞",
+                    "虚假",
+                    "架空",
+                    "虚构",
+                    "装逼",
+                    "幌子",
+                    "虚设"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "shízai",
+            "cn_vi": "thực tại",
+            "popularity": {
+                "notebook": 710,
+                "search": 13736
+            },
+            "word": "实在",
+            "id": 47220,
+            "phonetic": "shizai",
+            "rank": 585,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄧㄝˇ",
+            "_id": "f6cdc70ebdb5bf581162fa786d0a2225",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "không cầm quyền; ở ngoài chính phủ",
+                            "explain": "原指不担任朝廷官职，后来也借指不当政",
+                            "examples": [
+                                {
+                                    "m": "đảng không nắm quyền",
+                                    "p_vn": "dang khong nam quyen",
+                                    "_id": "1f54b88b122c3d92ca27b6ac573c0d37",
+                                    "id": 48163,
+                                    "type": "e_cnvi",
+                                    "e": "在野党",
+                                    "p_cn": "zai yedang",
+                                    "p": "zàiyědǎng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "tại dã",
+            "pinyin": "zàiyě",
+            "word": "在野",
+            "id": 62766,
+            "phonetic": "zaiye",
+            "rank": 71991,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄗㄨㄛˋ",
+            "_id": "c4b048847e39baf15fab6eb3c1252b4b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "có mặt; tham dự",
+                            "explain": "在聚会、宴会等的座位上泛指参加聚会或宴会",
+                            "examples": [
+                                {
+                                    "m": "cử toạ; tất cả những người đang ngồi.",
+                                    "p_vn": "cu toa; tat ca nhung nguoi dang ngoi.",
+                                    "_id": "0311de81933bd4861d63b32deb5c3370",
+                                    "id": 22282,
+                                    "type": "e_cnvi",
+                                    "e": "举座(所有在座的人)。",
+                                    "p_cn": "juzuo ( suoyou zaizuo de ren )。",
+                                    "p": "jǔzuò ( suǒyǒu zàizuò de rén )。"
+                                },
+                                {
+                                    "m": "lời nói của anh ấy làm cảm động những người có mặt.",
+                                    "p_vn": "loi noi cua anh ay lam cam dong nhung nguoi co mat",
+                                    "_id": "6777a679d9215d1c3ddf2ea17f747e04",
+                                    "id": 13077,
+                                    "type": "e_cnvi",
+                                    "e": "他的话感动了在座的人。",
+                                    "p_cn": "ta dehua gandongle zaizuo de ren",
+                                    "p": "tā dehuà gǎndòng le zàizuò de rén。"
+                                },
+                                {
+                                    "m": "những người ngồi đây đều là những nhân vật nổi tiếng trong xã hội.",
+                                    "p_vn": "nhung nguoi ngoi day deu la nhung nhan vat noi tieng trong xa hoi",
+                                    "_id": "6de0eda804d168e030d01dfbfa6e34a8",
+                                    "id": 28879,
+                                    "type": "e_cnvi",
+                                    "e": "在座的都是社会名流。",
+                                    "p_cn": "zaizuo de dou shi shehui mingliu",
+                                    "p": "zàizuò de dōu shì shèhuì míngliú."
+                                },
+                                {
+                                    "m": "Anh ta đã làm những gì mà bất kỳ công tố viên nào trong phòng này sẽ làm.",
+                                    "p_vn": "Anh ta da lam nhung gi ma bat ky cong to vien nao trong phong nay se lam.",
+                                    "_id": "a62adcf4ca5d40188ef44dc2f4f55118",
+                                    "id": 66858,
+                                    "type": "e_cnvi",
+                                    "e": "他做了在座的每一位检控官会做的事",
+                                    "p_cn": "ta zuo le zaizuo de mei yiwei jiankongguan hui zuo de shi",
+                                    "p": "tā zuò le zàizuò de měi yīwèi jiǎnkòngguān hùi zuò de shì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 352
+            },
+            "snym": null,
+            "cn_vi": "tại tọa",
+            "pinyin": "zàizuò",
+            "word": "在座",
+            "id": 62772,
+            "phonetic": "zaizuo",
+            "rank": 20001,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄗㄞˋ",
+            "_id": "b955c5aa71f0260166799b8f7b137e60",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ở đâu; nào; tại đâu",
+                            "explain": "在哪里",
+                            "examples": [
+                                {
+                                    "m": "Lí do nào?",
+                                    "p_vn": "li do nao?",
+                                    "_id": "1fa674e2e8b0dfa031a48ab8337ff697",
+                                    "id": 16725,
+                                    "type": "e_cnvi",
+                                    "e": "理由何在?",
+                                    "p_cn": "liyou hezai?",
+                                    "p": "lǐyóu hézài?"
+                                },
+                                {
+                                    "m": "Khó khăn ở đâu",
+                                    "p_vn": "kho khan o dau",
+                                    "_id": "bb7af0a398e416a8ec4352feb02e559a",
+                                    "id": 16726,
+                                    "type": "e_cnvi",
+                                    "e": "困难何在?",
+                                    "p_cn": "kunnan hezai",
+                                    "p": "kùnnán hézài"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 200
+            },
+            "snym": {
+                "syno": [
+                    "安在"
+                ]
+            },
+            "cn_vi": "hà tại",
+            "pinyin": "hézài",
+            "word": "何在",
+            "id": 23009,
+            "phonetic": "hezai",
+            "rank": 28373,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "topic": "23, 64",
+            "zhuyin": "ㄗˋㄗㄞˋ",
+            "_id": "afd029fa8df68b2e225986e487581ace",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tự do; tự tại; không bị ràng buộc; thoải mái",
+                            "explain": "自由;不受拘束",
+                            "examples": [
+                                {
+                                    "m": "Ung dung tự tại.",
+                                    "p_vn": "ung dung tu tai.",
+                                    "_id": "0b5a803c745e0f28117dbccebbb32dcb",
+                                    "id": 52577,
+                                    "type": "e_cnvi",
+                                    "e": "逍遥自在。",
+                                    "p_cn": "xiaoyaozizai",
+                                    "p": "xiāoyáozìzài"
+                                },
+                                {
+                                    "m": "Cô ấy sống một cuộc sống thoải mái tự tại.",
+                                    "p_vn": "co ay song mot cuoc song thoai mai tu tai.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab2868ad",
+                                    "id": 89009,
+                                    "type": "e_cnvi",
+                                    "e": "她过着悠闲自在的生活。",
+                                    "p_cn": "taguozhe youxian zizai de shenghuo.",
+                                    "p": "tāguòzhe yōuxián zìzài de shēnghuó."
+                                },
+                                {
+                                    "m": "Bạn có cảm thấy thoải mái ở đây không?",
+                                    "p_vn": "ban co cam thay thoai mai o day khong?",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab287337",
+                                    "id": 89010,
+                                    "type": "e_cnvi",
+                                    "e": "你在这儿会感到自在吗？",
+                                    "p_cn": "ni zai zhe'er hui gandao zizai ma?",
+                                    "p": "nǐ zài zhè'er huì gǎndào zìzài ma?"
+                                },
+                                {
+                                    "m": "Căn phòng nhỏ nhưng có thể tạo cho bạn cảm giác thoải mái.",
+                                    "p_vn": "can phong nho nhung co the tao cho ban cam giac thoai mai.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab287886",
+                                    "id": 89011,
+                                    "type": "e_cnvi",
+                                    "e": "房间很小，但能让你感到舒适自在。",
+                                    "p_cn": "fangjian hen xiao, dan neng rang ni gandao shushi zizai.",
+                                    "p": "fángjiān hěn xiǎo, dàn néng ràng nǐ gǎndào shūshì zìzài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 134,
+                "search": 1397
+            },
+            "snym": {
+                "anto": [
+                    "拘束",
+                    "摆布",
+                    "不闲"
+                ],
+                "syno": [
+                    "悠闲",
+                    "自由",
+                    "安闲",
+                    "逍遥",
+                    "自若",
+                    "安详",
+                    "清闲"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "zìzài",
+            "cn_vi": "tự tại",
+            "word": "自在",
+            "id": 66983,
+            "phonetic": "zizai",
+            "rank": 7490,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d2fc10a4f69d450fb9037f421cc59cab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "ở đâu (câu hỏi)",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "chuyện này không nhớ là chuyện hồi năm nào.",
+                                    "p_vn": "chuyen nay khong nho la chuyen hoi nam nao.",
+                                    "_id": "08d62b7d005d0aa97cbfee2edc519761",
+                                    "id": 19650,
+                                    "type": "e_cnvi",
+                                    "e": "这件事不记得是在哪一年了。",
+                                    "p_cn": "zhejian shi bu ji de shi zai nayinian le。",
+                                    "p": "zhèjiàn shì bù jì de shì zài nǎyīnián le。"
+                                },
+                                {
+                                    "m": "Patricia và Milena đâu?",
+                                    "p_vn": "Patricia va Milena dau?",
+                                    "_id": "0b6fc7dda52044249e9ecf6c007b12b6",
+                                    "id": 62011,
+                                    "type": "e_cnvi",
+                                    "e": "帕特丽夏和米莱娜在哪",
+                                    "p_cn": "pate lixia he milai nuo zai na",
+                                    "p": "pàtè lìxià hé mǐlái nuó zài nǎ"
+                                },
+                                {
+                                    "m": "Anh muốn bắt đầu từ vạch xuất phát, nhưng vạch xuất phát rốt cuộc ở đâu?",
+                                    "p_vn": "anh muon bat dau tu vach xuat phat, nhung vach xuat phat rot cuoc o dau?",
+                                    "_id": "10823a0a20987c0d0b21751bce684110",
+                                    "id": 53677,
+                                    "type": "e_cnvi",
+                                    "e": "他很想从起跑线开始，但起跑线究竟在哪里？",
+                                    "p_cn": "ta hen xiang cong qipaoxian kaishi, dan qipaoxian jiujing zai nali?",
+                                    "p": "Tā hěn xiǎng cóng qǐpǎoxiàn kāishǐ, dàn qǐpǎoxiàn jiùjìng zài nǎlǐ?"
+                                },
+                                {
+                                    "m": "Trạm dừng xe buýt ở trung tâm thành phố ở đâu?",
+                                    "p_vn": "Tram dung xe buyt o trung tam thanh pho o dau?",
+                                    "_id": "1876d2d7d8cc49098fb8af7bd8cce9dc",
+                                    "id": 65199,
+                                    "type": "e_cnvi",
+                                    "e": "到市區的公車站牌在哪裡？",
+                                    "p_cn": "dao shiqu de gongche zhanpai zai nali ?",
+                                    "p": "dào shìqū de gōngchē zhànpái zài nǎlǐ ？"
+                                },
+                                {
+                                    "m": "Bộ Đường phục này thật sự rất khác biệt, bạn có thể cho tôi biết tôi đã mua nó ở cửa hàng nào không?",
+                                    "p_vn": "bo duong phuc nay that su rat khac biet, ban co the cho toi biet toi da mua no o cua hang nao khong?",
+                                    "_id": "1a10ff47e4a94d91889f17b86d443cb8",
+                                    "id": 55837,
+                                    "type": "e_cnvi",
+                                    "e": "这套唐装真是与众不同，可以告诉我在哪个商店买的吗?",
+                                    "p_cn": "zhe tao tangzhuāng zhēnshi yǔ zhong butong, kěyǐ gaosu wǒ zai nǎge shāngdian mǎi de ma?",
+                                    "p": "Zhè tào tángzhuāng zhēnshi yǔ zhòng bùtóng, kěyǐ gàosù wǒ zài nǎge shāngdiàn mǎi de ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 617
+            },
+            "snym": null,
+            "cn_vi": "tại na",
+            "pinyin": "zài nǎ",
+            "word": "在哪",
+            "id": 169044,
+            "phonetic": "zaina",
+            "rank": 13822,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "所在"
+}

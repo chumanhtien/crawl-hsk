@@ -1,0 +1,2180 @@
+{
+    "total": 1151,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "duàn",
+                "examples": "",
+                "measure": "段"
+            },
+            "topic": "31, 44, 46, 75",
+            "zhuyin": "ㄕˊㄐㄧㄢ",
+            "_id": "d4671d380202dad7fb2b814abd1baf2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "trân trọng/ nắm bắt/ sử dụng/ sắp xếp + thời gian",
+                            "examples": [
+                                74883,
+                                97776
+                            ],
+                            "struct": "Động từ (珍惜、抓紧、利用、安排) + 时间"
+                        },
+                        {
+                            "explain": "quản lý/ khái niệm/ hạn chế + thời gian",
+                            "examples": [
+                                97794,
+                                97797
+                            ],
+                            "struct": "时间 + 管理，观念，限制"
+                        },
+                        {
+                            "explain": "làm gì trong bao lâu?",
+                            "examples": [
+                                99000,
+                                99081
+                            ],
+                            "struct": "Động từ + 多长时间?"
+                        },
+                        {
+                            "explain": "làm gì bao lâu",
+                            "examples": [
+                                120644,
+                                120645
+                            ],
+                            "struct": "Động từ + 多长时间 + Động từ"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời gian; ngày giờ",
+                            "explain": "物质存在的一种客观形式，由过去、现在、将来构成的",
+                            "examples": [
+                                {
+                                    "m": "Thời gian trôi thật nhanh.",
+                                    "p_vn": "thoi gian troi that nhanh.",
+                                    "_id": "55db399305625a14707d64b91801200f",
+                                    "id": 97679,
+                                    "type": "e_cnvi",
+                                    "e": "时间过得真快。",
+                                    "p_cn": "shijianguo de zhen kuai.",
+                                    "p": "shíjiānguò dé zhēn kuài."
+                                },
+                                {
+                                    "m": "Trong thời gian này tôi rất bận.",
+                                    "p_vn": "trong thoi gian nay toi rat ban.",
+                                    "_id": "55db399305625a14707d64b918012fd3",
+                                    "id": 97681,
+                                    "type": "e_cnvi",
+                                    "e": "这段时间我很忙。",
+                                    "p_cn": "zhe duan shijian wo hen mang.",
+                                    "p": "zhè duàn shíjiān wǒ hěn máng."
+                                },
+                                {
+                                    "m": "Chúng ta phải trân trọng thời gian.",
+                                    "p_vn": "chung ta phai tran trong thoi gian.",
+                                    "_id": "55db399305625a14707d64b918013b5f",
+                                    "id": 97682,
+                                    "type": "e_cnvi",
+                                    "e": "我们要珍惜时间。",
+                                    "p_cn": "women yao zhenxi shijian.",
+                                    "p": "wǒmen yào zhēnxī shíjiān."
+                                },
+                                {
+                                    "m": "Tôi không có thời gian.",
+                                    "p_vn": "toi khong co thoi gian.",
+                                    "_id": "55db399305625a14707d64b9180753cb",
+                                    "id": 97790,
+                                    "type": "e_cnvi",
+                                    "e": "我没有时间。",
+                                    "p_cn": "wo meiyou shijian.",
+                                    "p": "wǒ méiyǒu shíjiān."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "khoảng thời gian",
+                            "explain": "有起点和终点的一段时间",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy cần bao nhiêu thời gian?",
+                                    "p_vn": "anh ay can bao nhieu thoi gian?",
+                                    "_id": "55db399305625a14707d64b91801585a",
+                                    "id": 97685,
+                                    "type": "e_cnvi",
+                                    "e": "他要多长时间？",
+                                    "p_cn": "ta yao duo chang shijian?",
+                                    "p": "tā yào duō cháng shíjiān?"
+                                },
+                                {
+                                    "m": "Công việc này tớ đã làm một thời gian dài rồi.",
+                                    "p_vn": "cong viec nay to da lam mot thoi gian dai roi.",
+                                    "_id": "6f246e568cdf4c1c9b7075b37dbbaf35",
+                                    "id": 74888,
+                                    "type": "e_cnvi",
+                                    "e": "这个工作，我做了很长时间。",
+                                    "p_cn": "zhege gongzuo, wo zuole hen chang shijian.",
+                                    "p": "zhège gōngzuò, wǒ zuòle hěn cháng shíjiān."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giờ (thời điểm cụ thể)",
+                            "explain": "时间里的某一点",
+                            "examples": [
+                                {
+                                    "m": "Bây giờ là 3 giờ 15 phút.",
+                                    "p_vn": "bay gio la 3 gio 15 phut.",
+                                    "_id": "09e2c7fb8fecc11998a463cbe720ed0d",
+                                    "id": 35568,
+                                    "type": "e_cnvi",
+                                    "e": "现在的时间是三点十五分。",
+                                    "p_cn": "xianzai de shijian shi sandian shiwufen.",
+                                    "p": "xiànzài de shíjiān shì sāndiǎn shíwǔfēn."
+                                },
+                                {
+                                    "m": "Đến giờ vào lớp rồi, vào đi!",
+                                    "p_vn": "den gio vao lop roi, vao di!",
+                                    "_id": "ac7be255046819fca340054063581e47",
+                                    "id": 74881,
+                                    "type": "e_cnvi",
+                                    "e": "上课的时间到了，快进来吧！",
+                                    "p_cn": "shangke de shijian daole, kuai jinlai ba!",
+                                    "p": "shàngkè de shíjiān dàole, kuài jìnlái ba!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"时间\" không chỉ biểu thị khoảng thời gian (một khoảng thời gian có điểm bắt đầu và điểm kết thúc), mà còn biểu thị điểm thời gian (một thời điểm nhất định: 8:15, mùng 5, tháng giêng, v.v.), và \"工夫\" chỉ có thể diễn đạt khoảng thời gian, không thể hiện thời điểm.",
+                    "title": "Phân biệt \"功夫\" và \"时间\"",
+                    "words": [
+                        "功夫",
+                        "时间"
+                    ]
+                },
+                {
+                    "mean_vi": "- \"时候\" thường có nghĩa là một thời điểm nhất định hoặc một khoảng thời gian tương đối mơ hồ, \"时间\" có nghĩa là cả một thời điểm và một khoảng thời gian.\n- 时间\"có thể được số lượng từ tu sức, nhưng\"时候\"thì không thể.\"时间\"có thể làm tân ngữ, nhưng\"时候\" thì không thể.",
+                    "title": "Phân biệt \"时候\" và \"时间\"",
+                    "words": [
+                        "时候",
+                        "时间"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "工夫",
+                    "光阴",
+                    "时分",
+                    "时候",
+                    "时刻"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "shíjiān",
+            "cn_vi": "thì gian",
+            "popularity": {
+                "notebook": 1009,
+                "search": 14814
+            },
+            "word": "时间",
+            "id": 47121,
+            "phonetic": "shijian",
+            "rank": 509,
+            "lv_hsk": 2,
+            "lv_tocfl": 2,
+            "compound": "当地时间; 反应时间; 高峰时间; 工作时间; 关机时间; 日照时间"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˊㄐㄧㄢㄑㄩㄐㄧㄢ",
+            "_id": "930954cfba3545f097728584e54d235c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Khoảng thời gian",
+                            "explain": "time interval",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "thời gian khu gian",
+            "pinyin": "shíjiān qūjiān",
+            "word": "时间区间",
+            "id": 137292,
+            "phonetic": "shijianqujian",
+            "rank": 96332,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄕˊㄐㄧㄢ",
+            "_id": "8a8bc2364ef74aa1b206cee365d50e45",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một lúc",
+                            "explain": "for a moment",
+                            "examples": [
+                                {
+                                    "m": "Thông tin của phạm nhân đã được gửi đến bộ đàm của mọi người, phát hiện mục tiêu hãy thông báo ngay lập tức. Tuyệt đối không được bỏ qua bất kỳ ngóc ngách nào.",
+                                    "p_vn": "thong tin cua pham nhan da duoc gui den bo dam cua moi nguoi, phat hien muc tieu hay thong bao ngay lap tuc. tuyet doi khong duoc bo qua bat ky ngoc ngach nao.",
+                                    "_id": "2084bea7a5124ee5b6036f3aeb866883",
+                                    "id": 68067,
+                                    "type": "e_cnvi",
+                                    "e": "犯人信息已经送到大家的通讯器中，发现目标第一时间通报，不要放过任何一个角落",
+                                    "p_cn": "fanren xinxī yǐjīng song dao dajiā de tōngxun qi zhōng, fāxian mubiāo di yī shijiān tōngbao, buyao fangguo renhe yīge jiǎoluo",
+                                    "p": "Fànrén xìnxī yǐjīng sòng dào dàjiā de tōngxùn qì zhōng, fāxiàn mùbiāo dì yī shíjiān tōngbào, bùyào fàngguò rènhé yīgè jiǎoluò"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chốc lát",
+                            "explain": "momentarily",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 271
+            },
+            "snym": null,
+            "cn_vi": "nhất thì gian",
+            "pinyin": "yī shíjiān",
+            "word": "一时间",
+            "id": 116643,
+            "phonetic": "yishijian",
+            "rank": 23619,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄕˊㄐㄧㄢ",
+            "_id": "1b56c0b21ac44ce88ce216e43184b6a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "Thường thường. \n◇Thủy hử truyện 水滸傳: Sử Tiến tự thử thường thường dữ Chu Vũ đẳng tam nhân vãng lai. Bất thì gian; chỉ thị Vương Tứ khứ san trại lí tống vật sự; bất tắc nhất nhật. Trại lí đầu lĩnh dã tần tần địa sử nhân tống kim ngân lai dữ Sử Tiến 史進自此常常與朱武等三人往來; 不時間只是王四去山寨裡送物事. 不則一日; 寨裡頭領也頻頻地使人送金銀來與史進 (Đệ nhị hồi) Sử Tiến từ đó năng đi lại với bọn Chu Vũ ba người. Thường thường; chỉ có Vương Tứ lên sơn trại biếu lễ vật; (không chỉ một ngày). Các đầu lĩnh trên trại cũng đưa vàng bạc biếu Sử Tiến luôn.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "bất thì gian",
+            "pinyin": "bù shíjiān",
+            "word": "不时间",
+            "id": 148417,
+            "phonetic": "bushijian",
+            "rank": 69057,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "77",
+            "zhuyin": "ㄕˊㄐㄧㄢㄒㄧㄢˋ",
+            "_id": "aa985da56fa64eaeb33be6eca27db921",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mốc thời gian",
+                            "explain": "timeline",
+                            "examples": [
+                                {
+                                    "m": "Nhưng dòng thời gian không phù hợp.",
+                                    "p_vn": "Nhung dong thoi gian khong phu hop.",
+                                    "_id": "9a56a4871de34663ae7443bb7076422b",
+                                    "id": 61570,
+                                    "type": "e_cnvi",
+                                    "e": "但时间线不符",
+                                    "p_cn": "dan shijian xian bufu",
+                                    "p": "dàn shíjiān xiàn bùfú"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 139
+            },
+            "snym": null,
+            "cn_vi": "thì gian tuyến",
+            "pinyin": "shíjiān xiàn",
+            "word": "时间线",
+            "id": 125139,
+            "phonetic": "shijianxian",
+            "rank": 34835,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄡㄕˊㄐㄧㄢ",
+            "_id": "4451b381d4ed4931ac012f7832a50883",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Dành thời gian",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mỗi tuần hãy gọi điện hoặc dành thời gian ăn tối cùng nhau mỗi tuần một lần.",
+                                    "p_vn": "moi tuan hay goi dien hoac danh thoi gian an toi cung nhau moi tuan mot lan.",
+                                    "_id": "b8bc48c131f3493d8040ae5304943cb8",
+                                    "id": 56056,
+                                    "type": "e_cnvi",
+                                    "e": "每周一次打电话或者抽时间共进晚餐。",
+                                    "p_cn": "mei zhou yici da dianhua huozhe chou shijian gong jin wancan.",
+                                    "p": "Měi zhōu yīcì dǎ diànhuà huòzhě chōu shíjiān gòng jìn wǎncān."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 64,
+                "search": 736
+            },
+            "snym": null,
+            "cn_vi": "trừu thì gian",
+            "pinyin": "chōu shíjiān",
+            "word": "抽时间",
+            "id": 85409,
+            "phonetic": "choushijian",
+            "rank": 12287,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a2e3e729d89c4d8b8d4bd79251ad31f0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thu xếp thời gian",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "trảo thì gian",
+            "pinyin": "zhǎo shíjiān",
+            "popularity": {
+                "notebook": 2,
+                "search": 33
+            },
+            "word": "找时间",
+            "id": 185496,
+            "phonetic": "zhaoshijian",
+            "rank": 68640,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄨㄢˇㄕˊㄐㄧㄢ",
+            "_id": "6f4f7f798e1a42219df0122712943278",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời gian ngắn",
+                            "explain": "short term; short time",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 72
+            },
+            "snym": null,
+            "cn_vi": "đoản thì gian",
+            "pinyin": "duǎn shíjiān",
+            "word": "短时间",
+            "id": 125721,
+            "phonetic": "duanshijian",
+            "rank": 48894,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄚˋㄕˊㄐㄧㄢ",
+            "_id": "2a3a7d01ca6f07be5a6225794fe74d44",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trong nháy mắt; trong chốc lát",
+                            "explain": "极短时间也说霎时",
+                            "examples": [
+                                {
+                                    "m": "một tiếng nổ lớn, trong nháy mắt, trên bầu trời xuất hiện muôn vàn những đoá hoa lửa tuyệt đẹp.",
+                                    "p_vn": "mot tieng no lon trong nhay mat tren bau troi xuat hien muon van nhung doa hoa lua tuyet dep",
+                                    "_id": "f2a4e823c9402c99194b74f8a5bbff28",
+                                    "id": 34393,
+                                    "type": "e_cnvi",
+                                    "e": "一声巨响，霎时间天空中出现了千万朵美丽的火花。",
+                                    "p_cn": "yisheng ju xiang shashijian tiankong zhong chuxianle qian wan duo meili de huohua",
+                                    "p": "yīshēng jùxiǎng，shàshíjiān tiānkōng zhōng chūxiàn le qiānwànduǒ měilì de huǒhuā。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Cả hai từ này đều chỉ thời gian rất ngắn và cả hai đều có thể được dùng làm trạng ngữ chỉ thời gian hoặc sự việc xảy ra rất nhanh và đột ngột.\nKhác:\n- \"一刹那\" có thể làm định ngữ và tân ngữ, nhưng \"霎时间\" không có cách sử dụng này.",
+                    "title": "Phân biệt \"一刹那\" và \"霎时间\"",
+                    "words": [
+                        "一刹那",
+                        "霎时间"
+                    ]
+                }
+            ],
+            "snym": null,
+            "cn_vi": "siếp thì gian",
+            "pinyin": "shàshíjiān",
+            "popularity": {
+                "notebook": 22,
+                "search": 146
+            },
+            "word": "霎时间",
+            "id": 45415,
+            "phonetic": "shashijian",
+            "rank": 33930,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "77",
+            "zhuyin": "ㄕˊㄐㄧㄢㄓㄡˊ",
+            "_id": "896b9593644d4ce0ba740491671056e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trục thời gian",
+                            "explain": "time axis",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mốc thời gian",
+                            "explain": "timeline",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 49
+            },
+            "snym": null,
+            "cn_vi": "thì gian trục",
+            "pinyin": "shíjiān zhóu",
+            "word": "时间轴",
+            "id": 125141,
+            "phonetic": "shijianzhou",
+            "rank": 58388,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˊㄐㄧㄢㄘˊ",
+            "_id": "1e3273270894bc7c20aca6c8e5feab10",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "từ chỉ thời gian",
+                            "explain": "表示时间的名词，如：过去、现在、将来、早晨、今天、元旦、春季、去年、星期日等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 67
+            },
+            "snym": null,
+            "cn_vi": "thì gian từ",
+            "pinyin": "shíjiān cí",
+            "word": "时间词",
+            "id": 47122,
+            "phonetic": "shijianci",
+            "rank": 50740,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧ˙ㄕˊㄐㄧㄢ",
+            "_id": "d2905a020227105aa8f9ea6e77745eeb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Thời gian nghỉ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "điều chỉnh thời gian làm việc và nghỉ ngơi.",
+                                    "p_vn": "dieu chinh thoi gian lam viec va nghi ngoi.",
+                                    "_id": "d979237fb14bd23c10ee2b6978e8c3ef",
+                                    "id": 8620,
+                                    "type": "e_cnvi",
+                                    "e": "调整作息时间",
+                                    "p_cn": "tiaozheng zuoxi shijian",
+                                    "p": "tiáozhěng zuòxí shíjiān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "tức thì gian",
+            "pinyin": "xí shíjiān",
+            "word": "息时间",
+            "id": 77821,
+            "phonetic": "xishijian",
+            "rank": 105916,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨㄛㄕˊㄐㄧㄢ",
+            "_id": "77192a5a2da74249958b6ed0e215ec57",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Câu giờ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tôi nghĩ rằng họ đang kéo thời gian.",
+                                    "p_vn": "Toi nghi rang ho dang keo thoi gian.",
+                                    "_id": "9b529ade74dc487e8228f09ada7242bf",
+                                    "id": 55061,
+                                    "type": "e_cnvi",
+                                    "e": "我想他们正在拖时间。",
+                                    "p_cn": "Wo xiang tamen zhengzai tuo shijian.",
+                                    "p": "Wǒ xiǎng tāmen zhèngzài tuō shíjiān."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 82
+            },
+            "snym": null,
+            "cn_vi": "tha thì gian",
+            "pinyin": "tuō shíjiān",
+            "word": "拖时间",
+            "id": 84342,
+            "phonetic": "tuoshijian",
+            "rank": 45880,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕˊㄐㄧㄢㄒㄧㄥˋ",
+            "_id": "483cce59090ee7c76d78d5d6a81190b3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tính thời gian",
+                            "explain": "事物在某一段时间内才有效、有意义或有作用的特征",
+                            "examples": [
+                                {
+                                    "m": "bản tin có tính thời gian cao, phải cung cấp kịp thời.",
+                                    "p_vn": "ban tin co tinh thoi gian cao phai cung cap kip thoi",
+                                    "_id": "fb25d70997dd44a6572ca2203625c942",
+                                    "id": 35569,
+                                    "type": "e_cnvi",
+                                    "e": "新闻报道的时间性强，要及时发表。",
+                                    "p_cn": "xinwen baodao de shijian xing qiang yao jishi fabiao",
+                                    "p": "xīnwénbàodào de shíjiānxìng qiáng，yào jíshí fābiǎo。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 91
+            },
+            "snym": null,
+            "cn_vi": "thì gian tính",
+            "pinyin": "shíjiān xìng",
+            "word": "时间性",
+            "id": 47123,
+            "phonetic": "shijianxing",
+            "rank": 43606,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "67876be410b44a3abb9f38e80c4507e0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quá giờ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Dòng thời gian của Merck đã kiểm tra chưa?",
+                                    "p_vn": "Dong thoi gian cua Merck da kiem tra chua?",
+                                    "_id": "9d382222aa1c4a0bae1b7fda0228c914",
+                                    "id": 61571,
+                                    "type": "e_cnvi",
+                                    "e": "查过时间线了吗",
+                                    "p_cn": "cha guo shijian xian le ma",
+                                    "p": "chá guò shíjiān xiàn le ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "quá thì gian",
+            "pinyin": "guò shíjiān",
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "word": "过时间",
+            "id": 181377,
+            "phonetic": "guoshijian",
+            "rank": 91846,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄚㄕˊㄐㄧㄢ",
+            "_id": "3aca6048591849bfaf6bb7779226d614",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dành thời gian",
+                            "explain": "to spend time",
+                            "examples": [
+                                {
+                                    "m": "Bạn không cố gắng dành thời gian cho anh ấy.",
+                                    "p_vn": "ban khong co gang danh thoi gian cho anh ay.",
+                                    "_id": "a7fcedf45bb948be934b2768220555d0",
+                                    "id": 66670,
+                                    "type": "e_cnvi",
+                                    "e": "你都不花时间和他相处",
+                                    "p_cn": "ni dou buhua shijian he ta xiangchu",
+                                    "p": "nǐ dōu bùhuā shíjiān hé tā xiāngchù"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mất thời gian",
+                            "explain": "to take up time",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 32,
+                "search": 476
+            },
+            "snym": null,
+            "cn_vi": "hoa thì gian",
+            "pinyin": "huā shíjiān",
+            "word": "花时间",
+            "id": 123240,
+            "phonetic": "huashijian",
+            "rank": 16474,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "60",
+            "zhuyin": "ㄕˊㄐㄧㄢㄔㄨㄛ",
+            "_id": "8336705a69924ca59160fb6d33e557df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dấu thời gian",
+                            "explain": "timestamp",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "thì gian trạc",
+            "pinyin": "shíjiān chuō",
+            "word": "时间戳",
+            "id": 125138,
+            "phonetic": "shijianchuo",
+            "rank": 57874,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄞㄕˊㄐㄧㄢ",
+            "_id": "870a0b31926e43d097cf4854701d5c2a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để chơi cho thời gian",
+                            "explain": "to play for time",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để đình trệ",
+                            "explain": "to stall",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "ai thì gian",
+            "pinyin": "āi shíjiān",
+            "word": "挨时间",
+            "id": 118238,
+            "phonetic": "aishijian",
+            "rank": 65480,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "16, 74",
+            "zhuyin": "ㄕˊㄐㄧㄢㄅㄧㄠˇ",
+            "_id": "d3fe92dbbb7a4a3c9cbc587030e77578",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lịch trình",
+                            "explain": "schedule",
+                            "examples": [
+                                {
+                                    "m": "Lịch trình của anh ấy dường như rất quan trọng đối với anh ấy.",
+                                    "p_vn": "Lich trinh cua anh ay duong nhu rat quan trong doi voi anh ay.",
+                                    "_id": "901903f911754b8599e8a175ea5f6008",
+                                    "id": 61575,
+                                    "type": "e_cnvi",
+                                    "e": "他的时间表对他很重要",
+                                    "p_cn": "ta de shijianbiao dui ta hen zhongyao",
+                                    "p": "tā de shíjiānbiǎo dùi tā hěn zhòngyào"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thời gian biểu",
+                            "explain": "timetable",
+                            "examples": [
+                                {
+                                    "m": "Có thời gian biểu không?",
+                                    "p_vn": "Co thoi gian bieu khong?",
+                                    "_id": "94648deb7fa44a7e806dc1235b73d580",
+                                    "id": 61580,
+                                    "type": "e_cnvi",
+                                    "e": "有时间表吗？",
+                                    "p_cn": "you shijianbiao ma ?",
+                                    "p": "yǒu shíjiānbiǎo ma ？"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thời khắc biểu",
+                            "explain": "以时间排定行进次序的表格",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 37,
+                "search": 447
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "shíjiān biǎo",
+            "cn_vi": "thì gian biểu",
+            "word": "时间表",
+            "id": 125140,
+            "phonetic": "shijianbiao",
+            "rank": 17141,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨˋㄧㄡˊㄐㄧㄢㄍㄜˊㄕˊㄐㄧㄢ",
+            "_id": "cb1242a2ee884624a8ff6cfb93a833d0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Thời gian khoảng cách của dầu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "chú du gian cách thì gian",
+            "pinyin": "Zhùyóu jiàngé shíjiān",
+            "word": "注油间隔时间",
+            "id": 155128,
+            "phonetic": "Zhuyoujiangeshijian",
+            "rank": 158107,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢㄍㄜˊㄕˊㄐㄧㄢㄕㄜˋㄉㄧㄥˋ",
+            "_id": "c08083a9876e48cd9a5504c8ae3efff2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Cài đặt thời gian dãn cách",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "gian cách thì gian thiết định",
+            "pinyin": "Jiàngé shíjiān shè dìng",
+            "word": "间隔时间设定",
+            "id": 155301,
+            "phonetic": "Jiangeshijiansheding",
+            "rank": 122534,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄡㄒㄧ˙ㄕˊㄐㄧㄢ",
+            "topic": "14",
+            "_id": "05146047662b0798d4103acffe5e0797",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời gian nghỉ",
+                            "explain": "在一定时间内停止活动，使人从生理上和心理上得到松弛，它是一个消除或减轻疲劳，恢复精力的过程。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 314
+            },
+            "snym": null,
+            "cn_vi": "hưu tức thì gian",
+            "pinyin": "xiūxi shíjiān",
+            "word": "休息时间",
+            "id": 68382,
+            "phonetic": "xiuxishijian",
+            "rank": 21497,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧˋㄧㄕˊㄐㄧㄢ",
+            "_id": "02dabb0831eb4e51b8ab06dac2b0c04f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "điều đầu tiên",
+                            "explain": "first thing",
+                            "examples": [
+                                {
+                                    "m": "Thông tin của phạm nhân đã được gửi đến bộ đàm của mọi người, phát hiện mục tiêu hãy thông báo ngay lập tức. Tuyệt đối không được bỏ qua bất kỳ ngóc ngách nào.",
+                                    "p_vn": "thong tin cua pham nhan da duoc gui den bo dam cua moi nguoi, phat hien muc tieu hay thong bao ngay lap tuc. tuyet doi khong duoc bo qua bat ky ngoc ngach nao.",
+                                    "_id": "2084bea7a5124ee5b6036f3aeb866883",
+                                    "id": 68067,
+                                    "type": "e_cnvi",
+                                    "e": "犯人信息已经送到大家的通讯器中，发现目标第一时间通报，不要放过任何一个角落",
+                                    "p_cn": "fanren xinxī yǐjīng song dao dajiā de tōngxun qi zhōng, fāxian mubiāo di yī shijiān tōngbao, buyao fangguo renhe yīge jiǎoluo",
+                                    "p": "Fànrén xìnxī yǐjīng sòng dào dàjiā de tōngxùn qì zhōng, fāxiàn mùbiāo dì yī shíjiān tōngbào, bùyào fàngguò rènhé yīgè jiǎoluò"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngay lập tức (sau một sự kiện)",
+                            "explain": "immediately (after an event)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "trong những khoảnh khắc đầu tiên (của lần thứ xảy ra)",
+                            "explain": "in the first moments (of sth happening)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 33,
+                "search": 557
+            },
+            "snym": null,
+            "cn_vi": "đệ nhất thì gian",
+            "pinyin": "dì yī shíjiān",
+            "word": "第一时间",
+            "id": 132878,
+            "phonetic": "diyishijian",
+            "rank": 14795,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄨㄤˋㄐㄧˋㄕˊㄐㄧㄢ",
+            "_id": "04a3a71295cd40848904268106eba0d1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "High Season/Peak Season\nMùa cao điểm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 53
+            },
+            "snym": null,
+            "cn_vi": "vượng quý thì gian",
+            "pinyin": "Wàngjì shíjiān",
+            "word": "旺季时间",
+            "id": 157559,
+            "phonetic": "Wangjishijian",
+            "rank": 56451,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄢˋㄍㄨㄥㄕˊㄐㄧㄢ",
+            "_id": "4d5cc62244814e5e94f83b064e18d1d1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giờ hành chính",
+                            "explain": "office hours",
+                            "examples": [
+                                {
+                                    "m": "Giáo sư của tôi đồng ý gặp tôi trong giờ hành chính.",
+                                    "p_vn": "Giao su cua toi dong y gap toi trong gio hanh chinh.",
+                                    "_id": "b7deb4e332ee41ccae7f6386a13083df",
+                                    "id": 62824,
+                                    "type": "e_cnvi",
+                                    "e": "教授同意在办公时间见我了",
+                                    "p_cn": "jiaoshou tongyi zai bangongshijian jian wo le",
+                                    "p": "jiàoshòu tóngyì zài bàngōngshíjiān jiàn wǒ le"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 171
+            },
+            "snym": null,
+            "cn_vi": "biện công thì gian",
+            "pinyin": "bàngōng shíjiān",
+            "word": "办公时间",
+            "id": 138854,
+            "phonetic": "bangongshijian",
+            "rank": 31034,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠㄇㄛˊㄕˊㄐㄧㄢ",
+            "_id": "33ac55dd10454e308d0302a39ce3202b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giết thời gian",
+                            "explain": "to kill time",
+                            "examples": [
+                                {
+                                    "m": "Tôi đang cố giết thời gian.",
+                                    "p_vn": "Toi dang co giet thoi gian.",
+                                    "_id": "acfff727bc244305b3897da90885a67a",
+                                    "id": 62762,
+                                    "type": "e_cnvi",
+                                    "e": "我试着消磨时间。",
+                                    "p_cn": "woshi zhao xiaomo shijian. ",
+                                    "p": "wǒshì zháo xiāomó shíjiān。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 134
+            },
+            "snym": null,
+            "cn_vi": "tiêu ma thì gian",
+            "pinyin": "xiāomó shíjiān",
+            "word": "消磨时间",
+            "id": 137549,
+            "phonetic": "xiaomoshijian",
+            "rank": 35511,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄟˋㄐㄧㄕˊㄐㄧㄢ",
+            "_id": "374dc18d66b94b5dbd43d84d4e55dc13",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tổng thời gian",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "luỹ tí thì gian",
+            "pinyin": "Lěijī shíjiān",
+            "word": "累积时间",
+            "id": 155548,
+            "phonetic": "Leijishijian",
+            "rank": 96188,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄨㄥㄅㄨˋㄕˊㄐㄧㄢ",
+            "_id": "73d616c8320549978f010fb915e24700",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giờ chuẩn miền Đông (EST)",
+                            "explain": "Eastern Standard Time (EST)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "đông bộ thì gian",
+            "pinyin": "dōngbù shíjiān",
+            "word": "东部时间",
+            "id": 136234,
+            "phonetic": "dongbushijian",
+            "rank": 125870,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˊㄐㄧㄢㄐㄧㄣˋㄔㄥˊ",
+            "_id": "5f51d321c51b45f481aaaf85d08d26e8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khóa học thời gian",
+                            "explain": "time course",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "thì gian tiến trình",
+            "pinyin": "shíjiān jìnchéng",
+            "word": "时间进程",
+            "id": 140724,
+            "phonetic": "shijianjincheng",
+            "rank": 118341,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a4a2b6f378994d13add147050c3ad5e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời gian thi",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Vui lòng tham khảo thông báo trên trang web chính thức để biết lịch thi.",
+                                    "p_vn": "vui long tham khao thong bao tren trang web chinh thuc de biet lich thi.",
+                                    "_id": "48dea68597710122246358c68e1ca54e",
+                                    "id": 83176,
+                                    "type": "e_cnvi",
+                                    "e": "考试时间安排请详见官网公告。",
+                                    "p_cn": "kaoshi shijian anpai qing xiang jian guanwang gonggao.",
+                                    "p": "kǎoshì shíjiān ānpái qǐng xiáng jiàn guānwǎng gōnggào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khảo thí thì gian",
+            "pinyin": "kǎoshì shíjiān",
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "word": "考试时间",
+            "id": 186306,
+            "phonetic": "kaoshishijian",
+            "rank": 94951,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄚˇㄈㄚㄕˊㄐㄧㄢ",
+            "_id": "cc31a6852e404d7cb1999cf13abde7a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giết thời gian",
+                            "explain": "to pass the time",
+                            "examples": [
+                                {
+                                    "m": "Tôi đọc một chút để thời gian trôi qua.",
+                                    "p_vn": "toi doc mot chut de thoi gian troi qua.",
+                                    "_id": "23b57443361c45948eba26ef1fe7056c",
+                                    "id": 62339,
+                                    "type": "e_cnvi",
+                                    "e": "我读了点东西打发时间",
+                                    "p_cn": "wodu le dian dongxi dafa shijian",
+                                    "p": "wǒdú le diǎn dōngxi dǎfā shíjiān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 82,
+                "search": 433
+            },
+            "snym": null,
+            "cn_vi": "đả phát thì gian",
+            "pinyin": "dǎfā shíjiān",
+            "word": "打发时间",
+            "id": 132172,
+            "phonetic": "dafashijian",
+            "rank": 17457,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄟˇㄉㄨㄥㄕˊㄐㄧㄢ",
+            "_id": "cc4acb14790e45d4ae3041ab9e448728",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Giờ chuẩn miền Đông Hoa Kỳ",
+                            "explain": "USA Eastern Standard Time",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "mĩ đông thì gian",
+            "pinyin": "měi dōng shíjiān",
+            "word": "美东时间",
+            "id": 139827,
+            "phonetic": "meidongshijian",
+            "rank": 92410,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄨㄛㄓㄤˇㄕˊㄐㄧㄢ",
+            "_id": "b0b206da42d24f41bd9a39a1ca2a229c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bao lâu",
+                            "explain": "歌曲歌词",
+                            "examples": [
+                                {
+                                    "m": "Hải quan kiểm tra mất bao lâu.",
+                                    "p_vn": "Hai quan kiem tra mat bao lau.",
+                                    "_id": "8a6e736d4d1e4bfd8befd07c67d3a7da",
+                                    "id": 54770,
+                                    "type": "e_cnvi",
+                                    "e": "海关检查需要多长时间？",
+                                    "p_cn": "Haiguan jiancha xuyao duo chang shijian?",
+                                    "p": "Hǎiguān jiǎnchá xūyào duō cháng shíjiān?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 162,
+                "search": 1994
+            },
+            "snym": null,
+            "cn_vi": "đa trưởng thì gian",
+            "pinyin": "duō cháng shíjiān",
+            "word": "多长时间",
+            "id": 84048,
+            "phonetic": "duochangshijian",
+            "rank": 5617,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄥˊㄧㄝˋㄕˊㄐㄧㄢ",
+            "_id": "b48bf636af4c4f3dabfbdbab1e26d821",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giờ mở cửa (của cửa hàng)",
+                            "explain": "opening hours (of shop)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thời gian kinh doanh",
+                            "explain": "time of business",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thời gian làm việc",
+                            "explain": "working time",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 146
+            },
+            "snym": null,
+            "cn_vi": "doanh nghiệp thì gian",
+            "pinyin": "yíngyè shíjiān",
+            "word": "营业时间",
+            "id": 138096,
+            "phonetic": "yingyeshijian",
+            "rank": 33921,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄤˊㄐㄧㄣㄕˊㄐㄧㄢ",
+            "_id": "c22c30b32a30409288e5e7687aab327d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Giờ vàng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Chương trình truyền hình này được phát sóng vào giờ vàng cho tất cả mọi người",
+                                    "p_vn": "Chuong trinh truyen hinh nay duoc phat song vao gio vang cho tat ca moi nguoi",
+                                    "_id": "9a99f2e397a6420eb75d180d39cdc782",
+                                    "id": 63457,
+                                    "type": "e_cnvi",
+                                    "e": "这个电视节目在众人皆看的黄金时间播出",
+                                    "p_cn": "Zhege dianshi jiemu zai zhongren jie kan de huangjin shijian bo chu",
+                                    "p": "Zhège diànshì jiémù zài zhòngrén jiē kàn de huángjīn shíjiān bō chū"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 46
+            },
+            "snym": null,
+            "cn_vi": "hoàng kim thì gian",
+            "pinyin": "huángjīn shíjiān",
+            "word": "黄金时间",
+            "id": 147370,
+            "phonetic": "huangjinshijian",
+            "rank": 59961,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄨㄟˊㄐㄧㄕˊㄐㄧㄢ",
+            "_id": "ec77de80fd284f909785bb34cae87092",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khoảng thời gian ngẫu nhiên",
+                            "explain": "random interval; random period of time",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tuỳ cơ thì gian",
+            "pinyin": "suíjī shíjiān",
+            "word": "随机时间",
+            "id": 135980,
+            "phonetic": "suijishijian",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩㄝˋㄉㄨˊㄕˊㄐㄧㄢ",
+            "_id": "1f551c8f8bd14ffc8814299f6c953f7c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thoi gian xem",
+                            "explain": "viewing time",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "duyệt độc thì gian",
+            "pinyin": "yuèdú shíjiān",
+            "word": "阅读时间",
+            "id": 135962,
+            "phonetic": "yuedushijian",
+            "rank": 81468,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄚㄐㄧㄣˇㄕˊㄐㄧㄢ",
+            "_id": "3bfb6cc537f341978fb0af95bb2a8f41",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhanh lên",
+                            "explain": "to hurry (up)",
+                            "examples": [
+                                {
+                                    "m": "Nhưng chúng ta phải nhanh lên.",
+                                    "p_vn": "Nhung chung ta phai nhanh len.",
+                                    "_id": "fc2918c6dadd4d3cb6dee8f8ae78744f",
+                                    "id": 67254,
+                                    "type": "e_cnvi",
+                                    "e": "得抓紧时间",
+                                    "p_cn": "de zhuajinshijian",
+                                    "p": "dé zhuājǐnshíjiān"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vội vàng",
+                            "explain": "to rush",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nắm bắt khoảnh khắc",
+                            "explain": "to seize the moment",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để giật thời gian",
+                            "explain": "to snatch time",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 53,
+                "search": 567
+            },
+            "snym": null,
+            "cn_vi": "trảo khẩn thì gian",
+            "pinyin": "zhuājǐn shíjiān",
+            "word": "抓紧时间",
+            "id": 139286,
+            "phonetic": "zhuajinshijian",
+            "rank": 14597,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧˋㄧㄝˋㄕˊㄐㄧㄢ",
+            "topic": "75",
+            "_id": "7e78203fe48f838599403a5b463f06ef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thời gian tốt nghiệp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "tất nghiệp thì gian",
+            "pinyin": "bìyè shíjiān",
+            "word": "毕业时间",
+            "id": 78455,
+            "phonetic": "biyeshijian",
+            "rank": 71993,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄠˋㄉㄚˊㄕˊㄐㄧㄢ",
+            "topic": "74",
+            "_id": "5e54ec222dd1b069e4e25b838c99be29",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thời gian đến",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "đáo đạt thì gian",
+            "pinyin": "dàodá shíjiān",
+            "word": "到达时间",
+            "id": 68917,
+            "phonetic": "daodashijian",
+            "rank": 75918,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄤㄊㄧㄥˊㄕˊㄐㄧㄢ",
+            "_id": "5eb0712e0fc9452fbf352b8eee5850f3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thời gian tạm dừng do cầu thủ bị chấn thương",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "thương đình thì gian",
+            "pinyin": "shāng tíng shíjiān",
+            "word": "伤停时间",
+            "id": 153817,
+            "phonetic": "shangtingshijian",
+            "rank": 133766,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩㄥˋㄘㄢㄕˊㄐㄧㄢ",
+            "_id": "60d6014f00c5428495e2fad8efd05e1b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giờ ăn",
+                            "explain": "meal times",
+                            "examples": [
+                                {
+                                    "m": "Nhà hàng tự chọn này rất món ngon giá rẻ, vì vậy mỗi  khi tới giờ ăn cơm, quán lại đông như trẩy hội.",
+                                    "p_vn": "nha hang tu chon nay rat mon ngon gia re, vi vay moi  khi toi gio an com, quan lai dong nhu tray hoi.",
+                                    "_id": "2aaa1b13ab1d39fa94499f010df0300c",
+                                    "id": 53796,
+                                    "type": "e_cnvi",
+                                    "e": "这家自助餐店物美价廉，因此每到用餐时间，都是门庭若市。",
+                                    "p_cn": "zhe jia zizhucan dian wumei jia lian, yinci mei dao yongcan shijian, dou shi mentingruoshi.",
+                                    "p": "Zhè jiā zìzhùcān diàn wùměi jià lián, yīncǐ měi dào yòngcān shíjiān, dōu shì méntíngruòshì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "dụng xan thì gian",
+            "pinyin": "yòngcān shíjiān",
+            "word": "用餐时间",
+            "id": 139633,
+            "phonetic": "yongcanshijian",
+            "rank": 78661,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄡㄔㄨㄕˊㄐㄧㄢ",
+            "_id": "31e23b5132b06c7d110e3fef9683fee9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Dành ra thời gian",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 56,
+                "search": 394
+            },
+            "snym": null,
+            "cn_vi": "trừu xuất thì gian",
+            "pinyin": "chōuchū shíjiān",
+            "word": "抽出时间",
+            "id": 70870,
+            "phonetic": "chouchushijian",
+            "rank": 18608,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a8208d1fef8a450482d640ab5b14d1ce",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời gian bắt đầu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khai khoá thì gian",
+            "pinyin": "kāikè shíjiān",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "开课时间",
+            "id": 185432,
+            "phonetic": "kaikeshijian",
+            "rank": 148108,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "a930f6fe027e4ffc9d1b11a4eb2efe0d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thời gian lên đơn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "đính đơn thì gian",
+            "pinyin": "dìngdān shíjiān",
+            "word": "订单时间",
+            "id": 168328,
+            "phonetic": "dingdanshijian",
+            "rank": 110092,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄗㄨㄛˋㄕˊㄐㄧㄢ",
+            "topic": "75",
+            "_id": "47859cabadad542dcef191b813b8184e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thời gian công tác",
+                            "explain": "劳部发 [1994]521文件中：",
+                            "examples": [
+                                {
+                                    "m": "Trong quản lý, nếu số người quản lý thực tế gấp đôi con số tối ưu thì số giờ làm việc sẽ nhiều gấp đôi và chi phí công việc sẽ nhiều hơn gấp bốn lần; nếu số người quản lý thực tế nhiều gấp ba lần con số tối ưu thì số giờ làm việc giờ sẽ dài hơn ba lần., Chi phí công việc nhiều hơn sáu lần.  Về mặt quản lý thì không có nhiều quyền lực, càng có nhiều người quản lý thì hiệu quả công việc có thể không cao Trên thực tế, định luận Krishna Harsh cho rằng hiệu quả công việc của tổ hợp nhân viên tỷ lệ nghịch với mức độ khối lượng công việc.",
+                                    "p_vn": "trong quan ly, neu so nguoi quan ly thuc te gap doi con so toi uu thi so gio lam viec se nhieu gap doi va chi phi cong viec se nhieu hon gap bon lan; neu so nguoi quan ly thuc te nhieu gap ba lan con so toi uu thi so gio lam viec gio se dai hon ba lan., chi phi cong viec nhieu hon sau lan.  ve mat quan ly thi khong co nhieu quyen luc, cang co nhieu nguoi quan ly thi hieu qua cong viec co the khong cao tren thuc te, dinh luan krishna harsh cho rang hieu qua cong viec cua to hop nhan vien ty le nghich voi muc do khoi luong cong viec.",
+                                    "_id": "95aa7844202f49d191268d2e3b414a68",
+                                    "id": 67640,
+                                    "type": "e_cnvi",
+                                    "e": "在管理中，如果实际管理人员比最佳人数多两倍，工作时间就要多两倍，工作成本就多四倍；如果实际管理人员比最佳人数多三倍，工作时间就要多三倍，工作成本就多六倍。在管理上，并不是人多力量大，管理人员越多，工作效率未必就会越高，实际上，苛希纳定律认为员工组合的工作效率和工作负荷程度成反比",
+                                    "p_cn": "zai guanli zhong, ruguo shiji guanli renyuan bi zui jia renshu duo liang bei, gongzuo shijian jiu yao duo liang bei, gongzuo chengben jiu duo si bei; ruguo shiji guanli renyuan bi zui jia renshu duo san bei, gongzuo shijian jiu yao duo san bei, gongzuo chengben jiu duo liu bei. zai guanli shang, bing bu shi ren duo liliang da, guanli renyuan yue duo, gongzuo xiaolu weibi jiu hui yue gao, shiji shang, ke xi na dinglu renwei yuangong zuhe de gongzuo xiaolu he gongzuo fuhe chengdu cheng fanbi",
+                                    "p": "Zài guǎnlǐ zhōng, rúguǒ shíjì guǎnlǐ rényuán bǐ zuì jiā rénshù duō liǎng bèi, gōngzuò shíjiān jiù yào duō liǎng bèi, gōngzuò chéngběn jiù duō sì bèi; rúguǒ shíjì guǎnlǐ rényuán bǐ zuì jiā rénshù duō sān bèi, gōngzuò shíjiān jiù yào duō sān bèi, gōngzuò chéngběn jiù duō liù bèi. Zài guǎnlǐ shàng, bìng bú shì rén duō lìliàng dà, guǎnlǐ rényuán yuè duō, gōngzuò xiàolǜ wèibì jiù huì yuè gāo, shíjì shang, kē xī nà dìnglǜ rènwéi yuángōng zǔhé de gōngzuò xiàolǜ hé gōngzuò fùhè chéngdù chéng fǎnbǐ"
+                                },
+                                {
+                                    "m": "Trong thời gian làm việc, xin đừng quấy rầy.",
+                                    "p_vn": "trong thoi gian lam viec, xin dung quay ray.",
+                                    "_id": "dcf0e027a425724a491e0804e3b478ea",
+                                    "id": 6405,
+                                    "type": "e_cnvi",
+                                    "e": "工作时间，请勿打扰。",
+                                    "p_cn": "gongzuo shijian, qingwudarao.",
+                                    "p": "gōngzuò shíjiān, qǐngwùdǎrǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 64
+            },
+            "snym": null,
+            "cn_vi": "công tá thì gian",
+            "pinyin": "gōngzuò shíjiān",
+            "word": "工作时间",
+            "id": 78457,
+            "phonetic": "gongzuoshijian",
+            "rank": 51739,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ca36e7543be1431d97f94d6ba0c4b77f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "buổi học",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "anh ấy giành được một ít thời gian để học tập.",
+                                    "p_vn": "anh ay gianh duoc mot it thoi gian de hoc tap.",
+                                    "_id": "ac8626504603e39228539513f5194b5c",
+                                    "id": 19596,
+                                    "type": "e_cnvi",
+                                    "e": "他的学习时间是挤出来的。",
+                                    "p_cn": "ta de xuexi shijian shi jichulai de。",
+                                    "p": "tā de xuéxí shíjiān shì jǐchūlái de。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "học tập thì gian",
+            "pinyin": "xuéxí shíjiān",
+            "popularity": {
+                "notebook": 2,
+                "search": 34
+            },
+            "word": "学习时间",
+            "id": 179491,
+            "phonetic": "xuexishijian",
+            "rank": 68183,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˊㄆㄞㄕˊㄐㄧㄢ",
+            "_id": "f162ef4d181247efadc180fe18476814",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Từ vựng trong sản xuất; Thời gian Takt là thời gian có sẵn/nhu cầu khách hàng.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 57
+            },
+            "snym": null,
+            "cn_vi": "tiết phách thì gian",
+            "pinyin": "jiépāi shíjiān",
+            "word": "节拍时间",
+            "id": 154844,
+            "phonetic": "jiepaishijian",
+            "rank": 54433,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄨㄣˊㄎㄨㄢˇㄕˊㄐㄧㄢ",
+            "_id": "0ef34e48496f4517a640665a9decedef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thời hạn gửi tiền",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Có ba thời điểm gửi tiền tốt nhất trong một năm",
+                                    "p_vn": "co ba thoi diem gui tien tot nhat trong mot nam",
+                                    "_id": "dd750ef2299a48fd92d18d8637ea3a2a",
+                                    "id": 68793,
+                                    "type": "e_cnvi",
+                                    "e": "在一年当中有三个最佳存款时间",
+                                    "p_cn": "zai yi nian dangzhong yousan ge zui jia cunkuan shijian",
+                                    "p": "Zài yī nián dāngzhōng yǒusān gè zuì jiā cúnkuǎn shíjiān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "tồn khoản thì gian",
+            "pinyin": "cúnkuǎn shíjiān",
+            "word": "存款时间",
+            "id": 154639,
+            "phonetic": "cunkuanshijian",
+            "rank": 124622,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2d7acacb8740445ca08afdba205c2d2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thời gian chuyển tiền",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "hối khoản thì gian",
+            "pinyin": "huìkuǎn shíjiān",
+            "word": "汇款时间",
+            "id": 160299,
+            "phonetic": "huikuanshijian",
+            "rank": 122499,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "时间"
+}

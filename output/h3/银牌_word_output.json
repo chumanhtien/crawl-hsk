@@ -1,0 +1,2421 @@
+{
+    "total": 608,
+    "found": true,
+    "result": [
+        {
+            "measure": {
+                "pinyin": "Méi",
+                "examples": "不要银牌。\nBùyào yínpái.\nKhông bạc.",
+                "measure": "枚"
+            },
+            "topic": "68",
+            "zhuyin": "ㄧㄣˊㄆㄞˊ",
+            "_id": "11e9d1aed4bd347bf77716978f75e433",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giải thưởng bạc",
+                            "explain": "奖牌的一种，奖给第二名",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 31,
+                "search": 112
+            },
+            "snym": null,
+            "lv_hsk_new": "3",
+            "pinyin": "yínpái",
+            "cn_vi": "ngân bài",
+            "word": "银牌",
+            "id": 60244,
+            "phonetic": "yinpai",
+            "rank": 39238,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "kuài",
+                "examples": "",
+                "measure": "块"
+            },
+            "zhuyin": "ㄆㄞˊ",
+            "_id": "c8692e294f70f097a2ede24c7ffcf550",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Số lượng tấm biển/bảng",
+                            "examples": [
+                                98313,
+                                98314
+                            ],
+                            "struct": "Số từ + 块牌（儿)"
+                        },
+                        {
+                            "explain": "Trên biển/bảng làm gì đấy",
+                            "examples": [
+                                98315,
+                                98316
+                            ],
+                            "struct": "牌上 + Động từ（有/写/画) + Tân ngữ"
+                        },
+                        {
+                            "explain": "Nhãn hiệu như thế nào đấy",
+                            "examples": [
+                                98317,
+                                98318
+                            ],
+                            "struct": "Tính từ + 牌儿"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biển; bảng",
+                            "explain": "(牌儿) 用木板或其他材料做的标志，上边多有文字",
+                            "examples": [
+                                {
+                                    "m": "Biển số xe đạp.",
+                                    "p_vn": "bien so xe dap.",
+                                    "_id": "dd288c92181fc1dde4d26c5b387221e9",
+                                    "id": 30297,
+                                    "type": "e_cnvi",
+                                    "e": "自行车牌儿。",
+                                    "p_cn": "zixingche pair.",
+                                    "p": "zìxíngchē páir."
+                                },
+                                {
+                                    "m": "Ngoài cửa treo biển chỉ dẫn.",
+                                    "p_vn": "ngoai cua treo bien chi dan.",
+                                    "_id": "55db399305625a14707d64b9181c3a5a",
+                                    "id": 98277,
+                                    "type": "e_cnvi",
+                                    "e": "门口挂着指标牌。",
+                                    "p_cn": "menkou guazhe zhibiao pai.",
+                                    "p": "ménkǒu guàzhe zhǐbiāo pái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhãn hiệu",
+                            "explain": "(牌儿) 企业单位为自己的产品起的专用的名称",
+                            "examples": [
+                                {
+                                    "m": "Đây là nhãn hiệu gì?",
+                                    "p_vn": "day la nhan hieu gi?",
+                                    "_id": "55db399305625a14707d64b9181cc6ae",
+                                    "id": 98293,
+                                    "type": "e_cnvi",
+                                    "e": "这是什么牌儿？",
+                                    "p_cn": "zhe shi shenme pair?",
+                                    "p": "zhè shì shénme páir?"
+                                },
+                                {
+                                    "m": "Tôi thích nhãn hiệu Chanel.",
+                                    "p_vn": "toi thich nhan hieu chanel.",
+                                    "_id": "55db399305625a14707d64b9181cd169",
+                                    "id": 98294,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢香奈儿牌儿。",
+                                    "p_cn": "wo xihuan xiangnair pair.",
+                                    "p": "wǒ xǐhuān xiāngnàir páir."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bài",
+                            "explain": "一种娱乐用品 (旧时多用为赌具)",
+                            "examples": [
+                                {
+                                    "m": "Tôi cầm một lá bài.",
+                                    "p_vn": "toi cam mot la bai.",
+                                    "_id": "55db399305625a14707d64b9181c9d99",
+                                    "id": 98286,
+                                    "type": "e_cnvi",
+                                    "e": "我拿着一张牌。",
+                                    "p_cn": "wo nazhe yi zhang pai.",
+                                    "p": "wǒ názhe yī zhāng pái."
+                                },
+                                {
+                                    "m": "Chúng tôi đang đánh bài.",
+                                    "p_vn": "chung toi dang danh bai.",
+                                    "_id": "55db399305625a14707d64b9181c9f0a",
+                                    "id": 98287,
+                                    "type": "e_cnvi",
+                                    "e": "我们在打牌。",
+                                    "p_cn": "women zai dapai.",
+                                    "p": "wǒmen zài dǎpái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "biển; bảng",
+                            "explain": "一块板子。上面有广告，通知等",
+                            "examples": [
+                                {
+                                    "m": "Một tấm bảng thông báo to.",
+                                    "p_vn": "mot tam bang thong bao to.",
+                                    "_id": "55db399305625a14707d64b9181d03b7",
+                                    "id": 98304,
+                                    "type": "e_cnvi",
+                                    "e": "一块很大的通知牌儿。",
+                                    "p_cn": "yikuai hen da de tongzhi pair.",
+                                    "p": "yīkuài hěn dà de tōngzhī páir."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "huy chương",
+                            "explain": "发给各种各样竞赛的优胜者的证明,一般用金属制成,体育竞赛一般有金牌、银牌、铜牌",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đạt được rất nhiều huy chương.",
+                                    "p_vn": "anh ay dat duoc rat nhieu huy chuong.",
+                                    "_id": "55db399305625a14707d64b9183917e7",
+                                    "id": 98935,
+                                    "type": "e_cnvi",
+                                    "e": "他获得很多奖牌。",
+                                    "p_cn": "ta huode henduo jiangpai.",
+                                    "p": "tā huòdé hěnduō jiǎngpái."
+                                },
+                                {
+                                    "m": "Cầm huy chương giơ lên cao.",
+                                    "p_vn": "cam huy chuong gio len cao.",
+                                    "_id": "55db399305625a14707d64b918391a7d",
+                                    "id": 98936,
+                                    "type": "e_cnvi",
+                                    "e": "把奖牌高高地举起。",
+                                    "p_cn": "ba jiangpai gao gao de ju qi.",
+                                    "p": "bǎ jiǎngpái gāo gāo de jǔ qǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 85,
+                "search": 4065
+            },
+            "snym": null,
+            "lv_hsk_new": "4",
+            "pinyin": "pái",
+            "cn_vi": "bài",
+            "word": "牌",
+            "id": 40116,
+            "phonetic": "pai",
+            "rank": 2973,
+            "kind": [
+                "n"
+            ],
+            "compound": "牌匾 ; 牌坊 ; 牌号 ; 牌价 ; 牌楼 ; 牌示 ; 牌位 ; 牌照 ; 牌子 ; 牌子曲"
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": {
+                "pinyin": "dìng",
+                "examples": "",
+                "measure": "锭"
+            },
+            "topic": "23, 25, 28, 68",
+            "zhuyin": "ㄧㄣˊ",
+            "_id": "5fb7eac92e67bedd81a69dab225c6bc1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                93566,
+                                93567
+                            ],
+                            "struct": "银 + Danh từ ( 矿/ 币/ 餐具 )"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bạc (nguyên tố hoá học, ký hiệu Ag)",
+                            "explain": "化学元素",
+                            "examples": [
+                                {
+                                    "m": "Vòng tay của bạn có phải bằng bạc không?",
+                                    "p_vn": "vong tay cua ban co phai bang bac khong?",
+                                    "_id": "f2efc94449b26b3e2967bccbc94274b9",
+                                    "id": 93540,
+                                    "type": "e_cnvi",
+                                    "e": "你的手镯是银的吗?",
+                                    "p_cn": "ni de shouzhuo shi yin de ma?",
+                                    "p": "nǐ de shǒuzhuó shì yín de ma?"
+                                },
+                                {
+                                    "m": "Cô ấy đeo một chiếc dây chuyền bằng bạc nguyên chất.",
+                                    "p_vn": "co ay deo mot chiec day chuyen bang bac nguyen chat.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9427b28",
+                                    "id": 93541,
+                                    "type": "e_cnvi",
+                                    "e": "她戴着一条纯银项链。",
+                                    "p_cn": "ta daizhe yitiao chun yin xianglian.",
+                                    "p": "tā dàizhe yītiáo chún yín xiàngliàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tiền bạc; ngân hàng",
+                            "explain": "跟货币有关的",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy làm việc ở ngân hàng.",
+                                    "p_vn": "anh ay lam viec o ngan hang.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9428f26",
+                                    "id": 93544,
+                                    "type": "e_cnvi",
+                                    "e": "他在银行工作。",
+                                    "p_cn": "ta zai yinhang gongzuo.",
+                                    "p": "tā zài yínháng gōngzuò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Ngân",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Cô giáo Ngân, rất vui khi gặp được cô.",
+                                    "p_vn": "co giao ngan, rat vui khi gap duoc co.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9429884",
+                                    "id": 93548,
+                                    "type": "e_cnvi",
+                                    "e": "老师，很高兴见到您。",
+                                    "p_cn": "laoshi, hen gaoxing jian dao nin.",
+                                    "p": "lǎoshī, hěn gāoxìng jiàn dào nín."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "màu bạc",
+                            "explain": "像银子的颜色",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy có một mái tóc bạc.",
+                                    "p_vn": "anh ay co mot mai toc bac.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9430bab",
+                                    "id": 93560,
+                                    "type": "e_cnvi",
+                                    "e": "他有一头银发。",
+                                    "p_cn": "ta you yitou yinfa.",
+                                    "p": "tā yǒu yītóu yínfà."
+                                },
+                                {
+                                    "m": "Anh ta đi một đôi giày màu bạc.",
+                                    "p_vn": "anh ta di mot doi giay mau bac.",
+                                    "_id": "f2efc94449b26b3e2967bccbc942f645",
+                                    "id": 93556,
+                                    "type": "e_cnvi",
+                                    "e": "他穿了一双银色的鞋。",
+                                    "p_cn": "ta chuanle yishuang yinse de xie.",
+                                    "p": "tā chuānle yīshuāng yínsè de xié."
+                                },
+                                {
+                                    "m": "Xe có màu xám bạc.",
+                                    "p_vn": "xe co mau xam bac.",
+                                    "_id": "f2efc94449b26b3e2967bccbc942f8b0",
+                                    "id": 93558,
+                                    "type": "e_cnvi",
+                                    "e": "这辆车是银灰色的。",
+                                    "p_cn": "zhe liang che shi yin huise de.",
+                                    "p": "zhè liàng chē shì yín huīsè de."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 194,
+                "search": 7240
+            },
+            "snym": null,
+            "lv_hsk_new": "3, 5",
+            "pinyin": "yín",
+            "cn_vi": "ngân",
+            "word": "银",
+            "id": 60222,
+            "phonetic": "yin",
+            "rank": 1539,
+            "lv_tocfl": 4,
+            "compound": "银白 ; 银杯 ; 银本位 ; 银币 ; 银锭 ; 银耳 ; 银发 ; 银粉 ; 银根 ; 银汉 ; 银行 ; 银号 ; 银河 ; 银河系 ; 银红 ; 银灰 ; 银婚 ; 银匠 ; 银两 ; 银楼 ; 银幕 ; 银牌 ; 银屏 ; 银钱 ; 银杏 ; 银洋 ; 银样镴枪头 ; 银鹰 ; 银元 ; 银圆 ; 银朱 ; 银子"
+        },
+        {
+            "measure": {
+                "pinyin": "gè, zhǒng",
+                "examples": "",
+                "measure": "个，种"
+            },
+            "zhuyin": "ㄆㄧㄣˇㄆㄞˊ",
+            "_id": "0e88c102a2f8ab4c1e67837fa1ca221e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "thương hiệu như thế nào",
+                            "examples": [
+                                122162,
+                                122166
+                            ],
+                            "struct": "Tính từ + （的） + 品牌"
+                        },
+                        {
+                            "explain": "nhãn hiệu/ thương hiệu của cái gì",
+                            "examples": [
+                                122168,
+                                122169
+                            ],
+                            "struct": "Danh từ + 品牌"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thương hiệu; nhãn hiệu",
+                            "explain": "产品的牌子",
+                            "examples": [
+                                {
+                                    "m": "Tôi đã mua một trong những thương hiệu nổi tiếng.",
+                                    "p_vn": "toi da mua mot trong nhung thuong hieu noi tieng.",
+                                    "_id": "329486f68b2b4177e0301e5c7262af25",
+                                    "id": 85729,
+                                    "type": "e_cnvi",
+                                    "e": "我买了知名品牌中的一种。",
+                                    "p_cn": "wo maile zhiming pinpai zhong de yi zhong.",
+                                    "p": "wǒ mǎile zhīmíng pǐnpái zhōng de yī zhǒng."
+                                },
+                                {
+                                    "m": "Sản phẩm của thương hiệu này rất được yêu thích.",
+                                    "p_vn": "san pham cua thuong hieu nay rat duoc yeu thich.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4769c5c",
+                                    "id": 122159,
+                                    "type": "e_cnvi",
+                                    "e": "这个品牌的产品很受欢迎。",
+                                    "p_cn": "zhege pinpai de chanpin hen shou huanying.",
+                                    "p": "zhège pǐnpái de chǎnpǐn hěn shòu huānyíng."
+                                },
+                                {
+                                    "m": "Chất lượng của thương hiệu này rất tốt.",
+                                    "p_vn": "chat luong cua thuong hieu nay rat tot.",
+                                    "_id": "71a8f4da663cb843c22cd96cf476a9f4",
+                                    "id": 122160,
+                                    "type": "e_cnvi",
+                                    "e": "这个品牌的质量非常好。",
+                                    "p_cn": "zhege pinpai de zhiliang feichang hao.",
+                                    "p": "zhège pǐnpái de zhìliàng fēicháng hǎo."
+                                },
+                                {
+                                    "m": "Tôi thích phong cách thiết kế của thương hiệu này.",
+                                    "p_vn": "toi thich phong cach thiet ke cua thuong hieu nay.",
+                                    "_id": "71a8f4da663cb843c22cd96cf476ab45",
+                                    "id": 122161,
+                                    "type": "e_cnvi",
+                                    "e": "我喜欢这个品牌的设计风格。",
+                                    "p_cn": "wo xihuan zhege pinpai de sheji fengge.",
+                                    "p": "wǒ xǐhuan zhège pǐnpái de shèjì fēnggé."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 315,
+                "search": 4312
+            },
+            "snym": {
+                "anto": [
+                    "杂牌"
+                ],
+                "syno": [
+                    "杂牌"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "pǐnpái",
+            "cn_vi": "phẩm bài",
+            "word": "品牌",
+            "id": 69505,
+            "phonetic": "pinpai",
+            "rank": 2793,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄢˋㄆㄞˊ",
+            "topic": "47",
+            "_id": "0fde499dc49a3025589c2821312fadfb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chui, dập (bài); loại bỏ bài (thuật ngữ bài cầu - đưa ra cây bài không cùng chuỗi với chuỗi dẫn)",
+                            "explain": "垫牌是扑克术语，很多人认为垫牌是最简单不过的，只管把垃圾牌垫出去就是了。其实不然，垫牌很多时候要懂得分析：1、你垫出去的牌点有成对的可能性吗？2、你垫出去的牌点是在敌方的意料之中的吗？",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chui",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "điếm bài",
+            "pinyin": "diàn pái",
+            "word": "垫牌",
+            "id": 69693,
+            "phonetic": "dianpai",
+            "rank": 153003,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "148b1b3ed0854dc4aad5cbd5eb33de6a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bảng hiệu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bài nhi",
+            "pinyin": "pái er",
+            "popularity": {
+                "notebook": 1,
+                "search": 73
+            },
+            "word": "牌儿",
+            "id": 180140,
+            "phonetic": "paier",
+            "rank": 48563,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄕˋ",
+            "_id": "693191085c462ccb992e09dc6434d652",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cáo thị (viết cạnh nhãn hiệu)",
+                            "explain": "旧时张贴在布告牌上的文告",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "bài thị",
+            "pinyin": "páishì",
+            "word": "牌示",
+            "id": 40122,
+            "phonetic": "paishi",
+            "rank": 117753,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄟˇㄆㄞˊ",
+            "_id": "6c3920f128454925b41736d64fa4c03f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Joker (chơi bài)",
+                            "explain": "Joker (playing card)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "quỷ bài",
+            "pinyin": "guǐ pái",
+            "word": "鬼牌",
+            "id": 100837,
+            "phonetic": "guipai",
+            "rank": 97621,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄐㄧㄚˋ",
+            "_id": "7cb8448ee8f30fc5483fdf82481d92cd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giá quy định; giá niêm yết",
+                            "explain": "规定的价格 (多用牌子公布)",
+                            "examples": [
+                                {
+                                    "m": "Đừng bao giờ mua xe ô tô theo giá niêm yết, luôn luôn phải mặc cả thương lượng mới đúng.",
+                                    "p_vn": "Dung bao gio mua xe o to theo gia niem yet, luon luon phai mac ca thuong luong moi dung.",
+                                    "_id": "b7949fe0d0f64aff94c7ba076290a954",
+                                    "id": 71692,
+                                    "type": "e_cnvi",
+                                    "e": "千万不要照牌价购买汽车, 总得讲讲价才是.",
+                                    "p_cn": "qianwan buyao zhao paijia goumai qiche zongdei jiang jiangjia cai shi",
+                                    "p": "qiānwàn bùyào zhào páijià gòumǎi qìchē zǒngděi jiǎng jiǎngjià cái shì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 227
+            },
+            "snym": null,
+            "cn_vi": "bài giá",
+            "pinyin": "páijià",
+            "word": "牌价",
+            "id": 40120,
+            "phonetic": "paijia",
+            "rank": 26279,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Méi",
+                "examples": "我有一枚有纪念意义的铜牌。\nWǒ yǒuyī méi yǒu jìniàn yìyì de tóngpái.\nTôi có một huy chương đồng hoành tráng.",
+                "measure": "枚"
+            },
+            "topic": "68",
+            "zhuyin": "ㄊㄨㄥˊㄆㄞˊ",
+            "_id": "072aa13dc4786ac71ebd3f906788a81b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "huy chương đồng",
+                            "explain": "奖牌的一种，奖给第三名",
+                            "examples": [
+                                {
+                                    "m": "Tôi có một chiếc huy chương đồng có ý nghĩa kỷ niệm.",
+                                    "p_vn": "Toi co mot chiec huy chuong dong co y nghia ky niem.",
+                                    "_id": "08395df062754a34a4042bd4f6b0be6f",
+                                    "id": 69559,
+                                    "type": "e_cnvi",
+                                    "e": "我有一枚有纪念意义的铜牌。",
+                                    "p_cn": "wo you yi mei you jinian yiyi de tongpai",
+                                    "p": "wǒ yǒu yī méi yǒu jìniàn yìyì de tóngpái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 111
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "tóngpái",
+            "cn_vi": "đồng bài",
+            "word": "铜牌",
+            "id": 51345,
+            "phonetic": "tongpai",
+            "rank": 39418,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2d4f0308415148b6bb890044568ba49f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thẻ bài",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "yêu bài",
+            "pinyin": "yāo pái",
+            "word": "腰牌",
+            "id": 158989,
+            "phonetic": "yaopai",
+            "rank": 68326,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c38a568f8d10479c83baa6ad4f2a5f3b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "dấu hiệu ánh sáng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 71
+            },
+            "snym": null,
+            "cn_vi": "đăng bài",
+            "pinyin": "dēng pái",
+            "word": "灯牌",
+            "id": 167810,
+            "phonetic": "dengpai",
+            "rank": 49448,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˇㄆㄞˊ",
+            "_id": "9c70d2b2013f26258b48d6fd0c7a9ba7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đánh bài; chơi bài; đánh mạt chược; chơi mạt chược",
+                            "explain": "玩纸牌，用纸牌消遣或赌博",
+                            "examples": [
+                                {
+                                    "m": "Vừa nói đánh bài, hắn chuồn mất tiêu.",
+                                    "p_vn": "vua noi danh bai, han chuon mat tieu.",
+                                    "_id": "b081c2a68eaf357e26fc3baa79d1bc4d",
+                                    "id": 26903,
+                                    "type": "e_cnvi",
+                                    "e": "一说打牌，他就溜了。",
+                                    "p_cn": "yishuo dapai，ta jiu liu le。",
+                                    "p": "yīshuō dǎpái，tā jìu līu le。"
+                                },
+                                {
+                                    "m": "Vợ tôi thường chơi mạt chược với vợ anh ấy.",
+                                    "p_vn": "vo toi thuong choi mat chuoc voi vo anh ay.",
+                                    "_id": "c0fb569df3556ccddfe64048668d5647",
+                                    "id": 88194,
+                                    "type": "e_cnvi",
+                                    "e": "我的太太经常跟他的太太一起打麻将。",
+                                    "p_cn": "wo de taitai jingchang gen ta de taitai yiqi da majiang.",
+                                    "p": "wǒ de tàitài jīngcháng gēn tā de tàitài yīqǐ dǎ májiàng."
+                                },
+                                {
+                                    "m": "Có lúc chúng tôi chơi cờ, có lúc đánh bài.",
+                                    "p_vn": "có lúc chúng toi choi cò, có lúc dánh bài.",
+                                    "_id": "c0fb569df3556ccddfe6404866c4dcc4",
+                                    "id": 88314,
+                                    "type": "e_cnvi",
+                                    "e": "我们有时下棋，有时打牌。",
+                                    "p_cn": "women youshi xia qi, youshi dapai.",
+                                    "p": "wǒmen yǒushí xià qí, yǒushí dǎpái."
+                                },
+                                {
+                                    "m": "Tối nay chúng mình chơi bài đi.",
+                                    "p_vn": "tói nay chúng mình choi bài di.",
+                                    "_id": "c0fb569df3556ccddfe6404866c4ebb2",
+                                    "id": 88315,
+                                    "type": "e_cnvi",
+                                    "e": "今晚我们打牌吧。",
+                                    "p_cn": "jin wan women dapai ba.",
+                                    "p": "jīn wǎn wǒmen dǎpái ba."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 128,
+                "search": 1409
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "dǎpái",
+            "cn_vi": "đả bài",
+            "word": "打牌",
+            "id": 10063,
+            "phonetic": "dapai",
+            "rank": 7431,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄣˇㄆㄞˊ",
+            "_id": "b1f9f005b2fe0aa47321042053da64eb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bảng (đo nước)",
+                            "explain": "白色的水牌",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "phấn bài",
+            "pinyin": "fěn pái",
+            "word": "粉牌",
+            "id": 16809,
+            "phonetic": "fenpai",
+            "rank": 134598,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄞㄆㄞˊ",
+            "_id": "b3aac0d9eab2408abf51e802e21ae8c5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(thể thao) để chấp nhận một cầu thủ trong danh sách chuyển nhượng từ một câu lạc bộ khác",
+                            "explain": "(sports) to accept a transfer-listed player from another club",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để xóa (một chứng khoán được giao dịch)",
+                            "explain": "to delist (a traded security)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "trích bài",
+            "pinyin": "zhāipái",
+            "word": "摘牌",
+            "id": 103249,
+            "phonetic": "zhaipai",
+            "rank": 78290,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄥˊㄆㄞˊ",
+            "_id": "a4acea95f2e8e92ff8e3aa0a64e73675",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "linh vị; linh bài",
+                            "explain": "灵位",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "linh bài",
+            "pinyin": "língpái",
+            "word": "灵牌",
+            "id": 35444,
+            "phonetic": "lingpai",
+            "rank": 90040,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "6",
+            "zhuyin": "ㄏㄨㄤˊㄆㄞˊ",
+            "_id": "a89a165ca9de6fc96b2645edd2422e10",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thẻ vàng; cảnh cáo",
+                            "explain": "黄色的牌子体育比赛中，运动员、教练员等严重犯规，裁判员出示黄牌予以警告",
+                            "examples": [
+                                {
+                                    "m": "ngành quản lý giao thông cảnh cáo những đơn vị để xảy ra tai nạn giao thông nghiêm trọng.",
+                                    "p_vn": "nganh quan ly giao thong canh cao nhung don vi de xay ra tai nan giao thong nghiem trong",
+                                    "_id": "e9217f32ecb811f4d1ca6b3e11598efa",
+                                    "id": 18285,
+                                    "type": "e_cnvi",
+                                    "e": "交通管理部门向发生重大交通事故的单位亮黄牌。",
+                                    "p_cn": "jiaotong guanli bumen xiang fasheng zhongda jiaotong shigu de danwei liang huangpai",
+                                    "p": "jiāotōngguǎnlǐ bùmén xiàng fāshēng zhòngdà jiāotōngshìgù de dānwèi liàng huángpái。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 51
+            },
+            "snym": null,
+            "cn_vi": "hoàng bài",
+            "pinyin": "huángpái",
+            "word": "黄牌",
+            "id": 25216,
+            "phonetic": "huangpai",
+            "rank": 57104,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄤㄆㄞˊ",
+            "_id": "b7946da18fb844b3a78ba923ad3699a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Quận Shuangpai ở Vĩnh Châu 永州 , Hồ Nam",
+                            "explain": "Shuangpai county in Yongzhou 永州 [Yǒng zhōu], Hunan",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "song bài",
+            "pinyin": "shuāng pái",
+            "word": "双牌",
+            "id": 109797,
+            "phonetic": "shuangpai",
+            "rank": 143299,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄠㄆㄞˊ",
+            "_id": "cf53b82f210d4bbb939ce80d69bba5a4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thẻ cao (poker)",
+                            "explain": "high card (poker)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "cao bài",
+            "pinyin": "gāo pái",
+            "word": "高牌",
+            "id": 100823,
+            "phonetic": "gaopai",
+            "rank": 134877,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Méi",
+                "examples": "我得了金牌。\nWǒ déliǎo jīnpái.\nTôi đã giành được huy chương vàng.",
+                "measure": "枚"
+            },
+            "topic": "68",
+            "zhuyin": "ㄐㄧㄣㄆㄞˊ",
+            "_id": "9296a91d5edd00929fc25f6bb50d6b86",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "huy chương vàng",
+                            "explain": "指体育比赛中冠军所获得的奖牌",
+                            "examples": [
+                                {
+                                    "m": "không giành được huy chương vàng quyết không cam lòng.",
+                                    "p_vn": "khong gianh duoc huy chuong vang quyet khong cam long",
+                                    "_id": "31c5acb320770c07fc8c7117a5ebd823",
+                                    "id": 12972,
+                                    "type": "e_cnvi",
+                                    "e": "不拿到金牌决不甘心。",
+                                    "p_cn": "bu na dao jinpai jue bu ganxin",
+                                    "p": "bù nádào jīnpái juébù gānxīn。"
+                                },
+                                {
+                                    "m": "đoạt huy chương vàng thế vận hội Olympic.",
+                                    "p_vn": "doat huy chuong vang the van hoi olympic",
+                                    "_id": "ea725a2170a5d03ac71a9fadef287078",
+                                    "id": 7704,
+                                    "type": "e_cnvi",
+                                    "e": "奥运会金牌得主",
+                                    "p_cn": "aoyunhui jinpai dezhu",
+                                    "p": "àoyùnhùi jīnpáidézhǔ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 76,
+                "search": 625
+            },
+            "snym": {
+                "syno": [
+                    "头牌"
+                ]
+            },
+            "lv_hsk_new": "3",
+            "pinyin": "jīnpái",
+            "cn_vi": "kim bài",
+            "word": "金牌",
+            "id": 30059,
+            "phonetic": "jinpai",
+            "rank": 13687,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄐㄩˊ",
+            "_id": "bdce05236b3c40b3b67220b71ba92b4f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đánh bạc cùng nhau",
+                            "explain": "gambling get-together",
+                            "examples": []
+                        },
+                        {
+                            "mean": "trò chơi bài, mạt chược, v.v.",
+                            "explain": "game of cards, mahjong etc",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "bài cục",
+            "pinyin": "pái jú",
+            "word": "牌局",
+            "id": 92535,
+            "phonetic": "paiju",
+            "rank": 73666,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": null,
+            "topic": "47",
+            "zhuyin": "ㄓˇㄆㄞˊ",
+            "_id": "3c303deadc8acb92782dbb38f94abb07",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "bài; quân bài; bài tú-lơ-khơ; bài cào; bài lá",
+                            "explain": "牌类娱乐用具，用硬纸制成，上面印着各种点子或文字，种类很多也指扑克牌",
+                            "examples": [
+                                {
+                                    "m": "Cầu, bài Poker và Whist đều là trò chơi bài.",
+                                    "p_vn": "Cau, bai Poker va Whist deu la tro choi bai.",
+                                    "_id": "8bf9582180e841ca8570a46541c7c168",
+                                    "id": 70593,
+                                    "type": "e_cnvi",
+                                    "e": "桥牌、 扑克和惠斯特都是纸牌游戏.",
+                                    "p_cn": "qiaopai puke he huisite dou shi zhipai youxi",
+                                    "p": "qiáopái pūkè hé huìsītè dōu shì zhǐpái yóuxì"
+                                },
+                                {
+                                    "m": "Người cao tuổi có thể ngồi trò chuyện, chơi bài hoặc đơn giản chỉ xem cảnh vui vẻ ở \"khu vực hoạt động\".",
+                                    "p_vn": "Nguoi cao tuoi co the ngoi tro chuyen, choi bai hoac don gian chi xem canh vui ve o \"khu vuc hoat dong\".",
+                                    "_id": "f799ba230aef42aa8925b275564fe0f2",
+                                    "id": 70594,
+                                    "type": "e_cnvi",
+                                    "e": "老年人或坐着谈话或玩纸牌或干脆观看“活动区”的热闹场面。",
+                                    "p_cn": "laonianren huo zuo zhe tanhua huo wan zhipai huo gancui guankan huodong qu de renao changmian",
+                                    "p": "lǎoniánrén huò zuò zhe tánhuà huò wán zhǐpái huò gāncuì guānkàn huódòng qū de rènao chǎngmiàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 246
+            },
+            "snym": null,
+            "cn_vi": "chỉ bài",
+            "pinyin": "zhǐpái",
+            "word": "纸牌",
+            "id": 64667,
+            "phonetic": "zhipai",
+            "rank": 24989,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄤˊㄆㄞˊ",
+            "topic": "47",
+            "_id": "0c6f6ff0274ff7e0abae5896afef5045",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "át chủ bài; con chủ bài (ví với người có sức mạnh có uy quyền nhất)",
+                            "explain": "桥牌等游戏中最强的牌，比喻最强有力的人物、手段等",
+                            "examples": [
+                                {
+                                    "m": "Anh ta dùng một quân Át nhỏ để ăn quân Át của tôi.",
+                                    "p_vn": "Anh ta dung mot quan At nho de an quan At cua toi.",
+                                    "_id": "a45111b0603140ce96a383178d5a0e39",
+                                    "id": 69662,
+                                    "type": "e_cnvi",
+                                    "e": "他用一张小的王牌吃了我的A牌。",
+                                    "p_cn": "ta yong yi zhang xiaode wangpai chi le wo de pai",
+                                    "p": "tā yòng yī zhāng xiǎode wángpái chī le wǒ de pái"
+                                },
+                                {
+                                    "m": "Hoa mận là quân bài chủ lực.",
+                                    "p_vn": "Hoa man la quan bai chu luc.",
+                                    "_id": "7eeeb785509f49768c1abffd7b538f75",
+                                    "id": 69663,
+                                    "type": "e_cnvi",
+                                    "e": "梅花是王牌.",
+                                    "p_cn": "meihua shi wangpai",
+                                    "p": "méihuā shì wángpái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 19,
+                "search": 216
+            },
+            "snym": {
+                "syno": [
+                    "底牌",
+                    "绝招",
+                    "首席"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "wángpái",
+            "cn_vi": "vương bài",
+            "word": "王牌",
+            "id": 52692,
+            "phonetic": "wangpai",
+            "rank": 27085,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, zhāng",
+                "measure": "个，张"
+            },
+            "zhuyin": "ㄇㄧㄥˊㄆㄞˊ",
+            "_id": "6419c426628c2a991ab496903efb405c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hàng hiệu; danh tiếng; có tiếng",
+                            "explain": "(名牌儿) 出名 (货物) 的牌子",
+                            "examples": [
+                                {
+                                    "m": "Cô mặc một bộ đồ hàng hiệu.",
+                                    "p_vn": "co mac mot bo do hang hieu.",
+                                    "_id": "4db5a71385989eb3ed116a21c30d4d1c",
+                                    "id": 143063,
+                                    "type": "e_cnvi",
+                                    "e": "她穿了一件名牌衣服。",
+                                    "p_cn": "ta chuanle yi jian mingpai yifu.",
+                                    "p": "tā chuānle yī jiàn míngpái yīfu."
+                                },
+                                {
+                                    "m": "Anh ấy mua một đôi giày hàng hiệu.",
+                                    "p_vn": "anh ay mua mot doi giay hang hieu.",
+                                    "_id": "4db5a71385989eb3ed116a21c30d8233",
+                                    "id": 143068,
+                                    "type": "e_cnvi",
+                                    "e": "他买了一双名牌鞋。",
+                                    "p_cn": "ta maile yishuang mingpai xie.",
+                                    "p": "tā mǎile yīshuāng míngpái xié."
+                                },
+                                {
+                                    "m": "Túi hàng hiệu luôn đắt tiền.",
+                                    "p_vn": "tui hang hieu luon dat tien.",
+                                    "_id": "4db5a71385989eb3ed116a21c30d8460",
+                                    "id": 143069,
+                                    "type": "e_cnvi",
+                                    "e": "名牌包包总是很贵。",
+                                    "p_cn": "mingpai bao bao zong shi hen gui.",
+                                    "p": "míngpái bāo bāo zǒng shì hěn guì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bảng tên; bảng tên hàng",
+                            "explain": "写着人名的牌子;标明物品名称等的牌子",
+                            "examples": [
+                                {
+                                    "m": "Bảng tên của tôi bị anh ta lấy rồi.",
+                                    "p_vn": "bang ten cua toi bi anh ta lay roi.",
+                                    "_id": "4db5a71385989eb3ed116a21c30d99cc",
+                                    "id": 143072,
+                                    "type": "e_cnvi",
+                                    "e": "我的名牌被他拿走了。",
+                                    "p_cn": "wo de mingpai bei ta na zoule.",
+                                    "p": "wǒ de míngpái bèi tā ná zǒule."
+                                },
+                                {
+                                    "m": "Bảng tên của anh ấy để trên bàn.",
+                                    "p_vn": "bang ten cua anh ay de tren ban.",
+                                    "_id": "4db5a71385989eb3ed116a21c30dccda",
+                                    "id": 143077,
+                                    "type": "e_cnvi",
+                                    "e": "他的名牌放在桌子上。",
+                                    "p_cn": "ta de mingpai fang zai zhuozi shang.",
+                                    "p": "tā de míngpái fàng zài zhuōzi shàng."
+                                },
+                                {
+                                    "m": "Tôi mua cho anh ấy bảng tên mới.",
+                                    "p_vn": "toi mua cho anh ay bang ten moi.",
+                                    "_id": "4db5a71385989eb3ed116a21c30de099",
+                                    "id": 143079,
+                                    "type": "e_cnvi",
+                                    "e": "我给他买一个新名牌。",
+                                    "p_cn": "wo gei ta mai yige xin mingpai.",
+                                    "p": "wǒ gěi tā mǎi yīgè xīn míngpái."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 283,
+                "search": 3873
+            },
+            "snym": null,
+            "cn_vi": "danh bài",
+            "pinyin": "míngpái",
+            "lv_hsk_new": "5",
+            "word": "名牌",
+            "id": 38214,
+            "phonetic": "mingpai",
+            "rank": 3102,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄆㄞˊ",
+            "topic": "47",
+            "_id": "0d5fff6a4606d97692f2d8260eaf0571",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lá bài cao",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chảnh; kiêu; bệnh ngôi sao",
+                            "explain": "比喻在某一领域或行业中名气大、有影响力的人（多用于体育界、文艺界等）",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 50,
+                "search": 1030
+            },
+            "snym": null,
+            "cn_vi": "đại bài",
+            "pinyin": "dàpái",
+            "word": "大牌",
+            "id": 69864,
+            "phonetic": "dapai",
+            "rank": 9624,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄣˊㄆㄞˊ",
+            "_id": "0ca0009bdc006036ed00a593875645a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biển số nhà; số nhà; môn bài",
+                            "explain": "钉在大门外的牌子，上面标明地区或街道名称和房子号码等",
+                            "examples": [
+                                {
+                                    "m": "nhà số 2.",
+                                    "p_vn": "nha so 2.",
+                                    "_id": "3ebf48a0287ab8ad20f5be67298d5984",
+                                    "id": 16492,
+                                    "type": "e_cnvi",
+                                    "e": "门牌二。",
+                                    "p_cn": "menpai er。",
+                                    "p": "ménpái èr。"
+                                },
+                                {
+                                    "m": "Bảng số nhà",
+                                    "p_vn": "bang so nha",
+                                    "_id": "ec2ff01a386a0613fd4579386fe30b87",
+                                    "id": 16513,
+                                    "type": "e_cnvi",
+                                    "e": "门牌号码",
+                                    "p_cn": "menpaihaoma",
+                                    "p": "ménpáihàomǎ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 411
+            },
+            "snym": null,
+            "cn_vi": "môn bài",
+            "pinyin": "ménpái",
+            "word": "门牌",
+            "id": 37554,
+            "phonetic": "menpai",
+            "rank": 18092,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄨˋㄆㄞˊ",
+            "_id": "1d04d9b07b5b413a94d80f29f8b8e123",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cột mốc đường (chỉ lộ tuyến, hay địa danh dựng ở dọc đường); đĩa khoá đường",
+                            "explain": "标明交通路线或地名的牌子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 156
+            },
+            "snym": null,
+            "cn_vi": "lộ bài",
+            "pinyin": "lùpái",
+            "word": "路牌",
+            "id": 36223,
+            "phonetic": "lupai",
+            "rank": 32745,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄤˇㄆㄞˊ",
+            "_id": "7c728a9fe99f6edbb49000025d8a08a2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "huy chương; phần thưởng",
+                            "explain": "分为金、银、铜牌，体育比赛中按此三个等级给优胜者颁奖",
+                            "examples": [
+                                {
+                                    "m": "Tôi chắc chắn sẽ không bỏ lỡ việc nhìn thấy Luke và chiếc huy chương ngu ngốc đó.",
+                                    "p_vn": "Toi chac chan se khong bo lo viec nhin thay Luke va chiec huy chuong ngu ngoc do.",
+                                    "_id": "b6d4382f279d4972a1b94ada6d2b2d36",
+                                    "id": 64323,
+                                    "type": "e_cnvi",
+                                    "e": "我才不稀罕卢克和他的傻帽奖牌",
+                                    "p_cn": "wo cai bu xihan luke he ta de shamao jiangpai",
+                                    "p": "wǒ cái bù xīhǎn lúkè hé tā de shǎmào jiǎngpái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 48,
+                "search": 313
+            },
+            "snym": {
+                "syno": [
+                    "戒尺"
+                ]
+            },
+            "cn_vi": "tưởng bài",
+            "pinyin": "jiǎngpái",
+            "word": "奖牌",
+            "id": 28666,
+            "phonetic": "jiangpai",
+            "rank": 21540,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "6",
+            "zhuyin": "ㄏㄨㄥˊㄆㄞˊ",
+            "_id": "c22ba15f06b78efc7dd8756b41eb4897",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thẻ đỏ; phạt thẻ đỏ",
+                            "explain": "红色的硬纸片某些球类比赛中裁判员用来处罚严重犯规的球员足球比赛中被出示红牌的球员须立即退出赛场，同时不得参加下一场或几场球赛",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 70
+            },
+            "snym": {
+                "syno": [
+                    "花魁"
+                ]
+            },
+            "cn_vi": "hồng bài",
+            "pinyin": "hóngpái",
+            "word": "红牌",
+            "id": 23607,
+            "phonetic": "hongpai",
+            "rank": 49551,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄡˇㄆㄞˊ",
+            "_id": "5e7e3164aec447079a759ce375b7e388",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thẻ chó",
+                            "explain": "dog tag",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "cẩu bài",
+            "pinyin": "gǒu pái",
+            "word": "狗牌",
+            "id": 98395,
+            "phonetic": "goupai",
+            "rank": 108106,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄜˊㄆㄞˊ",
+            "_id": "b5ebd8e9bdaa4ca792dda0cb6c6411e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ù bài",
+                            "explain": "to win in mahjong",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 30
+            },
+            "snym": null,
+            "cn_vi": "hòa bài",
+            "pinyin": "hú pái",
+            "word": "和牌",
+            "id": 90580,
+            "phonetic": "hepai",
+            "rank": 71469,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄩㄆㄞˊ",
+            "_id": "a92c3a4de79278053f86141f7376e319",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên làn điệu (như'Cổn tú cầu';'Nhất chi hoa')",
+                            "explain": "曲的调子的名称，如'滚绣球'、'一枝花'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "khúc bài",
+            "pinyin": "qǔpái",
+            "word": "曲牌",
+            "id": 43577,
+            "phonetic": "qupai",
+            "rank": 96444,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8b8ec7d246ca4c95a8ff3459cdb7a5ed",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cờ bỏi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bài kì",
+            "pinyin": "pái qí",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "牌棋",
+            "id": 182483,
+            "phonetic": "paiqi",
+            "rank": 157312,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ae0688f32f2e47f4bd7beb4edbfbcd0d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khoe mác; le mác。亮出牌子， 比喻說出名字、表明身份等。",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "lượng bài",
+            "pinyin": "liàng pái",
+            "word": "亮牌",
+            "id": 171717,
+            "phonetic": "liangpai",
+            "rank": 103249,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄌㄧˋ",
+            "_id": "d8c04ee00dd7493fa9bc0fa3efb6ed82",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Luật bài",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "bài lệ",
+            "pinyin": "pái lì",
+            "word": "牌例",
+            "id": 84328,
+            "phonetic": "paili",
+            "rank": 112594,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧˇㄆㄞˊ",
+            "topic": "47",
+            "_id": "2c78e0b23d991e2c7888cbfa324ee94d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Xáo bài, trang bài",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 221
+            },
+            "snym": null,
+            "cn_vi": "tẩy bài",
+            "pinyin": "xǐ pái",
+            "word": "洗牌",
+            "id": 72070,
+            "phonetic": "xipai",
+            "rank": 26752,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄑㄧˋ",
+            "_id": "2b676137d44948ecae378d6904159c58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Tức giận; nổi giận",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "trước đây anh ấy đối xử với tôi rất tốt, nhưng bây giờ anh ấy ngày nào cũng  nổi giận với tôi",
+                                    "p_vn": "truoc day anh ay doi xu voi toi rat tot, nhung bay gio anh ay ngay nao cung  noi gian voi toi",
+                                    "_id": "28a5dbe6b727405eae956ab9adc38b1c",
+                                    "id": 55965,
+                                    "type": "e_cnvi",
+                                    "e": "他以前对我特别好，现在不知为什么天天对我发牌气",
+                                    "p_cn": "ta yiqian dui wo tebie hao, xianzai buzhi weishenme tiantian dui wo fa pai qi",
+                                    "p": "Tā yǐqián duì wǒ tèbié hǎo, xiànzài bùzhī wèishénme tiāntiān duì wǒ fā pái qì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 44
+            },
+            "snym": null,
+            "cn_vi": "bài khí",
+            "pinyin": "pái qì",
+            "word": "牌气",
+            "id": 85316,
+            "phonetic": "paiqi",
+            "rank": 61339,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄞˋㄆㄞˊ",
+            "_id": "64a5d238767e444fa0f247c3db5c1dbe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gấp (poker)",
+                            "explain": "to fold (poker)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "cái bài",
+            "pinyin": "gài pái",
+            "word": "盖牌",
+            "id": 98668,
+            "phonetic": "gaipai",
+            "rank": 104942,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄤˇㄆㄞˊ",
+            "_id": "b20699dcbce441daad789c46f47d2f10",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thương hiệu (của một sản phẩm)",
+                            "explain": "brand (of a product)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 563
+            },
+            "snym": null,
+            "cn_vi": "xưởng bài",
+            "pinyin": "chǎng pái",
+            "word": "厂牌",
+            "id": 107063,
+            "phonetic": "changpai",
+            "rank": 14682,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄚㄆㄞˊ",
+            "topic": "47",
+            "_id": "b19c042ffb15ae252f91e8aa3319d8c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chia bài",
+                            "explain": "获得分发纸牌者的权利或职责",
+                            "examples": [
+                                {
+                                    "m": "trước đây anh ấy đối xử với tôi rất tốt, nhưng bây giờ anh ấy ngày nào cũng  nổi giận với tôi",
+                                    "p_vn": "truoc day anh ay doi xu voi toi rat tot, nhung bay gio anh ay ngay nao cung  noi gian voi toi",
+                                    "_id": "28a5dbe6b727405eae956ab9adc38b1c",
+                                    "id": 55965,
+                                    "type": "e_cnvi",
+                                    "e": "他以前对我特别好，现在不知为什么天天对我发牌气",
+                                    "p_cn": "ta yiqian dui wo tebie hao, xianzai buzhi weishenme tiantian dui wo fa pai qi",
+                                    "p": "Tā yǐqián duì wǒ tèbié hǎo, xiànzài bùzhī wèishénme tiāntiān duì wǒ fā pái qì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 44
+            },
+            "snym": null,
+            "cn_vi": "phát bài",
+            "pinyin": "fā pái",
+            "word": "发牌",
+            "id": 15356,
+            "phonetic": "fapai",
+            "rank": 61364,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄨˊㄆㄞˊ",
+            "_id": "d5ac4015fa0743898290cb7f4663ca44",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một lá bùa hộ mệnh hoặc bùa may mắn",
+                            "explain": "a talisman or lucky charm",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "phù bài",
+            "pinyin": "fú pái",
+            "word": "符牌",
+            "id": 92925,
+            "phonetic": "fupai",
+            "rank": 133054,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄧㄣˋ",
+            "_id": "c76eb8fb59d44e45814e81ad05064788",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lệnh bài 令牌 và ấn tín 印信. \n◇Tam quốc diễn nghĩa 三國演義: Vạn vọng minh công khả liên Hán gia thành trì vi trọng; thụ thủ Từ Châu bài ấn; lão phu tử diệc minh mục hĩ 萬望明公可憐漢家城池為重; 受取徐州牌印; 老夫死亦瞑目矣 (Đệ thập nhị hồi) Xin minh công thương lấy thành trì nhà Hán; nhận lấy lệnh bài và ấn tín Từ Châu này; thì lão phu chết mới nhắm được mắt.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "bài ấn",
+            "pinyin": "pái yìn",
+            "word": "牌印",
+            "id": 149325,
+            "phonetic": "paiyin",
+            "rank": 104104,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄟˇㄆㄞˊ",
+            "_id": "eb12ed6286f24b406ca92a667ba9e240",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Biển xe",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "vĩ bài",
+            "pinyin": "wěi pái",
+            "word": "尾牌",
+            "id": 80423,
+            "phonetic": "weipai",
+            "rank": 67904,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄨㄟˋ",
+            "_id": "f3106a9589df21a300bc8ae2d9b09694",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bài vị; mộc chủ",
+                            "explain": "指神主、灵位或其他题着名字作为祭祀对象的木牌",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 114
+            },
+            "snym": null,
+            "cn_vi": "bài vị",
+            "pinyin": "páiwèi",
+            "word": "牌位",
+            "id": 40123,
+            "phonetic": "paiwei",
+            "rank": 38760,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄠˊㄆㄞˊ",
+            "topic": "47",
+            "_id": "d93c388496084e1db40eb4141cfcb1c1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bài brit (môn chơi)",
+                            "explain": "一种扑克牌游戏，四个人分两组对抗，按规则叫牌、出牌，以得分多的一方为胜这种牌戏，英语称为bridge，语源不明，拼法跟作'桥'讲的bridge相同，汉译误解为'桥'",
+                            "examples": [
+                                {
+                                    "m": "ngày hôm qua bốn người chơi đánh bài tú-lơ-khơ, tôi và anh Vương một phe, cậu Trương và cậu Lý một phe.",
+                                    "p_vn": "ngay hom qua bon nguoi choi danh bai tu-lo-kho toi va anh vuong mot phe cau truong va cau ly mot phe",
+                                    "_id": "38220ddf9981857d43339085b7715a56",
+                                    "id": 44907,
+                                    "type": "e_cnvi",
+                                    "e": "昨天打桥牌，我和老王一头，小张和小李一头。",
+                                    "p_cn": "zuotian da qiaopai wo he lao wang yitou xiao zhang he xiao li yitou",
+                                    "p": "zuótiān dǎ qiáopái，wǒ hé lǎowáng yītóu，xiǎozhāng hé xiǎo lǐ yītóu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 342
+            },
+            "snym": null,
+            "cn_vi": "kiều bài",
+            "pinyin": "qiáopái",
+            "word": "桥牌",
+            "id": 42741,
+            "phonetic": "qiaopai",
+            "rank": 20320,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "47",
+            "zhuyin": "ㄍㄨˇㄆㄞˊ",
+            "_id": "d382a374f845872bfc9b481d4ba9ce3f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quân bài; con bài (làm bằng xương); thẻ xương; bài xương",
+                            "explain": "牌类娱乐用具，每副三十二张，用骨头、象牙、竹子或乌木制成，上面刻着以不同方式排列的从两个到十二个点子",
+                            "examples": [
+                                {
+                                    "m": "Bạn đã thiết lập các quân cờ domino trong mười năm.",
+                                    "p_vn": "Ban da thiet lap cac quan co domino trong muoi nam.",
+                                    "_id": "3e441aa98ce747898ab337447738a158",
+                                    "id": 63130,
+                                    "type": "e_cnvi",
+                                    "e": "十年来你一直在堆多米诺骨牌",
+                                    "p_cn": "shinian lai ni yizhi zai dui duominuogupai",
+                                    "p": "shínián lái nǐ yīzhí zài dūi duōmǐnuògǔpái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 200
+            },
+            "snym": null,
+            "cn_vi": "cốt bài",
+            "pinyin": "gǔpái",
+            "word": "骨牌",
+            "id": 20463,
+            "phonetic": "gupai",
+            "rank": 28349,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "43, 55, 64",
+            "zhuyin": "ㄇㄠˋㄆㄞˊ",
+            "_id": "07fac9f835b4ba938001bf0a0d3f5ca4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giả; nhãn hiệu giả; mác giả (hàng hoá); giả hiệu",
+                            "explain": "(冒牌儿) (货物) 冒充名牌",
+                            "examples": [
+                                {
+                                    "m": "hàng hoá giả; hàng nháy.",
+                                    "p_vn": "hang hoa gia; hang nhay",
+                                    "_id": "4b70f03e022ffb12f5074225ac0134c6",
+                                    "id": 28211,
+                                    "type": "e_cnvi",
+                                    "e": "冒牌货。",
+                                    "p_cn": "maopai huo",
+                                    "p": "màopáihuò。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 218
+            },
+            "snym": {
+                "syno": [
+                    "冒充",
+                    "赝品",
+                    "山寨",
+                    "虚假"
+                ],
+                "anto": [
+                    "正牌",
+                    "正规"
+                ]
+            },
+            "cn_vi": "mạo bài",
+            "pinyin": "màopái",
+            "word": "冒牌",
+            "id": 37305,
+            "phonetic": "maopai",
+            "rank": 26934,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄞˊㄏㄠˋ",
+            "_id": "c31cb88d43e225645f13ea1b8e54030b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên cửa hiệu; tên cửa hàng",
+                            "explain": "(牌号儿) 商店的字号",
+                            "examples": [
+                                {
+                                    "m": "Nhiều loại máy ảnh được đặt trên kệ.",
+                                    "p_vn": "nhieu loai may anh duoc dat tren ke.",
+                                    "_id": "cfe71128998f4c74b5fb382eaeaab67c",
+                                    "id": 53611,
+                                    "type": "e_cnvi",
+                                    "e": "货架上陈列着各种牌号的照相机。",
+                                    "p_cn": "huojia shang chenliezhe ge zhong paihao de zhaoxiangji.",
+                                    "p": "Huòjià shàng chénlièzhe gè zhǒng páihào de zhàoxiàngjī."
+                                },
+                                {
+                                    "m": "Bảng số nhà",
+                                    "p_vn": "bang so nha",
+                                    "_id": "ec2ff01a386a0613fd4579386fe30b87",
+                                    "id": 16513,
+                                    "type": "e_cnvi",
+                                    "e": "门牌号码",
+                                    "p_cn": "menpaihaoma",
+                                    "p": "ménpáihàomǎ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhãn hiệu; nhãn (hàng hoá)",
+                            "explain": "商标",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 188
+            },
+            "snym": {
+                "syno": [
+                    "招牌",
+                    "字号",
+                    "商标"
+                ]
+            },
+            "cn_vi": "bài hiệu",
+            "pinyin": "páihào",
+            "word": "牌号",
+            "id": 40119,
+            "phonetic": "paihao",
+            "rank": 29364,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄆㄞˊ",
+            "_id": "ef2a2d5d7e989c25501055ae7e4f5c2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhãn (gắn trên cỗ máy, xe cộ)",
+                            "explain": "装在机器、仪表、机动车等上面的金属牌子，上面标有名称、型号、性能、规格及出厂日期、制造者等字样",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 350
+            },
+            "snym": null,
+            "cn_vi": "minh bài",
+            "pinyin": "míngpái",
+            "word": "铭牌",
+            "id": 38336,
+            "phonetic": "mingpai",
+            "rank": 20058,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄘˊㄆㄞˊ",
+            "_id": "bab80f3c7a46434d690ff0f6e3e62566",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên điệu; tên làn điệu của từ (như điệu luyến hoa)",
+                            "explain": "词的调子的名称，如'西江月'、'蝶恋花'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 68
+            },
+            "snym": null,
+            "cn_vi": "từ bài",
+            "pinyin": "cípái",
+            "word": "词牌",
+            "id": 9201,
+            "phonetic": "cipai",
+            "rank": 50198,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "银牌"
+}

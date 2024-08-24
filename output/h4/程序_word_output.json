@@ -1,0 +1,2202 @@
+{
+    "total": 513,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, tào, zhǒng",
+                "examples": "假如你没有这个程序，你现在就可以去下载。\njiǎrú nǐ méiyǒu zhège chéngxù, nǐ xiànzài jiù kěyǐ qù xiàzài.\nNếu bạn chưa có chương trình này, bạn có thể tải xuống ngay bây giờ.",
+                "measure": "个，套，种"
+            },
+            "zhuyin": "ㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "96cf8de0c4b2be1b46fdc66f51d68ae7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                82754,
+                                82755
+                            ],
+                            "struct": "Động từ + 程序"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                82756,
+                                82757
+                            ],
+                            "struct": "Danh từ/Tính từ + (的) + 程序"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                82758
+                            ],
+                            "struct": "按照 + (...的) 程序 + (来) + Động từ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                82760,
+                                82761,
+                                82762
+                            ],
+                            "struct": "程序 + Danh từ"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trình tự; chương trình; thủ tục; thứ tự",
+                            "explain": "事情进行的先后次序",
+                            "examples": [
+                                {
+                                    "m": "Trình tự công việc",
+                                    "p_vn": "trinh tu cong viec",
+                                    "_id": "c1cb56bdd75a63edfb1bde8b6d2485f2",
+                                    "id": 4765,
+                                    "type": "e_cnvi",
+                                    "e": "工作程序",
+                                    "p_cn": "gongzuo chengxu",
+                                    "p": "gōngzuò chéngxù"
+                                },
+                                {
+                                    "m": "Chương trình hội nghị",
+                                    "p_vn": "chuong trinh hoi nghi",
+                                    "_id": "dbe037a53107f5bad03394a935d75ad9",
+                                    "id": 4766,
+                                    "type": "e_cnvi",
+                                    "e": "会议程序",
+                                    "p_cn": "huiyi chengxu",
+                                    "p": "hùiyì chéngxù"
+                                },
+                                {
+                                    "m": "Chương trình máy tính, phần mềm máy tính",
+                                    "p_vn": "chuong trinh may tinh, phan mem may tinh",
+                                    "_id": "69997d89b5f75300ec8abc83cace7493",
+                                    "id": 82752,
+                                    "type": "e_cnvi",
+                                    "e": "电脑程序",
+                                    "p_cn": "diannao chengxu",
+                                    "p": "diànnǎo chéngxù"
+                                },
+                                {
+                                    "m": "Chương trình máy tính bị nhiễm virus rồi.",
+                                    "p_vn": "chuong trinh may tinh bi nhiem virus roi.",
+                                    "_id": "69997d89b5f75300ec8abc83cace7f0e",
+                                    "id": 82753,
+                                    "type": "e_cnvi",
+                                    "e": "电脑程序有病毒了。",
+                                    "p_cn": "diannao chengxu you bingdule.",
+                                    "p": "diànnǎo chéngxù yǒu bìngdúle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 502,
+                "search": 6492
+            },
+            "snym": {
+                "syno": [
+                    "次第",
+                    "模范",
+                    "序次",
+                    "标准",
+                    "法式",
+                    "轨范",
+                    "步调",
+                    "圭表",
+                    "步骤",
+                    "顺序",
+                    "圭臬",
+                    "措施",
+                    "步伐",
+                    "秩序",
+                    "架构",
+                    "软件"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "chéngxù",
+            "cn_vi": "trình tự",
+            "word": "程序",
+            "id": 7451,
+            "phonetic": "chengxu",
+            "rank": 1782,
+            "lv_tocfl": 4,
+            "compound": "程序员，电脑程序"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨˇㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "5e9ac0924e60b16bec1e3f6885ad640e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình chính, chương trình điều khiển",
+                            "explain": "主程序，也称主函数，在许多命令式程序设计语言里，主函数（main function）是程序开始运行的地方。而相对地，其它编程范式的语言中就很少会有这样一个概念。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "chủ trình tự",
+            "pinyin": "zhǔ chéngxù",
+            "word": "主程序",
+            "id": 68196,
+            "phonetic": "zhuchengxu",
+            "rank": 127573,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗ˙ㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "aba40ffbbdc1bf0f33bc3b3214270a98",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình con, chương trình được gọi",
+                            "explain": "【注音】：zǐ chéng xù",
+                            "examples": [
+                                {
+                                    "m": "Cuối cùng, các chương trình con của hệ thống điều khiển đầu đốt được thiết kế.",
+                                    "p_vn": "Cuoi cung, cac chuong trinh con cua he thong dieu khien dau dot duoc thiet ke.",
+                                    "_id": "ff589c661bcb4c5b914263c370886c41",
+                                    "id": 56074,
+                                    "type": "e_cnvi",
+                                    "e": "最后设计出燃烧机控制系统的各子程序。",
+                                    "p_cn": "Zuihou sheji chu ranshao ji kongzhi xitong de ge zi chengxu.",
+                                    "p": "Zuìhòu shèjì chū ránshāo jī kòngzhì xìtǒng de gè zǐ chéngxù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tử trình tự",
+            "pinyin": "zǐ chéngxù",
+            "word": "子程序",
+            "id": 70011,
+            "phonetic": "zichengxu",
+            "rank": 126928,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄇㄚˇ",
+            "_id": "7adfae06e8bd4b15a3fabc2a1fb06443",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mã nguồn (máy tính)",
+                            "explain": "source code (computing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "trình tự mã",
+            "pinyin": "chéngxù mǎ",
+            "word": "程序码",
+            "id": 119341,
+            "phonetic": "chengxuma",
+            "rank": 135825,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "60, 75, 35",
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄩㄢˊ",
+            "_id": "4dd0c728ee3f7893ffccba16ddb422aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lập trình viên",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 91,
+                "search": 783
+            },
+            "snym": null,
+            "cn_vi": "trình tự viên",
+            "pinyin": "chéngxù yuán",
+            "word": "程序员",
+            "id": 79138,
+            "phonetic": "chengxuyuan",
+            "rank": 11730,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄟㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "3cd35c48b878576cc72b21462edf78b9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Vi chương trình",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "vi trình tự",
+            "pinyin": "wéi chéngxù",
+            "word": "微程序",
+            "id": 70606,
+            "phonetic": "weichengxu",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄩㄢˊ",
+            "_id": "5229347d8cd249f594bf5eea1da45786",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(Tiếng lóng trên Internet) mã khỉ",
+                            "explain": "(Internet slang) code monkey",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "trình tự viên",
+            "pinyin": "chéngxù yuán",
+            "word": "程序猿",
+            "id": 125778,
+            "phonetic": "chengxuyuan",
+            "rank": 82070,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄎㄨˋ",
+            "_id": "8d06b2f2697240609d2e6c091f96a974",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thư viện chương trình (máy tính)",
+                            "explain": "program library (computing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "trình tự khố",
+            "pinyin": "chéngxù kù",
+            "word": "程序库",
+            "id": 119339,
+            "phonetic": "chengxuku",
+            "rank": 70284,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄅㄧㄢ",
+            "_id": "c9e32f0cb2a645a98fe1f24445cd00b1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lập trình",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "trình tự biên",
+            "pinyin": "chéngxù biān",
+            "word": "程序编",
+            "id": 152170,
+            "phonetic": "chengxubian",
+            "rank": 67388,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄒㄧㄥˋ",
+            "_id": "e225ee953c7349afbf05e8e92f39ad8b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chương trình",
+                            "explain": "program",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 46
+            },
+            "snym": null,
+            "cn_vi": "trình tự tính",
+            "pinyin": "chéngxù xìng",
+            "word": "程序性",
+            "id": 125777,
+            "phonetic": "chengxuxing",
+            "rank": 60315,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧㄢㄔㄥˊㄒㄩˋ",
+            "_id": "1717487d1b2132b11f4e32673003b1d9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "viết chương trình (vi tính)",
+                            "explain": "在利用电子计算机自动处理问题，人们根据自己对信息处理的要求，给电子计算机设计指令",
+                            "examples": [
+                                {
+                                    "m": "Học lập trình nên bắt đầu lập trình từ ngày đầu tiên",
+                                    "p_vn": "Hoc lap trinh nen bat dau lap trinh tu ngay dau tien",
+                                    "_id": "3690b6b7f5a4453e9373612bd5ea7749",
+                                    "id": 67463,
+                                    "type": "e_cnvi",
+                                    "e": "学编程从第一天就该上手编程序",
+                                    "p_cn": "Xue biancheng cong di yi tian jiu gai shangshou bian chengxu",
+                                    "p": "Xué biānchéng cóng dì yī tiān jiù gāi shàngshǒu biān chéngxù"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sắp xếp thứ tự; sắp xếp; sắp đặt",
+                            "explain": "安排事情进行的先后顺序",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 73
+            },
+            "snym": null,
+            "cn_vi": "biên trình tự",
+            "pinyin": "biān chéngxù",
+            "word": "编程序",
+            "id": 3246,
+            "phonetic": "bianchengxu",
+            "rank": 48610,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩㄢˊㄔㄥˊㄒㄩˋ",
+            "_id": "5db8423390c1422991bd0c2d732b572d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mã nguồn (máy tính)",
+                            "explain": "source code (computing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "nguyên trình tự",
+            "pinyin": "yuán chéngxù",
+            "word": "源程序",
+            "id": 125506,
+            "phonetic": "yuanchengxu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄈㄚˇ",
+            "_id": "77a126921469444f958a25d722391d07",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "luật tố tụng",
+                            "explain": "procedural law",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "trình tự pháp",
+            "pinyin": "chéngxù fǎ",
+            "word": "程序法",
+            "id": 119340,
+            "phonetic": "chengxufa",
+            "rank": 65321,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄣˇㄉㄠˇㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "5d4bbeb12fd9afb67fccc254343f5521",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình tự khởi động",
+                            "explain": "引导是计算机开始输入时常采用的一种手段。计算机启动后，由设备来实现少量指令和数据的输入，然后由它们再输入其他程序，这种过程称为引导。微型计算机中的引导程序可将用户通过键盘打入的程序及数据引导输入到随机存储器中。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "dẫn đạo trình tự",
+            "pinyin": "yǐndǎo chéngxù",
+            "word": "引导程序",
+            "id": 70520,
+            "phonetic": "yindaochengxu",
+            "rank": 125092,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "5113a169f54043cab88b02ddc03464bd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thủ tục kiện tụng",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Các quy định dân sự, dân sự pháp luật về quyền riêng tư cá nhân và các thủ tục tố tụng pháp luật liên quan đến quyền này, khác biệt với các quy định hình sự, quân sự hoặc quy định hoặc thủ tục tố tụng quốc tế.",
+                                    "p_vn": "Cac quy dinh dan su, dan su phap luat ve quyen rieng tu ca nhan va cac thu tuc to tung phap luat lien quan den quyen nay, khac biet voi cac quy dinh hinh su, quan su hoac quy dinh hoac thu tuc to tung quoc te.",
+                                    "_id": "ac30c7f098c244f681d37c5a7c6dca0d",
+                                    "id": 70952,
+                                    "type": "e_cnvi",
+                                    "e": "民事的，民法的关于个人隐私权及相关于这些权利的法律诉讼程序的，区别于刑事的、军事的或国际的条例或诉讼程序",
+                                    "p_cn": "minshi de minfa de guanyu geren yinsiquan ji xiang guanyu zhexie quanli de falu susong chengxu de qubie yu xingshi de junshi de huo guoji de tiaoli huo susong chengxu",
+                                    "p": "mínshì de mínfǎ de guānyú gèrén yǐnsīquán jí xiāng guānyú zhèxiē quánlì de fǎlǜ sùsòng chéngxù de qūbié yú xíngshì de jūnshì de huò guójì de tiáolì huò sùsòng chéngxù"
+                                },
+                                {
+                                    "m": "Bản ghi tố tụng là một bản ghi tóm tắt về quy trình tố tụng tại tòa án trong một vụ án pháp lý.",
+                                    "p_vn": "Ban ghi to tung la mot ban ghi tom tat ve quy trinh to tung tai toa an trong mot vu an phap ly.",
+                                    "_id": "da712aa0aab64a9c811860367ef12351",
+                                    "id": 70953,
+                                    "type": "e_cnvi",
+                                    "e": "诉讼记录法律案件中法庭诉讼程序的简要记录",
+                                    "p_cn": "susong jilu falu anjian zhong fating susong chengxu de jianyao jilu",
+                                    "p": "sùsòng jìlù fǎlǜ ànjiàn zhōng fǎtíng sùsòng chéngxù de jiǎnyào jìlù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tố tụng trình tự",
+            "pinyin": "sùsòng chéngxù",
+            "word": "诉讼程序",
+            "id": 159387,
+            "phonetic": "susongchengxu",
+            "rank": 120046,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄕㄜˋㄐㄧˋ",
+            "topic": "35, 60",
+            "_id": "3467e989de910542a6c757b253f8d6c6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lập trình",
+                            "explain": "程序设计：程序设计",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 214
+            },
+            "snym": null,
+            "cn_vi": "trình tự thiết kế",
+            "pinyin": "chéngxù shèjì",
+            "word": "程序设计",
+            "id": 73279,
+            "phonetic": "chengxusheji",
+            "rank": 27249,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄩㄉㄨㄥˋㄔㄥˊㄒㄩˋ",
+            "_id": "9e80f800d1834d3c97984d6f966de7fc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trình điều khiển thiết bị (phần mềm máy tính)",
+                            "explain": "device driver (computing software)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 43
+            },
+            "snym": null,
+            "cn_vi": "khu động trình tự",
+            "pinyin": "qūdòng chéngxù",
+            "word": "驱动程序",
+            "id": 138490,
+            "phonetic": "qudongchengxu",
+            "rank": 61779,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄚˊㄓㄤˋㄔㄥˊㄒㄩˋ",
+            "_id": "e6d826050b882266d092ab727219f5b7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Trình tự kiểm toán",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tra trướng trình tự",
+            "pinyin": "chá zhàng chéngxù",
+            "word": "查帐程序",
+            "id": 82286,
+            "phonetic": "chazhangchengxu",
+            "rank": 158221,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄜˋㄐㄧˋㄔㄥˊㄒㄩˋ",
+            "_id": "0f4ae290e816444690df764d6d5c7180",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quá trình thiết kế",
+                            "explain": "design process",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "thiết kế trình tự",
+            "pinyin": "shèjì chéngxù",
+            "word": "设计程序",
+            "id": 135746,
+            "phonetic": "shejichengxu",
+            "rank": 83703,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˇㄧㄚㄔㄥˊㄒㄩˋ",
+            "_id": "878b8a8389fc4028b1421f9584a0de42",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lịch giải nén",
+                            "explain": "decompression schedule",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "giảm áp trình tự",
+            "pinyin": "jiǎn yā chéngxù",
+            "word": "减压程序",
+            "id": 136523,
+            "phonetic": "jianyachengxu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8b1976a75be644efb5fd2edadc2e4d92",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Công cụ giám sát (chương trình máy tính)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "giám thị trình tự",
+            "pinyin": "jiānshì chéngxù",
+            "word": "监视程序",
+            "id": 163127,
+            "phonetic": "jianshichengxu",
+            "rank": 144534,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄨㄖㄨˋㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "17be3e6d9a878d516865033710cc74de",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình nhập",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "thâu nhập trình tự",
+            "pinyin": "shūrù chéngxù",
+            "word": "输入程序",
+            "id": 74635,
+            "phonetic": "shuruchengxu",
+            "rank": 97264,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄎㄨㄥˋㄓˋ",
+            "_id": "d47b269d0b305eeb65df8e10080f9452",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "điều khiển tự động; điều khiển theo trình tự; làm theo chương trình nạp sẵn",
+                            "explain": "通过事先编制的固定程序实现的自动控制广泛应用于控制各种生产和工艺加工过程",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "trình tự khống chế",
+            "pinyin": "chéngxù kòngzhì",
+            "word": "程序控制",
+            "id": 7452,
+            "phonetic": "chengxukongzhi",
+            "rank": 94510,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄨㄔㄨㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "08ac7f5662ca63efdb813b3547761b51",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình xuất, chương trình ra",
+                            "explain": "这是一款输出程序，阿德校园虚拟德拉输出德涂红的触发器删除校园虚拟网站，下载来试试吧！",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "thâu xuất trình tự",
+            "pinyin": "shūchū chéngxù",
+            "word": "输出程序",
+            "id": 74637,
+            "phonetic": "shuchuchengxu",
+            "rank": 96603,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄟˋㄐㄧˋㄔㄥˊㄒㄩˋ",
+            "_id": "856a71c4d692375876f265c509448d9d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Quy trình kế toán",
+                            "explain": "1.经济业务发生后，根据审核后的原始凭证编制记账凭证，按业务发生的程序在日记簿中进行序时登记。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "hội kế trình tự",
+            "pinyin": "kuàijì chéngxù",
+            "word": "会计程序",
+            "id": 68398,
+            "phonetic": "kuaijichengxu",
+            "rank": 131102,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄇㄨˋㄌㄨˋ",
+            "_id": "30d25d75dc077b81cc5805eabce21ad6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Mục lục chương trình",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "trình tự mục lục",
+            "pinyin": "chéngxù mùlù",
+            "word": "程序目录",
+            "id": 73278,
+            "phonetic": "chengxumulu",
+            "rank": 119290,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄧㄥㄩㄥˋㄔㄥˊㄒㄩˋ",
+            "_id": "7b7c1d6341cc4ca39af0254f7f22ce85",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ứng dụng; phần mềm; app",
+                            "explain": "软件的主要分类",
+                            "examples": [
+                                {
+                                    "m": "Những ứng dụng này có những tính năng rất tốt.",
+                                    "p_vn": "nhũng úng dụng này có nhũng tính nang rát tót.",
+                                    "_id": "329486f68b2b4177e0301e5c7291de48",
+                                    "id": 86032,
+                                    "type": "e_cnvi",
+                                    "e": "这些应用程序也具有强大的功能。",
+                                    "p_cn": "zhexie yingyong chengxu ye juyou qiangda de gongneng.",
+                                    "p": "zhèxiē yìngyòng chéngxù yě jùyǒu qiángdà de gōngnéng."
+                                },
+                                {
+                                    "m": "Cô đã phát triển một ứng dụng để giúp đỡ họ.",
+                                    "p_vn": "co da phat trien mot ung dung de giup do ho.",
+                                    "_id": "329486f68b2b4177e0301e5c7291e16a",
+                                    "id": 86033,
+                                    "type": "e_cnvi",
+                                    "e": "她开发了一个应用程序来帮助他们。",
+                                    "p_cn": "ta kaifale yige yingyong chengxu lai bangzhu tamen.",
+                                    "p": "tā kāifāle yīgè yìngyòng chéngxù lái bāngzhù tāmen."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 518
+            },
+            "snym": null,
+            "cn_vi": "ứng dụng trình tự",
+            "pinyin": "yìngyòng chéngxù",
+            "word": "应用程序",
+            "id": 157863,
+            "phonetic": "Yingyongchengxu",
+            "rank": 15595,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄐㄧㄢˇㄧˋㄔㄥˊㄒㄩˋ",
+            "_id": "a8101a67c5d040a4ad1cabb190c0adf7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "summary procedure\n Tóm Tắt Buổi Họp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "giản dị trình tự",
+            "pinyin": "Jiǎnyì chéngxù",
+            "word": "简易程序",
+            "id": 157718,
+            "phonetic": "Jianyichengxu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧㄠㄓㄨㄣˇㄔㄥˊㄒㄩˋ",
+            "_id": "5a5bea28bcedad8bdc987b1f4ad8bb66",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình chuẩn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "tiêu chuẩn trình tự",
+            "pinyin": "biāozhǔn chéngxù",
+            "word": "标准程序",
+            "id": 71633,
+            "phonetic": "biaozhunchengxu",
+            "rank": 128986,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄚㄑㄩˇㄔㄥˊㄒㄩˋ",
+            "_id": "a05448479be247fea00e5025b873a993",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "con nhện hoặc bot trình thu thập thông tin (Internet)",
+                            "explain": "spider or crawler bot (Internet)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "trảo thủ trình tự",
+            "pinyin": "zhuā qǔ chéngxù",
+            "word": "抓取程序",
+            "id": 137138,
+            "phonetic": "zhuaquchengxu",
+            "rank": 100132,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˇㄉㄢㄔㄥˊㄒㄩˋ",
+            "_id": "ae92e69c014f3de75037dd9ed65448c5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Trình tự đơn giản",
+                            "explain": "都市小说",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "giản đơn trình tự",
+            "pinyin": "jiǎndān chéngxù",
+            "word": "简单程序",
+            "id": 73379,
+            "phonetic": "jiandanchengxu",
+            "rank": 112557,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨㄢˇㄐㄧㄢˋㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "c0666c780a390eddd75c1ac130ce344b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình phần mềm",
+                            "explain": "软件程序（software program）通过软件编程实现的一种程序过程，以提高对实物载体的管理效率，降低一定的人力支出。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "nhuyễn kiện trình tự",
+            "pinyin": "ruǎnjiàn chéngxù",
+            "word": "软件程序",
+            "id": 74608,
+            "phonetic": "ruanjianchengxu",
+            "rank": 75152,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧㄥˋㄒㄧㄥˊㄔㄥˊㄒㄩˋ",
+            "_id": "232dde9ba0604fd39f9708966c81fd29",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chương trình song song",
+                            "explain": "parallel program",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tịnh hành trình tự",
+            "pinyin": "bìngxíng chéngxù",
+            "word": "并行程序",
+            "id": 140601,
+            "phonetic": "bingxingchengxu",
+            "rank": 133270,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˇㄓㄥˋㄔㄥˊㄒㄩˋ",
+            "_id": "fdd22f8b058247f09bb722c24822ef9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thủ tục xác minh (kế toán)",
+                            "explain": "procedure of verification (accountancy)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "kiểm chứng trình tự",
+            "pinyin": "jiǎn zhèng chéngxù",
+            "word": "检证程序",
+            "id": 141409,
+            "phonetic": "jianzhengchengxu",
+            "rank": 146014,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄆㄨˇㄊㄨㄥㄔㄥˊㄒㄩˋ",
+            "_id": "807758aad7ca4ffea520dd5b1481cdc0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thủ tục thông thường",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "phổ thông trình tự",
+            "pinyin": "Pǔtōng chéngxù",
+            "word": "普通程序",
+            "id": 157730,
+            "phonetic": "Putongchengxu",
+            "rank": 144345,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢㄉㄨㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "5c135adb86e4ad866ba73eb1669cd32b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình kiểm soát, chương trình giám sát",
+                            "explain": "监督程序，是指人民法院对已经发生法律效力的判决、裁定，依照法律规定由法定机关提起，对案件进行再审的程序。它又称为再审程序。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "giám đốc trình tự",
+            "pinyin": "jiāndū chéngxù",
+            "word": "监督程序",
+            "id": 73038,
+            "phonetic": "jianduchengxu",
+            "rank": 105987,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄟˋㄅㄧㄢㄔㄥˊㄒㄩˋ",
+            "topic": "35, 60",
+            "_id": "8f9b8558a85e47e688ab94fb09b71476",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình dịch hợp ngữ, chương trình hợp dịch",
+                            "explain": "汇编程序是指把汇编语言书写的程序翻译成与之等价的机器语言程序的翻译程序。汇编程序输入的是用汇编语言书写的源程序，输出的是用机器语言表示的目标程序。汇编语言是为特定计算机或计算机系列设计的一种面向机器的语言，由汇编执行指令和汇编伪指令组成。采用汇编语言编写程序虽不如高级程序设计语言简便、直观，但是汇编出的目标程序占用内存较少、运行效率较高，且能直接引用计算机的各种设备资源。它通常用于编写系统的核心部分程序，或编写需要耗费大量运行时间和实时性要求较高的程序段。",
+                            "examples": [
+                                {
+                                    "m": "Trong lập trình hợp ngữ, một hoặc nhiều hoạt động được đại diện bởi sự kết hợp của các thuộc tính và dấu ngoặc đơn.",
+                                    "p_vn": "Trong lap trinh hop ngu, mot hoac nhieu hoat dong duoc dai dien boi su ket hop cua cac thuoc tinh va dau ngoac don.",
+                                    "_id": "7527b70f6693485c8bb040e305fc4849",
+                                    "id": 71992,
+                                    "type": "e_cnvi",
+                                    "e": "汇编程序设计中，用项和括号对的组合所代表的一个或多个操作。",
+                                    "p_cn": "huibian chengxusheji zhong yongxiang he kuohao dui de zuhe suo daibiao de yi ge huo duoge caozuo",
+                                    "p": "huìbiān chéngxùshèjì zhōng yòngxiàng hé kuòhào duì de zǔhé suǒ dàibiǎo de yī gè huò duōge cāozuò"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "hối biên trình tự",
+            "pinyin": "huìbiān chéngxù",
+            "word": "汇编程序",
+            "id": 71917,
+            "phonetic": "huibianchengxu",
+            "rank": 126776,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄚˊㄓㄤˋㄔㄥˊㄒㄩˋ",
+            "_id": "430c63759d43727618aa0e0878b96b44",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Quy trình kiểm toán, thủ tục kiểm toán",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "tra trướng trình tự",
+            "pinyin": "cházhàng chéngxù",
+            "word": "查账程序",
+            "id": 71624,
+            "phonetic": "chazhangchengxu",
+            "rank": 105198,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥˋㄒㄧㄤˇㄔㄥˊㄒㄩˋㄎㄨˋ",
+            "_id": "4cf1158237534b30955549b353617e4d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thư viện chia sẻ (máy tính)",
+                            "explain": "shared library (computing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "cộng hưởng trình tự khố",
+            "pinyin": "gòngxiǎng chéngxù kù",
+            "word": "共享程序库",
+            "id": 144176,
+            "phonetic": "gongxiangchengxuku",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨˇㄎㄨㄥˋㄒㄧㄤㄔㄥˊㄒㄩˋ",
+            "_id": "5f2f77ded9f541e2919ef6383d077415",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Trình tự hộp điều khiển chính",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "chủ khống tương trình tự",
+            "pinyin": "Zhǔ kòng xiāng chéngxù",
+            "word": "主控箱程序",
+            "id": 154899,
+            "phonetic": "Zhukongxiangchengxu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄔㄥˊㄒㄩˋㄕㄜˋㄐㄧˋㄕ",
+            "_id": "84766fbcdfc64679a227788149471976",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lập trình viên",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "trình tự thiết kế sư",
+            "pinyin": "Chéngxù shèjì shī",
+            "word": "程序设计师",
+            "id": 157854,
+            "phonetic": "Chengxushejishi",
+            "rank": 78713,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄘㄠㄗㄨㄛˋㄊㄡˊㄔㄥˊㄒㄩˋ",
+            "_id": "1014633645f44ad2b3569dae6bc9e92d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chương trình hệ thống điều khiển",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "thao tá đầu trình tự",
+            "pinyin": "Cāozuò tóu chéngxù",
+            "word": "操作头程序",
+            "id": 154896,
+            "phonetic": "Caozuotouchengxu",
+            "rank": 153134,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄧㄥㄩㄥˋㄔㄥˊㄒㄩˋㄔˊ",
+            "_id": "cba6138f604743a79770be9ba128192d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "application pool",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "ứng dụng trình tự trì",
+            "pinyin": "Yìngyòng chéngxù chí",
+            "word": "应用程序池",
+            "id": 157864,
+            "phonetic": "Yingyongchengxuchi",
+            "rank": 94544,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "piān",
+                "examples": "",
+                "measure": "篇"
+            },
+            "topic": "53, 72",
+            "zhuyin": "ㄒㄩˋ",
+            "_id": "9de624cb5642de7c4e900da6cf97deba",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thứ tự; trình tự; trật tự",
+                            "explain": "次序",
+                            "examples": [
+                                {
+                                    "m": "Làm việc phải có thứ tự hợp lý.",
+                                    "p_vn": "lam viec phai co thu tu hop ly.",
+                                    "_id": "641148288b13f4cf43a85133e8a364eb",
+                                    "id": 117251,
+                                    "type": "e_cnvi",
+                                    "e": "做事要有合理的次序。",
+                                    "p_cn": "zuoshi yao you heli de cixu.",
+                                    "p": "zuòshì yào yǒu hélǐ de cìxù."
+                                },
+                                {
+                                    "m": "Tuân thủ thứ tự là thói quen tốt.",
+                                    "p_vn": "tuan thu thu tu la thoi quen tot.",
+                                    "_id": "641148288b13f4cf43a85133e8a36e66",
+                                    "id": 117252,
+                                    "type": "e_cnvi",
+                                    "e": "遵守次序是良好习惯。",
+                                    "p_cn": "zunshou cixu shi lianghao xiguan.",
+                                    "p": "zūnshǒu cìxù shì liánghǎo xíguàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lời tựa; bài tựa",
+                            "explain": "序文",
+                            "examples": [
+                                {
+                                    "m": "Lời tựa này được viết tuyệt vời.",
+                                    "p_vn": "loi tua nay duoc viet tuyet voi.",
+                                    "_id": "641148288b13f4cf43a85133e8a39170",
+                                    "id": 117255,
+                                    "type": "e_cnvi",
+                                    "e": "这篇序文写得很精彩。",
+                                    "p_cn": "zhe pian xuwen xie de hen jingcai.",
+                                    "p": "zhè piān xùwén xiě de hěn jīngcǎi."
+                                },
+                                {
+                                    "m": "Cuốn sách này có lời tựa của tác giả.",
+                                    "p_vn": "cuon sach nay co loi tua cua tac gia.",
+                                    "_id": "641148288b13f4cf43a85133e8a3af3d",
+                                    "id": 117258,
+                                    "type": "e_cnvi",
+                                    "e": "这本书有作者的自序。",
+                                    "p_cn": "zhe ben shu you zuozhe de zixu.",
+                                    "p": "zhè běn shū yǒu zuòzhě de zìxù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trường học; trường học địa phương (thời xưa)",
+                            "explain": "古代由地方举办的学校",
+                            "examples": [
+                                {
+                                    "m": "Các trường học xưa đã đào tạo nhiều nhân tài.",
+                                    "p_vn": "cac truong hoc xua da dao tao nhieu nhan tai.",
+                                    "_id": "641148288b13f4cf43a85133e8a3c1ea",
+                                    "id": 117262,
+                                    "type": "e_cnvi",
+                                    "e": "古代序校培养众多人才。",
+                                    "p_cn": "gudai xu xiao peiyang zhongduo rencai.",
+                                    "p": "gǔdài xù xiào péiyǎng zhòngduō réncái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Tự",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Anh ta họ Tự.",
+                                    "p_vn": "anh ta ho tu.",
+                                    "_id": "641148288b13f4cf43a85133e8a39ddd",
+                                    "id": 117256,
+                                    "type": "e_cnvi",
+                                    "e": "他姓序。",
+                                    "p_cn": "ta xing xu.",
+                                    "p": "tā xìng xù."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xếp theo thứ tự; xếp thứ tự",
+                            "explain": "排次序",
+                            "examples": [
+                                {
+                                    "m": "Xin vui lòng xếp chỗ ngồi theo yêu cầu.",
+                                    "p_vn": "xin vui long xep cho ngoi theo yeu cau.",
+                                    "_id": "641148288b13f4cf43a85133e8a3d7e3",
+                                    "id": 117264,
+                                    "type": "e_cnvi",
+                                    "e": "请按要求序好座位。",
+                                    "p_cn": "qing an yaoqiu xu hao zuowei.",
+                                    "p": "qǐng àn yāoqiú xù hǎo zuòwèi."
+                                },
+                                {
+                                    "m": "Nhân viên sắp xếp hàng hóa theo thứ tự.",
+                                    "p_vn": "nhan vien sap xep hang hoa theo thu tu.",
+                                    "_id": "641148288b13f4cf43a85133e8a3e5e5",
+                                    "id": 117265,
+                                    "type": "e_cnvi",
+                                    "e": "员工有序摆放商品。",
+                                    "p_cn": "yuangong you xu bai fang shangpin.",
+                                    "p": "yuángōng yǒu xù bǎi fàng shāngpǐn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "mở đầu; phần trước nội dung chính",
+                            "explain": "开头的;在正式内容以前的",
+                            "examples": [
+                                {
+                                    "m": "Trận mở đầu này cực kỳ quan trọng.",
+                                    "p_vn": "tran mo dau nay cuc ky quan trong.",
+                                    "_id": "641148288b13f4cf43a85133e8a3f60d",
+                                    "id": 117268,
+                                    "type": "e_cnvi",
+                                    "e": "这场序战至关重要。",
+                                    "p_cn": "zhe chang xu zhan zhi guan zhongyao.",
+                                    "p": "zhè chǎng xù zhàn zhì guān zhòngyào."
+                                },
+                                {
+                                    "m": "Đoạn mở đầu thật hấp dẫn.",
+                                    "p_vn": "doan mo dau that hap dan.",
+                                    "_id": "641148288b13f4cf43a85133e8a3f96e",
+                                    "id": 117269,
+                                    "type": "e_cnvi",
+                                    "e": "序章内容引人入胜。",
+                                    "p_cn": "xuzhang neirong yinrenrusheng.",
+                                    "p": "xùzhāng nèiróng yǐnrénrùshèng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 55,
+                "search": 2313
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "xù",
+            "cn_vi": "tự",
+            "word": "序",
+            "id": 57206,
+            "phonetic": "xu",
+            "rank": 4964,
+            "kind": [
+                "n",
+                "v",
+                "adj"
+            ],
+            "compound": "序跋 ; 序齿 ; 序列 ; 序目 ; 序幕 ; 序曲 ; 序时帐 ; 序数 ; 序文 ; 序言 ; 序战"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄧㄥˊㄇㄨˋㄅㄠˇㄏㄨˋㄔㄥˊㄒㄩˋ",
+            "_id": "c6179a7a2aa848a8806998b500eff98d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bảo vệ màn hình",
+                            "explain": "screensaver",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "bình mạc bảo hộ trình tự",
+            "pinyin": "píngmù bǎohù chéngxù",
+            "word": "屏幕保护程序",
+            "id": 145108,
+            "phonetic": "pingmubaohuchengxu",
+            "rank": 69642,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9fcbaec7e0354d47a7254074e2241fa2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Cổng kết nối nạp chương trình",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "trình tự thiếu lục sáp khẩu",
+            "pinyin": "chéngxù shāo lù chākǒu",
+            "word": "程序烧录插口",
+            "id": 159851,
+            "phonetic": "chengxushaoluchakou",
+            "rank": 138095,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄢˋㄗ˙ㄨㄣˇㄉㄧㄥˋㄔㄥˊㄒㄩˋ",
+            "_id": "ae18aa0b93c849ababc0854c55f933a2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(ô tô) chương trình ổn định điện tử (ESP)",
+                            "explain": "(automotive) electronic stability program (ESP)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "điện tử ổn định trình tự",
+            "pinyin": "diànzǐ wěndìng chéngxù",
+            "word": "电子稳定程序",
+            "id": 145434,
+            "phonetic": "dianziwendingchengxu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "4, 29",
+            "zhuyin": "ㄔㄥˊ",
+            "_id": "16f72335f06b1a339ba1d6f27f38b29f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phép tắc; quy củ; khuôn phép; nguyên tắc",
+                            "explain": "规矩；法度",
+                            "examples": [
+                                {
+                                    "m": "Hoạt động theo quy trình trước đó.",
+                                    "p_vn": "hoat dong theo quy trinh truoc do.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8c1cbd",
+                                    "id": 135154,
+                                    "type": "e_cnvi",
+                                    "e": "活动按预先的规程。",
+                                    "p_cn": "huodong an yuxian de guicheng.",
+                                    "p": "huódòng àn yùxiān de guīchéng."
+                                },
+                                {
+                                    "m": "Hành vi phải phù hợp với quy định đó.",
+                                    "p_vn": "hanh vi phai phu hop voi quy dinh do.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8c2335",
+                                    "id": 135155,
+                                    "type": "e_cnvi",
+                                    "e": "行为须符合那程规。",
+                                    "p_cn": "xingwei xu fuhe na cheng gui.",
+                                    "p": "xíngwéi xū fúhé nà chéng guī."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trình tự; thủ tục",
+                            "explain": "次序",
+                            "examples": [
+                                {
+                                    "m": "Bầu cử theo trình tự quy định của pháp luật.",
+                                    "p_vn": "bau cu theo trinh tu quy dinh cua phap luat.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8c744e",
+                                    "id": 135163,
+                                    "type": "e_cnvi",
+                                    "e": "选举依照法定程序。",
+                                    "p_cn": "xuanju yizhao fading chengxu.",
+                                    "p": "xuǎnjǔ yīzhào fǎdìng chéngxù."
+                                },
+                                {
+                                    "m": "Làm việc phải theo trình tự.",
+                                    "p_vn": "lam viec phai theo trinh tu.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8c7e52",
+                                    "id": 135164,
+                                    "type": "e_cnvi",
+                                    "e": "做事要按照程序来。",
+                                    "p_cn": "zuoshi yao anzhao chengxu lai.",
+                                    "p": "zuòshì yào ànzhào chéngxù lái."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chặng đường; quãng đường; đoạn đường",
+                            "explain": "道路；一段路",
+                            "examples": [
+                                {
+                                    "m": "Quãng đường du lịch không quá dài.",
+                                    "p_vn": "quang duong du lich khong qua dai.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8cdc9d",
+                                    "id": 135178,
+                                    "type": "e_cnvi",
+                                    "e": "旅途的程不太长。",
+                                    "p_cn": "lǚtu de cheng bu tai chang.",
+                                    "p": "lǚtú de chéng bù tài cháng."
+                                },
+                                {
+                                    "m": "Chúng tôi đã hoàn thành toàn bộ chặng đường.",
+                                    "p_vn": "chung toi da hoan thanh toan bo chang duong.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8ce7dd",
+                                    "id": 135179,
+                                    "type": "e_cnvi",
+                                    "e": "我们完成了整程。",
+                                    "p_cn": "women wanchengle zheng cheng.",
+                                    "p": "wǒmen wánchéngle zhěng chéng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lộ trình; khoảng cách; điểm; đường lối; phương hướng; tiến trình chung; hành trình",
+                            "explain": "距离（旅行的或物体行进的）",
+                            "examples": [
+                                {
+                                    "m": "Lộ trình đó tốn rất nhiều thời gian.",
+                                    "p_vn": "lo trinh do ton rat nhieu thoi gian.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8cf7bf",
+                                    "id": 135181,
+                                    "type": "e_cnvi",
+                                    "e": "那路程耗费许多时。",
+                                    "p_cn": "na lucheng haofei xuduo shi.",
+                                    "p": "nà lùchéng hàofèi xǔduō shí."
+                                },
+                                {
+                                    "m": "Trong hành trình này mọi người đều vui vẻ.",
+                                    "p_vn": "trong hanh trinh nay moi nguoi deu vui ve.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8d0590",
+                                    "id": 135182,
+                                    "type": "e_cnvi",
+                                    "e": "此行程大家都开心。",
+                                    "p_cn": "ci xingcheng dajia dou kaixin.",
+                                    "p": "cǐ xíngchéng dàjiā dōu kāixīn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Trình",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Anh ta họ Trình.",
+                                    "p_vn": "anh ta ho trinh.",
+                                    "_id": "55db399305625a14707d64b918c7fb0f",
+                                    "id": 102055,
+                                    "type": "e_cnvi",
+                                    "e": "他姓程。",
+                                    "p_cn": "ta xing cheng.",
+                                    "p": "tā xìng chéng."
+                                },
+                                {
+                                    "m": "Đó là người họ Trình.",
+                                    "p_vn": "do la nguoi ho trinh.",
+                                    "_id": "55db399305625a14707d64b918c80166",
+                                    "id": 102056,
+                                    "type": "e_cnvi",
+                                    "e": "那是姓程的。",
+                                    "p_cn": "na shi xing cheng de.",
+                                    "p": "nà shì xìng chéng de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lập trình",
+                            "explain": "编程",
+                            "examples": [
+                                {
+                                    "m": "Công việc lập trình đầy thách thức.",
+                                    "p_vn": "cong viec lap trinh day thach thuc.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8d348f",
+                                    "id": 135190,
+                                    "type": "e_cnvi",
+                                    "e": "编程工作充满挑战。",
+                                    "p_cn": "biancheng gongzuo chongman tiaozhan.",
+                                    "p": "biānchéng gōngzuò chōngmǎn tiǎozhàn."
+                                },
+                                {
+                                    "m": "Anh ấy rất quan tâm đến lập trình.",
+                                    "p_vn": "anh ay rat quan tam den lap trinh.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8d4066",
+                                    "id": 135191,
+                                    "type": "e_cnvi",
+                                    "e": "他对编程很感兴趣。",
+                                    "p_cn": "ta dui biancheng hen gan xingqu.",
+                                    "p": "tā duì biānchéng hěn gǎn xìngqù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đo lường; thước đo",
+                            "explain": "度量衡的总称。",
+                            "examples": [
+                                {
+                                    "m": "Hệ thống đo lường thời cổ đại rất phức tạp.",
+                                    "p_vn": "he thong do luong thoi co dai rat phuc tap.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8d1c34",
+                                    "id": 135187,
+                                    "type": "e_cnvi",
+                                    "e": "古代程制十分复杂。",
+                                    "p_cn": "gudai cheng zhi shifen fuza.",
+                                    "p": "gǔdài chéng zhì shífēn fùzá."
+                                },
+                                {
+                                    "m": "Tiêu chuẩn đo lường qua các thời đại khác nhau.",
+                                    "p_vn": "tieu chuan do luong qua cac thoi dai khac nhau.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8d2527",
+                                    "id": 135188,
+                                    "type": "e_cnvi",
+                                    "e": "程的标准历代不同。",
+                                    "p_cn": "cheng de biaozhun lidai butong.",
+                                    "p": "chéng de biāozhǔn lìdài bùtóng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 80,
+                "search": 4871
+            },
+            "snym": null,
+            "cn_vi": "trình",
+            "pinyin": "chéng",
+            "word": "程",
+            "id": 7446,
+            "phonetic": "cheng",
+            "rank": 2473,
+            "lv_tocfl": null,
+            "compound": "程度 ; 程控 ; 程式 ; 程限 ; 程序 ; 程序控制 ; 程子"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄩˇㄒㄩˋ",
+            "_id": "2dda79e12bb0772ea022a79d61441e1c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trật tự từ; thứ tự từ",
+                            "explain": "见〖词序〗",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 35,
+                "search": 641
+            },
+            "snym": null,
+            "cn_vi": "ngữ tự",
+            "pinyin": "yǔxù",
+            "word": "语序",
+            "id": 61720,
+            "phonetic": "yuxu",
+            "rank": 13446,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄨˊㄒㄩˋ",
+            "_id": "133844de132c4817a3927e25321f19f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thứ tự bản vẽ",
+                            "explain": "书刊中给插图编的表示序次的号码，是图题的组成部分。图书中既可全书连续编号（如图1、图2等），也可按章次分别编号（如图1-1、图1-2、图2-1等）。期刊中则在每篇文章内独立编号。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "đồ tự",
+            "pinyin": "tú xù",
+            "word": "图序",
+            "id": 84611,
+            "phonetic": "tuxu",
+            "rank": 152432,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "程序"
+}

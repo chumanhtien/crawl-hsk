@@ -1,0 +1,2922 @@
+{
+    "total": 2237,
+    "found": true,
+    "result": [
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄜ˙ㄇㄧㄥˊ",
+            "_id": "8b7a5f83575a96facf3472e65d5b2862",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "địa danh",
+                            "explain": "地方 (如城市或城镇) 的名称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 235
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "dìmíng",
+            "cn_vi": "địa danh",
+            "word": "地名",
+            "id": 12308,
+            "phonetic": "diming",
+            "rank": 25749,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄩˋㄙㄠˇㄉㄜ˙",
+            "_id": "078d1ff599c647b2ba887f99ccd99e9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "được hoàn toàn mất uy tín",
+                            "explain": "to be thoroughly discredited",
+                            "examples": []
+                        },
+                        {
+                            "mean": "rơi vào sai lầm",
+                            "explain": "to fall into disrepute",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "danh dự tảo địa",
+            "pinyin": "míngyù sǎodì",
+            "word": "名誉扫地",
+            "id": 131705,
+            "phonetic": "mingyusaodi",
+            "rank": 69551,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v",
+                "adj",
+                "measure"
+            ],
+            "measure": null,
+            "topic": "13, 65",
+            "zhuyin": "ㄇㄧㄥˊ",
+            "_id": "25f98cc423f714a7abd23e8d641591e5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên; tên gọi",
+                            "explain": "(名儿) 名字、名称",
+                            "examples": [
+                                {
+                                    "m": "Người đó có một cái tên hay.",
+                                    "p_vn": "nguoi do co mot cai ten hay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9452463",
+                                    "id": 93629,
+                                    "type": "e_cnvi",
+                                    "e": "那人有好名。",
+                                    "p_cn": "na ren you hao ming.",
+                                    "p": "nà rén yǒu hǎo míng."
+                                },
+                                {
+                                    "m": "Đặt một cái tên cho nó.",
+                                    "p_vn": "dat mot cai ten cho no.",
+                                    "_id": "f2efc94449b26b3e2967bccbc94532a6",
+                                    "id": 93630,
+                                    "type": "e_cnvi",
+                                    "e": "给它起个名。",
+                                    "p_cn": "gei ta qi ge ming.",
+                                    "p": "gěi tā qǐ gè míng."
+                                },
+                                {
+                                    "m": "Sản phẩm được đặt một cái tên.",
+                                    "p_vn": "san pham duoc dat mot cai ten.",
+                                    "_id": "f2efc94449b26b3e2967bccbc94536d7",
+                                    "id": 93631,
+                                    "type": "e_cnvi",
+                                    "e": "产品取个名。",
+                                    "p_cn": "chanpin qu ge ming.",
+                                    "p": "chǎnpǐn qǔ gè míng."
+                                },
+                                {
+                                    "m": "Tên tôi là Mary.",
+                                    "p_vn": "ten toi là mary.",
+                                    "_id": "f2efc94449b26b3e2967bccbc946fa0e",
+                                    "id": 93671,
+                                    "type": "e_cnvi",
+                                    "e": "我的名字叫玛丽。",
+                                    "p_cn": "wo de mingzi jiao mali.",
+                                    "p": "wǒ de míngzì jiào mǎlì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "danh nghĩa",
+                            "explain": "名义",
+                            "examples": [
+                                {
+                                    "m": "Dùng danh nghĩa của từ thiện, làm việc lừa đảo.",
+                                    "p_vn": "dung danh nghia cua tu thien, lam viec lua dao.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9455778",
+                                    "id": 93634,
+                                    "type": "e_cnvi",
+                                    "e": "用慈善名，行欺骗事。",
+                                    "p_cn": "yong cishan ming, xing qipian shi.",
+                                    "p": "yòng císhàn míng, xíng qīpiàn shì."
+                                },
+                                {
+                                    "m": "Nhờ danh nghĩa của công lý, che giấu sự thật.",
+                                    "p_vn": "nho danh nghia cua cong ly, che giau su that.",
+                                    "_id": "f2efc94449b26b3e2967bccbc945620a",
+                                    "id": 93635,
+                                    "type": "e_cnvi",
+                                    "e": "托正义名，掩饰真相。",
+                                    "p_cn": "tuo zhengyi ming, yanshi zhenxiang.",
+                                    "p": "tuō zhèngyì míng, yǎnshì zhēnxiàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "danh tiếng; thanh danh",
+                            "explain": "名声;名誉",
+                            "examples": [
+                                {
+                                    "m": "Nổi tiếng trên thế giới; có tiếng trên thế giới.",
+                                    "p_vn": "noi tieng tren the gioi; co tieng tren the gioi.",
+                                    "_id": "703abdbbca092b6018178bd5e3449f17",
+                                    "id": 28862,
+                                    "type": "e_cnvi",
+                                    "e": "世界闻名。",
+                                    "p_cn": "shijiewenming。",
+                                    "p": "shìjièwénmíng。"
+                                },
+                                {
+                                    "m": "Danh tiếng của cô ấy tốt, được mọi người tôn trọng.",
+                                    "p_vn": "danh tieng cua co ay tot, duoc moi nguoi ton trong.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9457b5f",
+                                    "id": 93638,
+                                    "type": "e_cnvi",
+                                    "e": "她名誉佳，备受尊崇。",
+                                    "p_cn": "ta mingyu jia, bei shou zunchong.",
+                                    "p": "tā míngyù jiā, bèi shòu zūnchóng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Danh",
+                            "explain": "(Míng) 姓",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy họ Danh.",
+                                    "p_vn": "anh ay ho danh.",
+                                    "_id": "f2efc94449b26b3e2967bccbc945cf55",
+                                    "id": 93650,
+                                    "type": "e_cnvi",
+                                    "e": "他姓名。",
+                                    "p_cn": "ta xingming.",
+                                    "p": "tā xìngmíng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "chỉ người",
+                            "explain": "用于人",
+                            "examples": [
+                                {
+                                    "m": "hơn ba trăm công nhân viên.",
+                                    "p_vn": "hon ba tram cong nhan vien.",
+                                    "_id": "bc8207ec54cacb36fbf8ebf52de68870",
+                                    "id": 28868,
+                                    "type": "e_cnvi",
+                                    "e": "三百多名工作人员。",
+                                    "p_cn": "sanbaiduoming gongzuorenyuan。",
+                                    "p": "sānbǎiduōmíng gōngzuòrényuán。"
+                                },
+                                {
+                                    "m": "Anh ấy được coi là một diễn viên nổi tiếng.",
+                                    "p_vn": "anh ay duoc coi la mot dien vien noi tieng.",
+                                    "_id": "f2efc94449b26b3e2967bccbc945c9aa",
+                                    "id": 93649,
+                                    "type": "e_cnvi",
+                                    "e": "他算个名角。",
+                                    "p_cn": "ta suan ge mingjue.",
+                                    "p": "tā suàn gè míngjué."
+                                },
+                                {
+                                    "m": "Bốn mươi học sinh được trúng tuyển.",
+                                    "p_vn": "bon muoi hoc sinh duoc trung tuyen.",
+                                    "_id": "e3448a5282c2f48d9cab39a27809f084",
+                                    "id": 28869,
+                                    "type": "e_cnvi",
+                                    "e": "录取新生四十名。",
+                                    "p_cn": "luqu xinsheng sishiming。",
+                                    "p": "lùqǔ xīnshēng sìshímíng。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tên là",
+                            "explain": "名字叫做",
+                            "examples": [
+                                {
+                                    "m": "Vị nữ anh hùng họ Lưu, tên là Hồ Lan.",
+                                    "p_vn": "vi nu anh hung ho luu, ten la ho lan.",
+                                    "_id": "c60ce73a9db5b7359fc2f69a377c02ba",
+                                    "id": 28858,
+                                    "type": "e_cnvi",
+                                    "e": "这位女英雄姓刘名胡兰。",
+                                    "p_cn": "zhe wei nǚ yingxiong xing liu ming hu lan.",
+                                    "p": "zhè wèi nǚ yīngxióng xìng liú míng hú lán."
+                                },
+                                {
+                                    "m": "Anh ấy tên gọi là Tiểu Lý.",
+                                    "p_vn": "anh ay ten goi la tieu ly.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9454638",
+                                    "id": 93632,
+                                    "type": "e_cnvi",
+                                    "e": "他名唤小李。",
+                                    "p_cn": "ta ming huan xiao li.",
+                                    "p": "tā míng huàn xiǎo lǐ."
+                                },
+                                {
+                                    "m": "Người ấy tên là Tiểu Phương.",
+                                    "p_vn": "nguoi ay ten la tieu phuong.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9454cb2",
+                                    "id": 93633,
+                                    "type": "e_cnvi",
+                                    "e": "那人名小芳。",
+                                    "p_cn": "na renming xiao fang.",
+                                    "p": "nà rénmíng xiǎo fāng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nói ra",
+                            "explain": "说出",
+                            "examples": [
+                                {
+                                    "m": "Không hiểu ra sao cả.",
+                                    "p_vn": "khong hieu ra sao ca.",
+                                    "_id": "5f0875b250e169e509fbb6457d15f5c3",
+                                    "id": 29190,
+                                    "type": "e_cnvi",
+                                    "e": "莫名其妙。",
+                                    "p_cn": "momingqimiao。",
+                                    "p": "mòmíngqímiào。"
+                                },
+                                {
+                                    "m": "Không thể tả xiết được.",
+                                    "p_vn": "khong the ta xiet duoc.",
+                                    "_id": "9761f02c088f73baea95ad10748c89f0",
+                                    "id": 28867,
+                                    "type": "e_cnvi",
+                                    "e": "不可名状。",
+                                    "p_cn": "bukemingzhuang。",
+                                    "p": "bùkěmíngzhuàng。"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nổi tiếng; nổi danh; tiếng tăm (địa vị; nghề nghiệp)",
+                            "explain": "出名的;有名声的",
+                            "examples": [
+                                {
+                                    "m": "Người đó danh tiếng lớn, nổi tiếng xa gần.",
+                                    "p_vn": "nguoi do danh tieng lon, noi tieng xa gan.",
+                                    "_id": "f2efc94449b26b3e2967bccbc945998f",
+                                    "id": 93642,
+                                    "type": "e_cnvi",
+                                    "e": "那人名气大，远近闻名。",
+                                    "p_cn": "na ren mingqi da, yuanjin wenming.",
+                                    "p": "nà rén míngqì dà, yuǎnjìn wénmíng."
+                                },
+                                {
+                                    "m": "Người này rất nổi tiếng, danh tiếng rất cao.",
+                                    "p_vn": "nguoi nay rat noi tieng, danh tieng rat cao.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9459a4f",
+                                    "id": 93643,
+                                    "type": "e_cnvi",
+                                    "e": "这位很名，声誉很高。",
+                                    "p_cn": "zhe wei hen ming, shengyu hen gao.",
+                                    "p": "zhè wèi hěn míng, shēngyù hěn gāo."
+                                },
+                                {
+                                    "m": "Tác phẩm nổi tiếng.",
+                                    "p_vn": "tac pham noi tieng.",
+                                    "_id": "5d6667129bc3a831f214c68db745afec",
+                                    "id": 28864,
+                                    "type": "e_cnvi",
+                                    "e": "名著。",
+                                    "p_cn": "mingzhu。",
+                                    "p": "míngzhù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"个\" khi được dùng cho người phạm vi rất rộng, ngữ khí suồng sã, tùy ý, mang đậm tính khẩu ngữ.\n- \"名\" chỉ dùng khi muốn nói đến thân phận hoặc nghề nghiệp nào đó, ngữ khí trang trọng.",
+                    "title": "Phân biệt \"个\" và \"名\"",
+                    "words": [
+                        "个",
+                        "名"
+                    ]
+                },
+                {
+                    "mean_vi": "- \"位\" được dùng khi muốn thể hiện sự tôn trọng, lịch sự, do vậy khi sử dụng nên dùng trong các tình huống trang trọng hoặc khi nói chuyện với người không quen biết.\n- \"名\" chỉ dùng khi muốn nói đến thân phận hoặc nghề nghiệp nào đó, ngữ khí trang trọng.",
+                    "title": "Phân biệt \"位\" và \"名\"",
+                    "words": [
+                        "位",
+                        "名"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "功"
+                ],
+                "anto": [
+                    "实"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "míng",
+            "cn_vi": "danh",
+            "popularity": {
+                "notebook": 244,
+                "search": 15395
+            },
+            "word": "名",
+            "id": 38187,
+            "phonetic": "ming",
+            "rank": 477,
+            "lv_tocfl": 3,
+            "compound": "名不副实 ; 名不虚传 ; 名册 ; 名产 ; 名称 ; 名词 ; 名次 ; 名刺 ; 名存实亡 ; 名单 ; 名额 ; 名分 ; 名副其实 ; 名贵 ; 名号 ; 名讳 ; 名家 ; 名缰利锁 ; 名教 ; 名节 ; 名句 ; 名利 ; 名列前茅 ; 名流 ; 名落孙山 ; 名目 ; 名牌 ; 名片 ; 名气 ; 名人 ; 名山 ; 名声 ; 名胜 ; 名士 ; 名士派 ; 名手 ; 名数 ; 名堂 ; 名头 ; 名望 ; 名位 ; 名物 ; 名下 ; 名学 ; 名义 ; 名义工资 ; 名誉 ; 名正言顺 ; 名著 ; 名字"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˋㄇㄧㄥˊ",
+            "_id": "4159b9194abbfda72a8ff8376aff7c5a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "câu chữ \"把\"",
+                            "examples": [
+                                142386,
+                                142479
+                            ],
+                            "struct": "Chủ ngữ + 把 + Tân ngữ + 命名为 + ... ..."
+                        },
+                        {
+                            "explain": "câu bị động",
+                            "examples": [
+                                142387,
+                                142388
+                            ],
+                            "struct": "Chủ ngữ + 被命名为 + Tân ngữ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                142545,
+                                142546
+                            ],
+                            "struct": "Chủ ngữ + 以 ... ... 命名"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đặt tên; mệnh danh",
+                            "explain": "起名儿；给予名称。一般不用于个人",
+                            "examples": [
+                                {
+                                    "m": "Đội của chúng tôi được đặt tên là \"Đội Tiên Phong.\"",
+                                    "p_vn": "doi cua chung toi duoc dat ten la \"doi tien phong.\"",
+                                    "_id": "9938873f438f99a1b005f10050f96e40",
+                                    "id": 142475,
+                                    "type": "e_cnvi",
+                                    "e": "我们的团队被命名为“先锋队”。",
+                                    "p_cn": "women de tuandui bei mingming wei “xianfeng dui”.",
+                                    "p": "wǒmen de tuánduì bèi mìngmíng wéi “xiānfēng duì”."
+                                },
+                                {
+                                    "m": "Cây cầu này được đặt tên theo kỹ sư vĩ đại.",
+                                    "p_vn": "cay cau nay duoc dat ten theo ky su vi dai.",
+                                    "_id": "9938873f438f99a1b005f10050fb7058",
+                                    "id": 142537,
+                                    "type": "e_cnvi",
+                                    "e": "这座桥以伟大的工程师命名。",
+                                    "p_cn": "zhe zuo qiao yi weida de gongchengshi mingming.",
+                                    "p": "zhè zuò qiáo yǐ wěidà de gōngchéngshī mìngmíng."
+                                },
+                                {
+                                    "m": "Chính phủ đặt tên công viên là \"Công Viên Sinh Thái.\"",
+                                    "p_vn": "chinh phu dat ten cong vien la \"cong vien sinh thai.\"",
+                                    "_id": "9938873f438f99a1b005f10050fb7199",
+                                    "id": 142538,
+                                    "type": "e_cnvi",
+                                    "e": "政府把公园命名为“生态园”。",
+                                    "p_cn": "zhengfu ba gongyuan mingming wei “shengtai yuan”.",
+                                    "p": "zhèngfǔ bǎ gōngyuán mìngmíng wéi “shēngtài yuán”."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 127,
+                "search": 1673
+            },
+            "snym": {
+                "syno": [
+                    "定名"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "mìngmíng",
+            "cn_vi": "mệnh danh",
+            "word": "命名",
+            "id": 38365,
+            "phonetic": "mingming",
+            "rank": 6463,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄜˊ",
+            "_id": "a21a61222db2a6b725cae0d7b4924345",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "suất; chỗ; số người",
+                            "explain": "人员的数额",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi đã hết chỗ.",
+                                    "p_vn": "chung toi da het cho.",
+                                    "_id": "4db5a71385989eb3ed116a21c30cd252",
+                                    "id": 143050,
+                                    "type": "e_cnvi",
+                                    "e": "我们已经满了名额。",
+                                    "p_cn": "women yijing manle ming'e.",
+                                    "p": "wǒmen yǐjīng mǎnle míng'é."
+                                },
+                                {
+                                    "m": "Trường chỉ cung cấp mười suất.",
+                                    "p_vn": "truong chi cung cap muoi suat.",
+                                    "_id": "4db5a71385989eb3ed116a21c30cdec6",
+                                    "id": 143051,
+                                    "type": "e_cnvi",
+                                    "e": "学校只提供十个名额。",
+                                    "p_cn": "xuexiao zhi tigong shi ge ming'e.",
+                                    "p": "xuéxiào zhǐ tígōng shí gè míng'é."
+                                },
+                                {
+                                    "m": "Xin hãy nhanh chóng đăng ký chỗ.",
+                                    "p_vn": "xin hay nhanh chong dang ky cho.",
+                                    "_id": "4db5a71385989eb3ed116a21c30cedb9",
+                                    "id": 143053,
+                                    "type": "e_cnvi",
+                                    "e": "请尽快申请名额。",
+                                    "p_cn": "qing jinkuai shenqing ming'e.",
+                                    "p": "qǐng jǐnkuài shēnqǐng míng'é."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 129,
+                "search": 1485
+            },
+            "snym": {
+                "syno": [
+                    "限额"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "míng'é",
+            "cn_vi": "danh ngạch",
+            "word": "名额",
+            "id": 38198,
+            "phonetic": "ming'e",
+            "rank": 7121,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c5f4a17a32a14bdfb4092fb78171e50b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Nổi tiếng một đời.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Trong số các người tham gia thi đấu có ba người giữ kỷ lục thế giới.",
+                                    "p_vn": "Trong so cac nguoi tham gia thi dau co ba nguoi giu ky luc the gioi.",
+                                    "_id": "2845c63d5c0c4c7e90adee8cbe1bc75c",
+                                    "id": 72855,
+                                    "type": "e_cnvi",
+                                    "e": "参赛者中包括三名世界记录保持者。",
+                                    "p_cn": "cansaizhe zhong baokuo san ming shijie jilu baochi zhe",
+                                    "p": "cānsàizhě zhōng bāokuò sān míng shìjiè jìlù bǎochí zhě"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "danh thế",
+            "pinyin": "míng shì",
+            "word": "名世",
+            "id": 170460,
+            "phonetic": "mingshi",
+            "rank": 124957,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧㄝˊㄇㄧㄥˊ",
+            "_id": "c4a0789f5ae346f5fc4e5c5c878b0073",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biệt danh; tên gọi khác; biệt hiệu",
+                            "explain": "(别名儿) 正式名字以外的名称",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tên hiệu",
+                            "explain": "别号",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bí danh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 122
+            },
+            "snym": {
+                "syno": [
+                    "别号",
+                    "又名",
+                    "笔名"
+                ],
+                "anto": [
+                    "本名"
+                ]
+            },
+            "cn_vi": "biệt danh",
+            "pinyin": "biémíng",
+            "word": "别名",
+            "id": 3763,
+            "phonetic": "bieming",
+            "rank": 37424,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄕ",
+            "_id": "da5fdf6068b744f98a94d37b8c30be8d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bậc thầy nổi tiếng",
+                            "explain": "famous master",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giáo viên tuyệt vời",
+                            "explain": "great teacher",
+                            "examples": []
+                        },
+                        {
+                            "mean": "danh sư",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 60
+            },
+            "snym": null,
+            "cn_vi": "danh sư",
+            "pinyin": "míngshī",
+            "word": "名师",
+            "id": 101954,
+            "phonetic": "mingshi",
+            "rank": 53104,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "13",
+            "zhuyin": "ㄕㄥㄇㄧㄥˊ",
+            "_id": "e2440a19b3a933d3e9a8ae6ed1367b5a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh tiếng; tiếng tăm; tên tuổi; thanh tích",
+                            "explain": "名声",
+                            "examples": [
+                                {
+                                    "m": "nhơ danh xấu tiếng; thanh danh lụn bại.",
+                                    "p_vn": "nho danh xau tieng; thanh danh lun bai.",
+                                    "_id": "16388b11a181e0f66e2d63375e4da536",
+                                    "id": 35234,
+                                    "type": "e_cnvi",
+                                    "e": "声名狼藉(形容名声极坏)。",
+                                    "p_cn": "shengming langji (xingrong mingsheng ji huai).",
+                                    "p": "shēngmíng lángjí (xíngróng míngshēng jí huài)."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tên tục",
+                            "explain": "童年时期的名字; 小名",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 90
+            },
+            "snym": {
+                "syno": [
+                    "名誉",
+                    "申明",
+                    "闻声"
+                ]
+            },
+            "cn_vi": "thanh danh",
+            "pinyin": "shēngmíng",
+            "word": "声名",
+            "id": 46630,
+            "phonetic": "shengming",
+            "rank": 43806,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄢㄇㄧㄥˊ",
+            "_id": "c4dafd1a55517f7cf05075a0e14e520b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên một chữ; tên một từ",
+                            "explain": "只有一个字的名字",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "đơn danh",
+            "pinyin": "dān míng",
+            "word": "单名",
+            "id": 10999,
+            "phonetic": "danming",
+            "rank": 88574,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄌㄧㄡˊ",
+            "_id": "fcb7b6fd98dad194bdd14091a59f2d80",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhân vật nổi tiếng (trong giới nghệ thuật, giới chính trị); danh lưu",
+                            "explain": "著名的人士 (多指学术界、政治界)",
+                            "examples": [
+                                {
+                                    "m": "những người ngồi đây đều là những nhân vật nổi tiếng trong xã hội.",
+                                    "p_vn": "nhung nguoi ngoi day deu la nhung nhan vat noi tieng trong xa hoi",
+                                    "_id": "6de0eda804d168e030d01dfbfa6e34a8",
+                                    "id": 28879,
+                                    "type": "e_cnvi",
+                                    "e": "在座的都是社会名流。",
+                                    "p_cn": "zaizuo de dou shi shehui mingliu",
+                                    "p": "zàizuò de dōu shì shèhuì míngliú."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 126
+            },
+            "snym": {
+                "syno": [
+                    "名士",
+                    "绅士",
+                    "名人",
+                    "闻人"
+                ]
+            },
+            "cn_vi": "danh lưu",
+            "pinyin": "míngliú",
+            "word": "名流",
+            "id": 38211,
+            "phonetic": "mingliu",
+            "rank": 36712,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄇㄛˊ",
+            "_id": "cc6f5d9dc045467db3cf9e22b04ef670",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mô hình hàng đầu",
+                            "explain": "top model",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 66
+            },
+            "snym": null,
+            "cn_vi": "danh mô",
+            "pinyin": "míngmó",
+            "word": "名模",
+            "id": 95512,
+            "phonetic": "mingmo",
+            "rank": 51044,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "223ac7885e334a04882a3d0fd0a9a269",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhan",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chương danh",
+            "pinyin": "zhāng míng",
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "word": "章名",
+            "id": 172578,
+            "phonetic": "zhangming",
+            "rank": 139342,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄛˊㄇㄧㄥˊ",
+            "_id": "2351ed60dece45ca8382e754ec8fc9f2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tên quốc gia",
+                            "explain": "name of country",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "quốc danh",
+            "pinyin": "guómíng",
+            "word": "国名",
+            "id": 102116,
+            "phonetic": "guoming",
+            "rank": 67879,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄥˋㄇㄧㄥˊ",
+            "_id": "6f551db876fabaf58aba702eb26aee73",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh thơm; tiếng tốt",
+                            "explain": "美名;好名声",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "lệnh danh",
+            "pinyin": "lìng míng",
+            "word": "令名",
+            "id": 35611,
+            "phonetic": "lingming",
+            "rank": 117151,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄖㄨˊ",
+            "_id": "8ae1be8477104cb299efe6e503e6e7c6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nhà nho nổi tiếng về học vấn và đức hạnh. Học giả có tiếng; danh nho",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "danh nho",
+            "pinyin": "míng rú",
+            "word": "名儒",
+            "id": 148901,
+            "phonetic": "mingru",
+            "rank": 120864,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄍㄨㄥ",
+            "_id": "8b41f5bbcfd14ec49820446c8d8d1282",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thợ giỏi có tiếng; danh công",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "danh công",
+            "pinyin": "mínggōng",
+            "word": "名工",
+            "id": 149422,
+            "phonetic": "minggong",
+            "rank": 136403,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨ˙ㄇㄧㄥˊ",
+            "_id": "2b6c3c578843423b9cd172a66bfeaf08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(cũ) niêm phong tên thí sinh vào tờ giấy thi để chống gian lận",
+                            "explain": "(old) to seal an examinee's name on the examination paper to prevent fraud",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "hồ danh",
+            "pinyin": "hú míng",
+            "word": "糊名",
+            "id": 99064,
+            "phonetic": "huming",
+            "rank": 144515,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄝˊㄇㄧㄥˊ",
+            "_id": "75031e64f0f34e85571d184addbb06b7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tên giày",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hài danh",
+            "pinyin": "xié míng",
+            "word": "鞋名",
+            "id": 77790,
+            "phonetic": "xieming",
+            "rank": 110973,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄓㄜ˙",
+            "_id": "a69c7a1ef0fa41879d78aa919bca1888",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tác phẩm về văn chương nổi tiếng. \n◎Như: Hồng Lâu Mộng thị nhất bổn văn học danh trứ 紅樓夢是一本文學名著 Hồng Lâu Mộng là một tác phẩm văn chương trứ danh. \n☆Tương tự: danh tác 名作.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "danh trứ",
+            "pinyin": "míngzhe",
+            "word": "名着",
+            "id": 149432,
+            "phonetic": "mingzhe",
+            "rank": 133522,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄉㄧㄢˇ",
+            "_id": "a42f6dd6b82546f9834f42504e21c7eb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "☆Tương tự: danh phiến 名片.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "danh điểm",
+            "pinyin": "míng diǎn",
+            "word": "名踮",
+            "id": 149431,
+            "phonetic": "mingdian",
+            "rank": 129220,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄐㄧㄚˋ",
+            "_id": "0878004e01ba4770bd14d99179ec9b68",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Danh dự và giá trị.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "danh giá",
+            "pinyin": "míng jià",
+            "word": "名价",
+            "id": 148886,
+            "phonetic": "mingjia",
+            "rank": 121120,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "77, 35, 60",
+            "zhuyin": "ㄩˋㄇㄧㄥˊ",
+            "_id": "49891a661d3b2f4777b5ee4a9c28a723",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tên miền",
+                            "explain": "BIND（Berkeley Internet Name Domain），这是应用最广的DNS软件.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 34,
+                "search": 242
+            },
+            "snym": null,
+            "cn_vi": "vực danh",
+            "pinyin": "yùmíng",
+            "word": "域名",
+            "id": 69698,
+            "phonetic": "yuming",
+            "rank": 25298,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄤˋㄇㄧㄥˊ",
+            "_id": "832a09b3e5d44328b3060bd593ce15f3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Gọi tên.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "xướng danh",
+            "pinyin": "chàng míng",
+            "word": "倡名",
+            "id": 148811,
+            "phonetic": "changming",
+            "rank": 150748,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄑㄧㄢ",
+            "_id": "84c372828943407d9d403def30160d18",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thẻ tên",
+                            "explain": "name tag",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "danh thiêm",
+            "pinyin": "míng qiān",
+            "word": "名签",
+            "id": 107145,
+            "phonetic": "mingqian",
+            "rank": 75379,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄠˇㄇㄧㄥˊ",
+            "_id": "9fbb9fbb26494de58875d8cd5c85d170",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hảo danh 好名. Tiếng tốt. \n◇Hồng Lâu Mộng 紅樓夢: Bả chúng nhân đả ban thể thống liễu; ninh khả ngã đắc cá hảo danh nhi dã bãi liễu 把眾人打扮體統了; 寧可我得個好名兒也罷了 (Đệ ngũ thập nhất hồi) Để mọi người ăn mặc trang sức cho đàng hoàng; miễn sao tôi cũng được tiếng tốt.Đọc là hiếu danh 好名. Ham thích danh vọng; ham danh; tham danh; hiếu danh",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Thanh danh tốt.",
+                                    "p_vn": "thanh danh tot.",
+                                    "_id": "c92c6dd35c81eb9e29b4d3178c85681a",
+                                    "id": 28885,
+                                    "type": "e_cnvi",
+                                    "e": "好名声。",
+                                    "p_cn": "hao mingsheng。",
+                                    "p": "hǎo míngshēng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "hiếu danh",
+            "pinyin": "hǎo míng",
+            "word": "好名",
+            "id": 149434,
+            "phonetic": "haoming",
+            "rank": 76921,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "38",
+            "zhuyin": "ㄅㄧˇㄇㄧㄥˊ",
+            "_id": "0e80d5ca66018136cadd2af8c406fb10",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bút danh",
+                            "explain": "作者发表作品时用的别名",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bí danh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 224
+            },
+            "snym": {
+                "syno": [
+                    "别名"
+                ],
+                "anto": [
+                    "本名"
+                ]
+            },
+            "cn_vi": "bút danh",
+            "pinyin": "bǐmíng",
+            "word": "笔名",
+            "id": 2886,
+            "phonetic": "biming",
+            "rank": 26502,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄙㄨˊㄇㄧㄥˊ",
+            "_id": "22fb735929bfebd0b6373300436a76af",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên tục; tên thường gọi",
+                            "explain": "通俗的名称，不是正式的名称 (多有地方性)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 35
+            },
+            "snym": {
+                "anto": [
+                    "学名"
+                ]
+            },
+            "cn_vi": "tục danh",
+            "pinyin": "súmíng",
+            "word": "俗名",
+            "id": 49189,
+            "phonetic": "suming",
+            "rank": 67195,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄣˇㄇㄧㄥˊ",
+            "_id": "52756a2ace02464f95ad530b387724d8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Dấu tên; không cho người ta biết; ý nói ở ẩn.",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ẩn danh",
+                            "explain": "隐瞒自己的真实姓名",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "ẩn danh",
+            "pinyin": "yǐn míng",
+            "word": "隐名",
+            "id": 149416,
+            "phonetic": "yinming",
+            "rank": 75865,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄗㄨˊ",
+            "_id": "53330b662d814445875e1d6073066311",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tên và họ. Dòng họ nổi tiếng.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 127
+            },
+            "snym": null,
+            "cn_vi": "danh tộc",
+            "pinyin": "míng zú",
+            "word": "名族",
+            "id": 149429,
+            "phonetic": "mingzu",
+            "rank": 36635,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄨˋ",
+            "_id": "6b84a854fa326a397f28d850e57ff654",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sự vật và tên gọi",
+                            "explain": "事物及其名称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 36
+            },
+            "snym": null,
+            "cn_vi": "danh vật",
+            "pinyin": "míngwù",
+            "word": "名物",
+            "id": 38229,
+            "phonetic": "mingwu",
+            "rank": 66733,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄟㄇㄧㄥˊ",
+            "_id": "9bbaa2456c6d06519461baa2aa2ed1c5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "uy danh; oai danh",
+                            "explain": "因有惊人的力量或武功而得到的很大的名望",
+                            "examples": [
+                                {
+                                    "m": "uy danh lẫy lừng",
+                                    "p_vn": "uy danh lay lung",
+                                    "_id": "e6b6524e3d6f7ed73616febeb7a2336b",
+                                    "id": 40433,
+                                    "type": "e_cnvi",
+                                    "e": "威名天下扬",
+                                    "p_cn": "weiming tianxia yang",
+                                    "p": "wēimíng tiānxià yáng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 44
+            },
+            "snym": {
+                "syno": [
+                    "威望",
+                    "国威"
+                ]
+            },
+            "cn_vi": "uy danh",
+            "pinyin": "wēimíng",
+            "word": "威名",
+            "id": 52827,
+            "phonetic": "weiming",
+            "rank": 60933,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˇㄇㄧㄥˊ",
+            "_id": "4b65553b8a645ac9fa62f30d8ae1ce87",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giả danh",
+                            "explain": "假冒别人的名字",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hư danh; có tiếng mà không có miếng",
+                            "explain": "挂虚的名称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "đỉnh danh",
+            "pinyin": "dǐng míng",
+            "word": "顶名",
+            "id": 13292,
+            "phonetic": "dingming",
+            "rank": 109623,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄣˋㄇㄧㄥˊ",
+            "_id": "009d46524d2275ebdcf942b596cc024c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biệt danh; biệt hiệu",
+                            "explain": "诨名",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 14
+            },
+            "snym": {
+                "syno": [
+                    "诨名",
+                    "绰号",
+                    "外号"
+                ]
+            },
+            "cn_vi": "hỗn danh",
+            "pinyin": "hùn míng",
+            "word": "混名",
+            "id": 25914,
+            "phonetic": "hunming",
+            "rank": 93961,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3dbd769d8d7b4a1789012d57eea19d1b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh công",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "danh tượng",
+            "pinyin": "míngjiàng",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "名匠",
+            "id": 175660,
+            "phonetic": "mingjiang",
+            "rank": 142788,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄘㄞˋ",
+            "_id": "3ec56f0ff18eef2ffcb2638e44685319",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Món ăn nổi tiếng",
+                            "explain": "名菜是一个汉语词汇，读音为míng cài，指出名的菜肴。中国传统名菜分为八个菜系，粤菜，山东菜系等，烧乳猪、盐焗鸡、冬瓜盅等皆称为名菜。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 214
+            },
+            "snym": null,
+            "cn_vi": "danh thái",
+            "pinyin": "míng cài",
+            "word": "名菜",
+            "id": 69427,
+            "phonetic": "mingcai",
+            "rank": 27203,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f9928c9f119348eeb24e75a5f8c71ead",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhơ danh",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cô được lựa chọn bởi một kẻ đào tẩu khét tiếng",
+                                    "p_vn": "Co duoc lua chon boi mot ke dao tau khet tieng",
+                                    "_id": "af2f82160b5d4b7b8c8f3b314f299614",
+                                    "id": 67295,
+                                    "type": "e_cnvi",
+                                    "e": "她由一名臭名昭著的逃犯亲自挑选",
+                                    "p_cn": "ta you yiming choumingzhaozhu de taofan qinzi tiaoxuan",
+                                    "p": "tā yóu yīmíng chòumíngzhāozhù de táofàn qīnzì tiāoxuǎn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "danh xú",
+            "pinyin": "míng chòu",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "名臭",
+            "id": 180890,
+            "phonetic": "mingchou",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "11",
+            "zhuyin": "ㄇㄧㄥˊㄘˊ",
+            "_id": "5e7e652eb8c0f6409b8c28eed6567323",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh từ",
+                            "explain": "表示人或事物名称的词如''人、牛、水、友谊、团体、今天、中间、北京、孔子''",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thuật ngữ",
+                            "explain": "(名词儿) 术语或近似术语的字眼 (不限于语法上的名词)",
+                            "examples": [
+                                {
+                                    "m": "thuật ngữ hoá học.",
+                                    "p_vn": "thuat ngu hoa hoc",
+                                    "_id": "0487cd4709d55251688cdbf547488f23",
+                                    "id": 28871,
+                                    "type": "e_cnvi",
+                                    "e": "化学名词。",
+                                    "p_cn": "huaxue mingci",
+                                    "p": "huàxué míngcí。"
+                                },
+                                {
+                                    "m": "thuật ngữ mới.",
+                                    "p_vn": "thuat ngu moi",
+                                    "_id": "62f7bc1d5d0683c4a1007a84739fc4eb",
+                                    "id": 28872,
+                                    "type": "e_cnvi",
+                                    "e": "新名词儿。",
+                                    "p_cn": "xin mingci er",
+                                    "p": "xīnmíngcí ér。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "từ chỉ khái niệm (trong kết cấu tam đoạn luận)",
+                            "explain": "表达三段论法结构中的概念的词",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 73,
+                "search": 1383
+            },
+            "snym": null,
+            "cn_vi": "danh từ",
+            "pinyin": "míngcí",
+            "word": "名词",
+            "id": 38193,
+            "phonetic": "mingci",
+            "rank": 7553,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄡˊㄇㄧㄥˊ",
+            "_id": "5e5adb3c2ad349818b7ae1af7ddd528c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "địa điểm đầu tiên",
+                            "explain": "first place",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thủ lĩnh (của một cuộc đua)",
+                            "explain": "leader (of a race)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "đầu danh",
+            "pinyin": "tóu míng",
+            "word": "头名",
+            "id": 102279,
+            "phonetic": "touming",
+            "rank": 67217,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄛˋㄇㄧㄥˊ",
+            "_id": "6270ebad5aca8a248ab08886b80dd295",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Không thể giải thích; khó hiểu",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tôi hoang mang về hành vi không thể giải thích của cô ấy.",
+                                    "p_vn": "toi hoang mang ve hanh vi khong the giai thich cua co ay.",
+                                    "_id": "8af1b32b3bfe291ebb5f3a703f83bfea",
+                                    "id": 53678,
+                                    "type": "e_cnvi",
+                                    "e": "对她莫名其妙的行为，我疑惑不解。",
+                                    "p_cn": "dui ta momingqimiao de xingwei, wo yihuo bu jie.",
+                                    "p": "Duì tā mòmíngqímiào de xíngwéi, wǒ yíhuò bù jiě."
+                                },
+                                {
+                                    "m": "Mỗi ngày cô đều nói những câu khó hiểu và không thể giải thích được.",
+                                    "p_vn": "moi ngay co deu noi nhung cau kho hieu va khong the giai thich duoc.",
+                                    "_id": "8c1cb26a5d5a0aa511df336307576082",
+                                    "id": 53679,
+                                    "type": "e_cnvi",
+                                    "e": "她天天都说些不着边际、莫名其妙的话。",
+                                    "p_cn": "ta tiantian dou shuo xie buzhao bianji, momingqimiao dehua.",
+                                    "p": "Tā tiāntiān dōu shuō xiē bùzháo biānjì, mòmíngqīmiào dehuà."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 117,
+                "search": 1224
+            },
+            "snym": {
+                "syno": [
+                    "无言",
+                    "无语",
+                    "无端"
+                ]
+            },
+            "cn_vi": "mạc danh",
+            "pinyin": "mòmíng",
+            "word": "莫名",
+            "id": 75870,
+            "phonetic": "moming",
+            "rank": 8370,
+            "lv_tocfl": null,
+            "compound": "莫名其妙"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄚㄇㄧㄥˊ",
+            "_id": "916a1336a58047335cbd1fabefad88ec",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh sách; bản danh sách",
+                            "explain": "旧时户口册上的人名;泛指一个单位的人员登记或分类登记的人名",
+                            "examples": []
+                        },
+                        {
+                            "mean": "biệt hiệu; mỹ danh (dùng cho kỹ nữ trong kỹ viện)",
+                            "explain": "指妓女在妓院用的名字",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 81
+            },
+            "snym": {
+                "syno": [
+                    "诨名",
+                    "绰号",
+                    "外号"
+                ]
+            },
+            "cn_vi": "hoa danh",
+            "pinyin": "huā míng",
+            "word": "花名",
+            "id": 24419,
+            "phonetic": "huaming",
+            "rank": 46284,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˋㄇㄧㄥˊ",
+            "_id": "ab0fbd5c9a4393e67e98e65b3f56df71",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đặt tên; lấy tên; định danh (không dùng cho người)",
+                            "explain": "确定名称;命名 (不用于人)",
+                            "examples": [
+                                {
+                                    "m": "đại đội này được đặt tên là đại đội tiêu biểu yêu dân.",
+                                    "p_vn": "dai doi nay duoc dat ten la dai doi tieu bieu yeu dan",
+                                    "_id": "4154557f7b896f370549faf28aff6426",
+                                    "id": 8884,
+                                    "type": "e_cnvi",
+                                    "e": "这个连队被定名为爱民模范连。",
+                                    "p_cn": "zhege liandui bei dingming wei aimin mofan lian",
+                                    "p": "zhègè liándùi bèi dìngmíng wèi àimínmófàn lián。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 132
+            },
+            "snym": {
+                "syno": [
+                    "命名"
+                ]
+            },
+            "cn_vi": "định danh",
+            "pinyin": "dìngmíng",
+            "word": "定名",
+            "id": 13406,
+            "phonetic": "dingming",
+            "rank": 35897,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8d42233c070344a7a37199ad104627d5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đào danh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đào danh",
+            "pinyin": "táo míng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "逃名",
+            "id": 174480,
+            "phonetic": "taoming",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "kuài, piàn, mǔ",
+                "examples": "",
+                "measure": "块, 片, 亩"
+            },
+            "topic": "21, 35, 40, 42",
+            "zhuyin": "ㄉㄜ˙",
+            "_id": "6e4addf245fe7745d89fce9b0bf70a97",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đất; trái đất; địa cầu; mặt đất; vỏ quả đất",
+                            "explain": "地球; 地壳",
+                            "examples": [
+                                {
+                                    "m": "Trái Đất là hành tinh chúng ta sinh sống.",
+                                    "p_vn": "trai dat la hanh tinh chung ta sinh song.",
+                                    "_id": "9938873f438f99a1b005f100504918dc",
+                                    "id": 138621,
+                                    "type": "e_cnvi",
+                                    "e": "地球是我们居住的星球。",
+                                    "p_cn": "diqiu shi women juzhu de xingqiu.",
+                                    "p": "dìqiú shì wǒmen jūzhù de xīngqiú."
+                                },
+                                {
+                                    "m": "Trên Trái Đất có rất nhiều sinh vật khác nhau.",
+                                    "p_vn": "tren trai dat co rat nhieu sinh vat khac nhau.",
+                                    "_id": "9938873f438f99a1b005f10050492672",
+                                    "id": 138622,
+                                    "type": "e_cnvi",
+                                    "e": "地球上有许多不同的生物。",
+                                    "p_cn": "diqiu shang you xuduo butong de shengwu.",
+                                    "p": "dìqiú shàng yǒu xǔduō bùtóng de shēngwù."
+                                },
+                                {
+                                    "m": "Tài nguyên của Trái Đất là có hạn.",
+                                    "p_vn": "tai nguyen cua trai dat la co han.",
+                                    "_id": "9938873f438f99a1b005f100504932f4",
+                                    "id": 138623,
+                                    "type": "e_cnvi",
+                                    "e": "地球的资源是有限的。",
+                                    "p_cn": "diqiu de ziyuan shi youxian de.",
+                                    "p": "dìqiú de zīyuán shì yǒuxiàn de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đất; lục địa",
+                            "explain": "陆地",
+                            "examples": [
+                                {
+                                    "m": "Mảnh đất này rất thích hợp để trồng trọt.",
+                                    "p_vn": "manh dat nay rat thich hop de trong trot.",
+                                    "_id": "9938873f438f99a1b005f10050493335",
+                                    "id": 138624,
+                                    "type": "e_cnvi",
+                                    "e": "这片地很适合种植。",
+                                    "p_cn": "zhe pian di hen shihe zhongzhi.",
+                                    "p": "zhè piàn dì hěn shìhé zhòngzhí."
+                                },
+                                {
+                                    "m": "Mảnh đất này vừa mới mua năm ngoái.",
+                                    "p_vn": "manh dat nay vua moi mua nam ngoai.",
+                                    "_id": "9938873f438f99a1b005f10050493d58",
+                                    "id": 138625,
+                                    "type": "e_cnvi",
+                                    "e": "这块地去年刚买的。",
+                                    "p_cn": "zhe kuai di qunian gang mai de.",
+                                    "p": "zhè kuài dì qùnián gāng mǎi de."
+                                },
+                                {
+                                    "m": "Họ dự định xây nhà trên mảnh đất này.",
+                                    "p_vn": "ho du dinh xay nha tren manh dat nay.",
+                                    "_id": "9938873f438f99a1b005f10050493daf",
+                                    "id": 138626,
+                                    "type": "e_cnvi",
+                                    "e": "他们计划在这块地上建房子。",
+                                    "p_cn": "tamen jihua zai zhe kuai dishang jian fangzi.",
+                                    "p": "tāmen jìhuà zài zhè kuài dìshàng jiàn fángzi."
+                                },
+                                {
+                                    "m": "Đất ở đây rất màu mỡ.",
+                                    "p_vn": "dat o day rat mau mo.",
+                                    "_id": "9938873f438f99a1b005f100504941b1",
+                                    "id": 138627,
+                                    "type": "e_cnvi",
+                                    "e": "这里的地很肥沃。",
+                                    "p_cn": "zheli de di hen feiwo.",
+                                    "p": "zhèlǐ de dì hěn féiwò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ruộng; đồng; ruộng đất",
+                            "explain": "土地; 田地",
+                            "examples": [
+                                {
+                                    "m": "Nhà tôi có mấy sào ruộng.",
+                                    "p_vn": "nha toi co may sao ruong.",
+                                    "_id": "9938873f438f99a1b005f100504970f7",
+                                    "id": 138633,
+                                    "type": "e_cnvi",
+                                    "e": "我家有几亩地。",
+                                    "p_cn": "wojia you ji mu di.",
+                                    "p": "wǒjiā yǒu jǐ mǔ dì."
+                                },
+                                {
+                                    "m": "Anh ấy dự định cho thuê mảnh ruộng này.",
+                                    "p_vn": "anh ay du dinh cho thue manh ruong nay.",
+                                    "_id": "9938873f438f99a1b005f10050497205",
+                                    "id": 138634,
+                                    "type": "e_cnvi",
+                                    "e": "他打算把这块地出租。",
+                                    "p_cn": "ta dasuan ba zhe kuai di chuzu.",
+                                    "p": "tā dǎsuàn bǎ zhè kuài dì chūzū."
+                                },
+                                {
+                                    "m": "Anh ấy ngày nào cũng ra đồng làm việc.",
+                                    "p_vn": "anh ay ngay nao cung ra dong lam viec.",
+                                    "_id": "9938873f438f99a1b005f100504978f9",
+                                    "id": 138635,
+                                    "type": "e_cnvi",
+                                    "e": "他每天都去地里干活。",
+                                    "p_cn": "ta meitian dou qu di li gan huo.",
+                                    "p": "tā měitiān dōu qù dì lǐ gàn huó."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sàn; mặt nền; sàn nhà",
+                            "explain": "地面",
+                            "examples": [
+                                {
+                                    "m": "Bọn trẻ đang chơi đùa trên sàn.",
+                                    "p_vn": "bon tre dang choi dua tren san.",
+                                    "_id": "9938873f438f99a1b005f1005049ab20",
+                                    "id": 138636,
+                                    "type": "e_cnvi",
+                                    "e": "孩子们在地上玩耍。",
+                                    "p_cn": "haizimen zai dishang wanshua.",
+                                    "p": "háizimen zài dìshàng wánshuǎ."
+                                },
+                                {
+                                    "m": "Anh ấy vứt rác trên sàn nhà.",
+                                    "p_vn": "anh ay vut rac tren san nha.",
+                                    "_id": "9938873f438f99a1b005f1005049ae26",
+                                    "id": 138637,
+                                    "type": "e_cnvi",
+                                    "e": "他把垃圾扔在地上。",
+                                    "p_cn": "ta ba lese reng zai dishang.",
+                                    "p": "tā bǎ lèsè rēng zài dìshàng."
+                                },
+                                {
+                                    "m": "Cô ấy ngồi trên sàn nhà nghỉ ngơi một lúc.",
+                                    "p_vn": "co ay ngoi tren san nha nghi ngoi mot luc.",
+                                    "_id": "9938873f438f99a1b005f1005049bd8e",
+                                    "id": 138638,
+                                    "type": "e_cnvi",
+                                    "e": "她坐在地上休息了一会儿。",
+                                    "p_cn": "ta zuo zai dishang xiuxile yihuir.",
+                                    "p": "tā zuò zài dìshàng xiūxíle yīhuìr."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "khu; miền; vùng",
+                            "explain": "地区",
+                            "examples": [
+                                {
+                                    "m": "Khí hậu ở khu vực này rất dễ chịu.",
+                                    "p_vn": "khi hau o khu vuc nay rat de chiu.",
+                                    "_id": "9938873f438f99a1b005f1005049c882",
+                                    "id": 138639,
+                                    "type": "e_cnvi",
+                                    "e": "这个地区的气候非常宜人。",
+                                    "p_cn": "zhege diqu de qihou feichang yiren.",
+                                    "p": "zhègè dìqū de qìhòu fēicháng yírén."
+                                },
+                                {
+                                    "m": "Họ sống ở một khu vực hẻo lánh.",
+                                    "p_vn": "ho song o mot khu vuc heo lanh.",
+                                    "_id": "9938873f438f99a1b005f1005049cc6c",
+                                    "id": 138640,
+                                    "type": "e_cnvi",
+                                    "e": "他们住在一个偏远的地区。",
+                                    "p_cn": "tamen zhu zai yige pianyuan di diqu.",
+                                    "p": "tāmen zhù zài yīgè piānyuǎn dì dìqū."
+                                },
+                                {
+                                    "m": "Văn hóa của khu vực này rất phong phú.",
+                                    "p_vn": "van hoa cua khu vuc nay rat phong phu.",
+                                    "_id": "9938873f438f99a1b005f1005049dc0b",
+                                    "id": 138641,
+                                    "type": "e_cnvi",
+                                    "e": "这个地区的文化非常丰富。",
+                                    "p_cn": "zhege diqu de wenhua feichang fengfu.",
+                                    "p": "zhègè dìqū de wénhuà fēicháng fēngfù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "khu vực hành chính",
+                            "explain": "行政区",
+                            "examples": [
+                                {
+                                    "m": "Họ đã sống ở khu hành chính này nhiều năm rồi.",
+                                    "p_vn": "ho da song o khu hanh chinh nay nhieu nam roi.",
+                                    "_id": "9938873f438f99a1b005f1005049e669",
+                                    "id": 138642,
+                                    "type": "e_cnvi",
+                                    "e": "他们居住在这个地已经很多年了。",
+                                    "p_cn": "tamen juzhu zai zhege di yijing henduo nianle.",
+                                    "p": "tāmen jūzhù zài zhègè dì yǐjīng hěnduō niánle."
+                                },
+                                {
+                                    "m": "Chính sách thuế ở khu hành chính này có nhiều ưu đãi.",
+                                    "p_vn": "chinh sach thue o khu hanh chinh nay co nhieu uu dai.",
+                                    "_id": "9938873f438f99a1b005f1005049f069",
+                                    "id": 138643,
+                                    "type": "e_cnvi",
+                                    "e": "这个地的税收政策有很多优惠。",
+                                    "p_cn": "zhege di de shuishou zhengce you henduo youhui.",
+                                    "p": "zhègè dì de shuìshōu zhèngcè yǒu hěnduō yōuhuì."
+                                },
+                                {
+                                    "m": "Trụ sở chính của công ty họ đặt tại khu hành chính này.",
+                                    "p_vn": "tru so chinh cua cong ty ho dat tai khu hanh chinh nay.",
+                                    "_id": "9938873f438f99a1b005f1005049f0d6",
+                                    "id": 138644,
+                                    "type": "e_cnvi",
+                                    "e": "他们的公司总部设在这个地。",
+                                    "p_cn": "tamen de gongsi zongbu she zai zhege di.",
+                                    "p": "tāmen de gōngsī zǒngbù shè zài zhègè dì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nơi; địa phương",
+                            "explain": "地方",
+                            "examples": [
+                                {
+                                    "m": "Đây là một nơi rất đẹp.",
+                                    "p_vn": "day la mot noi rat dep.",
+                                    "_id": "9938873f438f99a1b005f1005049fa79",
+                                    "id": 138645,
+                                    "type": "e_cnvi",
+                                    "e": "这是一个很美的地。",
+                                    "p_cn": "zhe shi yige hen mei de di.",
+                                    "p": "zhè shì yīgè hěn měi de dì."
+                                },
+                                {
+                                    "m": "Bạn có biết nơi này ở đâu không?",
+                                    "p_vn": "ban co biet noi nay o dau khong?",
+                                    "_id": "9938873f438f99a1b005f1005049fed9",
+                                    "id": 138646,
+                                    "type": "e_cnvi",
+                                    "e": "你知道这个地在哪里吗？",
+                                    "p_cn": "ni zhidao zhege di zai nali ma?",
+                                    "p": "nǐ zhīdào zhègè dì zài nǎlǐ ma?"
+                                },
+                                {
+                                    "m": "Chúng tôi đã sống ở nơi này rất lâu rồi.",
+                                    "p_vn": "chung toi da song o noi nay rat lau roi.",
+                                    "_id": "9938873f438f99a1b005f100504a0d28",
+                                    "id": 138647,
+                                    "type": "e_cnvi",
+                                    "e": "我们在这个地住了很久。",
+                                    "p_cn": "women zai zhege di zhule henjiu.",
+                                    "p": "wǒmen zài zhègè dì zhùle hěnjiǔ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "địa điểm",
+                            "explain": "地点",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta hẹn gặp nhau ở địa điểm nào?",
+                                    "p_vn": "chung ta hen gap nhau o dia diem nao?",
+                                    "_id": "9938873f438f99a1b005f100504a1158",
+                                    "id": 138648,
+                                    "type": "e_cnvi",
+                                    "e": "我们约在什么地见面？",
+                                    "p_cn": "women yue zai shenme de jianmian?",
+                                    "p": "wǒmen yuē zài shénme de jiànmiàn?"
+                                },
+                                {
+                                    "m": "Đây là một trong những địa điểm tôi thích nhất.",
+                                    "p_vn": "day la mot trong nhung dia diem toi thich nhat.",
+                                    "_id": "9938873f438f99a1b005f100504a13df",
+                                    "id": 138649,
+                                    "type": "e_cnvi",
+                                    "e": "这个地是我最喜欢的地方之一。",
+                                    "p_cn": "zhege di shi wo zui xihuan de difang zhi yi.",
+                                    "p": "zhègè dì shì wǒ zuì xǐhuan de dìfāng zhī yī."
+                                },
+                                {
+                                    "m": "Bạn đã tìm thấy địa điểm của cuộc họp chưa?",
+                                    "p_vn": "ban da tim thay dia diem cua cuoc hop chua?",
+                                    "_id": "9938873f438f99a1b005f100504a1c04",
+                                    "id": 138650,
+                                    "type": "e_cnvi",
+                                    "e": "你找到会议的地了吗？",
+                                    "p_cn": "ni zhaodao huiyi de di le ma?",
+                                    "p": "nǐ zhǎodào huìyì de dì le ma?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "địa vị",
+                            "explain": "地位",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy có địa vị rất cao trong công ty.",
+                                    "p_vn": "anh ay co dia vi rat cao trong cong ty.",
+                                    "_id": "9938873f438f99a1b005f100504a3bff",
+                                    "id": 138653,
+                                    "type": "e_cnvi",
+                                    "e": "他在公司里的地很高。",
+                                    "p_cn": "ta zai gongsi li de di hen gao.",
+                                    "p": "tā zài gōngsī lǐ de dì hěn gāo."
+                                },
+                                {
+                                    "m": "Địa vị của anh ấy trong xã hội ngày càng cao.",
+                                    "p_vn": "dia vi cua anh ay trong xa hoi ngay cang cao.",
+                                    "_id": "9938873f438f99a1b005f100504a4627",
+                                    "id": 138654,
+                                    "type": "e_cnvi",
+                                    "e": "他在社会上的地越来越高了。",
+                                    "p_cn": "ta zai shehui shang de di yue lai yue gaole.",
+                                    "p": "tā zài shèhuì shàng de dì yuè lái yuè gāole."
+                                },
+                                {
+                                    "m": "Địa vị của anh ấy không thể bị xem nhẹ.",
+                                    "p_vn": "dia vi cua anh ay khong the bi xem nhe.",
+                                    "_id": "9938873f438f99a1b005f100504a4b73",
+                                    "id": 138655,
+                                    "type": "e_cnvi",
+                                    "e": "他的地不容忽视。",
+                                    "p_cn": "ta de di burong hushi.",
+                                    "p": "tā de dì bùróng hūshì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bước; mức",
+                            "explain": "地步",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã nghèo đến mức này rồi.",
+                                    "p_vn": "anh ay da ngheo den muc nay roi.",
+                                    "_id": "9938873f438f99a1b005f100504a9b6b",
+                                    "id": 138660,
+                                    "type": "e_cnvi",
+                                    "e": "他已经穷到了这个地了。",
+                                    "p_cn": "ta yijing qiong daole zhege di le.",
+                                    "p": "tā yǐjīng qióng dàole zhègè dì le."
+                                },
+                                {
+                                    "m": "Sự việc đã phát triển đến mức không thể cứu vãn.",
+                                    "p_vn": "su viec da phat trien den muc khong the cuu van.",
+                                    "_id": "9938873f438f99a1b005f100504aa279",
+                                    "id": 138661,
+                                    "type": "e_cnvi",
+                                    "e": "事情发展到了无法挽回的地。",
+                                    "p_cn": "shiqing fazhan dao le wufa wanhui de di.",
+                                    "p": "shìqíng fāzhǎn dào le wúfǎ wǎnhuí de dì."
+                                },
+                                {
+                                    "m": "Chúng ta không nên ép anh ấy đến mức này.",
+                                    "p_vn": "chung ta khong nen ep anh ay den muc nay.",
+                                    "_id": "9938873f438f99a1b005f100504aa6a4",
+                                    "id": 138662,
+                                    "type": "e_cnvi",
+                                    "e": "我们不应该把他逼到这个地。",
+                                    "p_cn": "women bu ying gai ba ta bi dao zhege di.",
+                                    "p": "wǒmen bù yìng gāi bǎ tā bī dào zhègè dì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nền",
+                            "explain": "(地儿) 花纹或文字的衬托面",
+                            "examples": [
+                                {
+                                    "m": "Nền của tấm vải này rất mịn.",
+                                    "p_vn": "nen cua tam vai nay rat min.",
+                                    "_id": "9938873f438f99a1b005f100504aa706",
+                                    "id": 138663,
+                                    "type": "e_cnvi",
+                                    "e": "这块布的地很细腻。",
+                                    "p_cn": "zhe kuai bu de di hen xini.",
+                                    "p": "zhè kuài bù de dì hěn xìnì."
+                                },
+                                {
+                                    "m": "Nền của bức tranh này hơi phức tạp.",
+                                    "p_vn": "nen cua buc tranh nay hoi phuc tap.",
+                                    "_id": "9938873f438f99a1b005f100504aafdc",
+                                    "id": 138664,
+                                    "type": "e_cnvi",
+                                    "e": "这幅画的地有点过于复杂。",
+                                    "p_cn": "zhe fu hua de di youdian guoyu fuza.",
+                                    "p": "zhè fú huà de dì yǒudiǎn guòyú fùzá."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dặm; cây số; lộ trình; đường đi",
+                            "explain": "路程 (用于里数、站数后)",
+                            "examples": [
+                                {
+                                    "m": "Từ đây đến trường có ba cây số.",
+                                    "p_vn": "tu day den truong co ba cay so.",
+                                    "_id": "9938873f438f99a1b005f100504ab04c",
+                                    "id": 138665,
+                                    "type": "e_cnvi",
+                                    "e": "从这里到学校有三公里地。",
+                                    "p_cn": "cong zheli dao xuexiao yousan gongli di.",
+                                    "p": "cóng zhèlǐ dào xuéxiào yǒusān gōnglǐ dì."
+                                },
+                                {
+                                    "m": "Từ công ty về nhà chỉ cần đi mười dặm.",
+                                    "p_vn": "tu cong ty ve nha chi can di muoi dam.",
+                                    "_id": "9938873f438f99a1b005f100504abea5",
+                                    "id": 138666,
+                                    "type": "e_cnvi",
+                                    "e": "从公司到家只需要十里地。",
+                                    "p_cn": "cong gongsi daojia zhi xuyao shili di.",
+                                    "p": "cóng gōngsī dàojiā zhǐ xūyào shílǐ dì."
+                                },
+                                {
+                                    "m": "Anh ấy chạy bộ năm cây số mỗi ngày để rèn luyện sức khỏe.",
+                                    "p_vn": "anh ay chay bo nam cay so moi ngay de ren luyen suc khoe.",
+                                    "_id": "9938873f438f99a1b005f100504ac3da",
+                                    "id": 138667,
+                                    "type": "e_cnvi",
+                                    "e": "他每天跑步五公里地来锻炼身体。",
+                                    "p_cn": "ta meitian paobu wu gongli di lai duanlian shenti.",
+                                    "p": "tā měitiān pǎobù wǔ gōnglǐ dì lái duànliàn shēntǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Từ giúp gắn kết các từ trở thành đoản ngữ (cụm từ chính phụ) gọi là trợ từ kết cấu.\nTrợ từ kết cấu gồm: \"的(de)\"，\"得(de)\"，\"地(de)\".\n高兴de说、高兴de跳起来 Vị trí \"de\" này chúng ta điền gì nhỉ?\nDấu hiệu nhận biết:\n- \"的\" là dấu hiệu của định ngữ.\n- \"地\" là dấu hiệu của trạng ngữ.\n- \"得\" là dấu hiệu của bổ ngữ.\nCấu trúc:\n- Định ngữ + 的 + Trung tâm ngữ\nVí dụ: 我的书。(Sách của tôi.)\n- Trạng ngữ + 地 +Trung tâm ngữ\nVí dụ: 高兴地说。(Nói một cách vui vẻ.)\n- Động từ/ Tân ngữ + 得 + Bổ ngữ\nVí dụ: 高兴得跳起来。(Vui tới mức nhảy lên.)\nLưu ý: 高兴de跳起来 có thể dùng 地 hoặc 得 đều được, tuy nhiên ý nghĩa sẽ khác biệt:\n- Dùng 地 biểu thị khi nhảy lên tâm trạng như thế nào.\n(Nhảy một cách vui mừng)\n- Dùng 得 biểu thị mức độ vui mừng.\n(Vui tới nhảy cẫng lên.)",
+                    "title": "Phân biệt \"的\"， \"得\" và \"地\"",
+                    "words": [
+                        "的",
+                        "得",
+                        "地"
+                    ]
+                }
+            ],
+            "snym": {
+                "anto": [
+                    "天"
+                ]
+            },
+            "lv_hsk_new": "1, 3",
+            "pinyin": "dì",
+            "cn_vi": "địa",
+            "popularity": {
+                "notebook": 490,
+                "search": 26809
+            },
+            "word": "地",
+            "id": 12211,
+            "phonetic": "di",
+            "rank": 140,
+            "lv_tocfl": 2,
+            "compound": "地板 ; 地板蜡 ; 地磅 ; 地保 ; 地堡 ; 地崩山摧 ; 地表 ; 地表火 ; 地鳖 ; 地鳖虫 ; 地波 ; 地鵏 ; 地步 ; 地财 ; 地层 ; 地产 ; 地潮 ; 地秤 ; 地磁 ; 地磁极 ; 地大物博 ; 地带 ; 地道 ; 地道战 ; 地点 ; 地动 ; 地动山摇 ; 地动仪 ; 地洞 ; 地段 ; 地方 ; 地方病 ; 地方民族主义 ; 地方色彩 ; 地方时 ; 地方税 ; 地方武装 ; 地方戏 ; 地方性植物 ; 地方志 ; 地方主义 ; 地方自治 ; 地府 ; 地覆天翻 ; 地根儿 ; 地埂 ; 地宫 ; 地沟 ; 地瓜 ; 地光 ; 地广人稀 ; 地滚球 ; 地核 ; 地黄 ; 地黄牛 ; 地积 ; 地基 ; 地极 ; 地籍 ; 地价 ; 地角 ; 地角天涯 ; 地脚 ; 地脚螺丝 ; 地窖 ; 地界 ; 地久天长 ; 地块 ; 地牢 ; 地老虎 ; 地老天荒 ; 地雷 ; 地垒 ; 地塄 ; 地犁 ; 地理 ; 地理学 ; 地力 ; 地利 ; 地利人和 ; 地栗 ; 地邻 ; 地垄 ; 地漏 ; 地炉 ; 地脉 ; 地幔 ; 地貌 ; 地面 ; 地面灌溉 ; 地面气压 ; 地面水 ; 地名 ; 地膜 ; 地亩 ; 地菍 ; 地盘 ; 地皮 ; 地痞 ; 地平线 ; 地铺 ; 地契 ; 地气 ; 地堑 ; 地壳 ; 地勤 ; 地球 ; 地球仪 ; 地区 ; 地权 ; 地儿 ; 地热 ; 地煞 ; 地上茎 ; 地声 ; 地势 ; 地势图 ; 地税 ; 地速 ; 地台 ; 地摊 ; 地毯 ; 地铁 ; 地头 ; 地头蛇 ; 地图 ; 地图册 ; 地位 ; 地温 ; 地物 ; 地峡 ; 地下 ; 地下河 ; 地下茎 ; 地下室 ; 地下水 ; 地下铁道 ; 地线 ; 地心 ; 地心说 ; 地心引力 ; 地形 ; 地形图 ; 地学 ; 地穴 ; 地衣 ; 地窨子 ; 地狱 ; 地域 ; 地震 ; 地震波 ; 地震带 ; 地震烈度 ; 地震区 ; 地震仪 ; 地震预报 ; 地震站 ; 地震震级 ; 地政 ; 地支 ; 地址 ; 地志 ; 地质 ; 地质年代 ; 地质学 ; 地中海 ; 地轴 ; 地主 ; 地主阶级 ; 地主之谊 ; 地租"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè, zhǒng",
+                "measure": "个, 种"
+            },
+            "zhuyin": "ㄇㄧㄥˊㄔㄥ",
+            "_id": "b054bb59be5da2d4bf71142758d2bb0f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "\"名称\" vai trò định ngữ",
+                            "examples": [
+                                143996,
+                                143997
+                            ],
+                            "struct": "Định ngữ (公司/药品/植物/...) + (的) + 名称"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tên; tên gọi",
+                            "explain": "事物或者组织的名字、称呼",
+                            "examples": [
+                                {
+                                    "m": "Tên gọi của công ty này là “Hoa Vi”.",
+                                    "p_vn": "ten goi cua cong ty nay la “hoa vi”.",
+                                    "_id": "4db5a71385989eb3ed116a21c3396431",
+                                    "id": 143989,
+                                    "type": "e_cnvi",
+                                    "e": "这个公司的名称是“华为”。",
+                                    "p_cn": "zhege gongsi de mingcheng shi “huawei”.",
+                                    "p": "zhège gōngsī de míngchēng shì “huáwèi”."
+                                },
+                                {
+                                    "m": "Tôi không nhớ tên cuốn sách này nữa.",
+                                    "p_vn": "toi khong nho ten cuon sach nay nua.",
+                                    "_id": "4db5a71385989eb3ed116a21c33972bc",
+                                    "id": 143990,
+                                    "type": "e_cnvi",
+                                    "e": "我忘记了书的名称。",
+                                    "p_cn": "wo wangjile shu de mingcheng.",
+                                    "p": "wǒ wàngjìle shū de míngchēng."
+                                },
+                                {
+                                    "m": "Chúng ta cần thay đổi tên của dự án.",
+                                    "p_vn": "chung ta can thay doi ten cua du an.",
+                                    "_id": "4db5a71385989eb3ed116a21c3397d02",
+                                    "id": 143991,
+                                    "type": "e_cnvi",
+                                    "e": "我们需要更改项目的名称。",
+                                    "p_cn": "women xuyao genggai xiangmu de mingcheng.",
+                                    "p": "wǒmen xūyào gēnggǎi xiàngmù de míngchēng."
+                                },
+                                {
+                                    "m": "Bạn có biết tên của nơi này không?",
+                                    "p_vn": "ban co biet ten cua noi nay khong?",
+                                    "_id": "4db5a71385989eb3ed116a21c339a131",
+                                    "id": 143995,
+                                    "type": "e_cnvi",
+                                    "e": "你知道这个地方的名称吗？",
+                                    "p_cn": "ni zhidao zhege difang de mingcheng ma?",
+                                    "p": "nǐ zhīdào zhège dìfāng de míngchēng ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 226,
+                "search": 2659
+            },
+            "snym": {
+                "syno": [
+                    "名字,称谓,名号"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "míngchēng",
+            "cn_vi": "danh xưng",
+            "word": "名称",
+            "id": 38192,
+            "phonetic": "mingcheng",
+            "rank": 4411,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "68",
+            "zhuyin": "ㄆㄞˊㄇㄧㄥˊ",
+            "_id": "cc41e762a25c664195dad70af440aae9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xếp hạng; thứ hạng; xếp thứ",
+                            "explain": "按一定标准排列名次。\n",
+                            "examples": [
+                                {
+                                    "m": "Thành tích của anh ấy đứng đầu.",
+                                    "p_vn": "thanh tich cua anh ay dung dau.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571637eec",
+                                    "id": 128055,
+                                    "type": "e_cnvi",
+                                    "e": "他的成绩排名第一。",
+                                    "p_cn": "ta de chengji paiming di yi.",
+                                    "p": "tā de chéngjī páimíng dì yī."
+                                },
+                                {
+                                    "m": "Thứ hạng của tôi đã tăng lên rồi.",
+                                    "p_vn": "thu hang cua toi da tang len roi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571638a71",
+                                    "id": 128056,
+                                    "type": "e_cnvi",
+                                    "e": "我的排名上升了。",
+                                    "p_cn": "wo de paiming shangshengle.",
+                                    "p": "wǒ de páimíng shàngshēngle."
+                                },
+                                {
+                                    "m": "Anh ấy đứng thứ nhất trong cuộc thi.",
+                                    "p_vn": "anh ay dung thu nhat trong cuoc thi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571638f33",
+                                    "id": 128057,
+                                    "type": "e_cnvi",
+                                    "e": "他在比赛中排名第一。",
+                                    "p_cn": "ta zai bisai zhong paiming di yi.",
+                                    "p": "tā zài bǐsài zhōng páimíng dì yī."
+                                },
+                                {
+                                    "m": "Thứ hạng của tôi nằm trong top 10.",
+                                    "p_vn": "thu hang cua toi nam trong top 10.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571639d98",
+                                    "id": 128058,
+                                    "type": "e_cnvi",
+                                    "e": "我的排名在前十。",
+                                    "p_cn": "wo de paiming zai qian shi.",
+                                    "p": "wǒ de páimíng zài qián shí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 124,
+                "search": 1130
+            },
+            "snym": {
+                "syno": [
+                    "名次"
+                ]
+            },
+            "lv_hsk_new": "3",
+            "pinyin": "páimíng",
+            "cn_vi": "bài danh",
+            "word": "排名",
+            "id": 82778,
+            "phonetic": "paiming",
+            "rank": 8914,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄢˇㄇㄧㄥˊ",
+            "_id": "04da47d7f6d005620aa2a73dc8fae5e2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "điểm danh",
+                            "explain": "按名册查点人员时一个个地叫名字",
+                            "examples": [
+                                {
+                                    "m": "Có quá nhiều sinh viên năm nhất nên tôi phải mất 20 phút để điểm danh.",
+                                    "p_vn": "co qua nhieu sinh vien nam nhat nen toi phai mat 20 phut de diem danh.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b35b48be",
+                                    "id": 90179,
+                                    "type": "e_cnvi",
+                                    "e": "新生人很多，点名就用了我20分钟。",
+                                    "p_cn": "xinsheng ren henduo, dianming jiu yongle wo 20 fenzhong.",
+                                    "p": "xīnshēng rén hěnduō, diǎnmíng jiù yòngle wǒ 20 fēnzhōng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chỉ đích danh",
+                            "explain": "指名",
+                            "examples": [
+                                {
+                                    "m": "anh ấy yêu cầu phái người chi viện, chỉ đích danh anh đi.",
+                                    "p_vn": "anh ay yeu cau phai nguoi chi vien, chi dich danh anh di.",
+                                    "_id": "7a6eb26762dcb4f07cda1698d4a8793a",
+                                    "id": 8384,
+                                    "type": "e_cnvi",
+                                    "e": "他要求派人支援，点名要你去。",
+                                    "p_cn": "ta yaoqiu pai ren zhiyuan，dianming yao ni qu。",
+                                    "p": "tā yàoqíu pài rén zhīyuán，diǎnmíng yào nǐ qù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 90,
+                "search": 693
+            },
+            "snym": null,
+            "lv_hsk_new": "4",
+            "pinyin": "diǎnmíng",
+            "cn_vi": "điểm danh",
+            "word": "点名",
+            "id": 12586,
+            "phonetic": "dianming",
+            "rank": 12798,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "18d87861381d42959763ea1f4bd71efd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mại danh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "mại danh",
+            "pinyin": "mài míng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "卖名",
+            "id": 184640,
+            "phonetic": "maiming",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "11",
+            "zhuyin": "ㄇㄧㄥˊㄧㄢˊ",
+            "_id": "08408a39176040b4970b1bffdb64632d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhận xét nổi tiếng",
+                            "explain": "famous remark",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lời nói",
+                            "explain": "saying",
+                            "examples": []
+                        },
+                        {
+                            "mean": "danh ngôn",
+                            "explain": "著名的句子或短语",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 52,
+                "search": 622
+            },
+            "snym": null,
+            "lv_hsk_new": "7-9",
+            "pinyin": "míngyán",
+            "cn_vi": "danh ngôn",
+            "word": "名言",
+            "id": 101959,
+            "phonetic": "mingyan",
+            "rank": 13726,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄧㄥˊㄐㄧㄚ",
+            "_id": "122a6d966991d0698a2a84841deaf7e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "danh gia (phái triết học thời xưa của Trung Quốc)",
+                            "explain": "先秦时期以辩论名实问题为中心的一个思想派别，以惠施、公孙龙为代表名家的特点是用比较严格的推理形式来辩论问题，但有时流于诡辩它对中国古代逻辑学 的发展有一定贡献",
+                            "examples": []
+                        },
+                        {
+                            "mean": "học giả tiếng tăm",
+                            "explain": "在某种学术或技能方面有特殊贡献的著名人物",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 120
+            },
+            "snym": null,
+            "cn_vi": "danh gia",
+            "pinyin": "Míngjiā",
+            "word": "名家",
+            "id": 38204,
+            "phonetic": "Mingjia",
+            "rank": 37867,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "地名"
+}

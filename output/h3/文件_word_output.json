@@ -1,0 +1,2426 @@
+{
+    "total": 1215,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Fèn, fēn",
+                "examples": "你告诉了我以后，我才知道这份文件有多重要。\nNǐ gàosùle wǒ yǐhòu, wǒ cái zhīdào zhè fèn wénjiàn yǒu duō chóng yào.\nSau khi bạn nói với tôi, tôi đã biết tài liệu này quan trọng như thế nào.",
+                "measure": "份, 分"
+            },
+            "topic": "60, 67, 35",
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋ",
+            "_id": "a46b313a6e538df5c14b712fed348814",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "văn kiện; giấy má",
+                            "explain": "公文、信件等",
+                            "examples": [
+                                {
+                                    "m": "Zack đã tải một tệp lên trang lưu trữ ngoại tuyến này.",
+                                    "p_vn": "zack da tai mot tep len trang luu tru ngoai tuyen nay.",
+                                    "_id": "026c4c9120d94f1ebfd3c669d9ca0a93",
+                                    "id": 57949,
+                                    "type": "e_cnvi",
+                                    "e": "扎克上传了一个文件到这个离线储存网",
+                                    "p_cn": "zhake shangchuan le yige wenjian dao zhege lixian chucun wang",
+                                    "p": "zhākè shàngchuán le yīgè wénjiàn dào zhègè líxiàn chǔcún wǎng"
+                                },
+                                {
+                                    "m": "tìm kiếm tài liệu",
+                                    "p_vn": "tim kiem tai lieu",
+                                    "_id": "0dc88e430f12849ae509000dd3231af4",
+                                    "id": 4011,
+                                    "type": "e_cnvi",
+                                    "e": "查找文件。",
+                                    "p_cn": "chazhaowenjian。",
+                                    "p": "cházhǎowénjiàn。"
+                                },
+                                {
+                                    "m": "mấy văn kiện này cứ in là phát.",
+                                    "p_vn": "may van kien nay cu in la phat.",
+                                    "_id": "0e0c11f942b36c60bcff25177dea4b14",
+                                    "id": 37283,
+                                    "type": "e_cnvi",
+                                    "e": "这几个文件随印随发。",
+                                    "p_cn": "zhe jige wenjian suiyin suifa。",
+                                    "p": "zhè jīgè wénjiàn súiyìn súifā。"
+                                },
+                                {
+                                    "m": "Văn kiện này rất quan trọng.",
+                                    "p_vn": "van kien nay rat quan trong.",
+                                    "_id": "0fb805d31f164710c2567f08679b54ac",
+                                    "id": 51051,
+                                    "type": "e_cnvi",
+                                    "e": "这文件很重要。",
+                                    "p_cn": "zhe wenjian hen zhongyao。",
+                                    "p": "zhè wénjiàn hěn zhòngyào。"
+                                },
+                                {
+                                    "m": "Họ không muốn giao các tập tin.",
+                                    "p_vn": "ho khong muon giao cac tap tin.",
+                                    "_id": "14741b37c7034d7a86e689e5bbe623e4",
+                                    "id": 58206,
+                                    "type": "e_cnvi",
+                                    "e": "他们不想交出文件",
+                                    "p_cn": "tamen buxiang jiaochu wenjian",
+                                    "p": "tāmen bùxiǎng jiāochū wénjiàn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tài liệu (chỉ những bài văn có liên quan đến lý luận chính trị, chính sách thời sự, nghiên cứu học thuật)",
+                            "explain": "指有关政治理论、时事政策、学术研究等方面的文章",
+                            "examples": []
+                        },
+                        {
+                            "mean": "công văn",
+                            "explain": "公事文书",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"文献\" có thể bao gồm cả \"文件\"(tài liệu), nhưng \"文件\" không thể gọi là không thể gọi là \"文献\", \"文献\" nhất định phải có giá trị lịch sử.",
+                    "title": "Phân biệt \"文件\" và \"文献\"",
+                    "words": [
+                        "文件",
+                        "文献"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "文献"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "wénjiàn",
+            "cn_vi": "văn kiện",
+            "popularity": {
+                "notebook": 359,
+                "search": 4981
+            },
+            "word": "文件",
+            "id": 53345,
+            "phonetic": "wenjian",
+            "rank": 2422,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄅㄣˇㄨㄣˊㄐㄧㄢˋ",
+            "topic": "35, 60",
+            "_id": "3c03b7ab2005b8e570f365bd929365eb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Văn bản Word",
+                            "explain": "文本文件是一种计算机文件，它是一种典型的顺序文件，其文件的逻辑结构又属于流式文件。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "văn bổn văn kiện",
+            "pinyin": "wénběn wénjiàn",
+            "word": "文本文件",
+            "id": 79187,
+            "phonetic": "wenbenwenjian",
+            "rank": 82313,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄍㄨㄟˋ",
+            "_id": "648cde40a18e7ddf1bdfcd523d7e385c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tủ đựng giấy tờ",
+                            "explain": "文件柜是放置文件、资料等的柜子。一般使用在办公室、档案室、资料室、存储室或个人书房等。",
+                            "examples": [
+                                {
+                                    "m": "Hóa đơn trong tủ tập tin đó đã được sắp xếp theo thứ tự ngày tháng.",
+                                    "p_vn": "Hoa don trong tu tap tin do da duoc sap xep theo thu tu ngay thang.",
+                                    "_id": "69bee69ff00140468b019dfda6279451",
+                                    "id": 71232,
+                                    "type": "e_cnvi",
+                                    "e": "那个文件柜中的发票是按日期顺序整理好的。",
+                                    "p_cn": "nage wenjian gui zhongdi fapiao shi an riqi shunxu zhengli hao de",
+                                    "p": "nàge wénjiàn guì zhòngdì fāpiào shì àn rìqī shùnxù zhěnglǐ hǎo de"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 85
+            },
+            "snym": null,
+            "cn_vi": "văn kiện cử",
+            "pinyin": "wénjiàn guì",
+            "word": "文件柜",
+            "id": 71197,
+            "phonetic": "wenjiangui",
+            "rank": 45172,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "我丢了我的一个文件夹。\nWǒ diūle wǒ de yīgè wénjiàn jiā.\nTôi bị mất một trong các thư mục của mình.",
+                "measure": "个"
+            },
+            "topic": "60, 14",
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄐㄧㄚ",
+            "_id": "410a67ac43993e7b28f29065db1b82af",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thư mục",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Thư mục (folder)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 85,
+                "search": 790
+            },
+            "snym": null,
+            "cn_vi": "văn kiện giáp",
+            "pinyin": "wénjiàn jiā",
+            "word": "文件夹",
+            "id": 71196,
+            "phonetic": "wenjianjia",
+            "rank": 11663,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄉㄞˋ",
+            "_id": "7efd497698812c3f6d056626738cca5b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bìa hồ sơ",
+                            "explain": "文件袋是指用于对自己的私人物品或身份文件保管等、资料袋、白卷宗。款式分为扣式和文件套式。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 148
+            },
+            "snym": null,
+            "cn_vi": "văn kiện đại",
+            "pinyin": "wénjiàn dài",
+            "word": "文件袋",
+            "id": 71198,
+            "phonetic": "wenjiandai",
+            "rank": 33701,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "nlocal",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄗㄨˇ",
+            "_id": "9d28d3dfa6700e627fb17684dd79ee36",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Tổ chứng từ-XNK",
+                            "explain": "SQL文件组就是文件的逻辑集合。它的目的是为了方便数据的管理和分配。文件组可以把指定的文件组合在一起。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "văn kiện tổ",
+            "pinyin": "wénjiàn zǔ",
+            "word": "文件组",
+            "id": 77858,
+            "phonetic": "wenjianzu",
+            "rank": 81063,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "6d010b721aed4a19a27d178c6fa04cde",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giấy gói (văn phòng phẩm) giấy bọc (văn phòng phẩm)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "văn kiện sáo",
+            "pinyin": "wénjiàn tào",
+            "word": "文件套",
+            "id": 164295,
+            "phonetic": "wenjiantao",
+            "rank": 119142,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄠㄨㄣˊㄐㄧㄢˋ",
+            "_id": "6da373627a284e45954c618c4c0430d4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "siêu văn bản",
+                            "explain": "hypertext",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "siêu văn kiện",
+            "pinyin": "chāo wénjiàn",
+            "word": "超文件",
+            "id": 126121,
+            "phonetic": "chaowenjian",
+            "rank": 135615,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄥˊㄊㄡˊㄨㄣˊㄐㄧㄢˋ",
+            "_id": "207510f75abf65367f1de6e01de4cda9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "văn kiện của Đảng",
+                            "explain": "指党政领导机关 (多指中央一级) 下发的文件，因版头文件名称多印成红色，古称红头文件",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "hồng đầu văn kiện",
+            "pinyin": "hóngtóu wénjiàn",
+            "word": "红头文件",
+            "id": 23634,
+            "phonetic": "hongtouwenjian",
+            "rank": 99824,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄉㄤˋㄢˋㄨㄣˊㄐㄧㄢˋ",
+            "_id": "29edfe5b35b74fa48a9dfb8ba67b4951",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Java",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "đương án văn kiện",
+            "pinyin": "Dǎng'àn wénjiàn",
+            "word": "档案文件",
+            "id": 157888,
+            "phonetic": "Dang'anwenjian",
+            "rank": 110858,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄩˇㄧㄣㄨㄣˊㄐㄧㄢˋ",
+            "_id": "7b39392f342940ac82ed1e836bc37d81",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "File âm thanh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "ngữ âm văn kiện",
+            "pinyin": "Yǔyīn wénjiàn",
+            "word": "语音文件",
+            "id": 154898,
+            "phonetic": "Yuyinwenjian",
+            "rank": 131705,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "28e30c5e55ca4839aab9a9241ac18cc7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "file chứa danh sách các sự kiện đã được máy tính \"ghi nhật ký\"",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "nhật chí văn kiện",
+            "pinyin": "rìzhì wénjiàn",
+            "word": "日志文件",
+            "id": 160689,
+            "phonetic": "rizhiwenjian",
+            "rank": 123869,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄔㄨㄢˊㄅㄛˊㄨㄣˊㄐㄧㄢˋ",
+            "_id": "9b8a0207e1c349dc93be7dc8e0d8d8f7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Văn kiện tàu thuyền",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "thuyền bạc văn kiện",
+            "pinyin": "Chuánbó wénjiàn",
+            "word": "船舶文件",
+            "id": 156572,
+            "phonetic": "Chuanbowenjian",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e628aff2f30e494e9e29ca76f7343b5a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Kẹp tài liệu (đồ dùng văn phòng)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "văn kiện thác giá",
+            "pinyin": "wénjiàn tuō jià",
+            "word": "文件托架",
+            "id": 164132,
+            "phonetic": "wenjiantuojia",
+            "rank": 92051,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄥˋㄒㄧㄤˋㄨㄣˊㄐㄧㄢˋ",
+            "_id": "b0f0f3ade4a24d849b8ca6e34f3bf992",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(máy tính) hình ảnh đĩa (còn gọi là tệp hình ảnh)",
+                            "explain": "(computing) disk image (aka image file)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Hình ảnh ISO",
+                            "explain": "ISO image",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "ánh tượng văn kiện",
+            "pinyin": "yìng xiàng wénjiàn",
+            "word": "映象文件",
+            "id": 141394,
+            "phonetic": "yingxiangwenjian",
+            "rank": 157817,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄌㄟˋㄒㄧㄥˊ",
+            "_id": "093e9d5ff3b34f019f1f65771badb4df",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Loại file",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "văn kiện loại hình",
+            "pinyin": "Wénjiàn lèixíng",
+            "word": "文件类型",
+            "id": 154891,
+            "phonetic": "Wenjianleixing",
+            "rank": 113602,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄍㄜˊㄕˋ",
+            "_id": "1a19965448c8485e87669c286ea09fa8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "định dạng tệp",
+                            "explain": "file format",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "văn kiện các thức",
+            "pinyin": "wénjiàn géshì",
+            "word": "文件格式",
+            "id": 134713,
+            "phonetic": "wenjiangeshi",
+            "rank": 87999,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄚㄐㄧㄨㄣˊㄐㄧㄢˋ",
+            "topic": "35, 60",
+            "_id": "4b3fe8b4faa799275b923f47e1064312",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "File rác",
+                            "explain": "垃圾文件，指系统工作时所过滤加载出的剩余数据文件，虽然每个垃圾文件所占系统资源并不多，但是有一定时间没有清理时，垃圾文件会越来愈多。因为垃圾文件是用户每次鼠标点击每次按动键盘都会产生的，虽然少量垃圾文件对电脑伤害较小，但建议用户定期清理一次，避免累积，过多的垃圾文件会影响系统的运行速度。除了手动人工清除垃圾文件，还有就是通过软件进行简单清理。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "lạp sắc văn kiện",
+            "pinyin": "lèsè wénjiàn",
+            "word": "垃圾文件",
+            "id": 79158,
+            "phonetic": "lesewenjian",
+            "rank": 84630,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3291bc60a6044842b141b42ab82aaa88",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tài liệu liên quan",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Kể từ sau Đại hội đại biểu toàn quốc lần thứ 18 của Đảng Cộng sản Trung Quốc, các khu vực và bộ phận khác nhau đã thực hiện tinh thần chỉ thị quan trọng của Tập Cận Bình, thông qua các biện pháp như ban hành các văn bản liên quan và thực hiện \"Chiến dịch sạch đĩa\" để chấn chỉnh mạnh mẽ xu hướng lãng phí, và Hiện tượng “lãng phí thức ăn” đã được cải thiện, nhất là Tình trạng lãng phí dịch vụ ăn uống công cộng được quần chúng nhân dân phản ánh gay gắt đã được kiềm chế có hiệu quả.",
+                                    "p_vn": "Ke tu sau Dai hoi dai bieu toan quoc lan thu 18 cua Dang Cong san Trung Quoc, cac khu vuc va bo phan khac nhau da thuc hien tinh than chi thi quan trong cua Tap Can Binh, thong qua cac bien phap nhu ban hanh cac van ban lien quan va thuc hien \"Chien dich sach dia\" de chan chinh manh me xu huong lang phi, va Hien tuong \"lang phi thuc an\" da duoc cai thien, nhat la Tinh trang lang phi dich vu an uong cong cong duoc quan chung nhan dan phan anh gay gat da duoc kiem che co hieu qua.",
+                                    "_id": "c7e0a2591de242f3832014922f039675",
+                                    "id": 68828,
+                                    "type": "e_cnvi",
+                                    "e": "党的十八大以来，各地区各部门贯彻落实习近平重要指示精神，采取出台相关文件、开展“光盘行动”等措施，大力整治浪费之风，“舌尖上的浪费”现象有所改观，特别是群众反映强烈的公款餐饮浪费行为得到有效遏制。",
+                                    "p_cn": "Dang de shiba da yilai, ge diqu ge bumen guanche luoshi xijinping zhongyao zhishi jingshen, caiqu chutai xiangguan wenjian, kaizhan \"guangpan xingdong\" deng cuoshi, dali zhengzhi langfei zhi feng,\"shejian shang de langfei\" xianxiang you suo gaiguan, tebie shi qunzhong fanying qianglie de gongkuan canyin langfei xingwei dedao youxiao ezhi.",
+                                    "p": "Dǎng de shíbā dà yǐlái, gè dìqū gè bùmén guànchè luòshí xíjìnpíng zhòngyào zhǐshì jīngshén, cǎiqǔ chūtái xiāngguān wénjiàn, kāizhǎn “guāngpán xíngdòng” děng cuòshī, dàlì zhěngzhì làngfèi zhī fēng,“shéjiān shàng de làngfèi” xiànxiàng yǒu suǒ gǎiguān, tèbié shì qúnzhòng fǎnyìng qiángliè de gōngkuǎn cānyǐn làngfèi xíngwéi dédào yǒuxiào èzhì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tướng quan văn kiện",
+            "pinyin": "xiāngguān wénjiàn",
+            "popularity": {
+                "notebook": 3,
+                "search": 9
+            },
+            "word": "相关文件",
+            "id": 186139,
+            "phonetic": "xiangguanwenjian",
+            "rank": 107505,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄉㄚˋㄒㄧㄠˇ",
+            "_id": "13bec8d0f34e4d96af2611b921103026",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Kích thước tập tin",
+                            "explain": "file size",
+                            "examples": [
+                                {
+                                    "m": "Điều này rất quan trọng đối với ảnh chụp màn hình để giữ cho kích thước tệp nhỏ.",
+                                    "p_vn": "Dieu nay rat quan trong doi voi anh chup man hinh de giu cho kich thuoc tep nho.",
+                                    "_id": "b414899e6da24e6c891a15b8ef218744",
+                                    "id": 56069,
+                                    "type": "e_cnvi",
+                                    "e": "这对于截图保持文件大小比较小十分重要.",
+                                    "p_cn": "Zhe duiyu jietu baochi wenjian daxiao bijiao xiao shi fen zhongyao.",
+                                    "p": "Zhè duìyú jiétú bǎochí wénjiàn dàxiǎo bǐjiào xiǎo shí fèn zhòngyào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "văn kiện đại tiểu",
+            "pinyin": "wénjiàn dàxiǎo",
+            "word": "文件大小",
+            "id": 137237,
+            "phonetic": "wenjiandaxiao",
+            "rank": 147648,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄩㄝˊㄇㄧˋㄨㄣˊㄐㄧㄢˋ",
+            "_id": "5f96be8468bb4c548e9ed62fe3f29d3c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giấy tờ phân loại",
+                            "explain": "classified papers",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tài liệu tuyệt mật",
+                            "explain": "top secret document",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tuyệt mật văn kiện",
+            "pinyin": "juémì wénjiàn",
+            "word": "绝密文件",
+            "id": 135491,
+            "phonetic": "juemiwenjian",
+            "rank": 137529,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄘㄠˇㄑㄧㄢㄨㄣˊㄐㄧㄢˋ",
+            "_id": "65263f468e1c4e559e14a3992c98a60f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Văn kiện ký tắt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "thảo thiêm văn kiện",
+            "pinyin": "Cǎoqiān wénjiàn",
+            "word": "草签文件",
+            "id": 156490,
+            "phonetic": "Caoqianwenjian",
+            "rank": 156133,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄇㄧˋㄨㄣˊㄐㄧㄢˋ",
+            "_id": "71b6349d3c354f98aab9999e19bfbadd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tài liệu bí mật",
+                            "explain": "secret document",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "cơ mật văn kiện",
+            "pinyin": "jīmì wénjiàn",
+            "word": "机密文件",
+            "id": 132402,
+            "phonetic": "jimiwenjian",
+            "rank": 103562,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "804e77f0e13b4f908ae4e5f2f8e6abcc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giấy giao kèo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hiệp nghị văn kiện",
+            "pinyin": "xiéyì wénjiàn",
+            "popularity": {
+                "notebook": 1,
+                "search": 0
+            },
+            "word": "协议文件",
+            "id": 182080,
+            "phonetic": "xieyiwenjian",
+            "rank": 158671,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄣㄆㄧㄣˊㄨㄣˊㄐㄧㄢˋ",
+            "_id": "09e3097a3a854b14b8d9b577dd531376",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tệp âm thanh (máy tính)",
+                            "explain": "audio file (computer)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "âm tần văn kiện",
+            "pinyin": "yīnpín wénjiàn",
+            "word": "音频文件",
+            "id": 138450,
+            "phonetic": "yinpinwenjian",
+            "rank": 75094,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˋㄆㄧㄣˊㄨㄣˊㄐㄧㄢˋ",
+            "_id": "89ce3437067f4fc2a9628df4eac18e9f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "File video",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "thị tần văn kiện",
+            "pinyin": "Shìpín wénjiàn",
+            "word": "视频文件",
+            "id": 154901,
+            "phonetic": "Shipinwenjian",
+            "rank": 112810,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄏㄨㄛˋㄨㄣˊㄐㄧㄢˋ",
+            "_id": "be32a6b40c9a59437f9c21e8c424576a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Chứng từ gửi hàng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "xuất hoá văn kiện",
+            "pinyin": "chū huò wénjiàn",
+            "word": "出货文件",
+            "id": 76901,
+            "phonetic": "chuhuowenjian",
+            "rank": 110192,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄥˋㄇㄧㄥˊㄨㄣˊㄐㄧㄢˋ",
+            "_id": "ee1a3fb88fa64d4e9564c83cdd830898",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tài liệu chứng minh",
+                            "explain": "documentary proof",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tài liệu nhận dạng",
+                            "explain": "identification document",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 35
+            },
+            "snym": null,
+            "cn_vi": "chứng minh văn kiện",
+            "pinyin": "zhèngmíng wénjiàn",
+            "word": "证明文件",
+            "id": 141530,
+            "phonetic": "zhengmingwenjian",
+            "rank": 67491,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "31866ce4b0b04e3182c55dfac21ca35c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tài liệu được giới hạn người đọc; tài liệu được kiểm soát; tài liệu lưu hành nội bộ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 74
+            },
+            "snym": null,
+            "cn_vi": "thụ khống văn kiện",
+            "pinyin": "shòu kòng wénjiàn",
+            "word": "受控文件",
+            "id": 160800,
+            "phonetic": "shoukongwenjian",
+            "rank": 48501,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄧㄢˋㄗ˙ㄨㄣˊㄐㄧㄢˋ",
+            "_id": "0c8904b8a3714444a98d58d1ea8c58f9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tài liệu điện tử",
+                            "explain": "electronic document",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "điện tử văn kiện",
+            "pinyin": "diànzǐ wénjiàn",
+            "word": "电子文件",
+            "id": 137703,
+            "phonetic": "dianziwenjian",
+            "rank": 100170,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄈㄨˊㄨ˙ㄑㄧˋ",
+            "_id": "678b0f1e39194211975517962697cad3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "máy chủ tập tin",
+                            "explain": "file server",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "văn kiện phục vụ khí",
+            "pinyin": "wénjiàn fúwùqì",
+            "word": "文件服务器",
+            "id": 142498,
+            "phonetic": "wenjianfuwuqi",
+            "rank": 125898,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "measure",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˋ",
+            "_id": "cea39f0fdf1eb7691e7dfab04947b88b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "chiếc; kiện; cái; bộ ",
+                            "explain": "量词，用于个体事物",
+                            "examples": [
+                                {
+                                    "m": "Để tôi nói cho bạn chuyện này.",
+                                    "p_vn": "de toi noi cho ban chuyen nay.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3bcc6d7",
+                                    "id": 91085,
+                                    "type": "e_cnvi",
+                                    "e": "我告诉你一件事。",
+                                    "p_cn": "wo gaosu ni yi jian shi.",
+                                    "p": "wǒ gàosù nǐ yī jiàn shì."
+                                },
+                                {
+                                    "m": "Hai chiếc áo sơ mi tổng cộng hết 80 tệ.",
+                                    "p_vn": "hai chiec ao so mi tong cong het 80 te.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3bcd600",
+                                    "id": 91086,
+                                    "type": "e_cnvi",
+                                    "e": "两件衬衫一共花了80元。",
+                                    "p_cn": "liang jian chenshan yigong huale 80 yuan.",
+                                    "p": "liǎng jiàn chènshān yīgòng huāle 80 yuán."
+                                },
+                                {
+                                    "m": "Tôi đã mua một bộ quần áo đẹp.",
+                                    "p_vn": "toi da mua mot bo quan ao dep.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce29545",
+                                    "id": 136782,
+                                    "type": "e_cnvi",
+                                    "e": "我买了一件漂亮的衣服。",
+                                    "p_cn": "wo maile yi jian piaoliang de yifu.",
+                                    "p": "wǒ mǎile yī jiàn piàoliang de yīfu."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cái; phần; kiện (những thứ có thể tính được từng cái)",
+                            "explain": "(件儿) 指可以一一计算的事物",
+                            "examples": [
+                                {
+                                    "m": "Tôi cần vài linh kiện của máy móc.",
+                                    "p_vn": "toi can vai linh kien cua may moc.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce28d54",
+                                    "id": 136780,
+                                    "type": "e_cnvi",
+                                    "e": "我需要几个机器的零件儿。",
+                                    "p_cn": "wo xuyao ji ge jiqi de lingjianr.",
+                                    "p": "wǒ xūyào jǐ gè jīqì de língjiànr."
+                                },
+                                {
+                                    "m": "Vụ án này đã được giải quyết.",
+                                    "p_vn": "vu an nay da duoc giai quyet.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5ce2942e",
+                                    "id": 136781,
+                                    "type": "e_cnvi",
+                                    "e": "这个案件已经解决了。",
+                                    "p_cn": "zhege anjian yijing jiejuele.",
+                                    "p": "zhège ànjiàn yǐjīng jiějuéle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "văn kiện; công văn",
+                            "explain": "文件",
+                            "examples": [
+                                {
+                                    "m": "Tôi vừa nhận được một tài liệu quan trọng.",
+                                    "p_vn": "toi vua nhan duoc mot tai lieu quan trong.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3be1661",
+                                    "id": 91095,
+                                    "type": "e_cnvi",
+                                    "e": "刚刚收到了一件重要文件。",
+                                    "p_cn": "ganggang shou daole yi jian zhongyao wenjian.",
+                                    "p": "gānggāng shōu dàole yī jiàn zhòngyào wénjiàn."
+                                },
+                                {
+                                    "m": "Làm ơn ký giúp tôi tài liệu này.",
+                                    "p_vn": "lam on ky giup toi tai lieu nay.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5cfc687d",
+                                    "id": 137114,
+                                    "type": "e_cnvi",
+                                    "e": "请你帮我签一下这份文件。",
+                                    "p_cn": "qing ni bang wo qian yixia zhe fen wenjian.",
+                                    "p": "qǐng nǐ bāng wǒ qiān yīxià zhè fèn wénjiàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Kiện",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Ông chủ đó họ Kiện.",
+                                    "p_vn": "ong chu do ho kien.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3bd0b18",
+                                    "id": 91092,
+                                    "type": "e_cnvi",
+                                    "e": "那位老板姓件。",
+                                    "p_cn": "na wei laoban xing jian.",
+                                    "p": "nà wèi lǎobǎn xìng jiàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 851,
+                "search": 19049
+            },
+            "snym": null,
+            "lv_hsk_new": "2",
+            "pinyin": "jiàn",
+            "cn_vi": "kiện",
+            "word": "件",
+            "id": 28347,
+            "phonetic": "jian",
+            "rank": 319,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄍㄨㄟㄉㄤˋㄎㄜˇ",
+            "_id": "614a3fe9fc7c4d65a03356bd3efc924f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phòng văn thư lưu trữ (Máy móc trong xây dựng)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "văn kiện quy đương khả",
+            "pinyin": "wénjiàn guīdǎng kě",
+            "word": "文件归档可",
+            "id": 148100,
+            "phonetic": "wenjianguidangke",
+            "rank": 112787,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c04c78e49ae34f9c9e86311caf8353e9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tạo thư mục mới",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "tân kiến văn kiện giáp",
+            "pinyin": "xīnjiàn wénjiàn jiā",
+            "word": "新建文件夹",
+            "id": 167570,
+            "phonetic": "xinjianwenjianjia",
+            "rank": 86608,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄚˇㄎㄞㄨㄣˊㄐㄧㄢˋㄕㄅㄞˋ",
+            "_id": "efa8b29489554b9085d7302d3103083c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Mở file thất bại",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "đả khai văn kiện thất bại",
+            "pinyin": "Dǎkāi wénjiàn shībài",
+            "word": "打开文件失败",
+            "id": 155452,
+            "phonetic": "Dakaiwenjianshibai",
+            "rank": 100141,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄒㄧˋㄊㄨㄥˇㄅㄢˇㄅㄣˇ",
+            "_id": "f360bf1219cf4cf68eaab1b54b9ca3ef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Phiên bản hệ thống file",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "văn kiện hệ thống bản bổn",
+            "pinyin": "Wénjiàn xìtǒng bǎnběn",
+            "word": "文件系统版本",
+            "id": 155583,
+            "phonetic": "Wenjianxitongbanben",
+            "rank": 156078,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄉㄨˊㄒㄧㄝˇㄘㄨㄛˋㄨˋ",
+            "_id": "9a06e84e57b34a9a8a35677c52627e0a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Đọc và ghi file lỗi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "văn kiện độc tả thác ngộ",
+            "pinyin": "Wénjiàn dú xiě cuòwù!",
+            "word": "文件读写错误！",
+            "id": 155443,
+            "phonetic": "Wenjianduxiecuowu!",
+            "rank": 156495,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "76c766f6485b4bf4a0b220e6c467a962",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giá đỡ cho tủ đựng hồ sơ Ngăn chứa cho tủ đựng hồ sơ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "văn kiện cử dụng các bản",
+            "pinyin": "wénjiàn guì yòng gē bǎn",
+            "word": "文件柜用搁板",
+            "id": 164864,
+            "phonetic": "wenjianguiyonggeban",
+            "rank": 129972,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4a401006503f4fc6b119026f16ee8a03",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Truyền tập tin số",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "số tự văn kiện truyền tống",
+            "pinyin": "shùzì wénjiàn chuánsòng",
+            "word": "数字文件传送",
+            "id": 166393,
+            "phonetic": "shuziwenjianchuansong",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄐㄧㄢˋㄉㄨˊㄒㄧㄝˇㄘㄨㄛˋㄨˋ",
+            "_id": "dde8785aeb4c4756b7c7bd7e03489a1e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Đọc và ghi file lỗi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "văn kiện độc tả thác ngộ",
+            "pinyin": "Wénjiàn dú xiě cuòwù",
+            "word": "文件读写错误",
+            "id": 155442,
+            "phonetic": "Wenjianduxiecuowu",
+            "rank": 136517,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄢㄅㄢㄐㄧㄢˋㄐㄧㄢˋ",
+            "_id": "934efd8db34981d11a90782beb2bc774",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "đủ loại; khác nhau; đa hình đa dạng",
+                            "explain": "各式各样",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "ban ban kiện kiện",
+            "pinyin": "bān bān jiàn jiàn",
+            "word": "般般件件",
+            "id": 1331,
+            "phonetic": "banbanjianjian",
+            "rank": 69661,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄅㄟˋㄨㄣˊㄐㄧㄢˋㄕㄅㄞˋ",
+            "_id": "3baab929b7f14831bf0d240dd790bed6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Copy file thất bại",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "khảo bối văn kiện thất bại",
+            "pinyin": "Kǎobèi wénjiàn shībài",
+            "word": "拷贝文件失败",
+            "id": 155441,
+            "phonetic": "Kaobeiwenjianshibai",
+            "rank": 147755,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄤㄓㄨㄤㄐㄧㄢˋㄐㄧㄢˋ",
+            "_id": "017fa218e81d4b6d901d9c7a86e84d23",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Những chuyện trong quá khứ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "trang trang kiện kiện",
+            "pinyin": "zhuāng zhuāng jiàn jiàn",
+            "word": "桩桩件件",
+            "id": 152786,
+            "phonetic": "zhuangzhuangjianjian",
+            "rank": 62524,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄣˊ",
+            "lv_tocfl": 1,
+            "_id": "5e6b70b06a387b185ff87886d1b95bf1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chữ; văn tự; ngôn ngữ; tiếng",
+                            "explain": "文字",
+                            "examples": [
+                                {
+                                    "m": "văn chung đỉnh",
+                                    "p_vn": "van chung dinh",
+                                    "_id": "2359ee5335677ee61ab02a7562be2c41",
+                                    "id": 40753,
+                                    "type": "e_cnvi",
+                                    "e": "钟鼎文",
+                                    "p_cn": "zhongdingwen",
+                                    "p": "zhōngdǐngwén"
+                                },
+                                {
+                                    "m": "Anh ấy đọc báo tiếng Anh mỗi ngày.",
+                                    "p_vn": "anh ay doc bao tieng anh moi ngay.",
+                                    "_id": "55db399305625a14707d64b918debe76",
+                                    "id": 102601,
+                                    "type": "e_cnvi",
+                                    "e": "他每天都看英文报纸。",
+                                    "p_cn": "ta meitian dou kan yingwen baozhi.",
+                                    "p": "tā měitiān dōu kàn yīngwén bàozhǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "văn; bài văn",
+                            "explain": "文章",
+                            "examples": [
+                                {
+                                    "m": "văn ứng dụng.",
+                                    "p_vn": "van ung dung.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab503f90",
+                                    "id": 89433,
+                                    "type": "e_cnvi",
+                                    "e": "应用文。",
+                                    "p_cn": "yingyongwen.",
+                                    "p": "yìngyòngwén."
+                                },
+                                {
+                                    "m": "Anh ấy thích đọc những bài văn xuôi hay.",
+                                    "p_vn": "anh ay thich doc nhung bai van xuoi hay.",
+                                    "_id": "55db399305625a14707d64b918db37f2",
+                                    "id": 102491,
+                                    "type": "e_cnvi",
+                                    "e": "他爱读优美散文。",
+                                    "p_cn": "ta ai du youmei sanwen.",
+                                    "p": "tā ài dú yōuměi sǎnwén."
+                                },
+                                {
+                                    "m": "Một đoạn văn ngắn",
+                                    "p_vn": "mot doan van ngan",
+                                    "_id": "55db399305625a14707d64b918e74ff4",
+                                    "id": 102782,
+                                    "type": "e_cnvi",
+                                    "e": "一段短文",
+                                    "p_cn": "yiduan duanwen",
+                                    "p": "yīduàn duǎnwén"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "văn ngôn",
+                            "explain": "古典汉语",
+                            "examples": [
+                                {
+                                    "m": "nửa văn ngôn nửa văn nói",
+                                    "p_vn": "nua van ngon nua van noi",
+                                    "_id": "e18c0eb43a7b193a5f183876fdf5d0b1",
+                                    "id": 518,
+                                    "type": "e_cnvi",
+                                    "e": "半文半白",
+                                    "p_cn": "banwenbanbai",
+                                    "p": "bànwénbànbái"
+                                },
+                                {
+                                    "m": "Học văn ngôn rất cần thiết.",
+                                    "p_vn": "hoc van ngon rat can thiet.",
+                                    "_id": "55db399305625a14707d64b918de4f72",
+                                    "id": 102584,
+                                    "type": "e_cnvi",
+                                    "e": "学习文言很有必要。",
+                                    "p_cn": "xuexi wenyan hen you biyao.",
+                                    "p": "xuéxí wényán hěn yǒu bìyào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "văn hoá (hiện tượng xã hội đạt đến trình độ phát triển cao)",
+                            "explain": "文明",
+                            "examples": [
+                                {
+                                    "m": "Thế giới văn học rất tuyệt vời.",
+                                    "p_vn": "the gioi van hoc rat tuyet voi.",
+                                    "_id": "55db399305625a14707d64b918dd538a",
+                                    "id": 102552,
+                                    "type": "e_cnvi",
+                                    "e": "文学世界很精彩。",
+                                    "p_cn": "wenxue shijie hen jingcai.",
+                                    "p": "wénxué shìjiè hěn jīngcǎi."
+                                },
+                                {
+                                    "m": "Ở đây có rất nhiều văn vật.",
+                                    "p_vn": "o day co rat nhieu van vat.",
+                                    "_id": "55db399305625a14707d64b918ddcddc",
+                                    "id": 102566,
+                                    "type": "e_cnvi",
+                                    "e": "这里有很多文物。",
+                                    "p_cn": "zhe li you henduo wenwu.",
+                                    "p": "zhè lǐ yǒu hěnduō wénwù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nghi thức; lễ tiết",
+                            "explain": "指古代的礼乐仪制",
+                            "examples": [
+                                {
+                                    "m": "Hư văn quá chẳng có ý nghĩa gì.",
+                                    "p_vn": "hu van qua chang co y nghia gi.",
+                                    "_id": "55db399305625a14707d64b918dcc50d",
+                                    "id": 102532,
+                                    "type": "e_cnvi",
+                                    "e": "虚文太多没意义。",
+                                    "p_cn": "xuwen tai duo mei yiyi.",
+                                    "p": "xūwén tài duō méi yìyì."
+                                },
+                                {
+                                    "m": "Nghi thức rườm rà",
+                                    "p_vn": "nghi thuc ruom ra",
+                                    "_id": "55db399305625a14707d64b918dd03f8",
+                                    "id": 102540,
+                                    "type": "e_cnvi",
+                                    "e": "繁文缛节",
+                                    "p_cn": "fanwenrujie",
+                                    "p": "fánwénrùjié"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "văn (trái với võ)",
+                            "explain": "非军事的",
+                            "examples": [
+                                {
+                                    "m": "văn võ song toàn",
+                                    "p_vn": "van vo song toan",
+                                    "_id": "2189c731f906adf67320ed7e504c85dc",
+                                    "id": 40763,
+                                    "type": "e_cnvi",
+                                    "e": "文武双全",
+                                    "p_cn": "wenwushuangquan",
+                                    "p": "wénwǔshuāngquán"
+                                },
+                                {
+                                    "m": "Thời cổ đại có rất nhiều văn nhân trí thức nổi tiếng.",
+                                    "p_vn": "thoi co dai co rat nhieu van nhan tri thuc noi tieng.",
+                                    "_id": "55db399305625a14707d64b918dc1b74",
+                                    "id": 102511,
+                                    "type": "e_cnvi",
+                                    "e": "古代有很多著名文人。",
+                                    "p_cn": "gudai you henduo zhuming wenren.",
+                                    "p": "gǔdài yǒu hěnduō zhùmíng wénrén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "văn (một số hiện tượng nào đó của tự nhiên)",
+                            "explain": "自然现象",
+                            "examples": [
+                                {
+                                    "m": "Hiện tượng thiên văn rất kỳ diệu.",
+                                    "p_vn": "hien tuong thien van rat ky dieu.",
+                                    "_id": "55db399305625a14707d64b918dbc4cb",
+                                    "id": 102502,
+                                    "type": "e_cnvi",
+                                    "e": "天文现象很奇妙。",
+                                    "p_cn": "tianwen xianxiang hen qimiao.",
+                                    "p": "tiānwén xiànxiàng hěn qímiào."
+                                },
+                                {
+                                    "m": "Tình hình thủy văn ở đây rất phức tạp.",
+                                    "p_vn": "tinh hinh thuy van o day rat phuc tap.",
+                                    "_id": "55db399305625a14707d64b918dbe080",
+                                    "id": 102504,
+                                    "type": "e_cnvi",
+                                    "e": "这里水文情况复杂。",
+                                    "p_cn": "zheli shuiwen qingkuang fuza.",
+                                    "p": "zhèlǐ shuǐwén qíngkuàng fùzá."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Văn",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Họ Văn cũng không phải là hiếm.",
+                                    "p_vn": "ho van cung khong phai la hiem.",
+                                    "_id": "55db399305625a14707d64b918dfabf0",
+                                    "id": 102625,
+                                    "type": "e_cnvi",
+                                    "e": "文姓也不算少见。",
+                                    "p_cn": "wen xing ye bu suan shaojian.",
+                                    "p": "wén xìng yě bù suàn shǎojiàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "văn học; nghệ thuật tự do",
+                            "explain": "文科",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy có khả năng học tập mạnh, có thể học nghệ thuật và khoa học.",
+                                    "p_vn": "anh ay co kha nang hoc tap manh, co the hoc nghe thuat va khoa hoc.",
+                                    "_id": "55db399305625a14707d64b918df585c",
+                                    "id": 102617,
+                                    "type": "e_cnvi",
+                                    "e": "他的学习能力很强，可以文理。",
+                                    "p_cn": "ta de xuexi nengli hen qiang, keyi wenli.",
+                                    "p": "tā de xuéxí nénglì hěn qiáng, kěyǐ wénlǐ."
+                                },
+                                {
+                                    "m": "Ông ấy có hai người con, một người học nghệ thuật một người học khoa học.",
+                                    "p_vn": "ong ay co hai nguoi con, mot nguoi hoc nghe thuat mot nguoi hoc khoa hoc.",
+                                    "_id": "55db399305625a14707d64b918df7d7f",
+                                    "id": 102620,
+                                    "type": "e_cnvi",
+                                    "e": "他具两儿子，一学文一学理。",
+                                    "p_cn": "ta ju liang erzi, yi xue wen yi xueli.",
+                                    "p": "tā jù liǎng érzi, yī xué wén yī xuélǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "văn (khoa học xã hội nhân văn)",
+                            "explain": "指人文社会科学",
+                            "examples": [
+                                {
+                                    "m": "Đại học Khoa học Xã hội và Nhân văn.",
+                                    "p_vn": "dai hoc khoa hoc xa hoi va nhan van.",
+                                    "_id": "55db399305625a14707d64b918e32c46",
+                                    "id": 102719,
+                                    "type": "e_cnvi",
+                                    "e": "人文与社会科学大学。",
+                                    "p_cn": "renwen yu shehui kexue daxue.",
+                                    "p": "rénwén yǔ shèhuì kēxué dàxué."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "ôn hòa; nhã nhặn; tinh tế",
+                            "explain": "柔和",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy có tính cách rất ôn hòa.",
+                                    "p_vn": "anh ay co tinh cach rat on hoa.",
+                                    "_id": "55db399305625a14707d64b918e5063e",
+                                    "id": 102769,
+                                    "type": "e_cnvi",
+                                    "e": "他性格很文雅。",
+                                    "p_cn": "ta xingge hen wenya.",
+                                    "p": "tā xìnggé hěn wényǎ."
+                                },
+                                {
+                                    "m": "Phong cách của anh ấy nhã nhặn và tinh tế.",
+                                    "p_vn": "phong cach cua anh ay nha nhan va tinh te.",
+                                    "_id": "55db399305625a14707d64b918e51e7e",
+                                    "id": 102772,
+                                    "type": "e_cnvi",
+                                    "e": "他的风格文雅而精致。",
+                                    "p_cn": "ta de fengge wenya er jingzhi.",
+                                    "p": "tā de fēnggé wényǎ ér jīngzhì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sách vở; văn hoa; văn viết; văn vẻ; văn chương; hoa mỹ",
+                            "explain": "形容文章或者说话的内容不好理解。",
+                            "examples": [
+                                {
+                                    "m": "câu này quá sách vở, thật khó hiểu",
+                                    "p_vn": "cau nay qua sach vo, that kho hieu",
+                                    "_id": "55db399305625a14707d64b918e14797",
+                                    "id": 102672,
+                                    "type": "e_cnvi",
+                                    "e": "这句话太文了, 不好懂。",
+                                    "p_cn": "zhe ju hua tai wenle, bu hao dong.",
+                                    "p": "zhè jù huà tài wénle, bù hǎo dǒng."
+                                },
+                                {
+                                    "m": "Ông cụ nói chuyện quá sách vở,  mọi người không thể hiểu được.",
+                                    "p_vn": "ong cu noi chuyen qua sach vo,  moi nguoi khong the hieu duoc.",
+                                    "_id": "55db399305625a14707d64b918e20fe0",
+                                    "id": 102684,
+                                    "type": "e_cnvi",
+                                    "e": "老先生讲话太文雅，人们听不懂。",
+                                    "p_cn": "lao xiansheng jianghua tai wenya, renmen ting bu dong.",
+                                    "p": "lǎo xiānshēng jiǎnghuà tài wényǎ, rénmen tīng bù dǒng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "liu riu; nhỏ (không mãnh liệt)",
+                            "explain": "不强烈",
+                            "examples": [
+                                {
+                                    "m": "Dùng lửa nhỏ để nấu thuốc bắc.",
+                                    "p_vn": "dung lua nho de nau thuoc bac.",
+                                    "_id": "55db399305625a14707d64b918e4a211",
+                                    "id": 102760,
+                                    "type": "e_cnvi",
+                                    "e": "用文火来熬制中药。",
+                                    "p_cn": "yong wenhuo lai ao zhi zhongyao.",
+                                    "p": "yòng wénhuǒ lái áo zhì zhōngyào."
+                                },
+                                {
+                                    "m": "Đôi khi nấu ăn cần dùng lửa nhỏ.",
+                                    "p_vn": "doi khi nau an can dung lua nho.",
+                                    "_id": "55db399305625a14707d64b918e0858f",
+                                    "id": 102653,
+                                    "type": "e_cnvi",
+                                    "e": "做饭有时需用文火。",
+                                    "p_cn": "zuo fan youshi xu yong wenhuo.",
+                                    "p": "zuò fàn yǒushí xū yòng wénhuǒ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xăm (nét vẽ trên người)",
+                            "explain": "在身上或脸上刺画花纹或字",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy đang xăm lông mày.",
+                                    "p_vn": "co ay dang xam long may.",
+                                    "_id": "55db399305625a14707d64b918dff807",
+                                    "id": 102637,
+                                    "type": "e_cnvi",
+                                    "e": "她在文眉毛。",
+                                    "p_cn": "ta zai wen meimao.",
+                                    "p": "tā zài wén méimao."
+                                },
+                                {
+                                    "m": "Cô ấy đã xăm một con rồng lên chân.",
+                                    "p_vn": "co ay da xam mot con rong len chan.",
+                                    "_id": "55db399305625a14707d64b918e349da",
+                                    "id": 102722,
+                                    "type": "e_cnvi",
+                                    "e": "她把一条龙文在了腿上。",
+                                    "p_cn": "ta ba yitiao long wen zaile tui shang.",
+                                    "p": "tā bǎ yītiáo lóng wén zàile tuǐ shàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "che đậy; che giấu",
+                            "explain": "遮掩",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy luôn thích che đậy sai lầm của mình.",
+                                    "p_vn": "anh ay luon thich che day sai lam cua minh.",
+                                    "_id": "55db399305625a14707d64b918e00f57",
+                                    "id": 102640,
+                                    "type": "e_cnvi",
+                                    "e": "他总爱文过饰非。",
+                                    "p_cn": "ta zong ai wenguoshifei.",
+                                    "p": "tā zǒng ài wénguòshìfēi."
+                                },
+                                {
+                                    "m": "Đừng cố gắng che giấu sai lầm.",
+                                    "p_vn": "dung co gang che giau sai lam.",
+                                    "_id": "55db399305625a14707d64b918dffad3",
+                                    "id": 102638,
+                                    "type": "e_cnvi",
+                                    "e": "不要试图文过饰非。",
+                                    "p_cn": "buyao shitu wenguoshifei.",
+                                    "p": "bùyào shìtú wénguòshìfēi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "đồng; đồng tiền; đồng xu; văn (chỉ tiền đồng)",
+                            "explain": "铜钱",
+                            "examples": [
+                                {
+                                    "m": "mười văn tiền.",
+                                    "p_vn": "muoi van tien.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab50b08c",
+                                    "id": 89444,
+                                    "type": "e_cnvi",
+                                    "e": "十文钱。",
+                                    "p_cn": "shi wen qian.",
+                                    "p": "shí wén qián."
+                                },
+                                {
+                                    "m": "không lấy một đồng.",
+                                    "p_vn": "khong lay mot dong.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab50c037",
+                                    "id": 89445,
+                                    "type": "e_cnvi",
+                                    "e": "分文不取。",
+                                    "p_cn": "fenwenbuqu.",
+                                    "p": "fēnwénbùqǔ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 307,
+                "search": 11729
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "wén",
+            "cn_vi": "văn.vấn",
+            "word": "文",
+            "id": 53306,
+            "phonetic": "wen",
+            "rank": 750,
+            "lv_hsk": 3,
+            "kind": [
+                "n",
+                "adj",
+                "measure",
+                "v"
+            ],
+            "compound": "文本 ; 文笔 ; 文不对题 ; 文不加点 ; 文才 ; 文采 ; 文昌鱼 ; 文场 ; 文抄公 ; 文丑 ; 文辞 ; 文从字顺 ; 文达 ; 文旦 ; 文牍 ; 文牍主义 ; 文法 ; 文房四宝 ; 文风 ; 文风不动 ; 文稿 ; 文告 ; 文蛤 ; 文工团 ; 文官 ; 文冠果 ; 文过饰非 ; 文翰 ; 文豪 ; 文化 ; 文化宫 ; 文化馆 ; 文化买办 ; 文化人 ; 文火 ; 文集 ; 文件 ; 文教 ; 文静 ; 文句 ; 文具 ; 文科 ; 文库 ; 文侩 ; 文莱 ; 文理 ; 文盲 ; 文庙 ; 文明 ; 文明戏 ; 文墨 ; 文鸟 ; 文痞 ; 文凭 ; 文气 ; 文契 ; 文人 ; 文弱 ; 文身 ; 文饰 ; 文书 ; 文思 ; 文坛 ; 文体 ; 文恬武嬉 ; 文童 ; 文玩 ; 文物 ; 文戏 ; 文献 ; 文选 ; 文学 ; 文学革命 ; 文学语言 ; 文雅 ; 文言 ; 文言文 ; 文艺 ; 文艺复兴 ; 文艺批评 ; 文艺学 ; 文艺语言 ; 文娱 ; 文责 ; 文摘 ; 文章 ; 文职 ; 文治 ; 文质彬彬 ; 文绉绉 ; 文竹 ; 文字 ; 文字改革 ; 文字学 ; 文字狱 ; 文震 ; 文宗"
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄣˊㄧㄢˊㄨㄣˊ",
+            "_id": "9e9fe1504ccfde0c2f6180bd33058052",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thể văn ngôn; tác phẩm văn cổ (tác phẩm viết bằng ngôn ngữ sách vở cổ của Trung Quốc)",
+                            "explain": "用文言写成的文章",
+                            "examples": [
+                                {
+                                    "m": "nó học mấy năm ở trường tư thục, những tác phẩm văn ngôn dễ hiểu có thể đọc hiểu được.",
+                                    "p_vn": "no hoc may nam o truong tu thuc nhung tac pham van ngon de hieu co the doc hieu duoc",
+                                    "_id": "d545e6db1e4fa811b0cadee3a763f240",
+                                    "id": 38926,
+                                    "type": "e_cnvi",
+                                    "e": "他上过几年私塾，浅近的文言文已能通读。",
+                                    "p_cn": "ta shangguo ji nian sishu qianjin de wenyanwen yi neng tongdu",
+                                    "p": "tā shàng guò jīnián sīshú，qiǎnjìn de wényánwén yǐnéng tōngdú。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 18,
+                "search": 543
+            },
+            "snym": {
+                "anto": [
+                    "白话文"
+                ]
+            },
+            "cn_vi": "văn ngôn văn",
+            "pinyin": "wényánwén",
+            "word": "文言文",
+            "id": 53390,
+            "phonetic": "wenyanwen",
+            "rank": 15063,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄑㄧㄥˇㄑㄩㄝˋㄖㄣˋㄏㄨㄚㄧㄤˋㄨㄣˊㄐㄧㄢˋ",
+            "_id": "e437b6e549af409996ccbde641b24cb2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vui lòng xác nhận file mẫu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "thỉnh xác nhận hoa dạng văn kiện",
+            "pinyin": "Qǐng quèrèn huāyàng wénjiàn",
+            "word": "请确认花样文件",
+            "id": 155448,
+            "phonetic": "Qingquerenhuayangwenjian",
+            "rank": 88051,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄐㄧㄢˋ",
+            "_id": "709e73d6e18d426aa8144133d601385e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mặt hàng vé lớn",
+                            "explain": "big-ticket item",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cồng kềnh",
+                            "explain": "bulky",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lớn",
+                            "explain": "large",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 73
+            },
+            "snym": null,
+            "cn_vi": "đại kiện",
+            "pinyin": "dà jiàn",
+            "word": "大件",
+            "id": 95886,
+            "phonetic": "dajian",
+            "rank": 48809,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄢˊㄐㄧㄢˋ",
+            "_id": "3f31aa3ea4c05bf68d60cc52153fd103",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thư tín; văn kiện; thư từ",
+                            "explain": "信件",
+                            "examples": [
+                                {
+                                    "m": "thư từ hàng không.",
+                                    "p_vn": "thu tu hang khong",
+                                    "_id": "6ffae25733d6b193c3fe704708080eda",
+                                    "id": 16220,
+                                    "type": "e_cnvi",
+                                    "e": "航空函件",
+                                    "p_cn": "hangkong hanjian",
+                                    "p": "hángkōng hánjiàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 96
+            },
+            "snym": {
+                "syno": [
+                    "书翰",
+                    "信札",
+                    "信件",
+                    "书信",
+                    "简牍",
+                    "尺牍",
+                    "尺素",
+                    "尺书"
+                ]
+            },
+            "cn_vi": "hàm kiện",
+            "pinyin": "hánjiàn",
+            "word": "函件",
+            "id": 22354,
+            "phonetic": "hanjian",
+            "rank": 42392,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˇㄐㄧㄢˋ",
+            "_id": "29250a3dcbd8283d280f9febfb7787b7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vật trang trí; đồ trang trí",
+                            "explain": "用作摆设的工艺品",
+                            "examples": [
+                                {
+                                    "m": "vật trang trí trên bàn",
+                                    "p_vn": "vat trang tri tren ban",
+                                    "_id": "2e8aa5690bd92996148c20d460cc9d5f",
+                                    "id": 653,
+                                    "type": "e_cnvi",
+                                    "e": "案头摆件",
+                                    "p_cn": "antou baijian",
+                                    "p": "àntóu bǎijiàn"
+                                },
+                                {
+                                    "m": "đồ trang trí bằng vàng bạc",
+                                    "p_vn": "do trang tri bang vang bac",
+                                    "_id": "541ec3280b09bce4285216585a31f761",
+                                    "id": 654,
+                                    "type": "e_cnvi",
+                                    "e": "金银摆件",
+                                    "p_cn": "jin yin baijian",
+                                    "p": "jīnyín bǎijiàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 177
+            },
+            "snym": null,
+            "cn_vi": "bài kiện",
+            "pinyin": "bǎijiàn",
+            "word": "摆件",
+            "id": 1166,
+            "phonetic": "baijian",
+            "rank": 30446,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄐㄧㄢˋ",
+            "_id": "765d2f70a38fc770fa0d5741fb037835",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "văn kiện khẩn cấp; công văn khẩn",
+                            "explain": "须要很快送到的紧急文件",
+                            "examples": [
+                                {
+                                    "m": "vừa nhận được văn kiện khẩn cấp, xin anh lập tức giao cho anh ấy.",
+                                    "p_vn": "vua nhan duoc van kien khan cap xin anh lap tuc giao cho anh ay",
+                                    "_id": "6ed3274fd4130793e05aba356ea31228",
+                                    "id": 51695,
+                                    "type": "e_cnvi",
+                                    "e": "这是刚收到的急件，请你立即转送给他。",
+                                    "p_cn": "zhe shi gang shou dao de jijian qing ni liji zhuansong gei ta",
+                                    "p": "zhè shì gāng shōudào de jíjiàn，qǐng nǐ lìjí zhuǎn sònggěi tā。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 101
+            },
+            "snym": null,
+            "cn_vi": "cấp kiện",
+            "pinyin": "jíjiàn",
+            "word": "急件",
+            "id": 26872,
+            "phonetic": "jijian",
+            "rank": 41271,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "文件"
+}

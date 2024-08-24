@@ -1,0 +1,2201 @@
+{
+    "total": 2008,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": " gēn, kuài",
+                "examples": "",
+                "measure": " 根, 块"
+            },
+            "topic": "52",
+            "zhuyin": "ㄍㄨˇㄊㄡˊ",
+            "_id": "8f0e2ed5bc98957d531da64067552dd2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "chỉ loại hoặc đặc điểm của xương,...",
+                            "examples": [
+                                128482,
+                                128480
+                            ],
+                            "struct": "Định nghĩa + (的)) + 骨头"
+                        },
+                        {
+                            "explain": "hành động liên quan đến xương ",
+                            "examples": [
+                                80454,
+                                128487
+                            ],
+                            "struct": "Động từ + 骨头"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương; cốt (người và động vật)",
+                            "explain": "指人和脊椎动物体内支持身体、保护内脏的坚硬组织",
+                            "examples": [
+                                {
+                                    "m": "Xương của con chó rất cứng.",
+                                    "p_vn": "xuong cua con cho rat cung.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57170a278",
+                                    "id": 128442,
+                                    "type": "e_cnvi",
+                                    "e": "狗的骨头很坚硬。",
+                                    "p_cn": "gou de gutou hen jianying.",
+                                    "p": "gǒu de gǔtou hěn jiānyìng."
+                                },
+                                {
+                                    "m": "Xương của anh ấy bị thương.",
+                                    "p_vn": "xuong cua anh ay bi thuong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57170a8ff",
+                                    "id": 128443,
+                                    "type": "e_cnvi",
+                                    "e": "他的骨头受伤了。",
+                                    "p_cn": "ta de gutou shoushangle.",
+                                    "p": "tā de gǔtou shòushāngle."
+                                },
+                                {
+                                    "m": "Xương của con người được cấu thành từ 206 khối.",
+                                    "p_vn": "xuong cua con nguoi duoc cau thanh tu 206 khoi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57170d090",
+                                    "id": 128452,
+                                    "type": "e_cnvi",
+                                    "e": "人的骨头由 206 块组成。",
+                                    "p_cn": "ren de gutou you 206 kuai zucheng.",
+                                    "p": "rén de gǔtou yóu 206 kuài zǔchéng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cứng rắn; kiên cường; bất khuất; cứng cỏi",
+                            "explain": "比喻人的品质、气概",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy là người cứng cỏi.",
+                                    "p_vn": "anh ay la nguoi cung coi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571710d9e",
+                                    "id": 128459,
+                                    "type": "e_cnvi",
+                                    "e": "他是个硬骨头。",
+                                    "p_cn": "ta shige yinggutou.",
+                                    "p": "tā shìgè yìnggǔtou."
+                                },
+                                {
+                                    "m": "Anh ấy là người kiên cường, không bao giờ dễ dàng nhượng bộ.",
+                                    "p_vn": "anh ay la nguoi kien cuong, khong bao gio de dang nhuong bo.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571712434",
+                                    "id": 128463,
+                                    "type": "e_cnvi",
+                                    "e": "他是个硬骨头，从不轻易妥协。",
+                                    "p_cn": "ta shige yinggutou, cong bu qingyi tuoxie.",
+                                    "p": "tā shìgè yìnggǔtou, cóng bù qīngyì tuǒxié."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chỉ trích; châm biếm",
+                            "explain": "比喻话里暗含的不满、讽刺等意思",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy luôn nói chuyện với vẻ châm biếm.",
+                                    "p_vn": "anh ay luon noi chuyen voi ve cham biem.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571718299",
+                                    "id": 128476,
+                                    "type": "e_cnvi",
+                                    "e": "他说话总是带有骨头。",
+                                    "p_cn": "ta shuohua zong shi dai you gutou.",
+                                    "p": "tā shuōhuà zǒng shì dài yǒu gǔtou."
+                                },
+                                {
+                                    "m": "Bình luận của anh ấy có chút chỉ trích.",
+                                    "p_vn": "binh luan cua anh ay co chut chi trich.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5717184e1",
+                                    "id": 128477,
+                                    "type": "e_cnvi",
+                                    "e": "他的评论有点骨头。",
+                                    "p_cn": "ta de pinglun youdian gutou.",
+                                    "p": "tā de pínglùn yǒudiǎn gǔtou."
+                                },
+                                {
+                                    "m": "Câu này có sự chỉ trích.",
+                                    "p_vn": "cau nay co su chi trich.",
+                                    "_id": "b3c6ec0c8f520232d683a7b57171863f",
+                                    "id": 128478,
+                                    "type": "e_cnvi",
+                                    "e": "这句话有骨头。",
+                                    "p_cn": "zhe ju hua you gutou.",
+                                    "p": "zhè jù huà yǒu gǔtou."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 261,
+                "search": 2843
+            },
+            "snym": {
+                "syno": [
+                    "骨骼,骨子"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "gǔtou",
+            "cn_vi": "cốt đầu",
+            "word": "骨头",
+            "id": 20472,
+            "phonetic": "gutou",
+            "rank": 4169,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "52",
+            "zhuyin": "ㄊㄡˊㄍㄨˇ",
+            "_id": "9ad0811057e239077e3c58a7b389a13b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương sọ; xương đầu; đầu lâu",
+                            "explain": "构成头颅的骨头，包括额骨、顶骨、颞骨、枕骨、蝶骨等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 97
+            },
+            "snym": null,
+            "cn_vi": "đầu cốt",
+            "pinyin": "tóugǔ",
+            "word": "头骨",
+            "id": 51490,
+            "phonetic": "tougu",
+            "rank": 42212,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄢˇㄍㄨˇㄊㄡˊ",
+            "_id": "368a307f5c04178a1f156d769b8f46da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đồ lười biếng; đồ nhớt thây; đồ thối thây; đồ đại lãn; lười ngay xương; làm biếng nhớt thây; đồ ăn không ngồi rồi; đồ vô công rỗi nghề (tiếng chửi)",
+                            "explain": "懒惰的人 (骂人的话)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 67
+            },
+            "snym": null,
+            "cn_vi": "lãn cốt đầu",
+            "pinyin": "lǎn gú tóu",
+            "word": "懒骨头",
+            "id": 33566,
+            "phonetic": "langutou",
+            "rank": 50694,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄠˇㄍㄨˇㄊㄡˊ",
+            "_id": "9237eb51ab574298a9fcf5c450111d49",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cơ thể già nua mệt mỏi (thuật ngữ thông tục, được sử dụng một cách đùa cợt hoặc bất cần)",
+                            "explain": "weary old body (colloquial term, used jocularly or irreverently)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 43
+            },
+            "snym": {
+                "syno": [
+                    "老不死",
+                    "老废物",
+                    "老家伙",
+                    "老糊涂"
+                ]
+            },
+            "cn_vi": "lão cốt đầu",
+            "pinyin": "lǎo gǔtou",
+            "word": "老骨头",
+            "id": 115915,
+            "phonetic": "laogutou",
+            "rank": 62017,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "52",
+            "zhuyin": "ㄊㄡˊㄍㄞˋㄍㄨˇ",
+            "_id": "b9bc6ace5c07487b963020020fbf82e3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cranium",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đầu lâu",
+                            "explain": "skull",
+                            "examples": [
+                                {
+                                    "m": "Anh ta bị nứt hộp sọ.",
+                                    "p_vn": "Anh ta bi nut hop so.",
+                                    "_id": "58fc529e991f49f99789c435ebfdd86b",
+                                    "id": 66077,
+                                    "type": "e_cnvi",
+                                    "e": "他头盖骨被打破了",
+                                    "p_cn": "ta tougaigu bei dapo le",
+                                    "p": "tā tóugàigǔ bèi dǎpò le"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 137
+            },
+            "snym": null,
+            "cn_vi": "đầu cái cốt",
+            "pinyin": "tóugàigǔ",
+            "word": "头盖骨",
+            "id": 114469,
+            "phonetic": "tougaigu",
+            "rank": 35148,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄢˋㄍㄨˇㄊㄡˊ",
+            "_id": "ec17eb549c4faf3392c8789a0dd0e8f6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đồ đê tiện; đồ hèn; đồ tồi; đồ ngu",
+                            "explain": "指不自尊重或不知好歹的人 (骂人的话)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đồ ăn mày",
+                            "explain": "生活没有着落而专靠向人要饭要钱过活的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 46
+            },
+            "snym": null,
+            "cn_vi": "tiện cốt đầu",
+            "pinyin": "jiàn gú tóu",
+            "word": "贱骨头",
+            "id": 28406,
+            "phonetic": "jiangutou",
+            "rank": 59995,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄨㄢˇㄍㄨˇㄊㄡˊ",
+            "_id": "b3d2f9355d57e704dbdd29773cb22deb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đồ hèn nhát; đồ hèn; yếu bóng vía",
+                            "explain": "比喻没有气节的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 53
+            },
+            "snym": {
+                "syno": [
+                    "怕死鬼",
+                    "胆小鬼",
+                    "窝囊废"
+                ],
+                "anto": [
+                    "硬骨头",
+                    "硬汉子"
+                ]
+            },
+            "cn_vi": "nhuyễn cốt đầu",
+            "pinyin": "ruǎngǔtou",
+            "word": "软骨头",
+            "id": 44796,
+            "phonetic": "ruangutou",
+            "rank": 56222,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄧㄣˊㄍㄨˇㄊㄡˊ",
+            "_id": "9a2b2f4652e82cc6ede42a9d8aa0960f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "kẻ bần tiện",
+                            "explain": "指爱贪小便宜的人或小气的人",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "方",
+                    "means": [
+                        {
+                            "mean": "kẻ lắm lời; kẻ mồm mép",
+                            "explain": "说话多而使人讨厌的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "bần cốt đầu",
+            "pinyin": "pín gǔtou",
+            "word": "贫骨头",
+            "id": 41071,
+            "phonetic": "pingutou",
+            "rank": 150444,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄥˋㄍㄨˇㄊㄡˊ",
+            "_id": "a3d70ab90d96f0b5aa3cd16edb8d73a7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương cốt cứng rắn",
+                            "explain": "比喻坚强不屈的人",
+                            "examples": [
+                                {
+                                    "m": "công tác xóa đói giảm nghèo của Trung Quốc đãđi vào giai đoạn “gặm xương cứng”.",
+                                    "p_vn": "cong tac xoa doi giam ngheo cua Trung Quoc dadi vao giai doan \"gam xuong cung\".",
+                                    "_id": "b910b7a5a0c047c291d30777b636129c",
+                                    "id": 68915,
+                                    "type": "e_cnvi",
+                                    "e": "中国扶贫的工作已经进入“啃硬骨头”阶段",
+                                    "p_cn": "Zhongguo fupin de gongzuo yijing jinru \"ken yinggutou\" jieduan",
+                                    "p": "Zhōngguó fúpín de gōngzuò yǐjīng jìnrù “kěn yìnggǔtou” jiēduàn"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dạn đòn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 71
+            },
+            "snym": {
+                "syno": [
+                    "硬汉子",
+                    "大丈夫"
+                ],
+                "anto": [
+                    "软骨头"
+                ]
+            },
+            "cn_vi": "ngạnh cốt đầu",
+            "pinyin": "yìnggǔtou",
+            "word": "硬骨头",
+            "id": 60713,
+            "phonetic": "yinggutou",
+            "rank": 49239,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨˇㄊㄡˊㄈㄚㄏㄢˊ",
+            "_id": "dd817fa6303546cb8546648c232bff63",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Lạnh tóc gáy; dựng tóc gáy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "cốt đầu phát hàn",
+            "pinyin": "gǔtou fā hán",
+            "word": "骨头发寒",
+            "id": 152406,
+            "phonetic": "gutoufahan",
+            "rank": 68295,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄧˊㄅㄠㄍㄨˇㄊㄡˊ",
+            "_id": "c9af78cdd098481883e79c2193cfee9f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "cũng được viết 皮包骨",
+                            "explain": "also written 皮包骨 [pí bāo gǔ]",
+                            "examples": [
+                                {
+                                    "m": "Anh ta là cái người gầy tới nỗi chỉ còn da bọc xương.",
+                                    "p_vn": "Anh ta la cai nguoi gay toi noi chi con da boc xuong.",
+                                    "_id": "5ecc2094299345b586fd808447222d35",
+                                    "id": 67384,
+                                    "type": "e_cnvi",
+                                    "e": "他是个瘦得皮包骨头的男孩",
+                                    "p_cn": "Ta shige shou de pibaogu tou de nanhai",
+                                    "p": "Tā shìgè shòu dé píbāogǔ tou de nánhái"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "da bọc xương (thành ngữ)",
+                            "explain": "to be all skin and bones (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 43
+            },
+            "snym": {
+                "syno": [
+                    "瘦骨嶙峋",
+                    "骨瘦如柴",
+                    "瘦骨伶仃"
+                ]
+            },
+            "cn_vi": "bì bao cốt đầu",
+            "pinyin": "píbāogǔ tou",
+            "word": "皮包骨头",
+            "id": 130652,
+            "phonetic": "pibaogutou",
+            "rank": 61591,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄎㄣˇㄧㄥˋㄍㄨˇㄊㄡˊ",
+            "_id": "26e517539331418a8cb3d5974047ea19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Gặm xương cứng (chỉ những chính sách hao tổn nhiều; bỏ ra nhiều sức lực)",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "công tác xóa đói giảm nghèo của Trung Quốc đãđi vào giai đoạn “gặm xương cứng”.",
+                                    "p_vn": "cong tac xoa doi giam ngheo cua Trung Quoc dadi vao giai doan \"gam xuong cung\".",
+                                    "_id": "b910b7a5a0c047c291d30777b636129c",
+                                    "id": 68915,
+                                    "type": "e_cnvi",
+                                    "e": "中国扶贫的工作已经进入“啃硬骨头”阶段",
+                                    "p_cn": "Zhongguo fupin de gongzuo yijing jinru \"ken yinggutou\" jieduan",
+                                    "p": "Zhōngguó fúpín de gōngzuò yǐjīng jìnrù “kěn yìnggǔtou” jiēduàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "khẳng ngạnh cốt đầu",
+            "pinyin": "Kěn yìnggǔtou",
+            "word": "啃硬骨头",
+            "id": 157897,
+            "phonetic": "Kenyinggutou",
+            "rank": 103195,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "1, 52",
+            "zhuyin": "ㄍㄨˇㄊㄡˊㄐㄧㄚˋㄗ˙",
+            "_id": "874982afc16678e915247adbd76b2606",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bộ xương; xương cốt (của người và động vật cấp cao)",
+                            "explain": "人或高等动物的骨骼",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người gầy; người ốm",
+                            "explain": "形容极瘦的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 40
+            },
+            "snym": null,
+            "cn_vi": "cốt đầu giá tử",
+            "pinyin": "gǔtou jiàzi",
+            "word": "骨头架子",
+            "id": 20473,
+            "phonetic": "gutoujiazi",
+            "rank": 63583,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨˇㄊㄡˊㄐㄧㄝˊㄦ˙",
+            "_id": "1abd0ab59859ad3d43b40e6e37069f30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khớp xương",
+                            "explain": "骨节",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "cốt đầu tiết nhi",
+            "pinyin": "gǔtou jié er",
+            "word": "骨头节儿",
+            "id": 20474,
+            "phonetic": "gutoujieer",
+            "rank": 87200,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "52",
+            "zhuyin": "ㄍㄨˇ",
+            "_id": "69098b6f188b2a76f74b5ed03f33d8b7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nụ hoa; nụ",
+                            "explain": "骨朵儿",
+                            "examples": [
+                                {
+                                    "m": "Nụ hoa rất đẹp.",
+                                    "p_vn": "nu hoa rat dep.",
+                                    "_id": "55db399305625a14707d64b918a38e74",
+                                    "id": 101167,
+                                    "type": "e_cnvi",
+                                    "e": "骨朵儿真好看。",
+                                    "p_cn": "guduor zhen haokan.",
+                                    "p": "gūduǒr zhēn hǎokàn."
+                                },
+                                {
+                                    "m": "Hoa hồng có rất nhiều nụ.",
+                                    "p_vn": "hoa hong co rat nhieu nu.",
+                                    "_id": "55db399305625a14707d64b918a39a20",
+                                    "id": 101168,
+                                    "type": "e_cnvi",
+                                    "e": "玫瑰有好多骨朵。",
+                                    "p_cn": "meigui you haoduo guduo.",
+                                    "p": "méiguī yǒu hǎoduō gūduǒ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 115,
+                "search": 2510
+            },
+            "snym": null,
+            "cn_vi": "cốt",
+            "pinyin": "gū",
+            "word": "骨",
+            "id": 20433,
+            "phonetic": "gu",
+            "rank": 4582,
+            "lv_tocfl": null,
+            "compound": "骨朵儿 ; 骨碌碌 ; 骨碌"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄥˋㄆㄧˊㄅㄠㄍㄨˇㄊㄡˊ",
+            "_id": "4ef3a310e59b43099db5b3c037f2151f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Chỉ còn lại da bọc xương; quá gầy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "thặng bì bao cốt đầu",
+            "pinyin": "shèng píbāogǔ tou",
+            "word": "剩皮包骨头",
+            "id": 152070,
+            "phonetic": "shengpibaogutou",
+            "rank": 102719,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "52",
+            "zhuyin": "ㄍㄨˇ",
+            "_id": "cdedb21ef1dd660fb299dd7cb39b69b0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương",
+                            "explain": "骨头",
+                            "examples": [
+                                {
+                                    "m": "Xương của anh ấy rất cứng.",
+                                    "p_vn": "xuong cua anh ay rat cung.",
+                                    "_id": "55db399305625a14707d64b918a3261e",
+                                    "id": 101157,
+                                    "type": "e_cnvi",
+                                    "e": "他骨头很硬。",
+                                    "p_cn": "ta gutou hen ying.",
+                                    "p": "tā gǔtóu hěn yìng."
+                                },
+                                {
+                                    "m": "Chó con gặm xương.",
+                                    "p_vn": "cho con gam xuong.",
+                                    "_id": "55db399305625a14707d64b918a33153",
+                                    "id": 101158,
+                                    "type": "e_cnvi",
+                                    "e": "小狗啃骨头。",
+                                    "p_cn": "xiao gou ken gu tou.",
+                                    "p": "xiǎo gǒu kěn gú tóu."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nan; khung; giá; cốt (ví với những cái khung xương, giá đỡ)",
+                            "explain": "比喻在物体内部支撑的架子",
+                            "examples": [
+                                {
+                                    "m": "Xi măng cốt thép",
+                                    "p_vn": "xi mang cot thep",
+                                    "_id": "4126f1a2eb6298ad33857069e585152a",
+                                    "id": 14531,
+                                    "type": "e_cnvi",
+                                    "e": "钢骨水泥。",
+                                    "p_cn": "ganggu shuini",
+                                    "p": "gānggǔ shǔiní"
+                                },
+                                {
+                                    "m": "Khung ghế chắc chắn.",
+                                    "p_vn": "khung ghe chac chan.",
+                                    "_id": "55db399305625a14707d64b918a338c2",
+                                    "id": 101159,
+                                    "type": "e_cnvi",
+                                    "e": "椅子的骨结实。",
+                                    "p_cn": "yizi de gu jieshi.",
+                                    "p": "yǐzi de gǔ jiēshí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phẩm chất; khí khái; tính khí; chí khí; khí phách",
+                            "explain": "品质;气概",
+                            "examples": [
+                                {
+                                    "m": "Tính khí của cô ấy rất kiêu ngạo.",
+                                    "p_vn": "tinh khi cua co ay rat kieu ngao.",
+                                    "_id": "55db399305625a14707d64b918a36328",
+                                    "id": 101163,
+                                    "type": "e_cnvi",
+                                    "e": "她具傲骨之姿。",
+                                    "p_cn": "ta ju aogu zhi zi.",
+                                    "p": "tā jù àogǔ zhī zī."
+                                },
+                                {
+                                    "m": "Người này có khí chất bất phàm.",
+                                    "p_vn": "nguoi nay co khi chat bat pham.",
+                                    "_id": "55db399305625a14707d64b918a36c08",
+                                    "id": 101164,
+                                    "type": "e_cnvi",
+                                    "e": "这人风骨不凡。",
+                                    "p_cn": "zhe ren fenggu bufan.",
+                                    "p": "zhè rén fēnggǔ bùfán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 115,
+                "search": 2510
+            },
+            "snym": null,
+            "cn_vi": "cốt",
+            "pinyin": "gǔ",
+            "word": "骨",
+            "id": 20432,
+            "phonetic": "gu",
+            "rank": 4581,
+            "lv_tocfl": null,
+            "compound": "骨刺 ; 骨董 ; 骨朵 ; 骨干 ; 骨骼 ; 骨鲠 ; 骨鲠在喉 ; 骨骺 ; 骨灰 ; 骨架 ; 骨胶 ; 骨节 ; 骨库 ; 骨力 ; 骨膜 ; 骨牌 ; 骨盆 ; 骨气 ; 骨肉 ; 骨殖 ; 骨瘦如柴 ; 骨髓 ; 骨炭 ; 骨头 ; 骨头架子 ; 骨头节儿 ; 骨血 ; 骨折 ; 骨子 ; 骨子里"
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄚˇㄧˇㄎㄣˇㄍㄨˇㄊㄡˊ",
+            "_id": "765342da69f5958db85a206db91a2240",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "kiến tha lâu đầy tổ; tích tiểu thành đại; có công mài sắt, có ngày nên kim (ví với việc làm tuy nhỏ, nhưng lâu dần cũng có thể hoàn thành việc lớn); có công mài sắt có ngày nên kim",
+                            "explain": "指在缺乏大型设备的情况下， 利用小型机床对大部件进行加工， 好像蚂蚁在啃一块大 骨头也指一点一点地苦干来完成一项大的任务",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 48
+            },
+            "snym": null,
+            "cn_vi": "mã nghĩ khẳng cốt đầu",
+            "pinyin": "mǎyǐ kěn gú tóu",
+            "word": "蚂蚁啃骨头",
+            "id": 36889,
+            "phonetic": "mayikengutou",
+            "rank": 58881,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄖㄣˊㄅㄨˋㄊㄨˇㄍㄨˇㄊㄡˊ",
+            "_id": "04736a9faf1b73b712c9988695a1c8cc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "ăn tươi nuốt sống",
+                            "explain": "比喻有残暴，又贪婪",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "cật nhân bất thổ cốt đầu",
+            "pinyin": "chī rén bù tǔ gǔtou",
+            "word": "吃人不吐骨头",
+            "id": 7559,
+            "phonetic": "chirenbutugutou",
+            "rank": 82422,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄉㄢˋㄌㄧˇㄓㄠˇㄍㄨˇㄊㄡˊ",
+            "_id": "7993dcc7d6403d55e060112a2c8346c3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "Không ưa thì dưa có dòi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 100,
+                "search": 1364
+            },
+            "snym": null,
+            "cn_vi": "kê đản lí trảo cốt đầu",
+            "pinyin": "jīdàn li zhǎo gǔtou",
+            "word": "鸡蛋里找骨头",
+            "id": 79937,
+            "phonetic": "jidanlizhaogutou",
+            "rank": 7643,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "proverb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄉㄢˋㄌㄧˇㄊㄧㄠㄍㄨˇㄊㄡˊ",
+            "_id": "510d7e8037e08fc236f3f1751841c844",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "bới lông tìm vết; soi mói lỗi của người khác",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Nói đến nhiệm vụ của chính phủ mới, tôi nghĩ việc đầu tiên chúng ta cần làm là đừng soi mói, bới lông tìm vết.",
+                                    "p_vn": "noi den nhiem vu cua chinh phu moi, toi nghi viec dau tien chung ta can lam la dung soi moi, boi long tim vet.",
+                                    "_id": "a2fb14bb2137425fd8c3014ec0eed4f5",
+                                    "id": 54348,
+                                    "type": "e_cnvi",
+                                    "e": "说到新政府的工作任务，我想我们需要做的第一件事决不是鸡蛋里挑骨头。",
+                                    "p_cn": "shuo dao xin zhengfu de gongzuo renwu, wo xiang women xuyao zuo de di yi jian shi jue bu shi jidan li tiao gu tou.",
+                                    "p": "Shuō dào xīn zhèngfǔ de gōngzuò rènwù, wǒ xiǎng wǒmen xūyào zuò de dì yī jiàn shì jué bú shì jīdàn li tiāo gú tóu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 32,
+                "search": 176
+            },
+            "snym": {
+                "syno": [
+                    "吃毛求疵"
+                ]
+            },
+            "cn_vi": "kê đản lí khiêu cốt đầu",
+            "pinyin": "jīdàn li tiāo gú tóu",
+            "word": "鸡蛋里挑骨头",
+            "id": 83588,
+            "phonetic": "jidanlitiaogutou",
+            "rank": 30503,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄡˊㄊㄡˊ",
+            "_id": "f8f2e1d5a56c4ac4a898d4051071af51",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trưởng phòng",
+                            "explain": "chief",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cái đầu",
+                            "explain": "head",
+                            "examples": [
+                                {
+                                    "m": "Bạn là người đứng đầu an ninh bệnh viện.",
+                                    "p_vn": "Ban la nguoi dung dau an ninh benh vien.",
+                                    "_id": "6c85e5119b1a40fba9f23f1c52a5f453",
+                                    "id": 64421,
+                                    "type": "e_cnvi",
+                                    "e": "你是医院安保的头头",
+                                    "p_cn": "ni shi yiyuan anbao de toutou",
+                                    "p": "nǐ shì yìyuàn ānbǎo de tóutóu"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đầu đàn",
+                            "explain": "俗称某单位或某集团的为首的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 103
+            },
+            "snym": null,
+            "cn_vi": "đầu đầu",
+            "pinyin": "tóutóu",
+            "word": "头头",
+            "id": 95946,
+            "phonetic": "toutou",
+            "rank": 40971,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧㄢˇㄍㄨˇ",
+            "_id": "b61ffcb6a128f1fbd7309ffc2acf6746",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương dẹt",
+                            "explain": "扁平的骨头，如髂骨和大多数颅骨",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "biển cốt",
+            "pinyin": "biǎn gǔ",
+            "word": "扁骨",
+            "id": 3339,
+            "phonetic": "biangu",
+            "rank": 128518,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "47",
+            "zhuyin": "ㄍㄨˇㄆㄞˊ",
+            "_id": "d382a374f845872bfc9b481d4ba9ce3f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quân bài; con bài (làm bằng xương); thẻ xương; bài xương",
+                            "explain": "牌类娱乐用具，每副三十二张，用骨头、象牙、竹子或乌木制成，上面刻着以不同方式排列的从两个到十二个点子",
+                            "examples": [
+                                {
+                                    "m": "Bạn đã thiết lập các quân cờ domino trong mười năm.",
+                                    "p_vn": "Ban da thiet lap cac quan co domino trong muoi nam.",
+                                    "_id": "3e441aa98ce747898ab337447738a158",
+                                    "id": 63130,
+                                    "type": "e_cnvi",
+                                    "e": "十年来你一直在堆多米诺骨牌",
+                                    "p_cn": "shinian lai ni yizhi zai dui duominuogupai",
+                                    "p": "shínián lái nǐ yīzhí zài dūi duōmǐnuògǔpái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 200
+            },
+            "snym": null,
+            "cn_vi": "cốt bài",
+            "pinyin": "gǔpái",
+            "word": "骨牌",
+            "id": 20463,
+            "phonetic": "gupai",
+            "rank": 28349,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gēn",
+                "examples": "于是她买了一根排骨并把它放进菜篮子里。\nyú shìtā mǎile yìgēn páigǔ bìng bǎtā fàngjìn càilánzi lǐ\nVì vậy, cô đã mua một dẻ xương sườn và đặt nó vào giỏ.",
+                "measure": "根"
+            },
+            "topic": "34",
+            "zhuyin": "ㄆㄞˊㄍㄨˇ",
+            "_id": "694aec4db506f47a74163123105d4d96",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương sườn",
+                            "explain": "附着少量肉的猪、牛、羊等的肋骨、脊椎骨，供食用",
+                            "examples": [
+                                {
+                                    "m": "Chặt xương sườn.",
+                                    "p_vn": "chat xuong suon.",
+                                    "_id": "1a9e10bd3dc7a62aaa2b39ebb2d3950f",
+                                    "id": 10014,
+                                    "type": "e_cnvi",
+                                    "e": "剁排骨。",
+                                    "p_cn": "duo paigu",
+                                    "p": "duò páigǔ"
+                                },
+                                {
+                                    "m": "Sườn ướp muối tiêu là món mà em trai tôi thích ăn nhất",
+                                    "p_vn": "suon uop muoi tieu la mon ma em trai toi thich an nhat",
+                                    "_id": "aa1c9bf02fa64fa09c01381ba76ac872",
+                                    "id": 67882,
+                                    "type": "e_cnvi",
+                                    "e": "椒盐排骨是我弟弟最爱吃的菜肴。",
+                                    "p_cn": "jiaoyan paigu shi wo didi zui ai chi de caiyao",
+                                    "p": "Jiāoyán páigǔ shì wǒ dìdi zuì ài chī de càiyáo"
+                                },
+                                {
+                                    "m": "Hầm xương sườn.",
+                                    "p_vn": "ham xuong suon.",
+                                    "_id": "b76cf47e56d4524ac9b35b5458df4f11",
+                                    "id": 9853,
+                                    "type": "e_cnvi",
+                                    "e": "清炖排骨。",
+                                    "p_cn": "qingdun paigu",
+                                    "p": "qīngdùn páigǔ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 115,
+                "search": 1345
+            },
+            "snym": {
+                "syno": [
+                    "肋骨"
+                ]
+            },
+            "cn_vi": "bài cốt",
+            "pinyin": "páigǔ",
+            "word": "排骨",
+            "id": 40081,
+            "phonetic": "paigu",
+            "rank": 7729,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ff9ebcc26721439c884cdebcfe58283b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kèo dù",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "khung dù",
+                                    "p_vn": "khung du",
+                                    "_id": "909e1cbac0a6eaf60ea696193e9662f8",
+                                    "id": 14560,
+                                    "type": "e_cnvi",
+                                    "e": "伞骨子",
+                                    "p_cn": "san guzi",
+                                    "p": "sǎn gǔzǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tán cốt",
+            "pinyin": "sǎn gǔ",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "伞骨",
+            "id": 182177,
+            "phonetic": "sangu",
+            "rank": 143741,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄛ˙ㄍㄨˇ",
+            "_id": "c2a8e5d4c7f522d06351c76d6907be88",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bói bằng xương",
+                            "explain": "占卜用的兽骨，一般选用牛、羊、猪的肩胛骨",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "bốc cốt",
+            "pinyin": "bo gǔ",
+            "word": "卜骨",
+            "id": 4494,
+            "phonetic": "bogu",
+            "rank": 132854,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄥㄍㄨˇ",
+            "_id": "e55a624d57acfb4c8b688ef61ded8bb7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khí khái; khí phách; cứng rắn; cương nghị",
+                            "explain": "指人的气概、品格",
+                            "examples": [
+                                {
+                                    "m": "phong cách mạnh mẽ.",
+                                    "p_vn": "phong cach manh me",
+                                    "_id": "e923bb8ec44d435bc8a140916dbb0c0c",
+                                    "id": 32936,
+                                    "type": "e_cnvi",
+                                    "e": "风骨遒劲。",
+                                    "p_cn": "fenggu qiujing",
+                                    "p": "fēnggǔ qíujìng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cốt cách rắn rỏi; phong cách lành mạnh (trong thi, văn, thư, hoạ); phong cốt",
+                            "explain": "(诗文书画) 雄健有力的风格",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 96
+            },
+            "snym": null,
+            "cn_vi": "phong cốt",
+            "pinyin": "fēnggǔ",
+            "word": "风骨",
+            "id": 16950,
+            "phonetic": "fenggu",
+            "rank": 42434,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄜˋㄍㄨˇ",
+            "topic": "52",
+            "_id": "f9831152c2e61366e80d089bca9875f9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Xương hàm",
+                            "explain": "颚骨指下巴上面的骨头。可分为上颚骨和下颚骨，上颚骨及蝶骨间有一裂缝称眶下裂，下颚骨 及髁状突和颞骨的下颚窝及关节结节形成关节，称为颞颚关节 (可动) 。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "ngạc cốt",
+            "pinyin": "è gǔ",
+            "word": "颚骨",
+            "id": 82211,
+            "phonetic": "egu",
+            "rank": 68292,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢˊㄍㄨˇ",
+            "_id": "d35d1cdd9472439dbef81050eefde290",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bản chất dung tục; người dung tục. ★Tương phản: tiên cốt 仙骨. \n◇Lục Du 陸游: Dục cầu linh dược hoán phàm cốt 欲求靈藥換凡骨 (Đăng thượng thanh tiểu các 登上清小閣) Muốn tìm thuốc tiên biến đổi cốt phàm tục.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "phàm cốt",
+            "pinyin": "fángǔ",
+            "word": "凡骨",
+            "id": 149080,
+            "phonetic": "fangu",
+            "rank": 113713,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧˊㄍㄨˇ",
+            "_id": "d3ade6f019274c238e27833d186750be",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương lá mía (ở mũi, chia lỗ mũi)",
+                            "explain": "vomer bone (in the nose, dividing the nostrils)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "lê cốt",
+            "pinyin": "lí gǔ",
+            "word": "犁骨",
+            "id": 89001,
+            "phonetic": "ligu",
+            "rank": 131395,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄥˊㄍㄨˇ",
+            "_id": "ddc6321c300e43e2857e174ca5a4be85",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hình thành xương",
+                            "explain": "bone formation",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tạo xương",
+                            "explain": "osteogenesis",
+                            "examples": [
+                                {
+                                    "m": "Tôi lo ngại rằng đó là sự không hoàn hảo của quá trình tạo xương.",
+                                    "p_vn": "Toi lo ngai rang do la su khong hoan hao cua qua trinh tao xuong.",
+                                    "_id": "68e2c41879f341fe8891d406b9c4fa76",
+                                    "id": 65051,
+                                    "type": "e_cnvi",
+                                    "e": "我怀疑是成骨不全症",
+                                    "p_cn": "wo huaiyi shi chenggu bu quanzheng",
+                                    "p": "wǒ huáiyí shì chénggǔ bù quánzhèng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "thành cốt",
+            "pinyin": "chéng gǔ",
+            "word": "成骨",
+            "id": 102984,
+            "phonetic": "chenggu",
+            "rank": 143329,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠㄍㄨˇ",
+            "_id": "367c175fdae04433b4a5988adddf9404",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương cụt",
+                            "explain": "coccyx",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xương cụt ở cuối cột sống",
+                            "explain": "tailbone at end of spine",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "khào cốt",
+            "pinyin": "kāo gǔ",
+            "word": "尻骨",
+            "id": 91095,
+            "phonetic": "kaogu",
+            "rank": 92962,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4f59b9bdebd74e779567f9346f5ada5c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương đủ loại (dùng để nấu keo xương)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tạp cốt",
+            "pinyin": "zá gǔ",
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "word": "杂骨",
+            "id": 185693,
+            "phonetic": "zagu",
+            "rank": 134061,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˊㄍㄨˇ",
+            "_id": "6ec6c2a2f4844b3ca034be93efc38f90",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(chết) xác người",
+                            "explain": "(dead) human remains",
+                            "examples": []
+                        },
+                        {
+                            "mean": "di hài; di thể",
+                            "explain": "死者的尸体 (多用于所尊敬的人)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "di cốt",
+            "pinyin": "yí gǔ",
+            "word": "遗骨",
+            "id": 89443,
+            "phonetic": "yigu",
+            "rank": 86424,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "38, 48, 52, 63",
+            "zhuyin": "ㄅㄟˋㄍㄨˇ",
+            "_id": "8dce4efeabca426fa2abc980cf4de91f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương sống",
+                            "explain": "spine",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "bội cốt",
+            "pinyin": "bèigǔ",
+            "word": "背骨",
+            "id": 93158,
+            "phonetic": "beigu",
+            "rank": 104216,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚˇㄍㄨˇ",
+            "_id": "447ad997c111f1fa092ffd8df80b2fdc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương bả vai",
+                            "explain": "人体胸背部最上部外侧的骨头，左右各一，略作三角形肩胛骨、锁骨和肱骨构成肩关节有的地区叫琵琶骨 见〖肩胛骨〗",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "giáp cốt",
+            "pinyin": "jiǎ gǔ",
+            "word": "胛骨",
+            "id": 27729,
+            "phonetic": "jiagu",
+            "rank": 147943,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄝˋㄍㄨˇ",
+            "_id": "225f4f0f92dcb4ab4a81ae50436c8fd8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sâu sắc; thiết cốt",
+                            "explain": "透骨、澈骨形容非常深刻",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "thiết cốt",
+            "pinyin": "qiè gǔ",
+            "word": "切骨",
+            "id": 42818,
+            "phonetic": "qiegu",
+            "rank": 117872,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝㄍㄨˇ",
+            "_id": "804565a71a1dd0a6f3ccceb70263693c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nối xương; bó xương (đông y)",
+                            "explain": "中医指用一定的手法 (必要时配合药物和器械) 把折断的骨头接起来使它逐渐复原",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tiếp xương",
+                            "explain": "医治受伤断骨的方法把折断的骨头接起来, 使它逐渐复原",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "tiếp cốt",
+            "pinyin": "jiēgǔ",
+            "word": "接骨",
+            "id": 29385,
+            "phonetic": "jiegu",
+            "rank": 83375,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨˇㄓㄣ",
+            "_id": "82a84e4a26274bd49bc7601a8efd09c8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kim xương (trong khảo cổ học)",
+                            "explain": "bone needle (in archaeology)",
+                            "examples": [
+                                {
+                                    "m": "Những chiếc kim xương và đầu mũi tên bằng xương này là nhân chứng hùng hồn về nỗ lực chinh phục thiên nhiên của con người nguyên thủy",
+                                    "p_vn": "Nhung chiec kim xuong va dau mui ten bang xuong nay la nhan chung hung hon ve no luc chinh phuc thien nhien cua con nguoi nguyen thuy",
+                                    "_id": "307cdf9a3d224da781001373c53b5d8f",
+                                    "id": 68122,
+                                    "type": "e_cnvi",
+                                    "e": "这些骨针和骨镞，是原始人力求征服自然的有力见证",
+                                    "p_cn": "Zhexie gu zhen he gu zu, shi yuanshi ren liqiu zhengfu ziran de youli jianzheng",
+                                    "p": "Zhèxiē gǔ zhēn hé gǔ zú, shì yuánshǐ rén lìqiú zhēngfú zìrán de yǒulì jiànzhèng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "spicule (trong sinh học)",
+                            "explain": "spicule (in biology)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "cốt châm",
+            "pinyin": "gǔ zhēn",
+            "word": "骨针",
+            "id": 100811,
+            "phonetic": "guzhen",
+            "rank": 88248,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨˇㄎㄜˋ",
+            "_id": "18c266023f0296549743829aac173f74",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "điêu khắc xương",
+                            "explain": "用骨头作的雕刻",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "cốt khắc",
+            "pinyin": "gǔ kè",
+            "word": "骨刻",
+            "id": 20453,
+            "phonetic": "guke",
+            "rank": 127138,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "18ecbd1435e14c18bd429101a9f93177",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "túi zip; túi miết",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "cốt đại",
+            "pinyin": "gǔ dài",
+            "popularity": {
+                "notebook": 1,
+                "search": 14
+            },
+            "word": "骨袋",
+            "id": 186756,
+            "phonetic": "gudai",
+            "rank": 94251,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "52",
+            "zhuyin": "ㄔㄨㄟˊㄍㄨˇ",
+            "_id": "2cdc92dd0fa473fe1fb3e8d81cb4c739",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương búa (ở tai)",
+                            "explain": "内耳听骨之一，形状像锤子，跟鼓膜相连，能把++声音的振动传给砧骨和镫骨",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "chuỳ cốt",
+            "pinyin": "chuí gǔ",
+            "word": "锤骨",
+            "id": 8988,
+            "phonetic": "chuigu",
+            "rank": 112672,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄥˊㄍㄨˇ",
+            "_id": "77fbf1e3c662463280b9894892b328ec",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương mu",
+                            "explain": "pubic bone",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "hoành cốt",
+            "pinyin": "héng gǔ",
+            "word": "横骨",
+            "id": 97671,
+            "phonetic": "henggu",
+            "rank": 121140,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨˇㄈㄚˇ",
+            "_id": "7a8742f7684d440c8b92d4a4a7758de1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cấu trúc xương và sinh lý học",
+                            "explain": "bone structure and physiognomy",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sức mạnh quan sát được trong nét vẽ (thư pháp Trung Quốc)",
+                            "explain": "the strength observed in brushstrokes (Chinese calligraphy)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "cốt pháp",
+            "pinyin": "gǔfǎ",
+            "word": "骨法",
+            "id": 89574,
+            "phonetic": "gufa",
+            "rank": 125107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "52",
+            "zhuyin": "ㄎㄨㄢㄍㄨˇ",
+            "_id": "2f920f058b01c4fe204edcceed977698",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương hông",
+                            "explain": "组成骨盆的大骨， 左右各 一， 形状不规则， 是由髋骨，坐骨和耻骨合成的通称胯骨",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "khoan cốt",
+            "pinyin": "kuān gǔ",
+            "word": "髋骨",
+            "id": 32932,
+            "phonetic": "kuangu",
+            "rank": 83777,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄟˋㄍㄨˇ",
+            "_id": "7dd64878df588134e21ce024cb7aaade",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "khúm núm; luồn cúi; nịnh nọt (dáng điệu)",
+                            "explain": "奴颜媚骨：形容卑躬屈膝地奉承巴结的样子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 52
+            },
+            "snym": {
+                "syno": [
+                    "奴颜",
+                    "贱骨",
+                    "谄媚"
+                ],
+                "anto": [
+                    "傲骨"
+                ]
+            },
+            "cn_vi": "mị cốt",
+            "pinyin": "mèigǔ",
+            "word": "媚骨",
+            "id": 37505,
+            "phonetic": "meigu",
+            "rank": 56727,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄣˊㄍㄨˇ",
+            "topic": "52",
+            "_id": "27fdae4f5477095b4c96e10f70927ad3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Xương chậu; hông",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "bồn cốt",
+            "pinyin": "pén gǔ",
+            "word": "盆骨",
+            "id": 82209,
+            "phonetic": "pengu",
+            "rank": 91558,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠㄍㄨˇ",
+            "_id": "5f3b61679b9d477ebf34f39f86a61e13",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xương mu",
+                            "explain": "pubic bone",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "giao cốt",
+            "pinyin": "jiāo gǔ",
+            "word": "交骨",
+            "id": 94601,
+            "phonetic": "jiaogu",
+            "rank": 149314,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ab5bd5132a7446f78e95bcfd0c4f007e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Xương gò má.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "quyền cốt",
+            "pinyin": "quán gǔ",
+            "word": "权骨",
+            "id": 170405,
+            "phonetic": "quangu",
+            "rank": 155063,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "骨头"
+}

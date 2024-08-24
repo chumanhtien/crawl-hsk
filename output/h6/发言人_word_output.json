@@ -1,0 +1,2176 @@
+{
+    "total": 4292,
+    "found": true,
+    "result": [
+        {
+            "measure": null,
+            "topic": "33",
+            "zhuyin": "ㄈㄚㄧㄢˊㄖㄣˊ",
+            "_id": "ef80b69b7a46713e62401104a253485d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người phát ngôn; phát ngôn nhân",
+                            "explain": "代表某一政权机关或组织发表意见的人",
+                            "examples": [
+                                {
+                                    "m": "người phát ngôn Bộ Ngoại Giao",
+                                    "p_vn": "nguoi phat ngon bo ngoai giao",
+                                    "_id": "527ac336f0536c69666ef6d25688b662",
+                                    "id": 10330,
+                                    "type": "e_cnvi",
+                                    "e": "外交部发言人",
+                                    "p_cn": "waijiao bu fayan ren",
+                                    "p": "wàijiāobù fāyánrén"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 111
+            },
+            "snym": {
+                "syno": [
+                    "代言人"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "fāyán rén",
+            "cn_vi": "phát ngôn nhân",
+            "word": "发言人",
+            "id": 15414,
+            "phonetic": "fayanren",
+            "rank": 39469,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sv",
+                " v",
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "zhuyin": "ㄈㄚㄧㄢˊ",
+            "_id": "d1cad7104858a9b23b72c507e07b473d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A đại diện/ ở trước/ trước mặt ...phát biểu",
+                            "examples": [
+                                138065,
+                                138066,
+                                138067
+                            ],
+                            "struct": "A + 代表.../ 在... 上/ 在... 面前/ 当着... 面 + 发言"
+                        },
+                        {
+                            "explain": "phát biểu qua",
+                            "examples": [
+                                138068,
+                                138069,
+                                138070
+                            ],
+                            "struct": "发 + 了/ 过 /个 + số từ + 言"
+                        }
+                    ],
+                    "kind": "v, sv",
+                    "means": [
+                        {
+                            "mean": "phát biểu; phát biểu ý kiến (thường trong các hội nghị), lên tiếng; phát biểu ý kiến",
+                            "explain": "发表意见 (多指在会议上)",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy phát biểu trong cuộc họp.",
+                                    "p_vn": "anh ay phat bieu trong cuoc hop.",
+                                    "_id": "9938873f438f99a1b005f100502e7f95",
+                                    "id": 138056,
+                                    "type": "e_cnvi",
+                                    "e": "他在会议上发言。",
+                                    "p_cn": "ta zai huiyi shang fayan.",
+                                    "p": "tā zài huìyì shàng fāyán."
+                                },
+                                {
+                                    "m": "Chúng tôi lần lượt phát biểu.",
+                                    "p_vn": "chung toi lan luot phat bieu.",
+                                    "_id": "9938873f438f99a1b005f100502e85bb",
+                                    "id": 138057,
+                                    "type": "e_cnvi",
+                                    "e": "我们轮流发言。",
+                                    "p_cn": "women lunliu fayan.",
+                                    "p": "wǒmen lúnliú fāyán."
+                                },
+                                {
+                                    "m": "Xin bạn phát biểu một chút.",
+                                    "p_vn": "xin ban phat bieu mot chut.",
+                                    "_id": "9938873f438f99a1b005f100502e9582",
+                                    "id": 138058,
+                                    "type": "e_cnvi",
+                                    "e": "请你发言一下。",
+                                    "p_cn": "qing ni fayan yixia.",
+                                    "p": "qǐng nǐ fāyán yīxià."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bài phát biểu; lời phát biểu; tham luận (hội nghị); phát ngôn; tham luận",
+                            "explain": "发表的意见",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi đã ghi lại từng ý kiến.",
+                                    "p_vn": "chung toi da ghi lai tung y kien.",
+                                    "_id": "9938873f438f99a1b005f100502eb271",
+                                    "id": 138061,
+                                    "type": "e_cnvi",
+                                    "e": "我们记录了每个发言。",
+                                    "p_cn": "women jilule mei ge fayan.",
+                                    "p": "wǒmen jìlùle měi gè fāyán."
+                                },
+                                {
+                                    "m": "Bài phát biểu của cô ấy đã được công nhận.",
+                                    "p_vn": "bai phat bieu cua co ay da duoc cong nhan.",
+                                    "_id": "9938873f438f99a1b005f100502ebfa3",
+                                    "id": 138062,
+                                    "type": "e_cnvi",
+                                    "e": "她的发言得到了认可。",
+                                    "p_cn": "ta de fayan dedao le renke.",
+                                    "p": "tā de fāyán dédào le rènkě."
+                                },
+                                {
+                                    "m": "Xin hãy ghi lại bài phát biểu của anh ấy.",
+                                    "p_vn": "xin hay ghi lai bai phat bieu cua anh ay.",
+                                    "_id": "9938873f438f99a1b005f100502ec5b2",
+                                    "id": 138063,
+                                    "type": "e_cnvi",
+                                    "e": "请记录下他的发言。",
+                                    "p_cn": "qing jilu xia ta de fayan.",
+                                    "p": "qǐng jìlù xià tā de fāyán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều có thể làm động từ, đều liên quan đến biểu đạt ý kiến.\nKhác:\n- \"发言\" chỉ lời nói khi ở trong hội nghị, trong lớp.\n\"发表\" chỉ hướng về tập thể, xã hội nói ra ý kiến của mình hoặc đăng bài trên báo\n- \"发言\" có thể làm danh từ, chỉ những ý kiến đã phát biểu.\n- \"发言\" là từ li hợp, ở giữa có thể xen các thành phần khác, đằng sau không thể mang thêm tân ngữ.",
+                    "title": "Phân biệt \"发言\" và \"发表\"",
+                    "words": [
+                        "发言",
+                        "发表"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "措辞",
+                    "说话",
+                    "话语",
+                    "谈话",
+                    "语言",
+                    "讲话",
+                    "言语",
+                    "掰扯",
+                    "一谈"
+                ],
+                "anto": [
+                    "沉默"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "fāyán",
+            "cn_vi": "phát ngôn",
+            "popularity": {
+                "notebook": 200,
+                "search": 2069
+            },
+            "word": "发言",
+            "id": 15413,
+            "phonetic": "fayan",
+            "rank": 5441,
+            "lv_tocfl": 4,
+            "compound": "发言人，发言权"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄈㄚㄧㄢˊㄖㄣˊㄐㄧˋㄑㄧㄠˇ",
+            "_id": "031f47a2f2634d838494ce5740dd0fbe",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Spokes Person Tips",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "phát ngôn nhân kĩ xảo",
+            "pinyin": "Fāyán rén jìqiǎo",
+            "word": "发言人技巧",
+            "id": 158232,
+            "phonetic": "Fayanrenjiqiao",
+            "rank": 110723,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄣㄨㄣˊㄈㄚㄧㄢˊㄖㄣˊ",
+            "_id": "cec7df1dfd7341d2846480b0a10d3f53",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người phát ngôn",
+                            "explain": "spokesman",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "tân văn phát ngôn nhân",
+            "pinyin": "xīnwén fāyán rén",
+            "word": "新闻发言人",
+            "id": 142861,
+            "phonetic": "xinwenfayanren",
+            "rank": 87102,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄧㄢˊㄑㄩㄢˊ",
+            "_id": "2da97deb8d134fa0b509d5dc5756a775",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quyền ngôn luận",
+                            "explain": "the right of speech",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 238
+            },
+            "snym": null,
+            "cn_vi": "phát ngôn quyền",
+            "pinyin": "fāyán quán",
+            "word": "发言权",
+            "id": 117372,
+            "phonetic": "fayanquan",
+            "rank": 25555,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄢˊㄖㄣˊㄖㄣˊㄕㄨ",
+            "_id": "3c04d9a26f230a756dc6da91745e2df0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "mỗi người có chủ kiến riêng",
+                            "explain": "每人所说的话各不相同，指各人有各人的见解",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": {
+                "syno": [
+                    "众说纷纭",
+                    "各抒己见",
+                    "各执一词",
+                    "莫衷一是"
+                ],
+                "anto": [
+                    "一辞同轨",
+                    "众口一词",
+                    "异口同声",
+                    "不约而同",
+                    "不谋而合",
+                    "异曲同工"
+                ]
+            },
+            "cn_vi": "ngôn nhân nhân thù",
+            "pinyin": "yán rén rén shū",
+            "word": "言人人殊",
+            "id": 58121,
+            "phonetic": "yanrenrenshu",
+            "rank": 106774,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "33",
+            "zhuyin": "ㄉㄞˋㄧㄢˊㄖㄣˊ",
+            "_id": "c7f99bdbfe64d623e31d3ea0f81f2988",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người phát ngôn",
+                            "explain": "代表某方面 (阶级、集团等) 发表言论的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 277
+            },
+            "snym": {
+                "syno": [
+                    "发言人",
+                    "中人"
+                ]
+            },
+            "cn_vi": "đại ngôn nhân",
+            "pinyin": "dàiyánrén",
+            "word": "代言人",
+            "id": 10820,
+            "phonetic": "daiyanren",
+            "rank": 23290,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄧㄢˊㄅㄨˋㄈㄚ",
+            "_id": "0d3252456b64db583da5a3cc08c82d40",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "chẳng ừ chẳng hử; chẳng nói câu nào",
+                            "explain": "一句话也不说",
+                            "examples": []
+                        },
+                        {
+                            "mean": "im lìm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 148
+            },
+            "snym": {
+                "syno": [
+                    "一声不响",
+                    "不赞一词",
+                    "欲言又止",
+                    "三缄其口",
+                    "不言不语",
+                    "一声不吭",
+                    "一语不发",
+                    "三言两语",
+                    "一言半语",
+                    "一声不哼"
+                ],
+                "anto": [
+                    "侃侃而谈",
+                    "絮絮叨叨",
+                    "喋喋不休",
+                    "口若悬河",
+                    "滔滔不绝",
+                    "说长话短",
+                    "说长道短",
+                    "舌敝唇焦",
+                    "脱口而出",
+                    "高谈阔论",
+                    "千言万语",
+                    "口口声声"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yī yán bù fā",
+            "cn_vi": "nhất ngôn bất phát",
+            "word": "一言不发",
+            "id": 59337,
+            "phonetic": "yiyanbufa",
+            "rank": 33649,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄧㄢˊㄓㄨㄥㄎㄣˇ",
+            "_id": "17e01e82ed7f417a883d03b6618382b8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "đánh đinh vào đầu (thành ngữ)",
+                            "explain": "to hit the nail on the head (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "phát ngôn trung khẳng",
+            "pinyin": "fāyán zhòngkěn",
+            "word": "发言中肯",
+            "id": 136675,
+            "phonetic": "fayanzhongken",
+            "rank": 102910,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f864c67cae8e4419bbb32b5bf0f7fc13",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người giao thầu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phát bao nhân",
+            "pinyin": "fābāo rén",
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "word": "发包人",
+            "id": 176226,
+            "phonetic": "fabaoren",
+            "rank": 112456,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄚㄏㄨㄚˋㄖㄣˊ",
+            "topic": "77",
+            "_id": "e09df6e8dd7590b8997f73379c0e4512",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người gọi",
+                            "explain": "发话人（sender）是2011年公布的语言学名词。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "phát thoại nhân",
+            "pinyin": "fāhuà rén",
+            "word": "发话人",
+            "id": 80883,
+            "phonetic": "fahuaren",
+            "rank": 158527,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄒㄧㄥˊㄖㄣˊ",
+            "_id": "9e5409177d7d40e9b9d900fb2546a2dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người phát hành",
+                            "explain": "issuer",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhà xuất bản",
+                            "explain": "publisher",
+                            "examples": [
+                                {
+                                    "m": "Trường học không phải là nhà xuất bản ở đây sao?",
+                                    "p_vn": "truong hoc khong phai la nha xuat ban o day sao?",
+                                    "_id": "15aceddcc75a4dd3b0a315aad818f02b",
+                                    "id": 66321,
+                                    "type": "e_cnvi",
+                                    "e": "报纸发行人在这儿吗",
+                                    "p_cn": "baozhi faxingren zai zher ma",
+                                    "p": "bàozhǐ fāxíngrén zài zhèr ma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "phát hành nhân",
+            "pinyin": "fāxíng rén",
+            "word": "发行人",
+            "id": 117371,
+            "phonetic": "faxingren",
+            "rank": 82661,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄇㄧㄥˊㄖㄣˊ",
+            "_id": "474e4f695aa14cc9bf365119a90b543f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người phát minh",
+                            "explain": "inventor",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "phát minh nhân",
+            "pinyin": "fāmíng rén",
+            "word": "发明人",
+            "id": 117365,
+            "phonetic": "famingren",
+            "rank": 89358,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄑㄧˇㄖㄣˊ",
+            "_id": "3609fffb0b474ee0805bed2546877bb7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thành viên sáng lập",
+                            "explain": "founding member",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người khởi xướng",
+                            "explain": "initiator",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người đề nghị",
+                            "explain": "proposer",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 68
+            },
+            "snym": null,
+            "cn_vi": "phát khởi nhân",
+            "pinyin": "fāqǐ rén",
+            "word": "发起人",
+            "id": 111982,
+            "phonetic": "faqiren",
+            "rank": 50239,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e07cf5d17cf44a24bf94c41ef00be061",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người báo giá",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "phát bàn nhân",
+            "pinyin": "fā pán rén",
+            "word": "发盘人",
+            "id": 167072,
+            "phonetic": "fapanren",
+            "rank": 106603,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄐㄧㄢˋㄖㄣˊ",
+            "_id": "17578852096740b38802a4c08229e4a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Từ: (tiêu đề email)",
+                            "explain": "From: (email header)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người gửi (trong số thư)",
+                            "explain": "sender (of mail)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 117
+            },
+            "snym": null,
+            "cn_vi": "phát kiện nhân",
+            "pinyin": "fā jiàn rén",
+            "word": "发件人",
+            "id": 117358,
+            "phonetic": "fajianren",
+            "rank": 38268,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄅㄠˋㄖㄣˊ",
+            "_id": "9423553fde21450cbcc90f620de9b22f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người gửi (của một tin nhắn)",
+                            "explain": "sender (of a message)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "phát báo nhân",
+            "pinyin": "fā bào rén",
+            "word": "发报人",
+            "id": 114130,
+            "phonetic": "fabaoren",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄚㄏㄨㄛˋㄖㄣˊ",
+            "_id": "28669307e22df9812414312eee3f9dc6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người gửi hàng, người bán hàng",
+                            "explain": "在国际贸易中发货人即指办理货物托运手续的办理人，他可以是货主，也可以是受委托的代理人。但我们通常会将发货人与货主、经办人、托运人、委托人混为一谈，其实在大多情况下他们可以是同一个人，但也有很多不同的情况时他们就可以不是一个人。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 121
+            },
+            "snym": null,
+            "cn_vi": "phát hoá nhân",
+            "pinyin": "fā huò rén",
+            "word": "发货人",
+            "id": 69301,
+            "phonetic": "fahuoren",
+            "rank": 37644,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8a302131bb324ef0ba46664f7de1a973",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người phát ngôn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phát bố nhân",
+            "pinyin": "fābù rén",
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "word": "发布人",
+            "id": 185187,
+            "phonetic": "faburen",
+            "rank": 139269,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄚㄑㄧㄡˊㄖㄣˊ",
+            "topic": "6",
+            "_id": "aeb5f4847df41bb643370b28bcf22011",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người phát bóng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "phát cầu nhân",
+            "pinyin": "fāqiú rén",
+            "word": "发球人",
+            "id": 69285,
+            "phonetic": "faqiuren",
+            "rank": 140069,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˊㄈㄚㄖㄣˊㄙㄨㄥˋㄏㄟㄈㄚㄖㄣˊ",
+            "_id": "cefe530ec37c435fbeef1545fdd08bb5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "người tóc bạc tiễn kẻ đầu xanh",
+                            "explain": "to see one's child die before oneself",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "bạch phát nhân tống hắc phát nhân",
+            "pinyin": "bái fà rén sòng hēi fǎ rén",
+            "word": "白发人送黑发人",
+            "id": 146007,
+            "phonetic": "baifarensongheifaren",
+            "rank": 86682,
+            "kind": [
+                "proverb"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄗㄠˋㄩˇㄧㄢˊ",
+            "_id": "406c046a246b4cb6b9df0f1e6bc07b0c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngôn ngữ nhân tạo",
+                            "explain": "artificial language",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngôn ngữ xây dựng",
+                            "explain": "constructed language",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "nhân tạo ngữ ngôn",
+            "pinyin": "rénzào yǔyán",
+            "word": "人造语言",
+            "id": 131376,
+            "phonetic": "renzaoyuyan",
+            "rank": 140552,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄧㄢˊㄐㄧˊㄐㄧˊ",
+            "_id": "ffc72f4929284212ac36a1689145b307",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "lời qua tiếng lại",
+                            "explain": "人们议论纷纷",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": {
+                "syno": [
+                    "人言可畏",
+                    "流言蜚语"
+                ]
+            },
+            "cn_vi": "nhân ngôn tịch tịch",
+            "pinyin": "rén yán jí jí",
+            "word": "人言籍籍",
+            "id": 129665,
+            "phonetic": "renyanjiji",
+            "rank": 143286,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧˇㄖㄣˊㄈㄟˋㄧㄢˊ",
+            "_id": "5233d06745954bf32eb10f9a036a704a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "ghét nghe; không thèm nghe; chẳng thèm nghe",
+                            "explain": "因为某人不好或不喜欢某人而不管他的话是否有道理，概不听取",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 5
+            },
+            "snym": {
+                "syno": [
+                    "因人废言"
+                ]
+            },
+            "cn_vi": "dĩ nhân phế ngôn",
+            "pinyin": "yǐ rén fèi yán",
+            "word": "以人废言",
+            "id": 59679,
+            "phonetic": "yirenfeiyan",
+            "rank": 121460,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄜˋㄧㄢˊㄕㄤㄖㄣˊ",
+            "_id": "b85387cbaf0b49f9befd13255b6aee92",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "để chỉ đạo ngôn ngữ xấu tại ai đó",
+                            "explain": "to direct bad language at sb",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xúc phạm",
+                            "explain": "to insult",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xỉa xói",
+                            "explain": "to slag off",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "ác ngôn thương nhân",
+            "pinyin": "è yán shāng rén",
+            "word": "恶言伤人",
+            "id": 134557,
+            "phonetic": "eyanshangren",
+            "rank": 154872,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "33fd35d93afe4d0a83c2aaafdbf07297",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "doạ già",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "đại ngôn hổ nhân",
+            "pinyin": "dà yán hǔ rén",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "大言虎人",
+            "id": 181935,
+            "phonetic": "dayanhuren",
+            "rank": 158107,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄧㄢˊㄎㄜˇㄨㄟˋ",
+            "_id": "74e4f463e29a40ac9137843d5c01136d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "nói chuyện phiếm là một điều đáng sợ (thành ngữ)",
+                            "explain": "gossip is a fearful thing (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 134
+            },
+            "snym": {
+                "syno": [
+                    "众口铄金",
+                    "人言藉藉",
+                    "流言蜚语",
+                    "人言籍籍",
+                    "积销毁骨"
+                ],
+                "anto": [
+                    "口碑载道",
+                    "有口皆碑"
+                ]
+            },
+            "cn_vi": "nhân ngôn khả uý",
+            "pinyin": "rén yán kě wèi",
+            "word": "人言可畏",
+            "id": 131374,
+            "phonetic": "renyankewei",
+            "rank": 35586,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄨㄟㄧㄢˊㄑㄧㄥ",
+            "_id": "0974587bad3626191aa924541ec30d8d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "người nhỏ, lời nhẹ; người có địa vi thấp kém thì lời nói không có sức thuyết phục, không được coi trọng; thấp cổ bé họng",
+                            "explain": "指地位低，言论主张不受人重视",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 35,
+                "search": 103
+            },
+            "snym": {
+                "syno": [
+                    "微不足道",
+                    "人微权轻",
+                    "人微言贱",
+                    "人微望轻",
+                    "低人一等"
+                ],
+                "anto": [
+                    "一言九鼎",
+                    "一言千金",
+                    "九鼎大吕",
+                    "权重如山"
+                ]
+            },
+            "cn_vi": "nhân vi ngôn khinh",
+            "pinyin": "rénwéiyánqīng",
+            "word": "人微言轻",
+            "id": 44260,
+            "phonetic": "renweiyanqing",
+            "rank": 40937,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄍㄨㄥㄩˇㄧㄢˊ",
+            "topic": "35, 60",
+            "_id": "1f8442a7e4e6b18bf5cafbeb528c7144",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ngôn ngữ nhân tạo",
+                            "explain": "人工语言即“人造语言”。英文是constructed language（或者planned language），简称conlang，热衷构造语言的人一般称为conlanger。为了各种目的，由某些人制造出的语言，其制造者或是致力于世界大同或自由沟通的理想主义者，或是有特殊爱好的作家，也可能是非法或秘密组织的成员。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "nhân công ngữ ngôn",
+            "pinyin": "réngōng yǔyán",
+            "word": "人工语言",
+            "id": 68331,
+            "phonetic": "rengongyuyan",
+            "rank": 144991,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄒㄩˋㄖㄣˊㄧㄢˊ",
+            "_id": "687adf405a464b52a728b9a3d598e22c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "không phải lo lắng về những lời đàm tiếu (thành ngữ); làm điều đúng đắn bất kể người khác nói gì",
+                            "explain": "not to worry about the gossip (idiom); to do the right thing regardless of what others say",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": {
+                "anto": [
+                    "百顺百依",
+                    "百依百顺",
+                    "谨言慎行"
+                ]
+            },
+            "cn_vi": "bất tuất nhân ngôn",
+            "pinyin": "bùxù rén yán",
+            "word": "不恤人言",
+            "id": 129573,
+            "phonetic": "buxurenyan",
+            "rank": 125325,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄍㄨㄛˋㄉㄜ˙ㄕˋㄧㄢˊ",
+            "_id": "92b4dd0b3a1a485f880baf680d873dcf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Phát qua lời tuyên thệ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Không có sự thật, không có công lý, những người này đã phá vỡ giao ước và phá vỡ lời thề mà họ đã thực hiện.",
+                                    "p_vn": "Khong co su that, khong co cong ly, nhung nguoi nay da pha vo giao uoc va pha vo loi the ma ho da thuc hien.",
+                                    "_id": "cc70714fc36d4ff998fbf768ce14539a",
+                                    "id": 67783,
+                                    "type": "e_cnvi",
+                                    "e": "这些人没有真理，没有正义，违犯了盟约，背弃了发过的誓言。",
+                                    "p_cn": "Zhexie ren meiyou zhenli, meiyou zhengyi, weifanle mengyue, beiqile faguo de shiyan.",
+                                    "p": "Zhèxiē rén méiyǒu zhēnlǐ, méiyǒu zhèngyì, wéifànle méngyuē, bèiqìle fāguò de shìyán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "phát quá đích thệ ngôn",
+            "pinyin": "fāguò de shìyán",
+            "word": "发过的誓言",
+            "id": 152780,
+            "phonetic": "faguodeshiyan",
+            "rank": 103863,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧㄥˋㄖㄣˊㄈㄚㄓˇ",
+            "_id": "43a20ee28b5e45bfbf909c549c77b4f3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "dựng tóc gáy vì tức giận (thành ngữ); để nâng cao tin tặc của mọi người",
+                            "explain": "to make one's hair stand up in anger (idiom); to raise people's hackles",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 56
+            },
+            "snym": {
+                "syno": [
+                    "怒气冲冲",
+                    "怒不可遏",
+                    "怒形于色",
+                    "发指尽裂",
+                    "怒发冲冠",
+                    "义愤填膺",
+                    "势不两立",
+                    "誓不两立",
+                    "你死我活",
+                    "令人切齿",
+                    "不共戴天"
+                ],
+                "anto": [
+                    "喜形于色",
+                    "兴高采烈",
+                    "欢欣鼓舞",
+                    "一笑置之",
+                    "令人神往"
+                ]
+            },
+            "cn_vi": "lệnh nhân phát chỉ",
+            "pinyin": "lìng rén fàzhǐ",
+            "word": "令人发指",
+            "id": 133746,
+            "phonetic": "lingrenfazhi",
+            "rank": 54884,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄠㄈㄚㄖㄣˊㄑㄩㄣˊ",
+            "_id": "2e0e419c95ce4f9fbae10df53dd3335b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhóm nguy cơ cao (trung bình)",
+                            "explain": "high-risk group (med.)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "cao phát nhân quần",
+            "pinyin": "gāofā rénqún",
+            "word": "高发人群",
+            "id": 133445,
+            "phonetic": "gaofarenqun",
+            "rank": 151201,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄢㄖㄣˊㄕㄚㄈㄚ",
+            "_id": "7a0d4cb4eef1466ba0b7f324e183898f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(bọc) ghế bành",
+                            "explain": "(upholstered) armchair",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "đơn nhân sa phát",
+            "pinyin": "dān rén shāfā",
+            "word": "单人沙发",
+            "id": 131612,
+            "phonetic": "danrenshafa",
+            "rank": 115047,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄖㄣˊㄕㄣㄙ",
+            "_id": "aaaf9671d6634bd6a78b2e3511ac0a4d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "(thành ngữ) kích thích tư duy",
+                            "explain": "(idiom) thought-provoking",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cho một thức ăn để suy nghĩ",
+                            "explain": "to give one food for thought",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 25
+            },
+            "snym": {
+                "syno": [
+                    "发人深省"
+                ],
+                "anto": [
+                    "执迷不悟"
+                ]
+            },
+            "cn_vi": "phát nhân thâm tư",
+            "pinyin": "fā rén shēnsī",
+            "word": "发人深思",
+            "id": 131661,
+            "phonetic": "farenshensi",
+            "rank": 76251,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢㄈㄚㄓˋㄖㄣˊ",
+            "_id": "ce2dd3d40f93fb63e1c1849048de6316",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "đánh đòn phủ đầu; hành động trước để kiềm chế đối phương",
+                            "explain": "先动手以制服对方",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 79,
+                "search": 1172
+            },
+            "snym": {
+                "syno": [
+                    "先声夺人",
+                    "争先恐后",
+                    "先下手为强"
+                ],
+                "anto": [
+                    "后发制人"
+                ]
+            },
+            "cn_vi": "tiên phát chế nhân",
+            "pinyin": "xiānfāzhìrén",
+            "word": "先发制人",
+            "id": 54870,
+            "phonetic": "xianfazhiren",
+            "rank": 8658,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "72e73d19724b4838a64ce995ee9ee892",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phát triển cá nhân",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "cá nhân phát triển",
+            "pinyin": "gèrén fà zhǎn",
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "word": "个人发展",
+            "id": 184921,
+            "phonetic": "gerenfazhan",
+            "rank": 114274,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄞㄈㄚㄖㄣˊㄩㄢˊ",
+            "_id": "aff150fae3f84fceaa052a82423beff1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "người phát triển",
+                            "explain": "developer",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "khai phát nhân viên",
+            "pinyin": "kāifā rényuán",
+            "word": "开发人员",
+            "id": 134488,
+            "phonetic": "kaifarenyuan",
+            "rank": 94664,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄡˇㄈㄚㄕㄚㄖㄣˊ",
+            "topic": "41",
+            "_id": "f0dd8408d37f22fef02a6d95b2f9deb7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ngộ sát",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "ngẫu phát sát nhân",
+            "pinyin": "ǒufā shārén",
+            "word": "偶发杀人",
+            "id": 81857,
+            "phonetic": "oufasharen",
+            "rank": 126341,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄡˋㄈㄚㄓˋㄖㄣˊ",
+            "_id": "25e44947028ba3252353d83147bb48b5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "lùi một bước để đánh trả đối phương; hậu phát chế nhân",
+                            "explain": "先退让一步，使自己处于有利的地位后，再制服对方",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 45
+            },
+            "snym": {
+                "syno": [
+                    "以退为进",
+                    "以退为攻",
+                    "迎头痛击",
+                    "一睹为快"
+                ],
+                "anto": [
+                    "先发制人",
+                    "先睹为快",
+                    "先下手为强"
+                ]
+            },
+            "cn_vi": "hậu phát chế nhân",
+            "pinyin": "hòufāzhìrén",
+            "word": "后发制人",
+            "id": 23818,
+            "phonetic": "houfazhiren",
+            "rank": 60647,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄡˋㄖㄣˊㄈㄚㄒㄧㄠˋ",
+            "_id": "247661d14ca044209eefc8c42fde2a6a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "để làm cho mọi người cười",
+                            "explain": "to make people laugh",
+                            "examples": [
+                                {
+                                    "m": "Tôi đang nghiên cứu cách làm cho mọi người cười.",
+                                    "p_vn": "Toi dang nghien cuu cach lam cho moi nguoi cuoi.",
+                                    "_id": "2fcc5188f318467bb0df0d2df4daf2d8",
+                                    "id": 62649,
+                                    "type": "e_cnvi",
+                                    "e": "我一直在学习如何逗人发笑",
+                                    "p_cn": "wo yizhi zai xuexi ruhe douren faxiao",
+                                    "p": "wǒ yīzhí zài xuéxí rúhé dòurén fāxiào"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "đậu nhân phát tiếu",
+            "pinyin": "dòu rén fà xiào",
+            "word": "逗人发笑",
+            "id": 135876,
+            "phonetic": "dourenfaxiao",
+            "rank": 97699,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄚㄖㄣˊㄕㄣㄕㄥˇ",
+            "_id": "bdc564cac49bd8edc30ff8e55fc6887a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "khiến người tỉnh ngộ",
+                            "explain": "启发人深刻醒悟'省'也作醒",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 115
+            },
+            "snym": {
+                "syno": [
+                    "发人深思",
+                    "发人深醒",
+                    "振聋发聩",
+                    "耐人寻味",
+                    "语重心长",
+                    "言近旨远",
+                    "微言大义",
+                    "回头是岸",
+                    "浪子回头",
+                    "迷途知返",
+                    "引人深思"
+                ],
+                "anto": [
+                    "执迷不悟"
+                ]
+            },
+            "cn_vi": "phát nhân thâm tỉnh",
+            "pinyin": "fārénshēnxǐng",
+            "word": "发人深省",
+            "id": 15368,
+            "phonetic": "farenshenxing",
+            "rank": 38697,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˊㄐㄧㄢㄓㄥㄈㄚ",
+            "_id": "b869aafc09a642beb3939fee140a9d6a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "biến mất khỏi mặt đất",
+                            "explain": "to disappear from the face of the earth; to vanish",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 68
+            },
+            "snym": null,
+            "cn_vi": "nhân gian chưng phát",
+            "pinyin": "rénjiān zhēngfā",
+            "word": "人间蒸发",
+            "id": 138705,
+            "phonetic": "renjianzhengfa",
+            "rank": 50214,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄢˇㄖㄣˊㄕㄚㄈㄚ",
+            "_id": "b6c667ddb1bb4e3d9f42f4972b8c2943",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bao đậu",
+                            "explain": "beanbag",
+                            "examples": [
+                                {
+                                    "m": "Chỉ là mạng nhện và những chiếc ghế beanbag.",
+                                    "p_vn": "Chi la mang nhen va nhung chiec ghe beanbag.",
+                                    "_id": "ca971fc3707046aca56811008f163dbf",
+                                    "id": 62338,
+                                    "type": "e_cnvi",
+                                    "e": "就是些蜘蛛网与懒人沙发",
+                                    "p_cn": "jiushi xie zhizhuwang yu lanren shafa",
+                                    "p": "jìushì xiē zhīzhūwǎng yǔ lǎnrén shāfā"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "lãn nhân sa phát",
+            "pinyin": "lǎn rén shāfā",
+            "word": "懒人沙发",
+            "id": 132162,
+            "phonetic": "lanrenshafa",
+            "rank": 79047,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄚㄏㄠˇㄖㄣˊㄎㄚˇ",
+            "_id": "c2c1e179d69948b6a6c2942fd5409f08",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(tiếng lóng) để từ chối ai đó (bằng cách gán cho họ là'người tốt')",
+                            "explain": "(slang) to reject sb (by labeling them a'nice guy')",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 23
+            },
+            "snym": null,
+            "cn_vi": "phát hảo nhân ca",
+            "pinyin": "fā hǎorén kǎ",
+            "word": "发好人卡",
+            "id": 129854,
+            "phonetic": "fahaorenka",
+            "rank": 78460,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄢˊ",
+            "_id": "17ee69404a5d3211979b55eebd5ea570",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lời nói",
+                            "explain": "所说的话",
+                            "examples": [
+                                {
+                                    "m": "Có lời nói trước.",
+                                    "p_vn": "co loi noi truoc.",
+                                    "_id": "be8ae5caa5a915dfe1c1dbbb0c637826",
+                                    "id": 43978,
+                                    "type": "e_cnvi",
+                                    "e": "有言在先。",
+                                    "p_cn": "youyanzaixian",
+                                    "p": "yǒuyánzàixiān"
+                                },
+                                {
+                                    "m": "Lời có hạn nhưng ý nghĩa thì vô tận.",
+                                    "p_vn": "loi co han nhung y nghia thi vo tan.",
+                                    "_id": "14efac6dac605da851a3d05d1716290c",
+                                    "id": 41043,
+                                    "type": "e_cnvi",
+                                    "e": "言有尽而意无穷。",
+                                    "p_cn": "yanyou jin er yi wuqiong.",
+                                    "p": "yányǒu jìn ér yì wúqióng."
+                                },
+                                {
+                                    "m": "Anh ấy có lời muốn nói.",
+                                    "p_vn": "anh ay co loi muon noi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b7cf3e",
+                                    "id": 95960,
+                                    "type": "e_cnvi",
+                                    "e": "他有言想说。",
+                                    "p_cn": "ta you yan xiang shuo.",
+                                    "p": "tā yǒu yán xiǎng shuō."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ngôn; từ; chữ",
+                            "explain": "说出来的能够表达思想的声音, 也指把这种声音记录下来的文字",
+                            "examples": [
+                                {
+                                    "m": "Một từ khó nói hết.",
+                                    "p_vn": "mot tu kho noi het.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab400965",
+                                    "id": 89276,
+                                    "type": "e_cnvi",
+                                    "e": "一言难尽。",
+                                    "p_cn": "yiyannanjin.",
+                                    "p": "yīyánnánjìn."
+                                },
+                                {
+                                    "m": "Cuốn sách chứa gần 200.000 từ.",
+                                    "p_vn": "cuon sach chua gan 200.000 tu.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b7d7d6",
+                                    "id": 95961,
+                                    "type": "e_cnvi",
+                                    "e": "全书近二十万言。",
+                                    "p_cn": "quanshu jin ershi wan yan.",
+                                    "p": "quánshū jìn èrshí wàn yán."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Ngôn",
+                            "explain": "姓。",
+                            "examples": [
+                                {
+                                    "m": "Tôi họ Ngôn.",
+                                    "p_vn": "toi ho ngon.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b7e622",
+                                    "id": 95963,
+                                    "type": "e_cnvi",
+                                    "e": "我姓言。",
+                                    "p_cn": "wo xing yan.",
+                                    "p": "wǒ xìng yán."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nói",
+                            "explain": "说",
+                            "examples": [
+                                {
+                                    "m": "Giáo viên nói rõ yêu cầu của bài tập.",
+                                    "p_vn": "giao vien noi ro yeu cau cua bai tap.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b7ef00",
+                                    "id": 95965,
+                                    "type": "e_cnvi",
+                                    "e": "老师言明了作业的要求。",
+                                    "p_cn": "laoshi yanmingle zuoye de yaoqiu.",
+                                    "p": "lǎoshī yánmíngle zuòyè de yāoqiú."
+                                },
+                                {
+                                    "m": "Anh ấy đã nói rõ suy nghĩ của mình.",
+                                    "p_vn": "anh ay da noi ro suy nghi cua minh.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9b8153a",
+                                    "id": 95968,
+                                    "type": "e_cnvi",
+                                    "e": "他言明了自己的想法。",
+                                    "p_cn": "ta yanmingle ziji de xiangfa.",
+                                    "p": "tā yánmíngle zìjǐ de xiǎngfǎ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 186,
+                "search": 4871
+            },
+            "snym": {
+                "anto": [
+                    "行"
+                ]
+            },
+            "cn_vi": "ngôn.ngân",
+            "pinyin": "yán",
+            "word": "言",
+            "id": 58106,
+            "phonetic": "yan",
+            "rank": 2472,
+            "lv_tocfl": null,
+            "compound": "言必有中 ; 言不及义 ; 言不由衷 ; 言出法随 ; 言传身教 ; 言辞 ; 言归于好 ; 言归正传 ; 言过其实 ; 言和 ; 言简意赅 ; 言教 ; 言路 ; 言论 ; 言人人殊 ; 言声儿 ; 言谈 ; 言听计从 ; 言为心声 ; 言行 ; 言犹在耳 ; 言语 ; 言责 ; 言者无罪，闻者足戒 ; 言之无物 ; 言重"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄧˇㄖㄣˊㄈㄟˋㄧㄢˊ",
+            "_id": "4ece8af7261c4214bb9936925d0d1515",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "không từ chối một từ vì người nói (thành ngữ, từ Analects); đánh giá dựa trên giá trị của vụ việc thay vì ưu tiên giữa các cố vấn",
+                            "explain": "not to reject a word because of the speaker (idiom, from Analects); to judge on the merits of the case rather than preference between advisers",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "bất dĩ nhân phế ngôn",
+            "pinyin": "bù yǐ rén fèi yán",
+            "word": "不以人废言",
+            "id": 142354,
+            "phonetic": "buyirenfeiyan",
+            "rank": 144876,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄚㄉㄧㄢˋㄔㄤˇㄍㄨㄥㄖㄣˊ",
+            "_id": "2b84ea1678a41a4a45234e0ef88f5ad6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Công nhân nhà máy điện",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "phát điện xưởng công nhân",
+            "pinyin": "fādiàn chǎng gōngrén",
+            "word": "发电厂工人",
+            "id": 79016,
+            "phonetic": "fadianchanggongren",
+            "rank": 146235,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "c52ada02a3f34dcfad49afca59100859",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "check mail",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 41
+            },
+            "snym": null,
+            "cn_vi": "thu phát y mĩ nhân",
+            "pinyin": "shōufā yīměi rén",
+            "word": "收发伊美人",
+            "id": 167520,
+            "phonetic": "shoufayimeiren",
+            "rank": 63337,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "6a20060c8e674adaac9acc6610310aa6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tóc người",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "nhân loại đích đầu phát",
+            "pinyin": "rénlèi de tóufǎ",
+            "word": "人类的头发",
+            "id": 165502,
+            "phonetic": "renleidetoufa",
+            "rank": 128168,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "发言人"
+}

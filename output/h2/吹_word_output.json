@@ -1,0 +1,2425 @@
+{
+    "total": 125,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟ",
+            "_id": "c2174488e694dece24f7313bf25958f3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "hả năng hoặc sở thích liên quan đến tâng bốc hoặc khoe khoang",
+                            "examples": [
+                                138341,
+                                138342
+                            ],
+                            "struct": "Động từ (能/爱/是/不是) + 吹"
+                        },
+                        {
+                            "explain": "thổi ra; thổi; nói ra",
+                            "examples": [
+                                138343,
+                                138344
+                            ],
+                            "struct": "吹 + 出来"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi; hà hơi",
+                            "explain": "合拢嘴唇用力出气",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy nhẹ nhàng thổi tắt nến.",
+                                    "p_vn": "anh ay nhe nhang thoi tat nen.",
+                                    "_id": "641148288b13f4cf43a85133e85b9ff7",
+                                    "id": 115777,
+                                    "type": "e_cnvi",
+                                    "e": "他轻轻吹灭了蜡烛。",
+                                    "p_cn": "ta qing qing chui miele lazhu.",
+                                    "p": "tā qīng qīng chuī mièle làzhú."
+                                },
+                                {
+                                    "m": "Cô ấy thổi nhẹ một hơi.",
+                                    "p_vn": "co ay thoi nhe mot hoi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4861095",
+                                    "id": 122459,
+                                    "type": "e_cnvi",
+                                    "e": "她轻轻地吹了一口气。",
+                                    "p_cn": "ta qing qing de chuile yi kouqi.",
+                                    "p": "tā qīng qīng de chuīle yī kǒuqì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thổi; gió thổi",
+                            "explain": "空气流动",
+                            "examples": [
+                                {
+                                    "m": "Gió thổi rất mạnh vào ban đêm.",
+                                    "p_vn": "gio thoi rat manh vao ban dem.",
+                                    "_id": "71a8f4da663cb843c22cd96cf486589f",
+                                    "id": 122466,
+                                    "type": "e_cnvi",
+                                    "e": "风在夜晚吹得很大。",
+                                    "p_cn": "feng zai yewan chui de hen da.",
+                                    "p": "fēng zài yèwǎn chuī dé hěn dà."
+                                },
+                                {
+                                    "m": "Gió thu thổi rụng lá.",
+                                    "p_vn": "gio thu thoi rung la.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4868086",
+                                    "id": 122472,
+                                    "type": "e_cnvi",
+                                    "e": "秋风吹落了树叶。",
+                                    "p_cn": "qiufeng chui luole shuye.",
+                                    "p": "qiūfēng chuī luòle shùyè."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "khoác lác; khoe khoang; chém gió",
+                            "explain": "说大话；吹嘘",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy khoe khoang thành công của mình.",
+                                    "p_vn": "co ay khoe khoang thanh cong cua minh.",
+                                    "_id": "9938873f438f99a1b005f10050385f61",
+                                    "id": 138326,
+                                    "type": "e_cnvi",
+                                    "e": "她吹嘘自己的成功。",
+                                    "p_cn": "ta chuixu ziji de chenggong.",
+                                    "p": "tā chuīxū zìjǐ de chénggōng."
+                                },
+                                {
+                                    "m": "Anh ấy luôn thích khoác lác.",
+                                    "p_vn": "anh ay luon thich khoac lac.",
+                                    "_id": "9938873f438f99a1b005f10050386341",
+                                    "id": 138327,
+                                    "type": "e_cnvi",
+                                    "e": "他总是喜欢吹牛。",
+                                    "p_cn": "ta zong shi xihuan chuiniu.",
+                                    "p": "tā zǒng shì xǐhuān chuīniú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tâng bốc; nịnh nọt",
+                            "explain": "吹捧",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy thích nịnh nọt bạn bè của mình.",
+                                    "p_vn": "co ay thich ninh not ban be cua minh.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4f00b4e",
+                                    "id": 125142,
+                                    "type": "e_cnvi",
+                                    "e": "她喜欢吹她的朋友。",
+                                    "p_cn": "ta xihuan chui ta de pengyou.",
+                                    "p": "tā xǐhuan chuī tā de péngyou."
+                                },
+                                {
+                                    "m": "Chúng ta đừng tâng bốc khả năng của anh ấy.",
+                                    "p_vn": "chung ta dung tang boc kha nang cua anh ay.",
+                                    "_id": "9938873f438f99a1b005f1005038a8c4",
+                                    "id": 138334,
+                                    "type": "e_cnvi",
+                                    "e": "咱们别吹他本事大。",
+                                    "p_cn": "zanmen bie chui ta benshi da.",
+                                    "p": "zánmen bié chuī tā běnshì dà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tan vỡ; chia tay; hỏng; rạn nứt; thất bại (công việc; tình cảm)",
+                            "explain": "失败；破裂",
+                            "examples": [
+                                {
+                                    "m": "Mối tình của họ đã tan vỡ.",
+                                    "p_vn": "moi tinh cua ho da tan vo.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4867def",
+                                    "id": 122471,
+                                    "type": "e_cnvi",
+                                    "e": "他们的恋爱吹了。",
+                                    "p_cn": "tamen de lian ai chuile.",
+                                    "p": "tāmen de liàn ài chuīle."
+                                },
+                                {
+                                    "m": "Giao dịch kinh doanh đó đã thất bại.",
+                                    "p_vn": "giao dich kinh doanh do da that bai.",
+                                    "_id": "9938873f438f99a1b005f10050391a52",
+                                    "id": 138345,
+                                    "type": "e_cnvi",
+                                    "e": "那桩生意已经吹了。",
+                                    "p_cn": "na zhuang shengyi yijing chuile.",
+                                    "p": "nà zhuāng shēngyì yǐjīng chuīle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thổi (nhạc cụ)",
+                            "explain": "吹气演奏",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy vui vẻ thổi sáo.",
+                                    "p_vn": "anh ay vui ve thoi sao.",
+                                    "_id": "641148288b13f4cf43a85133e85bb2bc",
+                                    "id": 115781,
+                                    "type": "e_cnvi",
+                                    "e": "他开心地吹着笛子。",
+                                    "p_cn": "ta kaixin de chuizhe dizi.",
+                                    "p": "tā kāixīn de chuīzhe dízi."
+                                },
+                                {
+                                    "m": "Các em nhỏ đang thổi kèn.",
+                                    "p_vn": "cac em nho dang thoi ken.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4862c26",
+                                    "id": 122462,
+                                    "type": "e_cnvi",
+                                    "e": "小朋友们正在吹喇叭。",
+                                    "p_cn": "xiao pengyoumen zhengzai chuilaba.",
+                                    "p": "xiǎo péngyoumen zhèngzài chuīlǎbā."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"吹\" bao hàm ý nghĩa của \"吹牛\"，nhưng ý nghĩa khác của \"吹\" mà \"吹牛\" không có.",
+                    "title": "Phân biệt \"吹\" và \"吹牛\"",
+                    "words": [
+                        "吹",
+                        "吹牛"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "2, 5",
+            "pinyin": "chuī",
+            "cn_vi": "xuy.xuý",
+            "popularity": {
+                "notebook": 484,
+                "search": 6719
+            },
+            "word": "吹",
+            "id": 8900,
+            "phonetic": "chui",
+            "rank": 1708,
+            "lv_hsk": 2,
+            "lv_tocfl": 3,
+            "compound": "吹吹打打 ; 吹打 ; 吹打牛 ; 吹大气 ; 吹荡 ; 吹灯 ; 吹灯拔蜡 ; 吹动 ; 吹法螺 ; 吹风 ; 吹风机 ; 吹拂 ; 吹鼓手 ; 吹管 ; 吹呼 ; 吹胡子瞪眼睛 ; 吹灰之力 ; 吹净 ; 吹糠见米 ; 吹喇叭 ; 吹擂 ; 吹冷风 ; 吹毛求疵 ; 吹牛 ; 吹拍 ; 吹捧 ; 吹腔 ; 吹求 ; 吹哨 ; 吹送 ; 吹台 ; 吹嘘 ; 吹奏"
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄔㄨㄟㄉㄚˇㄉㄚˇ",
+            "_id": "02f4b70bef9b1f802c951465726afec0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "diễn tấu sáo và trống",
+                            "explain": "用管乐器和打击乐器演奏",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 26
+            },
+            "snym": {
+                "syno": [
+                    "敲锣打鼓",
+                    "大吹大打",
+                    "锣鼓喧天"
+                ]
+            },
+            "cn_vi": "xuy xuy đả đả",
+            "pinyin": "chuīchuīdǎdǎ",
+            "word": "吹吹打打",
+            "id": 8901,
+            "phonetic": "chuichuidada",
+            "rank": 75471,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄌㄜ˙",
+            "_id": "74f19cddaf174882b4c2318bfd2464d5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phá sản",
+                            "explain": "busted",
+                            "examples": [
+                                {
+                                    "m": "Giao dịch giữa họ đã thất bại.",
+                                    "p_vn": "Giao dich giua ho da that bai.",
+                                    "_id": "fbb0caace1d54972a3a3a7460be8e31b",
+                                    "id": 71538,
+                                    "type": "e_cnvi",
+                                    "e": "他们之间的交易告吹了。",
+                                    "p_cn": "tamen zhijian de jiaoyi gao chuile",
+                                    "p": "tāmen zhījiān de jiāoyì gào chuīle"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thất bại",
+                            "explain": "failed",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để làm lạnh (của một mối quan hệ)",
+                            "explain": "to have chilled (of a relationship)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đã chết",
+                            "explain": "to have died",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đã không thành công",
+                            "explain": "to have not succeeded",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chia tay công ty",
+                            "explain": "to have parted company",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 322
+            },
+            "snym": null,
+            "cn_vi": "xuy liễu",
+            "pinyin": "chuīle",
+            "word": "吹了",
+            "id": 95561,
+            "phonetic": "chuile",
+            "rank": 21136,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄊㄨㄥˇ",
+            "_id": "5c046d827f4447fa93e7b2428c6f941e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Cái ống dài; dùng để thổi đạn bắn chim; sâu bọ; v.v.",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xì đồng",
+                            "explain": "一种捕捉虫鸟的工具类似觱篥",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "xuy đồng",
+            "pinyin": "chuī tǒng",
+            "word": "吹筒",
+            "id": 149451,
+            "phonetic": "chuitong",
+            "rank": 117874,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄕㄠˋ",
+            "_id": "34db0a2b141685b99cc67bc6a395b056",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tiếng còi",
+                            "explain": "发出口哨声或哨子声",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 69
+            },
+            "snym": null,
+            "cn_vi": "xuy sáo",
+            "pinyin": "chuī shào",
+            "word": "吹哨",
+            "id": 8929,
+            "phonetic": "chuishao",
+            "rank": 50000,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "35d593807a95451996da0359c28b4d66",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "huýt",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "xuy thần",
+            "pinyin": "chuī chún",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "吹唇",
+            "id": 180767,
+            "phonetic": "chuichun",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄉㄨㄥˋ",
+            "_id": "08d9e30060c4515b7f70ea2c33dbf18e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lay động; thổi bay",
+                            "explain": "依靠或者好像依靠风的推动而使其移动或轻轻过去",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mượn sức gió; theo chiều gió",
+                            "explain": "用风的力量使向前运动",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 47
+            },
+            "snym": {
+                "syno": [
+                    "拂动",
+                    "吹拂"
+                ]
+            },
+            "cn_vi": "xuy động",
+            "pinyin": "chuī dòng",
+            "word": "吹动",
+            "id": 8908,
+            "phonetic": "chuidong",
+            "rank": 59649,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "bd14b08db3b14a29a46ebf33994c0f2a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "một hơi (hút thuốc)",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "gỗ làm cửa chưa khô hẳn, gió thổi làm nứt ra cả rồi.",
+                                    "p_vn": "go lam cua chua kho han gio thoi lam nut ra ca roi",
+                                    "_id": "52049660f5eb5a3a2b81b60ec6af2572",
+                                    "id": 26436,
+                                    "type": "e_cnvi",
+                                    "e": "做门的木料没有干透， 风一吹都裂缝了。",
+                                    "p_cn": "zuo men de muliao meiyou gan tou feng yi chui dou liefengle",
+                                    "p": "zuò mén de mùliào méiyǒu gàn tòu, fēng yī chuī dōu lièfèngle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "nhất xuy",
+            "pinyin": "yī chuī",
+            "word": "一吹",
+            "id": 168637,
+            "phonetic": "yichui",
+            "rank": 85328,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄚㄔㄨㄟ",
+            "_id": "907b571526214e17b28f06ca9b9bfaa4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tự hào",
+                            "explain": "to boast",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bắn ra miệng của một người",
+                            "explain": "to shoot one's mouth off",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 94
+            },
+            "snym": {
+                "syno": [
+                    "吹嘘",
+                    "吹牛",
+                    "忽悠",
+                    "夸口"
+                ]
+            },
+            "cn_vi": "hạt xuy",
+            "pinyin": "xiāchuī",
+            "word": "瞎吹",
+            "id": 104654,
+            "phonetic": "xiachui",
+            "rank": 42732,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄧㄢ",
+            "_id": "9044bfb6799b209955e2d538bb05fc6b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Quạt khói",
+                            "explain": "唐·温庭筠《相和歌辞·堂堂》：“风飘客意如吹烟，纤指殷勤伤雁弦。”",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "xuy yên",
+            "pinyin": "chuī yān",
+            "word": "吹烟",
+            "id": 69471,
+            "phonetic": "chuiyan",
+            "rank": 134204,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄏㄠˋ",
+            "_id": "e8088d058b4d476bab3f64da9c9753b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi một nhạc cụ bằng đồng",
+                            "explain": "to blow a brass instrument",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "xuy hiệu",
+            "pinyin": "chuī hào",
+            "word": "吹号",
+            "id": 101999,
+            "phonetic": "chuihao",
+            "rank": 103692,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄒㄧㄠ",
+            "_id": "879aafa30b61430dbc0eeb6e8e08eda0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(tiếng lóng) thuật ngữ",
+                            "explain": "(slang) fellatio",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thổi kèn",
+                            "explain": "blowjob",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ăn xin trong khi chơi tẩu; chính trị gia Wu Zixu 伍子胥 , c. 520 TCN tị nạn nghèo khổ ở thị trấn Wu, 吳市 吹簫 | 吴市 吹箫",
+                            "explain": "to beg while playing pipes; cf politician Wu Zixu 伍子胥 [Wu3 Zi3 xū], c. 520 BC destitute refugee in Wu town, 吳市吹簫|吴市吹箫 [Wu2 shì chuī xiāo]",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đi busk",
+                            "explain": "to busk",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chơi xiao 簫 | 箫 [xiāo] (cơ quan miệng)",
+                            "explain": "to play the xiao 簫|箫 [xiāo] (mouth organ)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Piper điêu luyện thắng mỹ nhân, 玉人吹簫 | 玉人吹箫",
+                            "explain": "virtuoso piper wins a beauty, cf 玉人吹簫|玉人吹箫 [yù rén chuī xiāo]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 93
+            },
+            "snym": null,
+            "cn_vi": "xuy tiêu",
+            "pinyin": "chuī xiāo",
+            "word": "吹箫",
+            "id": 107168,
+            "phonetic": "chuixiao",
+            "rank": 42987,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄏㄨㄟ",
+            "_id": "cff195714553421b9d4acff98c7a36c1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi bay bụi",
+                            "explain": "to blow away dust",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 55
+            },
+            "snym": null,
+            "cn_vi": "xuy hôi",
+            "pinyin": "chuī huī",
+            "word": "吹灰",
+            "id": 102002,
+            "phonetic": "chuihui",
+            "rank": 55584,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄔㄨㄟ",
+            "_id": "cc1adb4029a947da8409ea28ddb5dad1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(gió) thổi dữ dội",
+                            "explain": "(the wind) blows violently",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "kình xuy",
+            "pinyin": "jìn chuī",
+            "word": "劲吹",
+            "id": 107006,
+            "phonetic": "jinchui",
+            "rank": 111972,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄔㄨㄟㄆㄞㄆㄞ",
+            "_id": "44942ae441f84050ba1155ffbffa3b54",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khoe khoang và tâng bốc",
+                            "explain": "to boast and flatter",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tán nịnh",
+                            "explain": "趋炎附势, 极力奉承",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 14
+            },
+            "snym": {
+                "syno": [
+                    "阿谀逢迎",
+                    "吹牛拍马",
+                    "戴高帽子",
+                    "阿谀奉承",
+                    "阿其所好"
+                ],
+                "anto": [
+                    "刚正不阿"
+                ]
+            },
+            "cn_vi": "xuy xuy phách phách",
+            "pinyin": "chuī chuī pāi pāi",
+            "word": "吹吹拍拍",
+            "id": 138959,
+            "phonetic": "chuichuipaipai",
+            "rank": 93008,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄉㄤˋ",
+            "_id": "b7fe5b9eb33a65852238836c136f01dd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hây hẩy; hiu hiu",
+                            "explain": "吹拂",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "xuy đãng",
+            "pinyin": "chuī dàng",
+            "word": "吹荡",
+            "id": 8905,
+            "phonetic": "chuidang",
+            "rank": 134860,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄠˊㄔㄨㄟ",
+            "_id": "80509c838ad149a2b13b16407a6a8deb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xuất tinh nữ",
+                            "explain": "female ejaculation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 58
+            },
+            "snym": null,
+            "cn_vi": "triều xuy",
+            "pinyin": "cháochuī",
+            "word": "潮吹",
+            "id": 108316,
+            "phonetic": "chaochui",
+            "rank": 54157,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄌㄟˊ",
+            "_id": "03d03910b6a8df8810f7f98d757c3b93",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khoác lác; khoe khoang; thổi phồng; bốc khí",
+                            "explain": "夸口;吹嘘",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "xuy lôi",
+            "pinyin": "chuī léi",
+            "word": "吹擂",
+            "id": 8921,
+            "phonetic": "chuilei",
+            "rank": 128194,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄗㄡˋ",
+            "_id": "9552bb3bcd2c2794a71a9db188c757b9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi (kèn, sáo); chơi (các loại nhạc cụ)",
+                            "explain": "吹某种乐器，泛指奏各种乐器",
+                            "examples": [
+                                {
+                                    "m": "卡祖笛 là một loại đồ chơi nhạc cụ, khi người chơi thổi hoặc hát một cách thấp nhẹ ở phần miệng, một màng nhạy cảm có thể phát ra âm thanh.",
+                                    "p_vn": "Qia Zu Di  la mot loai do choi nhac cu, khi nguoi choi thoi hoac hat mot cach thap nhe o phan mieng, mot mang nhay cam co the phat ra am thanh.",
+                                    "_id": "9d85addec0f84a368d1ff22c8b554216",
+                                    "id": 70525,
+                                    "type": "e_cnvi",
+                                    "e": "卡祖笛一种当吹奏者向吹口处低吟或哼唱时一个膜能够发出声音的玩具乐器",
+                                    "p_cn": "ka zu di yizhong dang chuizou zhe xiang chui kou chu di yin huo hengchang shi yi ge mo nenggou fachu shengyin de wanju yueqi",
+                                    "p": "kǎ zǔ dí yīzhǒng dāng chuīzòu zhě xiàng chuī kǒu chǔ dī yín huò hēngchàng shí yī gè mó nénggòu fāchū shēngyīn de wánjù yuèqì"
+                                },
+                                {
+                                    "m": "Anh ta đã thổi một giai điệu vui tươi bằng cây sáo.",
+                                    "p_vn": "Anh ta da thoi mot giai dieu vui tuoi bang cay sao.",
+                                    "_id": "e469ed030a3742b2a3f0436fb095eefc",
+                                    "id": 70226,
+                                    "type": "e_cnvi",
+                                    "e": "他用笛子吹奏了欢快的曲调。",
+                                    "p_cn": "ta yong dizi chuizou le huankuai de qudiao",
+                                    "p": "tā yòng dízi chuīzòu le huānkuài de qǔdiào"
+                                },
+                                {
+                                    "m": "Anh ta đã sử dụng kèn nhỏ để thổi một bài hát.",
+                                    "p_vn": "Anh ta da su dung ken nho de thoi mot bai hat.",
+                                    "_id": "e08d68c56ac24b9c83c3c7e98e93e591",
+                                    "id": 72089,
+                                    "type": "e_cnvi",
+                                    "e": "他用小号吹奏了一首曲子。",
+                                    "p_cn": "ta yong xiaohao chuizou le yi shou quzi",
+                                    "p": "tā yòng xiǎohào chuīzòu le yī shǒu qǔzi"
+                                },
+                                {
+                                    "m": "Anh ấy đang sử dụng sáo để thổi một bản nhạc cổ.",
+                                    "p_vn": "Anh ay dang su dung sao de thoi mot ban nhac co.",
+                                    "_id": "c1ae12a16451441c828532857652bb6e",
+                                    "id": 72090,
+                                    "type": "e_cnvi",
+                                    "e": "他在用笛子吹奏一首老曲子。",
+                                    "p_cn": "ta zai yong dizi chuizou yi shou lao quzi",
+                                    "p": "tā zài yòng dízi chuīzòu yī shǒu lǎo qǔzi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 86
+            },
+            "snym": {
+                "syno": [
+                    "演奏",
+                    "弹奏"
+                ]
+            },
+            "cn_vi": "xuy tấu",
+            "pinyin": "chuīzòu",
+            "word": "吹奏",
+            "id": 8933,
+            "phonetic": "chuizou",
+            "rank": 44765,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄓㄤˋ",
+            "_id": "a37c5ff249e1448b9d56828fe8bc7687",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nổ tung",
+                            "explain": "to blow up",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thổi phồng",
+                            "explain": "to inflate",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "xuy trướng",
+            "pinyin": "chuī zhàng",
+            "word": "吹胀",
+            "id": 109822,
+            "phonetic": "chuizhang",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄏㄨ",
+            "_id": "4a3be72f0f1914176fd460d226b26451",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phê bình; chỉ trích",
+                            "explain": "批评，指责",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 20
+            },
+            "snym": {
+                "syno": [
+                    "雀跃",
+                    "高呼"
+                ]
+            },
+            "cn_vi": "xuy hô",
+            "pinyin": "chuī hū",
+            "word": "吹呼",
+            "id": 8915,
+            "phonetic": "chuihu",
+            "rank": 82596,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄈㄨˊ",
+            "_id": "ab105dfef0d607cfbc59e4cf20fb6a77",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hây hẩy; hiu hiu (gió); lướt; quét; phẩy",
+                            "explain": "(微风) 掠过;拂拭",
+                            "examples": [
+                                {
+                                    "m": "Dưới làn gió nhẹ nhàng thổi qua, mặt hồ lăn tăn những gợn sóng nhỏ.",
+                                    "p_vn": "Duoi lan gio nhe nhang thoi qua, mat ho lan tan nhung gon song nho.",
+                                    "_id": "8cc5a93b6027650aa97bb81c6b588d5e",
+                                    "id": 54085,
+                                    "type": "e_cnvi",
+                                    "e": "在温婉的和风的吹拂下，湖面荡漾着细细的波纹。",
+                                    "p_cn": "Zai wen wan de hefeng de chuifu xia, humian dangyangzhe xi xi de bowen.",
+                                    "p": "Zài wēn wǎn de héfēng de chuīfú xià, húmiàn dàngyàngzhe xì xì de bōwén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mơn man",
+                            "explain": "微风)掠过; 拂拭",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 248
+            },
+            "snym": {
+                "syno": [
+                    "轻拂",
+                    "掠过",
+                    "吹动"
+                ]
+            },
+            "cn_vi": "xuy phất",
+            "pinyin": "chuīfú",
+            "word": "吹拂",
+            "id": 8912,
+            "phonetic": "chuifu",
+            "rank": 24881,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄙㄨㄥˋ",
+            "_id": "aa8f5fb1635d0289a8e8e9c8c69488e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi phù; lay động theo gió",
+                            "explain": "用一阵阵的风或气推动",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "xuy tống",
+            "pinyin": "chuīsòng",
+            "word": "吹送",
+            "id": 8930,
+            "phonetic": "chuisong",
+            "rank": 120095,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄆㄥˇ",
+            "_id": "aee85bbc4a541ee26e098f2495cc7bbf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tâng bốc; quảng cáo rùm beng; tán dương; ca tụng; khen láo",
+                            "explain": "吹嘘捧场",
+                            "examples": [
+                                {
+                                    "m": "Họ đang tán dương nhau trong nghị viện.",
+                                    "p_vn": "Ho dang tan duong nhau trong nghi vien.",
+                                    "_id": "e8a8382ac50644b1bf337c9b30fd1c7e",
+                                    "id": 72472,
+                                    "type": "e_cnvi",
+                                    "e": "他们在议会中互相吹捧。",
+                                    "p_cn": "tamen zai yihui zhong huxiang chuipeng",
+                                    "p": "tāmen zài yìhuì zhōng hùxiāng chuīpěng"
+                                },
+                                {
+                                    "m": "Báo giới ca ngợi người vận động viên mới đó như một siêu sao.",
+                                    "p_vn": "Bao gioi ca ngoi nguoi van dong vien moi do nhu mot sieu sao.",
+                                    "_id": "0b1e0a3cf87a466d91630159dddca21f",
+                                    "id": 71690,
+                                    "type": "e_cnvi",
+                                    "e": "报界把那个新运动员吹捧成为超级明星。",
+                                    "p_cn": "baojie ba nage xin yundongyuan chuipeng chengwei chaoji mingxing",
+                                    "p": "bàojiè bǎ nàge xīn yùndòngyuán chuīpěng chéngwéi chāojí míngxīng"
+                                },
+                                {
+                                    "m": "Bộ phim này được ca ngợi là kiệt tác, nhưng tôi cảm thấy thất vọng.",
+                                    "p_vn": "Bo phim nay duoc ca ngoi la kiet tac, nhung toi cam thay that vong.",
+                                    "_id": "6974d9b4808046a884c0c47729d6ccf8",
+                                    "id": 72473,
+                                    "type": "e_cnvi",
+                                    "e": "这部影片被吹捧为杰作, 可是我觉得令人失望.",
+                                    "p_cn": "zhe bu yingpian bei chuipeng wei jiezuo keshi wo juede lingren shiwang",
+                                    "p": "zhè bù yǐngpiàn bèi chuīpěng wéi jiézuò kěshì wǒ juéde lìngrén shīwàng"
+                                },
+                                {
+                                    "m": "Cô ấy thật ra rất tốt, nhưng có cần phải khen ngợi cô ấy một cách quá đà như vậy không?",
+                                    "p_vn": "Co ay that ra rat tot, nhung co can phai khen ngoi co ay mot cach qua da nhu vay khong?",
+                                    "_id": "168829595c2c430fa5f58e4a63cb7083",
+                                    "id": 72474,
+                                    "type": "e_cnvi",
+                                    "e": "她固然很好，但有必要那样大肆吹捧吗？",
+                                    "p_cn": "ta guran hen hao dan you biyao nayang dasi chuipeng ma",
+                                    "p": "tā gùrán hěn hǎo dàn yǒu bìyào nàyàng dàsì chuīpěng ma"
+                                },
+                                {
+                                    "m": "Những nhà xuất bản luôn khen ngợi cuốn sách mới của họ.",
+                                    "p_vn": "Nhung nha xuat ban luon khen ngoi cuon sach moi cua ho.",
+                                    "_id": "e05282b2aef64aea8d8f149ba3d4fa37",
+                                    "id": 72475,
+                                    "type": "e_cnvi",
+                                    "e": "出版商们总吹捧他们的新书",
+                                    "p_cn": "chubanshang men zong chuipeng tamen de xin shu",
+                                    "p": "chūbǎnshāng men zǒng chuīpěng tāmen de xīn shū"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 97,
+                "search": 554
+            },
+            "snym": {
+                "syno": [
+                    "抬高",
+                    "吹嘘"
+                ],
+                "anto": [
+                    "讥诮",
+                    "诬蔑",
+                    "贬低",
+                    "贬斥"
+                ]
+            },
+            "cn_vi": "xuy phủng",
+            "pinyin": "chuīpěng",
+            "lv_hsk_new": "6",
+            "word": "吹捧",
+            "id": 8926,
+            "phonetic": "chuipeng",
+            "rank": 14849,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄒㄧˊ",
+            "_id": "cfa09eed5eab4ea7aae157c6e13838b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cơn bão xảy ra",
+                            "explain": "storm struck",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tấn công (gió)",
+                            "explain": "to attack (of wind)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "xuy tập",
+            "pinyin": "chuī xí",
+            "word": "吹袭",
+            "id": 95564,
+            "phonetic": "chuixi",
+            "rank": 114309,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄈㄥ",
+            "_id": "fdceda17c25df4f4a15ce50ee8e99c53",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "trúng gió",
+                            "explain": "被风吹，身体受风寒",
+                            "examples": [
+                                {
+                                    "m": "uống thuốc xong đừng để trúng gió.",
+                                    "p_vn": "uong thuoc xong dung de trung gio",
+                                    "_id": "b7220a32b6b42a09ebbe1969647a7d60",
+                                    "id": 5618,
+                                    "type": "e_cnvi",
+                                    "e": "吃了药别吹风。",
+                                    "p_cn": "chile yao bie chuifeng",
+                                    "p": "chī le yàobié chūifēng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sấy tóc; hong; phơi",
+                            "explain": "洗发后，用吹风机把热空气吹到头发上，使干而伏帖",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "kind": "口",
+                    "means": [
+                        {
+                            "mean": "tiết lộ; bật mí (ý kiến, nội dung); để lộ cho biết",
+                            "explain": "(吹风儿) 有意识地从旁透露意见或内容使人知道",
+                            "examples": [
+                                {
+                                    "m": "anh ấy có ý muốn chúng ta mời anh ấy đến dự liên hoan.",
+                                    "p_vn": "anh ay co y muon chung ta moi anh ay den du lien hoan",
+                                    "_id": "84bdf3f8e72653d91fac9483b6dc9dc5",
+                                    "id": 5619,
+                                    "type": "e_cnvi",
+                                    "e": "他吹风儿要咱们邀请他参加晚会。",
+                                    "p_cn": "ta chuifeng er yao zanmen yaoqing ta canjia wanhui",
+                                    "p": "tā chūifēng éryào zánmen yāoqǐng tā cānjiā wǎnhùi。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 31,
+                "search": 992
+            },
+            "snym": null,
+            "cn_vi": "xuy phong",
+            "pinyin": "chuīfēng",
+            "word": "吹风",
+            "id": 8910,
+            "phonetic": "chuifeng",
+            "rank": 9892,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄑㄧㄤ",
+            "_id": "eb835c012aba724c5c48c1e75d4c5fe4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làn điệu thổi (làn điệu có đệm sáo trong Huy kịch, Kinh kịch của Trung Quốc)",
+                            "explain": "徽剧主要腔调之一，用笛子伴奏，后来也成为京剧、婺剧等剧种吸收运用的一种腔调",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "xuy khang",
+            "pinyin": "chuī qiāng",
+            "word": "吹腔",
+            "id": 8927,
+            "phonetic": "chuiqiang",
+            "rank": 141414,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄉㄥ",
+            "_id": "4ea5a0002efd5fb50309692acdef7ff2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi đèn",
+                            "explain": "把灯火吹灭",
+                            "examples": [
+                                {
+                                    "m": "Về ma thổi đèn lồng, có tám cuốn sách kinh điển được lưu truyền từ lâu.",
+                                    "p_vn": "Ve ma thoi den long, co tam cuon sach kinh dien duoc luu truyen tu lau.",
+                                    "_id": "9a36ff488ed5456091ff331035409b1d",
+                                    "id": 56413,
+                                    "type": "e_cnvi",
+                                    "e": "关于鬼吹灯,八本书,早已成为传世经典。",
+                                    "p_cn": "Guanyu gui chuideng, ba ben shu, zaoyi chengwei chuanshi jingdian.",
+                                    "p": "Guānyú guǐ chuīdēng, bā běn shū, zǎoyǐ chéngwéi chuánshì jīngdiǎn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chết; mất; qua đời; quy tiên",
+                            "explain": "指人死",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sự thất bại",
+                            "explain": "事情失败 (含戏谑意)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "xuy đăng",
+            "pinyin": "chuīdēng",
+            "word": "吹灯",
+            "id": 8906,
+            "phonetic": "chuideng",
+            "rank": 85083,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄊㄞˊ",
+            "_id": "8da5bca8ad2f50a8a0ef22e3182848a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cắt đứt quan hệ; tuyệt giao",
+                            "explain": "事情或交情破裂;垮台",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 21
+            },
+            "snym": null,
+            "cn_vi": "xuy thai",
+            "pinyin": "chuī tái",
+            "word": "吹台",
+            "id": 8931,
+            "phonetic": "chuitai",
+            "rank": 80937,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄈㄢˋ",
+            "_id": "181c9724e2654c5d933a16db7f1cfa38",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Thổi cơm; nấu cơm.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "xuy phạn",
+            "pinyin": "chuī fàn",
+            "word": "吹饭",
+            "id": 149452,
+            "phonetic": "chuifan",
+            "rank": 125837,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨˊㄔㄨㄟ",
+            "_id": "91c5546ada411a539472b4ec74ba22cd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khoe khoang; khoác lác",
+                            "explain": "不着边际地说大话;瞎吹",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "hồ xuy",
+            "pinyin": "hú chuī",
+            "word": "胡吹",
+            "id": 24078,
+            "phonetic": "huchui",
+            "rank": 109151,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄑㄧㄡˊ",
+            "_id": "5b2278c54d37e9b1b2bd94cb5e8ac922",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bới lông tìm vết; bới móc; moi móc; soi mói",
+                            "explain": "挑剔 (毛病)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "xuy cầu",
+            "pinyin": "chuī qiú",
+            "word": "吹求",
+            "id": 8928,
+            "phonetic": "chuiqiu",
+            "rank": 73421,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄉㄧˊ",
+            "_id": "5b04dd1a38f04a60b47043d94c35c59c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Thổi sáo; thổi kèn",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Một thầy giáo dạy thổi sáo cố gắng dạy hai người thổi sáo.",
+                                    "p_vn": "Mot thay giao day thoi sao co gang day hai nguoi thoi sao.",
+                                    "_id": "7b346447b8ff4c84a222e4ae3b1f1de7",
+                                    "id": 67430,
+                                    "type": "e_cnvi",
+                                    "e": "一个吹笛的导师尝试教两个吹笛者吹笛。",
+                                    "p_cn": "Yige chui di de daoshi changshi jiao liang ge chui di zhe chui di.",
+                                    "p": "Yīgè chuī dí de dǎoshī chángshì jiào liǎng gè chuī dí zhě chuī dí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 102
+            },
+            "snym": null,
+            "cn_vi": "xuy địch",
+            "pinyin": "chuī dí",
+            "word": "吹笛",
+            "id": 152120,
+            "phonetic": "chuidi",
+            "rank": 41055,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄋㄧㄡˊ",
+            "_id": "86026c121e406c38945465796f1cb204",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi phồng; khoác lác; ba hoa; khoe khoang, chém gió; phét; khoe",
+                            "explain": "说大话;夸口也说吹牛皮",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy thích khoác lác.",
+                                    "p_vn": "Anh ay thich khoac lac.",
+                                    "_id": "f795380259e440bdb6fa05fee0900329",
+                                    "id": 71839,
+                                    "type": "e_cnvi",
+                                    "e": "他喜欢吹牛。",
+                                    "p_cn": "ta xihuan chuiniu",
+                                    "p": "tā xǐhuan chuīniú"
+                                },
+                                {
+                                    "m": "Anh ta nói về cách anh ta kiếm tiền như thế nào, tôi không quá tin tưởng, từ khi chúng tôi quen biết, anh ta luôn thích khoác lác.",
+                                    "p_vn": "Anh ta noi ve cach anh ta kiem tien nhu the nao, toi khong qua tin tuong, tu khi chung toi quen biet, anh ta luon thich khoac lac.",
+                                    "_id": "0bb215e3e4ab4006a9cd2c769eb6bf90",
+                                    "id": 71840,
+                                    "type": "e_cnvi",
+                                    "e": "他说他如何如何赚钱，我就不太相信，我们认识以来他总是喜欢吹牛。",
+                                    "p_cn": "ta shuo ta ruhe ruhe zhuanqian wo jiu bu tai xiangxin women renshi yilai ta zongshi xihuan chuiniu",
+                                    "p": "tā shuō tā rúhé rúhé zhuànqián wǒ jiù bù tài xiāngxìn wǒmen rènshi yǐlái tā zǒngshì xǐhuan chuīniú"
+                                },
+                                {
+                                    "m": "Jack quá thích khoác lác, khi huấn luyện viên nói rằng anh không giỏi như những gì anh tưởng tượng, anh ta cảm thấy rất ngạc nhiên.",
+                                    "p_vn": "jack qua thich khoac lac, khi huan luyen vien noi rang anh khong gioi nhu nhung gi anh tuong tuong, anh ta cam thay rat ngac nhien.",
+                                    "_id": "d10a654df8b64b0ca87da81487002f9a",
+                                    "id": 71841,
+                                    "type": "e_cnvi",
+                                    "e": "杰克太爱吹牛了，当教练说他并不是他所想像的那么好时，他感到很惊讶。",
+                                    "p_cn": "jieke tai ai chuiniu le dang jiaolian shuo ta bing bu shi ta suo xiangxiang de name haoshi ta gandao hen jingya",
+                                    "p": "Jiékè tài ài chuīniú le dāng jiàoliàn shuō tā bìng bú shì tā suǒ xiǎngxiàng de nàme Hǎoshí tā gǎndào hěn jīngyà"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "khoe mình; khoe khoang",
+                            "explain": "自己夸耀自己",
+                            "examples": []
+                        },
+                        {
+                            "mean": "láp",
+                            "explain": "话或写文章浮夸, 不切实际",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nói phách",
+                            "explain": "夸口也说吹牛皮",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"吹\" bao hàm ý nghĩa của \"吹牛\"，nhưng ý nghĩa khác của \"吹\" mà \"吹牛\" không có.",
+                    "title": "Phân biệt \"吹\" và \"吹牛\"",
+                    "words": [
+                        "吹",
+                        "吹牛"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "夸口",
+                    "吹嘘",
+                    "自大",
+                    "吹法螺",
+                    "瞎吹"
+                ],
+                "anto": [
+                    "自谦"
+                ]
+            },
+            "cn_vi": "xuy ngưu",
+            "pinyin": "chuīniú",
+            "popularity": {
+                "notebook": 364,
+                "search": 3425
+            },
+            "lv_hsk_new": "6",
+            "word": "吹牛",
+            "id": 8924,
+            "phonetic": "chuiniu",
+            "rank": 3495,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄎㄡˇ",
+            "topic": "2",
+            "_id": "19b7ced878c5f3610c5d307c54ed95bb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lõ thổi (kèn)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "xuy khẩu",
+            "pinyin": "chuīkǒu",
+            "word": "吹口",
+            "id": 69469,
+            "phonetic": "chuikou",
+            "rank": 70114,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "69",
+            "zhuyin": "ㄔㄨㄟㄍㄢˋ",
+            "_id": "aaad3ac2c836451aa58a3bfa7f6de24a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sấy khô",
+                            "explain": "to blow-dry",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 116
+            },
+            "snym": null,
+            "cn_vi": "xuy can",
+            "pinyin": "chuī gàn",
+            "word": "吹干",
+            "id": 102000,
+            "phonetic": "chuigan",
+            "rank": 38510,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄆㄞ",
+            "_id": "661c3e0a46a84835e2a076c537104797",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "a dua; huà theo",
+                            "explain": "阿谀逢迎; 过分称颂、赞许",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "xuy phách",
+            "pinyin": "chuī pāi",
+            "word": "吹拍",
+            "id": 8925,
+            "phonetic": "chuipai",
+            "rank": 96604,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄉㄚˇ",
+            "_id": "bf4341c157631a4198935487452cb987",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "diễn tấu; chơi nhạc; thổi sáo gảy đàn",
+                            "explain": "用管乐器和打击乐器演奏",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 63
+            },
+            "snym": {
+                "syno": [
+                    "奏乐"
+                ]
+            },
+            "cn_vi": "xuy đả",
+            "pinyin": "chuīdǎ",
+            "word": "吹打",
+            "id": 8902,
+            "phonetic": "chuida",
+            "rank": 52126,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄙㄢˋ",
+            "_id": "0396befdfd87496b8b1892f3c86842a2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giải tán",
+                            "explain": "to disperse",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 112
+            },
+            "snym": {
+                "syno": [
+                    "秋风",
+                    "散开",
+                    "春风",
+                    "分离"
+                ],
+                "anto": [
+                    "收拢"
+                ]
+            },
+            "cn_vi": "xuy tán",
+            "pinyin": "chuī sàn",
+            "word": "吹散",
+            "id": 102001,
+            "phonetic": "chuisan",
+            "rank": 39267,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄎㄨㄥˇ",
+            "_id": "d6e6da9d64ae48179d0922325357afd8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(của một nhạc cụ) lỗ thổi",
+                            "explain": "(of a musical instrument) blow hole",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "xuy khổng",
+            "pinyin": "chuī kǒng",
+            "word": "吹孔",
+            "id": 107167,
+            "phonetic": "chuikong",
+            "rank": 126850,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄐㄧㄥˋ",
+            "_id": "f54613bd18801bead24f99238ec691d1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi sạch",
+                            "explain": "用一股空气流打扫干净 (满是灰尘的地方)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "xuy tịnh",
+            "pinyin": "chuī jìng",
+            "word": "吹净",
+            "id": 8918,
+            "phonetic": "chuijing",
+            "rank": 77466,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄍㄨㄢˇ",
+            "_id": "a2aeeef11d7b84600aa719a3aa7072bd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ống hàn hơi; đèn hàn; ống thổi",
+                            "explain": "以压缩的氧气和其他可燃气体为燃料喷出高温火焰的管状装置可以用来焊接金属或截断金属板",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "xuy quản",
+            "pinyin": "chuīguǎn",
+            "word": "吹管",
+            "id": 8914,
+            "phonetic": "chuiguan",
+            "rank": 108605,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "mian",
+                "examples": "他掷骰子之前让他的女友在上面吹气来给他带来好运。",
+                "measure": "面"
+            },
+            "zhuyin": "ㄔㄨㄟㄑㄧˋ",
+            "_id": "f160ea34493b49b69651bc79a61768a9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi không khí (vào)",
+                            "explain": "to blow air (into)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 51,
+                "search": 314
+            },
+            "snym": null,
+            "cn_vi": "xuy khí",
+            "pinyin": "chuī qì",
+            "word": "吹气",
+            "id": 95562,
+            "phonetic": "chuiqi",
+            "rank": 21488,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄒㄩ",
+            "_id": "ebbd1abddd8c04e0210d8acba46e8a93",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nói khoác; thổi phồng; khoe khoang; chém gió; khuếch khoác",
+                            "explain": "夸大地或无中生有地说自己或别人的优点;夸张地宣扬",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy luôn khoe khoang rằng mình là một võ sĩ vĩ đại.",
+                                    "p_vn": "anh ay luon khoe khoang rang minh la mot vo si vi dai.",
+                                    "_id": "c10c24a6ed43165db916499fa91082ad",
+                                    "id": 83832,
+                                    "type": "e_cnvi",
+                                    "e": "他总是吹嘘说他是伟大的武术家。",
+                                    "p_cn": "ta zong shi chuixu shuo ta shi weida de wushu jia.",
+                                    "p": "tā zǒng shì chuīxū shuō tā shì wěidà de wǔshù jiā."
+                                },
+                                {
+                                    "m": "Anh ta khoe rằng mình đã giả bệnh để trốn nghĩa vụ quân sự.",
+                                    "p_vn": "anh ta khoe rang minh da gia benh de tron nghia vu quan su.",
+                                    "_id": "c10c24a6ed43165db916499fa9108de0",
+                                    "id": 83833,
+                                    "type": "e_cnvi",
+                                    "e": "他吹嘘说自己装病逃过了兵役。",
+                                    "p_cn": "ta chuixu shuo ziji zhuang bing taoguole bingyi.",
+                                    "p": "tā chuīxū shuō zìjǐ zhuāng bìng táoguòle bīngyì."
+                                },
+                                {
+                                    "m": "Anh ấy có thể đi khắp nơi khoe khoang với bạn bè.",
+                                    "p_vn": "anh ay co the di khap noi khoe khoang voi ban be.",
+                                    "_id": "c10c24a6ed43165db916499fa91095eb",
+                                    "id": 83834,
+                                    "type": "e_cnvi",
+                                    "e": "他可能会到处去向他的朋友们吹嘘。",
+                                    "p_cn": "ta keneng hui daochu quxiang ta de pengyoumen chuixu.",
+                                    "p": "tā kěnéng huì dàochù qùxiàng tā de péngyǒumen chuīxū."
+                                },
+                                {
+                                    "m": "Chẳng phải bạn khoe khoang rằng mình không sợ hãi sao? Bây giờ nói cái gì vậy?",
+                                    "p_vn": "chang phai ban khoe khoang rang minh khong so hai sao? bay gio noi cai gi vay?",
+                                    "_id": "c10c24a6ed43165db916499fa9109df9",
+                                    "id": 83835,
+                                    "type": "e_cnvi",
+                                    "e": "你不是吹嘘不怕吗？现在说啥呢？",
+                                    "p_cn": "ni bu shi chuixu bupa ma? xianzai shuo sha ne?",
+                                    "p": "nǐ bú shì chuīxū bùpà ma? xiànzài shuō shà ne?"
+                                },
+                                {
+                                    "m": "Ông khoe khắp nơi rằng lần này con trai ông sẽ đạt hạng nhất lần này.",
+                                    "p_vn": "ong khoe khap noi rang lan nay con trai ong se dat hang nhat lan nay.",
+                                    "_id": "c10c24a6ed43165db916499fa910d767",
+                                    "id": 83836,
+                                    "type": "e_cnvi",
+                                    "e": "他到处吹嘘说他儿子这次能得第一。",
+                                    "p_cn": "ta daochu chuixu shuo ta erzi zhe ci neng de di yi.",
+                                    "p": "tā dàochù chuīxū shuō tā érzi zhè cì néng dé dì yī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 58,
+                "search": 470
+            },
+            "snym": {
+                "syno": [
+                    "吹捧",
+                    "吹牛",
+                    "揄扬",
+                    "标榜",
+                    "瞎吹"
+                ],
+                "anto": [
+                    "谦虚"
+                ]
+            },
+            "cn_vi": "xuy hư",
+            "pinyin": "chuīxū",
+            "word": "吹嘘",
+            "id": 8932,
+            "phonetic": "chuixu",
+            "rank": 16591,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "54",
+            "zhuyin": "ㄍㄠˋㄔㄨㄟ",
+            "_id": "e8caf2039f6341d5114f827375223a6d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thất bại; không thành công; bị phá sản",
+                            "explain": "(事情、交情) 宣告破裂;不成功",
+                            "examples": [
+                                {
+                                    "m": "Dự án này đã thất bại do thiếu vốn.",
+                                    "p_vn": "Du an nay da that bai do thieu von.",
+                                    "_id": "a1c1472d85ad498f890eba378c031885",
+                                    "id": 73379,
+                                    "type": "e_cnvi",
+                                    "e": "该项目因缺乏资金而告吹.",
+                                    "p_cn": "gai xiangmu yin quefa zijin er gaochui",
+                                    "p": "gāi xiàngmù yīn quēfá zījīn ér gàochuī"
+                                },
+                                {
+                                    "m": "Kế hoạch đó thực sự rất hoành tráng, nhưng cuối cùng đã thất bại do thiếu sự chuẩn bị.",
+                                    "p_vn": "Ke hoach do thuc su rat hoanh trang, nhung cuoi cung da that bai do thieu su chuan bi.",
+                                    "_id": "7945609b8cfa42909dbef7946386ea30",
+                                    "id": 73380,
+                                    "type": "e_cnvi",
+                                    "e": "那计划的构想倒是十分宏伟, 但终因准备不足而告吹.",
+                                    "p_cn": "na jihua de gouxiang daoshi shifen hongwei dan zhong yin zhunbei buzu er gaochui",
+                                    "p": "nà jìhuà de gòuxiǎng dàoshi shífēn hóngwěi dàn zhōng yīn zhǔnbèi bùzú ér gàochuī"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 100
+            },
+            "snym": null,
+            "cn_vi": "cáo xuy",
+            "pinyin": "gàochuī",
+            "word": "告吹",
+            "id": 18979,
+            "phonetic": "gaochui",
+            "rank": 41513,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨˇㄔㄨㄟ",
+            "_id": "ba0ea1c829a833fabeda4ee466458f2f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cổ xuý; cổ vũ; tuyên truyền",
+                            "explain": "宣传提倡",
+                            "examples": [
+                                {
+                                    "m": "tuyên truyền cách mạng.",
+                                    "p_vn": "tuyen truyen cach mang",
+                                    "_id": "3e8e9e119cab2ba6c0c094494915e112",
+                                    "id": 14583,
+                                    "type": "e_cnvi",
+                                    "e": "鼓吹革命",
+                                    "p_cn": "guchui geming",
+                                    "p": "gǔchūi gémìng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nói khoác; thổi phồng; khoe khoang; khoe",
+                            "explain": "吹嘘",
+                            "examples": [
+                                {
+                                    "m": "khoe mình rùm beng.",
+                                    "p_vn": "khoe minh rum beng",
+                                    "_id": "74d2a8d0a8a8e527bf0c57590e299ec4",
+                                    "id": 14584,
+                                    "type": "e_cnvi",
+                                    "e": "鼓吹自己如何如何。",
+                                    "p_cn": "guchui ziji ruhe ruhe",
+                                    "p": "gǔchūi zìjǐ rúhé rúhé。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều là động từ.\nKhác:\n-\"鼓吹\" chỉ việc xúi giục hoặc khuyên bảo người khác hành động theo một quan điểm hay ý kiến nào đó, thường là những ý kiến mà mình tin tưởng hoặc đang ủng hộ.\n- \"鼓动\" là từ trung tính, đều có thể dùng để người khác làm việc tốt hoặc việc xấu.",
+                    "title": "Phân biệt \"鼓吹\" và \"鼓动\"",
+                    "words": [
+                        "鼓吹",
+                        "鼓动"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "宣扬"
+                ]
+            },
+            "cn_vi": "cổ xuý",
+            "pinyin": "gǔchuī",
+            "popularity": {
+                "notebook": 29,
+                "search": 268
+            },
+            "word": "鼓吹",
+            "id": 20499,
+            "phonetic": "guchui",
+            "rank": 23761,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄒㄧ",
+            "_id": "3c86e9672c7a42108013b6450658d28e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thổi ra (ngọn lửa)",
+                            "explain": "to blow out (a flame)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "xuy tức",
+            "pinyin": "chuī xí",
+            "word": "吹熄",
+            "id": 95563,
+            "phonetic": "chuixi",
+            "rank": 84058,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f28bd482044b4a759d06757546c6203e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lộng",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "phong kình xuy",
+            "pinyin": "fēng jìng chuī",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "风劲吹",
+            "id": 178813,
+            "phonetic": "fengjingchui",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄌㄥˇㄈㄥ",
+            "_id": "8e1341d8d28e80224c6cf810c563852d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nói mát; châm chọc",
+                            "explain": "比喻散布冷言冷语",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 25
+            },
+            "snym": {
+                "syno": [
+                    "泼冷水"
+                ]
+            },
+            "cn_vi": "xuy lãnh phong",
+            "pinyin": "chuī lěngfēng",
+            "word": "吹冷风",
+            "id": 8922,
+            "phonetic": "chuilengfeng",
+            "rank": 76701,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄟㄈㄚˇㄌㄨㄛˊ",
+            "_id": "beab21935417de6f9b5d2d2e92f6216b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "khoe khoang; khoác lác",
+                            "explain": "吹法螺的声音传得很远原用\"吹法螺\"比喻佛教教义广为传播，后比喻说大话",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": {
+                "syno": [
+                    "吹牛"
+                ]
+            },
+            "cn_vi": "xuy pháp loa",
+            "pinyin": "chuī fǎluó",
+            "word": "吹法螺",
+            "id": 8909,
+            "phonetic": "chuifaluo",
+            "rank": 149971,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "吹"
+}

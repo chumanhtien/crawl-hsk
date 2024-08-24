@@ -1,0 +1,2417 @@
+{
+    "total": 136,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "v",
+                "conj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋ",
+            "_id": "96250391366ee092212d82271340140c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A mượn B",
+                            "examples": [
+                                91228
+                            ],
+                            "struct": "A + 借 + B + Tân ngữ (钱/ 东西)"
+                        },
+                        {
+                            "explain": "A mượn B",
+                            "examples": [
+                                91230
+                            ],
+                            "struct": "A 问/从/跟/向 + B + 借 + Tân ngữ"
+                        },
+                        {
+                            "explain": "A cho B mượn gì",
+                            "examples": [
+                                91232
+                            ],
+                            "struct": "A 借给 B + Danh từ"
+                        },
+                        {
+                            "explain": "A cho B mượn gì",
+                            "examples": [
+                                91233
+                            ],
+                            "struct": "A + 借 + Tân ngữ + 给 + B"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mượn; vay",
+                            "explain": "暂时使用别人的物品或金钱;、借进",
+                            "examples": [
+                                {
+                                    "m": "Mượn sách ở thư viện.",
+                                    "p_vn": "muon sach o thu vien.",
+                                    "_id": "3ae203f5715cc41cf9c721da0ac4c9fd",
+                                    "id": 21334,
+                                    "type": "e_cnvi",
+                                    "e": "向图书馆借书。",
+                                    "p_cn": "xiang tushuguan jieshu.",
+                                    "p": "xiàng túshūguǎn jièshū."
+                                },
+                                {
+                                    "m": "Mượn tiền người khác.",
+                                    "p_vn": "muon tien nguoi khac.",
+                                    "_id": "e82006eb50b577c60d94d438e1abcbbf",
+                                    "id": 21335,
+                                    "type": "e_cnvi",
+                                    "e": "跟人借钱。",
+                                    "p_cn": "gen ren jieqian.",
+                                    "p": "gēn rén jièqián."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cho mượn; cho vay",
+                            "explain": "把物品或金钱暂时供别人使用;借出",
+                            "examples": [
+                                {
+                                    "m": "Cho anh ấy mượn sách.",
+                                    "p_vn": "cho anh ay muon sach.",
+                                    "_id": "2811eabf826f8e9b2868991aefd27379",
+                                    "id": 21336,
+                                    "type": "e_cnvi",
+                                    "e": "借书给他。",
+                                    "p_cn": "jieshu gei ta.",
+                                    "p": "jièshū gěi tā."
+                                },
+                                {
+                                    "m": "Cho người ta mượn tiền.",
+                                    "p_vn": "cho nguoi ta muon tien.",
+                                    "_id": "04bf143bd5c26fc3b7b2734efbef19cb",
+                                    "id": 21337,
+                                    "type": "e_cnvi",
+                                    "e": "借钱给人。",
+                                    "p_cn": "jie qian gei ren.",
+                                    "p": "jiè qián gěi rén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhờ; cậy; mượn cớ; viện cớ",
+                            "explain": "假托",
+                            "examples": [
+                                {
+                                    "m": "Mượn cớ.",
+                                    "p_vn": "muon co.",
+                                    "_id": "b769df3270ecbf4e96b44485d3030506",
+                                    "id": 21338,
+                                    "type": "e_cnvi",
+                                    "e": "借故。",
+                                    "p_cn": "jiegu.",
+                                    "p": "jiègù."
+                                },
+                                {
+                                    "m": "Viện cớ \"cứu trợ\" làm cớ để cướp bóc.",
+                                    "p_vn": "vien co \"cuu tro\" lam co de cuop boc.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3c8a77b",
+                                    "id": 91195,
+                                    "type": "e_cnvi",
+                                    "e": "借“援助”之名，行掠夺之实。",
+                                    "p_cn": "jie “yuanzhu” zhi ming, xing lüeduo zhi shi.",
+                                    "p": "jiè “yuánzhù” zhī míng, xíng lüèduó zhī shí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dựa vào; mượn; nhân cơ hội; lợi dụng",
+                            "explain": "凭借",
+                            "examples": [
+                                {
+                                    "m": "Mượn tay.",
+                                    "p_vn": "muon tay.",
+                                    "_id": "d42aa3ce0f563316f6e08c7cdf4a2810",
+                                    "id": 21340,
+                                    "type": "e_cnvi",
+                                    "e": "借手(假手)。",
+                                    "p_cn": "jieshou ( jiashou ).",
+                                    "p": "jièshǒu ( jiǎshǒu )."
+                                },
+                                {
+                                    "m": "Ngọn lửa lợi dụng gió, cháy ngày càng mạnh.",
+                                    "p_vn": "ngon lua loi dung gio, chay ngay cang manh.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3c8ac36",
+                                    "id": 91196,
+                                    "type": "e_cnvi",
+                                    "e": "火借风势，越烧越旺。",
+                                    "p_cn": "huo jie fengshi, yue shao yue wang.",
+                                    "p": "huǒ jiè fēngshì, yuè shāo yuè wàng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "nếu; nếu như; ví như",
+                            "explain": "如果",
+                            "examples": [
+                                {
+                                    "m": "Nếu như hôm nay chết, thì cũng đủ một đời.",
+                                    "p_vn": "neu nhu hom nay chet, thi cung du mot doi.",
+                                    "_id": "6e3c6f06c8d2a91ef69057efc7fd06c1",
+                                    "id": 89993,
+                                    "type": "e_cnvi",
+                                    "e": "借如今日死,，亦足了一生。",
+                                    "p_cn": "jie ru jinri si, yi zule yisheng.",
+                                    "p": "jiè rú jīnrì sǐ, yì zúle yīshēng."
+                                },
+                                {
+                                    "m": "Nếu như tôi có thể bay.",
+                                    "p_vn": "neu nhu toi co the bay.",
+                                    "_id": "6a1e4a85a5618aa5e6f166d5b3c8c890",
+                                    "id": 91199,
+                                    "type": "e_cnvi",
+                                    "e": "借如我能飞。",
+                                    "p_cn": "jie ru wo neng fei.",
+                                    "p": "jiè rú wǒ néng fēi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1091,
+                "search": 19968
+            },
+            "snym": {
+                "anto": [
+                    "贷",
+                    "还"
+                ]
+            },
+            "lv_hsk_new": "2, 3",
+            "pinyin": "jiè",
+            "cn_vi": "tá",
+            "word": "借",
+            "id": 29913,
+            "phonetic": "jie",
+            "rank": 280,
+            "lv_tocfl": 2,
+            "compound": "借词 ; 借贷 ; 借刀杀人 ; 借端 ; 借方 ; 借风使船 ; 借古讽今 ; 借故 ; 借光 ; 借花献佛 ; 借火 ; 借鉴 ; 借镜 ; 借据 ; 借口 ; 借款 ; 借尸还魂 ; 借宿 ; 借题发挥 ; 借条 ; 借位 ; 借问 ; 借以 ; 借用 ; 借债 ; 借支 ; 借重 ; 借助"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄒㄧㄤˋㄐㄧㄝˋㄈㄤ",
+            "_id": "fe5d26262a23430f9b61e9082bd8e1c2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bên nợ (Thương mại)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tá hạng tá phương",
+            "pinyin": "jiè xiàng jièfāng",
+            "word": "借项借方",
+            "id": 147979,
+            "phonetic": "jiexiangjiefang",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "eae91773040141e3b1fab0aaed31eb50",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giật lửa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tịnh tá",
+            "pinyin": "jìng jiè",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "净借",
+            "id": 180954,
+            "phonetic": "jingjie",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄩㄝˋ",
+            "_id": "7fdf10179cb5baee279837c5a28eb353",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mượn đọc; mượn xem",
+                            "explain": "读者借来阅览",
+                            "examples": [
+                                {
+                                    "m": "Điều đáng kinh ngạc nhất là cửa hàng cho thuê truyện tranh duy nhất ở Ershui không mở cửa cho mượn tại chỗ, bạn phải thuê mới có thể đọc được.",
+                                    "p_vn": "dieu dang kinh ngac nhat la cua hang cho thue truyen tranh duy nhat o ershui khong mo cua cho muon tai cho, ban phai thue moi co the doc duoc.",
+                                    "_id": "21ac2c0611bd4b23b28a2f7a21a402e5",
+                                    "id": 67871,
+                                    "type": "e_cnvi",
+                                    "e": "最不可思议的是，二水唯一一间漫画租书店不开放现场借阅，非得租走才能看",
+                                    "p_cn": "zui bukěsīyi de shi, er shuǐ wei yīyī jian manhua zū shūdian bu kāifang xianchǎng jieyue, fēiděi zū zǒu caineng kan",
+                                    "p": "Zuì bùkěsīyì de shì, èr shuǐ wéi yīyī jiàn mànhuà zū shūdiàn bù kāifàng xiànchǎng jièyuè, fēiděi zū zǒu cáinéng kàn"
+                                },
+                                {
+                                    "m": "Mượn sách đọc cần phải hoàn trả trong thời hạn qui định, để tránh trường hợp không có sách cho người khác mượn.",
+                                    "p_vn": "muon sach doc can phai hoan tra trong thoi han qui dinh, de tranh truong hop khong co sach cho nguoi khac muon.",
+                                    "_id": "6585b1e7365060665c1ab9989c745fdd",
+                                    "id": 45281,
+                                    "type": "e_cnvi",
+                                    "e": "借阅的书籍应该在限期之内归还，以免妨碍流通。",
+                                    "p_cn": "jieyue de shuji yinggai zai xianqi zhinei guihuan，yimian fangai liutong。",
+                                    "p": "jièyuè de shūjí yìnggāi zài xiànqī zhīnèi gūihuán，yǐmiǎn fángài líutōng。"
+                                },
+                                {
+                                    "m": "tự chọn sách để mượn.",
+                                    "p_vn": "tu chon sach de muon",
+                                    "_id": "65fb3fad45bc91d22ec43f5632abc0b6",
+                                    "id": 22806,
+                                    "type": "e_cnvi",
+                                    "e": "开架借阅。",
+                                    "p_cn": "kaijia jieyue",
+                                    "p": "kāijià jièyuè。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 127
+            },
+            "snym": null,
+            "cn_vi": "tá duyệt",
+            "pinyin": "jièyuè",
+            "word": "借阅",
+            "id": 29948,
+            "phonetic": "jieyue",
+            "rank": 36669,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩˋㄐㄧㄝˋ",
+            "_id": "dd1fa710ec644d4f9b9c1e8bdec4b989",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mượn mở rộng (ví dụ: gia hạn thư viện)",
+                            "explain": "extended borrowing (e.g. library renewal)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 107
+            },
+            "snym": null,
+            "cn_vi": "tục tá",
+            "pinyin": "xù jiè",
+            "word": "续借",
+            "id": 93028,
+            "phonetic": "xujie",
+            "rank": 40103,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄙㄨˋ",
+            "_id": "cfce23d3c7a65526c64c161b7e53c24b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ở nhờ; tá túc; ngủ nhờ; ngủ trọ",
+                            "explain": "借别人的地方住宿",
+                            "examples": [
+                                {
+                                    "m": "đội thăm dò ở nhờ nhà dân một đêm.",
+                                    "p_vn": "doi tham do o nho nha dan mot dem",
+                                    "_id": "4e417cf2c40e2e25f3970657366011c3",
+                                    "id": 21348,
+                                    "type": "e_cnvi",
+                                    "e": "勘探队在老乡家里借宿了一夜。",
+                                    "p_cn": "kantan dui zai laoxiang jiali jiesule yiye",
+                                    "p": "kāntàndùi zài lǎoxiāng jiālǐ jièsù le yīyè。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 198
+            },
+            "snym": null,
+            "cn_vi": "tá túc",
+            "pinyin": "jièsù",
+            "word": "借宿",
+            "id": 29940,
+            "phonetic": "jiesu",
+            "rank": 28490,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄨㄟˋ",
+            "_id": "baec37a3622ddda7a3b8e439a7c5974d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "số nhớ; số mượn (trong phép trừ)",
+                            "explain": "减法中被减数中的一位数不够时向前一位借一，化成本位的数量，然后再减",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 97
+            },
+            "snym": null,
+            "cn_vi": "tá vị",
+            "pinyin": "jiè wèi",
+            "word": "借位",
+            "id": 29943,
+            "phonetic": "jiewei",
+            "rank": 42112,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄞㄐㄧㄝˋ",
+            "_id": "d2b6757b7975651b1e7e7ea7f870a210",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mượn tạm; giật nóng; vay nóng",
+                            "explain": "短期的按日计息的借贷",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 42
+            },
+            "snym": null,
+            "cn_vi": "sách tá",
+            "pinyin": "chāijiè",
+            "word": "拆借",
+            "id": 6159,
+            "phonetic": "chaijie",
+            "rank": 62511,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄨㄐㄧㄝˋ",
+            "_id": "3ce183f874f0b0c3c5878a3aec123abd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cho mượn; cho vay",
+                            "explain": "借出去 (多指物品)",
+                            "examples": [
+                                {
+                                    "m": "Các công ty phát hành trái phiếu để huy động tiền. Khi bạn mua một trái phiếu công ty, về cơ bản bạn đang cho công ty vay tiền trong suốt thời hạn của trái phiếu.",
+                                    "p_vn": "cac cong ty phat hanh trai phieu de huy dong tien. khi ban mua mot trai phieu cong ty, ve co ban ban dang cho cong ty vay tien trong suot thoi han cua trai phieu.",
+                                    "_id": "7373d619cbcc47598e5e23f3d1ef3728",
+                                    "id": 67806,
+                                    "type": "e_cnvi",
+                                    "e": "公司为了筹钱而发行债券。 你购买某企业债券实质上就是把钱借给该公司，出借期就是债券有效期。",
+                                    "p_cn": "gongsi weile chou qian er faxing zhaiquan. ni goumai mou qiye zhaiquan shizhi shang jiushi ba qian jie gei gai gongsi, chujie qi jiushi zhaiquan youxiaoqi.",
+                                    "p": "Gōngsī wèile chóu qián ér fāxíng zhàiquàn. Nǐ gòumǎi mǒu qǐyè zhàiquàn shízhì shàng jiùshì bǎ qián jiè gěi gāi gōngsī, chūjiè qī jiùshì zhàiquàn yǒuxiàoqī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 68
+            },
+            "snym": {
+                "anto": [
+                    "归还"
+                ]
+            },
+            "cn_vi": "xuất tá",
+            "pinyin": "chūjiè",
+            "word": "出借",
+            "id": 8240,
+            "phonetic": "chujie",
+            "rank": 50273,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "27",
+            "zhuyin": "ㄐㄧㄝˋㄐㄧˋ",
+            "_id": "47ff846af4624f49ac6e9d6c9bb37029",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Ghi nợ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tổng chi phí mua cổ phiếu phải được ghi nợ vào tài khoản đầu tư.",
+                                    "p_vn": "Tong chi phi mua co phieu phai duoc ghi no vao tai khoan dau tu.",
+                                    "_id": "96d6e73a057448939fafcc8db7374f74",
+                                    "id": 56259,
+                                    "type": "e_cnvi",
+                                    "e": "购入股票的总成本应借记投资账户.",
+                                    "p_cn": "Gou ru gupiao de zong chengben ying jie ji touzi zhanghu.",
+                                    "p": "Gòu rù gǔpiào de zǒng chéngběn yìng jiè jì tóuzī zhànghù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 57
+            },
+            "snym": null,
+            "cn_vi": "tá ký",
+            "pinyin": "jiè jì",
+            "word": "借记",
+            "id": 85615,
+            "phonetic": "jieji",
+            "rank": 54454,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄓㄨˋ",
+            "_id": "45211f43f2cde77a0fe69e7e9f79d357",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A nhờ sự giúp đỡ của B để làm gì",
+                            "examples": [
+                                143972,
+                                143973
+                            ],
+                            "struct": "A + 借助 + B + 来 + Động từ/ Cụm động từ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                143974,
+                                143975
+                            ],
+                            "struct": "借助 + Tân ngữ (词典/力量/网络/媒体/望远镜/放大镜)"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhờ vào; cậy vào; nhờ; nhờ sự giúp đỡ",
+                            "explain": "靠别的人或事物的帮助",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi nhờ vào công nghệ để giải quyết vấn đề.",
+                                    "p_vn": "chung toi nho vao cong nghe de giai quyet van de.",
+                                    "_id": "4db5a71385989eb3ed116a21c338ae0e",
+                                    "id": 143968,
+                                    "type": "e_cnvi",
+                                    "e": "我们借助技术解决了问题。",
+                                    "p_cn": "women jiezhu jishu jiejuele wenti.",
+                                    "p": "wǒmen jièzhù jìshù jiějuéle wèntí."
+                                },
+                                {
+                                    "m": "Công ty nhờ vào quảng cáo để tăng doanh số.",
+                                    "p_vn": "cong ty nho vao quang cao de tang doanh so.",
+                                    "_id": "4db5a71385989eb3ed116a21c338b57b",
+                                    "id": 143969,
+                                    "type": "e_cnvi",
+                                    "e": "公司借助广告提升了销量。",
+                                    "p_cn": "gongsi jiezhu guanggao tishengle xiaoliang.",
+                                    "p": "gōngsī jièzhù guǎnggào tíshēngle xiāoliàng."
+                                },
+                                {
+                                    "m": "Anh ấy nhờ vào sự hỗ trợ của bạn hoàn thành nhiệm vụ.",
+                                    "p_vn": "anh ay nho vao su ho tro cua ban hoan thanh nhiem vu.",
+                                    "_id": "4db5a71385989eb3ed116a21c338c3a0",
+                                    "id": 143970,
+                                    "type": "e_cnvi",
+                                    "e": "他借助朋友的支持完成任务。",
+                                    "p_cn": "ta jiezhu pengyou de zhichi wancheng renwu.",
+                                    "p": "tā jièzhù péngyǒu de zhīchí wánchéng rènwù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 178,
+                "search": 1675
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jièzhù",
+            "cn_vi": "tá trợ",
+            "word": "借助",
+            "id": 29954,
+            "phonetic": "jiezhu",
+            "rank": 6458,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄓㄨˋ",
+            "_id": "16dc334e680c05fbb9065a447a23082d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ở nhờ; trú tạm",
+                            "explain": "借他人的地方暂住",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 93
+            },
+            "snym": null,
+            "cn_vi": "tá trụ",
+            "pinyin": "jiè zhù",
+            "word": "借住",
+            "id": 29953,
+            "phonetic": "jiezhu",
+            "rank": 43168,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄋㄨㄛˊㄐㄧㄝˋ",
+            "_id": "00b9d54cd3c0f2f54835cb705299f28b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vay tiền; mượn tiền",
+                            "explain": "暂时借用别人的钱",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "na tá",
+            "pinyin": "nuójiè",
+            "word": "挪借",
+            "id": 39934,
+            "phonetic": "nuojie",
+            "rank": 74610,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄤˊㄐㄧㄝˋ",
+            "_id": "28330b690b8c401c9fd9225d0aeb70ee",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Bừa bãi; ngổn ngang. \n§ Cũng viết là 狼籍. \n◇Nguyễn Du 阮攸: Lang tạ tàn hồng vô mịch xứ 狼籍殘紅無覓處 (Dương Phi cố lí 楊妃故里) Cánh hoa tàn rụng ngổn ngang; biết tìm đâu?",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "lang tá",
+            "pinyin": "láng jiè",
+            "word": "狼借",
+            "id": 150465,
+            "phonetic": "langjie",
+            "rank": 133802,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "27",
+            "zhuyin": "ㄐㄧㄝˋㄊㄧㄠˊ",
+            "_id": "4466da061980f1e91f023c55d13243d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giấy vay nợ",
+                            "explain": "(借条儿) 便条式的借据",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 188
+            },
+            "snym": {
+                "syno": [
+                    "借字",
+                    "借单",
+                    "欠据",
+                    "借约",
+                    "借据"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "jiètiáo",
+            "cn_vi": "tá điều",
+            "word": "借条",
+            "id": 29942,
+            "phonetic": "jietiao",
+            "rank": 29431,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄉㄞˋ",
+            "_id": "0c56f07e661fe6602aeb9eca437e959f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mượn tiền; vay tiền; giật",
+                            "explain": "借 (钱)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "khoản tiền mượn; khoản tiền vay",
+                            "explain": "指簿记或资产表上的借方和货方",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vay mượn",
+                            "explain": "银行存款、贷款等信用活动的总称一般指银行的贷款",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 19,
+                "search": 180
+            },
+            "snym": {
+                "syno": [
+                    "假贷",
+                    "贷款"
+                ],
+                "anto": [
+                    "偿还"
+                ]
+            },
+            "cn_vi": "tá thải",
+            "pinyin": "jièdài",
+            "word": "借贷",
+            "id": 29916,
+            "phonetic": "jiedai",
+            "rank": 30120,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄍㄨㄛˋ",
+            "_id": "6d15f0346f91498f8215d39869d5d846",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xin lỗi (tức là cho tôi qua, làm ơn)",
+                            "explain": "excuse me (i.e. let me through, please)",
+                            "examples": [
+                                {
+                                    "m": "xin lỗi, đi nhờ một chút",
+                                    "p_vn": "xin loi, di nho mot chut",
+                                    "_id": "777956ca5bb24ec8907eaba78f72fbd0",
+                                    "id": 54738,
+                                    "type": "e_cnvi",
+                                    "e": "不好意思，请借过一下。",
+                                    "p_cn": "Bu haoyisi, qing jieguo yixia.",
+                                    "p": "Bù hǎoyìsi, qǐng jièguò yīxià."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 33,
+                "search": 426
+            },
+            "snym": {
+                "syno": [
+                    "让开",
+                    "闪开",
+                    "让让"
+                ],
+                "anto": [
+                    "挡住",
+                    "挡路",
+                    "拦路"
+                ]
+            },
+            "cn_vi": "tá quá",
+            "pinyin": "jièguò",
+            "word": "借过",
+            "id": 94810,
+            "phonetic": "jieguo",
+            "rank": 17658,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄉㄢ",
+            "_id": "ba110f31d850a2d502d29a337a3d2f56",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giấy nợ; giấy vay nợ",
+                            "explain": "借单儿借据",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": {
+                "syno": [
+                    "借条"
+                ]
+            },
+            "cn_vi": "tá đơn",
+            "pinyin": "jiè dān",
+            "word": "借单",
+            "id": 29917,
+            "phonetic": "jiedan",
+            "rank": 110705,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄉㄨˊ",
+            "_id": "fd35f03ae3f78253adcf230536578198",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "dự thính; bán chính thức",
+                            "explain": "通常由于户口等原因不能作为正式接受的学生在学校同其他正式接受的学生一起上学",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "tá độc",
+            "pinyin": "jièdú",
+            "word": "借读",
+            "id": 29920,
+            "phonetic": "jiedu",
+            "rank": 65117,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄞㄐㄧㄝˋ",
+            "_id": "921029077d7cca512577decef07ea05d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vay nóng; vay; mượn",
+                            "explain": "有急用时临时向人借钱",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 59
+            },
+            "snym": null,
+            "cn_vi": "trích tá",
+            "pinyin": "zhāi jiè",
+            "word": "摘借",
+            "id": 63209,
+            "phonetic": "zhaijie",
+            "rank": 53814,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄐㄧ",
+            "_id": "e7fe10ae407d4195b4bf6054a4408bd2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "để nắm bắt cơ hội",
+                            "explain": "to seize the opportunity",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sẵn dịp",
+                            "explain": "乘做某事的方便 (做另一事)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 122
+            },
+            "snym": null,
+            "cn_vi": "tá cơ",
+            "pinyin": "jiè jī",
+            "word": "借机",
+            "id": 90053,
+            "phonetic": "jieji",
+            "rank": 37526,
+            "kind": [
+                "v",
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄍㄨˋ",
+            "_id": "aba97baff30bb2a0ef3ef9cc5f3edf89",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "mượn cớ; vin cớ; viện cớ",
+                            "explain": "借口某种原因",
+                            "examples": [
+                                {
+                                    "m": "anh ấy không muốn tiếp tục nói chuyện với họ, liền mượn cớ bỏ đi rồi.",
+                                    "p_vn": "anh ay khong muon tiep tuc noi chuyen voi ho, lien muon co bo di roi.",
+                                    "_id": "2b22cc825436883eec2531e9a2bd3398",
+                                    "id": 21342,
+                                    "type": "e_cnvi",
+                                    "e": "他不原意再跟他们谈下去，就借故走了。",
+                                    "p_cn": "ta bu yuanyi zai gen tamen tan xiaqu jiu jiegu zoule",
+                                    "p": "tā bù yuányì zài gēn tāmen tán xiàqù，jìu jiègù zǒu le。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"借口\" vừa là động từ vừa là danh từ, là từ mang nghĩa xấu, phía nhau nhất định đi kèm với tân ngữ.\n\"借故\" là kết cấu động tân, không thể đi kèm với tân ngữ, thường làm trạng ngữ.\nHai từ này không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"借故\" và \"借口\"",
+                    "words": [
+                        "借故",
+                        "借口"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "托辞",
+                    "托故",
+                    "借口",
+                    "借端"
+                ]
+            },
+            "cn_vi": "tá cố",
+            "pinyin": "jiègù",
+            "popularity": {
+                "notebook": 21,
+                "search": 120
+            },
+            "word": "借故",
+            "id": 29925,
+            "phonetic": "jiegu",
+            "rank": 37771,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ffb3569c9a244cf1b27e85e6429602f4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vay trước",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "dự tá",
+            "pinyin": "yù jiè",
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "word": "预借",
+            "id": 173593,
+            "phonetic": "yujie",
+            "rank": 130181,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄓㄜ˙",
+            "_id": "b71dcb30995745e69c6a1a1a8d753774",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Dựa vào",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "một ưu điểm nữa là dựa vào chiều cao của mình, tôi có thể thay bóng đèn, treo rèm, v.v.",
+                                    "p_vn": "mot uu diem nua la dua vao chieu cao cua minh, toi co the thay bong den, treo rem, v.v.",
+                                    "_id": "3a64cef7817f4eb1b3b33e473cc055dc",
+                                    "id": 55098,
+                                    "type": "e_cnvi",
+                                    "e": "另一个好处是借着我的身高，可以帮家里换灯泡、挂窗帘等等",
+                                    "p_cn": "ling yige haochu shi jiezhe wo de shengao, keyi bang jiali huan dengpao, gua chuanglian deng deng",
+                                    "p": "Lìng yīgè hǎochù shì jièzhe wǒ de shēngāo, kěyǐ bāng jiālǐ huàn dēngpào, guà chuānglián děng děng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bằng cách",
+                            "explain": "by means of",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xuyên qua",
+                            "explain": "through",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 160
+            },
+            "snym": null,
+            "cn_vi": "tá trứ",
+            "pinyin": "jièzhe",
+            "word": "借着",
+            "id": 84379,
+            "phonetic": "jiezhe",
+            "rank": 32232,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄓ",
+            "_id": "d2572282200d6cb89d2dbe883ee22b39",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tạm chi lương; tạm ứng lương",
+                            "explain": "先期支用工资",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vay trước",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 26,
+                "search": 314
+            },
+            "snym": null,
+            "cn_vi": "tá chi",
+            "pinyin": "jièzhī",
+            "word": "借支",
+            "id": 29951,
+            "phonetic": "jiezhi",
+            "rank": 21518,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨㄢˇㄐㄧㄝˋ",
+            "_id": "f37b08f2bfdcaaed1473ce9b62e70204",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cho mượn lại (đồ mượn lại cho người khác mượn)",
+                            "explain": "把借来的东西再借给别人",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giấy tờ; cho mượn bằng",
+                            "explain": "把自己的证件等借给别人使用",
+                            "examples": [
+                                {
+                                    "m": "không được cho người khác mượn thẻ mượn sách.",
+                                    "p_vn": "khong duoc cho nguoi khac muon the muon sach",
+                                    "_id": "92a48cb7a7cc8c97a733b6f974cfac38",
+                                    "id": 51681,
+                                    "type": "e_cnvi",
+                                    "e": "借书证不得转借他人。",
+                                    "p_cn": "jie shu zheng bude zhuanjie taren",
+                                    "p": "jièshūzhèng bùdé zhuǎnjiè tārén。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 34
+            },
+            "snym": null,
+            "cn_vi": "chuyển tá",
+            "pinyin": "zhuǎnjiè",
+            "word": "转借",
+            "id": 66024,
+            "phonetic": "zhuanjie",
+            "rank": 68369,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄑㄧㄢˊ",
+            "_id": "e79950921b6c48c3a6291d5a3362f3d9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vay tiền",
+                            "explain": "从他人处暂时获取资金，承诺在一定时间内归还。",
+                            "examples": [
+                                {
+                                    "m": "Cho người ta mượn tiền.",
+                                    "p_vn": "cho nguoi ta muon tien.",
+                                    "_id": "04bf143bd5c26fc3b7b2734efbef19cb",
+                                    "id": 21337,
+                                    "type": "e_cnvi",
+                                    "e": "借钱给人。",
+                                    "p_cn": "jie qian gei ren.",
+                                    "p": "jiè qián gěi rén."
+                                },
+                                {
+                                    "m": "Tôi có chút cảnh giác, không có việc thì không đến gõ cửa, chẳng lẽ tìm tôi mượn tiền?",
+                                    "p_vn": "toi co chut canh giac, khong co viec thi khong den go cua, chang le tim toi muon tien?",
+                                    "_id": "0707d3c328072b0d582efb7860f5cb27",
+                                    "id": 68265,
+                                    "e": "我有些警惕，无事不登三宝殿，难不成找我借钱？",
+                                    "p_cn": "wo youxie jingti, wu shi bu deng san baodian, nan bucheng zhao wo jie qian?",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ yǒuxiē jǐngtì, wú shì bù dēng sān bǎodiàn, nán bùchéng zhǎo wǒ jiè qián?"
+                                },
+                                {
+                                    "m": "Vay tiền bạn bè, có vay có trả, sau muốn vay cũng không khó",
+                                    "p_vn": "vay tien ban be, co vay co tra, sau muon vay cung khong kho",
+                                    "_id": "0e2f8e2d840b4069ba03d55c2349cff6",
+                                    "id": 54974,
+                                    "type": "e_cnvi",
+                                    "e": "朋友间借钱,好借好还再借不难。",
+                                    "p_cn": "pengyou jian jie qian, hao jie hao huan zai jie bu nan.",
+                                    "p": "Péngyǒu jiān jiè qián, hǎo jiè hào huán zài jiè bù nán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 52,
+                "search": 911
+            },
+            "snym": {
+                "syno": [
+                    "借款",
+                    "告贷",
+                    "借债",
+                    "贷款",
+                    "乞贷",
+                    "举债"
+                ],
+                "anto": [
+                    "还钱"
+                ]
+            },
+            "cn_vi": "tá tiền",
+            "pinyin": "jiè qián",
+            "word": "借钱",
+            "id": 101373,
+            "phonetic": "jieqian",
+            "rank": 10559,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "27",
+            "zhuyin": "ㄐㄧㄝˋㄈㄤ",
+            "_id": "03de8316f7320e2749b63bd6f31a145f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phía vay; bên vay; bên ghi nợ",
+                            "explain": "簿记帐户的左方，记载资产的增加，负债的减少和净值的减少 (跟'付方'相对) 见〖收方〗",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phần có; ghi nợ",
+                            "explain": "簿记帐户的左方, 记载资产的增加, 负债的减少和净值的减少 (跟'付方'相对)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 96
+            },
+            "snym": {
+                "anto": [
+                    "贷方"
+                ]
+            },
+            "cn_vi": "tá phương",
+            "pinyin": "jièfāng",
+            "word": "借方",
+            "id": 29922,
+            "phonetic": "jiefang",
+            "rank": 42304,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄩˋ",
+            "_id": "3a549e657d34ae4c61dcb91704d1273b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ví von; ví dụ; ví",
+                            "explain": "比喻",
+                            "examples": []
+                        },
+                        {
+                            "mean": "phép tu từ; mỹ từ pháp; tá dụ",
+                            "explain": "为了活跃或强调一个意思使用与原意上不相同的一个词或一种表达",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 123
+            },
+            "snym": null,
+            "cn_vi": "tá dụ",
+            "pinyin": "jièyù",
+            "word": "借喻",
+            "id": 29947,
+            "phonetic": "jieyu",
+            "rank": 37252,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "966818cabe114f868f9c2454ea0b4d65",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "giật tạm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tạm tá",
+            "pinyin": "zàn jiè",
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "word": "暂借",
+            "id": 181836,
+            "phonetic": "zanjie",
+            "rank": 121980,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˊㄐㄧㄝˋ",
+            "_id": "e1caaa0a633a4a418836e0ecf6d19dd5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(ngôn ngữ học) vay mượn",
+                            "explain": "(linguistics) borrowing; to borrow",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để sử dụng một cách khác",
+                            "explain": "to put to a different use",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "di tá",
+            "pinyin": "yí jiè",
+            "word": "移借",
+            "id": 92887,
+            "phonetic": "yijie",
+            "rank": 133410,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄩㄥˋ",
+            "_id": "572d35382a327912d7bfbc4aa437158d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "mượn dùng; mượn xài; vay; mượn; khín; giật mượn",
+                            "explain": "借别人的东西来使用",
+                            "examples": [
+                                {
+                                    "m": "mượn bút chì của anh một chút.",
+                                    "p_vn": "muon but chi cua anh mot chut.",
+                                    "_id": "246e2f8a8eeb5735ec030a1c38d63858",
+                                    "id": 21351,
+                                    "type": "e_cnvi",
+                                    "e": "借用一下你的铅笔。",
+                                    "p_cn": "jieyong yixia ni de qianbi。",
+                                    "p": "jièyòng yīxià nǐ de qiānbǐ。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dùng làm; dùng",
+                            "explain": "把用于某种用途的事物用于另一种用途",
+                            "examples": [
+                                {
+                                    "m": "\"đạo cụ\" vốn chỉ những vật dùng trong lúc hoà thượng đọc kinh, ngày nay dùng để chỉ đạo cụ sử dụng trong khi diễn kịch.",
+                                    "p_vn": "\"dao cu\" von chi nhung vat dung trong luc hoa thuong doc kinh, ngay nay dung de chi dao cu su dung trong khi dien kich.",
+                                    "_id": "7bb023d19bc23db2c6d88ad9fbf0ccd1",
+                                    "id": 21352,
+                                    "type": "e_cnvi",
+                                    "e": "道具'这个名词原来指和尚念经时所用的东西，现在借用来指演戏时所用的器物。",
+                                    "p_cn": "daoju ' zhege mingci yuanlai zhi heshang nianjing shi suoyong de dongxi,xianzai jieyong lai zhi yanxi shi suoyong de qiwu. ",
+                                    "p": "dàojù ' zhègè míngcí yuánlái zhǐ héshàng niànjīng shí suǒyòng de dōngxi，xiànzài jièyòng lái zhǐ yǎnxì shí suǒyòng de qìwù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 44,
+                "search": 513
+            },
+            "snym": {
+                "anto": [
+                    "交还",
+                    "归还"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "jièyòng",
+            "cn_vi": "tá dụng",
+            "word": "借用",
+            "id": 29946,
+            "phonetic": "jieyong",
+            "rank": 15682,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄏㄨㄛˇ",
+            "_id": "5a0059e2ef89817ad86bc4685df0f36b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xin tý lửa; xin mồi tý lửa (hút thuốc)",
+                            "explain": "(借火儿) 吸烟时向别人借用引火的东西或利用别人的火来引火",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "tá hoả",
+            "pinyin": "jiè huǒ",
+            "word": "借火",
+            "id": 29928,
+            "phonetic": "jiehuo",
+            "rank": 109083,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄔㄨ",
+            "_id": "8f0a8e2b354947769c71feb736e93969",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cho mượn",
+                            "explain": "to lend",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 63
+            },
+            "snym": {
+                "anto": [
+                    "收回",
+                    "归还"
+                ]
+            },
+            "cn_vi": "tá xuất",
+            "pinyin": "jiè chū",
+            "word": "借出",
+            "id": 94807,
+            "phonetic": "jiechu",
+            "rank": 52079,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄒㄧㄝˇ",
+            "_id": "b710d297510748739a0c8ab806ff5b2c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Viết giùm. Mượn sách của người khác mà viết.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tá tả",
+            "pinyin": "jiè xiě",
+            "word": "借写",
+            "id": 148808,
+            "phonetic": "jiexie",
+            "rank": 117457,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄉㄧㄠˋ",
+            "_id": "8cda656352e65f14a7b5d316b1271d53",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "điều tạm; mượn tạm (nhân công của đơn vị khác)",
+                            "explain": "一个单位借用别单位的工作人员而不改变其隶属关系",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 81
+            },
+            "snym": null,
+            "cn_vi": "tá điệu",
+            "pinyin": "jièdiào",
+            "word": "借调",
+            "id": 29919,
+            "phonetic": "jiediao",
+            "rank": 46298,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄊㄧㄢˊ",
+            "_id": "74dc0e3f9f1548dd9f803ed4a8f30df2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người thuê ruộng của người khác để cày cấy. Người cày thuê.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "tá điền",
+            "pinyin": "jiè tián",
+            "word": "借田",
+            "id": 148806,
+            "phonetic": "jietian",
+            "rank": 113284,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cac5c9715d7b457695897ae728eaac52",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ghi nợ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "tá liệt",
+            "pinyin": "jiè liè",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "借列",
+            "id": 181379,
+            "phonetic": "jielie",
+            "rank": 145649,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄍㄟˇ",
+            "_id": "5180894527be491cb0f30b3c5b2fcb19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cho mượn ai đó",
+                            "explain": "to lend to sb",
+                            "examples": [
+                                {
+                                    "m": "Các công ty phát hành trái phiếu để huy động tiền. Khi bạn mua một trái phiếu công ty, về cơ bản bạn đang cho công ty vay tiền trong suốt thời hạn của trái phiếu.",
+                                    "p_vn": "cac cong ty phat hanh trai phieu de huy dong tien. khi ban mua mot trai phieu cong ty, ve co ban ban dang cho cong ty vay tien trong suot thoi han cua trai phieu.",
+                                    "_id": "7373d619cbcc47598e5e23f3d1ef3728",
+                                    "id": 67806,
+                                    "type": "e_cnvi",
+                                    "e": "公司为了筹钱而发行债券。 你购买某企业债券实质上就是把钱借给该公司，出借期就是债券有效期。",
+                                    "p_cn": "gongsi weile chou qian er faxing zhaiquan. ni goumai mou qiye zhaiquan shizhi shang jiushi ba qian jie gei gai gongsi, chujie qi jiushi zhaiquan youxiaoqi.",
+                                    "p": "Gōngsī wèile chóu qián ér fāxíng zhàiquàn. Nǐ gòumǎi mǒu qǐyè zhàiquàn shízhì shàng jiùshì bǎ qián jiè gěi gāi gōngsī, chūjiè qī jiùshì zhàiquàn yǒuxiàoqī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 40,
+                "search": 749
+            },
+            "snym": null,
+            "cn_vi": "tá cấp",
+            "pinyin": "jiè gěi",
+            "word": "借给",
+            "id": 94809,
+            "phonetic": "jiegei",
+            "rank": 12120,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "7b37b03d0ea840ef93998facce3c7da7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Mượn tay người khác làm việc cho mình.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mượn tay.",
+                                    "p_vn": "muon tay.",
+                                    "_id": "d42aa3ce0f563316f6e08c7cdf4a2810",
+                                    "id": 21340,
+                                    "type": "e_cnvi",
+                                    "e": "借手(假手)。",
+                                    "p_cn": "jieshou ( jiashou ).",
+                                    "p": "jièshǒu ( jiǎshǒu )."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "tạ thủ",
+            "pinyin": "jièshǒu",
+            "word": "借手",
+            "id": 170016,
+            "phonetic": "jieshou",
+            "rank": 85252,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄍㄨㄤ",
+            "_id": "7a5f5a4e628d9a6361d96dcebc68446c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhờ; làm ơn; làm phiền (lời nói khách sáo)",
+                            "explain": "客套话，用于请别人给自己方便或向人询问",
+                            "examples": [
+                                {
+                                    "m": "làm phiền cho tôi đi qua một tý.",
+                                    "p_vn": "lam phien cho toi di qua mot ty",
+                                    "_id": "d20728b40d5b5907c8f6e5cf59c32d27",
+                                    "id": 21343,
+                                    "type": "e_cnvi",
+                                    "e": "借光让我过去。",
+                                    "p_cn": "jieguang rang wo guoqu",
+                                    "p": "jièguāng ràng wǒ guòqù。"
+                                },
+                                {
+                                    "m": "làm ơn chỉ giúp, của hàng bách hoá ở đâu?",
+                                    "p_vn": "lam on chi giup, cua hang bach hoa o dau?",
+                                    "_id": "8bfcdb06a09a65b77ece4624cbacd53a",
+                                    "id": 21344,
+                                    "type": "e_cnvi",
+                                    "e": "借光，百货大数在哪儿?",
+                                    "p_cn": "jieguang, baihuo da shu zai nar?",
+                                    "p": "jièguāng, bǎihuò dà shù zài nǎr?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 103
+            },
+            "snym": null,
+            "cn_vi": "tá quang",
+            "pinyin": "jièguāng",
+            "word": "借光",
+            "id": 29926,
+            "phonetic": "jieguang",
+            "rank": 40990,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "topic": "16, 27, 70",
+            "zhuyin": "ㄐㄧㄝˋㄎㄨㄢˇ",
+            "_id": "77924587aa5baf47cf054be021127308",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "mượn tiền; vay tiền; cho mượn",
+                            "explain": "向人借钱或借钱给人 số tiền mượn; khoản nợ; khoản vay; tiền vay借用的钱",
+                            "examples": [
+                                {
+                                    "m": "một món tiền vay.",
+                                    "p_vn": "mot mon tien vay",
+                                    "_id": "fe5794e9c73110e6968d905c9e8df50d",
+                                    "id": 21347,
+                                    "type": "e_cnvi",
+                                    "e": "一笔借款。",
+                                    "p_cn": "yi bi jiekuan",
+                                    "p": "yībǐ jièkuǎn。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "số tiền mượn; tiền vay; khoản nợ; khoản vay",
+                            "explain": "借用的钱",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 36,
+                "search": 415
+            },
+            "snym": {
+                "syno": [
+                    "借钱",
+                    "告贷",
+                    "乞贷",
+                    "借债",
+                    "贷款",
+                    "举债"
+                ]
+            },
+            "cn_vi": "tá khoản",
+            "pinyin": "jièkuǎn",
+            "word": "借款",
+            "id": 29933,
+            "phonetic": "jiekuan",
+            "rank": 17959,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄧㄡˊ",
+            "_id": "9dfb0569f03c46758db274b7acc9162f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "qua",
+                            "explain": "by",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bằng cách",
+                            "explain": "by means of",
+                            "examples": []
+                        },
+                        {
+                            "mean": "xuyên qua",
+                            "explain": "through",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 28,
+                "search": 422
+            },
+            "snym": null,
+            "cn_vi": "tá do",
+            "pinyin": "jiè yóu",
+            "word": "借由",
+            "id": 99631,
+            "phonetic": "jieyou",
+            "rank": 17743,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄑㄧˋ",
+            "_id": "b0f6d13cb06b3f3bf6972c68cf8a0426",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "giấy vay; giấy nợ",
+                            "explain": "借用别人财物时所立的契约",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tá khế",
+            "pinyin": "jiè qì",
+            "word": "借契",
+            "id": 29935,
+            "phonetic": "jieqi",
+            "rank": 118499,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄡˊㄐㄧㄝˋ",
+            "_id": "eb4e10a15b4e83e007f97632a0e5132e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xin vay; cầu xin người khác cho mượn (tiền, đồ vật)",
+                            "explain": "请求别人借给 (钱或物)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 15
+            },
+            "snym": null,
+            "cn_vi": "cầu tá",
+            "pinyin": "qiú jiè",
+            "word": "求借",
+            "id": 43480,
+            "phonetic": "qiujie",
+            "rank": 91269,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄐㄧㄢˋ",
+            "_id": "851d1e9c484331df81148a14818aaf74",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "biểu thị hành động học hỏi hoặc tham khảo từ các nguồn khác...",
+                            "examples": [
+                                126989,
+                                126990
+                            ],
+                            "struct": "借鉴 + Tân ngữ (经验/方法/做法/...)"
+                        },
+                        {
+                            "explain": "ý nghĩa, tác dụng,...của việc học hỏi ",
+                            "examples": [
+                                126999,
+                                127002
+                            ],
+                            "struct": "借鉴 + Danh từ (意义/作用/价值/...)"
+                        },
+                        {
+                            "explain": "hành động, tình trạng liên quan đến việc học hỏi\n",
+                            "examples": [
+                                127004,
+                                127005
+                            ],
+                            "struct": "Động từ (值得/善于/提供...) + 借鉴"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "học hỏi; noi theo; tham khảo",
+                            "explain": "从以前或者别人的事情中得到经验、教训等",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã tham khảo phương pháp nghiên cứu của người đi trước.",
+                                    "p_vn": "anh ay da tham khao phuong phap nghien cuu cua nguoi di truoc.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5713a9f68",
+                                    "id": 126977,
+                                    "type": "e_cnvi",
+                                    "e": "他借鉴了前人的研究方法。",
+                                    "p_cn": "ta jiejianle qian ren de yanjiu fangfa.",
+                                    "p": "tā jièjiànle qián rén de yánjiū fāngfǎ."
+                                },
+                                {
+                                    "m": "Cô ấy học hỏi kinh nghiệm từ nước ngoài.",
+                                    "p_vn": "co ay hoc hoi kinh nghiem tu nuoc ngoai.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5713ab286",
+                                    "id": 126980,
+                                    "type": "e_cnvi",
+                                    "e": "她借鉴了国外的经验。",
+                                    "p_cn": "ta jiejianle guowai de jingyan.",
+                                    "p": "tā jièjiànle guówài de jīngyàn."
+                                },
+                                {
+                                    "m": "Phương pháp này đáng để học hỏi.",
+                                    "p_vn": "phuong phap nay dang de hoc hoi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5713ab7bd",
+                                    "id": 126981,
+                                    "type": "e_cnvi",
+                                    "e": "这个方法值得借鉴。",
+                                    "p_cn": "zhege fangfa zhide jiejian.",
+                                    "p": "zhège fāngfǎ zhídé jièjiàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 206,
+                "search": 2964
+            },
+            "snym": {
+                "anto": [
+                    "摒弃,排斥"
+                ],
+                "syno": [
+                    "模仿",
+                    "鉴戒",
+                    "参考"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jièjiàn",
+            "cn_vi": "tá giám",
+            "word": "借鉴",
+            "id": 29929,
+            "phonetic": "jiejian",
+            "rank": 4008,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "decceb7610f743c99c2a091f85a93d45",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Số tiền vay của người khác.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tá khoản",
+            "pinyin": "jiè kuǎn",
+            "word": "借欵",
+            "id": 170688,
+            "phonetic": "jiekuan",
+            "rank": 138584,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄐㄩˋ",
+            "_id": "db41f548873c8df3914b4b2b89909b7f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biên lai mượn đồ; biên nhận mượn đồ",
+                            "explain": "借用别人的钱或器物时所立的字据，由出借的人保存",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 134
+            },
+            "snym": {
+                "syno": [
+                    "借条",
+                    "借约",
+                    "欠据",
+                    "借字"
+                ]
+            },
+            "cn_vi": "tá cứ",
+            "pinyin": "jièjù",
+            "word": "借据",
+            "id": 29931,
+            "phonetic": "jieju",
+            "rank": 35546,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄝˋㄓㄨㄥˋ",
+            "_id": "f827597198d73fe47cb72fcc3d61082a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhờ vào; dựa vào; nhờ; nhờ vả; nhờ cậy",
+                            "explain": "指借用其他的 (力量) ，多用做敬辞",
+                            "examples": [
+                                {
+                                    "m": "dựa vào tất cả những lực lượng có thể dùng được.",
+                                    "p_vn": "dua vao tat ca nhung luc luong co the dung duoc",
+                                    "_id": "931af0e2be3170d6cb2d7d18a9a33c9f",
+                                    "id": 21353,
+                                    "type": "e_cnvi",
+                                    "e": "借重一切有用的力量。",
+                                    "p_cn": "jiezhong yiqie youyong de liliang",
+                                    "p": "jièzhòng yīqiē yǒuyòng de lìliàng。"
+                                },
+                                {
+                                    "m": "sau này còn nhiều chỗ phải nhờ đến anh, còn phải thường xuyên đến làm phiền anh.",
+                                    "p_vn": "sau nay con nhieu cho phai nho den anh con phai thuong xuyen den lam phien anh",
+                                    "_id": "40248c4c1f5e96ef0eccc58b9ff170c8",
+                                    "id": 21354,
+                                    "type": "e_cnvi",
+                                    "e": "以后借重您的地方还很多，还要常来麻烦您。",
+                                    "p_cn": "yihou jiezhong nin di difang hai henduo hai yao chang lai mafan nin",
+                                    "p": "yǐhòu jièzhòng nín dì dìfāng hái hěnduō, hái yào cháng lái máfan nín."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 69
+            },
+            "snym": {
+                "syno": [
+                    "借势",
+                    "寄重"
+                ]
+            },
+            "cn_vi": "tá trọng",
+            "pinyin": "jièzhòng",
+            "word": "借重",
+            "id": 29952,
+            "phonetic": "jiezhong",
+            "rank": 49999,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄨㄐㄧㄝˋ",
+            "_id": "e58acb1b008839781d463ada3655800b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thuê; mướn; tá",
+                            "explain": "租用",
+                            "examples": [
+                                {
+                                    "m": "thuê rạp kịch mở hội nghị",
+                                    "p_vn": "thue rap kich mo hoi nghi",
+                                    "_id": "818151533ed15a73a77f57ae30d5de12",
+                                    "id": 52862,
+                                    "type": "e_cnvi",
+                                    "e": "租借剧场开会。",
+                                    "p_cn": "zujie juchang kaihui",
+                                    "p": "zūjiè jùcháng kāihùi。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cho thuê; cho mướn",
+                            "explain": "出租",
+                            "examples": [
+                                {
+                                    "m": "tiệm sửa xe cho thuê xe đạp.",
+                                    "p_vn": "tiem sua xe cho thue xe dap",
+                                    "_id": "9af71b481c4fe62937a41c40cfd72f87",
+                                    "id": 52863,
+                                    "type": "e_cnvi",
+                                    "e": "修车铺租借自行车。",
+                                    "p_cn": "xiu che pu zujie zixingche",
+                                    "p": "xīuchēpū zūjiè zìxíngchē。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 29,
+                "search": 332
+            },
+            "snym": {
+                "syno": [
+                    "租赁",
+                    "租出",
+                    "出租"
+                ]
+            },
+            "cn_vi": "tô tá",
+            "pinyin": "zūjiè",
+            "word": "租借",
+            "id": 67319,
+            "phonetic": "zujie",
+            "rank": 20720,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "借"
+}

@@ -1,0 +1,768 @@
+{
+    "total": 14,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄡˇ",
+            "_id": "d8259c3534b03dc8e4eab879bef45840",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "không cụ thể hoặc không rõ ràng về quốc gia; người; công ty; trường học hoặc quân đội",
+                            "examples": [
+                                135119,
+                                135120
+                            ],
+                            "struct": "某 + 国/人/公司/学校/部队"
+                        },
+                        {
+                            "explain": "một người nào đó có tên cụ thể",
+                            "examples": [
+                                135125,
+                                135126
+                            ],
+                            "struct": "Tên + 某"
+                        }
+                    ],
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "mỗ (chỉ một người hay một vật có tên nhưng không nói ra)",
+                            "explain": "指一定的人或事物 (知道名称而不说出)",
+                            "examples": [
+                                {
+                                    "m": "Trương Mỗ định học kỹ năng mới.",
+                                    "p_vn": "truong mo dinh hoc ky nang moi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8a5a5d",
+                                    "id": 135103,
+                                    "type": "e_cnvi",
+                                    "e": "张某打算学习新技能。",
+                                    "p_cn": "zhang mou dasuan xuexi xin jineng.",
+                                    "p": "zhāng mǒu dǎsuàn xuéxí xīn jìnéng."
+                                },
+                                {
+                                    "m": "Trương Mỗ đang chuẩn bị đi du lịch.",
+                                    "p_vn": "truong mo dang chuan bi di du lich.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8a6536",
+                                    "id": 135104,
+                                    "type": "e_cnvi",
+                                    "e": "张某正在准备去旅行。",
+                                    "p_cn": "zhang mou zhengzai zhunbei qu lǚxing.",
+                                    "p": "zhāng mǒu zhèngzài zhǔnbèi qù lǚxíng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nào đó",
+                            "explain": "指不定的人或事物",
+                            "examples": [
+                                {
+                                    "m": "Người nào đó đang ngắm hoa nở trên cánh đồng.",
+                                    "p_vn": "nguoi nao do dang ngam hoa no tren canh dong.",
+                                    "_id": "55db399305625a14707d64b9182de952",
+                                    "id": 98684,
+                                    "type": "e_cnvi",
+                                    "e": "某人田间看花开。",
+                                    "p_cn": "mou ren tianjian kan hua kai.",
+                                    "p": "mǒu rén tiánjiān kàn huā kāi."
+                                },
+                                {
+                                    "m": "Chúng ta sẽ lại yêu nhau vào một ngày nào đó.",
+                                    "p_vn": "chung ta se lai yeu nhau vao mot ngay nao do.",
+                                    "_id": "55db399305625a14707d64b9182efb68",
+                                    "id": 98719,
+                                    "type": "e_cnvi",
+                                    "e": "我们会在某天再次相爱。",
+                                    "p_cn": "women hui zai mou tian zaici xiang ai.",
+                                    "p": "wǒmen huì zài mǒu tiān zàicì xiāng ài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "người nào đó",
+                            "explain": "代替别人的名字（常含不客气的意思）",
+                            "examples": [
+                                {
+                                    "m": "Một người nào đó làm việc luôn không đáng tin.",
+                                    "p_vn": "mot nguoi nao do lam viec luon khong dang tin.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8a6a63",
+                                    "id": 135105,
+                                    "type": "e_cnvi",
+                                    "e": "某做事总是不靠谱。",
+                                    "p_cn": "mou zuoshi zong shi bu kao pu.",
+                                    "p": "mǒu zuòshì zǒng shì bù kào pǔ."
+                                },
+                                {
+                                    "m": "Hành vi của một người nào đó khiến người ta rất khó chịu.",
+                                    "p_vn": "hanh vi cua mot nguoi nao do khien nguoi ta rat kho chiu.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8a789c",
+                                    "id": 135106,
+                                    "type": "e_cnvi",
+                                    "e": "某行为让人很反感。",
+                                    "p_cn": "mou xingwei rang ren hen fangan.",
+                                    "p": "mǒu xíngwéi ràng rén hěn fǎngǎn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "không chỉ rõ người nào; vật gì",
+                            "explain": "指不知道名称或不便明说的特定的人或事物",
+                            "examples": [
+                                {
+                                    "m": "Có người đợi ở cửa.",
+                                    "p_vn": "co nguoi doi o cua.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8aa49c",
+                                    "id": 135113,
+                                    "type": "e_cnvi",
+                                    "e": "某人在门口等待。",
+                                    "p_cn": "mou ren zai menkou dengdai.",
+                                    "p": "mǒu rén zài ménkǒu děngdài."
+                                },
+                                {
+                                    "m": "Có việc khiến tôi rất phiền não.",
+                                    "p_vn": "co viec khien toi rat phien nao.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c8ab440",
+                                    "id": 135114,
+                                    "type": "e_cnvi",
+                                    "e": "某件事让我很烦恼。",
+                                    "p_cn": "mou jian shi rang wo hen fannao.",
+                                    "p": "mǒu jiàn shì ràng wǒ hěn fánnǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 301,
+                "search": 8139
+            },
+            "snym": null,
+            "lv_hsk_new": "3, 5",
+            "pinyin": "mǒu",
+            "cn_vi": "mỗ",
+            "word": "某",
+            "id": 38628,
+            "phonetic": "mou",
+            "rank": 1325,
+            "lv_hsk": 3,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄡˇㄇㄡˇ",
+            "_id": "1dc7b9a8926d4129ad8c7455a58d4cec",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "so-và-như vậy",
+                            "explain": "so-and-so",
+                            "examples": []
+                        },
+                        {
+                            "mean": "như vậy và tương tự",
+                            "explain": "such-and-such",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mỗ",
+                            "explain": "自称代名词",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 451
+            },
+            "snym": null,
+            "cn_vi": "mỗ mỗ",
+            "pinyin": "mǒu mǒu",
+            "word": "某某",
+            "id": 97550,
+            "phonetic": "moumou",
+            "rank": 17045,
+            "kind": [
+                "pro"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄡˇㄐㄧㄚˇ",
+            "_id": "158b08dc038f4ef49eef1ddedcfa7d71",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "một số cá nhân",
+                            "explain": "certain individual",
+                            "examples": []
+                        },
+                        {
+                            "mean": "có ai",
+                            "explain": "somebody",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "mỗ giáp",
+            "pinyin": "mǒu jiǎ",
+            "word": "某甲",
+            "id": 97551,
+            "phonetic": "moujia",
+            "rank": 72639,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "某人偷了汤的吉他\nMǒu rén tōule tāng de jítā\nAi đó đã đánh cắp cây đàn của Tom.",
+                "measure": "个"
+            },
+            "zhuyin": "ㄇㄡˇㄖㄣˊ",
+            "_id": "f38731c0b2544c92ba760d34e23e227b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Tôi (địa chỉ của bản thân sau họ của một người)",
+                            "explain": "I (self-address after one's surname)",
+                            "examples": [
+                                {
+                                    "m": "Tôi chắc chắn rất vui vì ai đó",
+                                    "p_vn": "Toi chac chan rat vui vi ai do",
+                                    "_id": "3eab703c60fa4381a2eecfeac7c3efc4",
+                                    "id": 64603,
+                                    "type": "e_cnvi",
+                                    "e": "还好某人",
+                                    "p_cn": "huanhao mouren",
+                                    "p": "huánhǎo mǒurén"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "một người nhất định",
+                            "explain": "a certain person",
+                            "examples": []
+                        },
+                        {
+                            "mean": "một số người",
+                            "explain": "some people",
+                            "examples": []
+                        },
+                        {
+                            "mean": "người nào",
+                            "explain": "someone",
+                            "examples": [
+                                {
+                                    "m": "Ai đó đi cùng và",
+                                    "p_vn": "Ai do di cung va",
+                                    "_id": "507ff1a1a0594d8d8a5c9ab2d3f37bf4",
+                                    "id": 64608,
+                                    "type": "e_cnvi",
+                                    "e": "某人来了",
+                                    "p_cn": "mouren lai le",
+                                    "p": "mǒurén lái le"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 71,
+                "search": 2065
+            },
+            "snym": null,
+            "cn_vi": "mỗ nhân",
+            "pinyin": "mǒu rén",
+            "word": "某人",
+            "id": 97547,
+            "phonetic": "mouren",
+            "rank": 5452,
+            "kind": [
+                "n",
+                "pro"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄡˇㄨˋ",
+            "_id": "8c108ea9678b48cab658b1b48595b52b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thứ gì đó",
+                            "explain": "something",
+                            "examples": [
+                                {
+                                    "m": "Một máy giặt cho một cái gì đó.",
+                                    "p_vn": "Mot may giat cho mot cai gi do.",
+                                    "_id": "5b2be9832ddb4d619c24fcc8409c71bb",
+                                    "id": 57095,
+                                    "type": "e_cnvi",
+                                    "e": "某物的垫圈",
+                                    "p_cn": "mouwu de dianquan",
+                                    "p": "mǒuwù de diànquān"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 83
+            },
+            "snym": null,
+            "cn_vi": "mỗ vật",
+            "pinyin": "mǒu wù",
+            "word": "某物",
+            "id": 92014,
+            "phonetic": "mouwu",
+            "rank": 45596,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "topic": "13",
+            "zhuyin": "ㄇㄡˇㄒㄧㄝ",
+            "_id": "e5b6f1b16a846a3ef374ed7775d25a94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "một số / nhất định (điều)",
+                            "explain": "某些：表示不只一个或一种的不定数量",
+                            "examples": [
+                                {
+                                    "m": "Những người trẻ không nên mù quáng tôn thờ một số \"ngôi sao\".",
+                                    "p_vn": "nhung nguoi tre khong nen mu quang ton tho mot so \"ngoi sao\".",
+                                    "_id": "70f8ccffce7f2e552c4fa4a97fbd9776",
+                                    "id": 53999,
+                                    "type": "e_cnvi",
+                                    "e": "青少年不要盲目崇拜某些“明星”。",
+                                    "p_cn": "qingshaonian buyao mangmu chongbai mou xie “mingxing”.",
+                                    "p": "Qīngshàonián bùyào mángmù chóngbài mǒu xiē “míngxīng”."
+                                },
+                                {
+                                    "m": "Nhưng ở một khía cạnh nào đó, thật vô lý khi ông Tata lại được đánh giá cao như vậy.",
+                                    "p_vn": "Nhung o mot khia canh nao do, that vo ly khi ong Tata lai duoc danh gia cao nhu vay.",
+                                    "_id": "ca860e24258c48bf9a6993c1ebf45cec",
+                                    "id": 68073,
+                                    "type": "e_cnvi",
+                                    "e": "不过从某些方面看，塔塔先生这么德高望重是不合常理的。",
+                                    "p_cn": "Buguo cong mou xie fangmian kan, ta ta xiansheng zheme degaowangzhong shi buhe changli de.",
+                                    "p": "Bùguò cóng mǒu xiē fāngmiàn kàn, tǎ tǎ xiānshēng zhème dégāowàngzhòng shì bùhé chánglǐ de."
+                                },
+                                {
+                                    "m": "trong con người anh ấy vẫn còn giữ được những phẩm chất của người nông dân thật thà, chất phác.",
+                                    "p_vn": "trong con nguoi anh ay van con giu duoc nhung pham chat cua nguoi nong dan that tha, chat phac.",
+                                    "_id": "cab9cfc26a1a3150d62b24c302fb46c0",
+                                    "id": 38125,
+                                    "type": "e_cnvi",
+                                    "e": "在他身上仍然保留着某些农民的淳厚朴实的特质。",
+                                    "p_cn": "zai ta shenshang rengran baoliuzhe mou xie nongmin de chunhou pushi de tezhi",
+                                    "p": "zài tā shēnshang réngrán bǎoliúzhe mǒu xiē nóngmín de chúnhòu pǔshí de tèzhì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phần nào",
+                            "explain": "对一些不指名的人、地或事物的代称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 86,
+                "search": 840
+            },
+            "snym": {
+                "syno": [
+                    "哪些",
+                    "有些"
+                ]
+            },
+            "cn_vi": "mỗ ta",
+            "pinyin": "mǒu xiē",
+            "word": "某些",
+            "id": 82811,
+            "phonetic": "mouxie",
+            "rank": 11173,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄡˇㄕˋ",
+            "_id": "38021b40ad814cff95ede0d8dc0791c7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một vấn đề nhất định",
+                            "explain": "a certain matter",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thứ gì đó",
+                            "explain": "something",
+                            "examples": [
+                                {
+                                    "m": "Tôi đã bỏ lỡ một cái gì đó?",
+                                    "p_vn": "Toi da bo lo mot cai gi do?",
+                                    "_id": "a480adbf8ab145ea8c1584ab749c4a7a",
+                                    "id": 64598,
+                                    "type": "e_cnvi",
+                                    "e": "我是否错过某事?",
+                                    "p_cn": "wo shifou cuoguo moushi?",
+                                    "p": "wǒ shìfǒu cuòguò mǒushì?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 15,
+                "search": 418
+            },
+            "snym": null,
+            "cn_vi": "mỗ sự",
+            "pinyin": "mǒu shì",
+            "word": "某事",
+            "id": 97546,
+            "phonetic": "moushi",
+            "rank": 17863,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄡˇㄓㄨㄥˇ",
+            "_id": "69c3857f172e4684a2f9a5ecc70a979e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "một số loại (trong số)",
+                            "explain": "some kind (of)",
+                            "examples": [
+                                {
+                                    "m": "Một số loại kim loại?",
+                                    "p_vn": "Mot so loai kim loai?",
+                                    "_id": "fe33aa5915964ab3a36868e679945e94",
+                                    "id": 58794,
+                                    "type": "e_cnvi",
+                                    "e": "某种金属",
+                                    "p_cn": "mouzhong jinshu",
+                                    "p": "mǒuzhǒng jīnshǔ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 61,
+                "search": 739
+            },
+            "snym": null,
+            "cn_vi": "mỗ chủng",
+            "pinyin": "mǒu zhǒng",
+            "word": "某种",
+            "id": 108014,
+            "phonetic": "mouzhong",
+            "rank": 12244,
+            "kind": [
+                "pro"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄡˇㄉㄜ˙",
+            "_id": "1976bac029b1469b940c13aae781ce30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "một số nơi",
+                            "explain": "some place",
+                            "examples": []
+                        },
+                        {
+                            "mean": "một vài nơi",
+                            "explain": "somewhere",
+                            "examples": [
+                                {
+                                    "m": "Tom đang sống ở đâu đó ở Boston.",
+                                    "p_vn": "Tom dang song o dau do o Boston.",
+                                    "_id": "7cbaaa1d83004c7dbed99c2bc157cc5f",
+                                    "id": 64033,
+                                    "type": "e_cnvi",
+                                    "e": "湯姆住在波士頓某地。",
+                                    "p_cn": "tangmuzhu zai boshi dun moudi. ",
+                                    "p": "tāngmǔzhù zài bōshì dùn mǒudì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 115
+            },
+            "snym": null,
+            "cn_vi": "mỗ địa",
+            "pinyin": "mǒu dì",
+            "word": "某地",
+            "id": 92013,
+            "phonetic": "moudi",
+            "rank": 38590,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄡˇㄕˊ",
+            "_id": "2ec8561220a54e9889167ed94f98563b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thỉnh thoảng",
+                            "explain": "sometime",
+                            "examples": [
+                                {
+                                    "m": "Nhưng tôi biết là vào ngày mai.",
+                                    "p_vn": "Nhung toi biet la vao ngay mai.",
+                                    "_id": "d694322965fe474a912895f950fb4457",
+                                    "id": 57775,
+                                    "type": "e_cnvi",
+                                    "e": "但我知道是明天某时",
+                                    "p_cn": "dan wo zhidao shi mingtian mou shi",
+                                    "p": "dàn wǒ zhīdào shì míngtiān mǒu shí"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 149
+            },
+            "snym": null,
+            "cn_vi": "mỗ thì",
+            "pinyin": "mǒu shí",
+            "word": "某时",
+            "id": 97549,
+            "phonetic": "moushi",
+            "rank": 33550,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄡˇㄔㄨˋ",
+            "_id": "a137d488606447b5ac60358a02d27db4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một vài nơi",
+                            "explain": "somewhere",
+                            "examples": [
+                                {
+                                    "m": "Nó ở phía tây bắc đâu đó.",
+                                    "p_vn": "No o phia tay bac dau do.",
+                                    "_id": "b6019dc19fc04693970df278a6077a74",
+                                    "id": 57770,
+                                    "type": "e_cnvi",
+                                    "e": "在西北某处",
+                                    "p_cn": "zai xibei mouchu",
+                                    "p": "zài xīběi mǒuchù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 220
+            },
+            "snym": null,
+            "cn_vi": "mỗ xứ",
+            "pinyin": "mǒu chù",
+            "word": "某处",
+            "id": 97548,
+            "phonetic": "mouchu",
+            "rank": 26810,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄇㄡˇㄖㄣˊㄓㄤˋ",
+            "_id": "84791853bc354f56edbad2b1a8c14c05",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Ghi khoản thiếu chịu (của người nào đó) vào sổ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "ký mỗ nhân trướng",
+            "pinyin": "jì mǒu rén zhàng",
+            "word": "记某人账",
+            "id": 74332,
+            "phonetic": "jimourenzhang",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "phrase"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄇㄡˇㄖㄣˊㄓㄤˋ",
+            "_id": "b9af98ff7f76faf01c18962902699ade",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Ghi khoản thiếu chịu (của người nào đó) vào sổ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "ký mỗ nhân trướng",
+            "pinyin": "jì mǒu rén zhàng",
+            "word": "记某人帐",
+            "id": 82306,
+            "phonetic": "jimourenzhang",
+            "rank": 158266,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄡㄇㄡˇㄖㄣˊㄓㄤˋ",
+            "_id": "7defe4004c2991aae7e2d67b1e7e9c4c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nhận tài khoản (của một người nào đó)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "thu mỗ nhân trướng",
+            "pinyin": "shōu mǒu rén zhàng",
+            "word": "收某人帐",
+            "id": 82305,
+            "phonetic": "shoumourenzhang",
+            "rank": 158270,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "某"
+}

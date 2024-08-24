@@ -1,0 +1,2571 @@
+{
+    "total": 3291,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè, wèi, míng , pī",
+                "examples": "她是个在英国的外国留学生。\nTā shìgè zài yīngguó de wàiguó liúxuéshēng.\nCô ấy là một du học sinh ở Anh.",
+                "measure": "个, 位, 名 , 批"
+            },
+            "zhuyin": "ㄌㄧㄡˊㄒㄩㄝˊㄕㄥ",
+            "topic": "16",
+            "_id": "fa14f2c7f56969200de8ad5abde6a829",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                76567,
+                                76568
+                            ],
+                            "struct": "Số lượng + 名／位／批／个 + 留学生"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                76569,
+                                76570
+                            ],
+                            "struct": "Định ngữ (小／外国／韩国,...) (+的) + 留学生"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                76571,
+                                76572
+                            ],
+                            "struct": "留学生 (+的）+ Danh từ"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                76573,
+                                76574
+                            ],
+                            "struct": "Động từ + 留学生"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "du học sinh",
+                            "explain": "留学生，是指在母国以外进行留学的学生。“留学生”一词起源于中国唐朝时期中日文化交流，意为当遣唐使回国后仍然留在中国学习的日本学生，现在泛指留居外国学习或者研究的学生。",
+                            "examples": [
+                                {
+                                    "m": "Sinh viên trao đổi khi rời khỏi trường nên trả lại thẻ ăn cho Văn phòng sinh viên quốc tế.",
+                                    "p_vn": "sinh vien trao doi khi roi khoi truong nen tra lai the an cho van phong sinh vien quoc te.",
+                                    "_id": "5fbf00124b287705604459b2a7200193",
+                                    "id": 53985,
+                                    "type": "e_cnvi",
+                                    "e": "交换生离校时应把饭卡交回外留学生办公室。",
+                                    "p_cn": "jiaohuan sheng li xiao shi ying ba fan ka jiao hui waishi chu liuxuesheng bangongshi.",
+                                    "p": "Jiāohuàn shēng lí xiào shí yīng bǎ fàn kǎ jiāo huí wàishì chù liúxuéshēng bàngōngshì."
+                                },
+                                {
+                                    "m": "Tất cả các bạn là lưu học sinh Trung Quốc à?",
+                                    "p_vn": "tat ca cac ban la luu hoc sinh trung quoc a?",
+                                    "_id": "8db795ab303892dfd8187bf1067e8b1e",
+                                    "id": 54237,
+                                    "type": "e_cnvi",
+                                    "e": "你们全部是中国留学生吗？",
+                                    "p_cn": "nimen quanbu shi zhongguo liuxuesheng ma?",
+                                    "p": "Nǐmen quánbù shì Zhōngguó liúxuéshēng ma?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lưu học sinh",
+                            "explain": "正在或曾在外国学习的学生",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 650,
+                "search": 10058
+            },
+            "snym": null,
+            "lv_hsk_new": "2",
+            "pinyin": "liúxuéshēng",
+            "cn_vi": "lưu học sinh",
+            "word": "留学生",
+            "id": 72940,
+            "phonetic": "liuxuesheng",
+            "rank": 996,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˊㄒㄩㄝˊ",
+            "topic": "16",
+            "_id": "89d2f8d1408fe786ef584419a23d1a6f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A đi du học ở đâu",
+                            "examples": [
+                                121855,
+                                121856
+                            ],
+                            "struct": "A + 去 + Danh từ chỉ địa điểm + 留学"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "du học",
+                            "explain": "留居外国学习或研究",
+                            "examples": [
+                                {
+                                    "m": "Tôi du học tại Canada.",
+                                    "p_vn": "toi du học tại canada.",
+                                    "_id": "69997d89b5f75300ec8abc83ca4bd6bd",
+                                    "id": 82194,
+                                    "type": "e_cnvi",
+                                    "e": "我在加拿大留学。",
+                                    "p_cn": "wo zai jianada liuxue.",
+                                    "p": "wǒ zài jiānádà liúxué."
+                                },
+                                {
+                                    "m": "Anh dự định sang Mỹ du học vào năm tới.",
+                                    "p_vn": "anh du dinh sang my du hoc vao nam toi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf46bfe98",
+                                    "id": 121845,
+                                    "type": "e_cnvi",
+                                    "e": "他打算明年去美国留学。",
+                                    "p_cn": "ta dasuan mingnian qu meiguo liuxue.",
+                                    "p": "tā dǎsuàn míngnián qù měiguó liúxué."
+                                },
+                                {
+                                    "m": "Nhiều sinh viên lựa chọn du học Nhật Bản.",
+                                    "p_vn": "nhieu sinh vien lua chon du hoc nhat ban.",
+                                    "_id": "71a8f4da663cb843c22cd96cf46c0975",
+                                    "id": 121846,
+                                    "type": "e_cnvi",
+                                    "e": "很多学生选择去日本留学。",
+                                    "p_cn": "henduo xuesheng xuanze qu riben liuxue.",
+                                    "p": "hěnduō xuéshēng xuǎnzé qù rìběn liúxué."
+                                },
+                                {
+                                    "m": "Em gái tôi đang du học ở Pháp.",
+                                    "p_vn": "em gai toi dang du hoc o phap.",
+                                    "_id": "71a8f4da663cb843c22cd96cf46c3a1b",
+                                    "id": 121850,
+                                    "type": "e_cnvi",
+                                    "e": "我的姐姐正在法国留学。",
+                                    "p_cn": "wo de jiejie zhengzai fa guo liuxue.",
+                                    "p": "wǒ de jiějie zhèngzài fǎ guó liúxué."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 354,
+                "search": 4472
+            },
+            "snym": {
+                "syno": [
+                    "出国",
+                    "深造"
+                ]
+            },
+            "lv_hsk_new": "3, 4",
+            "pinyin": "liúxué",
+            "cn_vi": "lưu học",
+            "word": "留学",
+            "id": 35757,
+            "phonetic": "liuxue",
+            "rank": 2701,
+            "lv_hsk": 3,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "gè",
+                "examples": "",
+                "measure": "个"
+            },
+            "topic": "16",
+            "zhuyin": "ㄒㄩㄝˊㄕㄥ",
+            "_id": "73ffd78500d16464d3a041a3f09ea408",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "học sinh + ưu tú/ thông minh/ nghe lời",
+                            "examples": [
+                                100912
+                            ],
+                            "struct": "优秀，聪明，听话 + 学生"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "học sinh; sinh viên; học trò",
+                            "explain": "在学校读书的人",
+                            "examples": [
+                                {
+                                    "m": "Cậu là học sinh nhỉ?",
+                                    "p_vn": "cạu là học sinh nhỉ?",
+                                    "_id": "b2776ac4a861e06178aa5de73b1db43b",
+                                    "id": 76826,
+                                    "type": "e_cnvi",
+                                    "e": "你是个学生吧？",
+                                    "p_cn": "ni shige xuesheng ba?",
+                                    "p": "nǐ shìgè xuéshēng ba?"
+                                },
+                                {
+                                    "m": "Tôi cần tìm một học sinh Trung Quốc.",
+                                    "p_vn": "toi càn tìm mọt học sinh trung quóc.",
+                                    "_id": "b2776ac4a861e06178aa5de73b1db778",
+                                    "id": 76827,
+                                    "type": "e_cnvi",
+                                    "e": "我想找一个中国学生。",
+                                    "p_cn": "wo xiang zhao yige zhongguo xuesheng.",
+                                    "p": "wǒ xiǎng zhǎo yīgè Zhōngguó xuéshēng."
+                                },
+                                {
+                                    "m": "Lớp chúng ta có 20 học sinh.",
+                                    "p_vn": "lóp chúng ta có 20 học sinh.",
+                                    "_id": "b2776ac4a861e06178aa5de73b1dbc47",
+                                    "id": 76828,
+                                    "type": "e_cnvi",
+                                    "e": "我们班有二十个学生。",
+                                    "p_cn": "women ban you ershi ge xuesheng.",
+                                    "p": "wǒmen bān yǒu èrshí gè xuéshēng."
+                                },
+                                {
+                                    "m": "Đây là một học sinh thông minh.",
+                                    "p_vn": "day la mot hoc sinh thong minh.",
+                                    "_id": "55db399305625a14707d64b918999f0b",
+                                    "id": 100913,
+                                    "type": "e_cnvi",
+                                    "e": "这是聪明学生。",
+                                    "p_cn": "zhe shi congming xuesheng.",
+                                    "p": "zhè shì cōngmíng xuéshēng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 926,
+                "search": 12686
+            },
+            "snym": {
+                "syno": [
+                    "高足",
+                    "门生",
+                    "弟子",
+                    "学徒",
+                    "桃李"
+                ],
+                "anto": [
+                    "先生",
+                    "老师",
+                    "师长",
+                    "教授",
+                    "教师"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "xuéshēng",
+            "cn_vi": "học sinh",
+            "word": "学生",
+            "id": 57495,
+            "phonetic": "xuesheng",
+            "rank": 666,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄟˋㄒㄩㄝˊㄒㄩㄝˊㄕㄥ",
+            "topic": "16",
+            "_id": "34fa25dfe3be3ff582067777bbc0fa35",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Học sinh thôi học",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "thối học học sinh",
+            "pinyin": "tuìxué xuéshēng",
+            "word": "退学学生",
+            "id": 81641,
+            "phonetic": "tuixuexuesheng",
+            "rank": 79865,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄝˊㄕㄥㄓㄨㄤ",
+            "_id": "bf751ce9bb6d9f5500e04953de293203",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quần áo học sinh",
+                            "explain": "一种服装，上身有三个没有盖的口袋，领子不向下翻，下身是西式长裤，过去多是学生穿的",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 16
+            },
+            "snym": {
+                "syno": [
+                    "青年装",
+                    "中山装"
+                ]
+            },
+            "cn_vi": "học sinh trang",
+            "pinyin": "xuéshēngzhuāng",
+            "word": "学生装",
+            "id": 57496,
+            "phonetic": "xueshengzhuang",
+            "rank": 89197,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "4, 53",
+            "zhuyin": "ㄕㄥㄌㄧˇㄒㄩㄝˊ",
+            "_id": "e94bf1b5c24d4f97b3a8a10ad065c0e9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sinh lý học",
+                            "explain": "physiology",
+                            "examples": [
+                                {
+                                    "m": "sinh lí học nhân thể.",
+                                    "p_vn": "sinh li hoc nhan the",
+                                    "_id": "c1c9be4686ea57a3051732ebf82ff599",
+                                    "id": 33666,
+                                    "type": "e_cnvi",
+                                    "e": "人体生理学。",
+                                    "p_cn": "renti shenglixue",
+                                    "p": "réntǐ shēnglǐxué。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 41
+            },
+            "snym": {
+                "anto": [
+                    "心理学"
+                ]
+            },
+            "cn_vi": "sinh lí học",
+            "pinyin": "shēnglǐxué",
+            "word": "生理学",
+            "id": 122778,
+            "phonetic": "shenglixue",
+            "rank": 63026,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄥㄒㄩㄝˊㄕㄥ",
+            "topic": "16",
+            "_id": "3b729c5b10e8a0bab58b184c4ee986ad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "học sinh trung học",
+                            "explain": "在中学读书的学生",
+                            "examples": [
+                                {
+                                    "m": "Đồ trẻ trâu có nghĩa chỉ những học sinh trung học hoặc người lớn có cử chỉ ngây thơ, trẻ con",
+                                    "p_vn": "Do tre trau co nghia chi nhung hoc sinh trung hoc hoac nguoi lon co cu chi ngay tho, tre con",
+                                    "_id": "4004844cdc9244cca0b5025340332316",
+                                    "id": 55564,
+                                    "type": "e_cnvi",
+                                    "e": "小学鸡意思是指行为幼稚的中学生或成人",
+                                    "p_cn": "Xiaoxue ji yisi shi zhi xingwei youzhi de zhongxuesheng huo chengren",
+                                    "p": "Xiǎoxué jī yìsi shì zhǐ xíngwéi yòuzhì de zhōngxuéshēng huò chéngrén"
+                                },
+                                {
+                                    "m": "Một số học sinh trung học có gia cảnh không hề giàu có cũng không chịu mình bị tụt hậu lại phía sau.",
+                                    "p_vn": "Mot so hoc sinh trung hoc co gia canh khong he giau co cung khong chiu minh bi tut hau lai phia sau.",
+                                    "_id": "8a90e79ef879471880f4c8ffe57f00d6",
+                                    "id": 55508,
+                                    "type": "e_cnvi",
+                                    "e": "一些家境并不富裕的中学生也不甘落后。",
+                                    "p_cn": "Yixie jiajing bing bu fuyu de zhongxuesheng ye bugan luohou.",
+                                    "p": "Yīxiē jiājìng bìng bù fùyù de zhōngxuéshēng yě bùgān luòhòu."
+                                },
+                                {
+                                    "m": "\"Viết về phong trào học sinh trong toàn thành phố\"",
+                                    "p_vn": "\"viet ve phong trao hoc sinh trong toan thanh pho\"",
+                                    "_id": "ca97c23c70d8edc13e0f350213083c08",
+                                    "id": 3839,
+                                    "type": "e_cnvi",
+                                    "e": "《全市中学生运动会侧记》",
+                                    "p_cn": "“quanshi zhōngxueshēng yundonghui ceji”",
+                                    "p": "“quánshì zhōngxuéshēng yùndònghuì cèjì”"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 50,
+                "search": 385
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "zhōngxuéshēng",
+            "cn_vi": "trung học sinh",
+            "word": "中学生",
+            "id": 65093,
+            "phonetic": "zhongxuesheng",
+            "rank": 18897,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "Mén",
+                "examples": "封生态学的关心是最近才有的事。\nFēng shēngtài xué de guānxīn shì zuìjìn cái yǒu de shì.\nMối quan tâm về sinh thái là một sự phát triển gần đây.",
+                "measure": "门"
+            },
+            "topic": "26",
+            "zhuyin": "ㄕㄥㄊㄞˋㄒㄩㄝˊ",
+            "_id": "92e803f85c744165919a926178fa12a2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sinh thái học",
+                            "explain": "ecology",
+                            "examples": [
+                                {
+                                    "m": "Chính nhờ ảnh hưởng của anh ấy mà cô ấy bắt đầu quan tâm đến sinh thái học.",
+                                    "p_vn": "Chinh nho anh huong cua anh ay ma co ay bat dau quan tam den sinh thai hoc.",
+                                    "_id": "0f7ae5b7fc3c40ea9895a0121c3689c4",
+                                    "id": 61625,
+                                    "type": "e_cnvi",
+                                    "e": "她开始对生态学感兴趣，是受到他的影响。",
+                                    "p_cn": "ta kaishi dui shengtaixue ganxingqu,shi shoudao ta de yingxiang. ",
+                                    "p": "tā kāishǐ dùi shēngtàixué gǎnxīngqù，shì shòudào tā de yǐngxiǎng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "sinh thái học",
+            "pinyin": "shēngtài xué",
+            "word": "生态学",
+            "id": 125625,
+            "phonetic": "shengtaixue",
+            "rank": 72848,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄝˊㄕㄥㄏㄨㄟˋ",
+            "topic": "16",
+            "_id": "d04f21573a7baeb58732ca2dfadf51da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hội học sinh sinh viên",
+                            "explain": "（一）遵循和贯彻党的教育方针，组织同学开展学习、文体、社会实践、志愿服务、创新创业创优等多种活动，促进同学全面发展；",
+                            "examples": []
+                        },
+                        {
+                            "mean": "hiệu đoàn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 204
+            },
+            "snym": null,
+            "cn_vi": "học sinh hội",
+            "pinyin": "xuéshēnghuì",
+            "word": "学生会",
+            "id": 81576,
+            "phonetic": "xueshenghui",
+            "rank": 27972,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄟˋㄕㄥㄒㄩㄝˊ",
+            "topic": "26",
+            "_id": "d56c14f8996eb155e60411035bd2609a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Vệ sinh học",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "vệ sinh học",
+            "pinyin": "wèishēng xué",
+            "word": "卫生学",
+            "id": 78698,
+            "phonetic": "weishengxue",
+            "rank": 137867,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "4, 53",
+            "zhuyin": "ㄕㄥㄏㄨㄚˋㄒㄩㄝˊ",
+            "_id": "e131fb1693f2425cba5d17f51fae3b92",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hóa sinh",
+                            "explain": "biochemistry",
+                            "examples": [
+                                {
+                                    "m": "Quá trình đá thành trong quá trình biến đổi của đá, chất lắng đã trải qua sự biến đổi hóa học và vật lý.",
+                                    "p_vn": "Qua trinh da thanh trong qua trinh bien doi cua da, chat lang da trai qua su bien doi hoa hoc va vat ly.",
+                                    "_id": "24fc7ea15200414ebf1b753ed673ec3a",
+                                    "id": 69815,
+                                    "type": "e_cnvi",
+                                    "e": "成岩作用在岩石转化过程中沉积物发生化学和物理变化的过程",
+                                    "p_cn": "cheng yan zuoyong zai yanshi zhuanhua guocheng zhong chenjiwu fasheng huaxue he wuli bianhua de guocheng",
+                                    "p": "chéng yán zuòyòng zài yánshí zhuǎnhuà guòchéng zhōng chénjīwù fāshēng huàxué hé wùlǐ biànhuà de guòchéng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "sinh hoá học",
+            "pinyin": "shēng huàxué",
+            "word": "生化学",
+            "id": 125621,
+            "phonetic": "shenghuaxue",
+            "rank": 152480,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "75cae92b20dc4f7b8e57b0263abbf007",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Học trò con gái.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "nam nữ học sinh.",
+                                    "p_vn": "nam nu hoc sinh",
+                                    "_id": "13feea384d263efc90d9b1d40e3a5e46",
+                                    "id": 29555,
+                                    "type": "e_cnvi",
+                                    "e": "男女学生。",
+                                    "p_cn": "nannu xuesheng",
+                                    "p": "nánnǚ xuéshēng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "nữ học sinh",
+            "pinyin": "nǚ xuéshēng",
+            "word": "女学生",
+            "id": 169262,
+            "phonetic": "nuxuesheng",
+            "rank": 88308,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Míng, gè",
+                "examples": "我哥哥是个大学生\nWǒ gēgē shìgè dàxuéshēng\nAnh tôi là một sinh viên đại học.",
+                "measure": "名, 个"
+            },
+            "zhuyin": "ㄉㄚˋㄒㄩㄝˊㄕㄥ",
+            "topic": "16",
+            "_id": "3c40647d56cde82dcce923de6b092b3f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sinh viên",
+                            "explain": "在高等学校读书的学生",
+                            "examples": [
+                                {
+                                    "m": "sinh viên năm nay",
+                                    "p_vn": "sinh vien nam nay",
+                                    "_id": "22df0dad1261cb0785cf90d2af0b5896",
+                                    "id": 1389,
+                                    "type": "e_cnvi",
+                                    "e": "本届大学生。",
+                                    "p_cn": "ben jie daxuesheng",
+                                    "p": "běnjiè dàxuéshēng。"
+                                },
+                                {
+                                    "m": "Sinh viên mới ra trường rất khó tìm được việc làm đúng với chuyên ngành của mình.\nBởi vì làm việc đúng ngành và  nghiệp vụ tốt, chú tôi làm việc như cá gặp được, muốn gì được nấy.",
+                                    "p_vn": "sinh vien moi ra truong rat kho tim duoc viec lam dung voi chuyen nganh cua minh.\nboi vi lam viec dung nganh va  nghiep vu tot, chu toi lam viec nhu ca gap duoc, muon gi duoc nay.",
+                                    "_id": "30edda18959e4667b2b8770ca0543273",
+                                    "id": 68798,
+                                    "type": "e_cnvi",
+                                    "e": "刚毕业的大学生们要找专业对口的工作就十分困难\n表叔在工作中因专业对口，业务精湛，工作起来如鱼得水，得心应手。",
+                                    "p_cn": "gang biye de daxueshengmen yao zhao zhuanye duikou de gongzuo jiu shifen kunnan\nbiao shu zai gongzuo zhong yin zhuanye duikou, yewu jingzhan, gongzuo qilai ruyudeshui, dexinyingshou.",
+                                    "p": "Gāng bìyè de dàxuéshēngmen yào zhǎo zhuānyè duìkǒu de gōngzuò jiù shífēn kùnnán\nbiǎo shū zài gōngzuò zhōng yīn zhuānyè duìkǒu, yèwù jīngzhàn, gōngzuò qǐlái rúyúdéshuǐ, déxīnyìngshǒu."
+                                },
+                                {
+                                    "m": "Ở một vài trường đại học, sinh viên phải tham gia các hoạt động để tích lũy điểm rèn luyện",
+                                    "p_vn": "o mot vai truong dai hoc, sinh vien phai tham gia cac hoat dong de tich luy diem ren luyen",
+                                    "_id": "4ca331824268466186f800b98a3b5941",
+                                    "id": 67483,
+                                    "type": "e_cnvi",
+                                    "e": "在一些大学，大学生要参加一些活动积累考勤分",
+                                    "p_cn": "zai yixie daxue, daxuesheng yao canjia yixie huodong jilei kaoqin fen",
+                                    "p": "Zài yīxiē dàxué, dàxuéshēng yào cānjiā yīxiē huódòng jīlěi kǎoqīn fēn"
+                                },
+                                {
+                                    "m": "Một sinh viên đại học không thành thạo một kỹ năng sẽ không có chỗ đứng trong xã hội trong tương lai.",
+                                    "p_vn": "Mot sinh vien dai hoc khong thanh thao mot ky nang se khong co cho dung trong xa hoi trong tuong lai.",
+                                    "_id": "61e9219b74fb408eeef2bd98457e9436",
+                                    "id": 54188,
+                                    "type": "e_cnvi",
+                                    "e": "一个大学生，不掌握一技之长，将来在社会上就站不住脚。",
+                                    "p_cn": "Yige daxuesheng, bu zhangwo yijizhichang, jianglai zai shehui shang jiu zhan bu zhu jiao.",
+                                    "p": "Yīgè dàxuéshēng, bù zhǎngwò yījìzhīcháng, jiānglái zài shèhuì shàng jiù zhàn bù zhù jiǎo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "học sinh lớn tuổi",
+                            "explain": "年岁较大的学生; 年岁较大的男孩子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 203,
+                "search": 1762
+            },
+            "snym": {
+                "anto": [
+                    "小学生"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "dàxuéshēng",
+            "cn_vi": "đại học sinh",
+            "word": "大学生",
+            "id": 10667,
+            "phonetic": "daxuesheng",
+            "rank": 6206,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b5bb7352708b4950bc9bf259f30f6bd5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thiếu sinh",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "trung bình mỗi năm Đại học Thanh Hoa và Đại học Bắc Kinh tuyển sinh bao nhiêu sinh viên?",
+                                    "p_vn": "trung binh moi nam dai hoc thanh hoa va dai hoc bac kinh tuyen sinh bao nhieu sinh vien?",
+                                    "_id": "5f1adf3e4794a18d885701d1a3fdd89b",
+                                    "id": 81699,
+                                    "type": "e_cnvi",
+                                    "e": "清华北大每年平均招收多少学生？",
+                                    "p_cn": "qinghua beida meinian pingjun zhaoshou duoshao xuesheng?",
+                                    "p": "qīnghuá běidà měinián píngjūn zhāoshōu duōshao xuéshēng?"
+                                },
+                                {
+                                    "m": "Trường bạn có bao nhiêu học sinh?",
+                                    "p_vn": "truong ban co bao nhieu hoc sinh?",
+                                    "_id": "ac7be255046819fca340054063016dfd",
+                                    "id": 74138,
+                                    "e": "你校有多少学生？",
+                                    "p_cn": "ni xiao you duoshao xuesheng?",
+                                    "type": "e_cnvi",
+                                    "p": "nǐ xiào yǒu duōshao xuéshēng?"
+                                },
+                                {
+                                    "m": "Hiện nay rất nhiều học sinh gian lận thi cử, không chỉ thế, còn có những “người thi hộ” chuyên thi hộ người khác",
+                                    "p_vn": "hien nay rat nhieu hoc sinh gian lan thi cu, khong chi the, con co nhung \"nguoi thi ho\" chuyen thi ho nguoi khac",
+                                    "_id": "bc2c3b5ee1de465fac0f893ccc3f32f3",
+                                    "id": 56118,
+                                    "type": "e_cnvi",
+                                    "e": "如今有不少学生考试作弊，更有甚者，还有专门替别人考试的”枪手”",
+                                    "p_cn": "rujin you bu shao xuesheng kaoshi zuobi, geng you shen zhe, hai you zhuanmen ti bieren kaoshi de\" qiangshou\"",
+                                    "p": "Rújīn yǒu bù shǎo xuéshēng kǎoshì zuòbì, gèng yǒu shén zhě, hái yǒu zhuānmén tì biéren kǎoshì de” qiāngshǒu”"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thiếu học sinh",
+            "pinyin": "shǎo xuéshēng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "少学生",
+            "id": 183471,
+            "phonetic": "shaoxuesheng",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "6f4f05fa66f646fe94de5e5bcb7a5f2e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thẻ sinh viên",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 108
+            },
+            "snym": null,
+            "cn_vi": "học sinh ca",
+            "pinyin": "xuéshēng kǎ",
+            "word": "学生卡",
+            "id": 167225,
+            "phonetic": "xueshengka",
+            "rank": 39971,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄡㄕㄥㄒㄩㄝˊ",
+            "_id": "52233f1f6817104cc463dd2d44564c79",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thuyết ưu sinh; ưu sinh học (phân ngành của sinh vật học, nghiên cứu làm thế nào để cải tiến tính di truyền của loài người.)",
+                            "explain": "生物学的一个分支，研究如何改进人类的遗传性",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "ưu sinh học",
+            "pinyin": "yōushēng xué",
+            "word": "优生学",
+            "id": 60899,
+            "phonetic": "youshengxue",
+            "rank": 87083,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Mén",
+                "examples": "他在钻研生物学。\nTā zài zuānyán shēngwù xué.\nAnh ấy đang nghiên cứu về sinh học.",
+                "measure": "门"
+            },
+            "topic": "4, 16, 53",
+            "zhuyin": "ㄕㄥㄨˋㄒㄩㄝˊ",
+            "_id": "e559cfe6fb72b27f5e0183d4811e2a9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sinh vật học",
+                            "explain": "研究生物的结构、功能、发生和发展规律的科学，包括动物学、植物学、微生物学、古生物学等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 135
+            },
+            "snym": null,
+            "cn_vi": "sinh vật học",
+            "pinyin": "shēngwù xué",
+            "word": "生物学",
+            "id": 46591,
+            "phonetic": "shengwuxue",
+            "rank": 35469,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "16",
+            "zhuyin": "ㄒㄧㄠˇㄒㄩㄝˊㄕㄥ",
+            "_id": "76c66100780bff57ee84a4838ed995a9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "học sinh tiểu học",
+                            "explain": "在小学读书的学生",
+                            "examples": [
+                                {
+                                    "m": "Thơ của Lí Bạch có một số học sinh thuộc lòng tới lưu loát trôi chảy.",
+                                    "p_vn": "Tho cua Li Bach co mot so hoc sinh thuoc long toi luu loat troi chay.",
+                                    "_id": "344587decfd244ca953056caeaaa424b",
+                                    "id": 67421,
+                                    "type": "e_cnvi",
+                                    "e": "李白的诗有哪些小学生都背得滚光烂熟",
+                                    "p_cn": "Libai de shi you naxie xiaoxuesheng dou bei de gun guang lanshu",
+                                    "p": "Lǐbái de shī yǒu nǎxiē xiǎoxuéshēng dōu bèi dé gǔn guāng lànshú"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 59,
+                "search": 371
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "xiǎoxuéshēng",
+            "cn_vi": "tiểu học sinh",
+            "word": "小学生",
+            "id": 55902,
+            "phonetic": "xiaoxuesheng",
+            "rank": 19355,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè, míng",
+                "examples": "这个问题让小学生解决太难了。\nZhège wèntí ràng xiǎoxuéshēng jiějué tài nánle.\nBài toán này quá khó đối với trẻ tiểu học.",
+                "measure": "个, 名"
+            },
+            "topic": "16",
+            "zhuyin": "ㄒㄧㄠˇㄒㄩㄝˊㄕㄥ",
+            "_id": "0b39bb757ba66b08cae896655f7162b4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "học trò nhỏ",
+                            "explain": "年岁较小的学生",
+                            "examples": [
+                                {
+                                    "m": "Thơ của Lí Bạch có một số học sinh thuộc lòng tới lưu loát trôi chảy.",
+                                    "p_vn": "Tho cua Li Bach co mot so hoc sinh thuoc long toi luu loat troi chay.",
+                                    "_id": "344587decfd244ca953056caeaaa424b",
+                                    "id": 67421,
+                                    "type": "e_cnvi",
+                                    "e": "李白的诗有哪些小学生都背得滚光烂熟",
+                                    "p_cn": "Libai de shi you naxie xiaoxuesheng dou bei de gun guang lanshu",
+                                    "p": "Lǐbái de shī yǒu nǎxiē xiǎoxuéshēng dōu bèi dé gǔn guāng lànshú"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bé trai",
+                            "explain": "年岁较小的男孩子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 59,
+                "search": 371
+            },
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "xiǎoxuésheng",
+            "cn_vi": "tiểu học sinh",
+            "word": "小学生",
+            "id": 55903,
+            "phonetic": "xiaoxuesheng",
+            "rank": 19356,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄝˊㄕㄥㄈㄨˊ",
+            "topic": "23",
+            "_id": "a2152020d467a5fc7dbc54d785e8ab3f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Đồng phục học sinh",
+                            "explain": "学生服顾名思义就是指学生所穿的服饰。 学生在学校规定统一穿着的服装，称为校服。校服是一种常见的学生服。 在我国，基本每个学校都有自己特定的校服，校服体现了学生的特点及风貌，它不仅在衣着方面起到一定的作用，而且在学生的思想领域也有不可或缺的作用。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 73
+            },
+            "snym": null,
+            "cn_vi": "học sinh phục",
+            "pinyin": "xuéshēng fú",
+            "word": "学生服",
+            "id": 70027,
+            "phonetic": "xueshengfu",
+            "rank": 48789,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "她的爱好不寻常啊，这个转学生。她长得可爱，所以对我来说还行\nTā de àihào bù xúncháng a, zhège zhuǎn xuéshēng. Tā zhǎng dé kě'ài, suǒyǐ duì wǒ lái shuō hái xíng\nSở thích của cô ấy khác thường, học sinh chuyển trường này. Cô ấy dễ thương, vì vậy tôi không sao cả",
+                "measure": "个"
+            },
+            "zhuyin": "ㄓㄨㄢˇㄒㄩㄝˊㄕㄥ",
+            "_id": "b6c4de3e39c3219b74ec564b92a7b4a0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "học sinh chuyển trường",
+                            "explain": "中途转换学校就读的学生;转校生",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "chuyển học sinh",
+            "pinyin": "zhuǎn xuéshēng",
+            "word": "转学生",
+            "id": 66075,
+            "phonetic": "zhuanxuesheng",
+            "rank": 80476,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄤˇㄕㄥㄒㄩㄝˊ",
+            "_id": "25b2062555b66ec20660fae144ba8a79",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phỏng sinh học; kỹ thuật sinh học",
+                            "explain": "研究生物系统的结构、功能等，用来改进工程技术系统的科学如模拟人脑的结构和功能原理，改善电子计算机",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "phỏng sinh học",
+            "pinyin": "fǎngshēng xué",
+            "word": "仿生学",
+            "id": 16163,
+            "phonetic": "fangshengxue",
+            "rank": 65175,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄩㄝˊㄕㄥㄓㄥˋ",
+            "topic": "16",
+            "_id": "99886f0e4584a6b244403c2c93d3468c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thẻ học sinh",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 85,
+                "search": 795
+            },
+            "snym": null,
+            "cn_vi": "học sinh chứng",
+            "pinyin": "xuéshēng zhèng",
+            "word": "学生证",
+            "id": 81682,
+            "phonetic": "xueshengzheng",
+            "rank": 11615,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˊ",
+            "_id": "868b53ecb0151938dcea1262e7bd16f1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "ở lại/ ở lại đâu đó/ ở lại trong bao lâu...",
+                            "examples": [
+                                105755,
+                                105756
+                            ],
+                            "struct": "留 + 下/下来/一下/在…/số ngày"
+                        },
+                        {
+                            "explain": "giữ ai đó lại",
+                            "examples": [
+                                76991,
+                                76992
+                            ],
+                            "struct": "留 + Tân ngữ (Ai đó）"
+                        },
+                        {
+                            "explain": "giữ được/ không giữ được",
+                            "examples": [
+                                105762,
+                                105770
+                            ],
+                            "struct": "留（+ 得/不）+ 住/下"
+                        },
+                        {
+                            "explain": "gây/ nuôi/ để/ phần/ giữ: râu/ tóc/ chỗ.....",
+                            "examples": [
+                                105773,
+                                105774
+                            ],
+                            "struct": "留 + Tân ngữ  (胡子、头发、长发、座位、.....）"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lưu; lưu lại; để lại; giữ lại; ở lại",
+                            "explain": "停止在某一个处所或地位上不动;不离去",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy ở lại nông thôn công tác.",
+                                    "p_vn": "anh ay o lai nong thon cong tac.",
+                                    "_id": "568d8842ff28491ddc8f6aeb83a0465c",
+                                    "id": 27056,
+                                    "type": "e_cnvi",
+                                    "e": "他留在农村工作了。",
+                                    "p_cn": "ta liuzai nongcun gongzuo le。",
+                                    "p": "tā líuzài nóngcūn gōngzuò le。"
+                                },
+                                {
+                                    "m": "Anh ấy ở lại trong nhà để nghỉ ngơi.",
+                                    "p_vn": "anh ay o lai trong nha de nghi ngoi.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac360f18f",
+                                    "id": 105631,
+                                    "type": "e_cnvi",
+                                    "e": "他留在家中休息。",
+                                    "p_cn": "ta liu zai jiazhong xiuxi.",
+                                    "p": "tā liú zài jiāzhōng xiūxi."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lưu học; du học",
+                            "explain": "留学",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy chuẩn bị đi Mỹ du học.",
+                                    "p_vn": "anh ay chuan bi di my du hoc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac360fe1c",
+                                    "id": 105632,
+                                    "type": "e_cnvi",
+                                    "e": "他准备去美国留。",
+                                    "p_cn": "ta zhunbei qu meiguo liu.",
+                                    "p": "tā zhǔnbèi qù měiguó liú."
+                                },
+                                {
+                                    "m": "Tôi dự định sang năm đi du học.",
+                                    "p_vn": "toi du dinh sang nam di du hoc.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3611692",
+                                    "id": 105635,
+                                    "type": "e_cnvi",
+                                    "e": "我打算明年去留。",
+                                    "p_cn": "wo dasuan mingnian qu liu.",
+                                    "p": "wǒ dǎsuàn míngnián qù liú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giữ lại; không cho rời khỏi",
+                            "explain": "使留;不使离去",
+                            "examples": [
+                                {
+                                    "m": "Cha mẹ giữ anh ấy ở nhà ăn Tết.",
+                                    "p_vn": "cha me giu anh ay o nha an tet.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3611bf5",
+                                    "id": 105637,
+                                    "type": "e_cnvi",
+                                    "e": "父母留他在家过年。",
+                                    "p_cn": "fumu liu ta zaijia guonian.",
+                                    "p": "fùmǔ liú tā zàijiā guònián."
+                                },
+                                {
+                                    "m": "Thầy giáo bảo tôi ở lại sau giờ học để nói chuyện.",
+                                    "p_vn": "thay giao bao toi o lai sau gio hoc de noi chuyen.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac36126f1",
+                                    "id": 105639,
+                                    "type": "e_cnvi",
+                                    "e": "老师留我课后谈话。",
+                                    "p_cn": "laoshi liu wo ke hou tanhua.",
+                                    "p": "lǎoshī liú wǒ kè hòu tánhuà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "để ý; lưu tâm",
+                            "explain": "注意力放在某方面",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy tập trung nghe thầy giáo giảng bài.",
+                                    "p_vn": "co ay tap trung nghe thay giao giang bai.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3614c44",
+                                    "id": 105645,
+                                    "type": "e_cnvi",
+                                    "e": "她留神听老师讲课。",
+                                    "p_cn": "ta liushen ting laoshi jiangke.",
+                                    "p": "tā liúshén tīng lǎoshī jiǎngkè."
+                                },
+                                {
+                                    "m": "Anh ấy chú ý quan sát tình hình xung quanh.",
+                                    "p_vn": "anh ay chu y quan sat tinh hinh xung quanh.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3614f72",
+                                    "id": 105646,
+                                    "type": "e_cnvi",
+                                    "e": "他留心观察周围情况。",
+                                    "p_cn": "ta liuxin guancha zhouwei qingkuang.",
+                                    "p": "tā liúxīn guānchá zhōuwéi qíngkuàng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bảo lưu; giữ lại; để dành",
+                            "explain": "保留",
+                            "examples": [
+                                {
+                                    "m": "Ông tôi giữ lại những cuốn sách cổ.",
+                                    "p_vn": "ong toi giu lai nhung cuon sach co.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3619794",
+                                    "id": 105653,
+                                    "type": "e_cnvi",
+                                    "e": "爷爷留着古老书籍。",
+                                    "p_cn": "yeye liuzhe gulao shuji.",
+                                    "p": "yéye liúzhe gǔlǎo shūjí."
+                                },
+                                {
+                                    "m": "Anh ấy giữ lại những tấm ảnh quý giá.",
+                                    "p_vn": "anh ay giu lai nhung tam anh quy gia.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac361a059",
+                                    "id": 105654,
+                                    "type": "e_cnvi",
+                                    "e": "他留着珍贵的照片。",
+                                    "p_cn": "ta liuzhe zhengui de zhaopian.",
+                                    "p": "tā liúzhe zhēnguì de zhàopiàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhận; tiếp nhận",
+                            "explain": "接受;收下",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy nhận quà của bạn bè.",
+                                    "p_vn": "anh ay nhan qua cua ban be.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac361ca5b",
+                                    "id": 105658,
+                                    "type": "e_cnvi",
+                                    "e": "他留了朋友的礼物。",
+                                    "p_cn": "ta liule pengyou de liwu.",
+                                    "p": "tā liúle péngyou de lǐwù."
+                                },
+                                {
+                                    "m": "Cô ấy nhận lì xì của người lớn.",
+                                    "p_vn": "co ay nhan li xi cua nguoi lon.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac361e679",
+                                    "id": 105661,
+                                    "type": "e_cnvi",
+                                    "e": "她留着长辈的红包。",
+                                    "p_cn": "ta liuzhe zhangbei de hongbao.",
+                                    "p": "tā liúzhe zhǎngbèi de hóngbāo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ghi lại; để lại",
+                            "explain": "遗留",
+                            "examples": [
+                                {
+                                    "m": "Người xưa để lại nhiều di sản văn hóa.",
+                                    "p_vn": "nguoi xua de lai nhieu di san van hoa.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac36214ca",
+                                    "id": 105666,
+                                    "type": "e_cnvi",
+                                    "e": "古人留众多文化遗产。",
+                                    "p_cn": "guren liu zhongduo wenhua yichan.",
+                                    "p": "gǔrén liú zhòngduō wénhuà yíchǎn."
+                                },
+                                {
+                                    "m": "Anh ấy để lại một văn kiện quan trọng.",
+                                    "p_vn": "anh ay de lai mot van kien quan trong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3622ae1",
+                                    "id": 105668,
+                                    "type": "e_cnvi",
+                                    "e": "他留一份重要的文件。",
+                                    "p_cn": "ta liu yi fen zhongyao de wenjian.",
+                                    "p": "tā liú yī fèn zhòngyào de wénjiàn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "để; chừa",
+                            "explain": "蓄; 留长",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy để tóc ngắn đẹp trai.",
+                                    "p_vn": "anh ay de toc ngan dep trai.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac36237ba",
+                                    "id": 105671,
+                                    "type": "e_cnvi",
+                                    "e": "他留起了帅气短发。",
+                                    "p_cn": "ta liu qile shuaiqi duanfa.",
+                                    "p": "tā liú qǐle shuàiqì duǎnfā."
+                                },
+                                {
+                                    "m": "Cô ấy để tóc dài mềm mượt.",
+                                    "p_vn": "co ay de toc dai mem muot.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3624072",
+                                    "id": 105672,
+                                    "type": "e_cnvi",
+                                    "e": "她留着柔顺的长发。",
+                                    "p_cn": "ta liuzhe roushun de chang fa.",
+                                    "p": "tā liúzhe róushùn de cháng fā."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "họ Lưu",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy họ Lưu.",
+                                    "p_vn": "co ay ho luu.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3626628",
+                                    "id": 105677,
+                                    "type": "e_cnvi",
+                                    "e": "她姓留。",
+                                    "p_cn": "ta xing liu.",
+                                    "p": "tā xìng liú."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 535,
+                "search": 15671
+            },
+            "snym": {
+                "anto": [
+                    "去",
+                    "离"
+                ],
+                "syno": [
+                    "停",
+                    "存"
+                ]
+            },
+            "lv_hsk_new": "2, 4",
+            "pinyin": "liú",
+            "cn_vi": "lưu",
+            "word": "留",
+            "id": 35729,
+            "phonetic": "liu",
+            "rank": 462,
+            "lv_tocfl": 5,
+            "compound": "留班 ; 留别 ; 留步 ; 留成 ; 留传 ; 留存 ; 留待 ; 留得青山在，不怕没柴烧 ; 留地步 ; 留后路 ; 留后手 ; 留级 ; 留连 ; 留恋 ; 留门 ; 留难 ; 留念 ; 留鸟 ; 留情 ; 留任 ; 留神 ; 留声机 ; 留守 ; 留宿 ; 留题 ; 留尾巴 ; 留心 ; 留学 ; 留言 ; 留洋 ; 留一手 ; 留意 ; 留影 ; 留用 ; 留余地 ; 留针 ; 留职 ; 留驻"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄏㄨㄚˋㄒㄩㄝˊㄕㄥㄨˋㄒㄩㄝˊ",
+            "_id": "676b1fc05daf426992a58b0dc1d542a6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hóa học sinh vật học",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "hoá học sinh vật học",
+            "pinyin": "huàxué shēngwù xué",
+            "word": "化学生物学",
+            "id": 156274,
+            "phonetic": "huaxueshengwuxue",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "384a80fc178c4191b3663660e1bd2b15",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhà sinh lý học",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "sinh lí học giả",
+            "pinyin": "shēnglǐxué zhě",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "生理学者",
+            "id": 179114,
+            "phonetic": "shenglixuezhe",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "4, 53",
+            "zhuyin": "ㄕㄥㄨˋㄏㄨㄚˋㄒㄩㄝˊ",
+            "_id": "23f594b3a3e44324b60b9d796a807786",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hóa sinh",
+                            "explain": "biochemistry",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "sinh vật hoá học",
+            "pinyin": "shēngwù huàxué",
+            "word": "生物化学",
+            "id": 137688,
+            "phonetic": "shengwuhuaxue",
+            "rank": 86336,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄥㄇㄧㄥˋㄎㄜㄒㄩㄝˊ",
+            "_id": "b0372f91127d499b8f78df67250a0b4e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khoa học đời sống",
+                            "explain": "life sciences",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 40
+            },
+            "snym": null,
+            "cn_vi": "sinh mệnh khoa học",
+            "pinyin": "shēngmìng kēxué",
+            "word": "生命科学",
+            "id": 139612,
+            "phonetic": "shengmingkexue",
+            "rank": 63633,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄡˋㄕㄥㄨㄢˇㄒㄩㄝˊ",
+            "_id": "af3c9b39c0a6b4ed64e1e1e0909b2589",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "hậu sinh kém cỏi; hậu sinh kiến thiểu",
+                            "explain": "指学历浅的年轻人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": {
+                "syno": [
+                    "后生晚辈",
+                    "后生小子"
+                ]
+            },
+            "cn_vi": "hậu sinh vãn học",
+            "pinyin": "hòushēng wǎn xué",
+            "word": "后生晚学",
+            "id": 23881,
+            "phonetic": "houshengwanxue",
+            "rank": 154309,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄥㄨˋㄌㄧˋㄒㄩㄝˊ",
+            "_id": "a94fa0518a49430e8c252b18894fe15d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cơ sinh học",
+                            "explain": "biomechanics",
+                            "examples": [
+                                {
+                                    "m": "Tôi đã đọc về cơ sinh học.",
+                                    "p_vn": "Toi da doc ve co sinh hoc.",
+                                    "_id": "faadf4e260174954b959dce7855a4849",
+                                    "id": 62590,
+                                    "type": "e_cnvi",
+                                    "e": "我最近一直在读生物力学的书",
+                                    "p_cn": "wo zuijin yizhi zaidu shengwulixue de shu",
+                                    "p": "wǒ zùijìn yīzhí zàidú shēngwùlìxué de shū"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "sinh vật lực học",
+            "pinyin": "shēngwù lìxué",
+            "word": "生物力学",
+            "id": 135223,
+            "phonetic": "shengwulixue",
+            "rank": 127271,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄓㄨㄥㄒㄩㄝˊㄕㄥ",
+            "_id": "ddd68262362246379ad86a281df5e454",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sinh viên đại học và trung học",
+                            "explain": "university and high school students",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "đại trung học sinh",
+            "pinyin": "dà zhōng xué sheng",
+            "word": "大中学生",
+            "id": 140524,
+            "phonetic": "dazhongxuesheng",
+            "rank": 95653,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄕㄥㄧㄒㄩㄝˊ",
+            "_id": "dd0be41b9fba4fdd9d5e1967da220a3b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "y học tái tạo",
+                            "explain": "regenerative medicine",
+                            "examples": [
+                                {
+                                    "m": "Tôi thực sự quan tâm đến y học tái tạo.",
+                                    "p_vn": "Toi thuc su quan tam den y hoc tai tao.",
+                                    "_id": "c397d8c27f354d50ab002f60a62e7f19",
+                                    "id": 62689,
+                                    "type": "e_cnvi",
+                                    "e": "我对再生医学很感兴趣",
+                                    "p_cn": "wo dui zaisheng yixue henganxingqu",
+                                    "p": "wǒ dùi zàishēng yìxué hěngǎnxīngqù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tái sinh y học",
+            "pinyin": "zàishēng yīxué",
+            "word": "再生医学",
+            "id": 136500,
+            "phonetic": "zaishengyixue",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "26",
+            "zhuyin": "ㄕㄥㄊㄞˋㄒㄩㄝˊㄐㄧㄚ",
+            "_id": "472cf5f5c4e044d183e3aeb05d166730",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhà sinh thái học",
+                            "explain": "ecologist",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "sinh thái học gia",
+            "pinyin": "shēngtài xué jiā",
+            "word": "生态学家",
+            "id": 139615,
+            "phonetic": "shengtaixuejia",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄨㄟㄕㄥㄨˋㄒㄩㄝˊ",
+            "_id": "5d90082d6fcb48cbaa938afb6ad6a885",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vi trùng học",
+                            "explain": "microbiology",
+                            "examples": [
+                                {
+                                    "m": "Aka giáo sư vi sinh ứng dụng của chúng tôi.",
+                                    "p_vn": "Aka giao su vi sinh ung dung cua chung toi.",
+                                    "_id": "4de0b7d72f584cf3823e63b85f95ac26",
+                                    "id": 62734,
+                                    "type": "e_cnvi",
+                                    "e": "又是我们应用微生物学教授",
+                                    "p_cn": "you shi women yingyong weishengwuxue jiaoshou",
+                                    "p": "yòu shì wǒmen yìngyòng wēishēngwùxué jiàoshòu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "vi sinh vật học",
+            "pinyin": "wéishēngwù xué",
+            "word": "微生物学",
+            "id": 137046,
+            "phonetic": "weishengwuxue",
+            "rank": 103757,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄥㄏㄨㄛˊㄇㄟˇㄒㄩㄝˊ",
+            "_id": "a7f4f459a27042098acad4d849ead552",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đánh giá cao những điều tốt đẹp hơn trong cuộc sống",
+                            "explain": "appreciation of the finer things in life",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "sinh hoạt mĩ học",
+            "pinyin": "shēnghuó měixué",
+            "word": "生活美学",
+            "id": 139622,
+            "phonetic": "shenghuomeixue",
+            "rank": 138648,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4a31f51ec2494a248e6ed391dd387a1b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "học sinh Việt Nam",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "việt na học sinh",
+            "pinyin": "yuènán xuéshēng",
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "word": "越南学生",
+            "id": 186523,
+            "phonetic": "yuenanxuesheng",
+            "rank": 113293,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "31",
+            "zhuyin": "ㄍㄨˇㄕㄥㄨˋㄒㄩㄝˊ",
+            "_id": "43bb6330b64b3959d339c90bc6fbee09",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cổ sinh vật học; hóa thạch học; tích vật học",
+                            "explain": "研究生存于地质时代的各类生命的科学研究素材为埋藏于地壳中的动、植物化石，分析其形态、类别、功能及演化关系，并藉以判定地层的年代等亦称为\"化石学\"",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "cổ sinh vật học",
+            "pinyin": "gǔshēngwù xué",
+            "word": "古生物学",
+            "id": 20358,
+            "phonetic": "gushengwuxue",
+            "rank": 122617,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄠㄓㄨㄥㄒㄩㄝˊㄕㄥ",
+            "_id": "c1cd04371f024f1799a156560e1e9a02",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "học sinh trung học phổ thông",
+                            "explain": "student of a senior high school",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 150
+            },
+            "snym": null,
+            "cn_vi": "cao trung học sinh",
+            "pinyin": "gāozhōng xuéshēng",
+            "word": "高中学生",
+            "id": 141592,
+            "phonetic": "gaozhongxuesheng",
+            "rank": 33423,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄩㄝˊㄕㄥㄩㄣˋㄉㄨㄥˋ",
+            "_id": "eb935ed4d21b440bae39b13a0997a80f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "phong trào sinh viên",
+                            "explain": "student movement",
+                            "examples": [
+                                {
+                                    "m": "qua bộ tiểu thuyết này, ta có thể thấy được một khía cạnh của phong trào học sinh thời ấy",
+                                    "p_vn": "qua bo tieu thuyet nay ta co the thay duoc mot khia canh cua phong trao hoc sinh thoi ay",
+                                    "_id": "2677692de281230b62b07c932ccc9104",
+                                    "id": 3853,
+                                    "type": "e_cnvi",
+                                    "e": "¯通过这部小说，可以看到当时学生运动的一个侧影。",
+                                    "p_cn": "-tongguo zhe bu xiaoshuo keyi kan dao dangshi xuesheng yundong de yige ceying",
+                                    "p": "¯ tōngguò zhèbù xiǎoshuō，kěyǐ kàndào dāngshí xuéshēng yùndòng de yīgè cèyǐng。"
+                                },
+                                {
+                                    "m": "\"Viết về phong trào học sinh trong toàn thành phố\"",
+                                    "p_vn": "\"viet ve phong trao hoc sinh trong toan thanh pho\"",
+                                    "_id": "ca97c23c70d8edc13e0f350213083c08",
+                                    "id": 3839,
+                                    "type": "e_cnvi",
+                                    "e": "《全市中学生运动会侧记》",
+                                    "p_cn": "“quanshi zhōngxueshēng yundonghui ceji”",
+                                    "p": "“quánshì zhōngxuéshēng yùndònghuì cèjì”"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "học sinh vận động",
+            "pinyin": "xuéshēng yùndòng",
+            "word": "学生运动",
+            "id": 140544,
+            "phonetic": "xueshengyundong",
+            "rank": 95532,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄢㄏㄠˇㄒㄩㄝˊㄕㄥ",
+            "_id": "8eca11f2044d4c6a8f5512c66f93ab51",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Học sinh ba tốt. đạo đức tốt; học tốt; sức khỏe tốt",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Buổi họp lớp hôm nay đã xác nhận danh sách học sinh ba tốt của lớp.",
+                                    "p_vn": "Buoi hop lop hom nay da xac nhan danh sach hoc sinh ba tot cua lop.",
+                                    "_id": "21ff91078601416eb53ebd5f22f57e8e",
+                                    "id": 55503,
+                                    "type": "e_cnvi",
+                                    "e": "今天的班会确定了三好学生的名单。",
+                                    "p_cn": "Jintian de banhui quedingle san hao xuesheng de mingdan.",
+                                    "p": "Jīntiān de bānhuì quèdìngle sān hào xuéshēng de míngdān."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 91
+            },
+            "snym": null,
+            "cn_vi": "tam hảo học sinh",
+            "pinyin": "sān hào xuéshēng",
+            "word": "三好学生",
+            "id": 84806,
+            "phonetic": "sanhaoxuesheng",
+            "rank": 43641,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄥㄌㄧˇㄒㄩㄝˊㄐㄧㄚ",
+            "_id": "4a0f631e9be44b56bb28a47243625800",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhà sinh lý học",
+                            "explain": "physiologist",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "sinh lí học gia",
+            "pinyin": "shēnglǐxué jiā",
+            "word": "生理学家",
+            "id": 137694,
+            "phonetic": "shenglixuejia",
+            "rank": 118259,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "53",
+            "zhuyin": "ㄕㄥㄨˋㄒㄩㄝˊㄐㄧㄚ",
+            "_id": "aa671f58d1ed4702a7cea1a2a379ef6a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhà sinh vật học",
+                            "explain": "biologist",
+                            "examples": [
+                                {
+                                    "m": "Tôi thực tế là một nhà sinh vật học.",
+                                    "p_vn": "Toi thuc te la mot nha sinh vat hoc.",
+                                    "_id": "9d111cb822f148d9809b4c321b26d53d",
+                                    "id": 62774,
+                                    "type": "e_cnvi",
+                                    "e": "我沦为生物学家之流了",
+                                    "p_cn": "wo lunwei shengwuxuejia zhiliu le",
+                                    "p": "wǒ lúnwèi shēngwùxuéjiā zhīlíu le"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "sinh vật học gia",
+            "pinyin": "shēngwù xué jiā",
+            "word": "生物学家",
+            "id": 137690,
+            "phonetic": "shengwuxuejia",
+            "rank": 68455,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˊㄓㄨˋ",
+            "_id": "52c002eced2c44b4a46d87b942e750a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "yêu cầu ai đó ở lại",
+                            "explain": "to ask sb to stay",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để chờ đợi (cổ điển)",
+                            "explain": "to await (classical)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để giữ ai đó qua đêm",
+                            "explain": "to keep sb for the night",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lưu trú",
+                            "explain": "停留居住",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 451
+            },
+            "snym": {
+                "syno": [
+                    "留下",
+                    "易手"
+                ],
+                "anto": [
+                    "迁移"
+                ]
+            },
+            "cn_vi": "lưu trụ",
+            "pinyin": "liú zhù",
+            "word": "留住",
+            "id": 98565,
+            "phonetic": "liuzhu",
+            "rank": 17037,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˊㄉㄡ",
+            "_id": "71f742abe62e443db44b88b9c37ef47b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thủ đô cũ (sau khi di chuyển)",
+                            "explain": "the old capital (after a move)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "lưu đô",
+            "pinyin": "liú dū",
+            "word": "留都",
+            "id": 92666,
+            "phonetic": "liudu",
+            "rank": 127518,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄌㄧㄡˊ",
+            "_id": "305e5d9c114ec329b11d02e56f0170f7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ở lại; lưu lại; cư ngụ; định cư (bên ngoài)",
+                            "explain": "(在外地) 停留",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giam giữ; bắt giữ",
+                            "explain": "羁押",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "ki lưu",
+            "pinyin": "jīliú",
+            "word": "羁留",
+            "id": 26724,
+            "phonetic": "jiliu",
+            "rank": 123410,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˊㄑㄧㄥˊ",
+            "_id": "50898b5b48d26fef6f0f4c61e7574908",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nể tình; nể nang; nể mặt; lưu tình",
+                            "explain": "由于照顾情面而宽恕或原谅",
+                            "examples": [
+                                {
+                                    "m": "nể mặt mà nhẹ tay cho.",
+                                    "p_vn": "ne mat ma nhe tay cho",
+                                    "_id": "c922232a1cd7d0325ae3ab999273eaf0",
+                                    "id": 27083,
+                                    "type": "e_cnvi",
+                                    "e": "手下留情。",
+                                    "p_cn": "shouxia liuqing",
+                                    "p": "shǒuxiàlíuqíng。"
+                                },
+                                {
+                                    "m": "không chút nể nang.",
+                                    "p_vn": "khong chut ne nang",
+                                    "_id": "a57623152adfc35fb4f2422c13cbf891",
+                                    "id": 27084,
+                                    "type": "e_cnvi",
+                                    "e": "毫不留情。",
+                                    "p_cn": "hao bu liuqing",
+                                    "p": "háobùlíuqíng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 176
+            },
+            "snym": {
+                "syno": [
+                    "包涵",
+                    "宥恕",
+                    "饶恕",
+                    "宽恕",
+                    "原谅",
+                    "海涵",
+                    "原宥",
+                    "包容"
+                ]
+            },
+            "cn_vi": "lưu tình",
+            "pinyin": "liúqíng",
+            "word": "留情",
+            "id": 35748,
+            "phonetic": "liuqing",
+            "rank": 30484,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˊㄋㄢˊ",
+            "_id": "05bf49744467c73715d3943cf80785d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gây khó dễ; làm khó dễ; làm khó; bắt bí; bắt chẹt",
+                            "explain": "无理阻止，故意刁难",
+                            "examples": [
+                                {
+                                    "m": "thủ tục chuẩn bị đầy đủ, phải giải quyết đúng lúc, không được làm khó dễ.",
+                                    "p_vn": "thu tuc chuan bi day du, phai giai quyet dung luc, khong duoc lam kho de.",
+                                    "_id": "7d927e393b06e3bd50b1673fe9eebc38",
+                                    "id": 27080,
+                                    "type": "e_cnvi",
+                                    "e": "手续齐备的， 都要及时办理， 不得留难。",
+                                    "p_cn": "shouxu qibei de, dou yao jishi banli, bude liunan.",
+                                    "p": "shǒuxù qībèi de, dōu yào jíshí bànlǐ, bùdé liúnàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 56
+            },
+            "snym": {
+                "syno": [
+                    "刁难",
+                    "难为"
+                ],
+                "anto": [
+                    "方便"
+                ]
+            },
+            "cn_vi": "lưu nan",
+            "pinyin": "liúnàn",
+            "word": "留难",
+            "id": 35745,
+            "phonetic": "liunan",
+            "rank": 55200,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˊㄐㄧˊ",
+            "topic": "16",
+            "_id": "460d0ffa438c3f24de1b5cefb78ec797",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lưu ban; ở lại lớp; đúp",
+                            "explain": "学生学年成绩不及格，不能升级， 留在原来的年级重新学习",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 21,
+                "search": 156
+            },
+            "snym": null,
+            "cn_vi": "lưu cấp",
+            "pinyin": "liújí",
+            "word": "留级",
+            "id": 35741,
+            "phonetic": "liuji",
+            "rank": 32697,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧㄡˊㄎㄨㄥ",
+            "_id": "8dc506e669ce424bbe03c85fe899ca11",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để trống khoảng trống trong tài liệu",
+                            "explain": "to leave blank space in a document",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để lại một chút thời gian rảnh rỗi",
+                            "explain": "to leave some time free",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chừa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 32
+            },
+            "snym": {
+                "syno": [
+                    "留白"
+                ]
+            },
+            "cn_vi": "lưu không",
+            "pinyin": "liú kōng",
+            "word": "留空",
+            "id": 104501,
+            "phonetic": "liukong",
+            "rank": 69962,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄡˇㄌㄧㄡˊ",
+            "_id": "55e9512c488364ebfd439d471e3ab19f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ở lại lâu; giữ lại lâu",
+                            "explain": "长时间地停留",
+                            "examples": []
+                        },
+                        {
+                            "mean": "yêm lưu",
+                            "explain": "长期逗留",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 23
+            },
+            "snym": {
+                "anto": [
+                    "暂停"
+                ]
+            },
+            "cn_vi": "cửu lưu",
+            "pinyin": "jiǔliú",
+            "word": "久留",
+            "id": 30853,
+            "phonetic": "jiuliu",
+            "rank": 78230,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "留学生"
+}

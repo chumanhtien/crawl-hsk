@@ -1,0 +1,2682 @@
+{
+    "total": 1788,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "adj",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢ",
+            "_id": "7c39f12ba43301eae6462a5316d0fcb8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A ... như/ bằng B",
+                            "examples": [
+                                75429,
+                                75434
+                            ],
+                            "struct": "A + 和/跟 + B + 一般 + Tính từ"
+                        },
+                        {
+                            "explain": "trình độ/ điều kiện dáng vẻ/ hương vị + bình thường",
+                            "examples": [
+                                75430,
+                                99719
+                            ],
+                            "struct": "Chủ ngữ（水平、条件、样子、味道）+ Phó từ + 一般"
+                        },
+                        {
+                            "explain": "nói/ viết/ vẽ + bình thường như thế nào",
+                            "examples": [
+                                75431,
+                                99721
+                            ],
+                            "struct": "Động từ (说、写、画) + 得 + Phó từ + 一般"
+                        },
+                        {
+                            "explain": "thông thường mà nói",
+                            "examples": [
+                                75425
+                            ],
+                            "struct": "一般 + 来说、情况下、而言"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "giống nhau; như nhau; như",
+                            "explain": "一样;同样",
+                            "examples": [
+                                {
+                                    "m": "Hai anh em cao như nhau.",
+                                    "p_vn": "hai anh em cao nhu nhau.",
+                                    "_id": "65cb19e76311ae6412892a9a45f8c632",
+                                    "id": 44671,
+                                    "type": "e_cnvi",
+                                    "e": "哥儿俩长得一般高。",
+                                    "p_cn": "ger lia zhang de yiban gao.",
+                                    "p": "gēr liǎ zhǎng dé yībān gāo."
+                                },
+                                {
+                                    "m": "Xe lửa lao về phía trước như bay.",
+                                    "p_vn": "xe lua lao ve phia truoc nhu bay.",
+                                    "_id": "b980b4c2a710981b20cfb42601a2db6a",
+                                    "id": 44672,
+                                    "type": "e_cnvi",
+                                    "e": "火车飞一般地向前驰去。",
+                                    "p_cn": "huoche fei yiban de xiangqian chiqu。",
+                                    "p": "huǒchē fēi yībān de xiàngqián chíqù。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thông thường; phổ biến; chung; tổng kết",
+                            "explain": "普通;通常",
+                            "examples": [
+                                {
+                                    "m": "Giải thích của anh ấy mang tính chất tổng quát.",
+                                    "p_vn": "giai thich cua anh ay mang tinh chat tong quat.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4fc5f9e",
+                                    "id": 125481,
+                                    "type": "e_cnvi",
+                                    "e": "他的解释比较一般性。",
+                                    "p_cn": "ta de jieshi bijiao yiban xing.",
+                                    "p": "tā de jiěshì bǐjiào yībān xìng."
+                                },
+                                {
+                                    "m": "Câu trả lời cho vấn đề này là tính chất chung.",
+                                    "p_vn": "cau tra loi cho van de nay la tinh chat chung.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4fc6b99",
+                                    "id": 125482,
+                                    "type": "e_cnvi",
+                                    "e": "这个问题的答案是一般性的。",
+                                    "p_cn": "zhege wenti de da'an shi yiban xing de.",
+                                    "p": "zhège wèntí de dá'àn shì yībān xìng de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "trình độ không cao; trung bình; bình thường",
+                            "explain": "程度、水平不太高；普遍",
+                            "examples": [
+                                {
+                                    "m": "Trình độ tiếng Trung của tôi cũng chỉ bình thường thôi.",
+                                    "p_vn": "trinh do tieng trung cua toi cung chi binh thuong thoi.",
+                                    "_id": "ac7be255046819fca340054063c5ec3d",
+                                    "id": 75418,
+                                    "type": "e_cnvi",
+                                    "e": "我的汉语水平也很一般。",
+                                    "p_cn": "wo de hanyu shuiping ye hen yiban.",
+                                    "p": "wǒ de Hànyǔ shuǐpíng yě hěn yībān."
+                                },
+                                {
+                                    "m": "Kinh doanh của quán này cũng bình thường.",
+                                    "p_vn": "kinh doanh cua quan nay cung binh thuong.",
+                                    "_id": "55db399305625a14707d64b9185db7d5",
+                                    "id": 99711,
+                                    "type": "e_cnvi",
+                                    "e": "这家店的生意一般。",
+                                    "p_cn": "zhe jia dian de shengyi yiban.",
+                                    "p": "zhè jiā diàn de shēngyi yībān."
+                                },
+                                {
+                                    "m": "Quy tắc này có tính chất chung.",
+                                    "p_vn": "quy tac nay co tinh chat chung.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4fc795b",
+                                    "id": 125483,
+                                    "type": "e_cnvi",
+                                    "e": "这条规则具有一般性。",
+                                    "p_cn": "zhe tiao guize juyou yiban xing.",
+                                    "p": "zhè tiáo guīzé jùyǒu yībān xìng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "A thường",
+                            "examples": [
+                                75421,
+                                75422,
+                                99717
+                            ],
+                            "struct": "A + 一般…"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thường; thông thường",
+                            "explain": "通常",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy thường thức dậy lúc sáu giờ.",
+                                    "p_vn": "anh ay thuong thuc day luc sau gio.",
+                                    "_id": "55db399305625a14707d64b9185dbccc",
+                                    "id": 99712,
+                                    "type": "e_cnvi",
+                                    "e": "他一般六点起床。",
+                                    "p_cn": "ta yiban liu dian qichuang.",
+                                    "p": "tā yībān liù diǎn qǐchuáng."
+                                },
+                                {
+                                    "m": "Hoa thường nở vào mùa xuân.",
+                                    "p_vn": "hoa thuong no vao mua xuan.",
+                                    "_id": "55db399305625a14707d64b9185de596",
+                                    "id": 99716,
+                                    "type": "e_cnvi",
+                                    "e": "花儿一般在春天盛开。",
+                                    "p_cn": "huar yiban zai chuntian shengkai.",
+                                    "p": "huār yībān zài chūntiān shèngkāi."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"普通\" và \"一般\" có nghĩa gần như giống nhau, cả hai đều là tính từ đều mang nghĩa thông thường chứ không phải đặc biệt.\nKhác:\n- \"一般\" có nghĩa là \"không phải quá tốt\", còn \"普通\" thì không có nghĩa như vậy.\n- \"一般\" có nghĩa là \"nói chung\" hoặc \"khái quát\", \"普通\" không có nghĩa này.",
+                    "title": "Phân biệt \"普通\" và \"一般\"",
+                    "words": [
+                        "普通",
+                        "一般"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- \"一般\" và \"同样\" có nghĩa tương tự nhau.\n- Đều là tính từ, biểu thị sự tương đồng, không có sự khác biệt.\n- Đều không nhận bổ nghĩa của phó từ mức độ khi có nghĩa là giống.\nKhác:\n- \"同样\" là liên từ nối hai phân câu, biểu thị có mối quan hệ liên quan.\n\"一般\" là trợ từ, dùng sau từ để nói rõ sự giống nhau, thường đi với \"像、好像\".\n- \"同样\" khi bổ nghĩa cho danh từ thường không mang theo \"的\", \"一般\" không có cách dùng này.\n- \"同样\" có thể làm định ngữ, \"一般\" có thể làm vị ngữ, định ngữ, bổ ngữ.\n- \"一般\" phủ định có thể dùng \"不\" và \"没\", nhưng \"同样\" thì không thể.",
+                    "title": "Phân biệt \"同样\" và \"一般\"",
+                    "words": [
+                        "同样",
+                        "一般"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "大凡",
+                    "通常",
+                    "一些",
+                    "日常",
+                    "普遍",
+                    "平常",
+                    "凡是",
+                    "普通",
+                    "大发"
+                ],
+                "anto": [
+                    "突出",
+                    "非常",
+                    "非凡",
+                    "奇异",
+                    "特别",
+                    "特殊",
+                    "可贵",
+                    "格外",
+                    "个别",
+                    "新颖",
+                    "出色",
+                    "超常",
+                    "出众",
+                    "特异",
+                    "评优",
+                    "弥足",
+                    "尤其",
+                    "无比",
+                    "珍稀"
+                ]
+            },
+            "lv_hsk_new": "2, 3",
+            "pinyin": "yībān",
+            "cn_vi": "nhất bàn",
+            "popularity": {
+                "notebook": 923,
+                "search": 22717
+            },
+            "word": "一般",
+            "id": 59070,
+            "phonetic": "yiban",
+            "rank": 214,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄅㄢ",
+            "_id": "df272903496748f7b66257a00cfbeda2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bình thường",
+                            "explain": "一般般：汉语词语",
+                            "examples": [
+                                {
+                                    "m": "Trong xã hội hiện nay, tuyệt vời hay rất tốt cũng chỉ là bình thường. Cái tiêu chuẩn của tôi chính là siêu việt,  không thể tưởng tượng nổi.",
+                                    "p_vn": "Trong xa hoi hien nay, tuyet voi hay rat tot cung chi la binh thuong. Cai tieu chuan cua toi chinh la sieu viet,  khong the tuong tuong noi.",
+                                    "_id": "742b8ea39bdd47d3a9696b920331dea1",
+                                    "id": 55630,
+                                    "type": "e_cnvi",
+                                    "e": "在当今社会上，卓越、非常好只是一般般，我的标准是不可思议、超越非凡。",
+                                    "p_cn": "Zai dangjin shehui shang, zhuoyue, feichang hao zhishi yiban ban, wo de biaozhun shi bukesiyi, chaoyue feifan.",
+                                    "p": "Zài dāngjīn shèhuì shàng, zhuóyuè, fēicháng hǎo zhǐshì yībān bān, wǒ de biāozhǔn shì bùkěsīyì, chāoyuè fēifán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 78,
+                "search": 1810
+            },
+            "snym": {
+                "syno": [
+                    "不起眼"
+                ]
+            },
+            "cn_vi": "nhất ban ban",
+            "pinyin": "yībān bān",
+            "word": "一般般",
+            "id": 84955,
+            "phonetic": "yibanban",
+            "rank": 6072,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "18",
+            "zhuyin": "ㄧㄅㄢㄒㄧㄥˋ",
+            "_id": "634e14b335d64227b19968a8101c2c4b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Tổng quan",
+                            "explain": "general",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi đi đến khái niệm chung về thiệt hại đối với danh tiếng.",
+                                    "p_vn": "Chung toi di den khai niem chung ve thiet hai doi voi danh tieng.",
+                                    "_id": "5257448653e44327935025cf12487f7b",
+                                    "id": 66280,
+                                    "type": "e_cnvi",
+                                    "e": "我们要一般性地提出名誉损害赔偿",
+                                    "p_cn": "women yao yibanxing di tichu mingyu sunhaipeichang",
+                                    "p": "wǒmen yào yībānxìng dì tíchū míngyù sǔnhàipéicháng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tính tổng quát",
+                            "explain": "generality",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 134
+            },
+            "snym": null,
+            "cn_vi": "nhất ban tính",
+            "pinyin": "yībān xìng",
+            "word": "一般性",
+            "id": 116647,
+            "phonetic": "yibanxing",
+            "rank": 35534,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄖㄣˊ",
+            "_id": "fe4dd5cdbf584e5480978b757a9d5356",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Người bình thường",
+                            "explain": "average person",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi bán xe hơi cho nhà phân phối, không bán cho công chúng.",
+                                    "p_vn": "Chung toi ban xe hoi cho nha phan phoi, khong ban cho cong chung.",
+                                    "_id": "b2b2e186e0fc4059b7cc849a9fa689f4",
+                                    "id": 73660,
+                                    "type": "e_cnvi",
+                                    "e": "我们向经销商出售汽车, 不卖给一般人.",
+                                    "p_cn": "women xiang jingxiaoshang chushou qiche bu mai gei yibanren",
+                                    "p": "wǒmen xiàng jīngxiāoshāng chūshòu qìchē bù mài gěi yībānrén"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 17,
+                "search": 367
+            },
+            "snym": null,
+            "cn_vi": "nhất ban nhân",
+            "pinyin": "yībānrén",
+            "word": "一般人",
+            "id": 113549,
+            "phonetic": "yibanren",
+            "rank": 19470,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ab3512048e324c64b4b0f77f0cdb079b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Vẻ sặc sỡ, loang lổ của lông thú.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Trong xã hội hiện nay, tuyệt vời hay rất tốt cũng chỉ là bình thường. Cái tiêu chuẩn của tôi chính là siêu việt,  không thể tưởng tượng nổi.",
+                                    "p_vn": "Trong xa hoi hien nay, tuyet voi hay rat tot cung chi la binh thuong. Cai tieu chuan cua toi chinh la sieu viet,  khong the tuong tuong noi.",
+                                    "_id": "742b8ea39bdd47d3a9696b920331dea1",
+                                    "id": 55630,
+                                    "type": "e_cnvi",
+                                    "e": "在当今社会上，卓越、非常好只是一般般，我的标准是不可思议、超越非凡。",
+                                    "p_cn": "Zai dangjin shehui shang, zhuoyue, feichang hao zhishi yiban ban, wo de biaozhun shi bukesiyi, chaoyue feifan.",
+                                    "p": "Zài dāngjīn shèhuì shàng, zhuóyuè, fēicháng hǎo zhǐshì yībān bān, wǒ de biāozhǔn shì bùkěsīyì, chāoyuè fēifán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 43
+            },
+            "snym": null,
+            "cn_vi": "ban ban",
+            "pinyin": "bān bān",
+            "word": "般般",
+            "id": 169911,
+            "phonetic": "banban",
+            "rank": 61480,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄢ",
+            "_id": "5afbec38d9dde4212963e7a64fe3cf94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trí tuệ",
+                            "explain": "智慧（佛经用语）",
+                            "examples": [
+                                {
+                                    "m": "Ánh sáng trí tuệ chiếu sáng tâm hồn.",
+                                    "p_vn": "anh sang tri tue chieu sang tam hon.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a19b10",
+                                    "id": 123095,
+                                    "type": "e_cnvi",
+                                    "e": "般若之光照亮心灵。",
+                                    "p_cn": "bore zhi guang zhao liang xinling.",
+                                    "p": "bōrě zhī guāng zhào liàng xīnlíng."
+                                },
+                                {
+                                    "m": "Phật tử theo đuổi trí tuệ.",
+                                    "p_vn": "phat tu theo duoi tri tue.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a1a865",
+                                    "id": 123096,
+                                    "type": "e_cnvi",
+                                    "e": "佛教徒追求般若。",
+                                    "p_cn": "fojiao tu zhuiqiu bore.",
+                                    "p": "fójiào tú zhuīqiú bōrě."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 178,
+                "search": 7966
+            },
+            "snym": null,
+            "cn_vi": "ban.bàn.bát",
+            "pinyin": "bō",
+            "word": "般",
+            "id": 1329,
+            "phonetic": "bo",
+            "rank": 1365,
+            "lv_tocfl": 4,
+            "compound": "般若"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄨˊㄦˋ",
+            "_id": "339314a5f5a941b683d3d3698bf5a356",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "giống y hệt; giống như lột; không có gì khác biệt",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Lão nhân gia ông ấy thể thể khỏe mạnh, ăn ngon tửu lượng vẫn như trước.",
+                                    "p_vn": "Lao nhan gia ong ay the the khoe manh, an ngon tuu luong van nhu truoc.",
+                                    "_id": "a582161eeb984a738350b52cde083309",
+                                    "id": 68628,
+                                    "type": "e_cnvi",
+                                    "e": "他老人家身子健旺,胃口极好,酒量跟先前亦是一般无二。",
+                                    "p_cn": "Ta laorenjia shen zi jianwang, weikou ji hao, jiuliang gen xianqian yi shi yiban wu er.",
+                                    "p": "Tā lǎorénjiā shēn zǐ jiànwàng, wèikǒu jí hǎo, jiǔliàng gēn xiānqián yì shì yībān wú èr."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 42
+            },
+            "snym": {
+                "syno": [
+                    "一模一样",
+                    "毫无二致"
+                ],
+                "anto": [
+                    "天壤之别"
+                ]
+            },
+            "cn_vi": "nhất ban vô nhị",
+            "pinyin": "yībān wú èr",
+            "word": "一般无二",
+            "id": 154382,
+            "phonetic": "yibanwuer",
+            "rank": 62079,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄐㄧㄢˋㄕ˙",
+            "_id": "b1a93b9dcea8fc5f2b4a7542242eabe6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "không chấp nhặt; không tranh chấp với người kém hiểu biết",
+                            "explain": "不跟知识、修养较差的人争执，叫做不跟他一般见识",
+                            "examples": [
+                                {
+                                    "m": "không nên chấp nhặt với nó.",
+                                    "p_vn": "khong nen chap nhat voi no",
+                                    "_id": "7668dc3b7bad13b3419cd68af6f2be8a",
+                                    "id": 44679,
+                                    "type": "e_cnvi",
+                                    "e": "不要跟他一般见识",
+                                    "p_cn": "buyao gen ta yibanjianshi",
+                                    "p": "bùyào gēn tā yībānjiànshì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 35,
+                "search": 281
+            },
+            "snym": {
+                "syno": [
+                    "见多识广",
+                    "远见卓识"
+                ]
+            },
+            "cn_vi": "nhất ban kiến thức",
+            "pinyin": "yībānjiànshì",
+            "word": "一般见识",
+            "id": 59071,
+            "phonetic": "yibanjianshi",
+            "rank": 23112,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄜˇㄅㄨˋㄧㄅㄢ",
+            "_id": "880352546ace411cb6779aede5d4464a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Không bình thường",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Đây là đồng nghiệp mới tới, nhưng mà đối với thiên nhất thì không bình thường lắm đâu nha.",
+                                    "p_vn": "Day la dong nghiep moi toi, nhung ma doi voi thien nhat thi khong binh thuong lam dau nha.",
+                                    "_id": "0e2edcc403c448719a74a6e46376f68f",
+                                    "id": 67970,
+                                    "type": "e_cnvi",
+                                    "e": "这是我们新来的同事，不过对我们天一那可不一般哦",
+                                    "p_cn": "Zhe shi women xin lai de tongshi, buguo dui women tian yi na kebu yiban o",
+                                    "p": "Zhè shì wǒmen xīn lái de tóngshì, bùguò duì wǒmen tiān yī nà kěbù yībān ó"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "khả bất nhất ban",
+            "pinyin": "kěbù yībān",
+            "word": "可不一般",
+            "id": 153062,
+            "phonetic": "kebuyiban",
+            "rank": 99729,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "56fbf994867547418723187d9b115046",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sấn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nhất ban kình địa",
+            "pinyin": "yībān jìn de",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "一般劲地",
+            "id": 177992,
+            "phonetic": "yibanjinde",
+            "rank": 158107,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄢ",
+            "_id": "9ecd34246a5ea5bb5bb28bae2e43d4d9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "vui vẻ; vui sướng",
+                            "explain": "欢乐",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy cười vui vẻ đón năm mới.",
+                                    "p_vn": "co ay cuoi vui ve don nam moi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf49d6f12",
+                                    "id": 123045,
+                                    "type": "e_cnvi",
+                                    "e": "她般欢笑着迎接新年。",
+                                    "p_cn": "ta pan huanxiaozhe yingjie xinnian.",
+                                    "p": "tā pán huānxiàozhe yíngjiē xīnnián."
+                                },
+                                {
+                                    "m": "Chúng tôi vui vẻ chia sẻ câu chuyện.",
+                                    "p_vn": "chung toi vui ve chia se cau chuyen.",
+                                    "_id": "71a8f4da663cb843c22cd96cf49d7851",
+                                    "id": 123046,
+                                    "type": "e_cnvi",
+                                    "e": "我们般愉快地分享故事。",
+                                    "p_cn": "women pan yukuai di fenxiang gushi.",
+                                    "p": "wǒmen pán yúkuài dì fēnxiǎng gùshì."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tàu lớn",
+                            "explain": "大船",
+                            "examples": [
+                                {
+                                    "m": "Tàu lớn được chất đầy hàng hóa.",
+                                    "p_vn": "tau lon duoc chat day hang hoa.",
+                                    "_id": "71a8f4da663cb843c22cd96cf49d4570",
+                                    "id": 123039,
+                                    "type": "e_cnvi",
+                                    "e": "大般装满了货物。",
+                                    "p_cn": "da pan zhuang manle huowu.",
+                                    "p": "dà pán zhuāng mǎnle huòwù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 178,
+                "search": 7966
+            },
+            "snym": null,
+            "cn_vi": "ban.bàn.bát",
+            "pinyin": "pán",
+            "word": "般",
+            "id": 1330,
+            "phonetic": "pan",
+            "rank": 1366,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "162d12e1d16b4e5fa46a9d1c88b6418a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thường phạm",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nhất ban tội phạm",
+            "pinyin": "yībān zuìfàn",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "一般罪犯",
+            "id": 173783,
+            "phonetic": "yibanzuifan",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄩㄢˊㄗㄜˊ",
+            "_id": "ab02a95c09c648f4979a6f2e8b7bcdd8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nguyên tắc chung",
+                            "explain": "general principle",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "nhất ban nguyên tắc",
+            "pinyin": "yībān yuánzé",
+            "word": "一般原则",
+            "id": 131167,
+            "phonetic": "yibanyuanze",
+            "rank": 76033,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄧㄅㄢㄐㄩㄣㄏㄥˊ",
+            "_id": "2d663a0025c142979a1b22b3f60a6e7f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Cân Bằng Tổng Quát; Cân Bằng Toàn Diện (Equilibrium，general)",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "nhất ban quân hành",
+            "pinyin": "Yībān jūnhéng",
+            "word": "一般均衡",
+            "id": 157270,
+            "phonetic": "Yibanjunheng",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄇㄠˋㄧˋ",
+            "_id": "0daf204c794744349636ce961937dbda",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thương mại tổng hợp (tức là xuất nhập khẩu không qua chế biến)",
+                            "explain": "general trade (i.e. importing and export without processing)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 69
+            },
+            "snym": null,
+            "cn_vi": "nhất ban mậu dị",
+            "pinyin": "yībān màoyì",
+            "word": "一般贸易",
+            "id": 129531,
+            "phonetic": "yibanmaoyi",
+            "rank": 49906,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v",
+                "measure",
+                "part"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄢ",
+            "_id": "a149a62e44f7f55afa8ad96a1c63fcb3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "biểu thị dáng vẻ; cách thức hoặc phương pháp khác nhau",
+                            "examples": [
+                                123175,
+                                123176
+                            ],
+                            "struct": "这/那/百 + 般 + Danh từ"
+                        }
+                    ],
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "loại; kiểu; cách",
+                            "explain": "种;样",
+                            "examples": [
+                                {
+                                    "m": "Loại quần áo này rất thịnh hành.",
+                                    "p_vn": "loai quan ao nay rat thinh hanh.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a0df8e",
+                                    "id": 123074,
+                                    "type": "e_cnvi",
+                                    "e": "这般衣服很流行。",
+                                    "p_cn": "zhe ban yifu hen liuxing.",
+                                    "p": "zhè bān yīfu hěn liúxíng."
+                                },
+                                {
+                                    "m": "Phong cách như thế này rất độc đáo.",
+                                    "p_vn": "phong cach nhu the nay rat doc dao.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a0e264",
+                                    "id": 123075,
+                                    "type": "e_cnvi",
+                                    "e": "这般风格很独特。",
+                                    "p_cn": "zhe ban fengge hen dute.",
+                                    "p": "zhè bān fēnggé hěn dútè."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vận chuyển; di chuyển; chuyển",
+                            "explain": "通“搬”。搬运",
+                            "examples": [
+                                {
+                                    "m": "Di chuyển chậu hoa trên đất.",
+                                    "p_vn": "di chuyen chau hoa tren dat.",
+                                    "_id": "71a8f4da663cb843c22cd96cf49f646b",
+                                    "id": 123066,
+                                    "type": "e_cnvi",
+                                    "e": "般起地上的花盆 。",
+                                    "p_cn": "ban qi dishang de hua pen.",
+                                    "p": "bān qǐ dìshàng de huā pén."
+                                },
+                                {
+                                    "m": "Công nhân chuyển hàng hóa vào kho.",
+                                    "p_vn": "cong nhan chuyen hang hoa vao kho.",
+                                    "_id": "71a8f4da663cb843c22cd96cf49f68c5",
+                                    "id": 123067,
+                                    "type": "e_cnvi",
+                                    "e": "工人们般货物到仓库。",
+                                    "p_cn": "gongrenmen ban huowu dao cangku.",
+                                    "p": "gōngrénmen bān huòwù dào cāngkù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ban hành",
+                            "explain": "通“班”。布，颁布",
+                            "examples": [
+                                {
+                                    "m": "Hiệu trưởng ban hành quy định mới.",
+                                    "p_vn": "hieu truong ban hanh quy dinh moi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a11c4f",
+                                    "id": 123081,
+                                    "type": "e_cnvi",
+                                    "e": "校长般布新的校规。",
+                                    "p_cn": "xiaozhang ban bu xin de xiaogui.",
+                                    "p": "xiàozhǎng bān bù xīn de xiàoguī."
+                                },
+                                {
+                                    "m": "Chính phủ ban hành thông báo chính sách mới.",
+                                    "p_vn": "chinh phu ban hanh thong bao chinh sach moi.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a12a4a",
+                                    "id": 123082,
+                                    "type": "e_cnvi",
+                                    "e": "政府般布新政策公告。",
+                                    "p_cn": "zhengfu ban bu xin zhengce gonggao.",
+                                    "p": "zhèngfǔ bān bù xīn zhèngcè gōnggào."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "về; trở lại",
+                            "explain": "还，回。",
+                            "examples": [
+                                {
+                                    "m": "Chị tôi quay lại trường chuẩn bị thi cử.",
+                                    "p_vn": "chi toi quay lai truong chuan bi thi cu.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a14905",
+                                    "id": 123086,
+                                    "type": "e_cnvi",
+                                    "e": "姐姐般校准备考试。",
+                                    "p_cn": "jiejie ban jiao zhunbei kaoshi.",
+                                    "p": "jiějie bān jiào zhǔnbèi kǎoshì."
+                                },
+                                {
+                                    "m": "Bạn quay lại trường học tiếp tục học tập.",
+                                    "p_vn": "ban quay lai truong hoc tiep tuc hoc tap.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a14fee",
+                                    "id": 123087,
+                                    "type": "e_cnvi",
+                                    "e": "你般校继续去学习。",
+                                    "p_cn": "ni ban xiao jixu qu xuexi.",
+                                    "p": "nǐ bān xiào jìxù qù xuéxí."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "giống như; tựa như",
+                            "examples": [
+                                123170,
+                                123171
+                            ],
+                            "struct": "... ... 般的 + Danh từ"
+                        },
+                        {
+                            "explain": "biểu thị sự so sánh hoặc tương tự",
+                            "examples": [
+                                123173,
+                                123174
+                            ],
+                            "struct": "Danh từ + 般 + Thành phần khác"
+                        }
+                    ],
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "như; giống",
+                            "explain": "似的。",
+                            "examples": [
+                                {
+                                    "m": "Bọn trẻ chạy nhanh như gió.",
+                                    "p_vn": "bon tre chay nhanh nhu gio.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a15d71",
+                                    "id": 123088,
+                                    "type": "e_cnvi",
+                                    "e": "孩子们跑得风般快。",
+                                    "p_cn": "haizimen pao de feng ban kuai.",
+                                    "p": "háizimen pǎo dé fēng bān kuài."
+                                },
+                                {
+                                    "m": "Anh ấy chạy nhanh như tên bắn.",
+                                    "p_vn": "anh ay chay nhanh nhu ten ban.",
+                                    "_id": "71a8f4da663cb843c22cd96cf4a16c7d",
+                                    "id": 123089,
+                                    "type": "e_cnvi",
+                                    "e": "他跑得像箭般迅速。",
+                                    "p_cn": "ta pao de xiang jian ban xunsu.",
+                                    "p": "tā pǎo dé xiàng jiàn bān xùnsù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 178,
+                "search": 7966
+            },
+            "snym": null,
+            "cn_vi": "ban.bàn.bát",
+            "pinyin": "bān",
+            "word": "般",
+            "id": 1328,
+            "phonetic": "ban",
+            "rank": 1364,
+            "lv_tocfl": 4,
+            "compound": "般般件件 ; 般配"
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄦˊㄧㄢˊ",
+            "_id": "03bd1a99d29de085865a20765b72dc55",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "nói chung",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 27,
+                "search": 105
+            },
+            "snym": null,
+            "cn_vi": "nhất ban nhi ngôn",
+            "pinyin": "yībān ér yán",
+            "word": "一般而言",
+            "id": 82865,
+            "phonetic": "yibaneryan",
+            "rank": 40562,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄌㄞˊㄕㄨㄛ",
+            "_id": "0ec5881499aea019992431e98f98320d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Thông thường mà nói, nói chung",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 138,
+                "search": 1231
+            },
+            "snym": null,
+            "lv_hsk_new": "4",
+            "pinyin": "yībān lái shuō",
+            "cn_vi": "nhất ban lai thuyết",
+            "word": "一般来说",
+            "id": 82909,
+            "phonetic": "yibanlaishuo",
+            "rank": 8327,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄕㄨㄛㄌㄞˊ",
+            "_id": "bb7cabbd82c541469ee673a6ccc94f5c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "nói chung",
+                            "explain": "generally speaking; in general",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 140
+            },
+            "snym": null,
+            "cn_vi": "nhất ban thuyết lai",
+            "pinyin": "yībān shuō lái",
+            "word": "一般说来",
+            "id": 133519,
+            "phonetic": "yibanshuolai",
+            "rank": 34812,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄐㄧㄢˇㄕㄨㄟˋ",
+            "_id": "74618081e6954f80b29bb4e088896f48",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Giảm thuế nói chung",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "nhất ban giảm thuế",
+            "pinyin": "yībān jiǎn shuì",
+            "word": "一般减税",
+            "id": 67979,
+            "phonetic": "yibanjianshui",
+            "rank": 105813,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d26541f152614e75894ffc09eaa45e2e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thường luật",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nhất ban pháp lệnh",
+            "pinyin": "yībān fǎlìng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "一般法令",
+            "id": 182286,
+            "phonetic": "yibanfaling",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b02832fc7603497abbab69703f93de5f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đáp ứng thường xuyên giống nhau",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "ứng cần nhất ban",
+            "pinyin": "yīng qín yībān",
+            "word": "应勤一般",
+            "id": 159674,
+            "phonetic": "yingqinyiban",
+            "rank": 134769,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄍㄨㄟㄉㄧㄥˋ",
+            "_id": "b20f1721f2b04d11808d53ec6d08c82d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "điều khoản thông thường (luật)",
+                            "explain": "ordinary provision (law)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "nhất ban quy định",
+            "pinyin": "yībān guīdìng",
+            "word": "一般规定",
+            "id": 133518,
+            "phonetic": "yibanguiding",
+            "rank": 106754,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄌㄞˊㄐㄧㄤˇ",
+            "_id": "a164ed2873f5412eb3b681f0c6a8a680",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "nói chung",
+                            "explain": "generally speaking",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "nhất ban lai giảng",
+            "pinyin": "yībān lái jiǎng",
+            "word": "一般来讲",
+            "id": 136150,
+            "phonetic": "yibanlaijiang",
+            "rank": 65043,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄟㄊㄨㄥˊㄧㄅㄢ",
+            "_id": "cb9b4dbc19b94d9fae4e5dcbf0bd0858",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "đặc biệt，không tầm thường",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mối quan hệ giữa hai nhà chúng ta, rất đặc biệt",
+                                    "p_vn": "Moi quan he giua hai nha chung ta, rat dac biet",
+                                    "_id": "7913d2d8e27844f38b61e425d48e42b0",
+                                    "id": 68708,
+                                    "type": "e_cnvi",
+                                    "e": "我们两家的关系，可非同一般啊",
+                                    "p_cn": "Women liang jia de guanxi, ke fei tong yiban a",
+                                    "p": "Wǒmen liǎng jiā de guānxì, kě fēi tóng yībān a"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 35,
+                "search": 125
+            },
+            "snym": null,
+            "cn_vi": "phi đồng nhất ban",
+            "pinyin": "fēi tóng yībān",
+            "word": "非同一般",
+            "id": 154490,
+            "phonetic": "feitongyiban",
+            "rank": 37037,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄢㄅㄢㄐㄧㄢˋㄐㄧㄢˋ",
+            "_id": "934efd8db34981d11a90782beb2bc774",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "đủ loại; khác nhau; đa hình đa dạng",
+                            "explain": "各式各样",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "ban ban kiện kiện",
+            "pinyin": "bān bān jiàn jiàn",
+            "word": "般般件件",
+            "id": 1331,
+            "phonetic": "banbanjianjian",
+            "rank": 69661,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄅㄢㄈㄟˋㄑㄧˋㄨˋ",
+            "_id": "b6b10a9a5c7d47b7bb337006d91a4150",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chất thải thông thường",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "nhất ban phế khí vật",
+            "pinyin": "Yībān fèiqì wù",
+            "word": "一般废弃物",
+            "id": 155628,
+            "phonetic": "Yibanfeiqiwu",
+            "rank": 129009,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄜˋㄅㄢ",
+            "_id": "7031b4b717f1490f836a229948b45f64",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "như thế này",
+                            "explain": "like this",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cách này",
+                            "explain": "this way",
+                            "examples": [
+                                {
+                                    "m": "Nhưng bạn đã không đến tất cả những cách này chỉ để nói điều đó.",
+                                    "p_vn": "Nhung ban da khong den tat ca nhung cach nay chi de noi dieu do.",
+                                    "_id": "c7119722326348d1b177f894262b4f7a",
+                                    "id": 64817,
+                                    "type": "e_cnvi",
+                                    "e": "这般大费周折你不单单是告诉我这个吧",
+                                    "p_cn": "zheban da feizhouzhe ni budandanshi gaosu wo zhege ba",
+                                    "p": "zhèbān dà fèizhōuzhé nǐ bùdāndānshì gàosù wǒ zhègè ba"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 165
+            },
+            "snym": {
+                "syno": [
+                    "如此",
+                    "如许",
+                    "而已",
+                    "这样"
+                ]
+            },
+            "cn_vi": "giá ban",
+            "pinyin": "zhè bān",
+            "word": "这般",
+            "id": 100149,
+            "phonetic": "zheban",
+            "rank": 31636,
+            "kind": [
+                "v",
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄢㄆㄟˋ",
+            "_id": "d9284448e3e86622f80c5ea813ee9410",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "xứng; hợp; tiện; môn đăng hộ đối; xứng đôi, đẹp đôi (ăn vận thích hợp với thân phận, địa vị, nơi ở); vừa đôi; lứa đôi; vừa lứa",
+                            "explain": "指结亲的双方相称, 也指人的身分跟衣着、住所等相称",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 143,
+                "search": 1168
+            },
+            "snym": {
+                "syno": [
+                    "匹配",
+                    "许配",
+                    "适配"
+                ],
+                "anto": [
+                    "不符"
+                ]
+            },
+            "cn_vi": "ban phối",
+            "pinyin": "bānpèi",
+            "word": "般配",
+            "id": 1332,
+            "phonetic": "banpei",
+            "rank": 8679,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˋㄅㄢ",
+            "_id": "cb1cb318fb9a4240ac901ce863a71aeb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(cũ) theo cách này",
+                            "explain": "(old) this way",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhiều thế này",
+                            "explain": "this much",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "nhẫm ban",
+            "pinyin": "nèn bān",
+            "word": "恁般",
+            "id": 96638,
+            "phonetic": "nenban",
+            "rank": 134016,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄅㄢ",
+            "_id": "f6200c7f42464835b8da6c0c53a3b09b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhiều loại khác nhau",
+                            "explain": "many different kinds of",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đa dạng",
+                            "explain": "various",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 19
+            },
+            "snym": {
+                "syno": [
+                    "各种",
+                    "多种"
+                ]
+            },
+            "cn_vi": "chư ban",
+            "pinyin": "zhū bān",
+            "word": "诸般",
+            "id": 99865,
+            "phonetic": "zhuban",
+            "rank": 84587,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄢㄧㄡˊ",
+            "_id": "72e80e2d62cd42f992363cb2dceb1ab0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để giải trí cho bản thân",
+                            "explain": "to amuse oneself",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "bàn du",
+            "pinyin": "bān yóu",
+            "word": "般游",
+            "id": 99467,
+            "phonetic": "banyou",
+            "rank": 97777,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄩㄢˊㄅㄢ",
+            "_id": "b0962394a8b58bbcca09a2bac779657e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "toàn bộ; toàn diện",
+                            "explain": "整个;全面",
+                            "examples": [
+                                {
+                                    "m": "toàn bộ công việc.",
+                                    "p_vn": "toan bo cong viec",
+                                    "_id": "6aa77e57773156c8e2c6efa31677a4c4",
+                                    "id": 33159,
+                                    "type": "e_cnvi",
+                                    "e": "全般工作。",
+                                    "p_cn": "quanban gongzuo",
+                                    "p": "quánbān gōngzuò。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "toàn ban",
+            "pinyin": "quánbān",
+            "word": "全般",
+            "id": 43749,
+            "phonetic": "quanban",
+            "rank": 65029,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨㄢˋㄅㄢ",
+            "_id": "8c79432deb4e2de6e6755cbd2cce20d6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tất cả; mọi loại; hết thảy",
+                            "explain": "各种各样",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cực kì; hết sức; rất",
+                            "explain": "极其;非常",
+                            "examples": [
+                                {
+                                    "m": "cực kì lúng túng; không có cách nào cả.",
+                                    "p_vn": "cuc ki lung tung; khong co cach nao ca",
+                                    "_id": "685c0019152cd2248c254de3316d9cbb",
+                                    "id": 40244,
+                                    "type": "e_cnvi",
+                                    "e": "万般无奈。",
+                                    "p_cn": "wanban wunai",
+                                    "p": "wànbānwúnài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 351
+            },
+            "snym": {
+                "syno": [
+                    "百般",
+                    "千般"
+                ]
+            },
+            "cn_vi": "vạn ban",
+            "pinyin": "wànbān",
+            "word": "万般",
+            "id": 52594,
+            "phonetic": "wanban",
+            "rank": 20006,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˇㄅㄢ",
+            "_id": "9b148a13ddf9c47f2e0140f227a84e04",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "mọi cách; bằng mọi cách; bằng mọi giá; đủ kiểu; đủ điều",
+                            "explain": "形容采用多种方法",
+                            "examples": [
+                                {
+                                    "m": "ngăn trở bằng mọi cách",
+                                    "p_vn": "ngan tro bang moi cach",
+                                    "_id": "7fc046bccd3679236f4b3899e884d91c",
+                                    "id": 595,
+                                    "type": "e_cnvi",
+                                    "e": "百般阻挠",
+                                    "p_cn": "baiban zunao",
+                                    "p": "bǎibānzǔnáo"
+                                },
+                                {
+                                    "m": "khuyên giải đủ điều",
+                                    "p_vn": "khuyen giai du dieu",
+                                    "_id": "b8d6ee5056a8bef73c115af4bc06bcc5",
+                                    "id": 596,
+                                    "type": "e_cnvi",
+                                    "e": "百般劝解",
+                                    "p_cn": "baiban quanjie",
+                                    "p": "bǎibān quànjiě"
+                                },
+                                {
+                                    "m": "nịnh hót đủ kiểu",
+                                    "p_vn": "ninh hot du kieu",
+                                    "_id": "6e9ffb30d476547a6f5e1e32d4d46a41",
+                                    "id": 597,
+                                    "type": "e_cnvi",
+                                    "e": "百般讨好",
+                                    "p_cn": "baiban taohao",
+                                    "p": "bǎibān tǎohǎo"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đủ kiểu; đủ loại; trăm chiều",
+                            "explain": "各种各样",
+                            "examples": [
+                                {
+                                    "m": "đủ mọi sắc hoa",
+                                    "p_vn": "du moi sac hoa",
+                                    "_id": "7aa17ecf94031cefef9b05790121982b",
+                                    "id": 598,
+                                    "type": "e_cnvi",
+                                    "e": "百般花色",
+                                    "p_cn": "baiban huase",
+                                    "p": "bǎibān huāsè"
+                                },
+                                {
+                                    "m": "khổ cực trăm chiều",
+                                    "p_vn": "kho cuc tram chieu",
+                                    "_id": "55edbb8ad8600455effead5deddb7e14",
+                                    "id": 599,
+                                    "type": "e_cnvi",
+                                    "e": "百般痛苦",
+                                    "p_cn": "baiban tongku",
+                                    "p": "bǎibān tòngkǔ"
+                                },
+                                {
+                                    "m": "đòi hỏi khắt khe",
+                                    "p_vn": "doi hoi khat khe",
+                                    "_id": "8ec9949922a3a9fdda845548c607af18",
+                                    "id": 600,
+                                    "type": "e_cnvi",
+                                    "e": "百般苛求",
+                                    "p_cn": "baiban keqiu",
+                                    "p": "bǎibān kēqíu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 72,
+                "search": 446
+            },
+            "snym": {
+                "syno": [
+                    "各种",
+                    "万般",
+                    "各类",
+                    "各样",
+                    "千般",
+                    "多样",
+                    "苦苦"
+                ]
+            },
+            "cn_vi": "bá ban",
+            "pinyin": "bǎibān",
+            "word": "百般",
+            "id": 1039,
+            "phonetic": "baiban",
+            "rank": 17158,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄢㄌㄜˋ",
+            "_id": "cd78329a2eb54e7f83e5879f0ca93c9f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để giải trí cho bản thân",
+                            "explain": "to amuse oneself",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chơi",
+                            "explain": "to play",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "ban lạc",
+            "pinyin": "bān lè",
+            "word": "般乐",
+            "id": 93242,
+            "phonetic": "banle",
+            "rank": 84335,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f6edc2041b354aecb2f1f2a0c9d476dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "quanh co không tiến lên được",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "bàn hoàn",
+            "pinyin": "bān huán",
+            "word": "般桓",
+            "id": 169910,
+            "phonetic": "banhuan",
+            "rank": 138609,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄢㄖㄨㄛˋ",
+            "_id": "d20079b1a824a6938abadf9f2d5d1761",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bát nhã; trí huệ (từ trong kinh Phật) ̣",
+                            "explain": "智慧（佛经用语）[梵prajñā]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 175
+            },
+            "snym": {
+                "syno": [
+                    "睿智",
+                    "智慧",
+                    "延伸"
+                ]
+            },
+            "cn_vi": "bát nhã",
+            "pinyin": "bōrě",
+            "word": "般若",
+            "id": 1333,
+            "phonetic": "bore",
+            "rank": 30574,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "zhuyin": "ㄧㄅㄢㄐㄩㄣㄏㄥˊㄈㄣㄒㄧ",
+            "_id": "39c244e60ef24a2b810a5e40bde59c45",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "General equilibrium analysis\nPhân tích cân bằng cục bộ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "nhất ban quân hành phân tích",
+            "pinyin": "Yībān jūnhéng fēnxī",
+            "word": "一般均衡分析",
+            "id": 157082,
+            "phonetic": "Yibanjunhengfenxi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "cf60ec769a304e8f8481b825da43b48c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lệnh nạp tiền thông thường",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "nhất ban sung trị đính đơn",
+            "pinyin": "yībān chōngzhí dìngdān",
+            "word": "一般充值订单",
+            "id": 160007,
+            "phonetic": "yibanchongzhidingdan",
+            "rank": 106677,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄧㄢㄒㄧㄚˋㄨㄧㄚㄧㄅㄢㄏㄟ",
+            "_id": "21b685cd0a77428a89a36d4a555e582b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "proverb",
+                    "means": [
+                        {
+                            "mean": "tất cả quạ đều đen (thành ngữ)",
+                            "explain": "all crows are black (idiom)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "những người xấu xa trên toàn thế giới",
+                            "explain": "evil people are bad all over the world",
+                            "examples": []
+                        },
+                        {
+                            "mean": "quạ nào là quạ chẳng đen",
+                            "explain": "老鸹, 乌鸦全句比喻同类的人或事物都有相同的特性多用于贬意",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 77
+            },
+            "snym": null,
+            "cn_vi": "thiên hạ ô nha nhất ban hắc",
+            "pinyin": "tiānxià wūyā yībān hēi",
+            "word": "天下乌鸦一般黑",
+            "id": 145903,
+            "phonetic": "tianxiawuyayibanhei",
+            "rank": 47333,
+            "kind": [
+                "proverb"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢˋㄑㄩㄢㄅㄢ",
+            "_id": "71fac73f11754bcb9a42ab0c0012e7f3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "xôn xao",
+                            "explain": "coil",
+                            "examples": []
+                        },
+                        {
+                            "mean": "điện từ (kỹ thuật điện)",
+                            "explain": "solenoid (electrical engineering)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "tuyến khuyên ban",
+            "pinyin": "xiànquān bān",
+            "word": "线圈般",
+            "id": 125833,
+            "phonetic": "xianquanban",
+            "rank": 120930,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄧㄢㄒㄧㄚˋㄌㄠˇㄧㄚㄧㄅㄢㄏㄟ",
+            "_id": "61c6701c1bf525f9df1aadb986963aaa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "quạ nào mà quạ chẳng đen",
+                            "explain": "老鸹，乌鸦全句比喻同类的人或事物都有相同的特性多用于贬意",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "thiên hạ lão nha nhất ban hắc",
+            "pinyin": "tiānxià lǎoyā yībān hēi",
+            "word": "天下老鸦一般黑",
+            "id": 50667,
+            "phonetic": "tianxialaoyayibanhei",
+            "rank": 144648,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "38, 72",
+            "zhuyin": "ㄕˇㄕㄅㄢ",
+            "_id": "286ac733d75245e88727717b263d34ae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sử thi",
+                            "explain": "epic",
+                            "examples": [
+                                {
+                                    "m": "Nhìn ai mà không thể cưỡng lại một câu chuyện tình lãng mạn hoành tráng.",
+                                    "p_vn": "Nhin ai ma khong the cuong lai mot cau chuyen tinh lang man hoanh trang.",
+                                    "_id": "8a023548281d4e0483bf1af4667239cd",
+                                    "id": 60605,
+                                    "type": "e_cnvi",
+                                    "e": "瞧瞧有人就是不能抵挡史诗般的浪漫",
+                                    "p_cn": "qiaoqiao youren jiushi buneng didang shishi bande langman",
+                                    "p": "qiáoqiáo yǒurén jìushì bùnéng dǐdǎng shǐshī bānde làngmàn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "sử thi ban",
+            "pinyin": "shǐshī bān",
+            "word": "史诗般",
+            "id": 117426,
+            "phonetic": "shishiban",
+            "rank": 126083,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄧ",
+            "_id": "2d4276a2ad6adaf3a8cc6980404b20b5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                143394,
+                                143395
+                            ],
+                            "struct": "Chủ  ngữ  +  一一  +  Động  từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "từng cái; từng việc; tất cả; hết cả",
+                            "explain": "一个一个地",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đã trả lời từng câu hỏi của tôi.",
+                                    "p_vn": "anh ay da tra loi tung cau hoi cua toi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571f5bad3",
+                                    "id": 131946,
+                                    "type": "e_cnvi",
+                                    "e": "他一一回答了我的问题。",
+                                    "p_cn": "ta yiyi huidale wo de wenti.",
+                                    "p": "tā yīyī huídále wǒ de wèntí."
+                                },
+                                {
+                                    "m": "Anh ấy đã kiểm tra từng chi tiết một.",
+                                    "p_vn": "anh ay da kiem tra tung chi tiet mot.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571f5c009",
+                                    "id": 131947,
+                                    "type": "e_cnvi",
+                                    "e": "他一一检查了每一个细节。",
+                                    "p_cn": "ta yiyi jianchale mei yige xijie.",
+                                    "p": "tā yīyī jiǎnchále měi yīgè xìjié."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 38,
+                "search": 1003
+            },
+            "snym": {
+                "syno": [
+                    "逐一"
+                ],
+                "anto": [
+                    "不一"
+                ]
+            },
+            "lv_hsk_new": "7-9",
+            "pinyin": "yīyī",
+            "cn_vi": "nhất nhất",
+            "word": "一一",
+            "id": 59345,
+            "phonetic": "yiyi",
+            "rank": 9803,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "relative clause"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄧ",
+            "_id": "8546524824ec5654f0678faa4319ebef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "relative clause",
+                    "means": [
+                        {
+                            "mean": "Dùng trước hai danh từ cùng loại",
+                            "explain": "分别用在两个同类的名词前面",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Biểu thị toàn bộ",
+                            "explain": "表示整个",
+                            "examples": [
+                                {
+                                    "m": "toàn tâm toàn ý",
+                                    "p_vn": "toan tam toan y",
+                                    "_id": "09c773c0a0660e3b72b827fc23d830c6",
+                                    "id": 44647,
+                                    "type": "e_cnvi",
+                                    "e": "一心一意。",
+                                    "p_cn": "yixinyiyi",
+                                    "p": "yīxīnyīyì。"
+                                },
+                                {
+                                    "m": "suốt đời",
+                                    "p_vn": "suot doi",
+                                    "_id": "5eb2b4312b022b698f8ad66e7072a687",
+                                    "id": 44648,
+                                    "type": "e_cnvi",
+                                    "e": "一生一世(人的一生)。",
+                                    "p_cn": "yisheng yishi (ren de yisheng)",
+                                    "p": "yīshēngyīshì ( rén de yīshēng )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Biểu thị số lượng cực nhỏ",
+                            "explain": "表示数量极少",
+                            "examples": [
+                                {
+                                    "m": "một cây kim một sợi chỉ",
+                                    "p_vn": "mot cay kim mot soi chi",
+                                    "_id": "86af16e4ae01bf3235dc85ca29e6a800",
+                                    "id": 44649,
+                                    "type": "e_cnvi",
+                                    "e": "一针一线。",
+                                    "p_cn": "yi zhen yixian",
+                                    "p": "yīzhēnyīxiàn。"
+                                },
+                                {
+                                    "m": "một ngọn cỏ, một gốc cây",
+                                    "p_vn": "mot ngon co mot goc cay",
+                                    "_id": "a5d77bfe81a45c5a1d9a1bc6612cdbec",
+                                    "id": 44650,
+                                    "type": "e_cnvi",
+                                    "e": "一草一木。",
+                                    "p_cn": "yi cao yi mu",
+                                    "p": "yīcǎoyīmù。"
+                                },
+                                {
+                                    "m": "một lời nói, một việc làm",
+                                    "p_vn": "mot loi noi mot viec lam",
+                                    "_id": "55f2b240bff52a32cb23f2de6bbec840",
+                                    "id": 44651,
+                                    "type": "e_cnvi",
+                                    "e": "一言一行。",
+                                    "p_cn": "yi yan yixing",
+                                    "p": "yīyányīxíng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước hai danh từ không cùng loại",
+                            "explain": "分别用在不同类的名词前面",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Dùng danh từ đối nhau, biểu thị sự so sánh trước và sau",
+                            "explain": "用相对的名词表明前后事物的对比",
+                            "examples": [
+                                {
+                                    "m": "một cọng cỏ thơm, một cọng cỏ thối (ví với có sự phân biệt xấu tốt)",
+                                    "p_vn": "mot cong co thom, mot cong co thoi (vi voi co su phan biet xau tot)",
+                                    "_id": "13ccbb87fc5a36539e59018bba02adb8",
+                                    "id": 44652,
+                                    "type": "e_cnvi",
+                                    "e": "一薰一莸(比喻好的和坏的有区别)。",
+                                    "p_cn": "yixun yi you ( biyu hao de he huai de you qubie )。",
+                                    "p": "yīxūn yī yóu ( bǐyù hǎo de hé huài de yǒu qūbié )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước các danh từ liên quan với nhau, biểu thị mối quan hệ giữa các sự vật",
+                            "explain": "用相关的名词表示事物的关系",
+                            "examples": [
+                                {
+                                    "m": "một vốn một lãi",
+                                    "p_vn": "mot von mot lai",
+                                    "_id": "ae41051b94f0b0fb7f281020d3f8b02d",
+                                    "id": 44653,
+                                    "type": "e_cnvi",
+                                    "e": "一本一利(指本钱和利息相等)。",
+                                    "p_cn": "yi ben yi li (zhi benqian he lixi xiangdeng)",
+                                    "p": "yīběn yīlì ( zhǐ běnqián hé lìxī xiāngděng )。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước động từ cùng loại biểu thị động tác liên tục",
+                            "explain": "分别用在同类动词的前面，表示动作是连续的",
+                            "examples": [
+                                {
+                                    "m": "tập tà tập tễnh",
+                                    "p_vn": "tap ta tap tenh",
+                                    "_id": "8e17807ddbd4c8d4bfd6dfff766cb790",
+                                    "id": 44654,
+                                    "type": "e_cnvi",
+                                    "e": "一瘸一拐。",
+                                    "p_cn": "yi que yi guai",
+                                    "p": "yīquéyīguǎi。"
+                                },
+                                {
+                                    "m": "lảo đà lảo đảo",
+                                    "p_vn": "lao da lao dao",
+                                    "_id": "78659828ff6ca041a4649d7ea7500f52",
+                                    "id": 44655,
+                                    "type": "e_cnvi",
+                                    "e": "一歪一扭。",
+                                    "p_cn": "yi wai yi niu",
+                                    "p": "yīwāiyī nǐu。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước hai động từ đối nhau, biểu thị sự phối hợp giữa hai mặt hoặc hai động tác kế tiếp nhau",
+                            "explain": "分别用在相对的动词前面，表示两方面的行动协调配合或两种动作交替进行",
+                            "examples": [
+                                {
+                                    "m": "một bên hỏi một bên trả lời",
+                                    "p_vn": "mot ben hoi mot ben tra loi",
+                                    "_id": "a96dab154df42b67be2feee1002d3271",
+                                    "id": 44656,
+                                    "type": "e_cnvi",
+                                    "e": "一问一答。",
+                                    "p_cn": "yi wen yi da",
+                                    "p": "yīwènyīdá。"
+                                },
+                                {
+                                    "m": "bên xướng bên hoạ",
+                                    "p_vn": "ben xuong ben hoa",
+                                    "_id": "92349804d825509e6f9eb95712833140",
+                                    "id": 44657,
+                                    "type": "e_cnvi",
+                                    "e": "一唱一和。",
+                                    "p_cn": "yichangyihe",
+                                    "p": "yīchàngyīhé。"
+                                },
+                                {
+                                    "m": "bên nổi lên bên tụt xuống",
+                                    "p_vn": "ben noi len ben tut xuong",
+                                    "_id": "1df41a6c18f5c0f43a1332fc3d9e70a3",
+                                    "id": 44658,
+                                    "type": "e_cnvi",
+                                    "e": "一起一落。",
+                                    "p_cn": "yiqi yi luo",
+                                    "p": "yīqǐ yīluò。"
+                                },
+                                {
+                                    "m": "bên căng bên chùng",
+                                    "p_vn": "ben cang ben chung",
+                                    "_id": "ad1877dc84d77cbd540bf498a6c8db5c",
+                                    "id": 44659,
+                                    "type": "e_cnvi",
+                                    "e": "一张一弛。",
+                                    "p_cn": "yi zhangyichi",
+                                    "p": "yīzhāngyīchí。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Đặt trước các phương vị từ, tính từ... tương phản, biểu thị phương vị hoặc tình huống ngược nhau.",
+                            "explain": "分别用在相反的方位词、形容词等的前面，表示相反的方位或情况",
+                            "examples": [
+                                {
+                                    "m": "cái trên cái dưới",
+                                    "p_vn": "cai tren cai duoi",
+                                    "_id": "78c023aff71d42d206fdeb48f30dec0c",
+                                    "id": 44660,
+                                    "type": "e_cnvi",
+                                    "e": "一上一下。",
+                                    "p_cn": "yi shang yixia",
+                                    "p": "yī shàng yīxià。"
+                                },
+                                {
+                                    "m": "cái đông cái tây",
+                                    "p_vn": "cai dong cai tay",
+                                    "_id": "f80bf59aea7da85c1ffc39890bea8a5d",
+                                    "id": 44661,
+                                    "type": "e_cnvi",
+                                    "e": "一东一西。",
+                                    "p_cn": "yi dong yi xi",
+                                    "p": "yī dōngyīxī。"
+                                },
+                                {
+                                    "m": "bên dài bên ngắn; cái ngắn cái dài",
+                                    "p_vn": "ben dai ben ngan; cai ngan cai dai",
+                                    "_id": "ec64e39db760a04aa9d1db85113a1a7a",
+                                    "id": 44662,
+                                    "type": "e_cnvi",
+                                    "e": "一长一短。",
+                                    "p_cn": "yi chang yi duan",
+                                    "p": "yīchángyīduǎn。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "nhất nhất",
+            "pinyin": "yī... yī...",
+            "word": "一...一...",
+            "id": 59062,
+            "phonetic": "yi...yi...",
+            "rank": 118494,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˇㄅㄢㄉㄧㄠㄋㄢˊ",
+            "_id": "9961adfe40854453a3d8d4163b6d6eac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "để tạo ra tất cả các loại khó khăn (thành ngữ)",
+                            "explain": "to create all kinds of difficulties (idiom)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "đặt ra vô số chướng ngại vật",
+                            "explain": "to put up innumerable obstacles",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 58
+            },
+            "snym": null,
+            "cn_vi": "bá ban điêu nan",
+            "pinyin": "bǎibān diāonàn",
+            "word": "百般刁难",
+            "id": 137763,
+            "phonetic": "baibandiaonan",
+            "rank": 54203,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3009f93ab26144549f4c1cbbfd3de98a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gang thép",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "cương thiết ban đích",
+            "pinyin": "gāngtiě bān de",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "钢铁般的",
+            "id": 181138,
+            "phonetic": "gangtiebande",
+            "rank": 146693,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˇㄅㄢㄈㄥˋㄔㄥˊ",
+            "_id": "7330303e287549d6ba4a57ac39cd1c02",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "tán tỉnh ai đó bằng mọi cách có thể",
+                            "explain": "to fawn upon sb in every possible way",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 12
+            },
+            "snym": {
+                "anto": [
+                    "百般刁难"
+                ]
+            },
+            "cn_vi": "bá ban phụng thừa",
+            "pinyin": "bǎibān fèngchéng",
+            "word": "百般奉承",
+            "id": 140876,
+            "phonetic": "baibanfengcheng",
+            "rank": 97593,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄡˇㄐㄧㄠㄍㄡˋㄅㄢ",
+            "_id": "9b59d8c66890442ba1996f55e7fe17e0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kiểu doggy",
+                            "explain": "doggy-style",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "cẩu giao cấu ban",
+            "pinyin": "gǒu jiāogòu bān",
+            "word": "狗交媾般",
+            "id": 137645,
+            "phonetic": "goujiaogouban",
+            "rank": 144728,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "一般"
+}

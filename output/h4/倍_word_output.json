@@ -1,0 +1,2108 @@
+{
+    "total": 71,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "measure",
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄟˋ",
+            "_id": "4e720cd7256d1018b75ae37d448d7dc6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "A là C lần B",
+                            "examples": [
+                                93636,
+                                93651,
+                                93654
+                            ],
+                            "struct": "Số từ A + 是 + Số từ B + 的 + Số từ C + 倍"
+                        },
+                        {
+                            "explain": "A hơn B bao nhiêu lần (khi dịch số lần sẽ  +1)",
+                            "examples": [
+                                93640,
+                                93641
+                            ],
+                            "struct": "A + 比 + B + Tính từ （多/贵/大) +  Số từ + 倍"
+                        }
+                    ],
+                    "kind": "measure",
+                    "means": [
+                        {
+                            "mean": "lần; đôi",
+                            "explain": "照原数增加",
+                            "examples": [
+                                {
+                                    "m": "Tăng gấp 4 lần.",
+                                    "p_vn": "tang gap 4 lan.",
+                                    "_id": "f2efc94449b26b3e2967bccbc944ab14",
+                                    "id": 93612,
+                                    "type": "e_cnvi",
+                                    "e": "增长了四倍。",
+                                    "p_cn": "zengzhangle si bei.",
+                                    "p": "zēngzhǎngle sì bèi."
+                                },
+                                {
+                                    "m": "To gấp đôi.",
+                                    "p_vn": "to gap doi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc944b16f",
+                                    "id": 93613,
+                                    "type": "e_cnvi",
+                                    "e": "大一倍。",
+                                    "p_cn": "da yi bei.",
+                                    "p": "dà yī bèi."
+                                },
+                                {
+                                    "m": "3 lần của 3 là 9.",
+                                    "p_vn": "3 lan cua 3 la 9.",
+                                    "_id": "f2efc94449b26b3e2967bccbc944eaf3",
+                                    "id": 93621,
+                                    "type": "e_cnvi",
+                                    "e": "三的三倍是九。",
+                                    "p_cn": "san de san bei shi jiu.",
+                                    "p": "sān de sān bèi shì jiǔ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "Ai/cái gì rất gì đó",
+                            "examples": [
+                                93644,
+                                93645
+                            ],
+                            "struct": "倍 + Tính từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "gấp bội; bội phần; rất; cực kì",
+                            "explain": "指程度比原来深得多",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy phải thêm gấp đôi nỗ lực.",
+                                    "p_vn": "anh ay phai them gap doi no luc.",
+                                    "_id": "f2efc94449b26b3e2967bccbc944ef22",
+                                    "id": 93622,
+                                    "type": "e_cnvi",
+                                    "e": "他要加倍努力。",
+                                    "p_cn": "ta yao jiabei nuli.",
+                                    "p": "tā yào jiābèi nǔlì."
+                                },
+                                {
+                                    "m": "Trẻ con cực kì thông minh",
+                                    "p_vn": "tre con cuc ki thong minh",
+                                    "_id": "f2efc94449b26b3e2967bccbc944f55e",
+                                    "id": 93623,
+                                    "type": "e_cnvi",
+                                    "e": "孩子倍儿聪明。",
+                                    "p_cn": "haizi beir congming.",
+                                    "p": "háizi bèir cōngmíng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 478,
+                "search": 6911
+            },
+            "snym": null,
+            "lv_hsk_new": "4",
+            "pinyin": "bèi",
+            "cn_vi": "bội",
+            "word": "倍",
+            "id": 2425,
+            "phonetic": "bei",
+            "rank": 1645,
+            "lv_tocfl": 4,
+            "compound": "倍道 ; 倍加 ; 倍里尼 ; 倍儿 ; 倍赏 ; 倍数 ; 倍塔粒子 ; 倍塔射线 ; 倍增"
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "9, 73",
+            "zhuyin": "ㄅㄟˋㄗㄥ",
+            "_id": "6681dd288740349e9b75ec4095bc211e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nhân; tăng gấp bội",
+                            "explain": "成倍增加",
+                            "examples": [
+                                {
+                                    "m": "dũng khí tăng thêm bội phần",
+                                    "p_vn": "dung khi tang them boi phan",
+                                    "_id": "002bcf724376412cae2cbb9e096b3f5f",
+                                    "id": 1288,
+                                    "type": "e_cnvi",
+                                    "e": "勇气倍增",
+                                    "p_cn": "yongqi beizeng",
+                                    "p": "yǒngqì bèizēng"
+                                },
+                                {
+                                    "m": "Nhìn vào đôi mắt tự tin của anh, tôi bỗng thấy tự tin.",
+                                    "p_vn": "nhin vao doi mat tu tin cua anh, toi bong thay tu tin.",
+                                    "_id": "807ed2dd0fba462ea581091933fec470",
+                                    "id": 54959,
+                                    "type": "e_cnvi",
+                                    "e": "望着他那炯炯有神的双眼，我突然觉得信心倍增。",
+                                    "p_cn": "wangzhe ta na jiongjiong you shen de shuangyan, wo turan juede xinxin beizeng.",
+                                    "p": "Wàngzhe tā nà jiǒngjiǒng yǒu shén de shuāngyǎn, wǒ túrán juéde xìnxīn bèizēng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "gấp đôi",
+                            "explain": "变为两倍大",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 222
+            },
+            "snym": {
+                "anto": [
+                    "锐减"
+                ]
+            },
+            "cn_vi": "bội tăng",
+            "pinyin": "bèizēng",
+            "word": "倍增",
+            "id": 2434,
+            "phonetic": "beizeng",
+            "rank": 26639,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄐㄧㄥˋ",
+            "_id": "249ccf0ad6f94609ba311b4d6739e009",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Scope; ống ngắm",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Bạn có ống ngắm X4 không",
+                                    "p_vn": "Ban co ong ngam X4 khong",
+                                    "_id": "3e3519324cdc484cac79afaac13eaab0",
+                                    "id": 63474,
+                                    "type": "e_cnvi",
+                                    "e": "你有4倍镜吗？",
+                                    "p_cn": "Ni you 4 bei jing ma?",
+                                    "p": "Nǐ yǒu 4 bèi jìng ma?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 32
+            },
+            "snym": null,
+            "cn_vi": "bội kính",
+            "pinyin": "bèi jìng",
+            "word": "倍镜",
+            "id": 147387,
+            "phonetic": "beijing",
+            "rank": 69645,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "556dc07c69774e1ea218d959ca4c18dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Gấp muôn ngàn lần. Nhiều lắm; vạn bội",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "vạn bội",
+            "pinyin": "wàn bèi",
+            "word": "万倍",
+            "id": 170685,
+            "phonetic": "wanbei",
+            "rank": 101617,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄕㄤˇ",
+            "_id": "5fc0057bc61b4ac9bc9f9b3b9178affb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "gấp đôi giải thưởng",
+                            "explain": "加倍赏赐",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "bội thưởng",
+            "pinyin": "bèi shǎng",
+            "word": "倍赏",
+            "id": 2430,
+            "phonetic": "beishang",
+            "rank": 146545,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄍㄢˇ",
+            "_id": "9112e10604ad4d339eba1d8bc49f3a8d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cực kỳ (buồn, cô đơn, vui mừng, v.v.)",
+                            "explain": "to be extremely (sad, lonely, delighted etc)",
+                            "examples": [
+                                {
+                                    "m": "Đó là một nơi cô đơn để ở.",
+                                    "p_vn": "Do la mot noi co don de o.",
+                                    "_id": "6d0b7cd52e764638b4549c338584e332",
+                                    "id": 64313,
+                                    "type": "e_cnvi",
+                                    "e": "令人倍感孤独",
+                                    "p_cn": "lingren beigan gudu",
+                                    "p": "lìngrén bèigǎn gūdú"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "để cảm thấy nhiều hơn nữa",
+                            "explain": "to feel even more",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 28,
+                "search": 332
+            },
+            "snym": null,
+            "cn_vi": "bội cảm",
+            "pinyin": "bèi gǎn",
+            "word": "倍感",
+            "id": 94793,
+            "phonetic": "beigan",
+            "rank": 20714,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄊㄚˇ",
+            "_id": "96fab894306942df8276ed9b6897f429",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "beta (từ khóa cho vay)",
+                            "explain": "beta (loanword)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "bội tháp",
+            "pinyin": "bèi tǎ",
+            "word": "倍塔",
+            "id": 90049,
+            "phonetic": "beita",
+            "rank": 106803,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕˊㄅㄟˋ",
+            "_id": "b9a879b3b1e74ef8b4157fa3104d2f18",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mười lần (sth)",
+                            "explain": "ten times (sth)",
+                            "examples": [
+                                {
+                                    "m": "Có phải mười lần cuộc hôn nhân mà đám cưới nhà thờ của tôi từng có với tôi.",
+                                    "p_vn": "Co phai muoi lan cuoc hon nhan ma dam cuoi nha tho cua toi tung co voi toi.",
+                                    "_id": "976feba4c5444cd1b2f1a7084c3b36eb",
+                                    "id": 57534,
+                                    "type": "e_cnvi",
+                                    "e": "比我的教堂婚礼还牢靠十倍",
+                                    "p_cn": "bi wo de jiaotang hunli huan laokao shibei",
+                                    "p": "bǐ wǒ de jiàotáng hūnlǐ huán láokào shíbèi"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "gấp mười lần",
+                            "explain": "tenfold",
+                            "examples": [
+                                {
+                                    "m": "Tăng vụ nổ lên gấp 10 lần.",
+                                    "p_vn": "Tang vu no len gap 10 lan.",
+                                    "_id": "ea0a9f130eb2467ba7c0e2b06a172bc3",
+                                    "id": 57537,
+                                    "type": "e_cnvi",
+                                    "e": "反而十倍得增加了爆炸效果",
+                                    "p_cn": "faner shibei de zengjia le baozha xiaoguo",
+                                    "p": "fǎnér shíbèi dé zēngjiā le bàozhà xiàoguǒ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 74
+            },
+            "snym": null,
+            "cn_vi": "thập bội",
+            "pinyin": "shí bèi",
+            "word": "十倍",
+            "id": 95230,
+            "phonetic": "shibei",
+            "rank": 48264,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄚㄅㄟˋ",
+            "_id": "2babd473e0594852cef99b7207c66d89",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "gấp bội; gấp đôi; xấp",
+                            "explain": "增加跟原有数量相等的数量",
+                            "examples": [
+                                {
+                                    "m": "sản lượng trước mắt là một triệu tấn, sau khi đổi mới kỹ thuật, sản lượng có thể tăng lên gấp đôi, đạt hai triệu tấn.",
+                                    "p_vn": "san luong truoc mat la mot trieu tan sau khi doi moi ky thuat san luong co the tang len gap doi dat hai trieu tan",
+                                    "_id": "91a1e5c369f09193aa1b03f0c34316d2",
+                                    "id": 19840,
+                                    "type": "e_cnvi",
+                                    "e": "目前的产量是一百万吨，技术革新后产量可以加倍，达到二百万吨。",
+                                    "p_cn": "muqian de chanliang shi yibai wan dun jishu gexin hou chanliang keyi jiabei dadao erbai wan dun",
+                                    "p": "mùqián de chǎnliàng shì yībǎi wàn dùn, jìshù géxīn hòu chǎnliàng kěyǐ jiābèi, dádào èrbǎi wàn dùn."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hơn; gấp bội",
+                            "explain": "泛指程度比原来深得多",
+                            "examples": [
+                                {
+                                    "m": "cố gắng gấp bội.",
+                                    "p_vn": "co gang gap boi",
+                                    "_id": "9ce378dd80a7ad7d9087980e3d8df3a6",
+                                    "id": 19841,
+                                    "type": "e_cnvi",
+                                    "e": "加倍努力。",
+                                    "p_cn": "jiabei nuli",
+                                    "p": "jiābèinǔlì。"
+                                },
+                                {
+                                    "m": "càng đồng tình hơn.",
+                                    "p_vn": "cang dong tinh hon",
+                                    "_id": "13e09f087464f42e991309cdc4eaf356",
+                                    "id": 19842,
+                                    "type": "e_cnvi",
+                                    "e": "加倍的同情。",
+                                    "p_cn": "jiabei de tongqing",
+                                    "p": "jiābèi de tóngqíng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bội phần; bội",
+                            "explain": "",
+                            "examples": []
+                        },
+                        {
+                            "mean": "gấp",
+                            "explain": "两倍的",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 75,
+                "search": 883
+            },
+            "snym": {
+                "syno": [
+                    "更加",
+                    "加强",
+                    "油漆",
+                    "尤其",
+                    "越发"
+                ],
+                "anto": [
+                    "折半"
+                ]
+            },
+            "cn_vi": "gia bội",
+            "pinyin": "jiābèi",
+            "word": "加倍",
+            "id": 27420,
+            "phonetic": "jiabei",
+            "rank": 10775,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄉㄠˋ",
+            "_id": "409fa8ea6335755035839205bb93d8c0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đi gấp; đi rút; đi ngày lẫn đêm",
+                            "explain": "兼程而行;指一日走两日的路程",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "bội đạo",
+            "pinyin": "bèi dào",
+            "word": "倍道",
+            "id": 2426,
+            "phonetic": "beidao",
+            "rank": 93471,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄚㄅㄟˋ",
+            "_id": "65520f582a0decb7230b3ca56f06f068",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "tám lần; gấp tám",
+                            "explain": "等于另一物八个之大的总量;某一数量乘以八的数量",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "bát bội",
+            "pinyin": "bā bèi",
+            "word": "八倍",
+            "id": 600,
+            "phonetic": "babei",
+            "rank": 99717,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "numb",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˇㄅㄟˋ",
+            "_id": "37ecb01769b2035f4762be702b5d5b70",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "gấp trăm lần; hết mình; hết sức",
+                            "explain": "形容数量多或程度深（多用于抽象事物）",
+                            "examples": [
+                                {
+                                    "m": "cố gắng hết sức mình",
+                                    "p_vn": "co gang het suc minh",
+                                    "_id": "7453182fd0a4997bc6fde62d93dffc08",
+                                    "id": 601,
+                                    "type": "e_cnvi",
+                                    "e": "百倍努力",
+                                    "p_cn": "baibei nuli",
+                                    "p": "bǎibèi nǔlì"
+                                },
+                                {
+                                    "m": "rất có tinh thần",
+                                    "p_vn": "rat co tinh than",
+                                    "_id": "904fe121c18d9ff425381f296f52335a",
+                                    "id": 602,
+                                    "type": "e_cnvi",
+                                    "e": "精神百倍",
+                                    "p_cn": "jingshen baibei",
+                                    "p": "jīngshénbǎibèi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 254
+            },
+            "snym": null,
+            "cn_vi": "bá bội",
+            "pinyin": "bǎibèi",
+            "word": "百倍",
+            "id": 1042,
+            "phonetic": "baibei",
+            "rank": 24548,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄅㄟˋ",
+            "_id": "1202d798427b935fa39dec27c0d0cf1e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bội số nhỏ",
+                            "explain": "倍数小的",
+                            "examples": [
+                                {
+                                    "m": "kính phóng đại bội số nhỏ.",
+                                    "p_vn": "kinh phong dai boi so nho",
+                                    "_id": "77a605266f259cf7b7991c9de0a500a3",
+                                    "id": 7874,
+                                    "type": "e_cnvi",
+                                    "e": "低倍放大镜",
+                                    "p_cn": "di bei fangdajing",
+                                    "p": "dībèi fàngdàjìng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "đê bội",
+            "pinyin": "dī bèi",
+            "word": "低倍",
+            "id": 11943,
+            "phonetic": "dibei",
+            "rank": 130655,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "measure",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄅㄟˋ",
+            "_id": "5bce983195060744ea95f62246f218e2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "bội số chung (toán học)",
+                            "explain": "两个或更多个数或量的共有倍数",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "công bội",
+            "pinyin": "gōng bèi",
+            "word": "公倍",
+            "id": 19589,
+            "phonetic": "gongbei",
+            "rank": 143675,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧˇㄅㄟˋ",
+            "_id": "015b9a9fd9b94f138957ac07ac9160a7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Xấu xa trái lẽ.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "bỉ bội",
+            "pinyin": "bǐ bèi",
+            "word": "鄙倍",
+            "id": 148795,
+            "phonetic": "bibei",
+            "rank": 146032,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄦ˙",
+            "_id": "1c75715fabf4107d0d5823e30f804f09",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "vô cùng; hết sức; cực kỳ; rất",
+                            "explain": "非常;十分",
+                            "examples": [
+                                {
+                                    "m": "mới cáu; mới tinh; mới cứng",
+                                    "p_vn": "moi cau; moi tinh; moi cung",
+                                    "_id": "1ae6aa31bc204bb664848122ce50ba0d",
+                                    "id": 1289,
+                                    "type": "e_cnvi",
+                                    "e": "倍儿新。",
+                                    "p_cn": "bei er xin",
+                                    "p": "bèiér xīn。"
+                                },
+                                {
+                                    "m": "sáng choang; sáng trưng",
+                                    "p_vn": "sang choang; sang trung",
+                                    "_id": "b0acaaad7a1209e9afc46a68e8595b41",
+                                    "id": 1290,
+                                    "type": "e_cnvi",
+                                    "e": "倍儿亮。",
+                                    "p_cn": "bei er liang",
+                                    "p": "bèiér liàng。"
+                                },
+                                {
+                                    "m": "hăng hái cực kỳ; cực hăng",
+                                    "p_vn": "hang hai cuc ky; cuc hang",
+                                    "_id": "087503189b9e60c11ce7e4033befea08",
+                                    "id": 1291,
+                                    "type": "e_cnvi",
+                                    "e": "倍儿精神。",
+                                    "p_cn": "bei er jingshen",
+                                    "p": "bèiér jīngshén。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 97
+            },
+            "snym": null,
+            "cn_vi": "bội nhi",
+            "pinyin": "bèi er",
+            "word": "倍儿",
+            "id": 2427,
+            "phonetic": "beier",
+            "rank": 42093,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄙㄢㄅㄟˋ",
+            "_id": "214677cfc00d4b7793a223d2dee7165a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gấp ba",
+                            "explain": "triple",
+                            "examples": [
+                                {
+                                    "m": "Họ sẽ tuần tra ba lần.",
+                                    "p_vn": "Ho se tuan tra ba lan.",
+                                    "_id": "75322948f659498c952a805e04247a28",
+                                    "id": 57427,
+                                    "type": "e_cnvi",
+                                    "e": "警力增至三倍",
+                                    "p_cn": "jingli zengzhi sanbei",
+                                    "p": "jǐnglì zēngzhì sānbèi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 177
+            },
+            "snym": null,
+            "cn_vi": "tam bội",
+            "pinyin": "sān bèi",
+            "word": "三倍",
+            "id": 94350,
+            "phonetic": "sanbei",
+            "rank": 30413,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄠㄅㄟˋ",
+            "_id": "3feda898d182b9e5884e9ccd6824b0e9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "bội số lớn",
+                            "explain": "倍数大的",
+                            "examples": [
+                                {
+                                    "m": "viễn vọng kính có độ phóng đại lớn",
+                                    "p_vn": "vien vong kinh co do phong dai lon",
+                                    "_id": "50bf4ab6d87fba053f0c84629e95f9d9",
+                                    "id": 13241,
+                                    "type": "e_cnvi",
+                                    "e": "高倍望远镜",
+                                    "p_cn": "gaobei wangyuanjing",
+                                    "p": "gāobèi wàngyuǎnjìng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "cao bội",
+            "pinyin": "gāobèi",
+            "word": "高倍",
+            "id": 18698,
+            "phonetic": "gaobei",
+            "rank": 76673,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "400870b22ce5479dbd7a8e171bbbc947",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bội hoàn",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bội hoàn",
+            "pinyin": "bèi hái",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "倍还",
+            "id": 184574,
+            "phonetic": "beihai",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄐㄧㄚ",
+            "_id": "210184370c432b2d28a84e6bc03ad2c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "gấp đôi; gấp hai",
+                            "explain": "格外;越发",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bội phần",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 245
+            },
+            "snym": null,
+            "cn_vi": "bội gia",
+            "pinyin": "bèijiā",
+            "word": "倍加",
+            "id": 2428,
+            "phonetic": "beijia",
+            "rank": 25080,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧㄤˇㄅㄟˋ",
+            "_id": "3584f230f3cf4209ba6b5ba31b4c460b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gấp đôi số tiền",
+                            "explain": "double the amount; twice as much",
+                            "examples": [
+                                {
+                                    "m": "Trong quản lý, nếu số người quản lý thực tế gấp đôi con số tối ưu thì số giờ làm việc sẽ nhiều gấp đôi và chi phí công việc sẽ nhiều hơn gấp bốn lần; nếu số người quản lý thực tế nhiều gấp ba lần con số tối ưu thì số giờ làm việc giờ sẽ dài hơn ba lần., Chi phí công việc nhiều hơn sáu lần.  Về mặt quản lý thì không có nhiều quyền lực, càng có nhiều người quản lý thì hiệu quả công việc có thể không cao Trên thực tế, định luận Krishna Harsh cho rằng hiệu quả công việc của tổ hợp nhân viên tỷ lệ nghịch với mức độ khối lượng công việc.",
+                                    "p_vn": "trong quan ly, neu so nguoi quan ly thuc te gap doi con so toi uu thi so gio lam viec se nhieu gap doi va chi phi cong viec se nhieu hon gap bon lan; neu so nguoi quan ly thuc te nhieu gap ba lan con so toi uu thi so gio lam viec gio se dai hon ba lan., chi phi cong viec nhieu hon sau lan.  ve mat quan ly thi khong co nhieu quyen luc, cang co nhieu nguoi quan ly thi hieu qua cong viec co the khong cao tren thuc te, dinh luan krishna harsh cho rang hieu qua cong viec cua to hop nhan vien ty le nghich voi muc do khoi luong cong viec.",
+                                    "_id": "95aa7844202f49d191268d2e3b414a68",
+                                    "id": 67640,
+                                    "type": "e_cnvi",
+                                    "e": "在管理中，如果实际管理人员比最佳人数多两倍，工作时间就要多两倍，工作成本就多四倍；如果实际管理人员比最佳人数多三倍，工作时间就要多三倍，工作成本就多六倍。在管理上，并不是人多力量大，管理人员越多，工作效率未必就会越高，实际上，苛希纳定律认为员工组合的工作效率和工作负荷程度成反比",
+                                    "p_cn": "zai guanli zhong, ruguo shiji guanli renyuan bi zui jia renshu duo liang bei, gongzuo shijian jiu yao duo liang bei, gongzuo chengben jiu duo si bei; ruguo shiji guanli renyuan bi zui jia renshu duo san bei, gongzuo shijian jiu yao duo san bei, gongzuo chengben jiu duo liu bei. zai guanli shang, bing bu shi ren duo liliang da, guanli renyuan yue duo, gongzuo xiaolu weibi jiu hui yue gao, shiji shang, ke xi na dinglu renwei yuangong zuhe de gongzuo xiaolu he gongzuo fuhe chengdu cheng fanbi",
+                                    "p": "Zài guǎnlǐ zhōng, rúguǒ shíjì guǎnlǐ rényuán bǐ zuì jiā rénshù duō liǎng bèi, gōngzuò shíjiān jiù yào duō liǎng bèi, gōngzuò chéngběn jiù duō sì bèi; rúguǒ shíjì guǎnlǐ rényuán bǐ zuì jiā rénshù duō sān bèi, gōngzuò shíjiān jiù yào duō sān bèi, gōngzuò chéngběn jiù duō liù bèi. Zài guǎnlǐ shàng, bìng bú shì rén duō lìliàng dà, guǎnlǐ rényuán yuè duō, gōngzuò xiàolǜ wèibì jiù huì yuè gāo, shíjì shang, kē xī nà dìnglǜ rènwéi yuángōng zǔhé de gōngzuò xiàolǜ hé gōngzuò fùhè chéngdù chéng fǎnbǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 544
+            },
+            "snym": null,
+            "cn_vi": "lưỡng bội",
+            "pinyin": "liǎng bèi",
+            "word": "两倍",
+            "id": 106617,
+            "phonetic": "liangbei",
+            "rank": 15047,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2802835725b34e8bb92238cf5891a32e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đặt cược theo cấp độ nhân",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Cổ phiếu của anh ấy tăng gấp đôi quyền biểu quyết.",
+                                    "p_vn": "Co phieu cua anh ay tang gap doi quyen bieu quyet.",
+                                    "_id": "0c8b0021067e4395a2cc32aa8fcd695e",
+                                    "id": 65651,
+                                    "type": "e_cnvi",
+                                    "e": "他的股份会有双倍投票权",
+                                    "p_cn": "ta de gufen hui you shuangbei toupiaoquan",
+                                    "p": "tā de gǔfèn hùi yǒu shuāngbèi tóupiàoquán"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "bội đầu",
+            "pinyin": "bèi tóu",
+            "word": "倍投",
+            "id": 160027,
+            "phonetic": "beitou",
+            "rank": 68816,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "40dfcab8c3634931b07f44e7d603b2e7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bội suất",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bội suất",
+            "pinyin": "bèilǜ",
+            "popularity": {
+                "notebook": 2,
+                "search": 55
+            },
+            "word": "倍率",
+            "id": 173075,
+            "phonetic": "beilu",
+            "rank": 55400,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˇㄅㄟˋ",
+            "_id": "c93cf2b7ece64003823aed20f3979a30",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đôi, ba ba, bốn lần, v.v.",
+                            "explain": "double, treble, quadruple etc",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nhiều lần (lớn hơn)",
+                            "explain": "several times (bigger)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 39
+            },
+            "snym": null,
+            "cn_vi": "kỉ bội",
+            "pinyin": "jǐ bèi",
+            "word": "几倍",
+            "id": 90149,
+            "phonetic": "jibei",
+            "rank": 64313,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "f64e5a6cddd14a6486bf629681956ab2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nói thách.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "bội xưng",
+            "pinyin": "bèi chēng",
+            "word": "倍称",
+            "id": 170683,
+            "phonetic": "beicheng",
+            "rank": 137934,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "6, 9, 19, 72",
+            "zhuyin": "ㄕㄨㄤㄅㄟˋ",
+            "_id": "3654f98ce5a04b2b8612e4ea73da2b19",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kép",
+                            "explain": "double",
+                            "examples": [
+                                {
+                                    "m": "Tôi sẽ kết hợp và tăng gấp đôi.",
+                                    "p_vn": "Toi se ket hop va tang gap doi.",
+                                    "_id": "ae6e18ccb9374c7ca505af177dfeb3de",
+                                    "id": 65648,
+                                    "type": "e_cnvi",
+                                    "e": "我同意并双倍加码",
+                                    "p_cn": "wo tongyi bing shuangbei jiama",
+                                    "p": "wǒ tóngyì bìng shuāngbèi jiāmǎ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "gấp đôi",
+                            "explain": "twofold",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 18,
+                "search": 207
+            },
+            "snym": null,
+            "cn_vi": "song bội",
+            "pinyin": "shuāng bèi",
+            "word": "双倍",
+            "id": 109787,
+            "phonetic": "shuangbei",
+            "rank": 27719,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄢㄅㄟˋ",
+            "_id": "5d80adab98d0444ab1e5f3c7954b7cca",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Abe (họ Nhật Bản)",
+                            "explain": "Abe (Japanese surname)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "an bội",
+            "pinyin": "ānbèi",
+            "word": "安倍",
+            "id": 91002,
+            "phonetic": "anbei",
+            "rank": 73657,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "topic": "9",
+            "zhuyin": "ㄅㄟˋㄕㄨˋ",
+            "_id": "2856f590acb3543a269c8b3575030597",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bội số",
+                            "explain": "一数可以被另一数整除时，这一数即为另一数的倍数，例如15是3的倍数，也是5的倍数",
+                            "examples": [
+                                {
+                                    "m": "Số lượng cơ bản của các nhiễm sắc thể trong một tế bào có tính bội số.",
+                                    "p_vn": "So luong co ban cua cac nhiem sac the trong mot te bao co tinh boi so.",
+                                    "_id": "c20d629a96d040d1864211fd8999be4c",
+                                    "id": 70210,
+                                    "type": "e_cnvi",
+                                    "e": "倍数性一个细胞中染色体基本数目的倍数",
+                                    "p_cn": "beishu xing yi ge xibao zhong ranseti jiben shu mudi beishu",
+                                    "p": "bèishù xìng yī gè xìbāo zhōng rǎnsètǐ jīběn shǔ mùdì bèishù"
+                                },
+                                {
+                                    "m": "4, 6 và 12 đều là bội số của 2.",
+                                    "p_vn": "4, 6 va 12 deu la boi so cua 2.",
+                                    "_id": "9dae5d7337864c06a79fe9f67f122688",
+                                    "id": 70211,
+                                    "type": "e_cnvi",
+                                    "e": "4、6、12都是2的倍数",
+                                    "p_cn": "dou shi de beishu",
+                                    "p": "dōu shì de bèishù"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "số lần; thương số",
+                            "explain": "一数除以另一数所得的商如：a/b=c，就是说a是b的c倍，c是倍数",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 283
+            },
+            "snym": {
+                "syno": [
+                    "系数"
+                ],
+                "anto": [
+                    "约数"
+                ]
+            },
+            "cn_vi": "bội số",
+            "pinyin": "bèishù",
+            "word": "倍数",
+            "id": 2431,
+            "phonetic": "beishu",
+            "rank": 23029,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ebcf5c07025247f2b3f390239a34e2e6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Ánh mặt trời chiếu vào mây.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "bội huất",
+            "pinyin": "bèi jú",
+            "word": "倍僪",
+            "id": 170682,
+            "phonetic": "beiju",
+            "rank": 111361,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "fda537d30a9a4f47b4dfb10745922de3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hơn gấp đôi. Gấp hơn hai lần; quá bội",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quá bội",
+            "pinyin": "guò bèi",
+            "word": "过倍",
+            "id": 170684,
+            "phonetic": "guobei",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄢㄅㄟˋ",
+            "_id": "6086144a83dd43988b639ab138d274bb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tăng gấp đôi",
+                            "explain": "to double",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 27,
+                "search": 367
+            },
+            "snym": null,
+            "cn_vi": "phiên bội",
+            "pinyin": "fān bèi",
+            "word": "翻倍",
+            "id": 99276,
+            "phonetic": "fanbei",
+            "rank": 19458,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄦ˙ㄅㄤˋ",
+            "_id": "a95fb69ec2a14defb63637a8a6cfa9aa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(phương ngữ) tuyệt vời",
+                            "explain": "(dialect) awesome",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thông minh",
+                            "explain": "excellent",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "bội nhi bổng",
+            "pinyin": "bèi er bàng",
+            "word": "倍儿棒",
+            "id": 117012,
+            "phonetic": "beierbang",
+            "rank": 84712,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄚㄅㄟˋㄊㄧˇ",
+            "_id": "f048f9f92c1a492f8df368e766636d37",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bạch bội",
+                            "explain": "octoploid",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bát bội thể",
+            "pinyin": "bā bèi tǐ",
+            "word": "八倍体",
+            "id": 111844,
+            "phonetic": "babeiti",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄗㄨˊㄌㄟˋ",
+            "_id": "2e5c468a53d049b49fea195edc2d0c89",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Opoda (lớp động vật chân đốt có một đôi chân trên mỗi đoạn, bao gồm rết và milipedes)",
+                            "explain": "Diplopoda (arthropod class with a pair of legs on each segment, including centipedes and millipedes)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bội tú loại",
+            "pinyin": "bèi zú lèi",
+            "word": "倍足类",
+            "id": 113817,
+            "phonetic": "beizulei",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄅㄟˋㄕˋ",
+            "_id": "09bc59f6035847358b10d7d38b0d7bc6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhiều biểu thức chung",
+                            "explain": "common multiple expression",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "công bội thức",
+            "pinyin": "gōng bèi shì",
+            "word": "公倍式",
+            "id": 120801,
+            "phonetic": "gongbeishi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄨㄛˇㄅㄟˋㄕㄨㄤˇ",
+            "_id": "c06f768b04604525be9c9f211ef58e24",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Capri-Sun, nhãn hiệu nước trái cây",
+                            "explain": "Capri-Sun, juice drink brand",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "quả bội sảng",
+            "pinyin": "guǒ bèi shuǎng",
+            "word": "果倍爽",
+            "id": 127162,
+            "phonetic": "guobeishuang",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄨㄛㄅㄟˋㄊㄧˇ",
+            "_id": "155cd84bde8e478597f31788e9f8083c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đa bội (nhiều nhiễm sắc thể)",
+                            "explain": "polyploid (multiple chromosomes)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "đa bội thể",
+            "pinyin": "duō bèi tǐ",
+            "word": "多倍体",
+            "id": 114371,
+            "phonetic": "duobeiti",
+            "rank": 122462,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄦˋㄅㄟˋㄊㄧˇ",
+            "_id": "427978e981814ee6931c59759a7c801f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lưỡng bội (trong sinh học tế bào)",
+                            "explain": "diploid (in cell biology)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "nhị bội thể",
+            "pinyin": "èr bèi tǐ",
+            "word": "二倍体",
+            "id": 111743,
+            "phonetic": "erbeiti",
+            "rank": 93889,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄨㄤㄅㄟˋㄊㄧˇ",
+            "_id": "7112502468434989ab152f186f8d14c3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lưỡng bội (nhiễm sắc thể nhân đôi)",
+                            "explain": "diploid (doubled chromosomes)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "song bội thể",
+            "pinyin": "shuāng bèi tǐ",
+            "word": "双倍体",
+            "id": 124436,
+            "phonetic": "shuangbeiti",
+            "rank": 137356,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "4ef7f2ed5333444fbdb87a39ff46205f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bội nhị",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "gia nhất bội",
+            "pinyin": "jiā yī bèi",
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "word": "加一倍",
+            "id": 173519,
+            "phonetic": "jiayibei",
+            "rank": 102836,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄗㄨˊㄍㄤ",
+            "_id": "601cf46e956e4c568cffa2e215696f3c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nortopoda (động vật học)",
+                            "explain": "Diplopoda (zoology)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bội tú cương",
+            "pinyin": "bèi zú gāng",
+            "word": "倍足纲",
+            "id": 117014,
+            "phonetic": "beizugang",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄗㄥㄑㄧˋ",
+            "_id": "7c54f2e974a1427e8d52930602dc6373",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "số nhân",
+                            "explain": "multiplier",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "bội tăng khí",
+            "pinyin": "bèizēng qì",
+            "word": "倍增器",
+            "id": 117013,
+            "phonetic": "beizengqi",
+            "rank": 110295,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄢㄅㄟˋㄊㄧˇ",
+            "_id": "d7325a1689b14cc095fafad404f5af83",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đơn bội (nhiễm sắc thể đơn)",
+                            "explain": "haploid (single chromosome)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "đơn bội thể",
+            "pinyin": "dān bèi tǐ",
+            "word": "单倍体",
+            "id": 114029,
+            "phonetic": "danbeiti",
+            "rank": 114248,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄅㄟˋㄕㄨˋ",
+            "_id": "8c3209cadbb29fa3855870764e961def",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bội số chung; công bội",
+                            "explain": "某数可用某某等数除尽，则为某某等数的公倍数",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": {
+                "anto": [
+                    "公约数"
+                ]
+            },
+            "cn_vi": "công bội số",
+            "pinyin": "gōngbèishù",
+            "word": "公倍数",
+            "id": 19590,
+            "phonetic": "gongbeishu",
+            "rank": 95874,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄌㄧˇㄋㄧˊ",
+            "_id": "ebdc19379f01b3ed48124563034d9d31",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Bellini (hoạ sĩ trường phái Venice, thời Phục Hưng)",
+                            "explain": "(1430-1516) 也译作贝里尼，他和他的父亲、哥哥都是文艺复兴时期威尼斯派的奠基人，他以画圣母像著名",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bội lí ni",
+            "pinyin": "bèi lǐ ní",
+            "word": "倍里尼",
+            "id": 2429,
+            "phonetic": "beilini",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄟˋㄆㄧㄣˊㄑㄧˋ",
+            "_id": "aa6dff15a6464ffaadc5961512b2a262",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hệ số tần số",
+                            "explain": "frequency multiplier",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bội tần khí",
+            "pinyin": "bèi pín qì",
+            "word": "倍频器",
+            "id": 113818,
+            "phonetic": "beipinqi",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "07943f48a9ce4a6197cab42cf61fc9da",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "vạn bội",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thiên vạn bội",
+            "pinyin": "qiān wàn bèi",
+            "popularity": {
+                "notebook": 0,
+                "search": 10
+            },
+            "word": "千万倍",
+            "id": 183262,
+            "phonetic": "qianwanbei",
+            "rank": 104670,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄥˇㄅㄟˋㄕㄨˋ",
+            "_id": "37bb5e4000f446218811ae7ee327eb47",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bội số nguyên",
+                            "explain": "integer multiple",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "chỉnh bội số",
+            "pinyin": "zhěng bèi shù",
+            "word": "整倍数",
+            "id": 125086,
+            "phonetic": "zhengbeishu",
+            "rank": 143156,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄨˇㄅㄟˋㄗ˙",
+            "_id": "4ba44b0c0ce7b3a477383ff93507bcf5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngũ bội tử (vị thuốc Đông y)",
+                            "explain": "五倍子虫寄生在盐肤木上刺激叶细胞而形成的虫瘿，表面灰褐色，含有单宁酸虫在里面发育繁殖，采集下来，把虫烫死，可以入药，有止血的作用，也用于染料、制革等工业",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "ngũ bội tử",
+            "pinyin": "wǔbèizǐ",
+            "word": "五倍子",
+            "id": 53896,
+            "phonetic": "wubeizi",
+            "rank": 82271,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄣˋㄒㄧㄣㄅㄞˇㄅㄟˋ",
+            "_id": "afb5bb1fb24e4491ab160e6ff3ce6d92",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "tràn đầy tự tin (thành ngữ)",
+                            "explain": "brimming with confidence (idiom)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 25,
+                "search": 237
+            },
+            "snym": {
+                "syno": [
+                    "意气风发",
+                    "成竹在胸",
+                    "斗志昂扬",
+                    "满怀信心",
+                    "信心十足"
+                ],
+                "anto": [
+                    "心灰意冷",
+                    "凉了半截",
+                    "灰心丧气",
+                    "垂头丧气",
+                    "心灰意懒"
+                ]
+            },
+            "cn_vi": "tín tâm bá bội",
+            "pinyin": "xìnxīn bǎibèi",
+            "word": "信心百倍",
+            "id": 133795,
+            "phonetic": "xinxinbaibei",
+            "rank": 25590,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "倍"
+}

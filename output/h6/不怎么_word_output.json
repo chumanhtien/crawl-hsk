@@ -1,0 +1,3280 @@
+{
+    "total": 3266,
+    "found": true,
+    "result": [
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄗㄣˇㄇㄜ˙",
+            "_id": "cda629ac917e45b1a809ec21fc434690",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "không đặc biệt",
+                            "explain": "not particularly",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không hẳn",
+                            "explain": "not very",
+                            "examples": [
+                                {
+                                    "m": "Tôi không đói lắm.",
+                                    "p_vn": "toi khong doi lam.",
+                                    "_id": "30c5e3417c984c69872823297369e6a4",
+                                    "id": 65851,
+                                    "type": "e_cnvi",
+                                    "e": "我不怎么饿",
+                                    "p_cn": "wǒ buzěnme e",
+                                    "p": "wǒ bùzěnme è"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"不怎么\" là phủ định của \"怎么\"， \"不怎么样\" là phủ định của \"怎么样\".\n- \"不怎么\" dùng để làm trạng ngữ, thể hiện ý nghĩa \"không quá, không thường, không có gì,..\", \"不怎么样\" biểu hiện thái độ phủ định một cách khéo léo, thường được dùng nhiều làm vị ngữ hoặc bổ ngữ, có ý nghĩa \"không tốt, không quá tốt\", chúng không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"不怎么\" và \"不怎么样\"",
+                    "words": [
+                        "不怎么",
+                        "不怎么样"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "bù zěn me",
+            "cn_vi": "bất chẩm ma",
+            "popularity": {
+                "notebook": 40,
+                "search": 590
+            },
+            "word": "不怎么",
+            "id": 111699,
+            "phonetic": "buzenme",
+            "rank": 14237,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙",
+            "_id": "a7f49b841c32b9aec6b51e70f56c0d9d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Không... ...lắm (dùng trong câu phủ định, biểu thị có một mức độ nhất định)",
+                            "examples": [
+                                76675,
+                                108434,
+                                110876
+                            ],
+                            "struct": "不怎么 + Tính từ (好，难，好看...)"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                110872,
+                                110873,
+                                110874
+                            ],
+                            "struct": "怎么 + Động từ (做、说、写、……）"
+                        }
+                    ],
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "thế nào; sao; làm sao",
+                            "explain": "询问性质、状况、方式、原因等",
+                            "examples": [
+                                {
+                                    "m": "Việc này là thế nào?",
+                                    "p_vn": "viec nay la the nao?",
+                                    "_id": "a41dbcc2fd1e39c916a01e7189017ff7",
+                                    "id": 48503,
+                                    "type": "e_cnvi",
+                                    "e": "这是怎么回事?",
+                                    "p_cn": "zhe shi zenme hui shi?",
+                                    "p": "zhè shì zěnme huí shì?"
+                                },
+                                {
+                                    "m": "Vấn đề này nên giải quyết thế nào?",
+                                    "p_vn": "van de nay nen giai quyet the nao?",
+                                    "_id": "f4c22b7046cdaa48281c7ed3e7afac06",
+                                    "id": 48504,
+                                    "type": "e_cnvi",
+                                    "e": "这个问题该怎么解决?",
+                                    "p_cn": "zhege wenti gai zenme jiejue?",
+                                    "p": "zhège wèntí gāi zěnme jiějué?"
+                                },
+                                {
+                                    "m": "Anh ấy sao vẫn chưa về?",
+                                    "p_vn": "anh ay sao van chua ve?",
+                                    "_id": "4e7d3ea0bda8823f3d4cae2656cc5746",
+                                    "id": 48505,
+                                    "type": "e_cnvi",
+                                    "e": "他怎么还不回来?",
+                                    "p_cn": "ta zenme hai bu huilai?",
+                                    "p": "tā zěnme hái bù huílái?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thế; như thế",
+                            "explain": "泛指性质、状况或方式",
+                            "examples": [
+                                {
+                                    "m": "Anh muốn làm thế nào thì làm thế ấy.",
+                                    "p_vn": "anh muon lam the nao thi lam the ay.",
+                                    "_id": "784c1ea2c919e53827b83a9ae5fd8fe4",
+                                    "id": 48506,
+                                    "type": "e_cnvi",
+                                    "e": "你愿意怎么办就怎么办。",
+                                    "p_cn": "ni yuanyi zenme ban jiu zenme ban.",
+                                    "p": "nǐ yuànyì zěnme bàn jiù zěnme bàn."
+                                },
+                                {
+                                    "m": "Cậu cứ nghĩ gì nói nấy.",
+                                    "p_vn": "cau cu nghi gi noi nay.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6ef224",
+                                    "id": 110880,
+                                    "type": "e_cnvi",
+                                    "e": "你怎么想，就怎么说。",
+                                    "p_cn": "ni zenme xiang, jiu zenme shuo.",
+                                    "p": "nǐ zěnme xiǎng, jiù zěnme shuō."
+                                },
+                                {
+                                    "m": "Tôi đọc thế nào, cậu đọc thế ấy.",
+                                    "p_vn": "toi doc the nao, cau doc the ay.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6ef5e5",
+                                    "id": 110881,
+                                    "type": "e_cnvi",
+                                    "e": "我怎么读，你就怎么读。",
+                                    "p_cn": "wo zenme du, ni jiu zenme du.",
+                                    "p": "wǒ zěnme dú, nǐ jiù zěnme dú."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "sao cơ; gì cơ (dùng ở đầu câu, biểu thị sự ngạc nhiên)",
+                            "explain": "用在句子的开头，表示惊讶和意外",
+                            "examples": [
+                                {
+                                    "m": "Sao cơ, các cậu đều không đi?",
+                                    "p_vn": "sao co, các cạu dèu khong di?",
+                                    "_id": "b2776ac4a861e06178aa5de73b135463",
+                                    "id": 76676,
+                                    "type": "e_cnvi",
+                                    "e": "怎么，你们都不去了?",
+                                    "p_cn": "zenme, nimen dou bu qule?",
+                                    "p": "zěnme, nǐmen dōu bù qùle?"
+                                },
+                                {
+                                    "m": "Sao cơ, anh ta vẫn chưa đến á?",
+                                    "p_vn": "sao co, anh ta van chua den a?",
+                                    "_id": "a5336cc612d96caefbcf7e0ac3e1e619",
+                                    "id": 108426,
+                                    "type": "e_cnvi",
+                                    "e": "怎么，他还没来？",
+                                    "p_cn": "zěnme, tā hái méi lái?",
+                                    "p": "zěnme, tā hái méi lái?"
+                                },
+                                {
+                                    "m": "Gì cơ, nó không có ở nhà?",
+                                    "p_vn": "gi co, no khong co o nha?",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6efed1",
+                                    "id": 110882,
+                                    "type": "e_cnvi",
+                                    "e": "怎么，他不在家？",
+                                    "p_cn": "zenme, ta bu zaijia?",
+                                    "p": "zěnme, tā bù zàijiā?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều là đại từ.\n- Đều có thể dùng trong câu nghi vấn để hỏi về cách thức, tính chất, làm trạng ngữ trong câu, có thể thay thế cho nhau.\n- Đều có thể dùng thay thế những động tác, tình huống không nói ra.\nĐều có thể kết hợp với 无论、不管、不论、都、也。\n- Đều có thể dùng với tính chất của đại từ tùy chỉ, hư chỉ.\n- Đều có thể dùng trong câu trần thuật.\n- Có thể dùng độc lập làm vị ngữ để hỏi tình hình.\nKhác:\n- \"怎么\" khi làm định ngữ để hỏi về tính chất, trước danh từ bắt buộc phải có số lượng từ.\n\"怎样\" khi làm định ngữ để hỏi về tính chất, trước danh từ có thể không cần lượng từ.\n- \"怎么\" có thể độc lập đứng đầu câu tỏ ý ngạc nhiên.",
+                    "title": "Phân biệt \"怎么\" và \"怎样\"",
+                    "words": [
+                        "怎么",
+                        "怎样"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Đều là đại từ.\n- Đều có thể dùng trong câu nghi vấn để hỏi về cách thức, tính chất, làm trạng ngữ trong câu, có thể thay thế cho nhau.\n- Đều có thể dùng thay thế những động tác, tình huống không nói ra.\nĐều có thể kết hợp với 无论、不管、不论、都、也。\n- Đều có thể dùng với tính chất của đại từ tùy chỉ, hư chỉ.\n- Đều có thể dùng trong câu trần thuật.\nKhác:\n- \"怎么\" khi làm trạng ngữ có thể hỏi về nguyên nhân.\n\"怎么样\" không có cách dùng này.\n- \"怎么样\" có thể dùng độc lập làm vị ngữ để hỏi tình hình.\n- \"怎么\" phía sau kết hợp với 了 để chỉ tình huống mới xuất hiện.\n\"怎么样\" thường kết hợp với 了 để chỉ sự việc đã biết, người nói dùng hình thức này hỏi là để muốn biết thêm những thông tin mới.\n- \"怎么\" khi làm định ngữ để hỏi về tính chất, trước danh từ bắt buộc phải có số lượng từ.\n\"怎么样\" khi làm định ngữ để hỏi về tính chất, trước danh từ cần có số lượng từ.\n- \"怎么\" có thể độc lập đứng đầu câu tỏ ý ngạc nhiên.",
+                    "title": "Phân biệt \"怎么\" và \"怎么样\"",
+                    "words": [
+                        "怎么",
+                        "怎么样"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "如何",
+                    "若何",
+                    "何如",
+                    "怎样"
+                ],
+                "anto": [
+                    "那么"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "zěnme",
+            "cn_vi": "chẩm ma",
+            "popularity": {
+                "notebook": 923,
+                "search": 22435
+            },
+            "word": "怎么",
+            "id": 63036,
+            "phonetic": "zenme",
+            "rank": 224,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄗㄣˇㄇㄜ˙ㄧㄤˋ",
+            "_id": "dc6210e4a1c0000398607b6ea67f07d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chẳng ra gì; chẳng ra sao cả; xoàng xỉnh; thường thôi; chẳng có gì đặc sắc",
+                            "explain": "平平常常;不很好",
+                            "examples": [
+                                {
+                                    "m": "người này chẳng ra gì",
+                                    "p_vn": "nguoi nay chang ra gi",
+                                    "_id": "5f4959ebd40673220f2cf7ec7a4bd0c2",
+                                    "id": 3059,
+                                    "type": "e_cnvi",
+                                    "e": "这个人不怎么样",
+                                    "p_cn": "zhege ren bu zenmeyang",
+                                    "p": "zhège rén bù zěnmeyàng"
+                                },
+                                {
+                                    "m": "cấu tứ của bức hoạ này rất hay, chỉ có màu thì chẳng có gì đặc sắc cả",
+                                    "p_vn": "cau tu cua buc hoa nay rat hay, chi co mau thi chang co gi dac sac ca",
+                                    "_id": "0352dcddcfaff1e43ff4dedb2c6bd008",
+                                    "id": 3060,
+                                    "type": "e_cnvi",
+                                    "e": "这幅画儿的构思还不错，就是着色不怎么样",
+                                    "p_cn": "zhe fu huar de gousi hai bucuo, jiushi zhuose bu zenmeyang",
+                                    "p": "zhè fú huàr de gòusī hái bùcuò, jiùshì zhuósè bù zěnmeyàng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"不怎么\" là phủ định của \"怎么\"， \"不怎么样\" là phủ định của \"怎么样\".\n- \"不怎么\" dùng để làm trạng ngữ, thể hiện ý nghĩa \"không quá, không thường, không có gì,..\", \"不怎么样\" biểu hiện thái độ phủ định một cách khéo léo, thường được dùng nhiều làm vị ngữ hoặc bổ ngữ, có ý nghĩa \"không tốt, không quá tốt\", chúng không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"不怎么\" và \"不怎么样\"",
+                    "words": [
+                        "不怎么",
+                        "不怎么样"
+                    ]
+                },
+                {
+                    "mean_vi": "\"不怎么样\" là từ dùng trong văn nói, có ý nghĩa đánh giá về người hoặc sự vật nào đó, có ý nghĩa \"không tốt, không quá tốt, làm cho người khác không hài lòng\", là cách nói khá tùy tiện, phạm vi sử dụng của \"不好\" rộng.\nPhía trước của \"不怎么样\" không thể thêm các phó từ chỉ mức độ :\"很，非常，..\", \"不好\" có thể.",
+                    "title": "Phân biệt \"不怎么样\" và \"不好\"",
+                    "words": [
+                        "不怎么样",
+                        "不好"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "bù zě me yàng",
+            "cn_vi": "bất chẩm ma dạng",
+            "popularity": {
+                "notebook": 81,
+                "search": 765
+            },
+            "word": "不怎么样",
+            "id": 5036,
+            "phonetic": "buzemeyang",
+            "rank": 11937,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄓㄜ˙",
+            "_id": "5498e2f3461e1e89c7225a513e8c3001",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "thế nào",
+                            "explain": "询问动作或情况",
+                            "examples": [
+                                {
+                                    "m": "anh thế nào?",
+                                    "p_vn": "anh the nao?",
+                                    "_id": "5631c556d30ed3d714904b7de99c6bbf",
+                                    "id": 48510,
+                                    "type": "e_cnvi",
+                                    "e": "你怎么着?",
+                                    "p_cn": "ni zenmezhe?",
+                                    "p": "nǐ zěnmezhe?"
+                                },
+                                {
+                                    "m": "Chúng tôi đều ghi tên tham gia, anh định thế nào?",
+                                    "p_vn": "chung toi deu ghi ten tham gia, anh dinh the nao?",
+                                    "_id": "2d18dea75a7d444ed027911296140512",
+                                    "id": 48511,
+                                    "type": "e_cnvi",
+                                    "e": "我们都报名参加了，你打算怎么着?",
+                                    "p_cn": "women dou baoming canjiale, ni dasuan zenmezhe?",
+                                    "p": "wǒmen dōu bàomíng cānjiāle, nǐ dǎsuan zěnmezhe?"
+                                },
+                                {
+                                    "m": "Anh định làm thế nào?",
+                                    "p_vn": "anh dinh lam the nao?",
+                                    "_id": "1751cbf175deea10e42131e8fe008ce5",
+                                    "id": 48512,
+                                    "type": "e_cnvi",
+                                    "e": "你打算怎么着?",
+                                    "p_cn": "ni dasuan zenmezhe?",
+                                    "p": "nǐ dǎsuan zěnmezhe?"
+                                },
+                                {
+                                    "m": "Cô ấy nãy giờ không lên tiếng, giận dỗi hay sao ấy?",
+                                    "p_vn": "co ay nay gio khong len tieng, gian doi hay sao ay?",
+                                    "_id": "2bb3aa0ec8e2e477dfd0b7771b8193f4",
+                                    "id": 48513,
+                                    "type": "e_cnvi",
+                                    "e": "她半天不做声，是生气了还是怎么着?",
+                                    "p_cn": "ta bantian bu zuo sheng, shi shengqile haishi zenmezhe?",
+                                    "p": "tā bàntiān bù zuò shēng, shì shēngqìle háishi zěnmezhe?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thế nào; làm gì (phiếm chỉ động tác hoặc tình huống)",
+                            "explain": "泛指动作或情况",
+                            "examples": [
+                                {
+                                    "m": "Một cá nhân không thể muốn thế nào thì được thế ấy.",
+                                    "p_vn": "mot ca nhan khong the muon the nao thi duoc the ay.",
+                                    "_id": "6e104ba20a17981adc8c81a22e9fdbbd",
+                                    "id": 48514,
+                                    "type": "e_cnvi",
+                                    "e": "一个人不能想怎么着就怎么着。",
+                                    "p_cn": "yige ren buneng xiang zenmezhe jiu zenmezhe.",
+                                    "p": "yīgè rén bùnéng xiǎng zěnmezhe jiù zěnmezhe."
+                                },
+                                {
+                                    "m": "Anh không thể muốn làm gì thì làm?",
+                                    "p_vn": "anh khong the muon lam gi thi lam?",
+                                    "_id": "c4cbb41a9cf66cee9a192a6e656dcd29",
+                                    "id": 48515,
+                                    "type": "e_cnvi",
+                                    "e": "你不能想怎么着就怎么着。",
+                                    "p_cn": "ni buneng xiang zenmezhe jiu zenmezhe.",
+                                    "p": "nǐ bùnéng xiǎng zěnmezhe jiù zěnmezhe."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 20,
+                "search": 352
+            },
+            "snym": {
+                "syno": [
+                    "怎么样"
+                ]
+            },
+            "cn_vi": "chẩm ma trứ",
+            "pinyin": "zěnmezhe",
+            "word": "怎么着",
+            "id": 63038,
+            "phonetic": "zenmezhe",
+            "rank": 19986,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄗㄣˇㄇㄜ˙",
+            "_id": "47339e2c448f4df581c084a69fed80e9",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "dù cho như thế nào ...",
+                            "explain": "no matter how ...",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 33
+            },
+            "snym": null,
+            "cn_vi": "tái chẩm ma",
+            "pinyin": "zài zěnme",
+            "word": "再怎么",
+            "id": 113884,
+            "phonetic": "zaizenme",
+            "rank": 69109,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄌㄜ˙",
+            "_id": "4dd7fa08a85186ae380eb8737e5dbe46",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "chuyện gì vậy; sao vậy; có chuyện gì sao; sao thế",
+                            "explain": "询问情况",
+                            "examples": [
+                                {
+                                    "m": "Cậu sao vậy?",
+                                    "p_vn": "cạu sao vạy?",
+                                    "_id": "c0fb569df3556ccddfe640486624d326",
+                                    "id": 87394,
+                                    "type": "e_cnvi",
+                                    "e": "你怎么了",
+                                    "p_cn": "ni zenmele",
+                                    "p": "nǐ zěnmele"
+                                },
+                                {
+                                    "m": "Giám đốc Cao, ông sao vậy?",
+                                    "p_vn": "giám dóc cao, ong sao vạy?",
+                                    "_id": "c0fb569df3556ccddfe640486624e279",
+                                    "id": 87395,
+                                    "type": "e_cnvi",
+                                    "e": "高经理，你怎么了？",
+                                    "p_cn": "gao jingli, ni zenmele?",
+                                    "p": "gāo jīnglǐ, nǐ zěnmele?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 121,
+                "search": 3918
+            },
+            "snym": null,
+            "cn_vi": "chẩm ma liễu",
+            "pinyin": "zěnmele",
+            "word": "怎么了",
+            "id": 82842,
+            "phonetic": "zenmele",
+            "rank": 3072,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄅㄢˋ",
+            "_id": "d650aa940d4e9ca61a540329ff1b75ec",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "những gì được thực hiện, làm thế nào",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Mọi người bàn bạc việc này nên làm như thế nào.",
+                                    "p_vn": "moi nguoi ban bac viec nay nen lam nhu the nao.",
+                                    "_id": "01622858a38f0407e5f2420154bc13fe",
+                                    "id": 16637,
+                                    "type": "e_cnvi",
+                                    "e": "大家合合计计这事该怎么办。",
+                                    "p_cn": "dajia he he ji ji zhe shi gai zenme ban.",
+                                    "p": "dàjiā hé hé ji ji zhè shì gāi zěnme bàn."
+                                },
+                                {
+                                    "m": "Cuối cùng thì chuyện này nên làm thế nào, tốt nhất là để cho mọi người quyết định.",
+                                    "p_vn": "cuoi cung thi chuyen nay nen lam the nao, tot nhat la de cho moi nguoi quyet dinh.",
+                                    "_id": "04250fb6e56536d2cd5bd6626102be14",
+                                    "id": 22502,
+                                    "type": "e_cnvi",
+                                    "e": "这件事情究竟应该怎么办，最好是由大家来决定。",
+                                    "p_cn": "zhe jian shiqing jiujing yinggai zenme ban, zui hao shi you dajia lai jueding.",
+                                    "p": "zhè jiàn shìqing jiùjìng yīnggāi zěnme bàn, zuì hǎo shì yóu dàjiā lái juédìng."
+                                },
+                                {
+                                    "m": "trong lòng rối bời, chẳng biết làm thế nào nữa.",
+                                    "p_vn": "trong long roi boi chang biet lam the nao nua",
+                                    "_id": "14633f8125517a3e9f97a66f628d5465",
+                                    "id": 27635,
+                                    "type": "e_cnvi",
+                                    "e": "心里乱腾腾的，不知怎么办才好。",
+                                    "p_cn": "xinli luan tengteng de buzhi zenme ban cai hao",
+                                    "p": "xīnlǐ luàn téngténg de, bùzhī zěnme bàn cái hǎo."
+                                },
+                                {
+                                    "m": "anh nghĩ xem, việc này nên giải quyết như thế nào.",
+                                    "p_vn": "anh nghi xem, viec nay nen giai quyet nhu the nao.",
+                                    "_id": "242d0e0829bee4111f1dc0e220f6f0ee",
+                                    "id": 43676,
+                                    "type": "e_cnvi",
+                                    "e": "你 寻思 寻思这件事该怎么办。",
+                                    "p_cn": "ni xunsi xunsi zhe jian shi gai zenme ban",
+                                    "p": "nǐ xúnsi xúnsi zhè jiàn shì gāi zěnme bàn."
+                                },
+                                {
+                                    "m": "nếu như cấp trên trách cứ thì biết làm sao đây?",
+                                    "p_vn": "neu nhu cap tren trach cu thi biet lam sao day?",
+                                    "_id": "28f063b57566229c924d763293db6f03",
+                                    "id": 14902,
+                                    "type": "e_cnvi",
+                                    "e": "要是上面怪罪下来怎么办?",
+                                    "p_cn": "yaoshi shangmian guaizui xialai zenme ban?",
+                                    "p": "yàoshi shàngmiàn guàizuì xiàlái zěnme bàn?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 138,
+                "search": 2678
+            },
+            "snym": null,
+            "lv_hsk_new": "2",
+            "pinyin": "zěnme bàn",
+            "cn_vi": "chẩm ma biện",
+            "word": "怎么办",
+            "id": 82948,
+            "phonetic": "zenmeban",
+            "rank": 4380,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": {
+                "pinyin": "hang",
+                "examples": "你的旅行怎么样?",
+                "measure": "行"
+            },
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄧㄤˋ",
+            "_id": "4d02a05ec19f557f537da788f0df4e1a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "thế nào",
+                            "explain": "怎样",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ra làm sao; làm gì (thay thế động tác hoặc tình huống không nói ra, chỉ dùng trong hình thức phủ định)",
+                            "explain": "代替某种不说出来的动作或情况 (只用于否定式，比直说委婉); 询问性质、状况、方式、原因等",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy vẽ cũng chẳng đẹp lắm.",
+                                    "p_vn": "anh ay ve cung chang dep lam.",
+                                    "_id": "3c76e9c856888e7ae204fd9b422e5be9",
+                                    "id": 48508,
+                                    "type": "e_cnvi",
+                                    "e": "他画得也并不怎么样(=并不好)。",
+                                    "p_cn": "ta hua de ye bing bu zenmeyang (=bing bu hao).",
+                                    "p": "tā huà dé yě bìng bù zěnmeyàng (=bìng bù hǎo)."
+                                },
+                                {
+                                    "m": "Đó là sự lầm lỡ nhất thời của anh ấy, không lẽ quở phạt anh ấy.",
+                                    "p_vn": "do la su lam lo nhat thoi cua anh ay, khong le quo phat anh ay.",
+                                    "_id": "f2138d0e0fc5ea555ebfca5340038e1f",
+                                    "id": 48509,
+                                    "type": "e_cnvi",
+                                    "e": "那是他一时的糊涂，也不好怎么样他(=责罚他)。",
+                                    "p_cn": "na shi ta yishi de hutu, ye bu hao zenmeyang ta (=zefa ta).",
+                                    "p": "nà shì tā yīshí de hútú, yě bù hǎo zěnmeyàng tā (=zéfá tā)."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "ra sao",
+                            "explain": "询问性质、状况、方式等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"怎么样\" nghiêng về những thứ bên trong.\n\"什么样\" chú trọng những đặc điểm bên ngoài, thể loại cụ thể.",
+                    "title": "Phân biệt \"怎么样\" và \"什么样\"",
+                    "words": [
+                        "怎么样",
+                        "什么样"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Đều là đại từ.\n- Đều có thể dùng trong câu nghi vấn để hỏi về cách thức, tính chất, làm trạng ngữ trong câu, có thể thay thế cho nhau.\n- Đều có thể dùng thay thế những động tác, tình huống không nói ra.\nĐều có thể kết hợp với 无论、不管、不论、都、也。\n- Đều có thể dùng với tính chất của đại từ tùy chỉ, hư chỉ.\n- Đều có thể dùng trong câu trần thuật.\nKhác:\n- \"怎么\" khi làm trạng ngữ có thể hỏi về nguyên nhân.\n\"怎么样\" không có cách dùng này.\n- \"怎么样\" có thể dùng độc lập làm vị ngữ để hỏi tình hình.\n- \"怎么\" phía sau kết hợp với 了 để chỉ tình huống mới xuất hiện.\n\"怎么样\" thường kết hợp với 了 để chỉ sự việc đã biết, người nói dùng hình thức này hỏi là để muốn biết thêm những thông tin mới.\n- \"怎么\" khi làm định ngữ để hỏi về tính chất, trước danh từ bắt buộc phải có số lượng từ.\n\"怎么样\" khi làm định ngữ để hỏi về tính chất, trước danh từ cần có số lượng từ.\n- \"怎么\" có thể độc lập đứng đầu câu tỏ ý ngạc nhiên.",
+                    "title": "Phân biệt \"怎么\" và \"怎么样\"",
+                    "words": [
+                        "怎么",
+                        "怎么样"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "怎么着",
+                    "好不好"
+                ]
+            },
+            "lv_hsk_new": "1, 2",
+            "pinyin": "zěnme yàng",
+            "cn_vi": "chẩm ma dạng",
+            "popularity": {
+                "notebook": 826,
+                "search": 15833
+            },
+            "word": "怎么样",
+            "id": 63037,
+            "phonetic": "zenmeyang",
+            "rank": 450,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "zhan",
+                "examples": "不好意思，我想请问去车站怎么走？",
+                "measure": "站"
+            },
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄗㄡˇ",
+            "_id": "fcdf18614097ca20fe22a8eef61f8617",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Đi thế nào",
+                            "explain": "怎么走：生活实用类软件",
+                            "examples": [
+                                {
+                                    "m": "ban ngày ban mặt thế này, anh làm sao mà đi lạc đường!",
+                                    "p_vn": "ban ngay ban mat the nay anh lam sao ma di lac duong",
+                                    "_id": "7a5dc8f8d46d91c4d4a3ff345e567b21",
+                                    "id": 6666,
+                                    "type": "e_cnvi",
+                                    "e": "大天白日的，你怎么走迷了路!",
+                                    "p_cn": "da tianbai ri de ni zenme zou mile lu",
+                                    "p": "dà tiānbái rì de, nǐ zěnme zǒu míle lù!"
+                                },
+                                {
+                                    "m": "Anh đứng chắn hết cửa, làm sao người khác đi được?",
+                                    "p_vn": "anh dung chan het cua, lam sao nguoi khac di duoc?",
+                                    "_id": "83d988ef2938e5f873af9dc4d8b55099",
+                                    "id": 9372,
+                                    "type": "e_cnvi",
+                                    "e": "你堵着门，叫别人怎么走哇?",
+                                    "p_cn": "ni duzhe men, jiao bieren zenme zou wa?",
+                                    "p": "nǐ dǔzhe mén, jiào biéren zěnme zǒu wa?"
+                                },
+                                {
+                                    "m": "Xin hỏi phòng hành chính đi thế nào",
+                                    "p_vn": "Xin hoi phong hanh chinh di the nao",
+                                    "_id": "d7aa80b54fc7425aae1caae134fb1b81",
+                                    "id": 54774,
+                                    "type": "e_cnvi",
+                                    "e": "请问行政部怎么走?",
+                                    "p_cn": "Qingwen xingzheng bu zenme zou?",
+                                    "p": "Qǐngwèn xíngzhèng bù zěnme zǒu?"
+                                },
+                                {
+                                    "m": "anh ấy cũng không nói được đường đến nông trường đi như thế nào.",
+                                    "p_vn": "anh ay cung khong noi duoc duong den nong truong di nhu the nao",
+                                    "_id": "e7ccc1e632dea0288a44b2b7876137d5",
+                                    "id": 36838,
+                                    "type": "e_cnvi",
+                                    "e": "他也说不上到农场去的路怎么走。",
+                                    "p_cn": "ta ye shuobushang dao nongchang qu de lu zenme zou",
+                                    "p": "tā yě shuōbushàng dào nóngchǎng qù de lù zěnme zǒu."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 44,
+                "search": 695
+            },
+            "snym": null,
+            "cn_vi": "chẩm ma tẩu",
+            "pinyin": "zěnme zǒu",
+            "word": "怎么走",
+            "id": 70638,
+            "phonetic": "zenmezou",
+            "rank": 12769,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄍㄨㄛˋ",
+            "_id": "5485ed98003444a6b0a09efab3b549bc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Trải qua như thế nào?",
+                            "explain": "《怎么过》是2003年零点乐队演唱的歌曲，收录于专辑《越来越》中。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 254
+            },
+            "snym": null,
+            "cn_vi": "chẩm ma quá",
+            "pinyin": "zěnmeguò",
+            "word": "怎么过",
+            "id": 85123,
+            "phonetic": "zenmeguo",
+            "rank": 24576,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄍㄨㄢˇㄗㄣˇㄇㄜ˙ㄧㄤˋ",
+            "_id": "036fdaf90d42452d9da1091362d90d2a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Mặc kệ thế nào",
+                            "explain": "《不管怎样》狂放的、自由的，诚恳不作做的ROCK摇滚乐，力宏最有态度的一次真实呈现。",
+                            "examples": [
+                                {
+                                    "m": "Dù sao, kế hoạch cuối cùng cũng được thực hiện",
+                                    "p_vn": "du sao, ke hoach cuoi cung cung duoc thuc hien",
+                                    "_id": "ea3d67d6cf7a4bb1a876cbcaf9ac4c38",
+                                    "id": 55254,
+                                    "type": "e_cnvi",
+                                    "e": "不管怎么样，计划总算付诸实施了。",
+                                    "p_cn": "buguan zenmeyang, jihua zongsuan fu zhu shishile.",
+                                    "p": "Bùguǎn zěnmeyàng, jìhuà zǒngsuàn fù zhū shíshīle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 97
+            },
+            "snym": null,
+            "cn_vi": "bất quản chẩm ma dạng",
+            "pinyin": "bùguǎn zěnme yàng",
+            "word": "不管怎么样",
+            "id": 84539,
+            "phonetic": "buguanzenmeyang",
+            "rank": 42185,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄏㄨㄟˊㄕˋ",
+            "_id": "f1e39114635d4dbf85d6325151f49237",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm thế nào mà có thể được?",
+                            "explain": "how could that be?",
+                            "examples": [
+                                {
+                                    "m": "việc này rốt cuộc là thế nào đây? anh đi nghe ngóng tí xem.",
+                                    "p_vn": "viec nay rot cuoc la the nao day? anh di nghe ngong ti xem.",
+                                    "_id": "44f09c17dee33d48123da02faa3f6b23",
+                                    "id": 26286,
+                                    "type": "e_cnvi",
+                                    "e": "这究竟是怎么回事?你去了解一下。",
+                                    "p_cn": "zhe jiujing shi zenme hui shi? ni qu liao jie yixia.",
+                                    "p": "zhè jiùjìng shì zěnme huí shì? nǐ qù liǎo jiè yīxià."
+                                },
+                                {
+                                    "m": "ơ, thế này là thế nào?",
+                                    "p_vn": "o the nay la the nao",
+                                    "_id": "6e95520bda11314349a0766e0bab9579",
+                                    "id": 45118,
+                                    "type": "e_cnvi",
+                                    "e": "咦，这是怎么回事?",
+                                    "p_cn": "yi zhe shi zenme hui shi",
+                                    "p": "yí, zhè shì zěnme huí shì?"
+                                },
+                                {
+                                    "m": "nghe anh ấy giải thích xong, tôi mới rõ chuyện là thế nào",
+                                    "p_vn": "nghe anh ay giai thich xong, toi moi ro chuyen la the nao",
+                                    "_id": "9d616bc33db13cbb64e6e74325000552",
+                                    "id": 3241,
+                                    "type": "e_cnvi",
+                                    "e": "经他解释之后，我才明白是怎么回事。",
+                                    "p_cn": "jing ta jieshi zhihou, wo cai mingbai shi zenme hui shi.",
+                                    "p": "jīng tā jiěshì zhīhòu, wǒ cái míngbái shì zěnme huí shì."
+                                },
+                                {
+                                    "m": "Việc này là thế nào?",
+                                    "p_vn": "viec nay la the nao?",
+                                    "_id": "a41dbcc2fd1e39c916a01e7189017ff7",
+                                    "id": 48503,
+                                    "type": "e_cnvi",
+                                    "e": "这是怎么回事?",
+                                    "p_cn": "zhe shi zenme hui shi?",
+                                    "p": "zhè shì zěnme huí shì?"
+                                },
+                                {
+                                    "m": "ông trời ơi, chuyện này là như thế nào đây!",
+                                    "p_vn": "ong troi oi chuyen nay la nhu the nao day",
+                                    "_id": "a5bb408d0f6f3e0c460dc35196355b79",
+                                    "id": 24992,
+                                    "type": "e_cnvi",
+                                    "e": "老天爷，这是怎么回事儿!",
+                                    "p_cn": "laotianye zhe shi zenme hui shi er",
+                                    "p": "lǎotiānyé, zhè shì zěnme huí shì er!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "Làm thế nào mà đi về?",
+                            "explain": "how did that come about?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chuyện gì đang xảy ra vậy",
+                            "explain": "what's going on?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tất cả về cái gì?",
+                            "explain": "what's it all about?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "có chuyện gì vậy",
+                            "explain": "what's the matter?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 57,
+                "search": 1615
+            },
+            "snym": null,
+            "cn_vi": "chẩm ma hồi sự",
+            "pinyin": "zěnme huí shì",
+            "word": "怎么回事",
+            "id": 132123,
+            "phonetic": "zenmehuishi",
+            "rank": 6649,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄉㄡㄒㄧㄥˊ",
+            "_id": "88f2afcf2df14a79ad78a9167517c61d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Sao cũng được",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 83
+            },
+            "snym": null,
+            "cn_vi": "chẩm ma đô hành",
+            "pinyin": "zěnme dōu xíng",
+            "word": "怎么都行",
+            "id": 152684,
+            "phonetic": "zenmedouxing",
+            "rank": 45548,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄍㄠˇㄉㄜ˙",
+            "_id": "1225e1e39cad413cabde7bb87055b2e1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Chuyện đã xảy ra như thế nào?",
+                            "explain": "How did it happen?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Có chuyện gì?",
+                            "explain": "What went wrong?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Có chuyện gì vậy?",
+                            "explain": "What's up?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Chuyện gì vậy?",
+                            "explain": "What's wrong?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 251
+            },
+            "snym": null,
+            "cn_vi": "chẩm ma cảo đích",
+            "pinyin": "zěnme gǎo de",
+            "word": "怎么搞的",
+            "id": 130195,
+            "phonetic": "zenmegaode",
+            "rank": 24770,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄕㄨㄛㄋㄜ˙",
+            "_id": "ba02210a3f934e9e949c30deeabc5143",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Làm thế nào mà?",
+                            "explain": "How come?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "Tại sao vậy?",
+                            "explain": "Why is that?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 319
+            },
+            "snym": null,
+            "cn_vi": "chẩm ma thuyết ni",
+            "pinyin": "zěnme shuō ne",
+            "word": "怎么说呢",
+            "id": 132125,
+            "phonetic": "zenmeshuone",
+            "rank": 21258,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄇㄜ˙ㄉㄜ˙ㄌㄜ˙",
+            "_id": "c722d70a56c546efa892d7057d1f16f7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "làm sao có thể?",
+                            "explain": "how can this be?",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thật là một mớ hỗn độn kinh khủng!",
+                            "explain": "what an awful mess!",
+                            "examples": []
+                        },
+                        {
+                            "mean": "những gì được thực hiện?",
+                            "explain": "what's to be done?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 45
+            },
+            "snym": null,
+            "cn_vi": "chẩm ma đắc liễu",
+            "pinyin": "zěnme déliǎo",
+            "word": "怎么得了",
+            "id": 132124,
+            "phonetic": "zenmedeliao",
+            "rank": 60481,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d9b8902c920e46abbaec84583dd2c6e6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "sao không",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "việc này có liên quan tới anh ấy, làm sao mà anh ấy không sốt ruột cho được?",
+                                    "p_vn": "viec nay co lien quan toi anh ay lam sao ma anh ay khong sot ruot cho duoc",
+                                    "_id": "25db802d96f42c4f657f7f675449775f",
+                                    "id": 39223,
+                                    "type": "e_cnvi",
+                                    "e": "这事跟他痛痒相关，他怎能不着急?",
+                                    "p_cn": "zhe shi gen ta tongyang xiangguan ta zen neng bu zhao ji",
+                                    "p": "zhè shì gēn tā tòngyǎng xiāngguān, tā zěn néng bù zháo jí?"
+                                },
+                                {
+                                    "m": "Nhiệm vụ không hoàn thành, tôi không lo sao được?",
+                                    "p_vn": "nhiem vu khong hoan thanh, toi khong lo sao duoc?",
+                                    "_id": "778a86181c9cd47c2ef82cefb1fa1324",
+                                    "id": 48500,
+                                    "type": "e_cnvi",
+                                    "e": "任务完不成，我怎能不着急呢?",
+                                    "p_cn": "renwu wan bucheng, wo zen neng bu zhao ji ne?",
+                                    "p": "rènwù wán bùchéng, wǒ zěn néng bù zháo jí ne?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chẩm năng bất",
+            "pinyin": "zěn néng bù",
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "word": "怎能不",
+            "id": 182962,
+            "phonetic": "zennengbu",
+            "rank": 155908,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄇㄜ˙ㄇㄜ˙",
+            "_id": "cd7fa47e37114bec9872a81cdeeb0b4c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "onom",
+                    "means": [
+                        {
+                            "mean": "âm thanh hôn nhau (tiếng lóng onom.)",
+                            "explain": "kissing sound (slang onom.)",
+                            "examples": [
+                                {
+                                    "m": "Ừ, được rồi, thế cậu đi làm đi, đừng làm mệt quá nhé, muah!",
+                                    "p_vn": "u, duoc roi, the cau di lam di, dung lam met qua nhe, muah!",
+                                    "_id": "44ff7a68ce8e7175791cb8c256f2159d",
+                                    "id": 53623,
+                                    "type": "e_cnvi",
+                                    "e": "哦，好的，那你先上班，不要太累了，么么哒!",
+                                    "p_cn": "o, hao de, na ni xian shangban, buyao tai leile, me me da!",
+                                    "p": "Ó, hǎo de, nà nǐ xiān shàngbān, bùyào tài lèile, me me dā!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 210
+            },
+            "snym": {
+                "syno": [
+                    "姆玛"
+                ]
+            },
+            "cn_vi": "ma ma",
+            "pinyin": "me me",
+            "word": "么么",
+            "id": 87887,
+            "phonetic": "meme",
+            "rank": 27537,
+            "kind": [
+                "onom"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄣˇ",
+            "_id": "f1bfa4b33e1a787de8c03cc9f52ff962",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "mức độ,lí do của một hành vi hoặc trạng",
+                            "examples": [
+                                94348,
+                                94349
+                            ],
+                            "struct": "怎+ Động từ/ tính từ"
+                        },
+                        {
+                            "explain": "nhấn mạnh không thể hoặc không nên xảy ra trong một số trường hợp hoặc trạng thái.",
+                            "examples": [
+                                94350,
+                                94351,
+                                94352
+                            ],
+                            "struct": "怎 + 能/会 + Động từ/Tính từ+呢"
+                        }
+                    ],
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "sao; thế nào; làm sao",
+                            "explain": "怎么",
+                            "examples": [
+                                {
+                                    "m": "Sao anh không nói sớm?",
+                                    "p_vn": "sao anh khong noi som?",
+                                    "_id": "5f70693c87092e5666cf892788b357d1",
+                                    "id": 48499,
+                                    "type": "e_cnvi",
+                                    "e": "你怎不早说呀?",
+                                    "p_cn": "ni zen bu zao shuo ya?",
+                                    "p": "nǐ zěn bù zǎo shuō ya?"
+                                },
+                                {
+                                    "m": "Nhiệm vụ không hoàn thành, tôi không lo sao được?",
+                                    "p_vn": "nhiem vu khong hoan thanh, toi khong lo sao duoc?",
+                                    "_id": "778a86181c9cd47c2ef82cefb1fa1324",
+                                    "id": 48500,
+                                    "type": "e_cnvi",
+                                    "e": "任务完不成，我怎能不着急呢?",
+                                    "p_cn": "renwu wan bucheng, wo zen neng bu zhao ji ne?",
+                                    "p": "rènwù wán bùchéng, wǒ zěn néng bù zháo jí ne?"
+                                },
+                                {
+                                    "m": "Anh ấy sao không nói chuyện.",
+                                    "p_vn": "anh ay sao khong noi chuyen.",
+                                    "_id": "f2efc94449b26b3e2967bccbc965a532",
+                                    "id": 94335,
+                                    "type": "e_cnvi",
+                                    "e": "他怎么不说话。",
+                                    "p_cn": "ta zenme bu shuohua.",
+                                    "p": "tā zěnme bù shuōhuà."
+                                },
+                                {
+                                    "m": "Cô ấy sao lại thức giận rồi.",
+                                    "p_vn": "co ay sao lai thuc gian roi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc965a9c1",
+                                    "id": 94336,
+                                    "type": "e_cnvi",
+                                    "e": "她怎么又生气了。",
+                                    "p_cn": "ta zenme you shengqile.",
+                                    "p": "tā zěnme yòu shēngqìle."
+                                },
+                                {
+                                    "m": "Anh làm sao có thể lừa em được.",
+                                    "p_vn": "anh lam sao co the lua em duoc.",
+                                    "_id": "f2efc94449b26b3e2967bccbc965ac12",
+                                    "id": 94337,
+                                    "type": "e_cnvi",
+                                    "e": "我怎么能骗你呢。",
+                                    "p_cn": "wo zenme neng pian ni ne.",
+                                    "p": "wǒ zěnme néng piàn nǐ ne."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 73,
+                "search": 6409
+            },
+            "snym": null,
+            "cn_vi": "chẩm",
+            "pinyin": "zěn",
+            "word": "怎",
+            "id": 63033,
+            "phonetic": "zen",
+            "rank": 1809,
+            "lv_tocfl": 4,
+            "compound": "怎地 ; 怎的 ; 怎么 ; 怎么样 ; 怎么着 ; 怎奈 ; 怎样"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄤˋㄨㄛˇㄗㄣˇㄇㄜ˙ㄕㄨㄛㄋㄧˇ",
+            "_id": "1cf88cc2438e47dab3e3a48fa5d5ae29",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Tôi không biết nên nói sao với bạn nữa",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Em không biết nên nói sao với anh  nữa, tuần trước mới làm mất một cái, giờ lại làm mất nữa rồi.\nTôi không biết nói sao với anh nữa. Không biết công việc nào mới làm anh có thể làm dài lâu được",
+                                    "p_vn": "em khong biet nen noi sao voi anh  nua, tuan truoc moi lam mat mot cai, gio lai lam mat nua roi.\ntoi khong biet noi sao voi anh nua. khong biet cong viec nao moi lam anh co the lam dai lau duoc",
+                                    "_id": "a6cbaf45146c4118924c9d998a214fc6",
+                                    "id": 68428,
+                                    "type": "e_cnvi",
+                                    "e": "你让我怎么说你，上周刚丢了一个，现在又丢了。\n你让我怎么说你，哪份工作你能坚持干下去。",
+                                    "p_cn": "ni rang wo zenme shuo ni, shang zhou gang diule yige, xianzai you diule.\nni rang wo zenme shuo ni, na fen gongzuo ni neng jianchi gan xiaqu.",
+                                    "p": "Nǐ ràng wǒ zěnme shuō nǐ, shàng zhōu gāng diūle yīgè, xiànzài yòu diūle.\nNǐ ràng wǒ zěnme shuō nǐ, nǎ fèn gōngzuò nǐ néng jiānchí gàn xiàqù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 93
+            },
+            "snym": null,
+            "cn_vi": "nhượng ngã chẩm ma thuyết nhĩ",
+            "pinyin": "ràng wǒ zěnme shuō nǐ",
+            "word": "让我怎么说你",
+            "id": 154115,
+            "phonetic": "rangwozenmeshuoni",
+            "rank": 43163,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄍㄨㄢˇㄗㄣˇㄧㄤˋ",
+            "_id": "6f442c0de09a4b9aa1f5db1c66d2704c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "conj",
+                    "means": [
+                        {
+                            "mean": "trong bất kỳ trường hợp nào",
+                            "explain": "in any case",
+                            "examples": []
+                        },
+                        {
+                            "mean": "không có vấn đề gì",
+                            "explain": "no matter what",
+                            "examples": [
+                                {
+                                    "m": "Bạn phải giúp giành chiến thắng cho dù thế nào đi nữa.",
+                                    "p_vn": "ban phai giup gianh chien thang cho du the nao di nua.",
+                                    "_id": "9514ded7739544909f04148ca51a845c",
+                                    "id": 67180,
+                                    "type": "e_cnvi",
+                                    "e": "不管怎样都要争取胜利",
+                                    "p_cn": "buguanzenyang dou yao zhengqu shengli",
+                                    "p": "bùguǎnzěnyáng dōu yào zhēngqǔ shènglì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thể nào",
+                            "explain": "不管怎么样, 表示不管条件怎样变化, 其结果始终不变",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 204
+            },
+            "snym": null,
+            "cn_vi": "bất quản chẩm dạng",
+            "pinyin": "bùguǎn zěnyàng",
+            "word": "不管怎样",
+            "id": 136203,
+            "phonetic": "buguanzenyang",
+            "rank": 27964,
+            "kind": [
+                "conj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "onom"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄜ˙ㄇㄜ˙ㄉㄚ",
+            "_id": "7dff40e2a728517d6931900905b5cdc0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "onom",
+                    "means": [
+                        {
+                            "mean": "muah; hôn",
+                            "explain": "可表为摸摸头安慰的意思，属萌萌表述概念范畴。又作“摸摸哒”、“摸摸大”，么么哒引申为表亲吻动作的拟声词，用以表达对一个人的钟情与喜爱。",
+                            "examples": [
+                                {
+                                    "m": "Ừ, được rồi, thế cậu đi làm đi, đừng làm mệt quá nhé, muah!",
+                                    "p_vn": "u, duoc roi, the cau di lam di, dung lam met qua nhe, muah!",
+                                    "_id": "44ff7a68ce8e7175791cb8c256f2159d",
+                                    "id": 53623,
+                                    "type": "e_cnvi",
+                                    "e": "哦，好的，那你先上班，不要太累了，么么哒!",
+                                    "p_cn": "o, hao de, na ni xian shangban, buyao tai leile, me me da!",
+                                    "p": "Ó, hǎo de, nà nǐ xiān shàngbān, bùyào tài lèile, me me dā!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 58,
+                "search": 1279
+            },
+            "snym": null,
+            "cn_vi": "ma ma đát",
+            "pinyin": "mō mō dà",
+            "word": "么么哒",
+            "id": 75838,
+            "phonetic": "memeda",
+            "rank": 8063,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "e6231d7f00824ee783241b6ab7075563",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "chưa sao",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "hoàn bất chẩm dạng",
+            "pinyin": "hái bù zě yàng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "还不怎样",
+            "id": 179068,
+            "phonetic": "haibuzeyang",
+            "rank": 158107,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "afe6f7900c9b4ebda350cd6f24971c81",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "ù xịa",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chẩm thuyết chẩm hảo",
+            "pinyin": "zěn shuō zěn hǎo",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "怎说怎好",
+            "id": 179268,
+            "phonetic": "zenshuozenhao",
+            "rank": 158107,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "66229274beae4b44a77300f95cdda23f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "sao không",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "tơ nhện tại sao không thể dệt vải?",
+                                    "p_vn": "to nhen tai sao khong the det vai?",
+                                    "_id": "2db0300ce57415bf619ca2cc86aa03be",
+                                    "id": 12947,
+                                    "type": "e_cnvi",
+                                    "e": "蜘蛛的丝为什么不能织布?",
+                                    "p_cn": "zhizhu de si weishenme buneng zhi bu?",
+                                    "p": "zhīzhū de sī wèishénme bùnéng zhī bù?"
+                                },
+                                {
+                                    "m": "Kí túc xá cũng chẳng phải nhà cậu, sao cậu lại cấm tôi không được phơi đồ?",
+                                    "p_vn": "ki tuc xa cung chang phai nha cau, sao cau lai cam toi khong duoc phoi do?",
+                                    "_id": "368bb304cc0744dfb461d0066ff56e71",
+                                    "id": 74764,
+                                    "type": "e_cnvi",
+                                    "e": "宿舍又不是你家，为什么不让我晾衣服？",
+                                    "p_cn": "sushe you bu shi ni jia, weishenme bu rang wo liang yifu?",
+                                    "p": "sùshè yòu bú shì nǐ jiā, wèishénme bù ràng wǒ liàng yīfu?"
+                                },
+                                {
+                                    "m": "Tại sao không dọn dẹp phòng cho sạch sẽ chứ?",
+                                    "p_vn": "tai sao khong don dep phong cho sach se chu?",
+                                    "_id": "aee13672ea471817b581457d9bdc45cf",
+                                    "id": 74063,
+                                    "e": "为什么不马上把你的房间打扫干净呢？",
+                                    "p_cn": "weishenme bu mashang ba ni de fangjian dasao ganjing ne?",
+                                    "type": "e_cnvi",
+                                    "p": "wèishénme bù mǎshàng bǎ nǐ de fángjiān dǎsǎo gānjìng ne?"
+                                },
+                                {
+                                    "m": "Tôi không hiểu tại sao họ rời đi mà không nói lời tạm biệt",
+                                    "p_vn": "toi khong hieu tai sao ho roi di ma khong noi loi tam biet",
+                                    "_id": "dca5544f3102427cb5f7e67e722d19fe",
+                                    "id": 68006,
+                                    "type": "e_cnvi",
+                                    "e": "我不明白他们为什么不告而别",
+                                    "p_cn": "wo bu mingbai tamen weishenme bu gao er bie",
+                                    "p": "Wǒ bù míngbái tāmen wèishénme bù gào ér bié"
+                                },
+                                {
+                                    "m": "Sao cậu không tới trường sớm một chút?",
+                                    "p_vn": "sao cau khong toi truong som mot chut?",
+                                    "_id": "f3491aac5c5743c58b63441ed85e3047",
+                                    "id": 76529,
+                                    "type": "e_cnvi",
+                                    "e": "你为什么不早点儿来学校呢？",
+                                    "p_cn": "ni weishenme bu zaodianr lai xuexiao ne?",
+                                    "p": "nǐ wèishénme bù zǎodiǎnr lái xuéxiào ne?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "vi thập ma bất",
+            "pinyin": "wèishéme bù",
+            "popularity": {
+                "notebook": 0,
+                "search": 35
+            },
+            "word": "为什么不",
+            "id": 182960,
+            "phonetic": "weishemebu",
+            "rank": 67043,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "part"
+            ],
+            "measure": null,
+            "zhuyin": "ㄇㄜ˙",
+            "_id": "1539c6ab85b5f29663406873bd112bdf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "part",
+                    "means": [
+                        {
+                            "mean": "thì; nào; sao; gì; thế",
+                            "explain": "用在一些指示代词或者疑问代词中",
+                            "examples": [
+                                {
+                                    "m": "Đây là cái gì?",
+                                    "p_vn": "day la cai gi?",
+                                    "_id": "55db399305625a14707d64b918dd1381",
+                                    "id": 102543,
+                                    "type": "e_cnvi",
+                                    "e": "这是什么？",
+                                    "p_cn": "zhe shi shenme?",
+                                    "p": "zhè shì shénme?"
+                                },
+                                {
+                                    "m": "Cứ quyết định như thế nhé.",
+                                    "p_vn": "cu quyet dinh nhu the nhe.",
+                                    "_id": "55db399305625a14707d64b918dd1fd1",
+                                    "id": 102544,
+                                    "type": "e_cnvi",
+                                    "e": "就这么定。",
+                                    "p_cn": "jiu zheme ding.",
+                                    "p": "jiù zhème dìng."
+                                },
+                                {
+                                    "m": "Vậy thì cùng đi nhé.",
+                                    "p_vn": "vay thi cung di nhe.",
+                                    "_id": "55db399305625a14707d64b918dd2a33",
+                                    "id": 102545,
+                                    "type": "e_cnvi",
+                                    "e": "那么一起去吧。",
+                                    "p_cn": "name yiqi qu ba.",
+                                    "p": "nàme yīqǐ qù ba."
+                                },
+                                {
+                                    "m": "Tại sao?",
+                                    "p_vn": "tai sao?",
+                                    "_id": "55db399305625a14707d64b918dd6131",
+                                    "id": 102553,
+                                    "type": "e_cnvi",
+                                    "e": "为什么？",
+                                    "p_cn": "weishenme?",
+                                    "p": "wèishénme?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "này; a (âm tiết trong bài hát)",
+                            "explain": "歌词中的衬字",
+                            "examples": [
+                                {
+                                    "m": "Hoa tháng năm đỏ a như lửa.",
+                                    "p_vn": "hoa thang nam do a nhu lua.",
+                                    "_id": "8bab94b3a1ce6ab352d8a50d8b0ccd12",
+                                    "id": 28241,
+                                    "type": "e_cnvi",
+                                    "e": "五月的花儿红呀么红似火。",
+                                    "p_cn": "wu yue de hua er hong ya me hong si huo.",
+                                    "p": "wǔ yuè de huā er hóng ya me hóng sì huǒ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 104,
+                "search": 6378
+            },
+            "snym": null,
+            "cn_vi": "ma.yêu",
+            "pinyin": "me",
+            "word": "么",
+            "id": 37334,
+            "phonetic": "me",
+            "rank": 1816,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "fc610644e0cb494c93cf715bbd13d23b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "đời nào",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chẩm hội",
+            "pinyin": "zěn huì",
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "word": "怎会",
+            "id": 177906,
+            "phonetic": "zenhui",
+            "rank": 109221,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄋㄞˋ",
+            "_id": "7dbbd6cae52a68e11d46fd5c1e5e71e1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "tiếc rằng; không biết làm sao được",
+                            "explain": "无奈",
+                            "examples": [
+                                {
+                                    "m": "biện pháp tuy hay, nhưng tiếc rằng thực hiện không được.",
+                                    "p_vn": "bien phap tuy hay, nhung tiec rang thuc hien khong duoc.",
+                                    "_id": "3d04e83384016b158c0fe5db6e029714",
+                                    "id": 48516,
+                                    "type": "e_cnvi",
+                                    "e": "办法虽好，怎奈行不通。",
+                                    "p_cn": "banfa suihao，zennai xingbutong。",
+                                    "p": "bànfǎ sūihǎo，zěnnài xíngbùtōng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 85
+            },
+            "snym": null,
+            "cn_vi": "chẩm nại",
+            "pinyin": "zěnnài",
+            "word": "怎奈",
+            "id": 63039,
+            "phonetic": "zennai",
+            "rank": 45115,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄨˋㄔㄚˋㄕㄣˊㄇㄜ˙",
+            "_id": "42eccd0c2e38bf9165379af817c2a07d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chẳng thiếu gì; đủ cả",
+                            "explain": "不缺什么",
+                            "examples": [
+                                {
+                                    "m": "nguyên vật liệu đã đủ cả, chỉ có điều chưa định được ngày khởi công",
+                                    "p_vn": "nguyen vat lieu da du ca, chi co dieu chua dinh duoc ngay khoi cong",
+                                    "_id": "c45f5b50c1cb3cff8bd0fff48960a273",
+                                    "id": 2617,
+                                    "type": "e_cnvi",
+                                    "e": "原材料已经不差什么了，只是开工日期还没确定。",
+                                    "p_cn": "yuancailiao yijing bu cha shenmeliao, zhishi kaigong riqi hai mei queding.",
+                                    "p": "yuáncáiliào yǐjīng bù chā shénmeliǎo, zhǐshì kāigōng rìqī hái méi quèdìng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xấp xỉ; gần giống nhau; hầu hết; hầu như",
+                            "explain": "差不多",
+                            "examples": [
+                                {
+                                    "m": "hầu hết mấy vùng này tôi đều đã đến cả rồi",
+                                    "p_vn": "hau het may vung nay toi deu da den ca roi",
+                                    "_id": "bdcb38c50f3da6b91e9c03af365b099e",
+                                    "id": 2618,
+                                    "type": "e_cnvi",
+                                    "e": "这几个地方不差什么我全都到过。",
+                                    "p_cn": "zhe ji ge difang bu cha shenme wo quandou daoguo.",
+                                    "p": "zhè jǐ gè dìfāng bù chā shénme wǒ quándōu dàoguò."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bình thường; thông thường",
+                            "explain": "平常;普通",
+                            "examples": [
+                                {
+                                    "m": "bao lương thực này nặng 200 cân, người bình thường vác không nổi",
+                                    "p_vn": "bao luong thuc nay nang 200 can, nguoi binh thuong vac khong noi",
+                                    "_id": "c88c8293928e47e4df11704cbda3c696",
+                                    "id": 2619,
+                                    "type": "e_cnvi",
+                                    "e": "这口袋粮食有二百斤，不差什么的人还真扛不动。",
+                                    "p_cn": "zhe koudai liangshi you erbai jin, bu cha shenmede ren hai zhen kang bu dong.",
+                                    "p": "zhè kǒudài liángshí yǒu èrbǎi jīn, bù chā shénmede rén hái zhēn káng bù dòng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "bất sai thập ma",
+            "pinyin": "bù chā shénme",
+            "word": "不差什么",
+            "id": 4608,
+            "phonetic": "buchashenme",
+            "rank": 70232,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄕㄥ",
+            "_id": "f46fae8c8f5d4fbc996a31dba3415375",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "thế nào",
+                            "explain": "how",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tại sao",
+                            "explain": "why",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 13
+            },
+            "snym": null,
+            "cn_vi": "chẩm sanh",
+            "pinyin": "zěn shēng",
+            "word": "怎生",
+            "id": 107671,
+            "phonetic": "zensheng",
+            "rank": 94697,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄋㄥˊ",
+            "_id": "052d6029e59948cfafa76c9da85ccbf8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "Có thể như thế nào?",
+                            "explain": "how can?",
+                            "examples": [
+                                {
+                                    "m": "Thời gian rảnh rỗi nên hưởng thụ, làm sao thiếu được trợ thủ là đồ ăn vặt cơ chứ",
+                                    "p_vn": "Thoi gian ranh roi nen huong thu, lam sao thieu duoc tro thu la do an vat co chu",
+                                    "_id": "03f31d599fef4b92a8cdc99fca543dfa",
+                                    "id": 68095,
+                                    "type": "e_cnvi",
+                                    "e": "休闲时刻享受轻松，怎能没有零食助阵",
+                                    "p_cn": "Xiuxian shike xiangshou qingsong, zen neng meiyou lingshi zhuzhen",
+                                    "p": "Xiūxián shíkè xiǎngshòu qīngsōng, zěn néng méiyǒu língshí zhùzhèn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "chẩm năng",
+            "pinyin": "zěn néng",
+            "word": "怎能",
+            "id": 102899,
+            "phonetic": "zenneng",
+            "rank": 57559,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄉㄜ˙",
+            "_id": "c04fef79e242d1ac66c915922bd0e4db",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "sao; tại sao; thế nào; như thế nào",
+                            "explain": "同'怎的'",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 63
+            },
+            "snym": null,
+            "cn_vi": "chẩm địa",
+            "pinyin": "zěndi",
+            "word": "怎地",
+            "id": 63035,
+            "phonetic": "zendi",
+            "rank": 52224,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "dao",
+                "examples": "他们从来没有遇过这样的问题，所以不知道怎样处理才好。",
+                "measure": "道"
+            },
+            "zhuyin": "ㄗㄣˇㄧㄤˋ",
+            "_id": "c4427cdd625f51a561644102fd75e2d2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "疑问代词",
+                    "means": [
+                        {
+                            "mean": "thế nào; ra sao",
+                            "explain": "询问性质、状况、方式等",
+                            "examples": [
+                                {
+                                    "m": "vở kịch nói của các anh dàn dựng như thế nào rồi?",
+                                    "p_vn": "vo kich noi cua cac anh dan dung nhu the nao roi",
+                                    "_id": "0052ceca9672edfa0526aa6ed05517b2",
+                                    "id": 48517,
+                                    "type": "e_cnvi",
+                                    "e": "你们的话剧排得怎样了?",
+                                    "p_cn": "nimen de huaju pai de zenyangle",
+                                    "p": "nǐmen de huàjù pái dé zěnyàngle?"
+                                },
+                                {
+                                    "m": "bộ binh và pháo binh phối hợp tác chiến như thế nào?",
+                                    "p_vn": "bo binh va phao binh phoi hop tac chien nhu the nao",
+                                    "_id": "070292c930e52f89ef70e857921e1684",
+                                    "id": 48518,
+                                    "type": "e_cnvi",
+                                    "e": "步兵和炮兵怎样配合作战?",
+                                    "p_cn": "bubing he paobing zenyang peihe zuozhan",
+                                    "p": "bùbīng hé pàobīng zěnyàng pèihé zuòzhàn?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thế nào (tính chất, tình huống hoặc phương thức)",
+                            "explain": "泛指性质、状况或方式",
+                            "examples": [
+                                {
+                                    "m": "nên thường xuyên tiến hành so sánh với hồi ức, nghĩ xem trước kia như thế nào, lại xem hiện nay như thế nào.",
+                                    "p_vn": "nen thuong xuyen tien hanh so sanh voi hoi uc nghi xem truoc kia nhu the nao lai xem hien nay nhu the nao",
+                                    "_id": "da76c7d7c8ca806c215838dad88fc7db",
+                                    "id": 48519,
+                                    "type": "e_cnvi",
+                                    "e": "要经常进行回忆对比，想想从前怎样，再看看现在怎样。",
+                                    "p_cn": "yao jingchang jinxing huiyi duibi xiang xiang congqian zenyang zai kan kan xianzai zenyang",
+                                    "p": "yào jīngcháng jìnxíng húiyì dùibǐ，xiǎngxiǎng cóngqián zěnyáng，zài kànkàn xiànzài zěnyáng。"
+                                },
+                                {
+                                    "m": "mọi người nói như thế nào, anh nên làm theo như thế ấy.",
+                                    "p_vn": "moi nguoi noi nhu the nao anh nen lam theo nhu the ay",
+                                    "_id": "37716682a6014befa4fd2ac6a24a2819",
+                                    "id": 48520,
+                                    "type": "e_cnvi",
+                                    "e": "人家怎样说，你就怎样做。",
+                                    "p_cn": "renjia zenyang shuo ni jiu zenyang zuo",
+                                    "p": "rénjiā zěnyáng shuō，nǐ jìu zěnyáng zuò。"
+                                },
+                                {
+                                    "m": "Không biết nên làm thế nào mới phải?",
+                                    "p_vn": "khong biet nen lam the nao moi phai",
+                                    "_id": "1a73bd014c83f16e075c0d9c17821cbf",
+                                    "id": 48521,
+                                    "type": "e_cnvi",
+                                    "e": "不知该怎样做才好?",
+                                    "p_cn": "buzhi gai zenyang zuo cai hao",
+                                    "p": "bùzhī gāi zěnyàng zuò cái hǎo?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Đều là đại từ.\n- Đều có thể dùng trong câu nghi vấn để hỏi về cách thức, tính chất, làm trạng ngữ trong câu, có thể thay thế cho nhau.\n- Đều có thể dùng thay thế những động tác, tình huống không nói ra.\nĐều có thể kết hợp với 无论、不管、不论、都、也。\n- Đều có thể dùng với tính chất của đại từ tùy chỉ, hư chỉ.\n- Đều có thể dùng trong câu trần thuật.\n- Có thể dùng độc lập làm vị ngữ để hỏi tình hình.\nKhác:\n- \"怎么\" khi làm định ngữ để hỏi về tính chất, trước danh từ bắt buộc phải có số lượng từ.\n\"怎样\" khi làm định ngữ để hỏi về tính chất, trước danh từ có thể không cần lượng từ.\n- \"怎么\" có thể độc lập đứng đầu câu tỏ ý ngạc nhiên.",
+                    "title": "Phân biệt \"怎么\" và \"怎样\"",
+                    "words": [
+                        "怎么",
+                        "怎样"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Đều là đại từ, đều là phương thức hỏi thăm, thăm dò ý kiến.\nKhác:\n- \"如何\" dùng trong văn viết, \"怎么\" dùng trong văn nói.\n- \"怎么\" dùng để hỏi nguyên nhân, \"如何\" không có cách dùng này.\n- \"如何\" có thể dùng ở cuối câu biểu thị sự hỏi thăm tình hình, trưng cầu ý kiến.\n\"怎么\" dùng ở đầu câu biểu thị sự ngạc nhiên, kinh ngạc.",
+                    "title": "Phân biệt \"怎样\" và \"如何\"",
+                    "words": [
+                        "怎样",
+                        "如何"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "怎么",
+                    "如何",
+                    "若何",
+                    "何如"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "zěnyàng",
+            "cn_vi": "chẩm dạng",
+            "popularity": {
+                "notebook": 100,
+                "search": 1794
+            },
+            "word": "怎样",
+            "id": 63040,
+            "phonetic": "zenyang",
+            "rank": 6114,
+            "kind": [
+                "pro",
+                "conj"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "d1443c0985a2476bb3af13640996bba6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "đâu dám",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chẩm cảm",
+            "pinyin": "zěn gǎn",
+            "popularity": {
+                "notebook": 4,
+                "search": 3
+            },
+            "word": "怎敢",
+            "id": 172975,
+            "phonetic": "zengan",
+            "rank": 134710,
+            "kind": [
+                "pro"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "091ef5f18bb047a7a95411402537b50f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "phrase",
+                    "means": [
+                        {
+                            "mean": "nỡ nào",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chẩm nhẫn",
+            "pinyin": "zěn rěn",
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "word": "怎忍",
+            "id": 183550,
+            "phonetic": "zenren",
+            "rank": 147762,
+            "kind": [
+                "phrase"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "ab956874aa6744c992f2aab7816b6b09",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "biết đâu",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "chẩm tri",
+            "pinyin": "zěn zhī",
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "word": "怎知",
+            "id": 176296,
+            "phonetic": "zenzhi",
+            "rank": 86049,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄣˇㄉㄜ˙",
+            "_id": "b12882227871c30632491bc881a00b14",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "sao; thế nào; ra sao; như thế nào",
+                            "explain": "怎么;怎么样",
+                            "examples": [
+                                {
+                                    "m": "anh cả sao không thấy?",
+                                    "p_vn": "anh ca sao khong thay",
+                                    "_id": "d0282ba3deb386ac82bb3089ea84edbe",
+                                    "id": 48501,
+                                    "type": "e_cnvi",
+                                    "e": "大哥怎的不见?",
+                                    "p_cn": "dage zen di bujian",
+                                    "p": "dàgē zěn di bùjiàn?"
+                                },
+                                {
+                                    "m": "tôi cứ không đi, xem anh làm gì được tôi nào?",
+                                    "p_vn": "toi cu khong di xem anh lam gi duoc toi nao",
+                                    "_id": "9b2e1137daebb701bdfe6c59ebbd86c4",
+                                    "id": 48502,
+                                    "type": "e_cnvi",
+                                    "e": "我偏不去，看你能把我怎的?",
+                                    "p_cn": "wo pian bu qu kan ni neng ba wo zen di",
+                                    "p": "wǒ piān bù qù, kàn nǐ néng bǎ wǒ zěn di?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 53
+            },
+            "snym": null,
+            "cn_vi": "chẩm đích",
+            "pinyin": "zěn di",
+            "word": "怎的",
+            "id": 63034,
+            "phonetic": "zendi",
+            "rank": 56545,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄜˋㄇㄜ˙",
+            "_id": "a60b2a1f583a7706a6b29307e3cf0aa4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "như thế; như vậy; thế này; làm vậy",
+                            "explain": "指示代词，指示性质、状态、方式、程度等",
+                            "examples": [
+                                {
+                                    "m": "Có việc này sao?",
+                                    "p_vn": "co viec nay sao?",
+                                    "_id": "a9db007469679423b56ddc35d567ba3d",
+                                    "id": 49400,
+                                    "type": "e_cnvi",
+                                    "e": "有这么回事?",
+                                    "p_cn": "you zheme hui shi.",
+                                    "p": "yǒu zhème huí shì."
+                                },
+                                {
+                                    "m": "Mọi người đều nói như vậy.",
+                                    "p_vn": "moi nguoi deu noi nhu vay.",
+                                    "_id": "5e62410abf20eb91d65673c0641c4824",
+                                    "id": 49401,
+                                    "type": "e_cnvi",
+                                    "e": "大家都这么说。",
+                                    "p_cn": "dajia dou zheme shuo.",
+                                    "p": "dàjiā dōu zhème shuō."
+                                },
+                                {
+                                    "m": "Mùa màng tốt thế này.",
+                                    "p_vn": "mua mang tot the nay.",
+                                    "_id": "f7e8df7ce2eca86e88a00cd0c8768929",
+                                    "id": 49402,
+                                    "type": "e_cnvi",
+                                    "e": "这么好的庄稼。",
+                                    "p_cn": "zheme hao de zhuangjia.",
+                                    "p": "zhème hǎo de zhuāngjià."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 468,
+                "search": 9385
+            },
+            "snym": {
+                "syno": [
+                    "这样"
+                ],
+                "anto": [
+                    "那么"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "zhème",
+            "cn_vi": "nghiện ma",
+            "word": "这么",
+            "id": 63778,
+            "phonetic": "zheme",
+            "rank": 1094,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "pro"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄣˊㄇㄜ˙",
+            "topic": "11",
+            "_id": "17885c59f4f0141791d8110b0645d992",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "gì; cái gì",
+                            "explain": "表示疑问",
+                            "examples": [
+                                {
+                                    "m": "Món ăn yêu thích của bạn là gì?",
+                                    "p_vn": "mon an yeu thich cua ban la gi?",
+                                    "_id": "ac7be255046819fca34005406329d388",
+                                    "id": 74465,
+                                    "e": "你最喜欢的食物是什么？",
+                                    "p_cn": "ni zui xihuan de shiwu shi shenme?",
+                                    "type": "e_cnvi",
+                                    "p": "nǐ zuì xǐhuan de shíwù shì shénme?"
+                                },
+                                {
+                                    "m": "Bạn nói gì cơ?",
+                                    "p_vn": "bạn nói gì co?",
+                                    "_id": "ac7be255046819fca34005406329d86e",
+                                    "id": 74466,
+                                    "e": "你说什么？",
+                                    "p_cn": "ni shuo shenme?",
+                                    "type": "e_cnvi",
+                                    "p": "nǐ shuō shénme?"
+                                },
+                                {
+                                    "m": "Bạn có chuyện gì?",
+                                    "p_vn": "bạn có chuyẹn gì?",
+                                    "_id": "ac7be255046819fca34005406329e249",
+                                    "id": 74467,
+                                    "e": "你有什么事？",
+                                    "p_cn": "ni you shen me shi?",
+                                    "type": "e_cnvi",
+                                    "p": "nǐ yǒu shén me shì?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "gì; nào (dùng trước danh từ, hỏi người hoặc sự vật)",
+                            "explain": "用在名词前面，问人或事物",
+                            "examples": [
+                                {
+                                    "m": "Người nào ?",
+                                    "p_vn": "nguoi nao ?",
+                                    "_id": "b23ce198bdedaf96b7f8dae9e4d72f95",
+                                    "id": 35504,
+                                    "type": "e_cnvi",
+                                    "e": "什么人?",
+                                    "p_cn": "shen me ren?",
+                                    "p": "shén me rén?"
+                                },
+                                {
+                                    "m": "Việc gì ?",
+                                    "p_vn": "viec gi ?",
+                                    "_id": "86bb568b9df799eef30c92dbcf0a3bea",
+                                    "id": 35505,
+                                    "type": "e_cnvi",
+                                    "e": "什么事儿?",
+                                    "p_cn": "shen me shir?",
+                                    "p": "shén me shìr?"
+                                },
+                                {
+                                    "m": "Nơi nào",
+                                    "p_vn": "noi nao",
+                                    "_id": "9f597b177f41244578c93abbc9584acd",
+                                    "id": 35507,
+                                    "type": "e_cnvi",
+                                    "e": "什么地方?",
+                                    "p_cn": "shen me difang?",
+                                    "p": "shén me dìfāng?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "gì đó (Đại từ phiếm chỉ)",
+                            "explain": "虚指，表示不肯定的事物",
+                            "examples": [
+                                {
+                                    "m": "Tôi đói rồi, muốn ăn một chút gì đó.",
+                                    "p_vn": "toi doi roi, muon an mot chut gi do.",
+                                    "_id": "563a39a251566e5db16e4c257b1b4711",
+                                    "id": 35509,
+                                    "type": "e_cnvi",
+                                    "e": "我饿了，想吃点儿什么。",
+                                    "p_cn": "wo ele, xiang chi dianr shenme.",
+                                    "p": "wǒ èle, xiǎng chī diǎnr shénme."
+                                },
+                                {
+                                    "m": "Chỉ cần chăm chỉ, cái gì cũng có thể học được.",
+                                    "p_vn": "chi can cham chi, cai gi cung co the hoc duoc.",
+                                    "_id": "eeb32b1199616636305edd66a236f68d",
+                                    "id": 35511,
+                                    "type": "e_cnvi",
+                                    "e": "只要认真学，什么都能学会。",
+                                    "p_cn": "zhiyao renzhen xue, shenme dou neng xuehui.",
+                                    "p": "zhǐyào rènzhēn xué, shénme dōu néng xuéhuì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "gì; nấy; thế (hai từ''什么''đứng trước sau bổ sung cho nhau, thì cái trước quyết định cái sau)",
+                            "explain": "两个''什么''前后照应，表示由前者决定后者",
+                            "examples": [
+                                {
+                                    "m": "Nghĩ gì nói nấy.",
+                                    "p_vn": "nghi gi noi nay.",
+                                    "_id": "f6bb92f2991b00ac690122b8ba64d791",
+                                    "id": 35512,
+                                    "type": "e_cnvi",
+                                    "e": "想什么说什么。",
+                                    "p_cn": "xiang shenme shuo shenme.",
+                                    "p": "xiǎng shénme shuō shénme."
+                                },
+                                {
+                                    "m": "Người như nào phát ngôn như thế.",
+                                    "p_vn": "nguoi nhu nao phat ngon nhu the.",
+                                    "_id": "6c71ec7bba34f6795bdc7327f339c651",
+                                    "id": 35513,
+                                    "type": "e_cnvi",
+                                    "e": "什么样的人说什么样的话。",
+                                    "p_cn": "shenme yang de ren shuo shenme yang dehua.",
+                                    "p": "shénme yàng de rén shuō shénme yàng dehuà."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thể hiện sự trách móc",
+                            "explain": "表示责难",
+                            "examples": [
+                                {
+                                    "m": "Mày cười cái gì?",
+                                    "p_vn": "may cuoi cai gi?",
+                                    "_id": "fa8de348d20353c952ca1c70b0443112",
+                                    "id": 35516,
+                                    "type": "e_cnvi",
+                                    "e": "你笑什么?",
+                                    "p_cn": "ni xiao shenme?",
+                                    "p": "nǐ xiào shénme?"
+                                },
+                                {
+                                    "m": "Anh nói đi! giả câm gì chứ?",
+                                    "p_vn": "anh noi di! gia cam gi chu?",
+                                    "_id": "b6538143eaee76c2d0ef42b4f07ebef4",
+                                    "id": 35517,
+                                    "type": "e_cnvi",
+                                    "e": "你说呀!装什么哑巴?",
+                                    "p_cn": "ni shuo ya! zhuang shenme yaba?",
+                                    "p": "nǐ shuō ya! zhuāng shénme yǎbā?"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cái gì (biểu thị phủ định)",
+                            "explain": "表示否定",
+                            "examples": [
+                                {
+                                    "m": "Chủ nhật còn đọc sách gì chứ, ra ngoài chơi đi.",
+                                    "p_vn": "chủ nhạt còn dọc sách gì chú, ra ngoài choi di.",
+                                    "_id": "ac7be255046819fca34005406329fb82",
+                                    "id": 74470,
+                                    "e": "周末看什么书，出去玩儿吧",
+                                    "p_cn": "zhoumo kan shenme shu, chuqu wanr ba",
+                                    "type": "e_cnvi",
+                                    "p": "zhōumò kàn shénme shū, chūqù wánr ba"
+                                },
+                                {
+                                    "m": "Ăn đồ ăn ngoài gì chứ, anh nấo cho em ăn.",
+                                    "p_vn": "an do an ngoai gi chu, anh nao cho em an.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac339f61e",
+                                    "id": 104784,
+                                    "type": "e_cnvi",
+                                    "e": "吃什么快递，我给你做饭。",
+                                    "p_cn": "chi shenme kuaidi, wo gei ni zuo fan.",
+                                    "p": "chī shénme kuàidì, wǒ gěi nǐ zuò fàn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "intj",
+                    "means": [
+                        {
+                            "mean": "cái gì; cái quái gì (thể hiện sự kinh ngạc hoặc bất mãn)",
+                            "explain": "表示惊讶或不满",
+                            "examples": [
+                                {
+                                    "m": "Cái gì! chín giờ rồi mà xe vẫn chưa chạy sao!",
+                                    "p_vn": "cai gi! chin gio roi ma xe van chua chay sao!",
+                                    "_id": "07945b762efee62aab4348a8e8f30604",
+                                    "id": 35514,
+                                    "type": "e_cnvi",
+                                    "e": "什么! 九点了，车还没有开!",
+                                    "p_cn": "shenme! jiu dianle, che hai meiyou kai!",
+                                    "p": "shénme! jiǔ diǎnle, chē hái méiyǒu kāi!"
+                                },
+                                {
+                                    "m": "Đây là giày quái gì đây, một chiếc to một chiếc nhỏ!",
+                                    "p_vn": "day la giay quai gi day, mot chiec to mot chiec nho!",
+                                    "_id": "44426b72dcdf94f2072155e09b8c205d",
+                                    "id": 35515,
+                                    "type": "e_cnvi",
+                                    "e": "这是什么鞋!一只大一只小的!",
+                                    "p_cn": "zhe shi shenme xie! yi zhi da yi zhi xiao de!",
+                                    "p": "zhè shì shénme xié! yī zhī dà yī zhī xiǎo de!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hả; á (thể hiện không đồng ý một câu nói nào đó của đối phương)",
+                            "explain": "表示不同意对方说的某一句话",
+                            "examples": [
+                                {
+                                    "m": "Gì mà phơi một ngày hả? phơi ba ngày cũng không khô được ấy.",
+                                    "p_vn": "gi ma phoi mot ngay ha? phoi ba ngay cung khong kho duoc ay.",
+                                    "_id": "86311d8e92ee14293ae26c4aa19d562c",
+                                    "id": 35518,
+                                    "type": "e_cnvi",
+                                    "e": "什么晒一天? 晒三天也晒不干。",
+                                    "p_cn": "shenme shai yitian? shai san tian ye shai bu gan.",
+                                    "p": "shénme shài yītiān? shài sān tiān yě shài bù gān."
+                                },
+                                {
+                                    "m": "Gì cơ làm một ngày á? mày làm một tuần còn chả xong.",
+                                    "p_vn": "gi co lam mot ngay a? may lam mot tuan con cha xong.",
+                                    "_id": "a5336cc612d96caefbcf7e0ac339dbfb",
+                                    "id": 104780,
+                                    "type": "e_cnvi",
+                                    "e": "什么做一天？ 你做一周还不完。",
+                                    "p_cn": "shenme zuo yitian? ni zuo yizhou hai bu wan.",
+                                    "p": "shénme zuò yītiān? nǐ zuò yīzhōu hái bù wán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1109,
+                "search": 23750
+            },
+            "snym": {
+                "syno": [
+                    "哪儿",
+                    "精到"
+                ]
+            },
+            "lv_hsk_new": "1",
+            "pinyin": "shén me",
+            "cn_vi": "thậm ma",
+            "word": "什么",
+            "id": 47029,
+            "phonetic": "shenme",
+            "rank": 194,
+            "lv_hsk": 1,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "sentence"
+            ],
+            "measure": null,
+            "zhuyin": "ㄕㄣˊㄇㄜ˙",
+            "_id": "030ae7ca104486faf176e309314117b6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "biến thể của 什麼 ｜ 什么 / cái gì / cái gì? / WHO? / cái gì đó / cái gì",
+                            "explain": "唐·吕岩《赠江州太平观道士》诗：“不知甚么汉，一任辈流嗤。”",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 25,
+                "search": 2297
+            },
+            "snym": null,
+            "cn_vi": "thậm ma",
+            "pinyin": "shénme",
+            "word": "甚么",
+            "id": 82822,
+            "phonetic": "shenme",
+            "rank": 4995,
+            "lv_tocfl": 1,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": {
+                "pinyin": "",
+                "examples": "",
+                "measure": ""
+            },
+            "zhuyin": "ㄉㄨㄛㄇㄜ˙",
+            "_id": "f872f63f10076fbc8726a7bddbd886f1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "bất kể..., cũng đều...",
+                            "examples": [
+                                139789,
+                                139796
+                            ],
+                            "struct": "Chủ ngữ + 不管/ 无论/ 不论 + 多么 + Tính từ，也/ 都/ 总..."
+                        },
+                        {
+                            "explain": "như thế nào biết bao",
+                            "examples": [
+                                139803,
+                                139804
+                            ],
+                            "struct": "多么 + Tính từ"
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "biết bao; thật (dùng trong câu cảm thán)",
+                            "explain": "用在感叹句里，表示程度很高",
+                            "examples": [
+                                {
+                                    "m": "Phẩm chất của anh ấy thật cao thượng!",
+                                    "p_vn": "pham chat cua anh ay that cao thuong!",
+                                    "_id": "21b837015521ee5d893a897b75b2ddaf",
+                                    "id": 9930,
+                                    "type": "e_cnvi",
+                                    "e": "他的品德多么高尚!",
+                                    "p_cn": "ta de pinde duome gaoshang!",
+                                    "p": "tā de pǐndé duōme gāoshàng!"
+                                },
+                                {
+                                    "m": "Trái cây thật là tươi ngon!",
+                                    "p_vn": "trái cay thạt la tuoi ngon!",
+                                    "_id": "b2776ac4a861e06178aa5de73b49cca7",
+                                    "id": 77353,
+                                    "type": "e_cnvi",
+                                    "e": "多么新鲜的水果啊！",
+                                    "p_cn": "duome xinxian de shuiguo a!",
+                                    "p": "duōme xīnxiān de shuǐguǒ a!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "mấy; như nào; cỡ nào; bao nhiêu (mức độ tương đối cao)",
+                            "explain": "指较深的程度",
+                            "examples": [
+                                {
+                                    "m": "Dù trời có lạnh đến mấy, tôi vẫn sẽ đi.",
+                                    "p_vn": "du troi co lanh den may, toi van se di.",
+                                    "_id": "9938873f438f99a1b005f1005080dbe4",
+                                    "id": 139762,
+                                    "type": "e_cnvi",
+                                    "e": "不管天气多么冷，我都去。",
+                                    "p_cn": "buguan tianqi duome leng, wo dou qu.",
+                                    "p": "bùguǎn tiānqì duōme lěng, wǒ dōu qù."
+                                },
+                                {
+                                    "m": "Bạn buồn như nào, cũng không được khóc.",
+                                    "p_vn": "ban buon nhu nao, cung khong duoc khoc.",
+                                    "_id": "9938873f438f99a1b005f10050818447",
+                                    "id": 139784,
+                                    "type": "e_cnvi",
+                                    "e": "你不管多么难过，也不许哭。",
+                                    "p_cn": "ni buguan duome nanguo, ye buxu ku.",
+                                    "p": "nǐ bùguǎn duōme nánguò, yě bùxǔ kū."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bao nhiêu; chừng nào; bao xa (dùng trong câu hỏi)",
+                            "explain": "用在疑问句里，问程度",
+                            "examples": [
+                                {
+                                    "m": "Lạc Dương cách đây bao xa?",
+                                    "p_vn": "lac duong cach day bao xa?",
+                                    "_id": "be701976a3996df5f1b7bd07b0e60747",
+                                    "id": 9929,
+                                    "type": "e_cnvi",
+                                    "e": "洛阳离这里有多么远?",
+                                    "p_cn": "luoyang li zhe li you duome yuan?",
+                                    "p": "luòyáng lí zhè lǐ yǒu duōme yuǎn?"
+                                },
+                                {
+                                    "m": "Nước sông ở đây sâu bao nhiêu?",
+                                    "p_vn": "nuoc song o day sau bao nhieu?",
+                                    "_id": "9938873f438f99a1b005f10050817ae5",
+                                    "id": 139783,
+                                    "type": "e_cnvi",
+                                    "e": "这里的河水有多么深？",
+                                    "p_cn": "zheli de heshui you duome shen?",
+                                    "p": "zhèlǐ de héshuǐ yǒu duōme shēn?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"多\" là tính từ, phó từ và số từ, \"多么\" chỉ có thể là phó từ.\n- \"多么\" chủ yếu dùng trong câu cảm thán, những cách sử dụng khác không được nhiều bằng \"多\"。",
+                    "title": "Phân biệt \"多\" và \"多么\"",
+                    "words": [
+                        "多",
+                        "多么"
+                    ]
+                },
+                {
+                    "mean_vi": "Giống:\n- Đều dùng với câu cảm thán, nhấn mạnh ngữ khí câu.\nKhác:\n- \"多么\" có thể tu sức cho cả tính từ và động từ, \"何等\" thường chỉ tu sức cho tính từ.\n- \"多么\"không thể tu sức cho danh từ.\ncó thể làm đại từ nghi vấn, tương đương với \"怎么的\" có thể tu sức cho danh từ biểu thị cảm thán hoặc câu nghi vấn.",
+                    "title": "Phân biệt \"何等\" và \"多么\"",
+                    "words": [
+                        "何等",
+                        "多么"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "2, 3",
+            "pinyin": "duōme",
+            "cn_vi": "đa ma",
+            "popularity": {
+                "notebook": 265,
+                "search": 4591
+            },
+            "word": "多么",
+            "id": 14755,
+            "phonetic": "duome",
+            "rank": 2630,
+            "lv_tocfl": 3,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄢˋㄇㄜ˙",
+            "_id": "71d43f3382f2478090ffac98d6ccf1be",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xem 幹嘛 | 干嘛",
+                            "explain": "see 幹嘛|干嘛 [gàn má]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 61
+            },
+            "snym": null,
+            "cn_vi": "can ma",
+            "pinyin": "gàn me",
+            "word": "干么",
+            "id": 91198,
+            "phonetic": "ganme",
+            "rank": 52856,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄠˋㄇㄜ˙",
+            "_id": "75a21a2a3dd6a5efa89439772453b012",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "连",
+                    "means": [
+                        {
+                            "mean": "hoặc là",
+                            "explain": "表示两种意愿的选择关系也作要末",
+                            "examples": [
+                                {
+                                    "m": "anh đánh ngay cho anh ấy một bức điện báo cho anh ấy biết hoặc là gọi điện thoại đường dài thì có thể nói rõ ràng hơn.",
+                                    "p_vn": "anh danh ngay cho anh ay mot buc dien bao cho anh ay biet hoac la goi dien thoai duong dai thi co the noi ro rang hon",
+                                    "_id": "df7ee23e18aa3234e9a5e86669ae1cd5",
+                                    "id": 44461,
+                                    "type": "e_cnvi",
+                                    "e": "你赶快拍个电报通知他，要么打个长途电话，可以说得详细些。",
+                                    "p_cn": "ni gankuai pai ge dianbao tongzhi ta yaome da ge changtu dianhua keyi shuo de xiangxi xie",
+                                    "p": "nǐ gǎnkuài pāi gè diànbào tōngzhī tā, yàome dǎ gè chángtú diànhuà, kěyǐ shuō dé xiángxì xiē."
+                                },
+                                {
+                                    "m": "hoặc là anh ấy đến hoặc là tôi đi, ngày mai thế nào cũng phải gặp nhau để nói chuyện cho rõ.",
+                                    "p_vn": "hoac la anh ay den hoac la toi di ngay mai the nao cung phai gap nhau de noi chuyen cho ro",
+                                    "_id": "4f8164670fa34e479357875eea279703",
+                                    "id": 44462,
+                                    "type": "e_cnvi",
+                                    "e": "要么他来，要么我去，明天总得当面谈一谈。",
+                                    "p_cn": "yaome ta lai yaome wo qu mingtian zong de dang miantan yi tan",
+                                    "p": "yàome tā lái, yàome wǒ qù, míngtiān zǒng dé dāng miàntán yī tán."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 152,
+                "search": 2268
+            },
+            "snym": {
+                "syno": [
+                    "要不",
+                    "如果",
+                    "可能",
+                    "倘若"
+                ],
+                "anto": [
+                    "高山",
+                    "平地"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "yàome",
+            "cn_vi": "yếu ma",
+            "word": "要么",
+            "id": 58840,
+            "phonetic": "yaome",
+            "rank": 5055,
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄥˇㄇㄜ˙",
+            "_id": "1f580795b07e4b6d832f3316c6190bf2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Tiếng lóng trên Internet cho 怎麼 | 怎么",
+                            "explain": "Internet slang for 怎麼|怎么 [zěn me]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 70
+            },
+            "snym": null,
+            "cn_vi": "thũng ma",
+            "pinyin": "zhǒng me",
+            "word": "肿么",
+            "id": 105156,
+            "phonetic": "zhongme",
+            "rank": 49592,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄖㄣˋㄇㄜ˙",
+            "_id": "36f4391e33bf4013a2650fa6a109546c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(cũ) theo cách này",
+                            "explain": "(old) this way",
+                            "examples": []
+                        },
+                        {
+                            "mean": "gì?",
+                            "explain": "what?",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "nhẫm ma",
+            "pinyin": "nèn me",
+            "word": "恁么",
+            "id": 91324,
+            "phonetic": "nenme",
+            "rank": 93232,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄜˋㄇㄜ˙",
+            "_id": "c65ab64f791242eaa48a2ff75f49866f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tương đương euphemistic của 他媽的 | 他妈的",
+                            "explain": "euphemistic equivalent of 他媽的|他妈的 [tā mā de]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 323
+            },
+            "snym": null,
+            "cn_vi": "đặc ma",
+            "pinyin": "tè me",
+            "word": "特么",
+            "id": 88994,
+            "phonetic": "teme",
+            "rank": 21083,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄧㄠㄇㄜ˙",
+            "_id": "4bde65b1c60c42b9ac89e02111e62554",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nhỏ bé; tép riu",
+                            "explain": "微小",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 28
+            },
+            "snym": null,
+            "cn_vi": "yêu ma",
+            "pinyin": "yāo me",
+            "word": "幺么",
+            "id": 58654,
+            "phonetic": "yaome",
+            "rank": 73456,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "conj",
+                "adv"
+            ],
+            "measure": {
+                "pinyin": "ge",
+                "examples": "不要错过一个那么好的机会。",
+                "measure": "个"
+            },
+            "topic": "13",
+            "zhuyin": "ㄋㄚˋㄇㄜ˙",
+            "_id": "793d39c47d0339ca8fb3616a96352add",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "như vậy; như thế; như thế đấy; thế đó; thế đấy; vậy",
+                            "explain": "指示性质、状态、方式、程度等",
+                            "examples": [
+                                {
+                                    "m": "tôi thật ngại khi phải nói như vậy.",
+                                    "p_vn": "toi that ngai khi phai noi nhu vay",
+                                    "_id": "507b89eeac15ae0b5fdfeaaf1e1ee66e",
+                                    "id": 29484,
+                                    "type": "e_cnvi",
+                                    "e": "我不好意思那么说。",
+                                    "p_cn": "wo bu haoyisi name shuo",
+                                    "p": "wǒ bù hǎoyìsi nàme shuō."
+                                },
+                                {
+                                    "m": "vàng như màu hoa cải vậy.",
+                                    "p_vn": "vang nhu mau hoa cai vay",
+                                    "_id": "8d0e14fbc862edf96486d87bc4d78139",
+                                    "id": 29485,
+                                    "type": "e_cnvi",
+                                    "e": "像油菜花那么黄。",
+                                    "p_cn": "xiang youcai hua name huang",
+                                    "p": "xiàng yóucài huā nàme huáng."
+                                },
+                                {
+                                    "m": "người đến đông như thế đấy.",
+                                    "p_vn": "nguoi den dong nhu the day",
+                                    "_id": "a9ce4f0d4b504f2257f4b90c57667aaf",
+                                    "id": 29486,
+                                    "type": "e_cnvi",
+                                    "e": "来了那么多的人。",
+                                    "p_cn": "laile name duo de ren",
+                                    "p": "láile nàme duō de rén."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "như thế (dùng trước số lượng từ)",
+                            "explain": "放在数量词前，表示估计",
+                            "examples": [
+                                {
+                                    "m": "mượn hai ba chục cái bao bố như thế là đủ rồi.",
+                                    "p_vn": "muon hai ba chuc cai bao bo nhu the la du roi",
+                                    "_id": "45abd25122395c6416865fa7c13c3909",
+                                    "id": 29487,
+                                    "type": "e_cnvi",
+                                    "e": "借那么二三十个麻袋就够了。",
+                                    "p_cn": "jie name ersanshi ge madai jiu goule",
+                                    "p": "jiè nàme èrsānshí gè mádài jiù gòule."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thì; vậy thì",
+                            "explain": "表示顺着上文的语意，申说应有的结果 (上文可以是对方的话， 也可以是自己提出的问题或假设)",
+                            "examples": [
+                                {
+                                    "m": "làm như vầy đã không được rồi thì anh tính làm sao đây?",
+                                    "p_vn": "lam nhu vay da khong duoc roi thi anh tinh lam sao day?",
+                                    "_id": "8302737e8b2615a28962fcc4e3caa889",
+                                    "id": 29488,
+                                    "type": "e_cnvi",
+                                    "e": "这样做既然不行，那么你打算怎么办呢?",
+                                    "p_cn": "zheyang zuo jiran buxing, name ni dasuan zenme ban ne?",
+                                    "p": "zhèyàng zuò jìrán bùxíng, nàme nǐ dǎsuan zěnme bàn ne?"
+                                },
+                                {
+                                    "m": "nếu bạn thấy làm như vậy là được thì chúng ta mau đi làm thôi.",
+                                    "p_vn": "neu ban thay lam nhu vay la duoc thi chung ta mau di lam thoi",
+                                    "_id": "d35c815e30afce0ab57e1fd7d11b6d7b",
+                                    "id": 29489,
+                                    "type": "e_cnvi",
+                                    "e": "如果你认为可以这么办，那么咱们就赶紧去办吧!",
+                                    "p_cn": "ruguo ni renwei keyi zheme ban name zanmen jiu ganjin qu ban ba",
+                                    "p": "rúguǒ nǐ rènwéi kěyǐ zhème bàn, nàme zánmen jiù gǎnjǐn qù bàn ba!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "biến thể của 那麼 | 那么",
+                            "explain": "variant of 那麼|那么",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bấy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 439,
+                "search": 8981
+            },
+            "snym": {
+                "syno": [
+                    "持有",
+                    "那样"
+                ],
+                "anto": [
+                    "怎么",
+                    "这么"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "nàme",
+            "cn_vi": "na ma",
+            "word": "那么",
+            "id": 38964,
+            "phonetic": "name",
+            "rank": 1161,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "7e4ccd1e093b46b2ac61dd4f94237695",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "chi",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "cái này gọi là gì?",
+                                    "p_vn": "cai nay goi la gi?",
+                                    "_id": "2b5799a2a793550c746f763b5186cb5c",
+                                    "id": 49386,
+                                    "type": "e_cnvi",
+                                    "e": "这叫什么?",
+                                    "p_cn": "zhe jiao shenme?",
+                                    "p": "zhè jiào shénme?"
+                                },
+                                {
+                                    "m": "hắn ngày nào cũng đến tìm anh, có việc gì thế?",
+                                    "p_vn": "han ngay nao cung den tim anh co viec gi the",
+                                    "_id": "2f83858b3f14357ddcc8aa745cdb644b",
+                                    "id": 34220,
+                                    "type": "e_cnvi",
+                                    "e": "他三天两头儿地来找你干什么?",
+                                    "p_cn": "ta san tian liangtou er de lai zhao ni ganshenme",
+                                    "p": "tā sān tiān liǎngtóu er de lái zhǎo nǐ gànshénme?"
+                                },
+                                {
+                                    "m": "anh họ gì? người ở đâu?",
+                                    "p_vn": "anh ho gi nguoi o dau",
+                                    "_id": "4efdce7cabf0fd64055b6580b5a92abe",
+                                    "id": 33655,
+                                    "type": "e_cnvi",
+                                    "e": "你姓什么?哪里人氏?",
+                                    "p_cn": "ni xing shenme nali ren shi",
+                                    "p": "nǐ xìng shénme? nǎlǐ rén shì?"
+                                },
+                                {
+                                    "m": "Không chăm chỉ ôn bài,  cả ngày ngồi trong nhà làm gì?",
+                                    "p_vn": "khong cham chỉ on bài,  cả ngày ngòi trong nhà làm gì?",
+                                    "_id": "5f1adf3e4794a18d885701d1a38776ad",
+                                    "id": 80769,
+                                    "type": "e_cnvi",
+                                    "e": "你不好好儿复习，整天呆在家里干什么?",
+                                    "p_cn": "ni bu haohao er fuxi, zheng tian dai zai jiali ganshenme?",
+                                    "p": "nǐ bù hǎohǎo er fùxí, zhěng tiān dāi zài jiālǐ gànshénme?"
+                                },
+                                {
+                                    "m": "anh làm gì mà gào to như thế?",
+                                    "p_vn": "anh lam gi ma gao to nhu the",
+                                    "_id": "69344364d4c2309d6bad5c6b653cdcbc",
+                                    "id": 48603,
+                                    "type": "e_cnvi",
+                                    "e": "你瞎咋呼什么?",
+                                    "p_cn": "ni xia zhahu shenme",
+                                    "p": "nǐ xiā zhāhu shénme?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "thập ma",
+            "pinyin": "shénme?",
+            "popularity": {
+                "notebook": 3,
+                "search": 100
+            },
+            "word": "什么?",
+            "id": 180937,
+            "phonetic": "shenme?",
+            "rank": 41642,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄆㄚˋㄕㄣˊㄇㄜ˙ㄧㄡˇㄕㄣˊㄇㄜ˙",
+            "_id": "3f5496877d2ddaa1b02976a3f3e0b9d0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Ghét của nào trời trao của ấy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 123,
+                "search": 1355
+            },
+            "snym": null,
+            "cn_vi": "phạ thập ma hữu thập ma",
+            "pinyin": "pà shénme yǒu shé me",
+            "word": "怕什么有什么",
+            "id": 79892,
+            "phonetic": "pashenmeyousheme",
+            "rank": 7678,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "不怎么"
+}

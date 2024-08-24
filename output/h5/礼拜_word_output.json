@@ -1,0 +1,2795 @@
+{
+    "total": 391,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "Gè",
+                "examples": "下个礼拜就是圣诞节。\nXià gè lǐbài jiùshì shèngdàn jié.\nTuần sau là lễ giáng sinh.",
+                "measure": "个"
+            },
+            "topic": "58, 71",
+            "zhuyin": "ㄌㄧˇㄅㄞˋ",
+            "_id": "b059aa577fc69109950f3750a163ec9e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                77286,
+                                77287
+                            ],
+                            "struct": "Số lượng /上／这／下/ (+个) + 礼拜"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                77288,
+                                77289
+                            ],
+                            "struct": "礼拜+ 一／二／三／四／五／六／天／日"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                77290,
+                                77291
+                            ],
+                            "struct": "休+ 礼拜"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thứ; ngày thứ (trong tuần)",
+                            "explain": "跟''天 (或日)、一、二、三、四、五、六''连用，表示一个星期中间的某一天",
+                            "examples": [
+                                {
+                                    "m": "thứ tư.",
+                                    "p_vn": "thu tu.",
+                                    "_id": "65c39a20155a50e627238d1056557e98",
+                                    "id": 25288,
+                                    "type": "e_cnvi",
+                                    "e": "礼拜三。",
+                                    "p_cn": "libaisan。",
+                                    "p": "lǐbàisān。"
+                                },
+                                {
+                                    "m": "thứ bảy",
+                                    "p_vn": "thu bay",
+                                    "_id": "b2776ac4a861e06178aa5de73b417395",
+                                    "id": 77281,
+                                    "type": "e_cnvi",
+                                    "e": "礼拜六",
+                                    "p_cn": "libai liu",
+                                    "p": "lǐbài liù"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tuần lễ; tuần",
+                            "explain": "星期",
+                            "examples": [
+                                {
+                                    "m": "tuần sau.",
+                                    "p_vn": "tuan sau.",
+                                    "_id": "cdb5b3b1d8b0390c27b19162e592870e",
+                                    "id": 25286,
+                                    "type": "e_cnvi",
+                                    "e": "下礼拜。",
+                                    "p_cn": "xialibai。",
+                                    "p": "xiàlǐbài。"
+                                },
+                                {
+                                    "m": "khai giảng đã được ba tuần rồi.",
+                                    "p_vn": "khai giang da duoc ba tuan roi.",
+                                    "_id": "8419ef02a4a09356bdc4092d808da290",
+                                    "id": 25287,
+                                    "type": "e_cnvi",
+                                    "e": "开学已经三个礼拜了。",
+                                    "p_cn": "kaixue yijing sange libai le。",
+                                    "p": "kāixué yǐjīng sāngè lǐbài le。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chủ nhật; ngày chủ nhật",
+                            "explain": "礼拜天的简称",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cúng; lễ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                77282,
+                                77284
+                            ],
+                            "struct": "Động từ (做／进行) + 礼拜"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                77285
+                            ],
+                            "struct": "礼拜+ Danh từ (堂／室)"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cúng lễ; lễ bái; ngày lễ; chúa nhật",
+                            "explain": "宗教徒向所信奉的神行礼",
+                            "examples": [
+                                {
+                                    "m": "nhà thờ (nơi hành lễ của các tín đồ đạo cơ đốc giáo).",
+                                    "p_vn": "nha tho (noi hanh le cua cac tin do dao co doc giao).",
+                                    "_id": "76b0f2eda0f97c20f7a1e795de57d7f9",
+                                    "id": 25284,
+                                    "type": "e_cnvi",
+                                    "e": "礼拜堂。",
+                                    "p_cn": "libaitang。",
+                                    "p": "lǐbàitáng。"
+                                },
+                                {
+                                    "m": "làm lễ.",
+                                    "p_vn": "lam le.",
+                                    "_id": "e27ebf46212e85c72aa9da593b1956b0",
+                                    "id": 25285,
+                                    "type": "e_cnvi",
+                                    "e": "做礼拜。",
+                                    "p_cn": "zuolibai。",
+                                    "p": "zuòlǐbài。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 326,
+                "search": 6338
+            },
+            "snym": {
+                "syno": [
+                    "星期",
+                    "礼遇",
+                    "弥撒"
+                ]
+            },
+            "lv_hsk_new": "5",
+            "pinyin": "lǐbài",
+            "cn_vi": "lễ bái",
+            "word": "礼拜",
+            "id": 34318,
+            "phonetic": "libai",
+            "rank": 1828,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄖˋ",
+            "_id": "a410771472504976829940fd4dc1efdd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chủ nhật",
+                            "explain": "Sunday",
+                            "examples": [
+                                {
+                                    "m": "Tôi mặc áo ngực Chủ nhật vì tôi vừa đến từ nhà thờ.",
+                                    "p_vn": "Toi mac ao nguc Chu nhat vi toi vua den tu nha tho.",
+                                    "_id": "5c83aba0600f4ca29e865a5521241d58",
+                                    "id": 59703,
+                                    "type": "e_cnvi",
+                                    "e": "我穿着礼拜日专用胸罩因为我刚去了教堂",
+                                    "p_cn": "wo chuanzhao libairi zhuanyong xiongzhao yinwei wogang qu le jiaotang",
+                                    "p": "wǒ chuānzháo lǐbàirì zhuānyòng xiōngzhào yīnwèi wǒgāng qù le jiàotáng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 167
+            },
+            "snym": {
+                "syno": [
+                    "星期日",
+                    "星期天",
+                    "礼拜天"
+                ]
+            },
+            "cn_vi": "lễ bái nhật",
+            "pinyin": "lǐbài rì",
+            "word": "礼拜日",
+            "id": 112960,
+            "phonetic": "libairi",
+            "rank": 31405,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄌㄧㄡˋ",
+            "_id": "b720983dd00542c5912eca163f85bfef",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thứ bảy",
+                            "explain": "Saturday",
+                            "examples": [
+                                {
+                                    "m": "Làm sao bạn biết rằng sinh nhật của tôi là thứ bảy?",
+                                    "p_vn": "Lam sao ban biet rang sinh nhat cua toi la thu bay?",
+                                    "_id": "a203504bce194dba89beb95aef3a9c69",
+                                    "id": 60282,
+                                    "type": "e_cnvi",
+                                    "e": "你怎么会知道礼拜六我生日?",
+                                    "p_cn": "ni zenyao hui zhidao libailiu wo shengri?",
+                                    "p": "nǐ zěnyāo hùi zhīdào lǐbàilìu wǒ shēngrì?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 101
+            },
+            "snym": null,
+            "cn_vi": "lễ bái lục",
+            "pinyin": "lǐbài liù",
+            "word": "礼拜六",
+            "id": 115746,
+            "phonetic": "libailiu",
+            "rank": 41334,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄦˋ",
+            "_id": "1e1a0896366b4b7a993a3f98f6d2ad88",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thứ ba",
+                            "explain": "Tuesday",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta đã gặp may cho đến thứ Ba.",
+                                    "p_vn": "chung ta da gap may cho den thu ba.",
+                                    "_id": "6b842cb923104c8da3f8e5017e5c4264",
+                                    "id": 59694,
+                                    "type": "e_cnvi",
+                                    "e": "到礼拜二前都不会有好运",
+                                    "p_cn": "dao libaier qian dou buhui you haoyun",
+                                    "p": "dào lǐbàièr qián dōu bùhùi yǒu hǎoyùn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 59
+            },
+            "snym": null,
+            "cn_vi": "lễ bái nhị",
+            "pinyin": "lǐbài èr",
+            "word": "礼拜二",
+            "id": 112957,
+            "phonetic": "libaier",
+            "rank": 53506,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": {
+                "pinyin": "tang",
+                "examples": "他们每星期日都去教堂做礼拜。",
+                "measure": "堂"
+            },
+            "zhuyin": "ㄗㄨㄛˋㄌㄧˇㄅㄞˋ",
+            "_id": "ab678dcf9c6fed0283d2b2d91394da62",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nghe giảng đạo; làm lễ ở nhà thờ",
+                            "explain": "基督教徒到礼拜堂聚会听讲道",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 11,
+                "search": 49
+            },
+            "snym": {
+                "syno": [
+                    "做弥撒"
+                ]
+            },
+            "cn_vi": "tố lễ bái",
+            "pinyin": "zuò lǐbài",
+            "word": "做礼拜",
+            "id": 67907,
+            "phonetic": "zuolibai",
+            "rank": 58462,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄨˇ",
+            "_id": "e80a1257fcaa4732aae57f76cb632d98",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thứ sáu",
+                            "explain": "Friday",
+                            "examples": [
+                                {
+                                    "m": "Phiên điều trần của chúng tôi là thứ sáu.",
+                                    "p_vn": "Phien dieu tran cua chung toi la thu sau.",
+                                    "_id": "5e8c409905604028ae1d903450a2b65d",
+                                    "id": 59699,
+                                    "type": "e_cnvi",
+                                    "e": "我们的听证会在礼拜五",
+                                    "p_cn": "women de tingzhenghui zai libaiwu",
+                                    "p": "wǒmen de tīngzhènghùi zài lǐbàiwǔ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 121
+            },
+            "snym": null,
+            "cn_vi": "lễ bái ngũ",
+            "pinyin": "lǐbài wǔ",
+            "word": "礼拜五",
+            "id": 112958,
+            "phonetic": "libaiwu",
+            "rank": 37596,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄙˋ",
+            "_id": "1707d7fcb7d94cabb184719d66bbe633",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Thứ năm",
+                            "explain": "Thursday",
+                            "examples": [
+                                {
+                                    "m": "Hôm nay là thứ năm.",
+                                    "p_vn": "Hom nay la thu nam.",
+                                    "_id": "8c2a7eb157a946fbb39292da55b96321",
+                                    "id": 59702,
+                                    "type": "e_cnvi",
+                                    "e": "今天是礼拜四。",
+                                    "p_cn": "jintian shi libaisi. ",
+                                    "p": "jīntiān shì lǐbàisì。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 45
+            },
+            "snym": null,
+            "cn_vi": "lễ bái tứ",
+            "pinyin": "lǐbài sì",
+            "word": "礼拜四",
+            "id": 112959,
+            "phonetic": "libaisi",
+            "rank": 60639,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄙˋ",
+            "_id": "8755e8d7c9f15aedad1bb0a1a1d12b9c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhà thờ đạo Hồi",
+                            "explain": "清真寺",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 34
+            },
+            "snym": {
+                "syno": [
+                    "礼拜堂"
+                ]
+            },
+            "cn_vi": "lễ bái tự",
+            "pinyin": "lǐbàisì",
+            "word": "礼拜寺",
+            "id": 34319,
+            "phonetic": "libaisi",
+            "rank": 67996,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": {
+                "pinyin": "ge",
+                "examples": "五月的第二个礼拜天是母亲节。\nwǒ shuō wǒmen lǐbài tiān bùnéng gōngzuò. Wǔ yuè de dì èr gè lǐbài tiān shì mǔqīn jié.\nChủ Nhật thứ hai của tháng Năm là Ngày của Mẹ.",
+                "measure": "个"
+            },
+            "topic": "44",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄊㄧㄢ",
+            "_id": "b72a4faa816a6a8c18cedaec275c1b79",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày chủ nhật; chủ nhật",
+                            "explain": "星期日 (因基督教徒在这一天做礼拜) 也叫礼拜日",
+                            "examples": [
+                                {
+                                    "m": "Nhà thờ tổ chức các buổi lễ vào mỗi sáng chủ nhật hàng tuần.",
+                                    "p_vn": "nha tho to chuc cac buoi le vao moi sang chu nhat hang tuan.",
+                                    "_id": "c10c24a6ed43165db916499fa961b01a",
+                                    "id": 84191,
+                                    "type": "e_cnvi",
+                                    "e": "教堂每个礼拜天早上都举行做礼拜。",
+                                    "p_cn": "jiaotang mei ge libai tian zaoshang dou juxing zuo libai.",
+                                    "p": "jiàotáng měi gè lǐbài tiān zǎoshang dōu jǔxíng zuò lǐbài."
+                                },
+                                {
+                                    "m": "Tôi đã nói là chúng ta không thể làm việc vào chủ nhật.",
+                                    "p_vn": "toi da noi la chung ta khong the lam viec vao chu nhat.",
+                                    "_id": "c10c24a6ed43165db916499fa961b26c",
+                                    "id": 84192,
+                                    "type": "e_cnvi",
+                                    "e": "我说我们礼拜天不能工作。",
+                                    "p_cn": "wo shuo women libai tian buneng gongzuo.",
+                                    "p": "wǒ shuō wǒmen lǐbài tiān bùnéng gōngzuò."
+                                },
+                                {
+                                    "m": "Cậu bé sẽ tròn sáu tuổi vào chủ nhật tới và món đồ chơi này là món quà sinh nhật dành cho cậu bé.",
+                                    "p_vn": "cau be se tron sau tuoi vao chu nhat toi va mon do choi nay la mon qua sinh nhat danh cho cau be.",
+                                    "_id": "c10c24a6ed43165db916499fa961bc3a",
+                                    "id": 84193,
+                                    "type": "e_cnvi",
+                                    "e": "下个礼拜天他就六岁了，玩具是作为他的生日礼品。",
+                                    "p_cn": "xia ge libai tian ta jiu liu suile, wanju shi zuowei ta de shengri lipin.",
+                                    "p": "xià gè lǐbài tiān tā jiù liù suìle, wánjù shì zuòwéi tā de shēngrì lǐpǐn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 227,
+                "search": 2097
+            },
+            "snym": {
+                "syno": [
+                    "星期日",
+                    "礼拜日"
+                ]
+            },
+            "cn_vi": "lễ bái thiên",
+            "pinyin": "lǐbài tiān",
+            "lv_hsk_new": "5",
+            "word": "礼拜天",
+            "id": 34321,
+            "phonetic": "libaitian",
+            "rank": 5377,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "measure": null,
+            "topic": "1, 16, 71",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄊㄤˊ",
+            "_id": "e9d37d1f89345006750daaa568587382",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "nhà thờ (nơi hành lễ của các tín đồ Cơ Đốc Giáo)",
+                            "explain": "基督教 (新教) 教徒举行宗教仪式的场所",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 79
+            },
+            "snym": {
+                "syno": [
+                    "礼拜寺"
+                ]
+            },
+            "cn_vi": "lễ bái đường",
+            "pinyin": "lǐbàitáng",
+            "word": "礼拜堂",
+            "id": 34320,
+            "phonetic": "libaitang",
+            "rank": 46885,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "44",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄙㄢ",
+            "_id": "3bb39fd3d1134c1da5f8ea2f497511c0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thứ Tư",
+                            "explain": "Wednesday",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 71
+            },
+            "snym": null,
+            "cn_vi": "lễ bái tam",
+            "pinyin": "lǐbài sān",
+            "word": "礼拜三",
+            "id": 115745,
+            "phonetic": "libaisan",
+            "rank": 49336,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄔㄤˇㄌㄧˇㄅㄞˋ",
+            "_id": "ae04c5dbe0cc8656443a3f8d6a7e176e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày nghỉ của nhà máy (ngày nghỉ bù cho ngày chủ nhật của nhà máy)",
+                            "explain": "工厂里选定的代替星期日体假的日子",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "xưởng lễ bái",
+            "pinyin": "chǎng lǐbài",
+            "word": "厂礼拜",
+            "id": 6583,
+            "phonetic": "changlibai",
+            "rank": 121765,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄒㄧㄠˇㄌㄧˇㄅㄞˋ",
+            "_id": "81188c45c83186ece2fde731ff2fa4d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tuần lễ nhỏ; ngày chủ nhật không nghỉ",
+                            "explain": "每两个星期休息一天，不休息的那个星期日叫做小礼拜",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": null,
+            "cn_vi": "tiểu lễ bái",
+            "pinyin": "xiǎo lǐbài",
+            "word": "小礼拜",
+            "id": 55801,
+            "phonetic": "xiaolibai",
+            "rank": 132804,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": {
+                "pinyin": "ge",
+                "examples": "这两个礼拜一滴雨也没下过。",
+                "measure": "个"
+            },
+            "topic": "44",
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄧ",
+            "_id": "7525859b85b446a2aca027ce00ab3bee",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thứ hai",
+                            "explain": "Monday",
+                            "examples": [
+                                {
+                                    "m": "Có cách nào tôi có thể làm việc này vào thứ Hai không?",
+                                    "p_vn": "Co cach nao toi co the lam viec nay vao thu Hai khong?",
+                                    "_id": "c3b04e9ba0254d53b5e105098e4a4b1a",
+                                    "id": 59691,
+                                    "type": "e_cnvi",
+                                    "e": "我能不能礼拜一再考",
+                                    "p_cn": "woneng buneng libaiyi zaikao",
+                                    "p": "wǒnéng bùnéng lǐbàiyī zàikǎo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 13,
+                "search": 402
+            },
+            "snym": null,
+            "cn_vi": "lễ bái nhất",
+            "pinyin": "lǐbài yī",
+            "word": "礼拜一",
+            "id": 112956,
+            "phonetic": "libaiyi",
+            "rank": 18381,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄌㄧˇㄅㄞˋ",
+            "_id": "c2ba40cf83baf0aeb67c07a0eb8f2f7b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngày nghỉ; hai tuần nghỉ một lần",
+                            "explain": "每两个星期或十天休息一天，休息的那天叫大礼拜",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ngày nghỉ lâu (hai tuần nghỉ ba ngày hoặc hai ngày)",
+                            "explain": "每两个星期休息三天，休息两天的那个星期或那个星期的休息日叫大礼拜",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "đại lễ bái",
+            "pinyin": "dàlǐbài",
+            "word": "大礼拜",
+            "id": 10446,
+            "phonetic": "dalibai",
+            "rank": 92228,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˇㄌㄧˇㄇㄛˊㄅㄞˋ",
+            "_id": "dc1156f42497d5d32025c46098ebf22c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "quỳ bái; đi lễ cúng bái",
+                            "explain": "顶礼：跪伏于地，以头碰及所崇敬者之足膜拜：两手加额，长跪而拜均为佛教徒最尊敬的跪拜礼节比喻崇拜的五体投地",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 63
+            },
+            "snym": {
+                "syno": [
+                    "奉若神明",
+                    "五体投地",
+                    "毕恭毕敬",
+                    "焚香礼拜",
+                    "三跪九叩",
+                    "肃然起敬"
+                ],
+                "anto": [
+                    "不以为然"
+                ]
+            },
+            "cn_vi": "đỉnh lễ mô bái",
+            "pinyin": "dǐnglǐ móbài",
+            "word": "顶礼膜拜",
+            "id": 13282,
+            "phonetic": "dinglimobai",
+            "rank": 52214,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧˇㄅㄞˋㄧˊㄕˋ",
+            "_id": "79d15f4e205e460f90500c1bdd831ae5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phụng vụ",
+                            "explain": "liturgical",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 18
+            },
+            "snym": null,
+            "cn_vi": "lễ bái nghi thức",
+            "pinyin": "lǐbài yíshì",
+            "word": "礼拜仪式",
+            "id": 130682,
+            "phonetic": "libaiyishi",
+            "rank": 85790,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9b4c9fe76e1e44619f60245ecc5c3198",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cử lễ",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "cử hành lễ bái",
+            "pinyin": "jǔxíng lǐbài",
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "word": "举行礼拜",
+            "id": 178390,
+            "phonetic": "juxinglibai",
+            "rank": 120401,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄅㄞˋ",
+            "_id": "9e74572b1e8256d2986a761bf6771c44",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tạm biệt",
+                            "explain": "再见",
+                            "examples": [
+                                {
+                                    "m": "Cảm ơn bạn rất nhiều, tạm biệt.",
+                                    "p_vn": "cam on ban rat nhieu, tam biet.",
+                                    "_id": "329486f68b2b4177e0301e5c726f402f",
+                                    "id": 85793,
+                                    "type": "e_cnvi",
+                                    "e": "非常谢谢你，拜拜。",
+                                    "p_cn": "feichang xiexie ni, baibai.",
+                                    "p": "fēicháng xièxie nǐ, bàibài."
+                                },
+                                {
+                                    "m": "Tạm biệt, mai gặp lại.",
+                                    "p_vn": "tam biet, mai gap lai.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697cf27246",
+                                    "id": 113470,
+                                    "type": "e_cnvi",
+                                    "e": "拜拜，明天见！",
+                                    "p_cn": "baibai, mingtian jian!",
+                                    "p": "bàibài, míngtiān jiàn!"
+                                },
+                                {
+                                    "m": "Tôi phải đi rồi, tạm biệt!",
+                                    "p_vn": "toi phai di roi, tam biet!",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c195316",
+                                    "id": 132770,
+                                    "type": "e_cnvi",
+                                    "e": "我得走了，拜拜！",
+                                    "p_cn": "wo dei zoule, baibai!",
+                                    "p": "wǒ děi zǒule, bàibài!"
+                                },
+                                {
+                                    "m": "Chúng ta gặp lại lần sau, tạm biệt!",
+                                    "p_vn": "chung ta gap lai lan sau, tam biet!",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c19610c",
+                                    "id": 132771,
+                                    "type": "e_cnvi",
+                                    "e": "我们下次见，拜拜！",
+                                    "p_cn": "women xia ci jian, baibai!",
+                                    "p": "wǒmen xià cì jiàn, bàibài!"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chia tay; kết thúc; đường ai nấy đi",
+                            "explain": "借指结束某种关系",
+                            "examples": [
+                                {
+                                    "m": "Hai người họ không hợp, năm ngoái đã chia tay rồi.",
+                                    "p_vn": "hai nguoi ho khong hop, nam ngoai da chia tay roi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c077baa",
+                                    "id": 132374,
+                                    "type": "e_cnvi",
+                                    "e": "他俩感情不和，去年拜拜了。",
+                                    "p_cn": "ta lia ganqing bu he, qunian baibaile.",
+                                    "p": "tā liǎ gǎnqíng bù hé, qùnián bàibàile."
+                                },
+                                {
+                                    "m": "Đợi anh ấy về nước, tôi sẽ chia tay anh ấy.",
+                                    "p_vn": "doi anh ay ve nuoc, toi se chia tay anh ay.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c1945ab",
+                                    "id": 132769,
+                                    "type": "e_cnvi",
+                                    "e": "等他回国，我会跟他拜拜。",
+                                    "p_cn": "deng ta huiguo, wo hui gen ta baibai.",
+                                    "p": "děng tā huíguó, wǒ huì gēn tā bàibài."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "dừng; cai",
+                            "explain": "停止某种行为",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta phải dừng những thói quen xấu.",
+                                    "p_vn": "chung ta phai dung nhung thoi quen xau.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c193c4a",
+                                    "id": 132767,
+                                    "type": "e_cnvi",
+                                    "e": "我们要拜拜不好习惯。",
+                                    "p_cn": "women yao baibai bu hao xiguan.",
+                                    "p": "wǒmen yào bàibài bù hǎo xíguàn."
+                                },
+                                {
+                                    "m": "Bố tôi đã cai rượu, thuốc rồi.",
+                                    "p_vn": "bo toi da cai ruou, thuoc roi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c194432",
+                                    "id": 132768,
+                                    "type": "e_cnvi",
+                                    "e": "我爸爸已跟烟酒拜拜了。",
+                                    "p_cn": "wo baba yi gen yan jiu baibaile.",
+                                    "p": "wǒ bàba yǐ gēn yān jiǔ bàibàile."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 100,
+                "search": 4564
+            },
+            "snym": {
+                "syno": [
+                    "再见",
+                    "再会",
+                    "回见",
+                    "后会",
+                    "白白"
+                ]
+            },
+            "cn_vi": "bái bái",
+            "pinyin": "bàibài",
+            "word": "拜拜",
+            "id": 1239,
+            "phonetic": "baibai",
+            "rank": 2655,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b1afc51472bd42808bf7af32707f2988",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Gặp gỡ thân mật",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "lễ tiết tính bái hội",
+            "pinyin": "lǐjié xìng bàihuì",
+            "word": "礼节性拜会",
+            "id": 159413,
+            "phonetic": "lijiexingbaihui",
+            "rank": 75300,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋ",
+            "_id": "42c4cd66df2f6ca094590847f2f0c85d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Bái ai đó làm thầy.",
+                            "examples": [
+                                92503,
+                                92504
+                            ],
+                            "struct": "拜 + Chủ ngữ + 为 + 师。"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái; lạy; vái (nghi lễ biểu thị sự tôn kính)",
+                            "explain": "旧时行礼。表示敬意的礼节。",
+                            "examples": [
+                                {
+                                    "m": "Vái chào đáp lễ.",
+                                    "p_vn": "vai chao dap le.",
+                                    "_id": "a85903780449d4ef871c7b5538c4a73f",
+                                    "id": 715,
+                                    "type": "e_cnvi",
+                                    "e": "回拜",
+                                    "p_cn": "huibai",
+                                    "p": "húibài"
+                                },
+                                {
+                                    "m": "Quỳ lạy.",
+                                    "p_vn": "quy lay.",
+                                    "_id": "6642162c0d349f07182ffa8619227bab",
+                                    "id": 15566,
+                                    "type": "e_cnvi",
+                                    "e": "跪拜",
+                                    "p_cn": "guibai",
+                                    "p": "gùibài"
+                                },
+                                {
+                                    "m": "Anh ấy hành lễ bái đối với người lớn tuổi.",
+                                    "p_vn": "anh ay hanh le bai doi voi nguoi lon tuoi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91142f4",
+                                    "id": 92511,
+                                    "type": "e_cnvi",
+                                    "e": "他向长辈行拜礼。",
+                                    "p_cn": "ta xiang zhangbei xing bai li.",
+                                    "p": "tā xiàng zhǎngbèi xíng bài lǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đáp lễ; chúc mừng; chào mừng",
+                            "explain": "见面行礼表示祝贺",
+                            "examples": [
+                                {
+                                    "m": "Mừng thọ.",
+                                    "p_vn": "mung tho.",
+                                    "_id": "d299865c36d9decb5fb68e4bbea09e21",
+                                    "id": 716,
+                                    "type": "e_cnvi",
+                                    "e": "拜寿",
+                                    "p_cn": "baishou",
+                                    "p": "bàishòu"
+                                },
+                                {
+                                    "m": "Chúc Tết.",
+                                    "p_vn": "chuc tet.",
+                                    "_id": "2431bea93a1c5f38c94ab53bb6608afc",
+                                    "id": 717,
+                                    "type": "e_cnvi",
+                                    "e": "拜年.",
+                                    "p_cn": "bainian",
+                                    "p": "bàinián"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thăm hỏi; chào hỏi; chào thăm hỏi",
+                            "explain": "拜访",
+                            "examples": [
+                                {
+                                    "m": "Tỏ lòng kính trọng hàng xóm.",
+                                    "p_vn": "to long kinh trong hang xom.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9108e01",
+                                    "id": 92491,
+                                    "type": "e_cnvi",
+                                    "e": "拜街坊。",
+                                    "p_cn": "bai jiefang.",
+                                    "p": "bài jiēfāng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "phong; tôn; kết nghĩa; cung kính nhận làm",
+                            "explain": "用一定的礼节授予某种名位",
+                            "examples": [
+                                {
+                                    "m": "Tôn làm thừa tướng.",
+                                    "p_vn": "ton lam thua tuong.",
+                                    "_id": "d0bd92e07d370af2642c17db3f67dedd",
+                                    "id": 718,
+                                    "type": "e_cnvi",
+                                    "e": "拜相",
+                                    "p_cn": "baixiang",
+                                    "p": "bàixiāng"
+                                },
+                                {
+                                    "m": "Phong làm tướng.",
+                                    "p_vn": "phong lam tuong.",
+                                    "_id": "6568347b1e1831dd2062122c222dfbb7",
+                                    "id": 719,
+                                    "type": "e_cnvi",
+                                    "e": "拜将",
+                                    "p_cn": "bai jiang",
+                                    "p": "bài jiāng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bái; thờ; cung kính kết giao",
+                            "explain": "恭敬地与对方结成某种关系",
+                            "examples": [
+                                {
+                                    "m": "Bái ông ấy làm thầy.",
+                                    "p_vn": "bai ong ay lam thay.",
+                                    "_id": "35abc9642dd0e76717e5a2e4a3c92d45",
+                                    "id": 720,
+                                    "type": "e_cnvi",
+                                    "e": "拜他为师。",
+                                    "p_cn": "baitaweishi。",
+                                    "p": "bàitāwèishī。"
+                                },
+                                {
+                                    "m": "Kết nghĩa anh em.",
+                                    "p_vn": "ket nghia anh em.",
+                                    "_id": "b80ceb333ac0f8c43a1689b5dc6dbd57",
+                                    "id": 721,
+                                    "type": "e_cnvi",
+                                    "e": "拜把子",
+                                    "p_cn": "baibazi",
+                                    "p": "bàibǎzǐ"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "bái; xin nhận (lời nói tôn kính, dùng trong giao tiếp)",
+                            "explain": "敬辞，用于人事往来",
+                            "examples": [
+                                {
+                                    "m": "Bái lĩnh; xin nhận lãnh.",
+                                    "p_vn": "bai linh; xin nhan lanh.",
+                                    "_id": "40deb74816400208170e817e9759e7c1",
+                                    "id": 722,
+                                    "type": "e_cnvi",
+                                    "e": "拜领",
+                                    "p_cn": "bailing",
+                                    "p": "bàilǐng"
+                                },
+                                {
+                                    "m": "Xin bái đọc đại tác phẩm.",
+                                    "p_vn": "xin bai doc dai tac pham.",
+                                    "_id": "2c8f834fd81639e91d01a1bfd4de96b1",
+                                    "id": 723,
+                                    "type": "e_cnvi",
+                                    "e": "拜读大作。",
+                                    "p_cn": "baidu dazuo。",
+                                    "p": "bàidú dàzuò。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Bái",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Anh ta họ Bái.",
+                                    "p_vn": "anh ta ho bai.",
+                                    "_id": "f2efc94449b26b3e2967bccbc910cad9",
+                                    "id": 92498,
+                                    "type": "e_cnvi",
+                                    "e": "他姓拜。",
+                                    "p_cn": "ta xing bai.",
+                                    "p": "tā xìng bài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 80,
+                "search": 3281
+            },
+            "snym": null,
+            "cn_vi": "bái",
+            "pinyin": "bài",
+            "word": "拜",
+            "id": 1237,
+            "phonetic": "bai",
+            "rank": 3631,
+            "lv_tocfl": 4,
+            "compound": "拜把子 ; 拜拜 ; 拜忏 ; 拜辞 ; 拜赐 ; 拜倒 ; 拜倒辕门 ; 拜祷 ; 拜垫 ; 拜读 ; 拜恩私室 ; 拜访 ; 拜佛 ; 拜服 ; 拜官 ; 拜会 ; 拜火教 ; 拜见 ; 拜将封侯 ; 拜教 ; 拜节 ; 拜金 ; 拜金主义 ; 拜爵 ; 拜客 ; 拜恳 ; 拜聆 ; 拜领 ; 拜门 ; 拜盟 ; 拜年 ; 拜请 ; 拜认 ; 拜扫 ; 拜师 ; 拜识 ; 拜手 ; 拜寿 ; 拜堂 ; 拜天地 ; 拜托 ; 拜望 ; 拜物教 ; 拜下风 ; 拜匣 ; 拜谢 ; 拜谒"
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "Fèn",
+                "examples": "一份礼",
+                "measure": "份"
+            },
+            "zhuyin": "ㄌㄧˇ",
+            "_id": "d7ef7aef718b59fb3c27a61b1a0837bb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "tặng/ nhận/ trả lại quà",
+                            "examples": [
+                                99191,
+                                99192
+                            ],
+                            "struct": "Động từ（送/收/还）+ 礼"
+                        },
+                        {
+                            "explain": "món quá lớn/nhỏ",
+                            "examples": [
+                                99200,
+                                99201
+                            ],
+                            "struct": "礼 + 很/不 + 重/轻"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "lễ nghi; lễ",
+                            "explain": "社会生活中由于风俗习惯而形成的为大家共同遵守的仪式",
+                            "examples": [
+                                {
+                                    "m": "tang lễ",
+                                    "p_vn": "tang le",
+                                    "_id": "7ab06c99ca87d933451d3f6ede2d2e88",
+                                    "id": 25276,
+                                    "type": "e_cnvi",
+                                    "e": "丧礼",
+                                    "p_cn": "sangli",
+                                    "p": "sānglǐ"
+                                },
+                                {
+                                    "m": "lễ tốt nghiệp",
+                                    "p_vn": "le tot nghiep",
+                                    "_id": "55db399305625a14707d64b91841029c",
+                                    "id": 99170,
+                                    "type": "e_cnvi",
+                                    "e": "毕业典礼",
+                                    "p_cn": "biye dianli",
+                                    "p": "bìyè diǎnlǐ"
+                                },
+                                {
+                                    "m": "lễ đường",
+                                    "p_vn": "le duong",
+                                    "_id": "22c3152319a89878e27b4a3406aa4c47",
+                                    "id": 37819,
+                                    "type": "e_cnvi",
+                                    "e": "礼堂",
+                                    "p_cn": "litang",
+                                    "p": "lǐtáng"
+                                },
+                                {
+                                    "m": "Mời bạn đến tham gia hôn lễ của chúng tôi.",
+                                    "p_vn": "moi ban den tham gia hon le cua chung toi.",
+                                    "_id": "55db399305625a14707d64b9184164a0",
+                                    "id": 99174,
+                                    "type": "e_cnvi",
+                                    "e": "请你来参加我们的婚礼。",
+                                    "p_cn": "qing ni lai canjia women de hunli.",
+                                    "p": "qǐng nǐ lái cānjiā wǒmen de hūnlǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lễ phép; lễ độ (biểu thị lời lẽ tôn kính lễ phép)",
+                            "explain": "表示尊敬的言语或动作",
+                            "examples": [
+                                {
+                                    "m": "lễ tiết",
+                                    "p_vn": "le tiet",
+                                    "_id": "ee2b9cfdf32f167d879d46e4786b4860",
+                                    "id": 25277,
+                                    "type": "e_cnvi",
+                                    "e": "礼节",
+                                    "p_cn": "lijie",
+                                    "p": "lǐjié"
+                                },
+                                {
+                                    "m": "kính lễ",
+                                    "p_vn": "kinh le",
+                                    "_id": "d0fd7cdba641745acda0cc8bf4bdce79",
+                                    "id": 25278,
+                                    "type": "e_cnvi",
+                                    "e": "敬礼",
+                                    "p_cn": "jingli",
+                                    "p": "jìnglǐ"
+                                },
+                                {
+                                    "m": "khiêm tốn lễ độ",
+                                    "p_vn": "khiem ton le do",
+                                    "_id": "226cd3cc54e8c0d7f95fb698599e7d49",
+                                    "id": 25279,
+                                    "type": "e_cnvi",
+                                    "e": "谦恭好礼",
+                                    "p_cn": "qiangong haoli",
+                                    "p": "qiāngōng hǎolǐ"
+                                },
+                                {
+                                    "m": "Nhìn thấy thầy giáo phải chào một cái.",
+                                    "p_vn": "nhin thay thay giao phai chao mot cai.",
+                                    "_id": "55db399305625a14707d64b918422074",
+                                    "id": 99184,
+                                    "type": "e_cnvi",
+                                    "e": "见到老师要行个礼。",
+                                    "p_cn": "jian dao laoshi yao xing ge li.",
+                                    "p": "jiàn dào lǎoshī yào xíng gè lǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lễ vật; quà biếu; tặng phẩm; quà",
+                            "explain": "礼物",
+                            "examples": [
+                                {
+                                    "m": "tặng quà",
+                                    "p_vn": "tang qua",
+                                    "_id": "be831ebb8e8a13d394d886b1ac10a6d2",
+                                    "id": 25280,
+                                    "type": "e_cnvi",
+                                    "e": "送礼",
+                                    "p_cn": "songli",
+                                    "p": "sònglǐ"
+                                },
+                                {
+                                    "m": "dâng lễ vật",
+                                    "p_vn": "dang le vat",
+                                    "_id": "f8778041af934c8512d90bce83f8a66c",
+                                    "id": 25281,
+                                    "type": "e_cnvi",
+                                    "e": "献礼",
+                                    "p_cn": "xianli",
+                                    "p": "xiànlǐ"
+                                },
+                                {
+                                    "m": "của một đồng, công một lạng; của ít lòng nhiều",
+                                    "p_vn": "cua mot dong, cong mot lang; cua it long nhieu",
+                                    "_id": "92d90b753ec1079369c90477a82dbc6f",
+                                    "id": 25282,
+                                    "type": "e_cnvi",
+                                    "e": "千里送鹅毛，礼轻情意重",
+                                    "p_cn": "qianlisongemao，liqingqingyi zhong",
+                                    "p": "qiānlǐsòngémáo，lǐqīngqíngyì zhòng"
+                                },
+                                {
+                                    "m": "Món quà này là một chút tấm lòng của tôi.",
+                                    "p_vn": "mon qua nay la mot chut tam long cua toi.",
+                                    "_id": "55db399305625a14707d64b91841931d",
+                                    "id": 99177,
+                                    "type": "e_cnvi",
+                                    "e": "这份礼是我的一点儿心意。",
+                                    "p_cn": "zhe fen li shi wo de yidianr xinyi.",
+                                    "p": "zhè fèn lǐ shì wǒ de yīdiǎnr xīnyì."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đối xử với nhau có lễ nghĩa",
+                            "explain": "以礼相待",
+                            "examples": [
+                                {
+                                    "m": "sẵn sàng kết bạn với người hiền tài",
+                                    "p_vn": "san sang ket ban voi nguoi hien tai",
+                                    "_id": "e9fd65874cbbc979e07927ab2226d345",
+                                    "id": 25283,
+                                    "type": "e_cnvi",
+                                    "e": "礼贤下士",
+                                    "p_cn": "lixianxiashi",
+                                    "p": "lǐxiánxiàshì"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 44,
+                "search": 3688
+            },
+            "snym": null,
+            "lv_hsk_new": "5",
+            "pinyin": "lǐ",
+            "cn_vi": "lễ",
+            "word": "礼",
+            "id": 34317,
+            "phonetic": "li",
+            "rank": 3237,
+            "lv_tocfl": 4,
+            "compound": "礼拜 ; 礼拜寺 ; 礼拜堂 ; 礼拜天 ; 礼宾 ; 礼成 ; 礼单 ; 礼法 ; 礼佛 ; 礼服 ; 礼服呢 ; 礼花 ; 礼教 ; 礼节 ; 礼金 ; 礼帽 ; 礼貌 ; 礼炮 ; 礼品 ; 礼券 ; 礼让 ; 礼尚往来 ; 礼数 ; 礼俗 ; 礼堂 ; 礼物 ; 礼贤下士 ; 礼仪 ; 礼遇 ; 礼赞"
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧˇㄌㄧˇㄏㄞˊㄌㄧˇ",
+            "_id": "6c5f1c58dce94341a5b51bd3bc437a37",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "Lấy lễ đáp lễ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "tôi đã định ra một nguyên tắc đó là lấy lễ đáp lễ",
+                                    "p_vn": "toi da dinh ra mot nguyen tac do la lay le dap le",
+                                    "_id": "47877ec7c51240ccab3430c92aee7b35",
+                                    "id": 67581,
+                                    "type": "e_cnvi",
+                                    "e": "我已经定下一个规则,总是以礼还礼",
+                                    "p_cn": "Wo yijing ding xia yige guize, zong shi yi li huanli",
+                                    "p": "Wǒ yǐjīng dìng xià yīgè guīzé, zǒng shì yǐ lǐ huánlǐ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 6,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "dĩ lễ hoàn lễ",
+            "pinyin": "yǐ lǐ huánlǐ",
+            "word": "以礼还礼",
+            "id": 152343,
+            "phonetic": "yilihuanli",
+            "rank": 65660,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "58",
+            "zhuyin": "ㄔㄨㄥˊㄅㄞˋ",
+            "_id": "3c099a6b2da12f51d92f6beaba48ac04",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Sùng bái, ngưỡng mộ ai",
+                            "examples": [
+                                113892
+                            ],
+                            "struct": "对……崇拜"
+                        },
+                        {
+                            "explain": "Tôn thờ ai đó như",
+                            "examples": [
+                                113895
+                            ],
+                            "struct": "A 把 B 当作 + Danh từ + 崇拜"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tôn thờ; sùng bái; thờ cúng; ngưỡng mộ",
+                            "explain": "崇敬钦佩",
+                            "examples": [
+                                {
+                                    "m": "Trẻ em ngưỡng mộ các anh hùng từ khi còn nhỏ.",
+                                    "p_vn": "tre em nguong mo cac anh hung tu khi con nho.",
+                                    "_id": "641148288b13f4cf43a85133e80a14ca",
+                                    "id": 113891,
+                                    "type": "e_cnvi",
+                                    "e": "孩子们从小就崇拜英雄。",
+                                    "p_cn": "haizimen congxiao jiu chongbai yingxiong.",
+                                    "p": "háizimen cóngxiǎo jiù chóngbài yīngxióng."
+                                },
+                                {
+                                    "m": "Cô ấy cực kỳ ngưỡng mộ cậu.",
+                                    "p_vn": "co ay cuc ky nguong mo cau.",
+                                    "_id": "641148288b13f4cf43a85133e80a1e5b",
+                                    "id": 113893,
+                                    "type": "e_cnvi",
+                                    "e": "她极为崇拜你。",
+                                    "p_cn": "ta jiwei chongbai ni.",
+                                    "p": "tā jíwéi chóngbài nǐ."
+                                },
+                                {
+                                    "m": "Anh tôn thờ cô như một nữ thần.",
+                                    "p_vn": "anh ton tho co nhu mot nu than.",
+                                    "_id": "641148288b13f4cf43a85133e80a1ece",
+                                    "id": 113894,
+                                    "type": "e_cnvi",
+                                    "e": "他把她当作女神崇拜。",
+                                    "p_cn": "ta ba ta dang zuo nǚshen chongbai.",
+                                    "p": "tā bǎ tā dàng zuò nǚshén chóngbài."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- Cả hai đều mang nghĩa \"tôn thờ, ngưỡng mộ\"\n- Đều là động từ.\nKhác:\n- \"崇拜\" dùng nói ngưỡng mộ ở mức độ phi thường, thậm chí đôi khi có thể nói quá mức, mê tín.\n\"崇敬\" bày tỏ sự tôn trọng đặc biệt với người nào đó.\n- \"崇拜\" là từ trung tính.\n\"崇敬\" là từ mang nghĩa tốt.\n- \"崇拜\" đối tượng sử dụng có thể là người, thần thánh...\n\"崇敬\" đối tượng sử dụng là con người.",
+                    "title": "Phân biệt \"崇拜\" và \"崇敬\"",
+                    "words": [
+                        "崇拜",
+                        "崇敬"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "崇敬",
+                    "倾心",
+                    "信奉",
+                    "看重",
+                    "崇尚",
+                    "推崇",
+                    "尊崇",
+                    "尊敬"
+                ],
+                "anto": [
+                    "唾弃",
+                    "轻侮",
+                    "背弃",
+                    "蔑视",
+                    "鄙视",
+                    "倾心"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "chóngbài",
+            "cn_vi": "sùng bái",
+            "popularity": {
+                "notebook": 240,
+                "search": 2339
+            },
+            "word": "崇拜",
+            "id": 7956,
+            "phonetic": "chongbai",
+            "rank": 4911,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄞˋㄅㄞˋ",
+            "_id": "d7ed7d51b26d45ddb12ce643b79190c5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bằng chữ cái, một biểu hiện của sự tôn trọng",
+                            "explain": "(in letters, an expression of respect)",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cúi đầu một lần nữa",
+                            "explain": "to bow again",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cúi đầu hai lần (cử chỉ tôn trọng trong thời gian trước đây)",
+                            "explain": "to bow twice (gesture of respect in former times)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tái bái",
+            "pinyin": "zài bài",
+            "word": "再拜",
+            "id": 94963,
+            "phonetic": "zaibai",
+            "rank": 116126,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄍㄨㄟˋ",
+            "_id": "bc3caf7ede9f404ea6a43fe660bf0717",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Quỳ lạy; hai đầu gối quỳ trên đất mà lạy. \n§ Lễ cung kính nhất ngày xưa.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "bái quỵ",
+            "pinyin": "bài guì",
+            "word": "拜跪",
+            "id": 150162,
+            "phonetic": "baigui",
+            "rank": 144775,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄧㄝˋ",
+            "_id": "d2a1ed2cd8d1675a71abc23094cad95c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái yết; bái kiến; chào ra mắt 拜见所尊敬的人",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "đặc biệt bái kiến",
+                                    "p_vn": "dac biet bai kien",
+                                    "_id": "0eb684bc75de61b8b940016b3f56b680",
+                                    "id": 739,
+                                    "type": "e_cnvi",
+                                    "e": "专拜谒",
+                                    "p_cn": "zhuan baiye",
+                                    "p": "zhuān bàiyè"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chiêm ngưỡng (lăng mộ, bia)",
+                            "explain": "瞻仰（陵墓等）",
+                            "examples": [
+                                {
+                                    "m": "chiêm ngưỡng lăng hoàng đế",
+                                    "p_vn": "chiem nguong lang hoang de",
+                                    "_id": "75c9576d2e6cec93810428198fc2a2c5",
+                                    "id": 740,
+                                    "type": "e_cnvi",
+                                    "e": "拜谒黄帝陵",
+                                    "p_cn": "baiye huangdi ling",
+                                    "p": "bàiyè huángdìlíng"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "chào ra mắt",
+                            "explain": "拜见所尊敬的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 73
+            },
+            "snym": {
+                "syno": [
+                    "拜会",
+                    "拜望",
+                    "调查",
+                    "拜见",
+                    "探访",
+                    "探问",
+                    "看望",
+                    "探望",
+                    "访问",
+                    "拜访",
+                    "拜候",
+                    "谒见",
+                    "晋见",
+                    "晋谒",
+                    "朝拜"
+                ]
+            },
+            "cn_vi": "bái yết",
+            "pinyin": "bàiyè",
+            "word": "拜谒",
+            "id": 1285,
+            "phonetic": "baiye",
+            "rank": 48588,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄓㄞ",
+            "_id": "cf4dc945d7ad4780b3c3e8fa886694d7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Bãi Cháy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 139
+            },
+            "snym": null,
+            "cn_vi": "bái trai",
+            "pinyin": "bài zhāi",
+            "word": "拜斋",
+            "id": 155921,
+            "phonetic": "baizhai",
+            "rank": 34855,
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄧㄥˇㄅㄞˋ",
+            "_id": "884ef92847f74a3202504393945cd289",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "rạp lạy sát đất; quỳ lạy sát đất",
+                            "explain": "跪拜时头部低下，朝向尊者的足部，为最尊敬的礼仪即佛家所称五体投地",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "đỉnh bái",
+            "pinyin": "dǐng bài",
+            "word": "顶拜",
+            "id": 13255,
+            "phonetic": "dingbai",
+            "rank": 142580,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄠㄅㄞˋ",
+            "_id": "d27bbcfbe83948fa9e11c5008d200bfd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Ngày xưa tế tự; lạy nhiều lần; gọi là bao bái 褒拜.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bao bái",
+            "pinyin": "bāo bài",
+            "word": "褒拜",
+            "id": 150158,
+            "phonetic": "baobai",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄎㄜˋ",
+            "_id": "6fe9b5ea570c1939e67813009f7c65d4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đến thăm; thăm viếng; thăm hỏi",
+                            "explain": "拜访别人",
+                            "examples": [
+                                {
+                                    "m": "ra ngoài thăm viếng",
+                                    "p_vn": "ra ngoai tham vieng",
+                                    "_id": "7d4cf5d5f8eb312a397648e71c67c5e5",
+                                    "id": 732,
+                                    "type": "e_cnvi",
+                                    "e": "出门拜客",
+                                    "p_cn": "chumen baike",
+                                    "p": "chūmén bàikè"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "bái khách",
+            "pinyin": "bàikè",
+            "word": "拜客",
+            "id": 1262,
+            "phonetic": "baike",
+            "rank": 84498,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄖㄣˋ",
+            "_id": "1da3ff07e21db8edcd847e1d194ff11a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái nhận; làm lễ nhận người khác làm nghĩa phụ, nghĩa mẫu, sư phụ...",
+                            "explain": "举行一定仪式认别人为义父、义母、师父等",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "bái nhận",
+            "pinyin": "bài rèn",
+            "word": "拜认",
+            "id": 1271,
+            "phonetic": "bairen",
+            "rank": 113398,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄉㄨˊ",
+            "_id": "84a6b7589b4850ea3140066a1214d36a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái độc; được đọc; có vinh dự đọc qua",
+                            "explain": "敬词，指阅读作品或书信",
+                            "examples": [
+                                {
+                                    "m": "Xin bái đọc đại tác phẩm.",
+                                    "p_vn": "xin bai doc dai tac pham.",
+                                    "_id": "2c8f834fd81639e91d01a1bfd4de96b1",
+                                    "id": 723,
+                                    "type": "e_cnvi",
+                                    "e": "拜读大作。",
+                                    "p_cn": "baidu dazuo。",
+                                    "p": "bàidú dàzuò。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 22,
+                "search": 310
+            },
+            "snym": {
+                "syno": [
+                    "阅读"
+                ],
+                "anto": [
+                    "鄙视"
+                ]
+            },
+            "cn_vi": "bái độc",
+            "pinyin": "bàidú",
+            "word": "拜读",
+            "id": 1247,
+            "phonetic": "baidu",
+            "rank": 21718,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄨㄟˋ",
+            "_id": "56488607bc36461482a5e3bce917f967",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Trao chức vị cho quan. Vị trí hành lễ khi tế tự.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "bái vị",
+            "pinyin": "bài wèi",
+            "word": "拜位",
+            "id": 148686,
+            "phonetic": "baiwei",
+            "rank": 141346,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄔㄥˊ",
+            "_id": "80de3207644b460184b0a825c4b6b6c8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Vịnh nahiyisi (quận Baicheng) ở Aksu 阿克蘇地區 | 阿克苏地区, tây Tân Cương",
+                            "explain": "Bay nahiyisi (Baicheng county) in Aksu 阿克蘇地區|阿克苏地区 [A1 kè sū dì qū], west Xinjiang",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "bái thành",
+            "pinyin": "bài chéng",
+            "word": "拜城",
+            "id": 107783,
+            "phonetic": "baicheng",
+            "rank": 127634,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄐㄧㄢˋ",
+            "topic": "72",
+            "_id": "3be7d0483f109d7abebd245a9359741c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái kiến; chào; ra mắt; đến chào (phía khách nói) (nay thường dùng trong các buổi gặp gỡ ngoại giao long trọng); bái chào",
+                            "explain": "拜会;会见（从客人方面说）现多用于外交上礼节性的会见.",
+                            "examples": [
+                                {
+                                    "m": "đến chào anh trai và chị dâu",
+                                    "p_vn": "den chao anh trai va chi dau",
+                                    "_id": "f873ce8157d75f3b70aa16c8c927b38c",
+                                    "id": 729,
+                                    "type": "e_cnvi",
+                                    "e": "拜见兄嫂",
+                                    "p_cn": "baijian xiong sao",
+                                    "p": "bàijiàn xiōngsǎo"
+                                },
+                                {
+                                    "m": "bái kiến ân sư",
+                                    "p_vn": "bai kien an su",
+                                    "_id": "b7f4054bd27b7437f0f548c6664ff9fa",
+                                    "id": 730,
+                                    "type": "e_cnvi",
+                                    "e": "拜见恩师",
+                                    "p_cn": "baijian enshi",
+                                    "p": "bàijiàn ēnshī"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lạy",
+                            "explain": "旧时表示恭敬的招呼",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 18,
+                "search": 225
+            },
+            "snym": {
+                "syno": [
+                    "参见",
+                    "拜会",
+                    "拜访",
+                    "参拜",
+                    "拜谒",
+                    "拜望",
+                    "谒见",
+                    "朝觐",
+                    "晋见",
+                    "朝见"
+                ]
+            },
+            "cn_vi": "bái kiến",
+            "pinyin": "bàijiàn",
+            "word": "拜见",
+            "id": 1255,
+            "phonetic": "baijian",
+            "rank": 26487,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄨㄛㄅㄞˋ",
+            "_id": "1cf40d4c8a414acd814705ff627aabfd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "xếp hàng để tỏ lòng kính trọng",
+                            "explain": "to line up to pay homage",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "la bái",
+            "pinyin": "luō bài",
+            "word": "罗拜",
+            "id": 99232,
+            "phonetic": "luobai",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "9b49a2037d594506b37d7f190c52ec92",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái khấp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khấp bái",
+            "pinyin": "qì bài",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "泣拜",
+            "id": 182474,
+            "phonetic": "qibai",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄈㄤˇ",
+            "_id": "8ab90df057a8160a6d33b09de4051674",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "thăm ai/ nơi nào",
+                            "examples": [
+                                110443,
+                                110444
+                            ],
+                            "struct": "拜访 + Danh từ ( 某人、某地方）"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kính thăm; kính cẩn thăm hỏi; thăm viếng; thăm hỏi; viếng thăm",
+                            "explain": "敬辞, 非常尊敬地探访",
+                            "examples": [
+                                {
+                                    "m": "Thăm đối tác thường xuyên.",
+                                    "p_vn": "tham doi tac thuong xuyen.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c44f5d8",
+                                    "id": 110437,
+                                    "type": "e_cnvi",
+                                    "e": "定期拜访合作伙伴。",
+                                    "p_cn": "ding qi baifang hezuo huoban.",
+                                    "p": "dìng qī bàifǎng hézuò huǒbàn."
+                                },
+                                {
+                                    "m": "Hôm nay tôi đến thăm một trưởng lão.",
+                                    "p_vn": "hom nay toi den tham mot truong lao.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c451581",
+                                    "id": 110440,
+                                    "type": "e_cnvi",
+                                    "e": "今天去拜访一位长辈。",
+                                    "p_cn": "jintian qu baifang yi wei zhangbei.",
+                                    "p": "jīntiān qù bàifǎng yī wèi zhǎngbèi."
+                                },
+                                {
+                                    "m": "Hôm nay tôi đã đến thăm một người bạn.",
+                                    "p_vn": "hom nay toi da den tham mot nguoi ban.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c4c4d5c",
+                                    "id": 133821,
+                                    "type": "e_cnvi",
+                                    "e": "我今天去拜访了一个朋友。",
+                                    "p_cn": "wo jintian qu baifangle yige pengyou.",
+                                    "p": "wǒ jīntiān qù bàifǎngle yīgè péngyou."
+                                },
+                                {
+                                    "m": "Cô ấy dự định sẽ thăm bà con của mình vào tuần tới.",
+                                    "p_vn": "co ay du dinh se tham ba con cua minh vao tuan toi.",
+                                    "_id": "ac4bbc5f882264acadd04ccb5c4c4e4c",
+                                    "id": 133822,
+                                    "type": "e_cnvi",
+                                    "e": "她计划下周拜访她的亲戚。",
+                                    "p_cn": "ta jihua xia zhou baifang ta de qinqi.",
+                                    "p": "tā jìhuà xià zhōu bàifǎng tā de qīnqī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"拜\" trong tiếng Hán là kính ngữ, từ kết hợp với \"拜\" như: \"拜访\"，\"拜会\"..\nđều là kính ngữ.\nĐối tượng của \"拜会\" là người, đối tượng của \"拜访\" có thể là người cũng có thể là địa điểm.\n\"拜会\" được dùng nhiều trong các tình huống giao tiếp.",
+                    "title": "Phân biệt \"拜访\" và \"拜会\"",
+                    "words": [
+                        "拜访",
+                        "拜会"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "拜会",
+                    "拜望",
+                    "光临",
+                    "走访",
+                    "拜见",
+                    "会见",
+                    "探访",
+                    "探问",
+                    "看望",
+                    "探望",
+                    "访问",
+                    "拜谒",
+                    "造访",
+                    "拜候",
+                    "探视",
+                    "出访",
+                    "上门",
+                    "调查",
+                    "来访"
+                ],
+                "anto": [
+                    "召见",
+                    "道别",
+                    "邀请"
+                ]
+            },
+            "lv_hsk_new": "5, 6",
+            "pinyin": "bàifǎng",
+            "cn_vi": "bái phỏng",
+            "popularity": {
+                "notebook": 316,
+                "search": 5027
+            },
+            "word": "拜访",
+            "id": 1249,
+            "phonetic": "baifang",
+            "rank": 2388,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "8123e5c0c28e4ddbba920cfb390ab136",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bái vật giáo (là một hình thức tôn giáo nguyên thuỷ chuyên thờ đá, cây, bò, rắn... Về sau dùng chỉ tật sùng bái sự vật nào đó, ví dụ như tệ sùng bái hàng hoá.) 原始宗教的一種形式",
+                            "explain": "把某些東西如石、樹木、牛、蛇等當作神來崇拜。后來 也用它來比喻對某種事物的迷信，如產品拜物教。",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sùng bái; tệ sùng bái",
+                            "explain": "比喻對某種事物的迷信。",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bái vật",
+            "pinyin": "bài wù",
+            "word": "拜物",
+            "id": 171919,
+            "phonetic": "baiwu",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄈㄨˊ",
+            "_id": "833b002215e7179ba9c9de1a4103a78f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái phục; kính phục; khâm phục; thán phục; cảm phục; ngưỡng mộ; ca tụng",
+                            "explain": "敬辞，佩服",
+                            "examples": [
+                                {
+                                    "m": "anh ấy học cao hiểu rộng khiến người ta phải thán phục.",
+                                    "p_vn": "anh ay hoc cao hieu rong khien nguoi ta phai than phuc",
+                                    "_id": "40d820ac0e784dff5a181e157f5bfb10",
+                                    "id": 728,
+                                    "type": "e_cnvi",
+                                    "e": "他的博闻强识，令人拜服。",
+                                    "p_cn": "ta de bo wen qiang zhi ling ren baifu",
+                                    "p": "tā de bó wén qiáng zhì, lìng rén bàifú."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 280
+            },
+            "snym": {
+                "syno": [
+                    "佩服"
+                ]
+            },
+            "cn_vi": "bái phục",
+            "pinyin": "bàifú",
+            "word": "拜服",
+            "id": 1251,
+            "phonetic": "baifu",
+            "rank": 23132,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄎㄣˇ",
+            "_id": "83525e458dca37e4d3c47c0a4f57e62a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "cầu xin; kiến nghị; thỉnh cầu; cầu nguyện",
+                            "explain": "拜托祈求",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "bái khẩn",
+            "pinyin": "bài kěn",
+            "word": "拜恳",
+            "id": 1263,
+            "phonetic": "baiken",
+            "rank": 79838,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄓˊ",
+            "_id": "6bb90e29ab8d48819041f638f6b9561d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Phong chức quan. \n◇Bắc sử 北史: Mỗi Lạc trung quý nhân bái chức; đa bằng Thiệu vi tạ chương biểu 每洛中貴人拜職; 多憑卲為謝表 (Hình Thiệu truyện 穆崇傳) Thường khi quý nhân ở Lạc Dương được phong chức quan; phần nhiều nhờ Hình Thiệu làm biểu tạ ơn.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "bái chức",
+            "pinyin": "bài zhí",
+            "word": "拜职",
+            "id": 150160,
+            "phonetic": "baizhi",
+            "rank": 127768,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄇㄣˊ",
+            "_id": "6b81361ebbb6cb5ec5e01d36fc78397b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đến thăm đáp lễ",
+                            "explain": "登门拜谢",
+                            "examples": []
+                        },
+                        {
+                            "mean": "bái sư; nhận sư phụ",
+                            "explain": "拜人为老师",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 7
+            },
+            "snym": null,
+            "cn_vi": "bái môn",
+            "pinyin": "bài mén",
+            "word": "拜门",
+            "id": 1266,
+            "phonetic": "baimen",
+            "rank": 114832,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄑㄩㄢˊ",
+            "_id": "45d50db5fec8448a8df7f527cfe9748f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "Quận Baiquan ở Qiqihar 齊齊哈爾 | 齐齐哈尔 , Hắc Long Giang",
+                            "explain": "Baiquan county in Qiqihar 齊齊哈爾|齐齐哈尔 [Qi2 qí hā ěr], Heilongjiang",
+                            "examples": [
+                                {
+                                    "m": "Trước nhu cầu xây dựng kinh tế, nạn chặt phá rừng, phát cỏ, khai hoang đã làm cho môi trường sinh thái của huyện Baiquan ngày càng xấu đi và có dấu hiệu “đèn vàng”, như hạn hán, bão cát, lũ lụt, xói mòn đất, v.v.",
+                                    "p_vn": "Truoc nhu cau xay dung kinh te, nan chat pha rung, phat co, khai hoang da lam cho moi truong sinh thai cua huyen Baiquan ngay cang xau di va co dau hieu \"den vang\", nhu han han, bao cat, lu lut, xoi mon dat, v.v.",
+                                    "_id": "77d939a8ad8843fb9211b0b899341df1",
+                                    "id": 67975,
+                                    "type": "e_cnvi",
+                                    "e": "在经济建设的需求下无节制地毁林毁草开荒，让拜泉县的生态环境日益恶化且亮出“黄灯”，干旱、风沙、洪涝、水土流失等",
+                                    "p_cn": "Zai jingji jianshe de xuqiu xia wu jiezhi de hui lin hui cao kaihuang, rang bai quan xian de shengtai huanjing riyi ehua qie liang chu \"huang deng\", ganhan, fengsha, honglao, shuitu liushi deng",
+                                    "p": "Zài jīngjì jiànshè de xūqiú xià wú jiézhì de huǐ lín huǐ cǎo kāihuāng, ràng bài quán xiàn de shēngtài huánjìng rìyì èhuà qiě liàng chū “huáng dēng”, gānhàn, fēngshā, hónglào, shuǐtǔ liúshī děng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "bái tuyền",
+            "pinyin": "bài quán",
+            "word": "拜泉",
+            "id": 103111,
+            "phonetic": "baiquan",
+            "rank": 158107,
+            "kind": [
+                "n",
+                "nlocal"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "1c008656222b40eaaf3b53590998b873",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Lạy năm lạy, tức là lễ của bề tôi với vua. Bài Tụng Tây hồ phú của Nguyễn Huy Lượng có câu: » Trước huân phong nghe phảng phất cung đàn, làn thâm thuỷ muốn vái lên ngũ bái «.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "ngũ bái",
+            "pinyin": "wǔ bài",
+            "word": "五拜",
+            "id": 168698,
+            "phonetic": "wubai",
+            "rank": 101661,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄌㄧㄥˇ",
+            "_id": "4fec82d90cc118a755f0dc97b494afd1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái lĩnh",
+                            "explain": "敬辞，感谢对方馈赠",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "bái lĩnh",
+            "pinyin": "bài lǐng",
+            "word": "拜领",
+            "id": 1265,
+            "phonetic": "bailing",
+            "rank": 122368,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄞˋㄆㄧㄠˋ",
+            "_id": "099222973a84461481304212199f1664",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để canvass cho phiếu bầu (Tw)",
+                            "explain": "to canvass for votes (Tw)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 31
+            },
+            "snym": null,
+            "cn_vi": "bái phiếu",
+            "pinyin": "bài piào",
+            "word": "拜票",
+            "id": 103113,
+            "phonetic": "baipiao",
+            "rank": 70430,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "2bc6d94a6f5445b79c11cce9cc5eba40",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "bái trình",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "bái trình",
+            "pinyin": "bài chéng",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "拜呈",
+            "id": 179684,
+            "phonetic": "baicheng",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄟˊㄅㄞˋ",
+            "_id": "c858f5bdb88b444617ef90235c7ca267",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thăm đáp lễ; đi thăm đáp lễ",
+                            "explain": "回访",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": {
+                "syno": [
+                    "回访"
+                ]
+            },
+            "cn_vi": "hồi bái",
+            "pinyin": "huíbài",
+            "word": "回拜",
+            "id": 25423,
+            "phonetic": "huibai",
+            "rank": 104801,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "礼拜"
+}

@@ -1,0 +1,2732 @@
+{
+    "total": 171,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇ",
+            "_id": "ac6fd236ac61fe20f04a7e6dbb583faa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "làm khó; không làm khó được",
+                            "examples": [
+                                99681,
+                                99682
+                            ],
+                            "struct": "考 + 得/不 + 倒/住"
+                        },
+                        {
+                            "explain": "dễ thi/ khó thi",
+                            "examples": [
+                                99683,
+                                99684
+                            ],
+                            "struct": "（很/不 + ）好/难/容易 + 考"
+                        },
+                        {
+                            "explain": "bổ ngữ khả năng",
+                            "examples": [
+                                99685,
+                                99686,
+                                99687
+                            ],
+                            "struct": "考 + 得/不 + 好/完/上/进（ + 去）"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "hỏi; đố",
+                            "explain": "提出难 解的问题让对方回答",
+                            "examples": [
+                                {
+                                    "m": "Bố dùng một câu hỏi rất khó để đố tôi.",
+                                    "p_vn": "bo dung mot cau hoi rat kho de do toi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9361ca9",
+                                    "id": 93360,
+                                    "type": "e_cnvi",
+                                    "e": "爸爸用一个很难的问题考我。",
+                                    "p_cn": "baba yong yige hen nan de wenti kao wo.",
+                                    "p": "bàba yòng yīgè hěn nán de wèntí kǎo wǒ."
+                                },
+                                {
+                                    "m": "Để tôi đố bạn.",
+                                    "p_vn": "de toi do ban.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c6eec0d",
+                                    "id": 110879,
+                                    "type": "e_cnvi",
+                                    "e": "让我考考你。",
+                                    "p_cn": "rang wo kao kao ni.",
+                                    "p": "ràng wǒ kǎo kǎo nǐ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thi cử; thi",
+                            "explain": "考试",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy đang chuẩn bị cho kỳ thi.",
+                                    "p_vn": "anh ay dang chuan bi cho ky thi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc93640cf",
+                                    "id": 93364,
+                                    "type": "e_cnvi",
+                                    "e": "他正在准备考试。",
+                                    "p_cn": "ta zhengzai zhunbei kaoshi.",
+                                    "p": "tā zhèngzài zhǔnbèi kǎoshì."
+                                },
+                                {
+                                    "m": "Ba năm trước tôi thi đỗ đại học.",
+                                    "p_vn": "ba nam truoc toi thi do dai hoc.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9364e26",
+                                    "id": 93365,
+                                    "type": "e_cnvi",
+                                    "e": "我三年前考上了大学。",
+                                    "p_cn": "wo san nian qian kao shangle daxue.",
+                                    "p": "wǒ sān nián qián kǎo shàngle dàxué."
+                                },
+                                {
+                                    "m": "Ngày mai lớp chúng tôi phải thi tiếng Anh.",
+                                    "p_vn": "ngay mai lop chung toi phai thi tieng anh.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9365da5",
+                                    "id": 93366,
+                                    "type": "e_cnvi",
+                                    "e": "明天我们班要考英语。",
+                                    "p_cn": "mingtian women ban yao kao yingyu.",
+                                    "p": "míngtiān wǒmen bān yào kǎo yīngyǔ."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "kiểm tra; khảo sát; khảo",
+                            "explain": "检查",
+                            "examples": [
+                                {
+                                    "m": "Họ đang tiến hành khảo sát đối với dự án này.",
+                                    "p_vn": "ho dang tien hanh khao sat doi voi du an nay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9366aa4",
+                                    "id": 93367,
+                                    "type": "e_cnvi",
+                                    "e": "他们正在对这个项目进行考察。",
+                                    "p_cn": "tamen zhengzai dui zhege xiangmu jinxing kaocha.",
+                                    "p": "tāmen zhèngzài duì zhège xiàngmù jìnxíng kǎochá."
+                                },
+                                {
+                                    "m": "Anh ấy đang chuẩn bị tiếp nhận kiểm tra đánh giá.",
+                                    "p_vn": "anh ay dang chuan bi tiep nhan kiem tra danh gia.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9367d3a",
+                                    "id": 93369,
+                                    "type": "e_cnvi",
+                                    "e": "他正在准备接受考核。",
+                                    "p_cn": "ta zhengzai zhunbei jieshou kaohe.",
+                                    "p": "tā zhèngzài zhǔnbèi jiēshòu kǎohé."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "suy xét; tìm tòi; nghiên cứu",
+                            "explain": "推求;研究",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy yên lặng ngồi đó suy nghĩ.",
+                                    "p_vn": "anh ay yen lang ngoi do suy nghi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc936833a",
+                                    "id": 93370,
+                                    "type": "e_cnvi",
+                                    "e": "他静静地坐在那里思考。",
+                                    "p_cn": "ta jing jing de zuo zai nali sikao.",
+                                    "p": "tā jìng jìng de zuò zài nàlǐ sīkǎo."
+                                },
+                                {
+                                    "m": "Anh ấy rất hứng thú với khảo cổ.",
+                                    "p_vn": "anh ay rat hung thu voi khao co.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9367145",
+                                    "id": 93368,
+                                    "type": "e_cnvi",
+                                    "e": "他对考古很感兴趣。",
+                                    "p_cn": "ta dui kaogu hen gan xingqu.",
+                                    "p": "tā duì kǎogǔ hěn gǎn xìngqù."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cha,mẹ (đã mất)",
+                            "explain": "称死去的父亲",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy luôn ghi nhớ sự dạy bảo của người cha qua đời.",
+                                    "p_vn": "anh ay luon ghi nho su day bao cua nguoi cha qua doi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc93684d9",
+                                    "id": 93371,
+                                    "type": "e_cnvi",
+                                    "e": "他一直铭记着先考的教诲。",
+                                    "p_cn": "ta yizhi mingjizhe xian kao de jiaohui.",
+                                    "p": "tā yīzhí míngjìzhe xiān kǎo de jiàohuì."
+                                },
+                                {
+                                    "m": "Anh ấy thường nhớ đến người cha đã qua đời.",
+                                    "p_vn": "anh ay thuong nho den nguoi cha da qua doi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc93695d7",
+                                    "id": 93373,
+                                    "type": "e_cnvi",
+                                    "e": "他经常怀念先考。",
+                                    "p_cn": "ta jingchang huainian xian kao.",
+                                    "p": "tā jīngcháng huáiniàn xiān kǎo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "họ Khảo",
+                            "explain": "姓",
+                            "examples": [
+                                {
+                                    "m": "Tôi họ Khảo.",
+                                    "p_vn": "toi ho khao.",
+                                    "_id": "f2efc94449b26b3e2967bccbc936a0ae",
+                                    "id": 93374,
+                                    "type": "e_cnvi",
+                                    "e": "我姓考。",
+                                    "p_cn": "wo xing kao.",
+                                    "p": "wǒ xìng kǎo."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "già; tuổi thọ cao",
+                            "explain": "老；活的岁数大",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy chúc ông nội phúc lộc thọ khảo.",
+                                    "p_vn": "anh ay chuc ong noi phuc loc tho khao.",
+                                    "_id": "f2efc94449b26b3e2967bccbc936af43",
+                                    "id": 93375,
+                                    "type": "e_cnvi",
+                                    "e": "他祝愿爷爷福禄寿考。",
+                                    "p_cn": "ta zhuyuan yeye fu lu shou kao.",
+                                    "p": "tā zhùyuàn yéyé fú lù shòu kǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"考试\" và \"考\" có ý nghĩa giống nhau, do quan hệ về âm tiết, \"考试\" thường được kết hợp sử dụng cùng từ song âm tiết, \"考\" thường được kết hợp sử dụng cùng từ đơn âm tiết.\n\"考\" là động từ, có thể đi kèm với tân ngữ và bổ ngữ.\n\"考试\" là cụm động tân, bổ ngữ có thể đi kèm cùng rất ít",
+                    "title": "Phân biệt \"考试\" và \"考\"",
+                    "words": [
+                        "考试",
+                        "考"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "1",
+            "pinyin": "kǎo",
+            "cn_vi": "khảo",
+            "popularity": {
+                "notebook": 223,
+                "search": 7886
+            },
+            "word": "考",
+            "id": 32055,
+            "phonetic": "kao",
+            "rank": 1385,
+            "lv_tocfl": 3,
+            "compound": "考妣 ; 考查 ; 考察 ; 考场 ; 考点 ; 考订 ; 考分 ; 考古 ; 考古学 ; 考官 ; 考核 ; 考绩 ; 考究 ; 考据 ; 考卷 ; 考量 ; 考虑 ; 考评 ; 考期 ; 考勤 ; 考区 ; 考取 ; 考生 ; 考试 ; 考释 ; 考题 ; 考问 ; 考验 ; 考语 ; 考证"
+        },
+        {
+            "kind": [
+                "v",
+                "n"
+            ],
+            "measure": {
+                "pinyin": "chǎng, gè, zhǒng",
+                "examples": "",
+                "measure": "场, 个, 种"
+            },
+            "zhuyin": "ㄎㄠˇㄧㄢˋ",
+            "_id": "e87866abca749d8e536d2f72b1197def",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "thử thách cái gì đó",
+                            "examples": [
+                                131077,
+                                131078
+                            ],
+                            "struct": "考验 + Tân ngữ  ( 爱情/意志/感情/...)"
+                        }
+                    ],
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": " thử thách; kiểm tra ",
+                            "explain": "通过事情、行动或者困难的环境等检验某人的能力、思想、道德、品质等是不是符合要求",
+                            "examples": [
+                                {
+                                    "m": "Chuyến đi này đã thử thách sự kiên nhẫn của tôi.",
+                                    "p_vn": "chuyen di nay da thu thach su kien nhan cua toi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571d47b2b",
+                                    "id": 131073,
+                                    "type": "e_cnvi",
+                                    "e": "这次旅行考验了我的耐心。",
+                                    "p_cn": "zhe ci lǚxing kaoyanle wo de naixin.",
+                                    "p": "zhè cì lǚxíng kǎoyànle wǒ de nàixīn."
+                                },
+                                {
+                                    "m": "Nhiệm vụ đã thử thách khả năng của anh ấy.",
+                                    "p_vn": "nhiem vu da thu thach kha nang cua anh ay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571d48a84",
+                                    "id": 131074,
+                                    "type": "e_cnvi",
+                                    "e": "任务考验了他的能力。",
+                                    "p_cn": "renwu kaoyanle ta de nengli.",
+                                    "p": "rènwù kǎoyànle tā de nénglì."
+                                },
+                                {
+                                    "m": "Bạn phải thử thách kỹ năng của mình.",
+                                    "p_vn": "ban phai thu thach ky nang cua minh.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571d49647",
+                                    "id": 131075,
+                                    "type": "e_cnvi",
+                                    "e": "你要考验自己的技能。",
+                                    "p_cn": "ni yao kaoyan ziji de jineng.",
+                                    "p": "nǐ yào kǎoyàn zìjǐ de jìnéng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "một cái gì đó phải đối mặt hoặc trải qua một thử thách",
+                            "examples": [
+                                131079,
+                                131080
+                            ],
+                            "struct": "Động từ (接受/经受//通过/...) + (…的) + 考验 "
+                        },
+                        {
+                            "explain": "\"考验\" đóng vai trò trung tâm ngữ",
+                            "examples": [
+                                131081,
+                                131082
+                            ],
+                            "struct": "Định ngữ (极大/真正/长期/...) + 的 + 考验"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cuộc thử thách; bài kiểm tra",
+                            "explain": "为了看某人的能力、思想、道德、品质等是不是符合要求进行的活动",
+                            "examples": [
+                                {
+                                    "m": "Kỳ thi này là một cuộc thử thách đối với tôi.",
+                                    "p_vn": "ky thi nay la mot cuoc thu thach doi voi toi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571d45f67",
+                                    "id": 131070,
+                                    "type": "e_cnvi",
+                                    "e": "这次考试是对我的考验。",
+                                    "p_cn": "zhe ci kaoshi shi dui wo de kaoyan.",
+                                    "p": "zhè cì kǎoshì shì duì wǒ de kǎoyàn."
+                                },
+                                {
+                                    "m": "Công việc này là một cuộc thử thách đối với cô ấy.",
+                                    "p_vn": "cong viec nay la mot cuoc thu thach doi voi co ay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571d46126",
+                                    "id": 131071,
+                                    "type": "e_cnvi",
+                                    "e": "这份工作是对她的考验。",
+                                    "p_cn": "zhe fen gongzuo shi dui ta de kaoyan.",
+                                    "p": "zhè fèn gōngzuò shì duì tā de kǎoyàn."
+                                },
+                                {
+                                    "m": "Cuộc thi này là cuộc thử thách của họ.",
+                                    "p_vn": "cuoc thi nay la cuoc thu thach cua ho.",
+                                    "_id": "b3c6ec0c8f520232d683a7b571d46b8c",
+                                    "id": 131072,
+                                    "type": "e_cnvi",
+                                    "e": "这场比赛是他们的考验。",
+                                    "p_cn": "zhe chang bisai shi tamen de kaoyan.",
+                                    "p": "zhè chǎng bǐsài shì tāmen de kǎoyàn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 178,
+                "search": 2172
+            },
+            "snym": {
+                "anto": [
+                    "通过,免检"
+                ],
+                "syno": [
+                    "检验,考查,试炼"
+                ]
+            },
+            "lv_hsk_new": "3, 6",
+            "pinyin": "kǎoyàn",
+            "cn_vi": "khảo nghiệm",
+            "word": "考验",
+            "id": 32083,
+            "phonetic": "kaoyan",
+            "rank": 5230,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄕㄤˋ",
+            "_id": "fccdfac740bc41bd3f9d7d106c461ae7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Thi đỗ",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Tôi nhất định phải thi đỗ vào Đại học Thái Nguyên trong kì thi này.",
+                                    "p_vn": "toi nhat dinh phai thi do vao dai hoc thai nguyen trong ki thi nay.",
+                                    "_id": "077dffcbb0e576034563c48b5b736bd6",
+                                    "id": 54428,
+                                    "type": "e_cnvi",
+                                    "e": "这次考试我一定考上太原大学。",
+                                    "p_cn": "zhe ci kaoshi wo yiding kao shang taiyuan daxue.",
+                                    "p": "Zhè cì kǎoshì wǒ yídìng kǎo shàng tàiyuán dàxué."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 151,
+                "search": 1314
+            },
+            "snym": null,
+            "cn_vi": "khảo thượng",
+            "pinyin": "kǎo shàng",
+            "word": "考上",
+            "id": 83679,
+            "phonetic": "kaoshang",
+            "rank": 7887,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄔㄚˊ",
+            "_id": "fe193f1810bf3904532103b5e750cb1d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khảo sát; quan sát; điều tra thực tế",
+                            "explain": "实地观察调查",
+                            "examples": [
+                                {
+                                    "m": "bọn họ đã đi đến nhiều nơi để khảo sát các công trình thuỷ lợi.",
+                                    "p_vn": "bon ho da di den nhieu noi de khao sat cac cong trinh thuy loi.",
+                                    "_id": "78839d2b860cb3afd8d1d3d50119d6be",
+                                    "id": 23119,
+                                    "type": "e_cnvi",
+                                    "e": "他们到各地考察水利工程。",
+                                    "p_cn": "tamen dao gedi kaocha shuiligongcheng. ",
+                                    "p": "tāmen dào gèdì kǎochá shǔilìgōngchéng。"
+                                },
+                                {
+                                    "m": "Tốt nhất là khảo sát thành phố bằng cách đi bộ.",
+                                    "p_vn": "tot nhat la khao sat thanh pho bang cach di bo.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab4f76fa",
+                                    "id": 89418,
+                                    "type": "e_cnvi",
+                                    "e": "最好是徒步考察这个城市。",
+                                    "p_cn": "zui hao shi tubu kaocha zhege chengshi.",
+                                    "p": "zuì hǎo shì túbù kǎochá zhège chéngshì."
+                                },
+                                {
+                                    "m": "Vấn đề này cần được quan sát thêm.",
+                                    "p_vn": "van de nay can duoc quan sat them.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab4f777d",
+                                    "id": 89419,
+                                    "type": "e_cnvi",
+                                    "e": "这个问题需要进一步考察。",
+                                    "p_cn": "zhege wenti xuyao jinyibu kaocha.",
+                                    "p": "zhège wèntí xūyào jìnyībù kǎochá."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quan sát tỉ mỉ; quan sát cẩn thận",
+                            "explain": "细致深刻地观察",
+                            "examples": [
+                                {
+                                    "m": "Khi nghiên cứu khoa học, phải quan sát tỉ mỉ và phải suy nghĩ sâu sắc thì mới đạt được thành quả.",
+                                    "p_vn": "khi nghien cuu khoa hoc, phai quan sat ti mi va phai suy nghi sau sac thi moi dat duoc thanh qua.",
+                                    "_id": "d0054f967405d23bd253ebf94bf55805",
+                                    "id": 23120,
+                                    "type": "e_cnvi",
+                                    "e": "进行科学研究工作， 必须勤于考察和 思索，才能有成就。",
+                                    "p_cn": "jinxing kexueyanjiu gongzuo，bixu qinyu kaocha he sisuo，caineng you chengjiu。",
+                                    "p": "jìnxíng kēxuéyánjīu gōngzuò，bìxū qínyú kǎochá hé sīsuǒ，cáinéng yǒu chéngjìu。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 234,
+                "search": 3225
+            },
+            "snym": {
+                "syno": [
+                    "视察",
+                    "窥察",
+                    "考核",
+                    "侦察",
+                    "观察",
+                    "查考",
+                    "考试",
+                    "体察"
+                ],
+                "anto": [
+                    "失察"
+                ]
+            },
+            "lv_hsk_new": "4, 6",
+            "pinyin": "kǎochá",
+            "cn_vi": "khảo sát",
+            "word": "考察",
+            "id": 32058,
+            "phonetic": "kaocha",
+            "rank": 3689,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄊㄧˊ",
+            "_id": "fccb727aa02e2b0a98bd095d133bbf6c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "đề thi",
+                            "explain": "考试的题目",
+                            "examples": [
+                                {
+                                    "m": "Chúng tôi giới thiệu các dạng câu hỏi, nội dung câu hỏi và trọng tâm của câu trả lời cho bài kiểm tra đánh giá rượu.",
+                                    "p_vn": "chung toi gioi thieu cac dang cau hoi, noi dung cau hoi va trong tam cua cau tra loi cho bai kiem tra danh gia ruou.",
+                                    "_id": "d77803b0b3f25534f1e647355405a55b",
+                                    "id": 54191,
+                                    "type": "e_cnvi",
+                                    "e": "对参加白酒品评考试的考试题型、考题内容及答题要领进行了介绍。",
+                                    "p_cn": "Dui canjia baijiu pinping kaoshi de kaoshi ti xing, kaoti neirong ji dati yaoling jinxingle jieshao.",
+                                    "p": "Duì cānjiā báijiǔ pǐnpíng kǎoshì de kǎoshì tí xíng, kǎotí nèiróng jí dátí yàolǐng jìnxíngle jièshào."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 28,
+                "search": 514
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "kǎotí",
+            "cn_vi": "khảo đề",
+            "word": "考题",
+            "id": 32081,
+            "phonetic": "kaoti",
+            "rank": 15668,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄕˋ",
+            "_id": "b2144ca9e1ce747f2c6f1abc1735d360",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khảo thích, nghiên cứu và giải thích văn tự cổ",
+                            "explain": "考证并解释古文字",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 26
+            },
+            "snym": null,
+            "cn_vi": "khảo thích",
+            "pinyin": "kǎoshì",
+            "word": "考释",
+            "id": 32080,
+            "phonetic": "kaoshi",
+            "rank": 75417,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄈㄨˋㄎㄠˇ",
+            "_id": "cc9524f9cac241a89e7a96c9530697e4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đi và thi",
+                            "explain": "to go and sit an examination",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 29
+            },
+            "snym": null,
+            "cn_vi": "phó khảo",
+            "pinyin": "fù kǎo",
+            "word": "赴考",
+            "id": 93687,
+            "phonetic": "fukao",
+            "rank": 72596,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "16, 67",
+            "zhuyin": "ㄎㄠˇㄑㄧㄣˊ",
+            "_id": "72645a67a2c35b85ecf43f458b658ad4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chấm công; kiểm tra chuyên cần; điểm danh",
+                            "explain": "考查工作或学习的出勤情况",
+                            "examples": [
+                                {
+                                    "m": "Giáo viên gần đây đã thắt chặt hệ thống điểm danh để ngăn chặn việc đi trễ.",
+                                    "p_vn": "giao vien gan day da that chat he thong diem danh de ngan chan viec di tre.",
+                                    "_id": "c10c24a6ed43165db916499fa9601f90",
+                                    "id": 84158,
+                                    "type": "e_cnvi",
+                                    "e": "老师近来严格了考勤制度,以杜绝迟到现象。",
+                                    "p_cn": "laoshi jinlai yangele kaoqin zhidu, yi dujue chidao xianxiang.",
+                                    "p": "lǎoshī jìnlái yángéle kǎoqín zhìdù, yǐ dùjué chídào xiànxiàng."
+                                },
+                                {
+                                    "m": "Giáo viên lớp của chúng tôi kiểm tra việc chuyên cần mỗi ngày",
+                                    "p_vn": "giao vien lop cua chung toi kiem tra viec chuyen can moi ngay",
+                                    "_id": "c10c24a6ed43165db916499fa96020da",
+                                    "id": 84159,
+                                    "type": "e_cnvi",
+                                    "e": "我们班老师每天都会考勤。",
+                                    "p_cn": "women ban laoshi meitian duhui kaoqin.",
+                                    "p": "wǒmen bān lǎoshī měitiān dūhuì kǎoqīn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 160,
+                "search": 2296
+            },
+            "snym": null,
+            "cn_vi": "khảo cần",
+            "pinyin": "kǎoqín",
+            "word": "考勤",
+            "id": 32075,
+            "phonetic": "kaoqin",
+            "rank": 4996,
+            "lv_tocfl": null,
+            "compound": "考勤制度"
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "860cf4358a75448f8c016f0e9d376a37",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "kiềm chế; nén; dằn; kìm; giữ。按壓忍耐。",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "án khảo",
+            "pinyin": "àn kǎo",
+            "word": "按考",
+            "id": 171819,
+            "phonetic": "ankao",
+            "rank": 146424,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄥˇㄎㄠˇ",
+            "_id": "0d7d9da4809ddfeca492e582482b608d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đề thi chung; thi thống nhất; hội thi toàn quốc",
+                            "explain": "在一定范围内用统一的试题进行的考试",
+                            "examples": [
+                                {
+                                    "m": "thi thống nhất trong cả nước.",
+                                    "p_vn": "thi thong nhat trong ca nuoc",
+                                    "_id": "e41ab3cefbc483eff262a380ea9d7294",
+                                    "id": 39151,
+                                    "type": "e_cnvi",
+                                    "e": "全国统考",
+                                    "p_cn": "quanguo tongkao",
+                                    "p": "quánguó tǒngkǎo"
+                                },
+                                {
+                                    "m": "đề thi ngữ văn thống nhất.",
+                                    "p_vn": "de thi ngu van thong nhat",
+                                    "_id": "702ddfc26cca5054e5ba89bb56993f82",
+                                    "id": 39152,
+                                    "type": "e_cnvi",
+                                    "e": "语文统考",
+                                    "p_cn": "yuwen tongkao",
+                                    "p": "yǔwén tǒngkǎo"
+                                },
+                                {
+                                    "m": "thi toán chung cho cả khu vực, cô ấy đạt thành tích rất tốt.",
+                                    "p_vn": "thi toan chung cho ca khu vuc co ay dat thanh tich rat tot",
+                                    "_id": "26d7df1d1840030266df5923fa3dacc3",
+                                    "id": 39153,
+                                    "type": "e_cnvi",
+                                    "e": "全区数学统考，她取得了较好的成绩。",
+                                    "p_cn": "quan qu shuxue tongkao ta qudele jiao hao de chengji",
+                                    "p": "quánqū shùxué tǒngkǎo，tā qǔdé le jiào hǎo de chéngjī。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 36
+            },
+            "snym": null,
+            "cn_vi": "thống khảo",
+            "pinyin": "tǒngkǎo",
+            "word": "统考",
+            "id": 51401,
+            "phonetic": "tongkao",
+            "rank": 66294,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "53018d9a10064829ad168df634bf6eb3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "phúc khảo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "phúc khảo",
+            "pinyin": "fù kǎo",
+            "word": "覆考",
+            "id": 172126,
+            "phonetic": "fukao",
+            "rank": 147948,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄑㄧㄎㄠˇ",
+            "_id": "5715e544b3a716b2ca96690d30349693",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thi cuối kỳ; thi học kỳ; khoá thi",
+                            "explain": "学校在学期结束前举行的考试",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 91
+            },
+            "snym": null,
+            "cn_vi": "kỳ khảo",
+            "pinyin": "qí kǎo",
+            "word": "期考",
+            "id": 41718,
+            "phonetic": "qikao",
+            "rank": 43467,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄠˋㄎㄠˇ",
+            "_id": "2a632a1a7f47794f6cdff95053c11e6a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "ghi danh; báo thi; ghi tên dự thi",
+                            "explain": "报名投考",
+                            "examples": [
+                                {
+                                    "m": "thị lực phải đạt 1.0 mới được thi.",
+                                    "p_vn": "thi luc phai dat 10 moi duoc thi",
+                                    "_id": "3f4463d8152dc71ddd2e8a77f68d5c89",
+                                    "id": 27855,
+                                    "type": "e_cnvi",
+                                    "e": "裸视达到1.0的才能报考。",
+                                    "p_cn": "luo shi dadao 10 de caineng baokao",
+                                    "p": "luǒshì dádào 1.0 de cáinéng bàokǎo。"
+                                },
+                                {
+                                    "m": "Tớ dự định đăng ký trường Đại học sư phạm, sau này sẽ làm cô giáo",
+                                    "p_vn": "to du dinh dang ky truong dai hoc su pham, sau nay se lam co giao",
+                                    "_id": "4631b2e43fa985657c5379086cd64569",
+                                    "id": 68907,
+                                    "e": "我打算报考师范大学，将来当一名教师",
+                                    "p_cn": "wo dasuan baokao shifan daxue, jianglai dang yi ming jiaoshi",
+                                    "type": "e_cnvi",
+                                    "p": "wǒ dǎsuan bàokǎo shīfàn dàxué, jiānglái dāng yī míng jiàoshī"
+                                },
+                                {
+                                    "m": "những người tốt nghiệp trung học hoặc có học lực tương",
+                                    "p_vn": "nhung nguoi tot nghiep trung hoc hoac co hoc luc tuong",
+                                    "_id": "ebfd1be37e609a04bad84b2c8ad2b63b",
+                                    "id": 39053,
+                                    "type": "e_cnvi",
+                                    "e": "高中毕业或具有同等学力者都可以报考。",
+                                    "p_cn": "gaozhong biye huo juyou tongdeng xueli zhe dou keyi baokao",
+                                    "p": "gāozhōng bìyè huò jùyǒu tóngděng xuélì zhě dōu kěyǐ bàokǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 48,
+                "search": 728
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "bàokǎo",
+            "cn_vi": "báo khảo",
+            "word": "报考",
+            "id": 2000,
+            "phonetic": "baokao",
+            "rank": 12379,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "topic": "16",
+            "zhuyin": "ㄐㄧㄢㄎㄠˇ",
+            "_id": "4a87c494ff9dfbd7f48328fc90be5b37",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "giám thị; coi thi; gác thi",
+                            "explain": "监视应考的人，使遵守考试纪律",
+                            "examples": []
+                        },
+                        {
+                            "mean": "giám thị; người coi thi; người gác thi",
+                            "explain": "监考的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 71,
+                "search": 486
+            },
+            "snym": null,
+            "cn_vi": "giám khảo",
+            "pinyin": "jiānkǎo",
+            "word": "监考",
+            "id": 28033,
+            "phonetic": "jiankao",
+            "rank": 16254,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄓㄥˋ",
+            "_id": "574e3eaffd870ca5938ec8eced25ccfb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khảo chứng; khảo cứu; nghiên cứu nguyên bản (khi nghiên cứu văn hiến hay các vấn đề thuộc về lịch sử thì phải dựa vào tư liệu để mà nghiên cứu, chứng minh, giải thích); khảo cứ",
+                            "explain": "研究文献或历史问题时，根据资料来考核、证实和说明",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 26,
+                "search": 477
+            },
+            "snym": null,
+            "cn_vi": "khảo chứng",
+            "pinyin": "kǎozhèng",
+            "word": "考证",
+            "id": 32085,
+            "phonetic": "kaozheng",
+            "rank": 16444,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄗㄚˊ",
+            "_id": "5529adafcbc743c18524e130129588f5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Thi rớt; thi hỏng; thi trượt",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Nếu lần này thi trượt thì có phải là vô ích bao năm nỗ lực hay không.",
+                                    "p_vn": "Neu lan nay thi truot thi co phai la vo ich bao nam no luc hay khong.",
+                                    "_id": "ff94b2ce8fb14981b587f8d3c3e64a29",
+                                    "id": 68062,
+                                    "type": "e_cnvi",
+                                    "e": "这要是考砸了这么多年的努力不就白费了吗。",
+                                    "p_cn": "Zhe yaoshi kao zale zheme duonian de nuli bu jiu baifeile ma.",
+                                    "p": "Zhè yàoshi kǎo zále zhème duōnián de nǔlì bù jiù báifèile ma."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 14,
+                "search": 203
+            },
+            "snym": null,
+            "cn_vi": "khảo tạp",
+            "pinyin": "kǎo zá",
+            "word": "考砸",
+            "id": 153165,
+            "phonetic": "kaoza",
+            "rank": 28111,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄉㄧㄢˇ",
+            "_id": "353645b8c0e8626a77d28d87db105712",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "địa điểm thi; điểm thi",
+                            "explain": "举行考试的地点",
+                            "examples": [
+                                {
+                                    "m": "kỳ thi lần này, toàn thành phố có hơn 20 địa điểm thi, 300 trường thi.",
+                                    "p_vn": "ky thi lan nay toan thanh pho co hon 20 dia diem thi 300 truong thi",
+                                    "_id": "67ff6c164627d7b94402f09225c016f7",
+                                    "id": 23121,
+                                    "type": "e_cnvi",
+                                    "e": "这次考试全市共设二十多个考点，三百个考场。",
+                                    "p_cn": "zhe ci kaoshi quanshi gong she ershi duo ge kaodian sanbai ge kaochang",
+                                    "p": "zhècì kǎoshì quánshì gòngshè èrshíduōgè kǎodiǎn，sānbǎigè kǎocháng。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 131
+            },
+            "snym": null,
+            "cn_vi": "khảo điểm",
+            "pinyin": "kǎodiǎn",
+            "word": "考点",
+            "id": 32060,
+            "phonetic": "kaodian",
+            "rank": 36022,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "916ed6b5ea1340f1837a2735316fdfc4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sát hạch; khảo hạch; kiểm tra đánh giá。考查審核。\n定期考核。\nsát hạch định kỳ.\n考核干部。\nsát hạch cán bộ.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "khảo hiệu",
+            "pinyin": "kǎo xiào",
+            "word": "考校",
+            "id": 171407,
+            "phonetic": "kaoxiao",
+            "rank": 100544,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "10d5229eb90f43eab5cdc8d504795b68",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lược khảo",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "lược khảo",
+            "pinyin": "lüè kǎo",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "略考",
+            "id": 176057,
+            "phonetic": "luekao",
+            "rank": 158107,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "54d871b564544b7884009d5d631cb76c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Không khí thi cử; quy chế thi",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "khảo phong",
+            "pinyin": "kǎo fēng",
+            "word": "考风",
+            "id": 158548,
+            "phonetic": "kaofeng",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄍㄠㄎㄠˇ",
+            "_id": "5a34e803776deb1170cb4db9956ff332",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kì thi đại học; kì thi tuyển sinh đại học",
+                            "explain": "高等学校招收新生的考试",
+                            "examples": [
+                                {
+                                    "m": "Kỳ thi đại học rất quan trọng đối với học sinh.",
+                                    "p_vn": "ky thi dai hoc rat quan trong doi voi hoc sinh.",
+                                    "_id": "9938873f438f99a1b005f10050127050",
+                                    "id": 137541,
+                                    "type": "e_cnvi",
+                                    "e": "高考对学生很重要。",
+                                    "p_cn": "gaokao dui xuesheng hen zhongyao.",
+                                    "p": "gāokǎo duì xuéshēng hěn zhòngyào."
+                                },
+                                {
+                                    "m": "Anh ấy đang chuẩn bị cho kỳ thi đại học.",
+                                    "p_vn": "anh ay dang chuan bi cho ky thi dai hoc.",
+                                    "_id": "9938873f438f99a1b005f1005012756e",
+                                    "id": 137542,
+                                    "type": "e_cnvi",
+                                    "e": "他正在准备高考。",
+                                    "p_cn": "ta zhengzai zhunbei gaokao.",
+                                    "p": "tā zhèngzài zhǔnbèi gāokǎo."
+                                },
+                                {
+                                    "m": "Điểm thi đại học của cô ấy rất tốt.",
+                                    "p_vn": "diem thi dai hoc cua co ay rat tot.",
+                                    "_id": "9938873f438f99a1b005f10050127d41",
+                                    "id": 137543,
+                                    "type": "e_cnvi",
+                                    "e": "她高考成绩很好。",
+                                    "p_cn": "ta gaokao chengji hen hao.",
+                                    "p": "tā gāokǎo chéngjī hěn hǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 102,
+                "search": 1281
+            },
+            "snym": null,
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "gāokǎo",
+            "cn_vi": "cao khảo",
+            "word": "高考",
+            "id": 18776,
+            "phonetic": "gaokao",
+            "rank": 8054,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄚˋㄎㄠˇ",
+            "_id": "0191e3b5b724b92fb62413be94ab3627",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thi học kỳ; kỳ thi cuối năm",
+                            "explain": "学校中学期终了的考试",
+                            "examples": [
+                                {
+                                    "m": "Cải cách nhà ở thương mại đang phải đối mặt với sự cạn kiệt vốn và việc bán ở thương mại",
+                                    "p_vn": "Cai cach nha o thuong mai dang phai doi mat voi su can kiet von va viec ban o thuong mai",
+                                    "_id": "474d79afdda64657b7a64352506e901c",
+                                    "id": 55195,
+                                    "type": "e_cnvi",
+                                    "e": "商改住面临资金链大考,商品房预售",
+                                    "p_cn": "Shang gai zhu mianlin zijin lian dakao, shangpinfang yu shou",
+                                    "p": "Shāng gǎi zhù miànlín zījīn liàn dàkǎo, shāngpǐnfáng yù shòu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 55
+            },
+            "snym": null,
+            "cn_vi": "đại khảo",
+            "pinyin": "dàkǎo",
+            "word": "大考",
+            "id": 10428,
+            "phonetic": "dakao",
+            "rank": 55426,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄐㄩㄢˇ",
+            "_id": "1d58df7758a9498189403b2e9012cc14",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "bài thi",
+                            "explain": "考试的卷子",
+                            "examples": [
+                                {
+                                    "m": "Ông tôi vừa nhìn bài thi vừa khen tôi",
+                                    "p_vn": "Ong toi vua nhin bai thi vua khen toi",
+                                    "_id": "d002531fc68e4b94b6cd254cb04f7306",
+                                    "id": 55225,
+                                    "type": "e_cnvi",
+                                    "e": "爷爷一边看着我的考卷，一边表扬我。",
+                                    "p_cn": "Yeye yibian kanzhe wo de kaojuan, yibian biaoyang wo.",
+                                    "p": "Yéyé yībiān kànzhe wǒ de kǎojuàn, yībiān biǎoyáng wǒ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 77,
+                "search": 818
+            },
+            "snym": null,
+            "cn_vi": "khảo quyển",
+            "pinyin": "kǎojuàn",
+            "word": "考卷",
+            "id": 32070,
+            "phonetic": "kaojuan",
+            "rank": 11361,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄠㄎㄠˇ",
+            "_id": "31c6ce31f8224924f9876b0b5d86cdf2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "triệu tập dự thi; gọi thí sinh đến thi",
+                            "explain": "用公告的方式叫人来应考",
+                            "examples": [
+                                {
+                                    "m": "gọi học sinh mới đến thi",
+                                    "p_vn": "goi hoc sinh moi den thi",
+                                    "_id": "813b88d4ea7625a45ef527695c220e73",
+                                    "id": 49123,
+                                    "type": "e_cnvi",
+                                    "e": "招考新生",
+                                    "p_cn": "zhaokao xinsheng",
+                                    "p": "zhāokǎo xīnshēng"
+                                },
+                                {
+                                    "m": "gọi công nhân học nghề đến thi.",
+                                    "p_vn": "goi cong nhan hoc nghe den thi",
+                                    "_id": "6c9568e54f04d05cf11d761835ba35f9",
+                                    "id": 49124,
+                                    "type": "e_cnvi",
+                                    "e": "招考学徒工",
+                                    "p_cn": "zhaokao xuetu gong",
+                                    "p": "zhāokǎo xuétúgōng"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 89
+            },
+            "snym": {
+                "anto": [
+                    "应考"
+                ]
+            },
+            "cn_vi": "chiêu khảo",
+            "pinyin": "zhāokǎo",
+            "word": "招考",
+            "id": 63554,
+            "phonetic": "zhaokao",
+            "rank": 44122,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄧㄢˊ",
+            "_id": "4d16c99f39fb4eda96b606ee5668fd24",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thi lên nghiên cứu sinh; sau đại học; thi lên cao học",
+                            "explain": "参加研究生招生考试。",
+                            "examples": [
+                                {
+                                    "m": "Tôi muốn đến lớp đào tạo sau đại học.",
+                                    "p_vn": "toi muon den lop dao tao sau dai hoc.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab5651dc",
+                                    "id": 89539,
+                                    "type": "e_cnvi",
+                                    "e": "我要上考研培训班。",
+                                    "p_cn": "wo yao shang kaoyan peixun ban.",
+                                    "p": "wǒ yào shàng kǎoyán péixùn bān."
+                                },
+                                {
+                                    "m": "Năm tới, tôi còn phải chuẩn bị thi lên cao học nữa.",
+                                    "p_vn": "nam toi, toi con phai chuan bi thi len cao hoc nua.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab565428",
+                                    "id": 89540,
+                                    "type": "e_cnvi",
+                                    "e": "大后年我还准备考研究生呢。",
+                                    "p_cn": "da hou nian wo hai zhunbei kao yanjiusheng ne.",
+                                    "p": "dà hòu nián wǒ hái zhǔnbèi kǎo yánjiūshēng ne."
+                                },
+                                {
+                                    "m": "Khi còn là sinh viên năm 2, cô ấy đã quyết định thi lên nghiên cứu sinh rồi.",
+                                    "p_vn": "khi con la sinh vien nam 2, co ay da quyet dinh thi len nghien cuu sinh roi.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab56608d",
+                                    "id": 89541,
+                                    "type": "e_cnvi",
+                                    "e": "大二的时候，她就决定考研了。",
+                                    "p_cn": "da er de shihou, ta jiu jueding kaoyanle.",
+                                    "p": "dà èr de shíhòu, tā jiù juédìng kǎoyánle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 26,
+                "search": 660
+            },
+            "snym": {
+                "syno": [
+                    "研究",
+                    "探究",
+                    "考究",
+                    "检验"
+                ]
+            },
+            "cn_vi": "khảo nghiên",
+            "pinyin": "kǎoyán",
+            "word": "考研",
+            "id": 99305,
+            "phonetic": "kaoyan",
+            "rank": 13188,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄉㄞˋㄎㄠˇ",
+            "_id": "0d7f7bf2ba394fdc889ec59611fcef0d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để làm bài kiểm tra hoặc kỳ thi cho ai đó",
+                            "explain": "to take a test or exam for sb",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "đại khảo",
+            "pinyin": "dài kǎo",
+            "word": "代考",
+            "id": 94656,
+            "phonetic": "daikao",
+            "rank": 87037,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄕㄥ",
+            "topic": "16",
+            "_id": "9466fc66a3a9c77e873e051d12fb57dc",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thí sinh; học sinh dự thi; khoá sinh",
+                            "explain": "报名参加入学考试的学生",
+                            "examples": [
+                                {
+                                    "m": "Để kỷ niệm 20 năm kỳ thi IELTS, nhà tổ chức sẽ thực hiện một loạt các biện pháp để phục vụ tốt hơn cho các ứng viên và cống hiến cho xã hội.",
+                                    "p_vn": "de ky niem 20 nam ky thi ielts, nha to chuc se thuc hien mot loat cac bien phap de phuc vu tot hon cho cac ung vien va cong hien cho xa hoi.",
+                                    "_id": "8441ade7a61c1a3ddbcf72445e1de8e1",
+                                    "id": 53657,
+                                    "type": "e_cnvi",
+                                    "e": "为庆祝雅思考试20周年，主办方将采取一系列措施来更好地服务考生、回馈社会。",
+                                    "p_cn": "wei qingzhu yasi kaoshi 20 zhounian, zhuban fang jiang caiqu yi xilie cuoshi lai geng hao de fuwu kaosheng, huikui shehui.",
+                                    "p": "Wèi qìngzhù yǎsī kǎoshì 20 zhōunián, zhǔbàn fāng jiāng cǎiqǔ yī xìliè cuòshī lái gèng hǎo de fúwù kǎoshēng, huíkuì shèhuì."
+                                },
+                                {
+                                    "m": "Ngoài kết quả thi vào đại học, việc điền nguyện vọng là rất quan trọng, nguyện vọng liên quan đến công việc học tập sau này của mỗi thí sinh.",
+                                    "p_vn": "ngoai ket qua thi vao dai hoc, viec dien nguyen vong la rat quan trong, nguyen vong lien quan den cong viec hoc tap sau nay cua moi thi sinh.",
+                                    "_id": "b40be21c49214854ae3f7ce0bc14629b",
+                                    "id": 55567,
+                                    "type": "e_cnvi",
+                                    "e": "除了高考成绩，志愿填报非常重要，志愿填报关系到每个考生未来的学业。",
+                                    "p_cn": "chule gaokao chengji, zhiyuan tianbao feichang zhongyao, zhiyuan tianbao guanxi dao mei ge kaosheng weilai de xueye.",
+                                    "p": "Chúle gāokǎo chéngjī, zhìyuàn tiánbào fēicháng zhòngyào, zhìyuàn tiánbào guānxì dào měi gè kǎoshēng wèilái de xuéyè."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 57,
+                "search": 325
+            },
+            "snym": null,
+            "lv_hsk_new": "2",
+            "pinyin": "kǎoshēng",
+            "cn_vi": "khảo sinh",
+            "word": "考生",
+            "id": 32078,
+            "phonetic": "kaosheng",
+            "rank": 21019,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄑㄩˇ",
+            "_id": "404eafebcd1c0cc6fa29a90f1ccfc974",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thi đậu; đậu; trúng tuyển",
+                            "explain": "投考被录取",
+                            "examples": [
+                                {
+                                    "m": "anh ấy đã thi đậu vào trường đại học Sư Phạm.",
+                                    "p_vn": "anh ay da thi dau vao truong dai hoc su pham",
+                                    "_id": "7eb9196d06e88ff8158a994b65e4636c",
+                                    "id": 23133,
+                                    "type": "e_cnvi",
+                                    "e": "他考取了师范大学。",
+                                    "p_cn": "ta kaoqule shifan daxue",
+                                    "p": "tā kǎoqǔ le shīfàndàxué。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 24,
+                "search": 300
+            },
+            "snym": {
+                "syno": [
+                    "录取",
+                    "入选"
+                ],
+                "anto": [
+                    "落选"
+                ]
+            },
+            "cn_vi": "khảo thủ",
+            "pinyin": "kǎoqǔ",
+            "word": "考取",
+            "id": 32077,
+            "phonetic": "kaoqu",
+            "rank": 22160,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3bda0321af3f47c28ea850ba615d6f05",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đi thi không ôn bài",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 16,
+                "search": 113
+            },
+            "snym": null,
+            "cn_vi": "loã khảo",
+            "pinyin": "luǒ kǎo",
+            "word": "裸考",
+            "id": 159649,
+            "phonetic": "luokao",
+            "rank": 39081,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄨˇㄎㄠˇ",
+            "_id": "393708f53afee238aeb41ac5ebfb39e6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chủ khảo; chánh chủ khảo",
+                            "explain": "主持考试",
+                            "examples": [
+                                {
+                                    "m": "Hiệu trưởng đến giám sát kỳ thi.",
+                                    "p_vn": "hieu truong den giam sat ky thi.",
+                                    "_id": "4ec84aa95a4bb96ceac374546f030ed7",
+                                    "id": 51305,
+                                    "type": "e_cnvi",
+                                    "e": "校长亲临考场主考。",
+                                    "p_cn": "xiaozhang qinlin kaochang zhukao.",
+                                    "p": "xiàozhǎng qīnlín kǎochǎng zhǔkǎo."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "người chủ khảo",
+                            "explain": "主持考试的人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 51
+            },
+            "snym": null,
+            "cn_vi": "chủ khảo",
+            "pinyin": "zhǔkǎo",
+            "word": "主考",
+            "id": 65625,
+            "phonetic": "zhukao",
+            "rank": 57316,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "topic": "4, 31",
+            "zhuyin": "ㄎㄠˇㄍㄨˇ",
+            "_id": "5ed05d05df1f246b40083916dcb483f7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "khảo cổ",
+                            "explain": "根据古代的遗迹，遗物和文献研究古代历史",
+                            "examples": [
+                                {
+                                    "m": "đội khảo cổ đã khai quật đến cả hai tháng rồi.",
+                                    "p_vn": "doi khao co da khai quat den ca hai thang roi",
+                                    "_id": "2e4c3b4515e53f344bc8b5d03b2f9144",
+                                    "id": 22039,
+                                    "type": "e_cnvi",
+                                    "e": "考古队发掘了两个月之久。",
+                                    "p_cn": "kaogu dui fajuele liang ge yue zhi jiu",
+                                    "p": "kǎogǔdùi fājué le liǎnggè yuè zhījǐu。"
+                                },
+                                {
+                                    "m": "khảo cổ học thời tiền sử.",
+                                    "p_vn": "khao co hoc thoi tien su",
+                                    "_id": "34751aba5083a8b18885f62c54e7ce39",
+                                    "id": 35709,
+                                    "type": "e_cnvi",
+                                    "e": "史前考古学。",
+                                    "p_cn": "shiqian kaogu xue",
+                                    "p": "shǐqián kǎogǔxué。"
+                                },
+                                {
+                                    "m": "Tôi cảm thấy mình giống như một nhà khảo cổ học.",
+                                    "p_vn": "toi cam thay minh giong nhu mot nha khao co hoc.",
+                                    "_id": "bbab469f21274bd4b6c81806ce9e7a40",
+                                    "id": 62391,
+                                    "type": "e_cnvi",
+                                    "e": "我觉得自己好像考古学家",
+                                    "p_cn": "wo juede ziji haoxiang kaoguxuejia",
+                                    "p": "wǒ juéde zìjǐ hǎoxiàng kǎogǔxuéjiā"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "khoa khảo cổ",
+                            "explain": "考古学",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 55,
+                "search": 291
+            },
+            "snym": null,
+            "cn_vi": "khảo cổ",
+            "pinyin": "kǎogǔ",
+            "lv_hsk_new": "6",
+            "word": "考古",
+            "id": 32063,
+            "phonetic": "kaogu",
+            "rank": 22623,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄗㄨˇㄎㄠˇ",
+            "_id": "9ec882f9bf9947f48408f0f246a9bc58",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ông nội đã mất; ông nội đã khuất",
+                            "explain": "已故的祖父",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tổ tiên",
+                            "explain": "祖先",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "tổ khảo",
+            "pinyin": "zǔ kǎo",
+            "word": "祖考",
+            "id": 67437,
+            "phonetic": "zukao",
+            "rank": 119418,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄌㄚ",
+            "_id": "f27a95517fa84af2bc9ed58979e01d42",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "gấu túi (loanword)",
+                            "explain": "koala (loanword)",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy biết khuôn mặt koala của tôi.",
+                                    "p_vn": "Co ay biet khuon mat koala cua toi.",
+                                    "_id": "7ea09b9bdc564b249ffd76fc36537bb3",
+                                    "id": 57288,
+                                    "type": "e_cnvi",
+                                    "e": "她知道我看考拉的脸",
+                                    "p_cn": "ta zhidao wo kan kaola de lian",
+                                    "p": "tā zhīdào wǒ kàn kǎolā de liǎn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 115
+            },
+            "snym": null,
+            "cn_vi": "khảo lạp",
+            "pinyin": "kǎo lā",
+            "word": "考拉",
+            "id": 93105,
+            "phonetic": "kaola",
+            "rank": 38737,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄎㄠˇ",
+            "_id": "f7ac26a7a2619879a677902c02229906",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khảo cứu; tra cứu",
+                            "explain": "查考",
+                            "examples": [
+                                {
+                                    "m": "không thể tra cứu.",
+                                    "p_vn": "khong the tra cuu",
+                                    "_id": "e64188118ce911eb2bf4b229e2b547eb",
+                                    "id": 19329,
+                                    "type": "e_cnvi",
+                                    "e": "无可稽考。",
+                                    "p_cn": "wu ke jikao",
+                                    "p": "wúkě jīkǎo。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "kê khảo",
+            "pinyin": "jīkǎo",
+            "word": "稽考",
+            "id": 26669,
+            "phonetic": "jikao",
+            "rank": 77609,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄢˊㄎㄠˇ",
+            "_id": "f2415a815c7d44f5aa6bfab15338247c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Hạt Lankao ở Khai Phong 開封 | 开封 , Hà Nam",
+                            "explain": "Lankao county in Kaifeng 開封|开封 [Kāifēng], Henan",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "lan khảo",
+            "pinyin": "lánkǎo",
+            "word": "兰考",
+            "id": 94916,
+            "phonetic": "lankao",
+            "rank": 149830,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "0c95217b8ed54d858ffd68600fc8758e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trường quy",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "khảo các",
+            "pinyin": "kǎo gé",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "考格",
+            "id": 174369,
+            "phonetic": "kaoge",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄐㄧㄡ",
+            "_id": "17f3fa2540e30c79403d42c88f65683e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "khảo cứu; nghiên cứu; tìm tòi nghiên cứu; kê cứu",
+                            "explain": "查考; 研究",
+                            "examples": [
+                                {
+                                    "m": "vấn đề này rất khó nghiên cứu.",
+                                    "p_vn": "van de nay rat kho nghien cuu",
+                                    "_id": "055f37dabebc38aadbf97618eac73c9e",
+                                    "id": 23124,
+                                    "type": "e_cnvi",
+                                    "e": "这问题很值得考究。",
+                                    "p_cn": "zhe wenti hen zhide kaojiu",
+                                    "p": "zhè wèntí hěn zhídé kǎojīu。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cầu kỳ",
+                            "explain": "讲究",
+                            "examples": [
+                                {
+                                    "m": "quần áo chỉ cần mặc cho ấm là được rồi, không cần cầu kỳ.",
+                                    "p_vn": "quan ao chi can mac cho am la duoc roi, khong can cau ky.",
+                                    "_id": "53fca09249efda1541d26e82d23067f9",
+                                    "id": 23125,
+                                    "type": "e_cnvi",
+                                    "e": "衣服只要穿着暖和就行， 不必多去考究。",
+                                    "p_cn": "yifu zhiyao chuanzhuo nuanhuo jiuxing, bubi duo qu kaojiu.",
+                                    "p": "yīfu zhǐyào chuānzhuó nuǎnhuo jiùxíng, bùbì duō qù kǎojiu."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "đẹp; tinh tế; mỹ thuật",
+                            "explain": "精美",
+                            "examples": [
+                                {
+                                    "m": "quyển sách này trang trí rất đẹp.",
+                                    "p_vn": "quyen sach nay trang tri rat dep",
+                                    "_id": "27b3fee54daac372a790928e1b8fcabc",
+                                    "id": 23126,
+                                    "type": "e_cnvi",
+                                    "e": "这本书的装潢很考究。",
+                                    "p_cn": "zhe ben shu de zhuanghuang hen kaojiu",
+                                    "p": "zhè běnshū de zhuānghuáng hěn kǎojīu。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cứu khảo",
+                            "explain": "实地观察调查",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 18,
+                "search": 376
+            },
+            "snym": {
+                "syno": [
+                    "雅致",
+                    "精致",
+                    "查究",
+                    "精巧",
+                    "查办",
+                    "探求",
+                    "讲究",
+                    "根究",
+                    "精制",
+                    "讲求",
+                    "考研",
+                    "追究"
+                ],
+                "anto": [
+                    "随意"
+                ]
+            },
+            "cn_vi": "khảo cứu",
+            "pinyin": "kǎojiu",
+            "word": "考究",
+            "id": 32068,
+            "phonetic": "kaojiu",
+            "rank": 19198,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄆㄨˇㄎㄠˇ",
+            "_id": "1d6ae35d5de4420996d060fdca445fb0",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "kỳ thi cấp dưới của chính phủ Đài Loan (viết tắt của 普通考試 | 普通考试)",
+                            "explain": "examination for lower levels of Taiwan government service (short for 普通考試|普通考试 [pǔ tōng kǎo shì])",
+                            "examples": [
+                                {
+                                    "m": "Năm nay, số lượng thí sinh đăng ký tham gia kỳ thi tuyển sinh chung tăng vọt lên 10.000 người.",
+                                    "p_vn": "Nam nay, so luong thi sinh dang ky tham gia ky thi tuyen sinh chung tang vot len 10.000 nguoi.",
+                                    "_id": "3e78c789bfbc4207822a373d72446eae",
+                                    "id": 63538,
+                                    "type": "e_cnvi",
+                                    "e": "今年高普考的報名人數暴增了一萬人",
+                                    "p_cn": "Jinnian gao pu kao de baoming renshu bao zengle yi wan ren",
+                                    "p": "Jīnnián gāo pǔ kǎo de bàomíng rénshù bào zēngle yī wàn rén"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "phổ khảo",
+            "pinyin": "pǔ kǎo",
+            "word": "普考",
+            "id": 91856,
+            "phonetic": "pukao",
+            "rank": 105504,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄕㄡˋㄎㄠˇ",
+            "_id": "c217bc3a29ee42e38fbc1208793d8f3e",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tuổi thọ",
+                            "explain": "life span",
+                            "examples": []
+                        },
+                        {
+                            "mean": "sống thọ",
+                            "explain": "long life",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": null,
+            "cn_vi": "thọ khảo",
+            "pinyin": "shòu kǎo",
+            "word": "寿考",
+            "id": 102498,
+            "phonetic": "shoukao",
+            "rank": 106396,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄈㄣ",
+            "_id": "c33184eb8c10cbc3ba4f90c40ba61f65",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "điểm thi",
+                            "explain": "考试后评定的分数",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 47
+            },
+            "snym": null,
+            "cn_vi": "khảo phân",
+            "pinyin": "kǎofēn",
+            "word": "考分",
+            "id": 32062,
+            "phonetic": "kaofen",
+            "rank": 59368,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄅㄚˋ",
+            "_id": "e691b6ae120544e4b0a929aa78f9be3a",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "\"bậc thầy của kỳ thi\", một người nào đó thực hiện nhiều kỳ thi và vượt qua tất cả chúng",
+                            "explain": "\"exam master\", sb who takes many exams and aces all of them",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "khảo bá",
+            "pinyin": "kǎo bà",
+            "word": "考霸",
+            "id": 93106,
+            "phonetic": "kaoba",
+            "rank": 128276,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄜㄎㄠˇ",
+            "_id": "835a80e429214701b50aa40c33e82673",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "viết tắt cho 科學考察 | 科学考察 , khám phá khoa học",
+                            "explain": "abbr. for 科學考察|科学考察 [kē xué kǎo chá], scientific exploration",
+                            "examples": []
+                        },
+                        {
+                            "mean": "vòng sơ khảo của kỳ thi hoàng gia",
+                            "explain": "preliminary round of imperial examinations",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 199
+            },
+            "snym": null,
+            "cn_vi": "khoa khảo",
+            "pinyin": "kē kǎo",
+            "word": "科考",
+            "id": 92873,
+            "phonetic": "kekao",
+            "rank": 28452,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄅㄧˇ",
+            "_id": "89df436fc847bb25c8d40c783088bdc7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mất cha mất mẹ; qua đời (ba mẹ); mẹ chết; cha chết; người mẹ quá cố; người cha đã mất",
+                            "explain": "(死去的) 父亲和母亲",
+                            "examples": [
+                                {
+                                    "m": "như mất cha mất mẹ.",
+                                    "p_vn": "nhu mat cha mat me",
+                                    "_id": "a975d33deffe20f95b9ed35a96d04e1a",
+                                    "id": 23117,
+                                    "type": "e_cnvi",
+                                    "e": "如丧考妣。",
+                                    "p_cn": "rusangkaobi",
+                                    "p": "rúsāngkǎobǐ。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 19
+            },
+            "snym": null,
+            "cn_vi": "khảo tỉ",
+            "pinyin": "kǎobǐ",
+            "word": "考妣",
+            "id": 32056,
+            "phonetic": "kaobi",
+            "rank": 83738,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄔㄤˇ",
+            "topic": "16",
+            "_id": "b27b9d893433d17ffc9f63eae79e02e1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "trường thi; nơi thi; địa điểm thi; trường ốc",
+                            "explain": "举行考试的场所",
+                            "examples": [
+                                {
+                                    "m": "May mà hôm nay có anh lái xe đưa tôi đi, nếu không thì tôi vago vào trường thi được rồi",
+                                    "p_vn": "May ma hom nay co anh lai xe dua toi di, neu khong thi toi vago vao truong thi duoc roi",
+                                    "_id": "051c81e41d0046088a1ee13acaaa500b",
+                                    "id": 55961,
+                                    "type": "e_cnvi",
+                                    "e": "今天亏了你开车送我，要不我就进不了考场了",
+                                    "p_cn": "Jintian kuile ni kaiche song wo, yao bu wo jiu jin buliao kaochangle",
+                                    "p": "Jīntiān kuīle nǐ kāichē sòng wǒ, yào bù wǒ jiù jìn bùliǎo kǎochǎngle"
+                                },
+                                {
+                                    "m": "Hiệu trưởng đến giám sát kỳ thi.",
+                                    "p_vn": "hieu truong den giam sat ky thi.",
+                                    "_id": "4ec84aa95a4bb96ceac374546f030ed7",
+                                    "id": 51305,
+                                    "type": "e_cnvi",
+                                    "e": "校长亲临考场主考。",
+                                    "p_cn": "xiaozhang qinlin kaochang zhukao.",
+                                    "p": "xiàozhǎng qīnlín kǎochǎng zhǔkǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 55,
+                "search": 376
+            },
+            "snym": {
+                "syno": [
+                    "科场"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "kǎochǎng",
+            "cn_vi": "khảo trường",
+            "word": "考场",
+            "id": 32059,
+            "phonetic": "kaochang",
+            "rank": 19177,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄨㄢˊ",
+            "_id": "a2099e53e66e497d9375f702b406f902",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "để hoàn thành một kỳ thi",
+                            "explain": "to finish an exam",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 145
+            },
+            "snym": null,
+            "cn_vi": "khảo hoàn",
+            "pinyin": "kǎo wán",
+            "word": "考完",
+            "id": 99303,
+            "phonetic": "kaowan",
+            "rank": 34055,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄉㄞˋㄎㄠˇ",
+            "_id": "cc3ebc9ed74152f454cde1666f68069b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cần nghiên cứu thêm; chờ nghiên cứu thêm; để sau này khảo cứu",
+                            "explain": "暂时存疑，留待查考",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 6
+            },
+            "snym": null,
+            "cn_vi": "đãi khảo",
+            "pinyin": "dàikǎo",
+            "word": "待考",
+            "id": 10875,
+            "phonetic": "daikao",
+            "rank": 119532,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄟˋㄎㄠˇ",
+            "_id": "78a75cacd45779491b0de836cd7fb59c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "thi toàn quốc; hội thi toàn quốc",
+                            "explain": "统考",
+                            "examples": [
+                                {
+                                    "m": "Bạn phải chăm chỉ học tập, sau đó bạn mới có thể đạt được điểm đạt yêu cầu.",
+                                    "p_vn": "Ban phai cham chi hoc tap, sau do ban moi co the dat duoc diem dat yeu cau.",
+                                    "_id": "38b8d80d77844aa0ac635dcefeb99c20",
+                                    "id": 71603,
+                                    "type": "e_cnvi",
+                                    "e": "要用功，那么你才会考及格。",
+                                    "p_cn": "yao yonggong name ni cai huikao jige",
+                                    "p": "yào yònggōng nàme nǐ cái huìkǎo jígé"
+                                },
+                                {
+                                    "m": "Nếu bạn không tích cực và cố gắng học hỏi, bạn sẽ không đạt được điểm đỗ.",
+                                    "p_vn": "Neu ban khong tich cuc va co gang hoc hoi, ban se khong dat duoc diem do.",
+                                    "_id": "0b8ce3d728b640a1a6b63b71af66107f",
+                                    "id": 71604,
+                                    "type": "e_cnvi",
+                                    "e": "如果你不积极进取，更加努力学习，你就会考不及格的。",
+                                    "p_cn": "ruguo ni bu jiji jinqu gengjia nuli xuexi ni jiu huikao bujige de",
+                                    "p": "rúguǒ nǐ bù jījí jìnqǔ gèngjiā nǔlì xuéxí nǐ jiù huìkǎo bùjígé de"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 50
+            },
+            "snym": null,
+            "cn_vi": "hội khảo",
+            "pinyin": "huìkǎo",
+            "word": "会考",
+            "id": 25632,
+            "phonetic": "huikao",
+            "rank": 57629,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄎㄠˇㄖㄨˋ",
+            "_id": "a1a7a664dca74a27a34bddf9dfb7de06",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vào đại học sau một kỳ thi cạnh tranh",
+                            "explain": "to enter college after a competitive exam",
+                            "examples": []
+                        },
+                        {
+                            "mean": "để vượt qua kỳ thi đầu vào",
+                            "explain": "to pass entrance exam",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 73
+            },
+            "snym": null,
+            "cn_vi": "khảo nhập",
+            "pinyin": "kǎo rù",
+            "word": "考入",
+            "id": 93104,
+            "phonetic": "kaoru",
+            "rank": 48670,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄒㄧㄢˇㄎㄠˇ",
+            "_id": "c395f314fea743f5b8fd5be67e9ef3e8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(vòm.) ông cố",
+                            "explain": "(arch.) great-great-grandfather",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thuật ngữ kính trọng dành cho người cha đã khuất của một người",
+                            "explain": "honorific term for one's deceased father",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 22
+            },
+            "snym": null,
+            "cn_vi": "hiển khảo",
+            "pinyin": "xiǎn kǎo",
+            "word": "显考",
+            "id": 103496,
+            "phonetic": "xiankao",
+            "rank": 79963,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "sv",
+                "n",
+                "v"
+            ],
+            "measure": {
+                "pinyin": "cì",
+                "examples": "",
+                "measure": "次"
+            },
+            "topic": "16",
+            "zhuyin": "ㄎㄠˇㄕˋ",
+            "_id": "df3cac677c9d7dd7f9042ad22657a9e6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "cách dùng động từ ly hợp",
+                            "examples": [
+                                117322,
+                                138309
+                            ],
+                            "struct": "考 + 了/过 + 试"
+                        },
+                        {
+                            "explain": "thời gian/ phạm vi/ nội dung +  thi/ kiểm tra",
+                            "examples": [
+                                95896,
+                                95897
+                            ],
+                            "struct": "考试 + 时间/ 范围/ 内容"
+                        }
+                    ],
+                    "kind": "v, sv",
+                    "means": [
+                        {
+                            "mean": "thi; kiểm tra; sát hạch",
+                            "explain": "通过书面或口头提问的方式， 考查知识和技能",
+                            "examples": [
+                                {
+                                    "m": "Thành tích thi đã được đánh giá xong xuôi.",
+                                    "p_vn": "thanh tich thi da duoc danh gia xong xuoi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9a85079",
+                                    "id": 95734,
+                                    "type": "e_cnvi",
+                                    "e": "明天就要考试了。",
+                                    "p_cn": "mingtian jiu yao kaoshile.",
+                                    "p": "míngtiān jiù yào kǎoshìle."
+                                },
+                                {
+                                    "m": "Tuần tới anh ấy phải thi toán.",
+                                    "p_vn": "tuan toi anh ay phai thi toan.",
+                                    "_id": "641148288b13f4cf43a85133e8aaac67",
+                                    "id": 117318,
+                                    "type": "e_cnvi",
+                                    "e": "他下周将要考试数学。",
+                                    "p_cn": "ta xia zhou jiangyao kaoshi shuxue.",
+                                    "p": "tā xià zhōu jiāngyào kǎoshì shùxué."
+                                },
+                                {
+                                    "m": "Ngày mai cô ấy chuẩn bị thi tiếng Anh.",
+                                    "p_vn": "ngay mai co ay chuan bi thi tieng anh.",
+                                    "_id": "641148288b13f4cf43a85133e8aab6eb",
+                                    "id": 117319,
+                                    "type": "e_cnvi",
+                                    "e": "她明天准备考试英语。",
+                                    "p_cn": "ta mingtian zhunbei kaoshi yingyu.",
+                                    "p": "tā míngtiān zhǔnbèi kǎoshì yīngyǔ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "structs": [
+                        {
+                            "explain": "hành động liên quan đến 考试",
+                            "examples": [
+                                95898,
+                                95899
+                            ],
+                            "struct": "参加/ 进行/ 通过 + 考试"
+                        }
+                    ],
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cuộc thi; kỳ thi; bài kiểm tra",
+                            "explain": "为了检查知识或者技能进行的活动。",
+                            "examples": [
+                                {
+                                    "m": "Thi tiếng Trung ở đâu?",
+                                    "p_vn": "thi tieng trung o dau?",
+                                    "_id": "69997d89b5f75300ec8abc83cabdb5e3",
+                                    "id": 82676,
+                                    "type": "e_cnvi",
+                                    "e": "汉语考试在哪儿考？",
+                                    "p_cn": "hanyu kaoshi zai nar kao?",
+                                    "p": "hànyǔ kǎoshì zài nǎr kǎo?"
+                                },
+                                {
+                                    "m": "Tôi đã vượt qua kỳ thi.",
+                                    "p_vn": "toi da vuot qua ky thi.",
+                                    "_id": "69997d89b5f75300ec8abc83cabdbfcf",
+                                    "id": 82677,
+                                    "type": "e_cnvi",
+                                    "e": "我已经通过了考试。",
+                                    "p_cn": "wo yijing tongguole kaoshi.",
+                                    "p": "wǒ yǐjīng tōngguòle kǎoshì."
+                                },
+                                {
+                                    "m": "Tôi đã không làm tốt bài kiểm tra giữa kỳ.",
+                                    "p_vn": "toi da khong lam tot bai kiem tra giua ky.",
+                                    "_id": "69997d89b5f75300ec8abc83cabdc52e",
+                                    "id": 82678,
+                                    "type": "e_cnvi",
+                                    "e": "我期中考试没考好。",
+                                    "p_cn": "wo qizhong kaoshi mei kao hao.",
+                                    "p": "wǒ qīzhōng kǎoshì méi kǎo hǎo."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"考试\" và \"考\" có ý nghĩa giống nhau, do quan hệ về âm tiết, \"考试\" thường được kết hợp sử dụng cùng từ song âm tiết, \"考\" thường được kết hợp sử dụng cùng từ đơn âm tiết.\n\"考\" là động từ, có thể đi kèm với tân ngữ và bổ ngữ.\n\"考试\" là cụm động tân, bổ ngữ có thể đi kèm cùng rất ít",
+                    "title": "Phân biệt \"考试\" và \"考\"",
+                    "words": [
+                        "考试",
+                        "考"
+                    ]
+                }
+            ],
+            "snym": null,
+            "lv_hsk_new": "1, 2",
+            "pinyin": "kǎoshì",
+            "cn_vi": "khảo thí",
+            "popularity": {
+                "notebook": 868,
+                "search": 16678
+            },
+            "word": "考试",
+            "id": 32079,
+            "phonetic": "kaoshi",
+            "rank": 406,
+            "lv_tocfl": 1,
+            "compound": null
+        }
+    ],
+    "query": "考"
+}

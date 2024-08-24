@@ -1,0 +1,3070 @@
+{
+    "total": 257,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "n",
+                "v",
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊ",
+            "_id": "53d3ef514af7fc46c4a085753eb5b4ac",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Ai làm gì rất nhanh/ gấp",
+                            "examples": [
+                                99891
+                            ],
+                            "struct": "Tân ngữ + ( Động từ + 得 +) 很/ 挺 + 急"
+                        },
+                        {
+                            "explain": "Ai đó (đừng) vội làm gì",
+                            "examples": [
+                                99895,
+                                99896
+                            ],
+                            "struct": "Ai đó + ( 别 + )急 + 着 + Động từ"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "gấp; vội; vội vàng",
+                            "explain": "想要马上达到某种目的",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy vội đi, không có thời gian nữa.",
+                                    "p_vn": "anh ay voi di, khong co thoi gian nua.",
+                                    "_id": "55db399305625a14707d64b918659d24",
+                                    "id": 99853,
+                                    "type": "e_cnvi",
+                                    "e": "他急着走，没时间了。",
+                                    "p_cn": "ta jizhe zou, mei shijianle.",
+                                    "p": "tā jízhe zǒu, méi shíjiānle."
+                                },
+                                {
+                                    "m": "Anh ấy vội vàng đi làm.",
+                                    "p_vn": "anh ay voi vang di lam.",
+                                    "_id": "55db399305625a14707d64b918659d6b",
+                                    "id": 99854,
+                                    "type": "e_cnvi",
+                                    "e": "他急着去上班。",
+                                    "p_cn": "ta jizhe qu shangban.",
+                                    "p": "tā jízhe qù shàngbān."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nôn nóng; sốt ruột; lo lắng",
+                            "explain": "使着急; 担心",
+                            "examples": [
+                                {
+                                    "m": "Tôi không nghĩ rằng anh ấy thật sự nôn nóng.",
+                                    "p_vn": "toi khong nghi rang anh ay that su non nong.",
+                                    "_id": "55db399305625a14707d64b91865b55d",
+                                    "id": 99858,
+                                    "type": "e_cnvi",
+                                    "e": "我没想到他真急了。",
+                                    "p_cn": "wo mei xiangdao ta zhen jile.",
+                                    "p": "wǒ méi xiǎngdào tā zhēn jíle."
+                                },
+                                {
+                                    "m": "Cô ấy có vẻ rất lo lắng.",
+                                    "p_vn": "co ay co ve rat lo lang.",
+                                    "_id": "55db399305625a14707d64b91865ca6c",
+                                    "id": 99861,
+                                    "type": "e_cnvi",
+                                    "e": "她看起来很急。",
+                                    "p_cn": "ta kan qilai hen ji.",
+                                    "p": "tā kàn qǐlái hěn jí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "xiết; mau; mạnh; vội; gấp; dữ dội",
+                            "explain": "很快而且猛烈",
+                            "examples": [
+                                {
+                                    "m": "Trên chiến trường tiếng pháo rất dữ dội.",
+                                    "p_vn": "tren chien truong tieng phao rat du doi.",
+                                    "_id": "55db399305625a14707d64b91865f9e9",
+                                    "id": 99867,
+                                    "type": "e_cnvi",
+                                    "e": "战场上炮声甚急。",
+                                    "p_cn": "zhanchang shang pao sheng shen ji.",
+                                    "p": "zhànchǎng shàng pào shēng shén jí."
+                                },
+                                {
+                                    "m": "Dòng nước của con sông này chảy rất xiết.",
+                                    "p_vn": "dong nuoc cua con song nay chay rat xiet.",
+                                    "_id": "55db399305625a14707d64b9186616ae",
+                                    "id": 99870,
+                                    "type": "e_cnvi",
+                                    "e": "这条河的水流很急。",
+                                    "p_cn": "zhe tiao he de shuiliu hen ji.",
+                                    "p": "zhè tiáo hé de shuǐliú hěn jí."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cấp bách; khẩn cấp; gấp rút; gấp",
+                            "explain": "急迫; 紧急",
+                            "examples": [
+                                {
+                                    "m": "Chúng ta xử lý việc gấp trước.",
+                                    "p_vn": "chung ta xu ly viec gap truoc.",
+                                    "_id": "55db399305625a14707d64b9186622ed",
+                                    "id": 99872,
+                                    "type": "e_cnvi",
+                                    "e": "我们先处理急事。",
+                                    "p_cn": "women xian chuli ji shi.",
+                                    "p": "wǒmen xiān chǔlǐ jí shì."
+                                },
+                                {
+                                    "m": "Vấn đề này cần được giải quyết gấp.",
+                                    "p_vn": "van de nay can duoc giai quyet gap.",
+                                    "_id": "55db399305625a14707d64b9186630f9",
+                                    "id": 99874,
+                                    "type": "e_cnvi",
+                                    "e": "这个问题急待解决。",
+                                    "p_cn": "zhege wenti ji dai jiejue.",
+                                    "p": "zhège wèntí jí dài jiějué."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "làm lo lắng; làm sốt ruột",
+                            "explain": "使着急",
+                            "examples": [
+                                {
+                                    "m": "Chuyện này thật sự làm người sốt ruột.",
+                                    "p_vn": "chuyen nay that su lam nguoi sot ruot.",
+                                    "_id": "55db399305625a14707d64b91866389f",
+                                    "id": 99875,
+                                    "type": "e_cnvi",
+                                    "e": "这件事真把人急死了。",
+                                    "p_cn": "zhe jian shi zhen ba ren jisile.",
+                                    "p": "zhè jiàn shì zhēn bǎ rén jísǐle."
+                                },
+                                {
+                                    "m": "Mọi người đều sốt ruột rồi.",
+                                    "p_vn": "moi nguoi deu sot ruot roi.",
+                                    "_id": "55db399305625a14707d64b918663f0a",
+                                    "id": 99876,
+                                    "type": "e_cnvi",
+                                    "e": "大家都急了。",
+                                    "p_cn": "dajia dou jile.",
+                                    "p": "dàjiā dōu jíle."
+                                },
+                                {
+                                    "m": "Đừng làm anh ấy lo lắng.",
+                                    "p_vn": "dung lam anh ay lo lang.",
+                                    "_id": "55db399305625a14707d64b918664285",
+                                    "id": 99877,
+                                    "type": "e_cnvi",
+                                    "e": "别把他急了。",
+                                    "p_cn": "bie ba ta jile.",
+                                    "p": "bié bǎ tā jíle."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "giúp đỡ; sẵn lòng giúp đỡ",
+                            "explain": "对大家的事或别人的困难， 赶快帮助",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy luôn giúp người trong lúc khó khăn.",
+                                    "p_vn": "anh ay luon giup nguoi trong luc kho khan.",
+                                    "_id": "55db399305625a14707d64b91866512b",
+                                    "id": 99878,
+                                    "type": "e_cnvi",
+                                    "e": "他总是急人之难。",
+                                    "p_cn": "ta zong shi ji ren zhi nan.",
+                                    "p": "tā zǒng shì jí rén zhī nán."
+                                },
+                                {
+                                    "m": "Anh ấy luôn sẵn lòng giúp đỡ người khác.",
+                                    "p_vn": "anh ay luon san long giup do nguoi khac.",
+                                    "_id": "55db399305625a14707d64b91866617c",
+                                    "id": 99880,
+                                    "type": "e_cnvi",
+                                    "e": "他总是急人所急。",
+                                    "p_cn": "ta zong shi ji ren suo ji.",
+                                    "p": "tā zǒng shì jí rén suǒ jí."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "khẩn cấp; việc gấp",
+                            "explain": "紧急的事情",
+                            "examples": [
+                                {
+                                    "m": "Đây là biện pháp ứng phó khẩn cấp.",
+                                    "p_vn": "day la bien phap ung pho khan cap.",
+                                    "_id": "55db399305625a14707d64b918669398",
+                                    "id": 99887,
+                                    "type": "e_cnvi",
+                                    "e": "这是应急措施。",
+                                    "p_cn": "zhe shi yingji cuoshi.",
+                                    "p": "zhè shì yìngjí cuòshī."
+                                },
+                                {
+                                    "m": "Phải có kế hoạch ứng phó khẩn cấp.",
+                                    "p_vn": "phai co ke hoach ung pho khan cap.",
+                                    "_id": "55db399305625a14707d64b918669e7d",
+                                    "id": 99889,
+                                    "type": "e_cnvi",
+                                    "e": "要有应急方案。",
+                                    "p_cn": "yao you yingji fang'an.",
+                                    "p": "yào yǒu yìngjí fāng'àn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"急\" có thể mô tả người hoặc mô tả vật, \"着急\" chỉ có thể mô tả cảm xúc và hành vi của người.\n- \"着急\" còn có thể được tách ra để sử dụng, có thể nói \"着什么急\".",
+                    "title": "Phân biệt \"急\" và \"着急\"",
+                    "words": [
+                        "急",
+                        "着急"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "匆",
+                    "快"
+                ],
+                "anto": [
+                    "慢",
+                    "缓"
+                ]
+            },
+            "lv_hsk_new": "2",
+            "pinyin": "jí",
+            "cn_vi": "cấp",
+            "popularity": {
+                "notebook": 278,
+                "search": 7394
+            },
+            "word": "急",
+            "id": 26845,
+            "phonetic": "ji",
+            "rank": 1496,
+            "lv_tocfl": 3,
+            "compound": "急巴巴 ; 急变 ; 急茬儿 ; 急赤白脸 ; 急促 ; 急电 ; 急风暴雨 ; 急腹症 ; 急公好义 ; 急功近利 ; 急急巴巴 ; 急急如律令 ; 急件 ; 急进 ; 急惊风 ; 急就章 ; 急救 ; 急救包 ; 急剧 ; 急遽 ; 急口令 ; 急流 ; 急忙 ; 急难 ; 急迫 ; 急起直追 ; 急切 ; 急速 ; 急湍 ; 急弯 ; 急务 ; 急先锋 ; 急行军 ; 急性 ; 急性病 ; 急性子 ; 急需 ; 急用 ; 急于 ; 急躁 ; 急诊 ; 急症 ; 急智 ; 急中生智 ; 急骤 ; 急转直下"
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄐㄧˊ",
+            "_id": "42277cb45b39de9792aa6c313d8ff353",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "cấp cấp; gấp; cấp thiết",
+                            "explain": "很急切",
+                            "examples": [
+                                {
+                                    "m": "nhiệm vụ của anh ấy chưa hoàn thành, vì sao phải vội vàng gọi anh ấy về.",
+                                    "p_vn": "nhiem vu cua anh ay chua hoan thanh, vi sao phai voi vang goi anh ay ve.",
+                                    "_id": "6164d4f65695d5b2fc40ca2c9e4ef673",
+                                    "id": 19489,
+                                    "type": "e_cnvi",
+                                    "e": "他的任务还没完成，为什么要急急巴巴地叫他回来?",
+                                    "p_cn": "ta de renwu hai mei wancheng, weishenme yao ji ji baba de jiao ta huilai?",
+                                    "p": "tā de rènwù hái méi wánchéng, wèishénme yào jí ji bābā de jiào tā huílái?"
+                                },
+                                {
+                                    "m": "Phương Tống lúc này cũng bị dọa cho đái ra quần, hoảng sợ bỏ chạy như một con chó có tang.",
+                                    "p_vn": "Phuong Tong luc nay cung bi doa cho dai ra quan, hoang so bo chay nhu mot con cho co tang.",
+                                    "_id": "c0bc86e88e204bf8a75cee26b51e8f95",
+                                    "id": 55794,
+                                    "type": "e_cnvi",
+                                    "e": "方同这个时候也是吓尿了,急急如丧家之犬,慌不择路的逃跑。",
+                                    "p_cn": "Fang tong zhege shihou yeshi xia niaole, ji ji ru sangjiazhiquan, huangbuzelu de taopao.",
+                                    "p": "Fāng tóng zhège shíhòu yěshì xià niàole, jí ji rú sàngjiāzhīquǎn, huāngbùzélù de táopǎo."
+                                },
+                                {
+                                    "m": "Sáng sớm, trên đường toàn là những người vội vã cho kịp giờ làm.",
+                                    "p_vn": "sang som, tren duong toan la nhung nguoi voi va cho kip gio lam.",
+                                    "_id": "ccf35ee9a664e45a8c7206f5904d42cc",
+                                    "id": 19494,
+                                    "type": "e_cnvi",
+                                    "e": "早晨街上尽是些急急忙忙赶着上班的人。",
+                                    "p_cn": "zaochen jie shang jin shi xie ji ji mang mang ganzhe shangban de ren.",
+                                    "p": "zǎochén jiē shàng jìn shì xiē jí ji máng mang gǎnzhe shàngbān de rén."
+                                },
+                                {
+                                    "m": "cô ấy hấp ta hấp tấp chạy vào trong phòng, thở hổn hển báo tin này.",
+                                    "p_vn": "co ay hap ta hap tap chay vao trong phong tho hon hen bao tin nay",
+                                    "_id": "f9c252095ab487c7683334209e465794",
+                                    "id": 31781,
+                                    "type": "e_cnvi",
+                                    "e": "她急急忙忙地跑进屋子，气咻咻地报告这个消息。",
+                                    "p_cn": "ta ji ji mang mang de pao jin wuzi qi xiuxiu di baogao zhege xiaoxi",
+                                    "p": "tā jí ji máng mang de pǎo jìn wūzi, qì xiūxiū dì bàogào zhège xiāoxī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 77
+            },
+            "snym": {
+                "syno": [
+                    "仓促",
+                    "危机",
+                    "告急",
+                    "严重",
+                    "匆忙",
+                    "吃紧",
+                    "紧张",
+                    "危急",
+                    "仓皇"
+                ],
+                "anto": [
+                    "徐徐",
+                    "急速",
+                    "慢慢"
+                ]
+            },
+            "cn_vi": "cấp cấp",
+            "pinyin": "jí ji",
+            "word": "急急",
+            "id": 26868,
+            "phonetic": "jiji",
+            "rank": 47414,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄐㄧˊㄅㄚ˙ㄅㄚ˙",
+            "_id": "c474c54c67dfe39a8598df31189d702d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hấp tấp vội vàng; vội vàng",
+                            "explain": "(急急巴巴的) 形容急忙",
+                            "examples": [
+                                {
+                                    "m": "nhiệm vụ của anh ấy chưa hoàn thành, vì sao phải vội vàng gọi anh ấy về.",
+                                    "p_vn": "nhiem vu cua anh ay chua hoan thanh, vi sao phai voi vang goi anh ay ve.",
+                                    "_id": "6164d4f65695d5b2fc40ca2c9e4ef673",
+                                    "id": 19489,
+                                    "type": "e_cnvi",
+                                    "e": "他的任务还没完成，为什么要急急巴巴地叫他回来?",
+                                    "p_cn": "ta de renwu hai mei wancheng, weishenme yao ji ji baba de jiao ta huilai?",
+                                    "p": "tā de rènwù hái méi wánchéng, wèishénme yào jí ji bābā de jiào tā huílái?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 28
+            },
+            "snym": {
+                "syno": [
+                    "匆匆忙忙",
+                    "慌慌张张",
+                    "急急忙忙"
+                ],
+                "anto": [
+                    "慢慢悠悠"
+                ]
+            },
+            "cn_vi": "cấp cấp ba ba",
+            "pinyin": "jí ji bābā",
+            "word": "急急巴巴",
+            "id": 26869,
+            "phonetic": "jijibaba",
+            "rank": 73170,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄗㄨㄟˇㄐㄧˊㄕㄜˊ",
+            "_id": "289fbf6f3474e52adcd267e8d006268b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "nói xen vào; nói chen vào",
+                            "explain": "急忙插话抢着说话",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 3
+            },
+            "snym": {
+                "syno": [
+                    "快嘴快舌",
+                    "快人快语"
+                ]
+            },
+            "cn_vi": "cấp chuỷ cấp thiệt",
+            "pinyin": "jí zuǐ jí shé",
+            "word": "急嘴急舌",
+            "id": 26926,
+            "phonetic": "jizuijishe",
+            "rank": 133278,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄐㄧˊㄇㄤˊㄇㄤˊ",
+            "_id": "a60719a0035e4e79b5f89fb725bd2a62",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "vội vã",
+                            "explain": "hurriedly",
+                            "examples": [
+                                {
+                                    "m": "Sáng sớm, trên đường toàn là những người vội vã cho kịp giờ làm.",
+                                    "p_vn": "sang som, tren duong toan la nhung nguoi voi va cho kip gio lam.",
+                                    "_id": "ccf35ee9a664e45a8c7206f5904d42cc",
+                                    "id": 19494,
+                                    "type": "e_cnvi",
+                                    "e": "早晨街上尽是些急急忙忙赶着上班的人。",
+                                    "p_cn": "zaochen jie shang jin shi xie ji ji mang mang ganzhe shangban de ren.",
+                                    "p": "zǎochén jiē shàng jìn shì xiē jí ji máng mang gǎnzhe shàngbān de rén."
+                                },
+                                {
+                                    "m": "cô ấy hấp ta hấp tấp chạy vào trong phòng, thở hổn hển báo tin này.",
+                                    "p_vn": "co ay hap ta hap tap chay vao trong phong tho hon hen bao tin nay",
+                                    "_id": "f9c252095ab487c7683334209e465794",
+                                    "id": 31781,
+                                    "type": "e_cnvi",
+                                    "e": "她急急忙忙地跑进屋子，气咻咻地报告这个消息。",
+                                    "p_cn": "ta ji ji mang mang de pao jin wuzi qi xiuxiu di baogao zhege xiaoxi",
+                                    "p": "tā jí ji máng mang de pǎo jìn wūzi, qì xiūxiū dì bàogào zhège xiāoxī."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "lụp chụp; tong tong tả tả",
+                            "explain": "心里着急, 行动加快",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 37,
+                "search": 553
+            },
+            "snym": {
+                "syno": [
+                    "匆匆忙忙",
+                    "急急巴巴",
+                    "慌慌张张",
+                    "忙忙碌碌"
+                ],
+                "anto": [
+                    "从容不迫",
+                    "从从容容",
+                    "慢慢腾腾",
+                    "慢慢悠悠",
+                    "慢条斯理"
+                ]
+            },
+            "cn_vi": "cấp cấp mang mang",
+            "pinyin": "jí ji máng mang",
+            "word": "急急忙忙",
+            "id": 134545,
+            "phonetic": "jijimangmang",
+            "rank": 14864,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧㄠㄐㄧˊ",
+            "_id": "581a1bbb233a307e241b7a94f2985cae",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "trợ từ kết cấu \"地\"",
+                            "examples": [
+                                141678,
+                                141679
+                            ],
+                            "struct": "焦急 (+地) + Động từ "
+                        },
+                        {
+                            "explain": "\"焦急\" vai trò định ngữ",
+                            "examples": [
+                                141966,
+                                141967
+                            ],
+                            "struct": "焦急 + 的 + Danh từ"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "lo lắng; nôn nóng; sốt ruột; lo âu",
+                            "explain": "着急; 热烈恳切",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy lo lắng chờ đợi tin tức.",
+                                    "p_vn": "anh ay lo lang cho doi tin tuc.",
+                                    "_id": "9938873f438f99a1b005f10050d13ec7",
+                                    "id": 141673,
+                                    "type": "e_cnvi",
+                                    "e": "他焦急地等待消息。",
+                                    "p_cn": "ta jiaoji de dengdai xiaoxi.",
+                                    "p": "tā jiāojí de děngdài xiāoxi."
+                                },
+                                {
+                                    "m": "Mọi người lo lắng chờ kết quả.",
+                                    "p_vn": "moi nguoi lo lang cho ket qua.",
+                                    "_id": "9938873f438f99a1b005f10050d14acc",
+                                    "id": 141674,
+                                    "type": "e_cnvi",
+                                    "e": "大家焦急地等结果。",
+                                    "p_cn": "dajia jiaoji de deng jieguo.",
+                                    "p": "dàjiā jiāojí de děng jiéguǒ."
+                                },
+                                {
+                                    "m": "Anh ấy nóng lòng chờ kết quả thi.",
+                                    "p_vn": "anh ay nong long cho ket qua thi.",
+                                    "_id": "9938873f438f99a1b005f10050d16043",
+                                    "id": 141676,
+                                    "type": "e_cnvi",
+                                    "e": "他焦急地等待考试成绩。",
+                                    "p_cn": "ta jiaoji de dengdai kaoshi chengji.",
+                                    "p": "tā jiāojí de děngdài kǎoshì chéngjī."
+                                },
+                                {
+                                    "m": "Cô ấy sốt ruột muốn biết kết quả.",
+                                    "p_vn": "co ay sot ruot muon biet ket qua.",
+                                    "_id": "9938873f438f99a1b005f10050d16877",
+                                    "id": 141677,
+                                    "type": "e_cnvi",
+                                    "e": "他焦急地等待考试成绩。",
+                                    "p_cn": "ta jiaoji de dengdai kaoshi chengji.",
+                                    "p": "tā jiāojí de děngdài kǎoshì chéngjī."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 199,
+                "search": 1596
+            },
+            "snym": {
+                "syno": [
+                    "焦灼",
+                    "焦虑",
+                    "烦躁",
+                    "焦炙",
+                    "焦躁",
+                    "恐慌",
+                    "着急",
+                    "慌张",
+                    "焦心",
+                    "心焦",
+                    "急躁",
+                    "暴躁",
+                    "发急",
+                    "焦味",
+                    "心切"
+                ],
+                "anto": [
+                    "悠闲",
+                    "冷静",
+                    "镇定",
+                    "平静",
+                    "忍耐"
+                ]
+            },
+            "cn_vi": "tiêu cấp",
+            "pinyin": "jiāojí",
+            "lv_hsk_new": "6",
+            "word": "焦急",
+            "id": 28974,
+            "phonetic": "jiaoji",
+            "rank": 6719,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "1cd408e3312342bbb5bbfb70766d2564",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sốt ruột; lo lắng; cuống cuồng",
+                            "explain": "急躁不安。",
+                            "examples": [
+                                {
+                                    "m": "Đừng lo lắng, có vấn đề gì thì cùng thương lượng giải quyết.",
+                                    "p_vn": "dung lo lang, co van de gi thi cung thuong luong giai quyet.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c845109",
+                                    "id": 111244,
+                                    "type": "e_cnvi",
+                                    "e": "別著急，有問題商量著解決。",
+                                    "p_cn": "bie zhao ji, you wenti shangliangzhe jiejue.",
+                                    "p": "bié zháo jí, yǒu wèntí shāngliángzhe jiějué."
+                                },
+                                {
+                                    "m": "Vẫn còn sớm, sốt ruột cái gì.",
+                                    "p_vn": "van con som, sot ruot cai gi.",
+                                    "_id": "2d90ba26cbb0a945aea4bd697c8460ce",
+                                    "id": 111245,
+                                    "type": "e_cnvi",
+                                    "e": "時間還早，著什麼急。",
+                                    "p_cn": "shijian hai zao,zhao shenme ji.",
+                                    "p": "shíjiān hái zǎo,zháo shénme jí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 87,
+                "search": 1485
+            },
+            "snym": null,
+            "cn_vi": "trước cấp",
+            "pinyin": "zháo jí",
+            "word": "著急",
+            "id": 171806,
+            "phonetic": "zhaoji",
+            "rank": 7123,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "topic": "39",
+            "zhuyin": "ㄐㄧㄣˇㄐㄧˊ",
+            "_id": "76619d236e5b31c555320ea1bb22eaf4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "phó từ tu sức",
+                            "examples": [
+                                118341,
+                                118345
+                            ],
+                            "struct": "A + Phó từ + 紧急"
+                        },
+                        {
+                            "explain": "\"紧急\" vai trò định ngữ",
+                            "examples": [
+                                118348,
+                                118349
+                            ],
+                            "struct": "紧急 +(的)+ Danh từ"
+                        },
+                        {
+                            "explain": "gấp bách/ khẩn cấp/ gấp gáp + làm gì",
+                            "examples": [
+                                118350,
+                                118351
+                            ],
+                            "struct": "紧急 + Động từ"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "khẩn cấp; cấp bách; hiểm nghèo; khẩn",
+                            "explain": "必须立即采取行动、不容许拖延的",
+                            "examples": [
+                                {
+                                    "m": "Tình huống vô cùng khẩn cấp.",
+                                    "p_vn": "tinh huong vo cung khan cap.",
+                                    "_id": "641148288b13f4cf43a85133e8d6de0f",
+                                    "id": 118335,
+                                    "type": "e_cnvi",
+                                    "e": "情况十分紧急。",
+                                    "p_cn": "qingkuang shifen jinji.",
+                                    "p": "qíngkuàng shífēn jǐnjí."
+                                },
+                                {
+                                    "m": "Anh nhận được một cuộc gọi khẩn cấp.",
+                                    "p_vn": "anh nhan duoc mot cuoc goi khan cap.",
+                                    "_id": "641148288b13f4cf43a85133e8d6f4b7",
+                                    "id": 118339,
+                                    "type": "e_cnvi",
+                                    "e": "他接到了一个紧急电话。",
+                                    "p_cn": "ta jie daole yige jinji dianhua.",
+                                    "p": "tā jiē dàole yīgè jǐnjí diànhuà."
+                                },
+                                {
+                                    "m": "Đây là nhiệm vụ cấp bách.",
+                                    "p_vn": "day la nhiem vu cap bach.",
+                                    "_id": "641148288b13f4cf43a85133e8d6fe69",
+                                    "id": 118340,
+                                    "type": "e_cnvi",
+                                    "e": "这是一项紧急任务。",
+                                    "p_cn": "zhe shi yi xiang jinji renwu.",
+                                    "p": "zhè shì yī xiàng jǐnjí rènwù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"紧张\" mô tả tinh thần, thần kinh và tâm lí con người, có thể trùng lặp ; \"紧急\" và 紧迫\" không có cách sử dụng này.",
+                    "title": "Phân biệt \"紧张\", \"紧迫\" và \"紧急\"",
+                    "words": [
+                        "紧张",
+                        "紧迫",
+                        "紧急"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "遑急",
+                    "危殆",
+                    "急切",
+                    "蹙迫",
+                    "告急",
+                    "紧张",
+                    "危急",
+                    "要紧",
+                    "急迫",
+                    "紧迫",
+                    "火急",
+                    "紧要",
+                    "迫切"
+                ],
+                "anto": [
+                    "缓慢",
+                    "松弛",
+                    "宽和",
+                    "松缓"
+                ]
+            },
+            "lv_hsk_new": "3, 5",
+            "pinyin": "jǐnjí",
+            "cn_vi": "khẩn cấp",
+            "popularity": {
+                "notebook": 349,
+                "search": 3241
+            },
+            "word": "紧急",
+            "id": 30179,
+            "phonetic": "jinji",
+            "rank": 3674,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄆㄛˋ",
+            "_id": "b79ab92b2fc4149fab503b89fb721305",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "cấp bách; cấp thúc; chanh ranh",
+                            "explain": "马上需要应付或办理，不容许迟延",
+                            "examples": [
+                                {
+                                    "m": "đây là nhiệm vụ cấp bách nhất hiện nay.",
+                                    "p_vn": "day la nhiem vu cap bach nhat hien nay",
+                                    "_id": "240c1e7421804102b47aeb5a66874253",
+                                    "id": 19497,
+                                    "type": "e_cnvi",
+                                    "e": "这是当前最急迫的任务。",
+                                    "p_cn": "zhe shi dangqian zui jipo de renwu",
+                                    "p": "zhèshì dāngqián zùi jípò de rènwù。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cấp nhặt",
+                            "explain": "必须立即采取行动、不容许拖延的",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 324
+            },
+            "snym": {
+                "syno": [
+                    "危机",
+                    "蹙迫",
+                    "遑急",
+                    "火急",
+                    "要紧",
+                    "紧迫",
+                    "急切",
+                    "危急",
+                    "紧急",
+                    "迫切",
+                    "火速"
+                ],
+                "anto": [
+                    "从容",
+                    "舒徐"
+                ]
+            },
+            "cn_vi": "cấp bách",
+            "pinyin": "jípò",
+            "word": "急迫",
+            "id": 26892,
+            "phonetic": "jipo",
+            "rank": 21028,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄩㄣˋㄐㄧˊ",
+            "_id": "b238d0db06b86d85586d07a17ab41e31",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nước chảy xiết",
+                            "explain": "水流急",
+                            "examples": []
+                        },
+                        {
+                            "mean": "nghiêm khắc; nghiệt ngã",
+                            "explain": "性情严厉急躁",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 20
+            },
+            "snym": null,
+            "cn_vi": "tuấn cấp",
+            "pinyin": "jùn jí",
+            "word": "峻急",
+            "id": 31604,
+            "phonetic": "junji",
+            "rank": 83267,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄢˇㄐㄧˊ",
+            "_id": "21b598374aaecc8b13c7687bcb844db2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "thong thả và cấp bách; hoãn gấp",
+                            "explain": "和缓和急迫",
+                            "examples": [
+                                {
+                                    "m": "phân biệt nặng nhẹ hoãn gấp.",
+                                    "p_vn": "phan biet nang nhe hoan gap",
+                                    "_id": "831f6a2c83e2cb134af4906d8222125d",
+                                    "id": 18119,
+                                    "type": "e_cnvi",
+                                    "e": "分别轻重缓急。",
+                                    "p_cn": "fenbie qingzhonghuanji",
+                                    "p": "fēnbié qīngzhònghuǎnjí。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "việc gấp; việc khó; việc cấp bách; việc khó khăn",
+                            "explain": "急迫的事;困难的事",
+                            "examples": [
+                                {
+                                    "m": "giúp nhau những việc khó khăn",
+                                    "p_vn": "giup nhau nhung viec kho khan",
+                                    "_id": "ab38f320c5b21b74d692f2f55b08bac8",
+                                    "id": 18120,
+                                    "type": "e_cnvi",
+                                    "e": "缓急相助",
+                                    "p_cn": "huanji xiangzhu",
+                                    "p": "huǎnjí xiāngzhù"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 12,
+                "search": 146
+            },
+            "snym": {
+                "syno": [
+                    "快慢"
+                ]
+            },
+            "cn_vi": "hoãn cấp",
+            "pinyin": "huǎnjí",
+            "word": "缓急",
+            "id": 24955,
+            "phonetic": "huanji",
+            "rank": 33898,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "58",
+            "zhuyin": "ㄐㄧˊㄑㄧㄝˋ",
+            "_id": "4e4d1312ba64929558cc52975f1ceb94",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "cấp thiết; cần thiết; bức thiết; khẩn thiết; thiết tha",
+                            "explain": "迫切",
+                            "examples": [
+                                {
+                                    "m": "nhu cầu cấp thiết.",
+                                    "p_vn": "nhu cau cap thiet",
+                                    "_id": "c69c9120107c66416e99fc7fd8fc8756",
+                                    "id": 19498,
+                                    "type": "e_cnvi",
+                                    "e": "需要急切。",
+                                    "p_cn": "xuyao jiqie",
+                                    "p": "xūyào jíqiē。"
+                                },
+                                {
+                                    "m": "thiết tha mong đợi thành công.",
+                                    "p_vn": "thiet tha mong doi thanh cong.",
+                                    "_id": "beb9a4f884f3051cf6a277000c13031a",
+                                    "id": 19499,
+                                    "type": "e_cnvi",
+                                    "e": "急切地盼望成功。",
+                                    "p_cn": "jiqie de panwang chenggong.",
+                                    "p": "jíqiè de pànwàng chénggōng."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vội vã; vội vàng",
+                            "explain": "仓促",
+                            "examples": [
+                                {
+                                    "m": "trong khi vội vã, không tìm được người thích hợp.",
+                                    "p_vn": "trong khi voi va khong tim duoc nguoi thich hop",
+                                    "_id": "d488d664476ab9054034816dc1fbb421",
+                                    "id": 19500,
+                                    "type": "e_cnvi",
+                                    "e": "急切间找不着适当的人。",
+                                    "p_cn": "jiqie jian zhao buzhao shidang de ren",
+                                    "p": "jíqiē jiān zhǎobùzháo shìdāng de rén。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "\"急忙\" mô tả hành động của con người, \"急切\" có thể mô tả hành động của con người cũng có thể mô tả sự việc.\n\"急忙\" có thể trùng lặp, \"急切\" không thể trùng lặp, hai từ này không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"急忙\" và \"急切\"",
+                    "words": [
+                        "急忙",
+                        "急切"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "殷切",
+                    "快捷",
+                    "蹙迫",
+                    "孔殷",
+                    "迫切",
+                    "遑急",
+                    "紧迫",
+                    "火速",
+                    "急迫",
+                    "火急",
+                    "紧急",
+                    "急促",
+                    "急忙",
+                    "迫急",
+                    "心切",
+                    "紧忙",
+                    "情急",
+                    "说得"
+                ],
+                "anto": [
+                    "迟缓",
+                    "缓慢"
+                ]
+            },
+            "cn_vi": "cấp thiết",
+            "pinyin": "jíqiè",
+            "popularity": {
+                "notebook": 128,
+                "search": 1191
+            },
+            "lv_hsk_new": "6",
+            "word": "急切",
+            "id": 26894,
+            "phonetic": "jiqie",
+            "rank": 8554,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄒㄧˊ",
+            "_id": "2a556111016840c9e24827b080745bcd",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "tấn công bất ngờ; tập kích bất ngờ",
+                            "explain": "突然而迅猛的打击",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "cấp tập",
+            "pinyin": "jí xí",
+            "word": "急袭",
+            "id": 26905,
+            "phonetic": "jixi",
+            "rank": 124414,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄊㄨㄢㄐㄧˊ",
+            "_id": "a5bb6bc24f06f2a8a6cb424c9e7897de",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "chảy xiết",
+                            "explain": "水势急",
+                            "examples": [
+                                {
+                                    "m": "sông nhiều bãi đá ngầm nguy hiểm, dòng nước chảy xiết.",
+                                    "p_vn": "song nhieu bai da ngam nguy hiem dong nuoc chay xiet",
+                                    "_id": "b4df21041c29500755293b056331d713",
+                                    "id": 39641,
+                                    "type": "e_cnvi",
+                                    "e": "川江险滩多，水流湍急。",
+                                    "p_cn": "chuanjiang xiantan duo shuiliu tuanji",
+                                    "p": "chuānjiāng xiǎntān duō，shǔilíu tuānjí。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 45,
+                "search": 199
+            },
+            "snym": {
+                "syno": [
+                    "汹涌",
+                    "潺潺",
+                    "急流",
+                    "急湍",
+                    "奔流",
+                    "湍流"
+                ],
+                "anto": [
+                    "缓慢",
+                    "潺湲"
+                ]
+            },
+            "cn_vi": "thoan cấp",
+            "pinyin": "tuānjí",
+            "word": "湍急",
+            "id": 51824,
+            "phonetic": "tuanji",
+            "rank": 28420,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄉㄧㄢˋ",
+            "_id": "07f7fc13457fce1b6b249c85ff7b69b2",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "điện khẩn",
+                            "explain": "需要赶紧传送的电报",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 8
+            },
+            "snym": null,
+            "cn_vi": "cấp điện",
+            "pinyin": "jídiàn",
+            "word": "急电",
+            "id": 26860,
+            "phonetic": "jidian",
+            "rank": 111071,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "topic": "29",
+            "zhuyin": "ㄐㄧˊㄐㄧㄡˋ",
+            "_id": "83ef75966b1d081e0990b4cf145fd234",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cấp cứu; sơ cứu",
+                            "explain": "紧急救治 (患急性病或受重伤的人)",
+                            "examples": [
+                                {
+                                    "m": "Tất cả các thành viên trong nhóm đều đã được đào tạo sơ cấp cứu. ​",
+                                    "p_vn": "tat ca cac thanh vien trong nhom deu da duoc dao tao so cap cuu. ​",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab3549c3",
+                                    "id": 89183,
+                                    "type": "e_cnvi",
+                                    "e": "全队队员都接受过急救培训。",
+                                    "p_cn": "quan dui duiyuan dou jieshouguo jijiu peixun.",
+                                    "p": "quán duì duìyuán dōu jiēshòuguò jíjiù péixùn."
+                                },
+                                {
+                                    "m": "Có nhiều trường hợp khẩn cấp cần được cấp cứu kịp thời.",
+                                    "p_vn": "co nhieu truong hop khan cap can duoc cap cuu kip thoi.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab354f61",
+                                    "id": 89184,
+                                    "type": "e_cnvi",
+                                    "e": "有很多紧急情况需要迅速的急救治疗。",
+                                    "p_cn": "you henduo jinji qingkuang xuyao xunsu de jijiu zhiliao.",
+                                    "p": "yǒu hěnduō jǐnjí qíngkuàng xūyào xùnsù de jíjiù zhìliáo."
+                                },
+                                {
+                                    "m": "Bạn nên biết cách thực hiện sơ cứu cơ bản.",
+                                    "p_vn": "ban nen biet cach thuc hien so cuu co ban.",
+                                    "_id": "88ff8c45fce9eac59223a4b6ab3550e5",
+                                    "id": 89185,
+                                    "type": "e_cnvi",
+                                    "e": "你应该懂得如何实施基本的急救。",
+                                    "p_cn": "ni yinggai dongde ruhe shishi jiben de jijiu.",
+                                    "p": "nǐ yīnggāi dǒngde rúhé shíshī jīběn de jíjiù."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 65,
+                "search": 783
+            },
+            "snym": {
+                "syno": [
+                    "抢救",
+                    "挽救",
+                    "拯救",
+                    "援救",
+                    "救治",
+                    "救护"
+                ],
+                "anto": [
+                    "陷害",
+                    "构陷",
+                    "诬害"
+                ]
+            },
+            "lv_hsk_new": "6, 7-9",
+            "pinyin": "jíjiù",
+            "cn_vi": "cấp cứu",
+            "word": "急救",
+            "id": 26877,
+            "phonetic": "jijiu",
+            "rank": 11732,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄏㄨㄛˇ",
+            "_id": "9f90eaa9316943228533db13b2bbd0fa",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "(TCM) nội nhiệt sinh ra do lo lắng",
+                            "explain": "(TCM) internal heat generated by anxiety",
+                            "examples": [
+                                {
+                                    "m": "nghe nói xảy ra sự cố, trong lòng anh ấy lo lắng không yên.",
+                                    "p_vn": "nghe noi xay ra su co, trong long anh ay lo lang khong yen.",
+                                    "_id": "742198c8099c13a9682b7b791c2707b8",
+                                    "id": 18997,
+                                    "type": "e_cnvi",
+                                    "e": "听说发生了事故，他心里火急火燎的。",
+                                    "p_cn": "ting shuo fa sheng liao shigu, ta xinli huojihuoliao de.",
+                                    "p": "tīng shuō fā shēng liǎo shìgù, tā xīnlǐ huǒjíhuǒliǎo de."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nhiệt nhanh (nấu ăn)",
+                            "explain": "brisk heat (cooking)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 43
+            },
+            "snym": null,
+            "cn_vi": "cấp hoả",
+            "pinyin": "jíhuǒ",
+            "word": "急火",
+            "id": 91319,
+            "phonetic": "jihuo",
+            "rank": 61938,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄨㄢ",
+            "_id": "7ab1d09cbf2ff3f50cff4daea5004bab",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "chỗ vòng gấp; chỗ ngoặt gấp; cua quẹo nguy hiểm",
+                            "explain": "道路突然转折的方",
+                            "examples": [
+                                {
+                                    "m": "phía trước có cua quẹo nguy hiểm, xe cộ phải cẩn thận.",
+                                    "p_vn": "phia truoc co cua queo nguy hiem xe co phai can than",
+                                    "_id": "b6affa9107e5a55de859ac6ed0aa337f",
+                                    "id": 19502,
+                                    "type": "e_cnvi",
+                                    "e": "前有急弯，行车小心。",
+                                    "p_cn": "qian you jiwan xingche xiaoxin",
+                                    "p": "qiányǒu jíwān，xíngchē xiǎoxīn。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vòng gấp; quay gấp; xoay gấp; quẹo gấp (xe, tàu, máy bay)",
+                            "explain": "车、船、飞机等行进方向的突然改变",
+                            "examples": [
+                                {
+                                    "m": "máy bay chiến đấu đánh vòng xoay gấp, bay về hướng tây nam.",
+                                    "p_vn": "may bay chien dau danh vong xoay gap, bay ve huong tay nam.",
+                                    "_id": "0903c94759cad35e34ab552b3e035907",
+                                    "id": 19503,
+                                    "type": "e_cnvi",
+                                    "e": "战斗机拐了个急弯，向西南飞去。",
+                                    "p_cn": "zhandouji guai le ge jiwan，xiang xinan feiqu。",
+                                    "p": "zhàndǒujī guǎi le gè jíwān，xiàng xīnán fēiqù。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 24
+            },
+            "snym": null,
+            "cn_vi": "cấp loan",
+            "pinyin": "jíwān",
+            "word": "急弯",
+            "id": 26903,
+            "phonetic": "jiwan",
+            "rank": 77774,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄓˋ",
+            "_id": "77f65219fe69fc8478297430e772baff",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "nhanh trí; tháo vát; phương pháp đối phó nhất thời; phương pháp đối phó tức thời",
+                            "explain": "遇到紧急情况突然想出来的应付办法",
+                            "examples": [
+                                {
+                                    "m": "cái khó ló cái khôn.",
+                                    "p_vn": "cai kho lo cai khon.",
+                                    "_id": "05576477f6ff6a04057dbfbad916cffd",
+                                    "id": 32767,
+                                    "type": "e_cnvi",
+                                    "e": "情急智生(心中着急而突然想出聪明的办法)。",
+                                    "p_cn": "qingjizhisheng ( xinzhong zhaoji er turan xiang chu congming de banfa ). ",
+                                    "p": "qīngjízhìshēng ( xīnzhōng zháojí ér tūrán xiǎng chū cōngming de bànfǎ )。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 17
+            },
+            "snym": {
+                "syno": [
+                    "机智"
+                ]
+            },
+            "cn_vi": "cấp trí",
+            "pinyin": "jízhì",
+            "word": "急智",
+            "id": 26920,
+            "phonetic": "jizhi",
+            "rank": 86783,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄩㄥˋ",
+            "_id": "31304c5c55caee69a3c52c1c203429b8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cần dùng gấp (chỉ tiền bạc)",
+                            "explain": "紧急需用 (多指金钱方面)",
+                            "examples": [
+                                {
+                                    "m": "tiết kiệm, gom góp, đề phòng lúc cần dùng gấp.",
+                                    "p_vn": "tiet kiem gom gop de phong luc can dung gap",
+                                    "_id": "c54ab83ff45fc1cb663bd07e3ff90d49",
+                                    "id": 19509,
+                                    "type": "e_cnvi",
+                                    "e": "节约储蓄，以备急用。",
+                                    "p_cn": "jieyue chuxu yi bei jiyong",
+                                    "p": "jiéyuē chǔxù，yǐbèi jíyòng。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "cận dụng",
+                            "explain": "急切需用",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 23,
+                "search": 216
+            },
+            "snym": null,
+            "cn_vi": "cấp dụng",
+            "pinyin": "jíyòng",
+            "word": "急用",
+            "id": 26915,
+            "phonetic": "jiyong",
+            "rank": 27086,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄢˇㄐㄧˊ",
+            "_id": "631f90f55b3f04f5c5859dd8b0d17723",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "vội vàng; vội vã; tranh thủ thời gian",
+                            "explain": "赶紧;赶忙",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 37
+            },
+            "snym": null,
+            "cn_vi": "cản cấp",
+            "pinyin": "gǎn jí",
+            "word": "赶急",
+            "id": 18426,
+            "phonetic": "ganji",
+            "rank": 65469,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "97df9195dad04f2d97a902b6eed10821",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Tài ăn nói mau lẹ, giỏi đối đáp.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "tiệp cấp",
+            "pinyin": "jié jí",
+            "word": "捷急",
+            "id": 169708,
+            "phonetic": "jieji",
+            "rank": 158107,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj",
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄜ˙ㄐㄧˊ",
+            "_id": "bf5435c0f035f9a2dd213785ddeb729c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "lo lắng cho ai/ làm ai lo lắng",
+                            "examples": [
+                                85306,
+                                94168
+                            ],
+                            "struct": "为/让/替/怕 + Ai đó +着急"
+                        },
+                        {
+                            "explain": "vội vã/ gấp gáp làm gì / làm gì vội vã/ gấp gáp",
+                            "examples": [
+                                120479,
+                                120480
+                            ],
+                            "struct": "着急 + 地 + Động từ"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "sốt ruột; lo lắng; cuống cuồng; vội vàng; gấp gáp; nôn nóng; vội vã",
+                            "explain": "人因为觉得情况紧急而紧张，想要再快点儿",
+                            "examples": [
+                                {
+                                    "m": "Tâm trạng sốt ruột.",
+                                    "p_vn": "tam trạng sót ruọt.",
+                                    "_id": "329486f68b2b4177e0301e5c7208619a",
+                                    "id": 85307,
+                                    "type": "e_cnvi",
+                                    "e": "心里很着急。",
+                                    "p_cn": "xinli hen zhao ji.",
+                                    "p": "xīnlǐ hěn zháo jí."
+                                },
+                                {
+                                    "m": "Cô ấy đang vội vã rời đi.",
+                                    "p_vn": "co ay dang voi va roi di.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95f5cbe",
+                                    "id": 94162,
+                                    "type": "e_cnvi",
+                                    "e": "她着急走。",
+                                    "p_cn": "ta zhao ji zou.",
+                                    "p": "tā zháo jí zǒu."
+                                },
+                                {
+                                    "m": "Anh chờ đợi gấp gáp.",
+                                    "p_vn": "anh cho doi gap gap.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95f6866",
+                                    "id": 94163,
+                                    "type": "e_cnvi",
+                                    "e": "他着急地等。",
+                                    "p_cn": "ta zhao ji de deng.",
+                                    "p": "tā zháo jí de děng."
+                                },
+                                {
+                                    "m": "Mẹ rất lo lắng.",
+                                    "p_vn": "me rat lo lang.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95f8165",
+                                    "id": 94166,
+                                    "type": "e_cnvi",
+                                    "e": "妈妈十分着急。",
+                                    "p_cn": "mama shifen zhao ji.",
+                                    "p": "māma shífēn zháo jí."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "sự lo lắng; nỗi lo",
+                            "explain": "担忧",
+                            "examples": [
+                                {
+                                    "m": "Mọi người đều có thể thấy sự lo lắng của anh ấy.",
+                                    "p_vn": "moi nguoi deu co the thay su lo lang cua anh ay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc95ff74c",
+                                    "id": 94179,
+                                    "type": "e_cnvi",
+                                    "e": "他的着急大家都看在眼里。",
+                                    "p_cn": "ta de zhao ji dajia dou kan zai yan li.",
+                                    "p": "tā de zháo jí dàjiā dōu kàn zài yǎn lǐ."
+                                },
+                                {
+                                    "m": "Chúng ta có thể hiểu được sự lo lắng của anh ấy.",
+                                    "p_vn": "chung ta co the hieu duoc su lo lang cua anh ay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc9601a0b",
+                                    "id": 94182,
+                                    "type": "e_cnvi",
+                                    "e": "我们能理解他的着急。",
+                                    "p_cn": "women neng lijie ta de zhao ji.",
+                                    "p": "wǒmen néng lǐjiě tā de zháo jí."
+                                },
+                                {
+                                    "m": "Đừng để sự lo lắng của anh ấy ảnh hưởng đến bạn.",
+                                    "p_vn": "dung de su lo lang cua anh ay anh huong den ban.",
+                                    "_id": "f2efc94449b26b3e2967bccbc96032ad",
+                                    "id": 94187,
+                                    "type": "e_cnvi",
+                                    "e": "不要被他的着急影响到自己。",
+                                    "p_cn": "buyao bei ta de zhao ji yingxiang dao ziji.",
+                                    "p": "bùyào bèi tā de zháo jí yǐngxiǎng dào zìjǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "- \"急\" có thể mô tả người hoặc mô tả vật, \"着急\" chỉ có thể mô tả cảm xúc và hành vi của người.\n- \"着急\" còn có thể được tách ra để sử dụng, có thể nói \"着什么急\".",
+                    "title": "Phân biệt \"急\" và \"着急\"",
+                    "words": [
+                        "急",
+                        "着急"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "焦灼",
+                    "焦急",
+                    "焦虑",
+                    "焦炙",
+                    "忧虑",
+                    "恐慌",
+                    "慌张",
+                    "焦心",
+                    "心焦",
+                    "张惶",
+                    "焦躁",
+                    "发急",
+                    "心切",
+                    "填填",
+                    "心急",
+                    "焦燥",
+                    "忙急",
+                    "急性",
+                    "交集"
+                ],
+                "anto": [
+                    "心安",
+                    "镇静",
+                    "镇定",
+                    "平静"
+                ]
+            },
+            "lv_hsk_new": "3, 4",
+            "pinyin": "zháo jí",
+            "cn_vi": "trứ cấp",
+            "popularity": {
+                "notebook": 1040,
+                "search": 18699
+            },
+            "word": "着急",
+            "id": 66465,
+            "phonetic": "zhaoji",
+            "rank": 332,
+            "lv_tocfl": 2,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "2",
+            "zhuyin": "ㄐㄧˊㄅㄢˇ",
+            "_id": "590a152e4313466db8a1f9cb41cd5346",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "(âm nhạc) presto",
+                            "explain": "(music) presto",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "cấp bản",
+            "pinyin": "jí bǎn",
+            "word": "急板",
+            "id": 91318,
+            "phonetic": "jiban",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄣˋㄐㄧˊ",
+            "_id": "1006fc8397f149cc867d31a1546c20a5",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "mạnh mẽ và nhanh nhẹn",
+                            "explain": "strong and swift",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "kình cấp",
+            "pinyin": "jìn jí",
+            "word": "劲急",
+            "id": 95172,
+            "phonetic": "jinji",
+            "rank": 126150,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄅㄧㄢˇㄐㄧˊ",
+            "_id": "39eb2390363e7995e406c31f2b116956",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "nóng nảy; hấp tấp; hẹp hòi (tính khí)",
+                            "explain": "气量狭小，性情急躁",
+                            "examples": [
+                                {
+                                    "m": "nóng tính; tính tình nóng nảy",
+                                    "p_vn": "nong tinh; tinh tinh nong nay",
+                                    "_id": "ad6d45d2ec10ee700657608a1e075526",
+                                    "id": 1824,
+                                    "type": "e_cnvi",
+                                    "e": "性情褊急",
+                                    "p_cn": "xingqing bian ji",
+                                    "p": "xìngqíng biǎnjí"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 11
+            },
+            "snym": null,
+            "cn_vi": "biển cấp",
+            "pinyin": "biǎn jí",
+            "word": "褊急",
+            "id": 3361,
+            "phonetic": "bianji",
+            "rank": 101068,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄧㄠˋ",
+            "_id": "5c61a7d95bab8dd49db02f30b49831c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "khẩn cấp",
+                            "explain": "紧急重要",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 5,
+                "search": 66
+            },
+            "snym": null,
+            "cn_vi": "cấp yếu",
+            "pinyin": "jí yào",
+            "word": "急要",
+            "id": 26914,
+            "phonetic": "jiyao",
+            "rank": 50918,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "627e50cef215421aa801fe3e9e070675",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Phát sốt thình lình.",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "cấp nhiệt",
+            "pinyin": "jí rè",
+            "word": "急热",
+            "id": 169703,
+            "phonetic": "jire",
+            "rank": 152583,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄉㄞˋ",
+            "_id": "74f67db30ff045ffb2ab1ec63ac9ddcb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cần làm ngay lập tức",
+                            "explain": "to need doing without delay",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cần gấp",
+                            "explain": "to need urgently",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 69
+            },
+            "snym": null,
+            "cn_vi": "cấp đãi",
+            "pinyin": "jí dài",
+            "word": "急待",
+            "id": 91317,
+            "phonetic": "jidai",
+            "rank": 49921,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧㄢˋㄐㄧˊ",
+            "_id": "728e7ac220dc41a6b81bcb8c9819b0b1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "cần nhà vệ sinh",
+                            "explain": "to need the toilet",
+                            "examples": []
+                        },
+                        {
+                            "mean": "tiểu gấp hoặc đại tiện",
+                            "explain": "urinary or defecatory urgency",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 5
+            },
+            "snym": null,
+            "cn_vi": "tiện cấp",
+            "pinyin": "biàn jí",
+            "word": "便急",
+            "id": 94764,
+            "phonetic": "bianji",
+            "rank": 121293,
+            "kind": [
+                "adv"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄩˋ",
+            "_id": "1bb8839a7ba2490f94035948f41a17f7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "lo lắng để ...",
+                            "explain": "to be anxious to ...",
+                            "examples": [
+                                {
+                                    "m": "Người có lòng tham muốn vô cùng muốn có quyền lực hoặc danh vọng; đầy đố kỵ.",
+                                    "p_vn": "Nguoi co long tham muon vo cung muon co quyen luc hoac danh vong; day do ky.",
+                                    "_id": "b947354d2f87499e83707304c961252d",
+                                    "id": 69950,
+                                    "type": "e_cnvi",
+                                    "e": "急欲获得的妄想权力或荣誉的；嫉妒的",
+                                    "p_cn": "ji yu huode de wangxiang quanli huo rongyu de jidu de",
+                                    "p": "jí yù huòdé de wàngxiǎng quánlì huò róngyù de jídù de"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "quan tâm đến ...",
+                            "explain": "to be keen to ...",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 25
+            },
+            "snym": null,
+            "cn_vi": "cấp dục",
+            "pinyin": "jí yù",
+            "word": "急欲",
+            "id": 88535,
+            "phonetic": "jiyu",
+            "rank": 76615,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄅㄧㄢˋ",
+            "_id": "80f92e9435f3371c6be23a5e4cf8a59f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "biến đổi đột ngột; biến đổi thình lình; thay đổi gấp rút; cấp biến",
+                            "explain": "紧急的事变",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "cấp biến",
+            "pinyin": "jíbiàn",
+            "word": "急变",
+            "id": 26849,
+            "phonetic": "jibian",
+            "rank": 153123,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄅㄧㄐㄧˊ",
+            "_id": "0a24459752b444a59a7fb3672399ae2b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "Khẩn cấp，thúc ép",
+                            "explain": "逼急，读音为bī jí，汉语词语，意思是急迫。",
+                            "examples": [
+                                {
+                                    "m": "Nếu ai đó ép tôi vào bước đường cùng, tôi sẽ chiến đấu đến cùng với người đó.",
+                                    "p_vn": "neu ai do ep toi vao buoc duong cung, toi se chien dau den cung voi nguoi do.",
+                                    "_id": "142b49b7d3514a579adca13af6391d44",
+                                    "id": 56123,
+                                    "type": "e_cnvi",
+                                    "e": "谁要是把我逼急了,我和他玉石俱焚。",
+                                    "p_cn": "shei yaoshi ba wo bi jile, wo he ta yushijufen.",
+                                    "p": "Shéi yàoshi bǎ wǒ bī jíle, wǒ hé tā yùshíjùfén."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 8,
+                "search": 104
+            },
+            "snym": null,
+            "cn_vi": "bức cấp",
+            "pinyin": "bī jí",
+            "word": "逼急",
+            "id": 85476,
+            "phonetic": "biji",
+            "rank": 40808,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄆㄞˋ",
+            "_id": "52e021eb2932a1409f44715019e6f376",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đổ xô vào",
+                            "explain": "急速、急躁、猛烈地推动、急行或急送能够急派三团国民警备队到战场去",
+                            "examples": []
+                        },
+                        {
+                            "mean": "cấp sai",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "cấp phái",
+            "pinyin": "jí pài",
+            "word": "急派",
+            "id": 26891,
+            "phonetic": "jipai",
+            "rank": 130695,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "b1360bffdc2642dd8b06d689f8e99d18",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "Gấp rút. Ngay lúc đó.",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Vui lòng nhấn chuông khi tình huống khẩn cấp.",
+                                    "p_vn": "Vui long nhan chuong khi tinh huong khan cap.",
+                                    "_id": "bcf59be01048458aa3b90ffca678c248",
+                                    "id": 70766,
+                                    "type": "e_cnvi",
+                                    "e": "情况紧急时请按铃。",
+                                    "p_cn": "qingkuang jinji shi qing an ling",
+                                    "p": "qíngkuàng jǐnjí shí qǐng àn líng"
+                                },
+                                {
+                                    "m": "Một thành viên của Hội đồng các quan chức quan trọng được triệu tập đến cuộc họp lúc khẩn cấp để thảo luận.",
+                                    "p_vn": "Mot thanh vien cua Hoi dong cac quan chuc quan trong duoc trieu tap den cuoc hop luc khan cap de thao luan.",
+                                    "_id": "ac2fffcf212e4349b033c6eaa5541a6a",
+                                    "id": 72510,
+                                    "type": "e_cnvi",
+                                    "e": "应召显贵法国革命前要员议会的一员，在紧急时刻被召到大会进行商讨",
+                                    "p_cn": "yingzhao xiangui Faguo Geming qian yaoyuan yihui de yi yuan zai jinji shike bei zhao dao dahui jinxing shangtao",
+                                    "p": "yìngzhào xiǎnguì Fǎguó Gémìng qián yàoyuán yìhuì de yī yuán zài jǐnjí shíkè bèi zhào dào dàhuì jìnxíng shāngtǎo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 14
+            },
+            "snym": null,
+            "cn_vi": "cấp thời",
+            "pinyin": "jí shí",
+            "word": "急时",
+            "id": 169704,
+            "phonetic": "jishi",
+            "rank": 93110,
+            "kind": [
+                "adj"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄈㄚㄐㄧˊ",
+            "_id": "ce7bcb52c9b825efb9de57112eb219db",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "sốt ruột; lo; lo lắng; cuống lên",
+                            "explain": "着急; 碰到不称心的事情马上激动不安",
+                            "examples": [
+                                {
+                                    "m": "anh ấy vẫn chưa đến, để mọi người đợi sốt ruột.",
+                                    "p_vn": "anh ay van chua den de moi nguoi doi sot ruot",
+                                    "_id": "a46e0383bb279723789fad1db0efbbaa",
+                                    "id": 10264,
+                                    "type": "e_cnvi",
+                                    "e": "他还不来，让人等得发急。",
+                                    "p_cn": "ta hai bu lai rang ren deng de faji",
+                                    "p": "tā hái bù lái, ràng rén děng dé fājí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 2,
+                "search": 23
+            },
+            "snym": {
+                "syno": [
+                    "焦灼",
+                    "焦急",
+                    "焦虑",
+                    "焦炙",
+                    "着急",
+                    "慌张",
+                    "焦心",
+                    "心焦",
+                    "恐慌",
+                    "焦躁",
+                    "交集",
+                    "把关"
+                ]
+            },
+            "cn_vi": "phát cấp",
+            "pinyin": "fājí",
+            "word": "发急",
+            "id": 15308,
+            "phonetic": "faji",
+            "rank": 78466,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄢˋㄐㄧˊ",
+            "_id": "911ceb864a872b2f521b47adcccf24c4",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "nóng ruột; sốt ruột",
+                            "explain": "心里着急而没有办法",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 7,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "can cấp",
+            "pinyin": "gān jí",
+            "word": "干急",
+            "id": 18274,
+            "phonetic": "ganji",
+            "rank": 87884,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄊㄜˋㄐㄧˊ",
+            "_id": "a7bca0b1789a44ce9d8eab29df3100cf",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "đặc biệt khẩn cấp",
+                            "explain": "especially urgent",
+                            "examples": []
+                        },
+                        {
+                            "mean": "ưu tiên hàng đầu",
+                            "explain": "top priority",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 10,
+                "search": 132
+            },
+            "snym": null,
+            "cn_vi": "đặc cấp",
+            "pinyin": "tèjí",
+            "word": "特急",
+            "id": 88996,
+            "phonetic": "teji",
+            "rank": 35848,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄈㄥ",
+            "_id": "e66f342ce3c458f11db2df2efcaa3036",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cuồng phong; gió lớn",
+                            "explain": "指强烈而突然的风",
+                            "examples": [
+                                {
+                                    "m": "Chiếc thuyền của họ đang đi qua biển đang sóng cao gió mạnh với nguy hiểm.",
+                                    "p_vn": "Chiec thuyen cua ho dang di qua bien dang song cao gio manh voi nguy hiem.",
+                                    "_id": "3df19b36f24545b1945cf30011de4e98",
+                                    "id": 73356,
+                                    "type": "e_cnvi",
+                                    "e": "他们的船在浪急风高的海上危险地航行着。",
+                                    "p_cn": "tamen de chuan zai lang ji feng gao de haishang weixian di hangxing zhe",
+                                    "p": "tāmen de chuán zài làng jí fēng gāo de hǎishàng wēixiǎn dì hángxíng zhe"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 4
+            },
+            "snym": null,
+            "cn_vi": "cấp phong",
+            "pinyin": "jí fēng",
+            "word": "急风",
+            "id": 26861,
+            "phonetic": "jifeng",
+            "rank": 129269,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄋㄧㄠˋㄐㄧˊ",
+            "_id": "02b1e8764e8741e3b846c0b6e064e1a8",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "tiểu gấp",
+                            "explain": "urinary urgency",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mắc đái",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 9,
+                "search": 97
+            },
+            "snym": null,
+            "cn_vi": "niếu cấp",
+            "pinyin": "niào jí",
+            "word": "尿急",
+            "id": 96284,
+            "phonetic": "niaoji",
+            "rank": 42215,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄢˋ",
+            "_id": "b52c3c5cad9e180d149ea3518f73311d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "án cần xử lý ngay; vụ án khẩn",
+                            "explain": "需要赶紧处理的案件",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "snym": null,
+            "cn_vi": "cấp án",
+            "pinyin": "jí àn",
+            "word": "急案",
+            "id": 26846,
+            "phonetic": "jian",
+            "rank": 158107,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adv"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄇㄤˊ",
+            "topic": "67, 29, 44",
+            "_id": "44b2934822fc892eebb9d99c9cb1aee3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "ai đó vội vã/vội vàng làm gì",
+                            "examples": [
+                                118006,
+                                118007,
+                                118008
+                            ],
+                            "struct": "Chủ ngữ + 急忙 + Động từ"
+                        },
+                        {
+                            "explain": "vì nguyên nhân gì, A vội vàng/ vội vã làm gì",
+                            "examples": [
+                                118009,
+                                118010
+                            ],
+                            "struct": "Mệnh đề 1, A + 急忙 +..."
+                        }
+                    ],
+                    "kind": "adv",
+                    "means": [
+                        {
+                            "mean": "vội vàng; vội vã; hối hả; hấp tấp",
+                            "explain": "心里着急，行动加快",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy vội vã hoàn thành bài tập về nhà.",
+                                    "p_vn": "anh ay voi va hoan thanh bai tap ve nha.",
+                                    "_id": "641148288b13f4cf43a85133e8cad872",
+                                    "id": 118002,
+                                    "type": "e_cnvi",
+                                    "e": "他急忙完成作业。",
+                                    "p_cn": "ta jimang wancheng zuoye.",
+                                    "p": "tā jímáng wánchéng zuòyè."
+                                },
+                                {
+                                    "m": "Nhìn thấy rắn, cô ấy vội vàng lùi về sau.",
+                                    "p_vn": "nhin thay ran, co ay voi vang lui ve sau.",
+                                    "_id": "641148288b13f4cf43a85133e8cae496",
+                                    "id": 118003,
+                                    "type": "e_cnvi",
+                                    "e": "看到蛇，她急忙后退。",
+                                    "p_cn": "kan dao she, ta jimang houtui.",
+                                    "p": "kàn dào shé, tā jímáng hòutuì."
+                                },
+                                {
+                                    "m": "Anh ấy vội vàng chạy ra ga tàu.",
+                                    "p_vn": "anh ay voi vang chay ra ga tau.",
+                                    "_id": "641148288b13f4cf43a85133e8caecac",
+                                    "id": 118004,
+                                    "type": "e_cnvi",
+                                    "e": "他急忙跑向火车站。",
+                                    "p_cn": "ta jimang pao xiang huoche zhan.",
+                                    "p": "tā jímáng pǎo xiàng huǒchē zhàn."
+                                },
+                                {
+                                    "m": "Trời mưa rồi, chúng tôi vội vã tìm ô.",
+                                    "p_vn": "troi mua roi, chung toi voi va tim o.",
+                                    "_id": "641148288b13f4cf43a85133e8cafb09",
+                                    "id": 118005,
+                                    "type": "e_cnvi",
+                                    "e": "下雨了，我们急忙找伞。",
+                                    "p_cn": "xia yule, women jimang zhao san.",
+                                    "p": "xià yǔle, wǒmen jímáng zhǎo sǎn."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": [
+                {
+                    "mean_vi": "Giống:\n- \"急忙\" và \"匆忙\" có thể sử dụng trùng lặp.\nKhác:\n- \"急忙\" dùng để biểu thị trong tình huống chủ quan chủ thể động tác do vội vã mới tạo ra bận rộn, \"匆忙\" lại thiên về mô tả tình huống khách quan.\n- \"急忙\" không thể được bổ ngữ bởi phó từ chỉ mức độ, không thể nói \"很急忙\"， \"匆忙\" có thể.\n\"急忙\" thường dùng để làm trạng ngữ, không thể làm bổ ngữ của động từ, \"匆忙\" có thể làm trạng ngữ, cũng có thể làm bổ ngữ",
+                    "title": "Phân biệt \"急忙\" và \"匆忙\"",
+                    "words": [
+                        "急忙",
+                        "匆忙"
+                    ]
+                },
+                {
+                    "mean_vi": "\"急忙\" mô tả hành động của con người, \"急切\" có thể mô tả hành động của con người cũng có thể mô tả sự việc.\n\"急忙\" có thể trùng lặp, \"急切\" không thể trùng lặp, hai từ này không thể thay thế cho nhau.",
+                    "title": "Phân biệt \"急忙\" và \"急切\"",
+                    "words": [
+                        "急忙",
+                        "急切"
+                    ]
+                }
+            ],
+            "snym": {
+                "syno": [
+                    "仓促",
+                    "连忙",
+                    "急遽",
+                    "匆匆",
+                    "匆忙",
+                    "急速",
+                    "速即",
+                    "慌忙",
+                    "从速",
+                    "赶忙",
+                    "急切",
+                    "匆促",
+                    "迅速",
+                    "赶紧",
+                    "赶快",
+                    "急促",
+                    "马上",
+                    "即速",
+                    "急足",
+                    "忙急"
+                ],
+                "anto": [
+                    "悠闲",
+                    "从容",
+                    "稳重"
+                ]
+            },
+            "lv_hsk_new": "4, 5",
+            "pinyin": "jímáng",
+            "cn_vi": "cấp mang",
+            "popularity": {
+                "notebook": 262,
+                "search": 4285
+            },
+            "word": "急忙",
+            "id": 26888,
+            "phonetic": "jimang",
+            "rank": 2810,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄗㄠˋ",
+            "_id": "b78b5c13bad87275a8fda4aeb6fcb98c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "Ai/cái gì luống cuống/cuống lên/cuống cuồng. như thế nào",
+                            "examples": [
+                                129677,
+                                129678,
+                                129679
+                            ],
+                            "struct": "Danh từ + Phó từ + 急躁"
+                        }
+                    ],
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "cuống; cuống lên; cuống cuồng; luống cuống",
+                            "explain": "着急不安；遇事不冷静",
+                            "examples": [
+                                {
+                                    "m": "Cô ấy luôn dễ luống cuống.",
+                                    "p_vn": "co ay luon de luong cuong.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5719e89cc",
+                                    "id": 129654,
+                                    "type": "e_cnvi",
+                                    "e": "她总是容易急躁。",
+                                    "p_cn": "ta zong shi rongyi jizao.",
+                                    "p": "tā zǒng shì róngyì jízào."
+                                },
+                                {
+                                    "m": "Gặp chuyện đừng có cuống quá.",
+                                    "p_vn": "gap chuyen dung co cuong qua.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5719e8a43",
+                                    "id": 129655,
+                                    "type": "e_cnvi",
+                                    "e": "遇事不要太急躁。",
+                                    "p_cn": "yu shi buyao tai jizao.",
+                                    "p": "yù shì bùyào tài jízào."
+                                },
+                                {
+                                    "m": "Bạn đừng có cuống lên như vậy.",
+                                    "p_vn": "ban dung co cuong len nhu vay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5719e94c7",
+                                    "id": 129656,
+                                    "type": "e_cnvi",
+                                    "e": "你别那么急躁。",
+                                    "p_cn": "ni bie name jizao.",
+                                    "p": "nǐ bié nàme jízào."
+                                },
+                                {
+                                    "m": "Cô ấy luống cuống làm việc.",
+                                    "p_vn": "co ay luong cuong lam viec.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5719e9a35",
+                                    "id": 129657,
+                                    "type": "e_cnvi",
+                                    "e": "她急躁地做事。",
+                                    "p_cn": "ta jizao de zuoshi.",
+                                    "p": "tā jízào de zuòshì."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "nôn nóng; hấp tấp; nóng nẩy",
+                            "explain": "急于求成而行动不慎重",
+                            "examples": [
+                                {
+                                    "m": "Anh ấy làm việc quá nóng vội.",
+                                    "p_vn": "anh ay lam viec qua nong voi.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5719ee9d1",
+                                    "id": 129667,
+                                    "type": "e_cnvi",
+                                    "e": "他做事太急躁了。",
+                                    "p_cn": "ta zuoshi tai jizaole.",
+                                    "p": "tā zuòshì tài jízàole."
+                                },
+                                {
+                                    "m": "Làm việc đừng nóng vội như vậy.",
+                                    "p_vn": "lam viec dung nong voi nhu vay.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5719eedbf",
+                                    "id": 129668,
+                                    "type": "e_cnvi",
+                                    "e": "工作别这么急躁。",
+                                    "p_cn": "gongzuo bie zheme jizao.",
+                                    "p": "gōngzuò bié zhème jízào."
+                                },
+                                {
+                                    "m": "Hắp tấp dễ mắc sai lầm.",
+                                    "p_vn": "hap tap de mac sai lam.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5719ef003",
+                                    "id": 129669,
+                                    "type": "e_cnvi",
+                                    "e": "急躁容易犯错误。",
+                                    "p_cn": "jizao rongyi fan cuowu.",
+                                    "p": "jízào róngyì fàn cuòwù."
+                                },
+                                {
+                                    "m": "Chúng ta không thể có tâm lý vội vàng.",
+                                    "p_vn": "chung ta khong the co tam ly voi vang.",
+                                    "_id": "b3c6ec0c8f520232d683a7b5719efe1a",
+                                    "id": 129670,
+                                    "type": "e_cnvi",
+                                    "e": "我们不能有急躁心理。",
+                                    "p_cn": "women buneng you jizao xinli.",
+                                    "p": "wǒmen bùnéng yǒu jízào xīnlǐ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 199,
+                "search": 1743
+            },
+            "snym": {
+                "syno": [
+                    "焦灼",
+                    "焦急",
+                    "烦躁",
+                    "焦炙",
+                    "躁急",
+                    "暴燥",
+                    "浮躁",
+                    "焦躁",
+                    "暴躁",
+                    "蛮横",
+                    "躁动",
+                    "焦燥",
+                    "急性",
+                    "交集"
+                ],
+                "anto": [
+                    "耐心",
+                    "冷静",
+                    "稳重",
+                    "平和",
+                    "温和",
+                    "沉着",
+                    "熨帖"
+                ]
+            },
+            "cn_vi": "cấp táo",
+            "pinyin": "jízào",
+            "lv_hsk_new": "6",
+            "word": "急躁",
+            "id": 26917,
+            "phonetic": "jizao",
+            "rank": 6251,
+            "lv_tocfl": 5,
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄏㄨㄤˊㄐㄧˊ",
+            "_id": "07b8f7c0c1e721193805688b2c0d9a61",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "hoảng loạn; hoảng hốt",
+                            "explain": "恐惧慌张",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 4,
+                "search": 10
+            },
+            "snym": null,
+            "cn_vi": "hoàng cấp",
+            "pinyin": "huáng jí",
+            "word": "惶急",
+            "id": 25262,
+            "phonetic": "huangji",
+            "rank": 103057,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧㄥㄐㄧˊ",
+            "_id": "1db72aeab5474b8faff6a7bcb8f27e03",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "choáng váng và lo lắng",
+                            "explain": "stunned and anxious",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 2
+            },
+            "snym": null,
+            "cn_vi": "kinh cấp",
+            "pinyin": "jīng jí",
+            "word": "惊急",
+            "id": 96681,
+            "phonetic": "jingji",
+            "rank": 142675,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄓㄨㄛㄐㄧˊ",
+            "_id": "52769a09c1c24408a3debfe12594fdc1",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "cách phát âm hài hước của 著急 | 着急",
+                            "explain": "humorous pronunciation of 著急|着急 [zháo jí]",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 3,
+                "search": 56
+            },
+            "snym": null,
+            "cn_vi": "tróc cấp",
+            "pinyin": "zhuō jí",
+            "word": "捉急",
+            "id": 96955,
+            "phonetic": "zhuoji",
+            "rank": 54917,
+            "kind": [
+                "v"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "adj"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˊㄐㄧㄣˋ",
+            "_id": "50ebccebf2ec4f23afb19b72de133d34",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "adj",
+                    "means": [
+                        {
+                            "mean": "cấp tiến",
+                            "explain": "急于改革和进取",
+                            "examples": [
+                                {
+                                    "m": "phái cấp tiến.",
+                                    "p_vn": "phai cap tien",
+                                    "_id": "5b7800e708131c39898d1c928ec1fb2e",
+                                    "id": 19490,
+                                    "type": "e_cnvi",
+                                    "e": "急进派。",
+                                    "p_cn": "jijin pai",
+                                    "p": "jíjìnpài。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "tiến nhanh về phía trước",
+                            "explain": "快速前进",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 9
+            },
+            "snym": {
+                "syno": [
+                    "速度"
+                ],
+                "anto": [
+                    "保守",
+                    "稳健",
+                    "渐进",
+                    "开明"
+                ]
+            },
+            "cn_vi": "cấp tiến",
+            "pinyin": "jíjìn",
+            "word": "急进",
+            "id": 26873,
+            "phonetic": "jijin",
+            "rank": 107596,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "kind": [
+                "n",
+                "v"
+            ],
+            "measure": null,
+            "topic": "39",
+            "zhuyin": "ㄐㄧˊㄋㄢˊ",
+            "_id": "bae05f4c5b0ddfd3ac52768d5a946e3c",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "书",
+                    "means": [
+                        {
+                            "mean": "cứu cấp; cứu nguy; cứu giúp; cấp nạn",
+                            "explain": "热心地帮助别人摆脱患难",
+                            "examples": [
+                                {
+                                    "m": "giúp nguy cứu nạn.",
+                                    "p_vn": "giup nguy cuu nan",
+                                    "_id": "c14fd7852c6de05e2cf826e17cb0758b",
+                                    "id": 19495,
+                                    "type": "e_cnvi",
+                                    "e": "扶危急难。",
+                                    "p_cn": "fu weiji nan",
+                                    "p": "fú wēijí nán。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 38
+            },
+            "snym": null,
+            "cn_vi": "cấp nạn",
+            "pinyin": "jínàn",
+            "word": "急难",
+            "id": 26889,
+            "phonetic": "jinan",
+            "rank": 65090,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3da07e01b73f4358a14a0989b40841d3",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "Nhan miệng, đối đáp mau lẹ; khẩu cấp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 0,
+                "search": 1
+            },
+            "snym": null,
+            "cn_vi": "khẩu cấp",
+            "pinyin": "kǒu jí",
+            "word": "口急",
+            "id": 169705,
+            "phonetic": "kouji",
+            "rank": 155065,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "v"
+            ],
+            "measure": null,
+            "zhuyin": "ㄓㄡㄐㄧˊ",
+            "_id": "8fbf241c0c65d4c67184d19063cb9a3f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "v",
+                    "means": [
+                        {
+                            "mean": "chu cấp; cứu trợ",
+                            "explain": "救济他人急难",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 16
+            },
+            "snym": null,
+            "cn_vi": "chu cấp",
+            "pinyin": "zhōu jí",
+            "word": "周急",
+            "id": 65382,
+            "phonetic": "zhouji",
+            "rank": 89488,
+            "lv_tocfl": null,
+            "compound": null
+        }
+    ],
+    "query": "急"
+}

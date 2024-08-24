@@ -1,0 +1,717 @@
+{
+    "total": 12,
+    "found": true,
+    "result": [
+        {
+            "kind": [
+                "numb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄚˇ",
+            "_id": "527c81b3813c905f9ca85832560cad5d",
+            "type": "cnvi",
+            "content": [
+                {
+                    "structs": [
+                        {
+                            "explain": "",
+                            "examples": [
+                                78350,
+                                92787
+                            ],
+                            "struct": "俩 + Danh từ (人，孩子，苹果/钟头)"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                92788,
+                                92789
+                            ],
+                            "struct": "Đại từ/Danh từ (我/你/他/我们//你们/他们//咱/哥/姐/兄弟/姐妹/母女/夫妻）+ 俩"
+                        },
+                        {
+                            "explain": "",
+                            "examples": [
+                                92793,
+                                92794
+                            ],
+                            "struct": "吃/来/走/要/照顾）+ 俩"
+                        }
+                    ],
+                    "kind": "numb",
+                    "means": [
+                        {
+                            "mean": "hai; đôi",
+                            "explain": "两个",
+                            "examples": [
+                                {
+                                    "m": "Tất cả có năm cái, tôi ăn hết hai cái, anh ấy ăn hết ba cái.",
+                                    "p_vn": "tat ca co nam cai, toi an het hai cai, anh ay an het ba cai.",
+                                    "_id": "ca1b77f8a6cff476b1b759b28f894a1a",
+                                    "id": 25689,
+                                    "type": "e_cnvi",
+                                    "e": "一共五个，我吃了俩，他吃了三。",
+                                    "p_cn": "yigong wuge，wo chi le lia，ta chi le san。",
+                                    "p": "yīgòng wǔgè，wǒ chī le liǎ，tā chī le sān。"
+                                },
+                                {
+                                    "m": "Hai chúng tôi cao xấp xỉ nhau.",
+                                    "p_vn": "hai chung toi cao xap xi nhau.",
+                                    "_id": "ac7be255046819fca3400540634829c6",
+                                    "id": 74727,
+                                    "type": "e_cnvi",
+                                    "e": "我们俩差不多高。",
+                                    "p_cn": "women lia chabuduo gao",
+                                    "p": "wǒmen liǎ chàbùduō gāo"
+                                },
+                                {
+                                    "m": "Cả hai bạn đều kết hôn rồi à?",
+                                    "p_vn": "ca hai ban deu ket hon roi a?",
+                                    "_id": "f2efc94449b26b3e2967bccbc91f64d7",
+                                    "id": 92775,
+                                    "type": "e_cnvi",
+                                    "e": "你们俩都结婚了吗？",
+                                    "p_cn": "nimen lia dou jiehunle ma?",
+                                    "p": "nǐmen liǎ dōu jiéhūnle ma?"
+                                },
+                                {
+                                    "m": "Ở kia có hai người đang đi dạo.",
+                                    "p_vn": "o kia co hai nguoi dang di dao.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91f706f",
+                                    "id": 92778,
+                                    "type": "e_cnvi",
+                                    "e": "那儿有俩人在散步。",
+                                    "p_cn": "nar you lia ren zai sanbu.",
+                                    "p": "nàr yǒu liǎ rén zài sànbù."
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "vài cái; không nhiều",
+                            "explain": "不多;几个",
+                            "examples": [
+                                {
+                                    "m": "Ngay cả chỉ có vài đồng thôi cũng không được dùng phí phạm.",
+                                    "p_vn": "ngay ca chi co vai dong thoi cung khong duoc dung phi pham.",
+                                    "_id": "7dc9353ebbb448e73004d15f4badec01",
+                                    "id": 25690,
+                                    "type": "e_cnvi",
+                                    "e": "就是有俩钱儿，也不能乱花呀。",
+                                    "p_cn": "jiushi you lia qianr，ye buneng luanhua ya。",
+                                    "p": "jìushì yǒu liǎ qiánr，yě bùnéng luànhuā yā。"
+                                },
+                                {
+                                    "m": "Tất cả chỉ có bấy nhiêu người thôi, e rằng vẫn không đủ.",
+                                    "p_vn": "tat ca chi co bay nhieu nguoi thoi, e rang van khong du.",
+                                    "_id": "32806f1be58c31dd3d31959a2d6d86c2",
+                                    "id": 25691,
+                                    "type": "e_cnvi",
+                                    "e": "一共只有这么俩人， 恐怕还不够。",
+                                    "p_cn": "yigong zhiyou zheme lia ren, kongpa hai bugou.",
+                                    "p": "yīgòng zhǐyǒu zhème liǎ rén, kǒngpà hái bùgòu."
+                                },
+                                {
+                                    "m": "Tôi xào vài món cho các bạn nếm thử tay nghề của tôi.",
+                                    "p_vn": "toi xao vai mon cho cac ban nem thu tay nghe cua toi.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91f929b",
+                                    "id": 92782,
+                                    "type": "e_cnvi",
+                                    "e": "我炒俩菜让你们尝尝我的手艺。",
+                                    "p_cn": "wo chao lia cai rang nimen chang chang wo de shouyi.",
+                                    "p": "wǒ chǎo liǎ cài ràng nǐmen cháng cháng wǒ de shǒuyì."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 512,
+                "search": 9737
+            },
+            "snym": null,
+            "lv_hsk_new": 4,
+            "pinyin": "liǎ",
+            "cn_vi": "lưỡng",
+            "word": "俩",
+            "id": 34695,
+            "phonetic": "lia",
+            "rank": 1042,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "kind": [
+                "numb"
+            ],
+            "measure": null,
+            "zhuyin": "ㄌㄧㄚˇ",
+            "_id": "ccf9a3fdbd2941c416478c6379455803",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "numb",
+                    "means": [
+                        {
+                            "mean": "mánh khóe; thủ đoạn; trò",
+                            "explain": "伎俩：不正当的手段",
+                            "examples": [
+                                {
+                                    "m": "Thủ đoạn lừa người.",
+                                    "p_vn": "thu doan lua nguoi.",
+                                    "_id": "cb8fbd4352be39333c97cfef157f0acb",
+                                    "id": 25692,
+                                    "type": "e_cnvi",
+                                    "e": "骗人的俩。",
+                                    "p_cn": "pianren de liang。",
+                                    "p": "piànrén de liǎng。"
+                                },
+                                {
+                                    "m": "Đây là thủ đoạn thường dùng của anh ấy.",
+                                    "p_vn": "day la thu doan thuong dung cua anh ay.",
+                                    "_id": "f2efc94449b26b3e2967bccbc91ff281",
+                                    "id": 92797,
+                                    "type": "e_cnvi",
+                                    "e": "这是他惯用的伎俩。",
+                                    "p_cn": "zhe shi ta guanyong de jiliang.",
+                                    "p": "zhè shì tā guànyòng de jìliǎng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 512,
+                "search": 9737
+            },
+            "snym": null,
+            "lv_hsk_new": "4",
+            "pinyin": "liǎng",
+            "cn_vi": "lưỡng",
+            "word": "俩",
+            "id": 34696,
+            "phonetic": "liang",
+            "rank": 1043,
+            "lv_tocfl": 4,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "3a1bb7dffb0c44f3b588ed6edf90711b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "pro",
+                    "means": [
+                        {
+                            "mean": "đôi ta",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Đây là lần đầu tiên cả hai chúng tôi đi du lịch bằng đường biển.",
+                                    "p_vn": "day la lan dau tien ca hai chung toi di du lich bang duong bien.",
+                                    "_id": "48dea68597710122246358c68e86d5a3",
+                                    "id": 83714,
+                                    "type": "e_cnvi",
+                                    "e": "我俩都是平生第一次去海上旅游。",
+                                    "p_cn": "wo lia dou shi pingsheng di yi ci qu haishang lǚyou.",
+                                    "p": "wǒ liǎ dōu shì píngshēng dì yī cì qù hǎishàng lǚyóu."
+                                },
+                                {
+                                    "m": "Chúng ta đã hẹn ngày mai đi xin giấy đăng ký kết hôn!",
+                                    "p_vn": "chung ta da hen ngay mai di xin giay dang ky ket hon!",
+                                    "_id": "90485b0517134932b77d6d89ac6608c0",
+                                    "id": 76387,
+                                    "type": "e_cnvi",
+                                    "e": "我俩约好了，明天去申领结婚证！",
+                                    "p_cn": "wo lia yue haole, mingtian qu shen ling jiehun zheng!",
+                                    "p": "wǒ liǎ yuē hǎole, míngtiān qù shēn lǐng jiéhūn zhèng!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "ngã lưỡng",
+            "pinyin": "wǒ liǎ",
+            "popularity": {
+                "notebook": 2,
+                "search": 43
+            },
+            "word": "我俩",
+            "id": 175080,
+            "phonetic": "wolia",
+            "rank": 61642,
+            "kind": [
+                "pro"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄌㄧㄚˇㄑㄧㄢˊ",
+            "_id": "8d5126f535c14f289e5269f06530eb0b",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "một số tiền nhỏ",
+                            "explain": "a small amount of money",
+                            "examples": [
+                                {
+                                    "m": "Ngay cả chỉ có vài đồng thôi cũng không được dùng phí phạm.",
+                                    "p_vn": "ngay ca chi co vai dong thoi cung khong duoc dung phi pham.",
+                                    "_id": "7dc9353ebbb448e73004d15f4badec01",
+                                    "id": 25690,
+                                    "type": "e_cnvi",
+                                    "e": "就是有俩钱儿，也不能乱花呀。",
+                                    "p_cn": "jiushi you lia qianr，ye buneng luanhua ya。",
+                                    "p": "jìushì yǒu liǎ qiánr，yě bùnéng luànhuā yā。"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "hai bit",
+                            "explain": "two bits",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 58
+            },
+            "snym": null,
+            "cn_vi": "lưỡng tiền",
+            "pinyin": "liǎ qián",
+            "word": "俩钱",
+            "id": 101360,
+            "phonetic": "liaqian",
+            "rank": 54247,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄌㄧㄚˇ",
+            "_id": "7de5d5d34a9b64ecc474452374bf1778",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "ngón; mánh khoé; trò; thủ đoạn; ngón trò",
+                            "explain": "不正当的手段; 狡诈的计策",
+                            "examples": [
+                                {
+                                    "m": "trò lừa đảo người.",
+                                    "p_vn": "tro lua dao nguoi.",
+                                    "_id": "aa6d4d4fda82dfb94a074a56abbf0d83",
+                                    "id": 19678,
+                                    "type": "e_cnvi",
+                                    "e": "欺骗人的伎俩。",
+                                    "p_cn": "qipian ren de jiliang.",
+                                    "p": "qīpiàn rén de jìliǎng."
+                                },
+                                {
+                                    "m": "thủ đoạn quen dùng.",
+                                    "p_vn": "thu doan quen dung.",
+                                    "_id": "5cbc5f1b2f5df79bc0cdfd6abbb7d416",
+                                    "id": 19679,
+                                    "type": "e_cnvi",
+                                    "e": "惯用的伎俩。",
+                                    "p_cn": "guanyong de jiliang.",
+                                    "p": "guànyòng de jìliǎng."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 55,
+                "search": 390
+            },
+            "snym": {
+                "syno": [
+                    "技巧",
+                    "本事",
+                    "花招",
+                    "手段",
+                    "手法",
+                    "手腕",
+                    "本领",
+                    "花样",
+                    "方法",
+                    "明堂"
+                ],
+                "anto": [
+                    "手腕"
+                ]
+            },
+            "cn_vi": "kĩ lưỡng",
+            "pinyin": "jìliǎng",
+            "word": "伎俩",
+            "id": 27182,
+            "phonetic": "jiliang",
+            "rank": 18758,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄗㄢˊㄌㄧㄚˇ",
+            "_id": "816a1a6f281d4581bf1ed8a9d2559aad",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "",
+                    "means": [
+                        {
+                            "mean": "hai người chúng ta",
+                            "explain": "the two of us",
+                            "examples": [
+                                {
+                                    "m": "Hãy nhìn hai chúng ta.",
+                                    "p_vn": "Hay nhin hai chung ta.",
+                                    "_id": "cae5bca9e9d64aa38b2aee8672a9f695",
+                                    "id": 57581,
+                                    "type": "e_cnvi",
+                                    "e": "看看咱俩",
+                                    "p_cn": "kankan zanlia",
+                                    "p": "kànkàn zánliǎ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 33,
+                "search": 311
+            },
+            "snym": null,
+            "cn_vi": "ta lưỡng",
+            "pinyin": "zán liǎ",
+            "word": "咱俩",
+            "id": 95602,
+            "phonetic": "zanlia",
+            "rank": 21644,
+            "kind": [
+                "pro",
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄐㄧˋㄌㄧㄚˇ",
+            "_id": "5eda394332964cdc95a1252db07a05c7",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "mánh lới quảng cáo",
+                            "explain": "gimmick",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mưu đồ",
+                            "explain": "ploy",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mưu mẹo",
+                            "explain": "ruse",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kế hoạch",
+                            "explain": "scheme",
+                            "examples": []
+                        },
+                        {
+                            "mean": "kỹ năng",
+                            "explain": "skill",
+                            "examples": []
+                        },
+                        {
+                            "mean": "mưu kế",
+                            "explain": "stratagem",
+                            "examples": []
+                        },
+                        {
+                            "mean": "chiến thuật",
+                            "explain": "tactic",
+                            "examples": []
+                        },
+                        {
+                            "mean": "lừa",
+                            "explain": "trick",
+                            "examples": [
+                                {
+                                    "m": "Tôi không bao giờ sử dụng cùng một thủ thuật hai lần.",
+                                    "p_vn": "Toi khong bao gio su dung cung mot thu thuat hai lan.",
+                                    "_id": "2e87a3c4852c4838a11ecdf5db8bce37",
+                                    "id": 65064,
+                                    "type": "e_cnvi",
+                                    "e": "同一个技俩我不用两次",
+                                    "p_cn": "tongyige jilia wo buyong liangci",
+                                    "p": "tóngyīgè jìliǎ wǒ bùyòng liǎngcì"
+                                }
+                            ]
+                        },
+                        {
+                            "mean": "thủ đoạn",
+                            "explain": "trickery",
+                            "examples": []
+                        },
+                        {
+                            "mean": "thường được viết 伎倆 | 伎俩",
+                            "explain": "usually written 伎倆|伎俩",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 27
+            },
+            "snym": null,
+            "cn_vi": "kỹ lưỡng",
+            "pinyin": "jì liǎ",
+            "word": "技俩",
+            "id": 103049,
+            "phonetic": "jilia",
+            "rank": 73811,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "n"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄥㄇㄨˇㄌㄧㄚˇ",
+            "_id": "bf39386b7486ea7b33db1d388ddcd65f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "hai vợ chồng; hai ông bà",
+                            "explain": "夫妻二人",
+                            "examples": [
+                                {
+                                    "m": "Tình cảm của hai vợ chồng già thật đằm thắm.",
+                                    "p_vn": "tinh cam cua hai vo chong gia that dam tham.",
+                                    "_id": "5acd6321ceebf72606eb6ebdbcce2282",
+                                    "id": 14022,
+                                    "type": "e_cnvi",
+                                    "e": "老公母俩的感情可真好。",
+                                    "p_cn": "laogong mulia de ganqing kezhen hao。",
+                                    "p": "lǎogōng mǔliǎ de gǎnqíng kězhēn hǎo。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 17
+            },
+            "snym": null,
+            "cn_vi": "công mẫu lưỡng",
+            "pinyin": "gōng mu liǎ",
+            "word": "公母俩",
+            "id": 19669,
+            "phonetic": "gongmulia",
+            "rank": 87864,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "882c1d78ae934cb5bda4fda49083d370",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "n",
+                    "means": [
+                        {
+                            "mean": "cặp díp",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": null,
+            "cn_vi": "nhất khoái giáp lưỡng",
+            "pinyin": "yī kuài jiā liǎ",
+            "popularity": {
+                "notebook": 0,
+                "search": 0
+            },
+            "word": "一筷夹俩",
+            "id": 178175,
+            "phonetic": "yikuaijialia",
+            "rank": 158107,
+            "kind": [
+                "n"
+            ],
+            "compound": null
+        },
+        {
+            "measure": null,
+            "topic": "",
+            "_id": "54431980707c478bb0731361f01685bb",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "ba quả dưa và hai quả chà là; chỉ những cái nhỏ nhặt; không đáng kể",
+                            "explain": "",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "compare": null,
+            "snym": {
+                "anto": [
+                    "一毛不拔"
+                ]
+            },
+            "cn_vi": "ta qua lưỡng táo",
+            "pinyin": "sā guā liǎ zǎo",
+            "popularity": {
+                "notebook": 1,
+                "search": 0
+            },
+            "word": "仨瓜俩枣",
+            "id": 184980,
+            "phonetic": "sagualiazao",
+            "rank": 158590,
+            "kind": [
+                "idioms"
+            ],
+            "compound": null
+        },
+        {
+            "kind": [
+                "idioms"
+            ],
+            "measure": null,
+            "zhuyin": "ㄍㄨㄟˇㄩˋㄐㄧˋㄌㄧㄚˇ",
+            "_id": "cf3ce4df994e5361f2920a68823950d6",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "idioms",
+                    "means": [
+                        {
+                            "mean": "mưu mẹo nham hiểm; trò nham hiểm",
+                            "explain": "蜮是一种名叫短狐的虫指鬼蜮能害人比喻作恶之人以阴险的手腕陷害他人",
+                            "examples": []
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 7
+            },
+            "snym": {
+                "syno": [
+                    "居心叵测",
+                    "鬼魅伎俩",
+                    "心怀鬼胎",
+                    "阴谋诡计"
+                ],
+                "anto": [
+                    "光明磊落",
+                    "光明正大",
+                    "襟怀坦白"
+                ]
+            },
+            "cn_vi": "quỷ vực kĩ lưỡng",
+            "pinyin": "guǐyù jìliǎng",
+            "word": "鬼蜮伎俩",
+            "id": 21603,
+            "phonetic": "guiyujiliang",
+            "rank": 115568,
+            "lv_tocfl": null,
+            "compound": null
+        },
+        {
+            "measure": null,
+            "zhuyin": "ㄧㄠˋㄅㄨˋㄊㄚㄇㄣ˙ㄌㄧㄚˇㄋㄢˊㄉㄜ˙ㄔㄠˇㄑㄧˇㄌㄞˊ",
+            "_id": "f1b7029b6763412b897697db1e376b5f",
+            "type": "cnvi",
+            "content": [
+                {
+                    "kind": "sentence",
+                    "means": [
+                        {
+                            "mean": "Nếu không hai người họ lại cãi nhau mất",
+                            "explain": "",
+                            "examples": [
+                                {
+                                    "m": "Anh về nhà nhanh đi, nếu không hai người họ cãi nhau mất.",
+                                    "p_vn": "Anh ve nha nhanh di, neu khong hai nguoi ho cai nhau mat.",
+                                    "_id": "276eccbe3d634e3f9c166869685b2c95",
+                                    "id": 54772,
+                                    "type": "e_cnvi",
+                                    "e": "你尽快回家，要不他们俩难得吵起来",
+                                    "p_cn": "Ni jinkuai hui jia, yao bu tamen lia nande chao qilai",
+                                    "p": "Nǐ jǐnkuài huí jiā, yào bù tāmen liǎ nándé chǎo qǐlái"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "popularity": {
+                "notebook": 1,
+                "search": 12
+            },
+            "snym": null,
+            "cn_vi": "yếu bất tha môn lưỡng nan đắc sảo khởi lai",
+            "pinyin": "yào bù tāmen liǎ nándé chǎo qǐlái",
+            "word": "要不他们俩难得吵起来",
+            "id": 84050,
+            "phonetic": "yaobutamenlianandechaoqilai",
+            "rank": 97396,
+            "kind": [
+                "sentence"
+            ],
+            "compound": null
+        }
+    ],
+    "query": "俩"
+}
